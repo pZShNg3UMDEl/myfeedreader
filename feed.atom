@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T20:50:23.926Z</updated>
+    <updated>2023-12-28T21:18:11.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[円相場 一時140円台前半に値上がり 5か月ぶり円高ドル安水準]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303111000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303111000.html"/>
+        <updated>2023-12-28T21:13:42.000Z</updated>
+        <summary type="html"><![CDATA[28日のニューヨーク外国為替市場ではアメリカで来年、早期に利下げが行われるとの見方からドル売り円買いが進み、円相場は一時、1ドル＝140円台前半まで値上がりして5か月ぶりの円高ドル安水準となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル ガザ地区南部の病院付近砲撃 10人死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303031000.html"/>
+        <updated>2023-12-28T21:12:26.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍は地上侵攻を拡大したガザ地区の中部に加え南部でも攻勢を強め、28日、大勢の避難民が身を寄せる病院付近が砲撃にさらされて10人が死亡し、犠牲者の数がこれまでに2万1300人を超えるなど、状況は悪化の一途をたどっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【中国】　河野太郎が「中国の犬」と書かれ激怒　一般人を訴えてしまうｗｗｗ]]></title>
         <id>https://itainews.com/archives/2031710.html</id>
