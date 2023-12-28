@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T20:18:59.288Z</updated>
+    <updated>2023-12-28T20:37:04.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -252,6 +252,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20231228/k10014302881000.html"/>
         <updated>2023-12-28T11:38:32.000Z</updated>
         <summary type="html"><![CDATA[28日午後、静岡市清水区の携帯電話の販売店に軽乗用車が突っ込み、店内にいた女性客と従業員の合わせて2人が重軽傷を負いました。警察は、車を運転していた70代のドライバーが運転操作を誤ったとみて、事故の詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路線バスと乗用車が衝突事故 計8人が軽いけが 北海道 美瑛町]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231228/k10014302791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231228/k10014302791000.html"/>
+        <updated>2023-12-28T11:09:30.000Z</updated>
+        <summary type="html"><![CDATA[28日夕方、北海道美瑛町の道道で温泉地などに向かう路線バスと乗用車が衝突して、バスの乗客など合わせて8人が軽いけがをしました。警察が事故の詳しい状況を調べています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
