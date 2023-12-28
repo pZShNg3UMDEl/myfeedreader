@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120339/",
+          "author": null,
+          "description": "「キン肉マン」アニメシリーズ最新作「完璧超人始祖（パーフェクト・オリジン）」編のキャスト第1弾が発表され、キン肉マンを宮野真守が担当することがわかった。さらに、旧アニメ版でキン肉マンを演じた神谷...",
+          "link": "https://anime.eiga.com/news/120339/",
+          "publishedOn": "2023-12-28T15:00:00.000Z",
+          "wordCount": 707,
+          "title": "「キン肉マン」アニメ最新作、宮野真守が“新・キン肉マン”に　“初代”神谷明はキン肉真弓など2役で出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120237/",
           "author": null,
           "description": "アニメーションスタジオ、イルミネーションの新作「FLY! フライ！」の日本語吹き替え版に、堺雅人、麻生久美子、ヒコロヒー、黒川想矢、池村碧彩が参加していることがわかった。あわせて、吹き替え版の予...",
@@ -925,6 +940,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20231229/k10014302941000.html",
+          "author": null,
+          "description": "秋篠宮ご夫妻の次女の佳子さまは、29日に29歳の誕生日を迎えられました。",
+          "link": "http://www3.nhk.or.jp/news/html/20231229/k10014302941000.html",
+          "publishedOn": "2023-12-28T15:00:18.000Z",
+          "wordCount": 500,
+          "title": "佳子さま きょう29歳の誕生日",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014302941_2312281934_1228225224_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20231228/k10014303071000.html",
           "author": null,
