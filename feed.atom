@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T22:50:29.368Z</updated>
+    <updated>2023-12-28T23:23:30.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国連 グテーレス事務総長 “分断を乗り越えて団結を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303141000.html"/>
+        <updated>2023-12-28T23:04:02.000Z</updated>
+        <summary type="html"><![CDATA[国連のグテーレス事務総長は28日、2024年を迎えるのを前にビデオメッセージを出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全国の公立学校で3000人余の教員不足 教職員組合が調査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231229/k10014302921000.html</id>
