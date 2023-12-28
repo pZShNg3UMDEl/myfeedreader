@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120331/",
+          "author": null,
+          "description": "1月12日に公開される劇場アニメ「傷物語 こよみヴァンプ」の1週目来場者特典が、キャラクターデザインの守岡英行による描き下ろしA4ビジュアルボードに決定した。 「傷物語」は、西尾維新氏の伝奇小説...",
+          "link": "https://anime.eiga.com/news/120331/",
+          "publishedOn": "2023-12-28T10:00:00.000Z",
+          "wordCount": 725,
+          "title": "「傷物語　こよみヴァンプ」1週目来場者特典はA4ビジュアルボード　舞台挨拶のライブビューイングを開催",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120332/",
           "author": null,
           "description": "宮崎駿監督が初監督を務めたテレビアニメ「未来少年コナン」が舞台化され、2024年5、6月に東京芸術劇場プレイハウスで上演されることが発表された。東京公演後、ツアー公演も予定されている。 「舞台『...",
@@ -312,6 +327,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96596",
+          "author": "SWITCH速報",
+          "description": "1: 2023/12/28(木) 10:29:38.96 ID:7jv+g69x0 なんで今更2なの […]",
+          "link": "https://switchsoku.com/soft/xenoblade2/96596",
+          "publishedOn": "2023-12-28T10:00:18.000Z",
+          "wordCount": 10045,
+          "title": "任天堂「新春セールでゼノブレイド2をセールします」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/zPuO93Eg.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=96589",
           "author": "SWITCH速報",
@@ -851,6 +876,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20231228/k10014302891000.html",
+          "author": null,
+          "description": "13年前、福岡県大木町で元警察官の男性が拳銃で撃たれて大けがをし、指定暴力団・道仁会の幹部ら3人が逮捕された事件で、男性は、当時、道仁会と対立抗争中だった別の暴力団の幹部と間違えられて撃たれたとみられることが分かりました。検察は28日、3人を殺人未遂の罪で起訴しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20231228/k10014302891000.html",
+          "publishedOn": "2023-12-28T10:03:57.000Z",
+          "wordCount": 1140,
+          "title": "福岡 13年前の元警察官銃撃事件 暴力団幹部と間違えられたか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231228/K10014302891_2312281839_1228190131_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20231228/k10014302421000.html",
+          "author": null,
+          "description": "新型コロナウイルスの「JN.1」（ジェイエヌ・ワン）と呼ばれる新たな変異ウイルスが世界的に拡大し、日本でも広がりを見せています。WHO＝世界保健機関はほかの変異ウイルスより重症化のリスクが高いという報告はないとしてますが、専門家は「JN.1の割合が増えている国の中には感染者数が急増しているところもある。国内でも感染者が増えることを想定し、対策をしてほしい」と話しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20231228/k10014302421000.html",
+          "publishedOn": "2023-12-28T09:39:01.000Z",
+          "wordCount": 627,
+          "title": "コロナ 新変異ウイルス「JN.1」検出急増 年末年始に感染対策を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231228/K10014302421_2312281828_1228182925_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20231228/k10014302821000.html",
+          "author": null,
+          "description": "去年8月、北九州市の旦過市場の一帯で40棟以上が焼けた大規模火災で、警察は、火元の飲食店の当時の経営者が、加熱中の油を注視せずちゅう房から離れたことが火災につながったとして、業務上失火の疑いで書類送検しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20231228/k10014302821000.html",
+          "publishedOn": "2023-12-28T09:29:00.000Z",
+          "wordCount": 795,
+          "title": "旦過市場火災 当時の飲食店経営者 業務上失火疑いで書類送検",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231228/K10014302821_2312281819_1228182902_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20231228/k10014302441000.html",
           "author": null,
           "description": "準備の遅れが指摘されている2025年の大阪・関西万博の工事をめぐり、建設業界の団体が全国の企業に対し、工事に参画する意向があるか調査した結果、9割近くが「興味はない」と回答していたことがわかりました。専門家は、状況が見えず、不確実性が高いと受け止められていることの表れだと指摘しています。",
@@ -927,6 +982,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=231362",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「サーティワンアイスクリーム（31アイスクリーム）」の新商品「ラブポーションサーティワンフォーエバー」を世界一詳しく調査しまし […]",
+          "link": "https://foodfighter.jp/31ice-love-potion-forever",
+          "publishedOn": "2023-12-28T10:24:17.000Z",
+          "wordCount": 1879,
+          "title": "【サーティワンアイスクリーム】ラブポーションサーティワンフォーエバー【新作フレーバー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2023/12/408029ec3e4af19fe0c3c0ad95f04632.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=231340",
           "author": "foodfighter",
@@ -1675,6 +1740,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031671.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：ばーど ★：2023/12/27(水) 16:33:21.22 ID:Sh6LEugF9.net\n\n\n\n\n\n\n\n\n\n”やかましい”と戦闘機の飛行差し止めと約26億8000万円の損害賠償など求め提訴 | 石川テレビニュース | 石川テレビ放送 https://t.co/urkodRb5ng https://t.co/b0u9UWN2uW— 飛行機ちゃんねる (@a...",
+          "link": "https://itainews.com/archives/2031671.html",
+          "publishedOn": "2023-12-28T10:01:02.000Z",
+          "wordCount": 2443,
+          "title": "【石川】”やかましい”と戦闘機の飛行差し止めと約26億8000万円の損害賠償など求め提訴　小松基地周辺の住民ら",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/9/d9d06b00-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031670.html",
           "author": "yonepo665sfr",
