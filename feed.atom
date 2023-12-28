@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T23:36:35.089Z</updated>
+    <updated>2023-12-28T23:50:18.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デンマーク・フランスの海運大手 一部で紅海を通る運航再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303121000.html"/>
+        <updated>2023-12-28T23:43:14.000Z</updated>
+        <summary type="html"><![CDATA[イエメンの反政府勢力、フーシ派による船舶への攻撃の影響で、紅海を経由する海上輸送を一時停止する動きが続くなか、デンマークやフランスの海運大手は、一部で紅海を通る運航の再開を発表しました。商船を守るためアメリカが主導した有志連合の活動開始を受けての再開だとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国連 グテーレス事務総長 “分断を乗り越えて団結を”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231229/k10014303141000.html</id>
