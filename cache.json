@@ -966,6 +966,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20231229/k10014303161000.html",
+          "author": null,
+          "description": "JR総武快速線は、千葉県船橋市の船橋駅で人身事故が起きたため、東京駅と千葉駅の間の上下線で運転を見合わせていましたが、午前6時30分ごろ運転を再開しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20231229/k10014303161000.html",
+          "publishedOn": "2023-12-28T21:43:57.000Z",
+          "wordCount": 638,
+          "title": "JR総武快速線 運転再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014303161_2312290642_1229064345_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20231229/k10014303151000.html",
           "author": null,
           "description": "JR総武快速線は、午前5時45分ごろ千葉県船橋市の船橋駅で人身事故が起きたため、東京駅と千葉駅の間の上下線で運転を見合わせています。",
@@ -1222,6 +1232,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=231383",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、今月中に実食調査し、2023年12月29日時点で販売中のチェーン店の肉グルメ（全10種類）を美味しい・おすすめ順に […]",
+          "link": "https://foodfighter.jp/niku-ranking-2023-1229",
+          "publishedOn": "2023-12-28T21:37:43.000Z",
+          "wordCount": 1831,
+          "title": "【肉の日】チェーン店の美味しい・おすすめグルメランキング【2023年12月29日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2023/12/13a60ebd0a44db0f5b58a9e3b3bfd624-rotated.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=231362",
           "author": "foodfighter",
