@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T15:37:14.660Z</updated>
+    <updated>2023-12-29T15:50:28.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -138,6 +138,16 @@ A high-rise building is on fire in Odesa due to Russia's attack. pic.twitter.com
         <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303531000.html"/>
         <updated>2023-12-29T10:57:23.000Z</updated>
         <summary type="html"><![CDATA[中国の国営メディアは、全人代＝全国人民代表大会の常務委員会が29日、中国海軍トップの司令官を務めた董軍氏を新しい国防相に任命したと伝えました。前任の李尚福国防相は、2か月近く動静が途絶えたあと、ことし10月に解任され、7月の秦剛前外相に続いて重要閣僚が就任から1年もたたずに解任される異例の事態となっていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年末年始 生活困窮者を支援 弁当や日用品など提供]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303511000.html"/>
+        <updated>2023-12-29T10:24:50.000Z</updated>
+        <summary type="html"><![CDATA[都内では年末年始の時期に生活に苦しむ人に弁当を配布する支援活動が行われています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
