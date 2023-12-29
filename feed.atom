@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T09:21:35.078Z</updated>
+    <updated>2023-12-29T09:36:07.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東証で大納会 株価上昇継続を祈念 年末では34年ぶりの水準に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303421000.html"/>
+        <updated>2023-12-29T09:19:36.000Z</updated>
+        <summary type="html"><![CDATA[東京証券取引所で1年の取り引きを締めくくる「大納会」が開かれました。ことしの日経平均株価の終値は3万3000円台と、年末としては1989年以来の水準となり、出席した証券関係者らが来年も株価の上昇が続くことを祈念しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「研ナオコさんが70歳で自宅死去 葬儀では数千人が涙」は誤り　YouTube見てビックリした]]></title>
         <id>https://itainews.com/archives/2031726.html</id>
