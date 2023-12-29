@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/120335/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 お正月休みがはじまる今週末は、本日...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/120335/",
+          "publishedOn": "2023-12-29T08:30:00.000Z",
+          "wordCount": 880,
+          "title": "【年末年始・1月最新版 入場特典リスト】本日公開「ムーミン」に注目　「翔んで埼玉」応援上映でツッコミグッズ配布",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120318/",
           "author": null,
           "description": "12月31日から2024年1月3日の4日間、NHK Eテレで、アニメ「響け！ユーフォニアム」劇場版4作が地上波初放送される。 京都アニメーション制作の「響け！ユーフォニアム」シリーズは、武田綾乃...",
@@ -1020,6 +1035,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20231229/k10014303471000.html",
+          "author": null,
+          "description": "ロシアによる軍事侵攻が続くウクライナでは29日、ロシア軍が首都キーウや東部の都市ハルキウなど各地を一斉にミサイルなどで攻撃しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20231229/k10014303471000.html",
+          "publishedOn": "2023-12-29T08:27:55.000Z",
+          "wordCount": 793,
+          "title": "ロシア軍 キーウやハルキウなど一斉攻撃 避難シェルターも損傷",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014303471_2312291725_1229172757_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20231229/k10014303461000.html",
+          "author": null,
+          "description": "再来年に開催される大阪・関西万博は、国費の負担がさらに増加することが見込まれています。政府は費用の透明性向上に努めるとともに、今後、最新の経済効果も示していく方針で理解を広げていけるかが課題となります。",
+          "link": "http://www3.nhk.or.jp/news/html/20231229/k10014303461000.html",
+          "publishedOn": "2023-12-29T08:19:17.000Z",
+          "wordCount": 694,
+          "title": "万博費用 第三者委で妥当性検証 最新経済効果も示す方針 政府",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014303461_2312291657_1229171918_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20231229/k10014303441000.html",
           "author": null,
