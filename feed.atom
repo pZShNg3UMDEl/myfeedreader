@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T16:50:17.634Z</updated>
+    <updated>2023-12-29T17:28:19.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Videos du jour: TinyML, Hamamatsu, ADI]]></title>
+        <id>http://image-sensors-world.blogspot.com/2023/12/videos-du-jour-tinyml-hamamatsu-adi.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2023/12/videos-du-jour-tinyml-hamamatsu-adi.html"/>
+        <updated>2023-12-29T17:00:00.001Z</updated>
+        <summary type="html"><![CDATA[tinyML Asia 2022
+In-memory computing and Dynamic Vision Sensors: Recipes for tinyML in Internet of Video Things
+Arindam BASU , Professor, Department of Electrical Engineering, City University of Hong Kong
+Vision sensors are unique for IoT in that they provide rich information but also require excessive bandwidth and energy which limits scalability of this architecture. In this talk, we will describe our recent work in using event-driven dynamic vision sensors for IoVT applications like unattended ground sensors and intelligent transportation systems. To further reduce the energy of the sensor node, we utilize In-memory computing (IMC)—the SRAM used to store the video frames are used to perform basic image processing operations and trigger the following deep neural networks. Lastly, we introduce a new concept of hybrid IMC combining multiple types of memory.
+
+
+
+  
+Photon counting imaging using Hamamatsu's scientific imaging cameras - TechBites Series
+
+With our new photon number resolving mode the ORCA-Quest enables photon counting resolution across a full 9.4 megapixel image. See the camera in action and learn how photon number imaging pushes quantitative imaging to a new frontier.
+
+
+
+Accurate, Mobile Object Dimensioning using Time of Flight Technology
+
+ADI's High Resolution 3D Depth Sensing Technology coupled with advanced image stitching algorithms enables the dimensioning of non-conveyable large objects for Logistics applications. Rather than move the object to a fixed dimensioning gantry, ADI's 3D technology enables operators to take the camera to the object to perform the dimensioning function. With the same level of accuracy as fixed dimensioners, making the system mobile reduces time and cost of measurement while enhancing energy efficiency.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2023年12月23日から12月29日】]]></title>
         <id>https://foodfighter.jp/?p=231444</id>
