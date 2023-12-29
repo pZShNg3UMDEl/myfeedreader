@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120315/",
+          "author": null,
+          "description": "松重豊主演の人気実写ドラマシリーズの新作「孤独のグルメ2023 大晦日スペシャル」が、テレビ東京系で、12月31日午後10時から放送される。大晦日のスペシャル放送は、7年連続となる。さらにゲスト...",
+          "link": "https://anime.eiga.com/news/120315/",
+          "publishedOn": "2023-12-29T12:00:00.000Z",
+          "wordCount": 704,
+          "title": "大みそかは今年も「孤独のグルメ」　井之頭五郎が沖縄へ逃避行　国仲涼子＆豊本明長＆川平慈英がゲスト出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120130/",
           "author": null,
           "description": "今年8月25～27日に開催されたアニメソングの祭典「アニメロサマーライブ2023 -AXEL- powered by Anison Days」が、12月31日午前11時～午後5時の6時間、BS1...",
@@ -462,6 +477,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96628",
+          "author": "SWITCH速報",
+          "description": "3: 2023/12/25(月) 20:39:46.75 ID:OLxKesaa0 『ときめきメモリ […]",
+          "link": "https://switchsoku.com/soft/96628",
+          "publishedOn": "2023-12-29T12:00:36.000Z",
+          "wordCount": 10010,
+          "title": "お前ら『ときメモ』買う？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/TOKIMEMO-GIRLS-1-3.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=96626",
           "author": "SWITCH速報",
