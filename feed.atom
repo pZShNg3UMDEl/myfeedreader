@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T04:29:05.897Z</updated>
+    <updated>2023-12-29T04:39:24.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山口 下関 フグ宅配セットの出荷作業がピーク]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303271000.html"/>
+        <updated>2023-12-29T04:33:38.000Z</updated>
+        <summary type="html"><![CDATA[フグの取り扱い量が日本一の山口県下関市では家庭用のフグの宅配セットの出荷作業がピークを迎えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「オキシトシン」に毛の成長促す働き 神奈川の研究所など発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231229/k10014302541000.html</id>
