@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T02:30:58.799Z</updated>
+    <updated>2023-12-29T02:50:39.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル ガザ地区南部で攻勢強める 住宅街に空爆 21人死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303221000.html"/>
+        <updated>2023-12-29T02:45:55.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍は、イスラム組織ハマスの指導者が潜伏している可能性があるとしてガザ地区南部などで攻勢を強めています。多くの人が避難している南部ラファでは、28日、住宅街に空爆を行い、地元メディアはこれまでに21人が死亡したと伝えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コロナ5類移行後 初の年末 空港は帰省客で混雑 出国ラッシュも]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231229/k10014303201000.html</id>
