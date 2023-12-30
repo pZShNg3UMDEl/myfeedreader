@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120257/",
+          "author": null,
+          "description": "劇場未公開だったピクサーの3作品「私ときどきレッサーパンダ」「あの夏のルカ」「ソウルフル・ワールド」の日本公開が決定した。「私ときどきレッサーパンダ」は2024年3月15日、「あの夏のルカ」は2...",
+          "link": "https://anime.eiga.com/news/120257/",
+          "publishedOn": "2023-12-30T12:00:00.000Z",
+          "wordCount": 726,
+          "title": "ピクサー未公開作「私ときどきレッサーパンダ」「あの夏のルカ」「ソウルフル・ワールド」日本劇場公開が決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/animehack_editors/120313/",
           "author": null,
           "description": "アニメ・声優・イベント情報サイト「アニメハック」では、年末企画として「声優」「ニュース」「各期のアニメ」「イベント」の4つのカテゴリーごとにランキングを発表します。 本記事では、アニメハックのイ...",
@@ -3285,6 +3300,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031758.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2023/12/30(土) 12:05:57.18 ID:jYGeHdnM0●.net\n\n\n\n\n\n\n\nNHK「インターネット視聴」にも課金へ…「受信料制度」はこれからどうなる？【経済アナリストが解説】https://t.co/vtmFTJudXdNHKの受信料の支払いは法律で義務付けられています...",
+          "link": "https://itainews.com/archives/2031758.html",
+          "publishedOn": "2023-12-30T12:03:37.000Z",
+          "wordCount": 2918,
+          "title": "NHK「インターネット視聴」にも課金へ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/7/c70352c4-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031752.html",
           "author": "yonepo665sfr",
