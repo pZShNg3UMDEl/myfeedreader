@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T09:19:17.678Z</updated>
+    <updated>2023-12-30T09:35:44.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシアのウクライナ大規模攻撃 “今後も続く” 米シンクタンク]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231230/k10014303961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231230/k10014303961000.html"/>
+        <updated>2023-12-30T09:26:26.000Z</updated>
+        <summary type="html"><![CDATA[ロシアが29日に、ウクライナ全土に行った大規模な攻撃について、アメリカのシンクタンクは、無人機攻撃などによって数か月かけてウクライナの防空能力を見定めた知見をもとに行われたとしたうえで、今後も大規模な攻撃は続くとの見方を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“うさぎ”から“たつ”へ 動物園で「えとの引き継ぎ式」 香川]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231230/k10014303931000.html</id>
