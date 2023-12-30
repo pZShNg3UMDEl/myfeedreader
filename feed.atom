@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T03:35:57.194Z</updated>
+    <updated>2023-12-30T03:50:33.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北海道 釧路 和商市場 正月用食材など買い求める人でにぎわう]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231230/k10014303771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231230/k10014303771000.html"/>
+        <updated>2023-12-30T03:37:30.000Z</updated>
+        <summary type="html"><![CDATA[年の瀬を迎え、北海道釧路市の和商市場では正月用の食材や新鮮な魚介類を買い求める多くの人でにぎわっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京 世田谷一家殺害事件から23年 遺族が墓参り 早期解決訴え]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231230/k10014303761000.html</id>
