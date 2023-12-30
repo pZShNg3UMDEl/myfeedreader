@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T04:51:07.888Z</updated>
+    <updated>2023-12-30T05:26:06.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“アフガン 女性権利 人道状況改善を” 国連安保理で決議採択]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231230/k10014303791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231230/k10014303791000.html"/>
+        <updated>2023-12-30T05:05:16.000Z</updated>
+        <summary type="html"><![CDATA[イスラム主義勢力タリバンが実権を握るアフガニスタンの情勢をめぐり、国連の安全保障理事会で29日、女性の権利や人道状況の改善など、事態の打開を目指すための決議を日本がとりまとめ、賛成多数で採択されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[満員電車で…「うるさい！」泣き止まない息子に怒鳴るサラリーマン　すると、前に座っていた女性から]]></title>
+        <id>https://itainews.com/archives/2031747.html</id>
+        <link href="https://itainews.com/archives/2031747.html"/>
+        <updated>2023-12-30T05:02:13.000Z</updated>
+        <summary type="html"><![CDATA[1 ：少考さん ★：2023/12/29(金) 15:09:12.41 ID:0R8WTxOu9.net
+
+
+
+
+
+
+
+
+
+
+満員電車で…「うるさい！」泣き止まない息子に怒鳴るサラリーマン　すると、前に座っていた女性からの助け船に「感謝いっぱい」（ほ・とせなNEWS） - Yahoo!ニュース https://t.co/iVGFDl638K...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スパチュン片方祐介「2024年は新型Switchの噂がありますので楽しみです！」]]></title>
         <id>https://switchsoku.com/?p=96643</id>
@@ -4238,25 +4269,6 @@ Abstract
 Event vision sensors acquire sparse data, making them suited for edge vision applications. However, unconventional data format, nonconstant data rates and non-standard interfaces restrain wide adoption. A 320x320 6.3μm pixel BSI stacked
 event sensor, specifically designed for embedded vision, features multiple data pre-processing, filtering and formatting functions, variable MIPI and CPI interfaces and a hierarchy of power modes, facilitating operability in power-sensitive vision
 applications.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISSCC 2024 Advanced Program Now Available]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/11/isscc-2024-advanced-program-now.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/11/isscc-2024-advanced-program-now.html"/>
-        <updated>2023-11-30T17:01:00.002Z</updated>
-        <summary type="html"><![CDATA[ISSCC will be held Feb 18-22, 2024 in San Francisco, CA. 
-
-Link to advanced program: https://submissions.mirasmart.com/ISSCC2024/PDF/ISSCC2024AdvanceProgram.pdf
-There are several papers of interest in Session 6 on Imagers and Ultrasound. 
-6.1 12Mb/s 4×4 Ultrasound MIMO Relay with Wireless Power and Communication for Neural Interfaces
-E. So, A. Arbabian (Stanford University, Stanford, CA)
-6.2 An Ultrasound-Powering TX with a Global Charge-Redistribution Adiabatic Drive Achieving 69% Power Reduction and 53° Maximum Beam Steering Angle for Implantable Applications
-M. Gourdouparis1,2, C. Shi1 , Y. He1 , S. Stanzione1 , R. Ukropec3 , P. Gijsenbergh3 , V. Rochus3 , N. Van Helleputte3 , W. Serdijn2 , Y-H. Liu1,2
- 1 imec, Eindhoven, The Netherlands
- 2 Delft University of Technology, Delft, The Net…]]></summary>
         <author>
             <name>Image Sensors World</name>
         </author>
