@@ -1326,6 +1326,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20231231/k10014304091000.html",
+          "author": null,
+          "description": "南海トラフ沿いで異常な現象が観測された際に発表される「南海トラフ地震臨時情報」について、国がアンケート調査を行ったところ、被害が想定される地域のうち情報を「知っている」と回答したのは、3割に届かなかったことがわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20231231/k10014304091000.html",
+          "publishedOn": "2023-12-30T20:20:11.000Z",
+          "wordCount": 626,
+          "title": "「南海トラフ地震臨時情報」被害想定地域で認知 3割に届かず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231231/K10014304091_2312302038_1231052013_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20231231/k10014304071000.html",
           "author": null,
           "description": "外務省は、今年度から始めている同志国の軍に防衛装備品などを供与する「OSA」について、来年度、関係する予算や人員を増やし、力を入れていくことにしています。",
@@ -2292,6 +2302,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=231490",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ボンゴレビアンコ」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグル […]",
+          "link": "https://foodfighter.jp/711sej-vongolevianco-2023",
+          "publishedOn": "2023-12-30T20:32:24.000Z",
+          "wordCount": 1833,
+          "title": "【セブンイレブン】ボンゴレビアンコ【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2023/12/07a6ca5f5bc8bbe6f20194bcbd756f35.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=231488",
           "author": "foodfighter",
