@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T09:35:44.550Z</updated>
+    <updated>2023-12-30T09:50:15.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『KEIRINグランプリ』松浦悠士 初優勝 競輪年間チャンピオンに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231230/k10014303991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231230/k10014303991000.html"/>
+        <updated>2023-12-30T09:40:30.000Z</updated>
+        <summary type="html"><![CDATA[競輪の年間チャンピオンを決める『KEIRINグランプリ』が東京 立川市で行われ、33歳の松浦悠士選手が初優勝を果たしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシアのウクライナ大規模攻撃 “今後も続く” 米シンクタンク]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231230/k10014303961000.html</id>
