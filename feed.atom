@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T13:22:36.710Z</updated>
+    <updated>2023-12-30T13:35:42.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -131,6 +131,16 @@ NHK「インターネット視聴」にも課金へ…「受信料制度」は�
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2023年12月23日から12月29日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全5種類）を美味しい・おすす […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ガザ地区への攻撃は集団殺害犯罪” 南アフリカがICJに提訴]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231230/k10014304051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231230/k10014304051000.html"/>
+        <updated>2023-12-30T10:24:27.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍がイスラム組織ハマスを壊滅させるためだとしてガザ地区への激しい攻撃を続ける中、イスラエルによる行為はパレスチナ人に対する集団殺害犯罪＝ジェノサイドにあたるとして南アフリカがICJ＝国際司法裁判所に提訴しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
