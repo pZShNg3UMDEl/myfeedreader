@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T21:17:32.443Z</updated>
+    <updated>2023-12-30T21:35:24.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イヌ飼育の高齢者 認知症発症リスクが40％低下の研究結果]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014302551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014302551000.html"/>
+        <updated>2023-12-30T21:25:05.000Z</updated>
+        <summary type="html"><![CDATA[イヌを飼っている高齢者は、飼っていない人と比べて認知症を発症するリスクが40％低くなっていたとする研究結果を東京都健康長寿医療センターなどのグループが発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高速鉄道「ユーロスター」トンネル浸水で運休相次ぐ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231231/k10014304121000.html</id>
