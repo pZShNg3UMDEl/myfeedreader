@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T08:26:59.767Z</updated>
+    <updated>2023-12-31T08:37:19.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[元日の天気は？ 日本海側中心に落雷や突風などに注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304511000.html"/>
+        <updated>2023-12-31T08:32:03.000Z</updated>
+        <summary type="html"><![CDATA[1月1日、元日にかけての天気です。大気の状態が不安定になっているため、明け方にかけては日本海側を中心に落雷や突風などに注意が必要です。一方、太平洋側では朝は晴れて初日の出が見られるところがありそうです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】あのちゃん『忘年会・新年会スルー』宣言に…「はっきりしてて素晴らしい」　職場の忘年会に参加しない忘年会スルーに賛同の声]]></title>
         <id>https://itainews.com/archives/2031774.html</id>
