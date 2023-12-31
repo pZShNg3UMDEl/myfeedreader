@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T21:35:43.585Z</updated>
+    <updated>2023-12-31T21:50:22.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[渋谷 年越しに混雑 大型ビジョン停止など対策 大きな混乱なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014304691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014304691000.html"/>
+        <updated>2023-12-31T21:48:09.000Z</updated>
+        <summary type="html"><![CDATA[東京の渋谷駅周辺では年越しにあわせて訪れた多くの人で混雑しましたが、渋谷区によりますと、大きな混乱はなかったということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明治神宮に初詣の列 新しい年へ願いを込めて]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240101/k10014304681000.html</id>
