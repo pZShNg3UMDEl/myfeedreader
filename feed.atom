@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T09:35:54.315Z</updated>
+    <updated>2023-12-31T09:50:16.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍のガザ攻撃続く 国連“人口の40％が飢餓の危機”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304581000.html"/>
+        <updated>2023-12-31T09:44:45.000Z</updated>
+        <summary type="html"><![CDATA[パレスチナのガザ地区では、31日にかけてもイスラエル軍が地上侵攻と空爆を続け、60人以上が死亡したと伝えられるなど、状況は悪化の一途をたどっています。現地の国連機関は「ガザ地区では人口の40％が飢餓の危機にあり、毎日が生きるための闘いになっている」と強い危機感を示しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都 下鴨神社 けがれを「人形」に移す「大祓式」無病息災願う]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304541000.html"/>
+        <updated>2023-12-31T09:33:26.000Z</updated>
+        <summary type="html"><![CDATA[京都の世界遺産、下鴨神社で、ことし1年のけがれを落とす「大祓式（おおはらえしき）」が行われ、参拝者が身を清めて新年の無病息災を願いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1年の“走り納め” 子どもからお年寄り 体力に応じて走る 富山]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231231/k10014304531000.html</id>
