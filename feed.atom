@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T05:50:29.820Z</updated>
+    <updated>2023-12-31T06:28:09.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【東京】都庁前の食料配布に700人超行列　物価高で状況は深刻…訪れた75歳女性「誰か助けて」]]></title>
+        <id>https://itainews.com/archives/2031772.html</id>
+        <link href="https://itainews.com/archives/2031772.html"/>
+        <updated>2023-12-31T06:01:33.000Z</updated>
+        <summary type="html"><![CDATA[1 ：ばーど ★：2023/12/30(土) 19:31:15.40 ID:GU6MkV4+9.net
+
+
+
+
+
+
+
+
+食料配布に700人超列、都庁前 － 物価高で「生活苦身近に」https://t.co/XL1KpqzT2I— 共同通信公式 (@kyodo_official) December 30, 2023 
+
+
+
+
+
+
+
+歴史的な物価高の中で年末を迎え、東京都内では30...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『メタルギアソリッドマスターコレクション』発売２ヶ月で半額に…]]></title>
+        <id>https://switchsoku.com/?p=96664</id>
+        <link href="https://switchsoku.com/konami/96664"/>
+        <updated>2023-12-31T06:00:54.000Z</updated>
+        <summary type="html"><![CDATA[1: 2023/12/31(日) 10:48:20.26 ID:UFk+dJ6w0 7480円→37 […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辛い子離れの季節。ママ猫をそっといたわるパパ猫の様子に涙]]></title>
+        <id>https://2-9-9.com/?p=65630</id>
+        <link href="https://2-9-9.com/archives/65630"/>
+        <updated>2023-12-31T06:00:14.000Z</updated>
+        <summary type="html"><![CDATA[よちよち歩きのマンチカンの子猫がお皿の陰に隠れて、チラッとママのことを見ています。ママが少し自分のほうへ近づいてくると、勢いよく飛び出してきて、ママ〜と甘えようとしたその時です。 ママ猫は甘えてきた子猫をあっさりと無視し...
+辛い子離れの季節。ママ猫をそっといたわるパパ猫の様子に涙 first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2人乗りのバイクから転落 後ろに乗っていた高校生が死亡 東京]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231231/k10014304431000.html</id>
@@ -5274,20 +5322,6 @@ Link]]></summary>
         <updated>2023-12-02T08:55:32.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prophesee event sensor in 2023 VLSI symposium]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/prophesee-event-sensor-in-2023-vlsi.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/prophesee-event-sensor-in-2023-vlsi.html"/>
-        <updated>2023-12-01T17:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Schon et al from Prophesee published a paper titled "A 320 x 320 1/5" BSI-CMOS stacked event sensor for low-power vision applications" in the 2023 VLSI symposium. This paper presents some technical details about their recently announced GenX320 sensor.
-Abstract
-Event vision sensors acquire sparse data, making them suited for edge vision applications. However, unconventional data format, nonconstant data rates and non-standard interfaces restrain wide adoption. A 320x320 6.3μm pixel BSI stacked
-event sensor, specifically designed for embedded vision, features multiple data pre-processing, filtering and formatting functions, variable MIPI and CPI interfaces and a hierarchy of power modes, facilitating operability in power-sensitive vision
-applications.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
