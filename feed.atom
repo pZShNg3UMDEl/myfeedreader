@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T10:38:48.003Z</updated>
+    <updated>2023-12-31T10:50:23.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18歳で新年迎える新成人 推計106万人 過去最少に 総務省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304221000.html"/>
+        <updated>2023-12-31T10:39:25.000Z</updated>
+        <summary type="html"><![CDATA[新年を18歳で迎える新成人は106万人で、総務省が推計を取り始めてから最も少なくなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナとロシア双方で死者 年の瀬にも攻撃の応酬激しく]]></title>
         <id>http://www3.nhk.or.jp/news/html/20231231/k10014304591000.html</id>
