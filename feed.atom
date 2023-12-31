@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T13:50:25.899Z</updated>
+    <updated>2023-12-31T14:24:45.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年越しにやるゲーム教えて]]></title>
+        <id>https://switchsoku.com/?p=96684</id>
+        <link href="https://switchsoku.com/gossip/96684"/>
+        <updated>2023-12-31T14:00:22.000Z</updated>
+        <summary type="html"><![CDATA[1: 2023/12/30(土) 18:00:51.18 ID:mM9puBy80 今年は帰省しない […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運転中に「おにぎりパクパク」は違反になる可能性も 危険大な「ながら運転」]]></title>
         <id>https://itainews.com/archives/2031780.html</id>
@@ -81,6 +91,16 @@
         <summary type="html"><![CDATA[アニメ・声優・イベント情報サイト「アニメハック」では、2023年の年末企画として「声優」「ニュース」「各期のアニメ」「イベント」の4つのカテゴリーごとにランキングを発表します。 1年間で最も読ま...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】イスラエル ガザ地区で空爆 犠牲者数 増え続ける]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304161000.html"/>
+        <updated>2023-12-31T11:08:25.000Z</updated>
+        <summary type="html"><![CDATA[パレスチナのガザ地区では、31日にかけてもイスラエル軍は地上侵攻に加え各地で空爆を行い、中東の衛星テレビ局アルジャジーラは、保健当局者の話として24時間で少なくとも64人が死亡したと伝えるなど、犠牲者の数は増え続けています。イスラエルやパレスチナに関する日本時間12月31日の動きを、随時更新してお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>

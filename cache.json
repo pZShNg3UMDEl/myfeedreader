@@ -673,6 +673,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96684",
+          "author": "SWITCH速報",
+          "description": "1: 2023/12/30(土) 18:00:51.18 ID:mM9puBy80 今年は帰省しない […]",
+          "link": "https://switchsoku.com/gossip/96684",
+          "publishedOn": "2023-12-31T14:00:22.000Z",
+          "wordCount": 9989,
+          "title": "年越しにやるゲーム教えて",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/zPuO93Eg.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96676",
           "author": "SWITCH速報",
           "description": "1: 23/12/22(金) 18:04:28 ID:yFJR 桃鉄令和 2020/11/19 発売 […]",
@@ -1480,6 +1490,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20231231/k10014304161000.html",
+          "author": null,
+          "description": "パレスチナのガザ地区では、31日にかけてもイスラエル軍は地上侵攻に加え各地で空爆を行い、中東の衛星テレビ局アルジャジーラは、保健当局者の話として24時間で少なくとも64人が死亡したと伝えるなど、犠牲者の数は増え続けています。イスラエルやパレスチナに関する日本時間12月31日の動きを、随時更新してお伝えします。",
+          "link": "http://www3.nhk.or.jp/news/html/20231231/k10014304161000.html",
+          "publishedOn": "2023-12-31T11:08:25.000Z",
+          "wordCount": 986,
+          "title": "【随時更新】イスラエル ガザ地区で空爆 犠牲者数 増え続ける",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20231231/K10014304161_2312310136_1231073702_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20231231/k10014304601000.html",
           "author": null,
