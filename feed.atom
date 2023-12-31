@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T02:43:05.144Z</updated>
+    <updated>2023-12-31T02:53:28.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル首相 “勝利には時間かかる” 作戦継続を改めて強調]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304281000.html"/>
+        <updated>2023-12-31T02:51:23.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍は、30日もパレスチナのガザ地区各地で地上侵攻と空爆を繰り返し、犠牲者が増え続けています。こうした中、イスラエルのネタニヤフ首相は「勝利のためには時間がかかり、さらに何か月も続くだろう」などと述べ、軍事作戦の継続が必要だという立場を改めて強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア要請で国連安保理が緊急会合 ウクライナとお互いを非難]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304231000.html"/>
+        <updated>2023-12-31T02:29:45.000Z</updated>
+        <summary type="html"><![CDATA[ロシア西部の都市に攻撃があり多数の死傷者が出たことを受けて、国連安全保障理事会では30日、ロシアの要請で緊急会合が開かれました。会合では、ロシアとウクライナ双方がお互いを非難しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch独占『あつしの名探偵』配信開始]]></title>
         <id>https://switchsoku.com/?p=96657</id>
