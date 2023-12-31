@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T19:36:06.561Z</updated>
+    <updated>2023-12-31T19:50:11.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 習主席が新年の演説“祖国統一は歴史の必然” 統一へ意欲]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014304631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014304631000.html"/>
+        <updated>2023-12-31T19:36:15.000Z</updated>
+        <summary type="html"><![CDATA[中国の習近平国家主席は、新年の演説で総統選挙の投票日まで2週間を切った台湾について「祖国統一は歴史の必然だ」と述べ、統一に向けた意欲を改めて強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今夏のパリ五輪・パラ 東京大会から3年 若手選手の活躍に注目]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240101/k10014304451000.html</id>
