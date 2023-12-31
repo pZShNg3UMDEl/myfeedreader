@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T06:38:21.167Z</updated>
+    <updated>2023-12-31T06:50:12.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鹿児島 機関室から出火のフェリー 31日朝に鹿児島港に接岸]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304411000.html"/>
+        <updated>2023-12-31T06:42:58.000Z</updated>
+        <summary type="html"><![CDATA[29日、鹿児島県の悪石島沖を航行中に機関室から火が出て航行できなくなり、えい航されていたフェリーが、31日朝、鹿児島港に接岸しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【東京】都庁前の食料配布に700人超行列　物価高で状況は深刻…訪れた75歳女性「誰か助けて」]]></title>
         <id>https://itainews.com/archives/2031772.html</id>
