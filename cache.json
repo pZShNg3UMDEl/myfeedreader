@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120333/",
+          "author": null,
+          "description": "テレビアニメ「オッドタクシー」全13話が、1月2日午後1時から公式YouTubeチャンネルで順次プレミア配信される。 「オッドタクシー」の世界観で描かれた漫画「RoOT / ルート オブ オッド...",
+          "link": "https://anime.eiga.com/news/120333/",
+          "publishedOn": "2024-01-01T09:00:00.000Z",
+          "wordCount": 822,
+          "title": "「オッドタクシー」全13話が期間限定無料配信　実写ドラマ版の放送決定記念",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120338/",
           "author": null,
           "description": "2024年1月1日、人気キャラクターであるミッキーマウスがパブリックドメインになる。これは、著作権法における重要な転換点であり、ディズニーによる長年の独占的な権利が終わることを意味すると、米バラ...",
@@ -1600,6 +1615,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014305271000.html",
+          "author": null,
+          "description": "1日午後4時すぎに能登地方で震度7の揺れを観測する地震が起き、大津波警報が発表されました。各地の被害について随時更新してお伝えしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014305271000.html",
+          "publishedOn": "2024-01-01T09:20:34.000Z",
+          "wordCount": 1209,
+          "title": "【被害まとめ】石川県で震度7 大津波警報",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014305271_2401011742_0101174820_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014305441000.html",
+          "author": null,
+          "description": "震度6強の揺れを観測した石川県輪島市の防災担当の職員によりますと「市内で火災が発生している」という情報が寄せられているということです。詳細は確認中だとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014305441000.html",
+          "publishedOn": "2024-01-01T09:13:25.000Z",
+          "wordCount": 398,
+          "title": "石川 輪島”市内で火災発生”情報",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240101/k10014305251000.html",
           "author": null,
@@ -4725,6 +4760,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031814.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：a：2023/12/31(日) 19:33:32.94 ID:SGDt6qO90.net\n\n\n\n\n\n\n\n\nどん兵衛で早めの年越しうどん。アンミカさんの多様性溢れる感性に連帯します✨✨ pic.twitter.com/EOOWHEbHcQ— 塩村あやか💙💛🐾参議院議員（りっけん） (@shiomura) December 31, 2023 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2031814.html",
+          "publishedOn": "2024-01-01T09:01:08.000Z",
+          "wordCount": 2417,
+          "title": "【画像】立憲民主党議員「アンミカさんに連帯します」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/4/d483650a-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031816.html",
           "author": "yonepo665sfr",
