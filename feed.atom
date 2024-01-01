@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T13:35:24.420Z</updated>
+    <updated>2024-01-01T13:50:23.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 能登地方 あす朝は厳しい冷え込み 体調の管理に注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014306131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014306131000.html"/>
+        <updated>2024-01-01T13:47:34.000Z</updated>
+        <summary type="html"><![CDATA[気象庁によりますと津波警報が発表され、地震が相次いでいる石川県能登地方では晴れて地表の熱が奪われる放射冷却現象の影響で2日の朝は厳しい冷え込みとなる見込みです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 七尾 2人が心肺停止 家屋倒壊や灯籠の下敷きで 警察庁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240101/k10014306251000.html</id>
