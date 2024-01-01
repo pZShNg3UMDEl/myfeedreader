@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T09:36:19.306Z</updated>
+    <updated>2024-01-01T09:50:25.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気象庁会見「大きな津波を観測 警報解除まで安全な場所で」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014305221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014305221000.html"/>
+        <updated>2024-01-01T09:34:53.000Z</updated>
+        <summary type="html"><![CDATA[気象庁の下山利浩 地震情報企画官は午後6時10分から記者会見を開き「石川県能登で大津波警報を発表していて、大きな津波が観測されている。沿岸部や川沿いにいる人はすぐに安全な場所へ避難してほしい。津波は繰り返し襲ってくるため、津波警報などが解除されるまでは安全な場所から離れないでほしい」と述べました。また「揺れの強かった地域では、家屋の倒壊や土砂災害などの危険性が高まっているため、今後の地震活動や雨の状況に十分注意し、1週間程度、特に2、3日の間は最大震度7の揺れを伴う地震に注意してほしい」と呼びかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[気象庁  「令和6年能登半島地震」と命名 石川県能登地方の地震]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240101/k10014305521000.html</id>
