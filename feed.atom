@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T06:31:56.069Z</updated>
+    <updated>2024-01-01T06:50:42.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240101/k10014304911000.html"/>
         <updated>2024-01-01T06:21:57.000Z</updated>
         <summary type="html"><![CDATA[1日朝、千葉県白子町で乗用車同士が正面衝突し双方の車に乗っていたあわせて6人が病院に搬送され、このうち20代の女性1人が死亡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[たつ年にちなみ「“竜”神大吊橋」からバンジージャンプ 茨城]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014304981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014304981000.html"/>
+        <updated>2024-01-01T06:05:01.000Z</updated>
+        <summary type="html"><![CDATA[2024年のえと、たつにちなんで、名前に「竜」の文字が入る茨城県常陸太田市の「竜神大吊橋」では、新たな一歩を踏み出そうと元日から大勢の人がバンジージャンプに挑戦していました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
