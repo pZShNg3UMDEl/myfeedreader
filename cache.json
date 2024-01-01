@@ -793,6 +793,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96711",
+          "author": "SWITCH速報",
+          "description": "372: 2023/12/28(木) 09:55:19.22 ID:0g2uWuPAM ドラクエ11 […]",
+          "link": "https://switchsoku.com/soft/persona/96711",
+          "publishedOn": "2024-01-01T14:00:48.000Z",
+          "wordCount": 10054,
+          "title": "セール中の『ドラクエ11S』と『ペルソナ5R』気になるけどどっちがいいかな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/06/P5R-1.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96704",
           "author": "SWITCH速報",
           "description": "1: 2024/01/01(月) 11:18:45.83 ID:xc6LWfZh0 　コトブキソリュ […]",
@@ -1680,6 +1690,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014306371000.html",
+          "author": null,
+          "description": "1日午後11時3分ごろ、気象庁は石川県能登地方を震源とする震度7の揺れを観測する地震が発生したと発表しましたが、誤りだったとして取り消し、実際に観測されたのは震度3だったと発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014306371000.html",
+          "publishedOn": "2024-01-01T14:24:31.000Z",
+          "wordCount": 797,
+          "title": "気象庁 午後11時3分発表の“石川県能登地方で震度7”取り消し",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014306371_2401012316_0101232433_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240101/k10014306131000.html",
           "author": null,
