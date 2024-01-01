@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T19:16:29.331Z</updated>
+    <updated>2024-01-01T19:35:40.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北陸新幹線 富山～金沢で停止の4列車が駅へ 地震から約11時間]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306611000.html"/>
+        <updated>2024-01-01T19:30:39.000Z</updated>
+        <summary type="html"><![CDATA[JR西日本によりますと、北陸新幹線は1日の地震で運転を見合わせた影響で、富山駅と金沢駅の間で4本の列車が止まっていましたが、およそ11時間後の午前3時前後に順次、動き出しました。このうち1本は午前3時19分に富山駅に到着し、もう1本は午前3時40分に金沢駅に到着したほか、このほかの2本も富山駅と金沢駅に向かっているということです。また駅に到着した車両は運転が再開するまでの間、いわゆる「列車ホテル」として休憩用に開放するということです。4本の列車の車内には乗客があわせておよそ1400人いたということですが、いまのところ体調不良を訴える人などは確認されていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“阪神・淡路大震災引き起こした地震に匹敵する強さ” 専門家]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014306521000.html</id>
