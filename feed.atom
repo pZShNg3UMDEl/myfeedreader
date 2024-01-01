@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T22:38:10.446Z</updated>
+    <updated>2024-01-01T22:50:36.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山口県と島根県の隠岐の津波注意報を解除 気象庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306711000.html"/>
+        <updated>2024-01-01T22:36:12.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は山口県日本海沿岸と島根県の隠岐に発表していた津波注意報を2日午前7時半に解除しました。今後、潮位の変化の可能性があるものの、被害の心配はないとしています。一方、北海道から山陰にかけての日本海沿岸と長崎県の壱岐・対馬などには引き続き津波注意報が出ています。津波注意報が出ている沿岸では、海岸や川の河口付近から離れ、近づかないで下さい。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【空撮映像】石川 輪島市中心部で大規模火災や倒壊 50棟超延焼]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014306571000.html</id>
