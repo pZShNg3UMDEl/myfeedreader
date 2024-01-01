@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T23:37:14.818Z</updated>
+    <updated>2024-01-01T23:50:38.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【空撮映像】珠洲市でも多くの建物が倒壊 港では複数の船 転覆]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306721000.html"/>
+        <updated>2024-01-01T23:20:27.000Z</updated>
+        <summary type="html"><![CDATA[震度6強の揺れを観測した石川県珠洲市では地震のあと住宅で火災が発生していましたが、消防によりますと、2日午前3時ごろ火はほぼ消し止められたということです。火災の詳しい状況などはまだわかっていないということで、警察と消防はけが人の有無などについて情報収集を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島市周辺の道路が寸断 現地確認十分できず 物資も不足]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014306731000.html</id>
