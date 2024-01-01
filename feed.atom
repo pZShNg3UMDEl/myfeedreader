@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T09:23:06.623Z</updated>
+    <updated>2024-01-01T09:36:19.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気象庁  「令和6年能登半島地震」と命名 石川県能登地方の地震]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014305521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014305521000.html"/>
+        <updated>2024-01-01T09:26:52.000Z</updated>
+        <summary type="html"><![CDATA[1日午後、石川県能登地方で震度7の揺れを観測した地震について気象庁は「令和6年能登半島地震」と名付けました。気象庁は、大きな被害の災害に名前を付けることがあり、地震に名前が付くのは2018年9月の「平成30年北海道胆振（いぶり）東部地震」以来です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【被害まとめ】石川県で震度7 大津波警報]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240101/k10014305271000.html</id>
