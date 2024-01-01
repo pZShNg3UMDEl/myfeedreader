@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T22:50:36.151Z</updated>
+    <updated>2024-01-01T23:22:42.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島市周辺の道路が寸断 現地確認十分できず 物資も不足]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306731000.html"/>
+        <updated>2024-01-01T22:54:40.000Z</updated>
+        <summary type="html"><![CDATA[震度6強の揺れを観測した石川県輪島市に向かう周辺の道路は、地震の影響でほとんどが寸断され通行できなくなっているということです。このため、現地に向かっている関係機関の担当者の多くが足止めされ、状況を十分に確認できていないほか、支援物資なども不足している状態だということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山口県と島根県の隠岐の津波注意報を解除 気象庁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014306711000.html</id>
