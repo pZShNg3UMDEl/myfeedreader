@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120338/",
+          "author": null,
+          "description": "2024年1月1日、人気キャラクターであるミッキーマウスがパブリックドメインになる。これは、著作権法における重要な転換点であり、ディズニーによる長年の独占的な権利が終わることを意味すると、米バラ...",
+          "link": "https://anime.eiga.com/news/120338/",
+          "publishedOn": "2024-01-01T04:00:00.000Z",
+          "wordCount": 825,
+          "title": "「蒸気船ウィリー」など短編映画登場のミッキーマウスが「著作権フリー」に",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120310/",
           "author": null,
           "description": "劇場アニメ「プロメア」が、1月1日午後11時からBS11で放送される。 同作は、「天元突破グレンラガン」「キルラキル」で知られる今石洋之監督と中島かずきのタッグが手がけた、TRIGGERのオリジ...",
@@ -718,6 +733,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96691",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/01(月) 02:43:04.186 ID:/RQ7rUgr0 今ざっと見で気 […]",
+          "link": "https://switchsoku.com/soft/96691",
+          "publishedOn": "2024-01-01T04:00:13.000Z",
+          "wordCount": 10091,
+          "title": "Switchのセールでなんか買いたいんだけどおすすめ教えて",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/sekaizyu123.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96689",
           "author": "SWITCH速報",
           "description": "1: 2023/12/31(日) 10:29:13.32 ID:o6aDrplv0 正月っぽいゲーム […]",
@@ -1212,6 +1237,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9348",
+          "author": "watanabe@logipara.com",
+          "description": "(ﾟДﾟ)あけましてー！！ (ﾟДﾟ)おめでとうーーー！！！ (ﾟДﾟ)ございますーーーーーー！！！！ 　 はい年明けです！あけました！今年もよろしくお願いいたします！！ 実家で家系図を見せられながら「ワタナベ家の今後は […]",
+          "link": "https://logipara.com/diary-text/2024-01-01",
+          "publishedOn": "2024-01-01T04:06:23.000Z",
+          "wordCount": 4400,
+          "title": "あけましておめでとうございます2024",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9346",
           "author": "watanabe@logipara.com",
           "description": "2023年が終わるぞーーー(ﾄﾞﾝﾄﾞﾝﾄﾞﾝ)(全裸太鼓) 大晦日になりました！みなさん今年も本当に本当にお世話になりました！！(全裸土下座) 2023年もいろいろありましたが、ひとまず皆さんと生きて年を越したことを祝 […]",
@@ -1545,6 +1580,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014304921000.html",
+          "author": null,
+          "description": "新藤経済再生担当大臣は、元日の1日、東京・九段の靖国神社に参拝しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014304921000.html",
+          "publishedOn": "2024-01-01T04:10:55.000Z",
+          "wordCount": 712,
+          "title": "新藤経済再生相が靖国神社に参拝 去年9月の就任以降2回目",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014304921_2401011211_0101124352_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014304851000.html",
+          "author": null,
+          "description": "元日の1日、千葉県成田市の成田山新勝寺は、初詣に訪れた大勢の人でにぎわっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014304851000.html",
+          "publishedOn": "2024-01-01T02:59:48.000Z",
+          "wordCount": 751,
+          "title": "成田山新勝寺 初詣でにぎわう 三が日で約300万人の人出見込む",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014304851_2401011120_0101112231_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240101/k10014304791000.html",
           "author": null,
@@ -3556,6 +3611,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=65686",
+          "author": "299",
+          "description": "ベッドでうつぶせになって本を読んでいるお母さんの頭の上には子猫がどっかりと乗っかっています。 お母さんの読んでいる本を上からのぞきこむような体勢になっている子猫の姿がとても可愛いです。 頭の前のほうに体を乗り出し、さらに...\nお母さんの読んでいる本を頭の上から一緒に覗き込むニャンコ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65686",
+          "publishedOn": "2024-01-01T04:00:26.000Z",
+          "wordCount": 1861,
+          "title": "お母さんの読んでいる本を頭の上から一緒に覗き込むニャンコ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65686.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=65682",
           "author": "299",
