@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T20:50:11.828Z</updated>
+    <updated>2024-01-01T21:18:19.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[専門家「今後1週間程度 最大震度7程度の地震 津波に注意を」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306581000.html"/>
+        <updated>2024-01-01T20:52:59.000Z</updated>
+        <summary type="html"><![CDATA[津波のメカニズムに詳しい東京大学地震研究所の佐竹健治教授は、今後1週間程度は最大震度7程度の揺れを伴う地震に注意が必要で、建物に異変がある場合には避難を続けるほか、海岸付近で地震が起きれば再び津波が発生する可能性もあることから、揺れを感じたら情報を待たずに高台への避難を心がけてほしいとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 七尾 能登島への橋が通行止め 支援物資届けられず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014306651000.html</id>
