@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T14:50:28.920Z</updated>
+    <updated>2024-01-01T15:22:45.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2日の新年一般参賀 取りやめを発表 地震発生を受け 宮内庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306461000.html"/>
+        <updated>2024-01-01T15:09:07.000Z</updated>
+        <summary type="html"><![CDATA[宮内庁は「令和6年能登半島地震」の発生を受けて、2日に皇居で予定されていた新年一般参賀を取りやめると発表しました。皇居での一般参賀が取りやめられるのは、新型コロナウイルスの感染拡大を考慮して令和2年（2020年）の天皇誕生日の一般参賀が取りやめられて以来です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ママ猫に甘える子猫]]></title>
         <id>https://2-9-9.com/?p=65708</id>
@@ -6912,24 +6922,6 @@ Link]]></summary>
         <updated>2023-12-03T07:07:35.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安村の流行語「ひき肉です」？？【#有吉の壁】#short]]></title>
-        <id>https://www.youtube.com/watch?v=nQfWZBBWTDI</id>
-        <link href="https://www.youtube.com/watch?v=nQfWZBBWTDI"/>
-        <updated>2023-12-03T03:00:23.000Z</updated>
-        <author>
-            <name>有吉の壁【公式】壁チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【年末SP】2023年最後の開会宣言！カゲヤマ・ジグザグジギー・天才ピアニストも【有吉の壁】【オープニング先行】]]></title>
-        <id>https://www.youtube.com/watch?v=bxtMn7boLVQ</id>
-        <link href="https://www.youtube.com/watch?v=bxtMn7boLVQ"/>
-        <updated>2023-12-03T03:00:10.000Z</updated>
-        <author>
-            <name>有吉の壁【公式】壁チャンネル</name>
         </author>
     </entry>
 </feed>
