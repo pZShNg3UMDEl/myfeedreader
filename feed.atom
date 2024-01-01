@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T15:36:19.745Z</updated>
+    <updated>2024-01-01T15:50:20.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北陸新幹線 富山～金沢駅間で約1400人が車内に取り残される]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306491000.html"/>
+        <updated>2024-01-01T15:39:35.000Z</updated>
+        <summary type="html"><![CDATA[JR西日本によりますと、北陸新幹線は1日夕方から長野駅と金沢駅の間で終日、運転を見合わせました。2日も、この区間で始発から正午ごろまで運転をとりやめるとしています。このため富山駅と金沢駅の間では列車4本が止まったままで、いまも車内に乗客あわせておよそ1400人が取り残されているということです。このうち2人が発熱を訴えていますが、症状は軽いということです。列車内は電気や暖房が使えるほか、JRの従業員が車で現地に向かって食料を届けたということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 穴水町 男性1人が意識不明 少なくとも4人が閉じ込め]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014306451000.html</id>
