@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T13:25:32.083Z</updated>
+    <updated>2024-01-01T13:35:24.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 七尾 2人が心肺停止 家屋倒壊や灯籠の下敷きで 警察庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014306251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014306251000.html"/>
+        <updated>2024-01-01T13:29:23.000Z</updated>
+        <summary type="html"><![CDATA[警察庁によりますと、今回の地震で石川県七尾市で、灯篭の下敷きになった男性と、倒壊した家屋の中から救助された女性の合わせて2人が心肺停止になっているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[船を襲ったフーシ派、米軍に発砲　米軍「よし、これで正当防衛や」3隻撃沈し10人殺害]]></title>
         <id>https://itainews.com/archives/2031825.html</id>
