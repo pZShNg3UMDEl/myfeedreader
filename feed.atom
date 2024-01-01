@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T16:50:25.579Z</updated>
+    <updated>2024-01-01T17:25:38.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review paper on stacking and interconnects for CMOS image sensors]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/01/review-paper-on-stacking-and.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/01/review-paper-on-stacking-and.html"/>
+        <updated>2024-01-01T17:02:00.001Z</updated>
+        <summary type="html"><![CDATA[In an ASME J. Electron. Packag. paper titled "Advancement of Chip Stacking Architectures and Interconnect Technologies for Image Sensors" Mei-Chien Lu writes:
+
+Numerous technology breakthroughs have been made in image sensor development in the past two decades. Image sensors have evolved into a technology platform to support many applications. Their successful implementation in mobile devices has accelerated market demand and established a business platform to propel continuous innovation and performance improvement extending to surveillance, medical, and automotive industries. This overview briefs the general camera module and the crucial technology elements of chip stacking architectures and advanced interconnect technologies. This study will also examine the role of pixel electronics in…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNSで地震や津波の偽情報が拡散 冷静な対応を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306471000.html"/>
+        <updated>2024-01-01T16:52:57.000Z</updated>
+        <summary type="html"><![CDATA[今回の地震や津波に関連して、NHKの取材班で旧ツイッターのXの投稿を確認したところ、実際の被害とは異なる救助の要請や過去の災害の動画を使った偽情報などが多く出ていることが分かりました。偽情報が広がると、被災地での救助活動が妨げられて命にかかわる事態になるおそれもあるため、感情を揺さぶられるような情報や動画を見かけても安易に拡散しないなど冷静な対応が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[犬のゴールデンレトリバーは子猫の世話に困惑]]></title>
         <id>https://2-9-9.com/?p=65774</id>

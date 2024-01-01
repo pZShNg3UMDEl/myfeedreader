@@ -1494,6 +1494,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/01/review-paper-on-stacking-and.html",
+          "author": null,
+          "description": "In an ASME J. Electron. Packag. paper titled \"Advancement of Chip Stacking Architectures and Interconnect Technologies for Image Sensors\" Mei-Chien Lu writes:\n\nNumerous technology breakthroughs have been made in image sensor development in the past two decades. Image sensors have evolved into a technology platform to support many applications. Their successful implementation in mobile devices has accelerated market demand and established a business platform to propel continuous innovation and performance improvement extending to surveillance, medical, and automotive industries. This overview briefs the general camera module and the crucial technology elements of chip stacking architectures and advanced interconnect technologies. This study will also examine the role of pixel electronics in…",
+          "link": "http://image-sensors-world.blogspot.com/2024/01/review-paper-on-stacking-and.html",
+          "publishedOn": "2024-01-01T17:02:00.001Z",
+          "wordCount": 4201,
+          "title": "Review paper on stacking and interconnects for CMOS image sensors",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUtyXfClGSMvt1eJ5tdt_V0dQDTx3hiD35jtJ7FGHYSNITs5AJuUKdO4CjfNnNaBPQ0aJtxML1zZtgWQpYMwUGqlU-WYQ9p6Cx8CWcT4ajoL7I-CDsGjzsQnyQmdoHi51RtBJTGvxZLHYhRlRkZntqiYgc4Nue58HtyrErxH7jbmjjI8EL4CBP38rmihmEJ8b99pz_DCEJllADa6wgocMG3_qexWDThUECZWZvkOObxOWBKi00x_CNRo7uithluAhgycbLVmvX9n9DfCIyBzW7IAFexY1gqi6ZW92h56cuJxkPyDK_uNDYuCmdLX-sLVWmbQggk8FR_Sp44hWJEN3_WvrTHQKiEaxymQ0-QQuXxRKtH9tGGE-IOoabFgULAARTZ022iYDALFWJd5YVFGeE_WxyayO066lBLve6x3MHWAfnlYJ5l-0WSIs6jB9QM0pVwcnCESvSPlpa2iRnlBVcNv9McIjCLkWMp3O8lARtzckSAJBGyW1zBFz8PaWTYCtkipawcZv6u0UbKqrCMIdPqVRqcv3wpFCBDDC-CsPayAZk4h_iesvKG7uY5hmIOaq6JAqHqoaICXB3ShbHKNXEziMTeB3QRi-KSzLBPw0uQbNbh2wLlCK40qqORXTXSLY23Bj0UdrVc2MyM4V2T5LBXHQWQXxWf7fRzeok0mo3lxXcBKH-p2lvGSyuO00iKUOWiJSZNZ13rYESQeb57uqgt1KzKfGHqVMiFg7FsFoODDbnp9Zxp4hXy6mtXd4OIvv0JAxDmZQ=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2023/12/videos-du-jour-tinyml-hamamatsu-adi.html",
           "author": null,
           "description": "tinyML Asia 2022\nIn-memory computing and Dynamic Vision Sensors: Recipes for tinyML in Internet of Video Things\nArindam BASU , Professor, Department of Electrical Engineering, City University of Hong Kong\nVision sensors are unique for IoT in that they provide rich information but also require excessive bandwidth and energy which limits scalability of this architecture. In this talk, we will describe our recent work in using event-driven dynamic vision sensors for IoVT applications like unattended ground sensors and intelligent transportation systems. To further reduce the energy of the sensor node, we utilize In-memory computing (IMC)—the SRAM used to store the video frames are used to perform basic image processing operations and trigger the following deep neural networks. Lastly, we introduce a new concept of hybrid IMC combining multiple types of memory.\n\n\n\n  \nPhoton counting imaging using Hamamatsu's scientific imaging cameras - TechBites Series\n\nWith our new photon number resolving mode the ORCA-Quest enables photon counting resolution across a full 9.4 megapixel image. See the camera in action and learn how photon number imaging pushes quantitative imaging to a new frontier.\n\n\n\nAccurate, Mobile Object Dimensioning using Time of Flight Technology\n\nADI's High Resolution 3D Depth Sensing Technology coupled with advanced image stitching algorithms enables the dimensioning of non-conveyable large objects for Logistics applications. Rather than move the object to a fixed dimensioning gantry, ADI's 3D technology enables operators to take the camera to the object to perform the dimensioning function. With the same level of accuracy as fixed dimensioners, making the system mobile reduces time and cost of measurement while enhancing energy efficiency.",
@@ -1690,6 +1700,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306471000.html",
+          "author": null,
+          "description": "今回の地震や津波に関連して、NHKの取材班で旧ツイッターのXの投稿を確認したところ、実際の被害とは異なる救助の要請や過去の災害の動画を使った偽情報などが多く出ていることが分かりました。偽情報が広がると、被災地での救助活動が妨げられて命にかかわる事態になるおそれもあるため、感情を揺さぶられるような情報や動画を見かけても安易に拡散しないなど冷静な対応が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014306471000.html",
+          "publishedOn": "2024-01-01T16:52:57.000Z",
+          "wordCount": 842,
+          "title": "SNSで地震や津波の偽情報が拡散 冷静な対応を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306471_2401020007_0102003858_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306401000.html",
           "author": null,
