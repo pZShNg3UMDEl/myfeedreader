@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T10:31:10.932Z</updated>
+    <updated>2024-01-01T10:50:32.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[林官房長官「建物倒壊などによる生き埋めが6件発生」緊急会見]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014305781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014305781000.html"/>
+        <updated>2024-01-01T10:24:17.000Z</updated>
+        <summary type="html"><![CDATA[林官房長官は、先ほど開いた2度目の緊急の記者会見で「建物倒壊などによる生き埋めが6件、発生をしているという報告を受けている」と述べました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[専門家「さらに安全な場所に避難する『三次避難』も検討を」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240101/k10014305701000.html</id>
