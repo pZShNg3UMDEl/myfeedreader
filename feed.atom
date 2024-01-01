@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T05:29:02.626Z</updated>
+    <updated>2024-01-01T05:38:58.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾 蔡総統「われわれは1つの民主国家」習主席主張はねつける]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240101/k10014304951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014304951000.html"/>
+        <updated>2024-01-01T05:28:30.000Z</updated>
+        <summary type="html"><![CDATA[台湾の蔡英文総統は、中国の習近平国家主席が「祖国統一は歴史の必然だ」と述べたことについて「中国とどのような関係をつくるかは、われわれの民主的な手続きを経て最終的な決定がなされるべきだ」と述べ、習主席の主張をはねつけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多摩川・スーツケースの男性遺体、ニコ生配信者の唯我か]]></title>
         <id>https://itainews.com/archives/2031819.html</id>
