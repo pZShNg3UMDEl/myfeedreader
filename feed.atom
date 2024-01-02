@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T18:50:51.665Z</updated>
+    <updated>2024-01-02T19:16:22.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本航空と全日空 合わせて約100便 欠航の見通し 羽田発着中心]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307561000.html"/>
+        <updated>2024-01-02T18:51:16.000Z</updated>
+        <summary type="html"><![CDATA[2日、羽田空港で日本航空機と海上保安庁の航空機が衝突した事故の影響で、3日も羽田空港を発着する便を中心に、日本航空と全日空で合わせておよそ100便が欠航する見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[時間をかけてゆっくり子猫に慣れてきた先住猫さん]]></title>
         <id>https://2-9-9.com/?p=65847</id>
