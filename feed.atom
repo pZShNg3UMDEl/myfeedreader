@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T13:50:14.380Z</updated>
+    <updated>2024-01-02T14:27:22.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 石川県内の死者 55人確認]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html"/>
+        <updated>2024-01-02T14:19:19.000Z</updated>
+        <summary type="html"><![CDATA[石川県によりますと、今回の地震で亡くなった人は2日午後9時半の時点で、県内で合わせて55人確認されたということです。輪島市で24人、珠洲市で20人、七尾市で5人、穴水町と能登町で2人、羽咋市と志賀町でそれぞれ1人となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『MOTHER2』の30周年を記念して､2024年にたくさんのおたのしみを企画しています。]]></title>
+        <id>https://switchsoku.com/?p=96741</id>
+        <link href="https://switchsoku.com/gossip/96741"/>
+        <updated>2024-01-02T14:00:10.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/01/02(火) 20:50:16.35 ID:UdKf9cu50 ハッピー・アニバ […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 “阪神・淡路大震災の地震に匹敵する”専門家]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014307391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014307391000.html"/>
+        <updated>2024-01-02T13:52:19.000Z</updated>
+        <summary type="html"><![CDATA[石川県能登地方で震度7の揺れを観測した地震で、京都大学防災研究所の境有紀教授が地震計のデータを分析したところ、穴水町の地震計では、建物に大きな被害を与える周期が1秒から2秒の揺れが多く含まれていて、阪神・淡路大震災を引き起こした地震に匹敵するということです。境教授は「自宅などに立ち入る際は、建物が少しでも傾いていないかを確認することが重要だ」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ライブ配信・速報中】羽田空港事故 日本航空の会見が始まる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014307301000.html</id>

@@ -883,6 +883,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96741",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/02(火) 20:50:16.35 ID:UdKf9cu50 ハッピー・アニバ […]",
+          "link": "https://switchsoku.com/gossip/96741",
+          "publishedOn": "2024-01-02T14:00:10.000Z",
+          "wordCount": 9970,
+          "title": "『MOTHER2』の30周年を記念して､2024年にたくさんのおたのしみを企画しています。",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/mother2-30th.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96738",
           "author": "SWITCH速報",
           "description": "1: 2024/01/01(月) 22:24:23.88 ID:T1Gq8 あんな超シンプルなゲーム […]",
@@ -1860,6 +1870,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html",
+          "author": null,
+          "description": "石川県によりますと、今回の地震で亡くなった人は2日午後9時半の時点で、県内で合わせて55人確認されたということです。輪島市で24人、珠洲市で20人、七尾市で5人、穴水町と能登町で2人、羽咋市と志賀町でそれぞれ1人となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html",
+          "publishedOn": "2024-01-02T14:19:19.000Z",
+          "wordCount": 196,
+          "title": "能登半島地震 石川県内の死者 55人確認",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307481_2401022318_0102231921_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307391000.html",
+          "author": null,
+          "description": "石川県能登地方で震度7の揺れを観測した地震で、京都大学防災研究所の境有紀教授が地震計のデータを分析したところ、穴水町の地震計では、建物に大きな被害を与える周期が1秒から2秒の揺れが多く含まれていて、阪神・淡路大震災を引き起こした地震に匹敵するということです。境教授は「自宅などに立ち入る際は、建物が少しでも傾いていないかを確認することが重要だ」と指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307391000.html",
+          "publishedOn": "2024-01-02T13:52:19.000Z",
+          "wordCount": 866,
+          "title": "能登半島地震 “阪神・淡路大震災の地震に匹敵する”専門家",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307391_2401022245_0102225220_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307301000.html",
           "author": null,
