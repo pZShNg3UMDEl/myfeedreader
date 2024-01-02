@@ -1871,6 +1871,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307521000.html",
+          "author": null,
+          "description": "３日午前２時２１分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度５強が、石川県能登地方。今後の情報に注意してください。",
+          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307521000.html",
+          "publishedOn": "2024-01-02T17:25:08.000Z",
+          "wordCount": 168,
+          "title": "石川県能登地方で震度5強の地震",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307491000.html",
           "author": null,
           "description": "石川県の能登地方で最大震度7の揺れを観測した大地震を受け、政府の地震調査委員会は臨時の会合を開き、東西におよそ150キロにのびる活断層がずれ動いて起きた可能性があるという評価をまとめました。地震の活動範囲は広がっているとして強い揺れと津波への備えを続けるよう呼びかけています。",
