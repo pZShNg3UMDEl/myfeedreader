@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T20:36:45.166Z</updated>
+    <updated>2024-01-02T20:50:35.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 能登半島地震の対応「人命第一の方針 救出に全力」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307501000.html"/>
+        <updated>2024-01-02T20:43:55.000Z</updated>
+        <summary type="html"><![CDATA[石川県能登地方を震源とする地震を受け、政府は3日も「非常災害対策本部」を開いて情報を共有し対応を協議します。岸田総理大臣は、建物の倒壊に巻き込まれた被災者も少なくないとして救出に全力をあげる考えです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア軍 年末年始にかけて攻勢強める キーウなどに大規模攻撃]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240103/k10014307541000.html</id>
