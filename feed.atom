@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T11:17:43.282Z</updated>
+    <updated>2024-01-02T11:35:31.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日航機 海保機と衝突・炎上 専門家 “翼内部の燃料引火か”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014307221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014307221000.html"/>
+        <updated>2024-01-02T11:17:12.000Z</updated>
+        <summary type="html"><![CDATA[今回の事故について日本航空の元機長で航空評論家の小林宏之さんは「火のまわりの速さから考えると機体の衝突の衝撃によって発生した火が、翼の内部にある燃料タンクに引火した可能性がある。機体の衝突による衝撃で燃料タンクなどが損傷して燃料が漏れ、エンジンが熱を持っているのでそこから火災が発生したと考えられる。通常、火災が発生した場合は炎が上がっていない方の片側のドアを使って脱出するが、全員、機体から脱出済みということは乗客や機長が訓練通り落ち着いた行動ができたのではないかと思う。機長経験者として大変ほっとしている」と話していました。また「同様の事例は過去に北大西洋にある島で霧の中、ジャンボどうしが衝突したという事例はあるが、日本の空港でこういう事例は少ないと思う」と話していました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堀口英利くんお正月スペシャル]]></title>
         <id>https://www.youtube.com/watch?v=jtJehGnriZg</id>
