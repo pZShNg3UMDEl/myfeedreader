@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120150/",
+          "author": null,
+          "description": "ゲームクリエイターの小島秀夫に密着したドキュメンタリー「HIDEO KOJIMA：CONNECTING WORLDS」が、ディズニープラスの「スター」で、2024年春に独占配信される。あわせて、...",
+          "link": "https://anime.eiga.com/news/120150/",
+          "publishedOn": "2024-01-02T12:00:00.000Z",
+          "wordCount": 790,
+          "title": "ゲームクリエイター小島秀夫に密着　「DEATH STRANDING」創作過程にも迫るドキュメンタリー、今春配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120126/",
           "author": null,
           "description": "「テレビアニメ『わたしの幸せな結婚』展」が、2024年1月5～23日に東京・松屋銀座8Fイベントスペースで開催される。展示内容の詳細、描き下ろしキービジュアル、斎森美世役の上田麗奈、久堂清霞役の...",
@@ -852,6 +867,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96738",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/01(月) 22:24:23.88 ID:T1Gq8 あんな超シンプルなゲーム […]",
+          "link": "https://switchsoku.com/soft/dragonquest/96738",
+          "publishedOn": "2024-01-02T12:00:45.000Z",
+          "wordCount": 9982,
+          "title": "今更だけど『初代ドラクエ』ってすごいよな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/DQ1.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=96736",
           "author": "SWITCH速報",
@@ -1820,6 +1845,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307361000.html",
+          "author": null,
+          "description": "国土交通省航空局と海上保安庁の会見が午後9時15分過ぎから国土交通省で始まりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307361000.html",
+          "publishedOn": "2024-01-02T12:50:55.000Z",
+          "wordCount": 523,
+          "title": "【ライブ配信・速報中】羽田空港事故 国交省と海上保安庁 会見",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307361_2401022126_0102212735_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307371000.html",
+          "author": null,
+          "description": "日本航空によりますと、事故のあと2日に羽田空港を発着する便はすべて欠航が決まったということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307371000.html",
+          "publishedOn": "2024-01-02T12:31:03.000Z",
+          "wordCount": 749,
+          "title": "日本航空 2日の羽田発着の全便欠航 全日空は国内線110便欠航",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307371_2401022136_0102214841_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307221000.html",
           "author": null,
@@ -4067,6 +4112,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=231736",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ブラックサンダーひとくちサイズ 神ミルク」を世界一詳しく調査しました。   公式YouTub […]",
+          "link": "https://foodfighter.jp/711sej-black-thunder-kami-milk",
+          "publishedOn": "2024-01-02T11:56:41.000Z",
+          "wordCount": 1836,
+          "title": "【セブンイレブン】ブラックサンダーひとくちサイズ 神ミルク【新作コンビニお菓子】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/998e20b8982640894d9516d5e4468798.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=231715",
           "author": "foodfighter",
