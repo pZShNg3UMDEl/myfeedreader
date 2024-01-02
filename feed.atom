@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T05:27:52.832Z</updated>
+    <updated>2024-01-02T05:38:23.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -83,6 +83,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306981000.html"/>
         <updated>2024-01-02T03:53:19.000Z</updated>
         <summary type="html"><![CDATA[国土交通省によりますと、石川県輪島市にある能登空港は、利用客や付近の住民などおよそ500人が空港内の駐車場に避難していますが、付近の道路が寸断され孤立状態にあるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地震 石川 輪島「朝市通り」周辺で火災 約200棟焼けたか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306951000.html"/>
+        <updated>2024-01-02T03:49:03.000Z</updated>
+        <summary type="html"><![CDATA[震度6強の揺れを観測した、輪島市の中心部にある河井町では1日夕方、観光名所として知られる「朝市通り」周辺で火事があり消防によりますとこれまでにおよそ200棟が焼けたとみられるということです。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
