@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T06:30:27.329Z</updated>
+    <updated>2024-01-02T06:50:13.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ライブ配信中】林官房長官会見]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014307041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014307041000.html"/>
+        <updated>2024-01-02T06:41:26.000Z</updated>
+        <summary type="html"><![CDATA[林官房長官は、石川 能登 震度7の地震について、2日午後3時30分過ぎから記者会見を行っています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北陸新幹線 全線で運転再開 新幹線の運転見合わせすべて解消]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014307061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014307061000.html"/>
+        <updated>2024-01-02T06:38:54.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本によりますと北陸新幹線は1日の地震の影響で、富山駅と長野駅の間で運転を見合わせていましたが、2日午後3時20分に全線で運転を再開しました。上越新幹線も2日午後2時38分に全線で運転を再開していて、1日の地震の影響による新幹線の運転見合わせはすべて解消しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福島瑞穂さん「社民党は能登半島等地震対策本部を立ち上げました」なお何をするのかは不明]]></title>
         <id>https://itainews.com/archives/2031846.html</id>
