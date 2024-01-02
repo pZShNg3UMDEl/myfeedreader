@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T04:50:14.282Z</updated>
+    <updated>2024-01-02T05:27:52.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ファミマ】赤城乳業 たべる牧場 いちごみるく【新作アイス】]]></title>
+        <id>https://foodfighter.jp/?p=231669</id>
+        <link href="https://foodfighter.jp/famima-taberu-milk-ichigo"/>
+        <updated>2024-01-02T05:27:14.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「赤城乳業 たべる牧場 いちごみるく」を世界一詳しく調査しました。   公式YouTubeチ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立憲民主党「今年、私もターボ癌で友人達をなくした」]]></title>
+        <id>https://itainews.com/archives/2031839.html</id>
+        <link href="https://itainews.com/archives/2031839.html"/>
+        <updated>2024-01-02T05:01:26.000Z</updated>
+        <summary type="html"><![CDATA[1 ：名無しさん＠涙目です。(愛媛県) [ES]：2024/01/01(月) 11:55:26.90 ID:XJqhrpcK0●.net
+
+
+
+
+
+
+
+
+
+これだけたくさんの事例が報告されているのに、まだ対策を講じようとしないのは何故か？　今年、私もターボ癌で友人達をなくした。私より後にかんが見つかった友人達...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川県で2日夜遅くから雨の見込み 土砂災害に十分注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306931000.html"/>
+        <updated>2024-01-02T04:56:36.000Z</updated>
+        <summary type="html"><![CDATA[今回の地震で被害を受けている石川県では、2日夜遅くから4日にかけて雨が降る見込みです。地震の揺れで地盤が緩んでいるところがあるため、少しの雨でも土砂災害の危険度が高まるおそれがあり、気象庁は十分注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[志賀原発 外部電源が一部使えない状況続く 復旧の進め方検討]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240102/k10014306991000.html</id>
@@ -7376,56 +7416,6 @@ The new sensor uses SSS’s proprietary Cu-Cu connection to achieve the industry
         <summary type="html"><![CDATA[SWIR/NIR SPAD Image Sensors for LIDAR and Quantum Imaging Applications, by Prof. Charbon
 
 In this talk, prof. Charbon will review the evolution of solid-state photon counting sensors from avalanche photodiodes (APDs) to silicon photomultipliers (SiPMs) to single-photon avalanche diodes (SPADs). The impact of these sensors on LiDAR has been remarkable, however, more innovations are to come with the continuous advance of integrated SPADs and the introduction of powerful computational imaging techniques directly coupled to SPADs/SiPMs. New technologies, such as 3D-stacking in combination with Ge and InP/InGaAs SPAD sensors, are accelerating the adoption of SWIR/NIR image sensors, while enabling new sensing functionalities. Prof. Charbon will conclude the talk with a technological perspective …]]></summary>
-        <author>
-            <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Postings - Week of 3 Dec 2023]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/blog-post.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/blog-post.html"/>
-        <updated>2023-12-03T17:15:00.002Z</updated>
-        <summary type="html"><![CDATA[Johnson & Johnson
-Principal Electrical Engineer –
-  Vision
-Santa Clara, California, USA
-Cincinnati, Ohio, USA
-Link
-Shenzhen Institute of Advanced
-  Technology
-Faculty positions in Research
-  Center for Intelligent Biomedical Materials and Devices (IBMD)
-Shenzhen, Guangdong, China
-Link
-Andor
-  Technology
-Physicist
-Belfast, Northern Ireland, UK
-Link
-Bruker
-Application Scientist Magnetic
-  Particle Imaging 
-Ettlingen, Germany
-Link
-Raytheon
-EO - Senior Principal Optical
-  Subsystems Engineer
-Tucson, Arizona, USA
-Link
-Telops
-R&D Project Manager
-Quebec City, Quebec, Canada
-Link
-CERN
-R&D on CMOS detectors for the
-  new experiments at the Future Circular Collider 
-Geneva, Switzerland
-Link
-University of Sussex
-PhD studentship on novel opaque
-  scintillator detector R&D 
-Brighton, UK
-Link]]></summary>
         <author>
             <name>Image Sensors World</name>
         </author>
