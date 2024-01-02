@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T22:50:41.079Z</updated>
+    <updated>2024-01-02T23:22:06.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東海道新幹線 臨時列車を4本運行へ 羽田空港の事故を受けて]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307631000.html"/>
+        <updated>2024-01-02T22:58:31.000Z</updated>
+        <summary type="html"><![CDATA[JR東海は、羽田空港で日本航空の旅客機と海上保安庁の航空機が衝突した事故の影響で空の便で欠航が相次ぎ、利用客の混雑が予想されるとして、3日、東海道新幹線の下りの臨時列車を運行することを決めました。臨時列車は、東京駅から新大阪駅に向かう午前を中心とした合わせて4本で、いずれも普通車は自由席だということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYダウ平均株価 ことし最初の取引 最高値を更新]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240103/k10014307621000.html</id>
