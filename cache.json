@@ -793,6 +793,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96717",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/02(火) 09:16:07.40 ID:FKMzQ2DL0 写真５本中の１本 […]",
+          "link": "https://switchsoku.com/gossip/96717",
+          "publishedOn": "2024-01-02T02:00:33.000Z",
+          "wordCount": 10044,
+          "title": "とあるYouTuberが買ったゲーム福袋の中身が…",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/fukubukuro.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=96714",
+          "author": "SWITCH速報",
+          "description": "任天堂の決算報告によると『星のカービィディスカバリー』の2023年9月時点での販売本数は米大陸251 […]",
+          "link": "https://switchsoku.com/soft/kirby/96714",
+          "publishedOn": "2024-01-02T00:00:37.000Z",
+          "wordCount": 10033,
+          "title": "『カービィディスカバリー』世界売上696万本！！！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/kirby-dis.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96711",
           "author": "SWITCH速報",
           "description": "372: 2023/12/28(木) 09:55:19.22 ID:0g2uWuPAM ドラクエ11 […]",
@@ -1180,6 +1200,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sQOPAx6-mpM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sQOPAx6-mpM",
+          "publishedOn": "2024-01-02T02:00:30.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】全力で引いて大丈夫?新春2024ドラゴン装備はかいのてっきゅうを無課金勇者はジェム投入して引くべきか!?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9yY5ywDo-5w",
           "author": null,
           "description": "",
@@ -1336,6 +1366,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=9350",
+          "author": "watanabe@logipara.com",
+          "description": "ｵﾊﾞｧｰ（布団で震える音） 実家でアレルギー発症しまして、体力がないまま帰宅し、たっぷりと体調を崩しております。まったく幸先のいい正月だぜ！！ しばらく体調回復に専念しますので、メールの返信などしばらくお待ちください！ […]",
+          "link": "https://logipara.com/diary-text/2024-01-02",
+          "publishedOn": "2024-01-02T01:57:17.000Z",
+          "wordCount": 4386,
+          "title": "正月から体調を崩しております",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=9348",
           "author": "watanabe@logipara.com",
@@ -1690,6 +1730,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306851000.html",
+          "author": null,
+          "description": "今回の地震について、気象庁は2日午前10時半ごろから、記者会見を行いました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014306851000.html",
+          "publishedOn": "2024-01-02T02:10:26.000Z",
+          "wordCount": 738,
+          "title": "気象庁会見「海に入っての作業などには十分な留意が必要」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306851_2401021034_0102103528_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306881000.html",
+          "author": null,
+          "description": "JR西日本によりますと、北陸新幹線は設備の点検のため金沢駅と長野駅の間で運転を見合わせていましたが、午前10時34分に金沢駅と富山駅の間の上下線で運転を再開しました。富山駅と長野駅の間は引き続き運転を見合わせています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014306881000.html",
+          "publishedOn": "2024-01-02T01:59:25.000Z",
+          "wordCount": 775,
+          "title": "北陸新幹線 金沢-富山 運転再開 富山-長野は運転見合わせ継続",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306881_2401021055_0102105927_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306771000.html",
+          "author": null,
+          "description": "今回の地震を受けて、岸田総理大臣は、2日午前、みずからをトップに「非常災害対策本部」を開きました。2日午前10時15分から記者会見を行いました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014306771000.html",
+          "publishedOn": "2024-01-02T01:55:21.000Z",
+          "wordCount": 1118,
+          "title": "地震 岸田首相会見「空輸や海上輸送なども総動員し支援」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306771_2401021013_0102101523_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306781000.html",
+          "author": null,
+          "description": "石川県能登地方で震度7の揺れを観測した地震の影響で、石川県や富山県などで2日午前9時半現在、あわせて4万6000人以上が避難しているということです。各地の避難の状況をまとめています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014306781000.html",
+          "publishedOn": "2024-01-02T01:51:58.000Z",
+          "wordCount": 956,
+          "title": "【避難状況 2日】石川 富山県内で計4万6000人以上避難（9:30）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306781_2401021030_0102103959_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306721000.html",
           "author": null,
@@ -3738,6 +3818,26 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=231648",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「アンデイコ　ほぼ生チョコアイスバー」を世界一詳しく調査しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/711sej-nama-chocolate-ice-bar",
+          "publishedOn": "2024-01-02T00:46:46.000Z",
+          "wordCount": 1833,
+          "title": "【セブンイレブン】アンデイコ　ほぼ生チョコアイスバー【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/83fdd2342c551cb98269ef831d34682c.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=231629",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝食メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/yoshinoya-asagyu-omori",
+          "publishedOn": "2024-01-01T23:46:24.000Z",
+          "wordCount": 1897,
+          "title": "【吉野家】朝牛セット・アタマの大盛り【朝食メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/f4bf4f2eb200725a21428c9439f1b7cd.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=231609",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、サクサク・やわらか・ボリューム満点のカツ丼が人気の超有名チェーン「かつや」へ進撃しました。 &nbs […]",
@@ -4221,6 +4321,26 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=65743",
+          "author": "299",
+          "description": "海外の幼児と子猫達の戯れの動画です。生後10か月程の子供たちと子猫達の何気ない風景ですがとても可愛い動画になっております。 最初は茶色の猫と赤ちゃんの動画で猫は何をされても怒らず赤ちゃんのほっぺたをつついたり舐めたりとほ...\n子猫と赤ちゃんの戯れ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65743",
+          "publishedOn": "2024-01-02T02:00:47.000Z",
+          "wordCount": 1859,
+          "title": "子猫と赤ちゃんの戯れ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65743.jpg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=65778",
+          "author": "299",
+          "description": "この動画は普段の猫動画とは少し異なります。少しの間、市内をドライブして見られる風景をお楽しみください。 車が横断歩道で止まっていると右側から高齢者のおばさんが小さな４輪車の台車を押して渡ろうとするとその後を追って猫もおば...\n横断歩道を渡るおばあちゃんとその姿を見守る猫、そして優しい運転手さん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65778",
+          "publishedOn": "2024-01-02T00:00:09.000Z",
+          "wordCount": 1861,
+          "title": "横断歩道を渡るおばあちゃんとその姿を見守る猫、そして優しい運転手さん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65778.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=65739",
           "author": "299",
@@ -5872,6 +5992,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40160",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ 先日、ららぽーと海老名4階のスポーツ用品店「BODYMAKER」が閉店するという記事をお伝えしましたが、 以前の記事 ・【閉店・海老名】ららぽーと海老名4階のスポーツ用品店「BODYMAKER」が1月8日…",
+          "link": "https://atsugi-lab.com/news-lalaportebina202401/",
+          "publishedOn": "2024-01-02T02:14:50.000Z",
+          "wordCount": 1180,
+          "title": "【海老名・閉店】びっくりー！ららぽーと海老名で2024年1月中に10店舗以上が閉店。8日まで売り尽くしセール実施中。",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/lala-ebina202401.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=40134",
           "author": "fumie",
