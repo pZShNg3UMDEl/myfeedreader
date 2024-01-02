@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T07:35:47.019Z</updated>
+    <updated>2024-01-02T07:50:17.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震 石川県内で48人死亡確認（午後3時半時点）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240102/k10014307101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014307101000.html"/>
+        <updated>2024-01-02T07:38:15.000Z</updated>
+        <summary type="html"><![CDATA[石川県によりますと、2日午後3時半の時点で今回の地震による死者が県内であわせて48人確認されたということです。▼珠洲市で20人、▼輪島市で19人、▼七尾市で5人、▼穴水町で2人、▼羽咋市と志賀町でそれぞれ1人となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【いきなりステーキ】ワイルドハンバーグ300g・おろしポン酢【定番メニュー】]]></title>
         <id>https://foodfighter.jp/?p=231692</id>
