@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T02:09:49.152Z</updated>
+    <updated>2024-01-03T02:38:20.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 “時間との勝負 人命第一で救命救助活動に全力を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307701000.html"/>
+        <updated>2024-01-03T02:34:02.000Z</updated>
+        <summary type="html"><![CDATA[今回の地震を受けた政府の「非常災害対策本部」で、岸田総理大臣は「発災後40時間以上が経過し、時間との勝負になっている」と述べ、人命第一で対応するよう指示しました。また、避難が長期化する可能性もあると指摘し、物資の確保やインフラの復旧に全力を挙げるよう求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川県 能登地方で震度5強の地震（10:54）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240103/k10014307691000.html</id>
