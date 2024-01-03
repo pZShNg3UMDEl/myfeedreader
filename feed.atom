@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T11:35:29.368Z</updated>
+    <updated>2024-01-03T11:50:41.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[羽田空港事故 交信記録やり取り詳細“18分の避難”機内で何が]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014308031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014308031000.html"/>
+        <updated>2024-01-03T11:45:01.000Z</updated>
+        <summary type="html"><![CDATA[2日、東京の羽田空港で日本航空の旅客機が着陸した直後に海上保安庁の航空機と滑走路上で衝突して炎上し、海上保安官5人が死亡した事故で、国土交通省は管制官と双方の機体との当時のやり取りを公表しました。「やり取りの詳細は」「“18分の避難” 機内では何が」交信記録の詳細と、乗客の証言をまとめました。※記事文末に管制官と双方の機体との詳細なやり取りを掲載しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40歳わが子の「お年玉ちょうだい」に思わず絶句…引きこもり息子による実家占拠で破産寸前]]></title>
         <id>https://itainews.com/archives/2031867.html</id>
