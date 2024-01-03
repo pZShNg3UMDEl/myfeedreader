@@ -1859,6 +1859,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/01/samsungsk-hynix-bet-on-intelligent.html",
+          "author": null,
+          "description": "From Business Korea: https://www.businesskorea.co.kr/news/articleView.html?idxno=208769\nSamsung, SK hynix Advance in AI-embedded Image Sensors\nSamsung Electronics and SK hynix are making strides in commercializing “On-sensor AI” technology for image sensors, aiming to elevate their image sensor technologies centered around AI and challenge the market leader, Japan’s Sony, in dominating the next-generation market.\nAt the “SK Tech Summit 2023” held last month, SK hynix revealed its progress in developing On-sensor AI technology. This technology embeds an image sensor onto an AI chip, processing data directly at the sensor level, unlike traditional sensors that relay image information to the Central Processing Unit (CPU) for computation and inference. This advance is expected to be a key tech…",
+          "link": "http://image-sensors-world.blogspot.com/2024/01/samsungsk-hynix-bet-on-intelligent.html",
+          "publishedOn": "2024-01-03T17:00:00.000Z",
+          "wordCount": 4105,
+          "title": "Samsung/SK hynix bet on intelligent image sensors",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/01/review-paper-on-stacking-and.html",
           "author": null,
           "description": "In an ASME J. Electron. Packag. paper titled \"Advancement of Chip Stacking Architectures and Interconnect Technologies for Image Sensors\" Mei-Chien Lu writes:\n\nNumerous technology breakthroughs have been made in image sensor development in the past two decades. Image sensors have evolved into a technology platform to support many applications. Their successful implementation in mobile devices has accelerated market demand and established a business platform to propel continuous innovation and performance improvement extending to surveillance, medical, and automotive industries. This overview briefs the general camera module and the crucial technology elements of chip stacking architectures and advanced interconnect technologies. This study will also examine the role of pixel electronics in…",

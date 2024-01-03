@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T16:50:22.215Z</updated>
+    <updated>2024-01-03T17:26:33.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Samsung/SK hynix bet on intelligent image sensors]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/01/samsungsk-hynix-bet-on-intelligent.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/01/samsungsk-hynix-bet-on-intelligent.html"/>
+        <updated>2024-01-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From Business Korea: https://www.businesskorea.co.kr/news/articleView.html?idxno=208769
+Samsung, SK hynix Advance in AI-embedded Image Sensors
+Samsung Electronics and SK hynix are making strides in commercializing “On-sensor AI” technology for image sensors, aiming to elevate their image sensor technologies centered around AI and challenge the market leader, Japan’s Sony, in dominating the next-generation market.
+At the “SK Tech Summit 2023” held last month, SK hynix revealed its progress in developing On-sensor AI technology. This technology embeds an image sensor onto an AI chip, processing data directly at the sensor level, unlike traditional sensors that relay image information to the Central Processing Unit (CPU) for computation and inference. This advance is expected to be a key tech…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[溝のふたの穴から顔をひょっこり出すニャンコさんが可愛い]]></title>
         <id>https://2-9-9.com/?p=65900</id>
