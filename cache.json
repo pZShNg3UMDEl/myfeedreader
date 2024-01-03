@@ -883,6 +883,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96747",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/02(火) 15:47:51.42 ID:lEUrIFAy0 大成功ですね & […]",
+          "link": "https://switchsoku.com/soft/mario_odyssey/96747",
+          "publishedOn": "2024-01-03T02:00:37.000Z",
+          "wordCount": 9992,
+          "title": "【朗報】マリオ映画、アマプラ1位に浮上",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/03/mario-direct.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=96745",
+          "author": "SWITCH速報",
+          "description": "1: 2023/12/28(木) 17:49:16.811 ID:E0xDtbvh0 SVとかびっく […]",
+          "link": "https://switchsoku.com/soft/pokemon/96745",
+          "publishedOn": "2024-01-03T00:00:32.000Z",
+          "wordCount": 10078,
+          "title": "ポケモンって知らない間にストーリーがすごいことになってたんだな……",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/08/pokemon-sv-battle-pv.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96741",
           "author": "SWITCH速報",
           "description": "1: 2024/01/02(火) 20:50:16.35 ID:UdKf9cu50 ハッピー・アニバ […]",
@@ -1517,6 +1537,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9352",
+          "author": "watanabe@logipara.com",
+          "description": "さようならお正月(布団で丸まりながら)",
+          "link": "https://logipara.com/diary-text/2024-01-03",
+          "publishedOn": "2024-01-03T01:47:46.000Z",
+          "wordCount": 4382,
+          "title": "絶賛体調不良中です",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9350",
           "author": "watanabe@logipara.com",
           "description": "ｵﾊﾞｧｰ（布団で震える音） 実家でアレルギー発症しまして、体力がないまま帰宅し、たっぷりと体調を崩しております。まったく幸先のいい正月だぜ！！ しばらく体調回復に専念しますので、メールの返信などしばらくお待ちください！ […]",
@@ -1870,6 +1900,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307691000.html",
+          "author": null,
+          "description": "3日午前10時54分ごろ地震がありました。この地震による津波の心配はありません。震源地は石川県能登地方で震源の深さは10キロ、地震の規模を示すマグニチュードは5.5と推定されます。各市町村の震度は以下のとおりです。▼震度5強石川県輪島市▼震度4石川県七尾市、石川県中能登町、石川県穴水町、石川県能登町",
+          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307691000.html",
+          "publishedOn": "2024-01-03T02:06:29.000Z",
+          "wordCount": 581,
+          "title": "石川県 能登地方で震度5強の地震（10:54）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307691_2401031059_0103110015_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307651000.html",
+          "author": null,
+          "description": "2日、東京の羽田空港で日本航空の旅客機と海上保安庁の航空機が滑走路上で衝突して炎上し、海上保安庁の乗組員5人が死亡した事故。「これまでにわかっていることは」「原因究明には何が焦点となるのか」社会部の山下哲平記者の解説です。【動画:3分46秒】※データ放送ではご覧になれません",
+          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307651000.html",
+          "publishedOn": "2024-01-03T01:02:38.000Z",
+          "wordCount": 865,
+          "title": "【解説動画】羽田空港事故 事故の状況は 原因究明の焦点は",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307651_2401030938_0103100240_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307641000.html",
+          "author": null,
+          "description": "1日、震度5強の揺れを観測した富山県氷見市では今も広い範囲で断水が続いていて、3日も夜明け前から住民が給水所に長い列を作りポリタンクなどに水を入れていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307641000.html",
+          "publishedOn": "2024-01-03T00:52:05.000Z",
+          "wordCount": 784,
+          "title": "富山 氷見 夜明け前から給水所に長い列 広範囲で断水続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307641_2401030930_0103095206_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307631000.html",
           "author": null,
@@ -4328,6 +4388,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=231757",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新作アイス「セブンプレミアム まるで甘熟とちおとめ苺」を世界一詳しく調査しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/711sej-marude-strawberry-2024",
+          "publishedOn": "2024-01-03T01:24:37.000Z",
+          "wordCount": 1834,
+          "title": "【セブンイレブン】セブンプレミアム まるで甘熟とちおとめ苺【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/731872314177d34a7b6cf53bcec01982.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=231736",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ブラックサンダーひとくちサイズ 神ミルク」を世界一詳しく調査しました。   公式YouTub […]",
@@ -4871,6 +4941,26 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=65808",
+          "author": "299",
+          "description": "赤ちゃんがベッドに横たわりながら、やや興奮気味に部屋のドアのほうをしきりに見つめています。するとそこへ大きなにゃんこを抱っこしたお母さんが入ってきました。 この赤ちゃん、猫さんのことが相当お気に入りのようで満面の笑みで、...\nベッドにやってきた猫に大興奮の赤ちゃん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65808",
+          "publishedOn": "2024-01-03T02:00:22.000Z",
+          "wordCount": 1864,
+          "title": "ベッドにやってきた猫に大興奮の赤ちゃん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65808.jpg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=65843",
+          "author": "299",
+          "description": "ふたごのキジトラ子猫ですが、お昼寝をする時は必ず飼い主さんの膝の上に揃ってやってきます。お父さんの体は面積も広いので子猫2匹が乗ってもかなり余裕があるようです。 一緒に乗っているときもありますが、1匹だけが独占していると...\nお父さんの体をベッドにして尾昼寝する可愛い子猫兄弟 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65843",
+          "publishedOn": "2024-01-03T00:00:47.000Z",
+          "wordCount": 1863,
+          "title": "お父さんの体をベッドにして尾昼寝する可愛い子猫兄弟",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65843.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=65803",
           "author": "299",
