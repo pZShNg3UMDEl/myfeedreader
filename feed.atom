@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T20:50:42.645Z</updated>
+    <updated>2024-01-03T21:18:55.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JALパイロット 海保の航空機「視認できなかった」羽田空港事故]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308251000.html"/>
+        <updated>2024-01-03T21:16:50.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港で日本航空の旅客機と海上保安庁の航空機が滑走路上で衝突して炎上し、海上保安官5人が死亡した事故で、日本航空機のパイロットが会社の聞き取りに対し、滑走路への進入中、海上保安庁の航空機を「視認できなかった」と話していることがわかりました。国の運輸安全委員会が事故の詳しい状況を調べています。また、日本航空は着陸してから乗客乗員379人全員が機体の外に避難するまでの18分間について、その詳細を明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不正発覚が相次いだ日本の自動車業界 信頼問われる年に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308141000.html"/>
+        <updated>2024-01-03T20:47:42.000Z</updated>
+        <summary type="html"><![CDATA[ダイハツ工業による国の認証取得の不正問題は、自動車工場の稼働停止など影響が広がっています。日本の自動車業界ではこの数年、燃費データや検査などで不正の発覚が相次ぎ、日本車の信頼を維持できるのか、原因究明や再発防止の徹底が問われることになります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【丸亀製麺】かにめし【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=231825</id>
