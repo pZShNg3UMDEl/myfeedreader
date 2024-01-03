@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T21:18:55.772Z</updated>
+    <updated>2024-01-03T21:35:57.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308251000.html"/>
         <updated>2024-01-03T21:16:50.000Z</updated>
         <summary type="html"><![CDATA[羽田空港で日本航空の旅客機と海上保安庁の航空機が滑走路上で衝突して炎上し、海上保安官5人が死亡した事故で、日本航空機のパイロットが会社の聞き取りに対し、滑走路への進入中、海上保安庁の航空機を「視認できなかった」と話していることがわかりました。国の運輸安全委員会が事故の詳しい状況を調べています。また、日本航空は着陸してから乗客乗員379人全員が機体の外に避難するまでの18分間について、その詳細を明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRB議事録 ことし中の利下げ適切の見方が多数も 時期記載なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308411000.html"/>
+        <updated>2024-01-03T21:07:46.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの中央銀行にあたるFRB＝連邦準備制度理事会は先月の会合の議事録を公表しました。ほぼすべての参加者がことし中に政策金利を引き下げることが適切だという見方を示していたものの、注目されていた利下げの時期などをめぐる記載はありませんでした。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
