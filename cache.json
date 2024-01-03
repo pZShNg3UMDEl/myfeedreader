@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120292/",
+          "author": null,
+          "description": "「宇宙戦艦ヤマト」リメイクシリーズの最新作「ヤマトよ永遠（とわ）に REBEL（レベル）3199」が全7章仕立てとなり、「第一章 黒の侵略」が2024年7月19日から全国の劇場で上映を開始するこ...",
+          "link": "https://anime.eiga.com/news/120292/",
+          "publishedOn": "2024-01-03T03:00:00.000Z",
+          "wordCount": 889,
+          "title": "リメイクシリーズ最新作「ヤマトよ永遠に REBEL3199」　福井晴敏を総監督に全7章で劇場上映",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120340/",
           "author": null,
           "description": "テレビアニメ「死神坊ちゃんと黒メイド」第3期が2024年4月から放送されることが決まり、ティザービジュアルが公開された。「生きて欲しいんだ、君に。」というキャッチコピーとともに、手を差し出す坊ち...",
@@ -1900,6 +1915,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307751000.html",
+          "author": null,
+          "description": "2日、東京の羽田空港で日本航空の旅客機が着陸した直後に海上保安庁の航空機と滑走路上で衝突して炎上し、海上保安庁の乗組員5人が死亡した事故で、国土交通省が確認したところ、管制官からは海上保安庁の航空機に対し、滑走路に入る手前まで走行するよう指示が出ていたとする一方、海上保安庁の機長は管制官から離陸の許可を得ていたなどと、まったく食い違う認識を示していることがわかりました。国の運輸安全委員会が詳しい状況を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307751000.html",
+          "publishedOn": "2024-01-03T03:19:31.000Z",
+          "wordCount": 649,
+          "title": "羽田事故 海保機長 “管制官から離陸許可” 認識に食い違い",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307751_2401031219_0103121933_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307721000.html",
+          "author": null,
+          "description": "石川県の災害対策本部会議が開かれ、オンラインで出席した珠洲市の泉谷市長は、対応できていない救助要請が72件に上ることを明らかにしたうえで、仮設トイレが至急必要だと訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307721000.html",
+          "publishedOn": "2024-01-03T03:00:42.000Z",
+          "wordCount": 702,
+          "title": "石川県 珠洲市長 “対応できていない救助要請が72件”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307721_2401031159_0103120044_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307701000.html",
           "author": null,
@@ -6105,6 +6140,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031856.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。(愛媛県) [ES]：2024/01/02(火) 20:37:50.37 ID:bZW7l5ww0●.net\n\n\n\n\n\n\n\nSNSで“人工地震が原因”など不安あおる偽情報に注意Xでは今回の地震の原因が「人工地震」だと主張して不安をあおる根拠のない情報や、原子力発電所や避難所の状況...",
+          "link": "https://itainews.com/archives/2031856.html",
+          "publishedOn": "2024-01-03T03:03:25.000Z",
+          "wordCount": 2425,
+          "title": "Xで人工地震デマや原発デマ、避難所デマでみずからの政治的主張に結び付ける投稿　NHK報道",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/978c75fe-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031845.html",
           "author": "damono3856",
