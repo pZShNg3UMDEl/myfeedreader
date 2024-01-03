@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T04:50:41.261Z</updated>
+    <updated>2024-01-03T05:28:04.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アナウンサー「能登半島地震は日本への報い」。停職]]></title>
+        <id>https://itainews.com/archives/2031861.html</id>
+        <link href="https://itainews.com/archives/2031861.html"/>
+        <updated>2024-01-03T05:01:53.000Z</updated>
+        <summary type="html"><![CDATA[1 ：もん様：2024/01/02(火) 23:07:51.85 ID:f9t3Igs90●.net
+
+
+
+
+
+
+
+
+
+
+能登地震「日本への報い」と発言 － 中国のアナウンサー、一時停職にhttps://t.co/J8SaF3kO9J— 共同通信公式 (@kyodo_official) January 2, 2024 
+
+
+
+
+
+
+
+
+能登半島地震は「日本への報い」
+
+　中...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カプコン･コエテク･スパチュン「2024年は任天堂の新プラットフォームに期待」→マジで発表されるの？]]></title>
         <id>https://switchsoku.com/?p=96750</id>
@@ -8338,18 +8370,6 @@ Sony Semiconductor Solutions to Release SWIR Image Sensor for Industrial Applica
 Atsugi, Japan — Sony Semiconductor Solutions Corporation (SSS) today announced the upcoming release of the IMX992 short-wavelength infrared (SWIR) image sensor for industrial equipment, with the industry’s highest pixel count, at 5.32 effective megapixels.
 
 The new sensor uses SSS’s proprietary Cu-Cu connection to achieve the industry’s smallest pixel size of 3.45 μm among SWIR image sensors. It also features an optim…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prof. Edoardo Charbon's Talk on IR SPADs for LiDAR & Quantum Imaging]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/prof-edoardo-charbons-talk-on-ir-spads.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/prof-edoardo-charbons-talk-on-ir-spads.html"/>
-        <updated>2023-12-04T17:14:00.003Z</updated>
-        <summary type="html"><![CDATA[SWIR/NIR SPAD Image Sensors for LIDAR and Quantum Imaging Applications, by Prof. Charbon
-
-In this talk, prof. Charbon will review the evolution of solid-state photon counting sensors from avalanche photodiodes (APDs) to silicon photomultipliers (SiPMs) to single-photon avalanche diodes (SPADs). The impact of these sensors on LiDAR has been remarkable, however, more innovations are to come with the continuous advance of integrated SPADs and the introduction of powerful computational imaging techniques directly coupled to SPADs/SiPMs. New technologies, such as 3D-stacking in combination with Ge and InP/InGaAs SPAD sensors, are accelerating the adoption of SWIR/NIR image sensors, while enabling new sensing functionalities. Prof. Charbon will conclude the talk with a technological perspective …]]></summary>
         <author>
             <name>Image Sensors World</name>
         </author>
