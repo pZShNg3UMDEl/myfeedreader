@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T03:36:27.265Z</updated>
+    <updated>2024-01-03T03:50:31.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛知 弥富 木造2階建てアパートで火事 3人が遺体で見つかる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307711000.html"/>
+        <updated>2024-01-03T03:47:29.000Z</updated>
+        <summary type="html"><![CDATA[3日、愛知県弥富市のアパートから火が出て、焼け跡から3人が遺体で見つかりました。警察は、身元の確認を進めるとともに火事の原因を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uターンラッシュがピーク 羽田空港事故の影響も 100便以上欠航]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307731000.html"/>
+        <updated>2024-01-03T03:21:54.000Z</updated>
+        <summary type="html"><![CDATA[ふるさとや行楽地で過ごした人たちのUターンラッシュは3日がピークで、新幹線や高速道路は午前中から混雑しています。一方、空の便は2日に羽田空港で起きた衝突事故の関係で100便以上が欠航していて、Uターンの足にも影響が出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羽田事故 海保機長 “管制官から離陸許可” 認識に食い違い]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240103/k10014307751000.html</id>
