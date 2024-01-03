@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T13:36:05.797Z</updated>
+    <updated>2024-01-03T13:50:36.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -59,6 +59,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240103/k10014308211000.html"/>
         <updated>2024-01-03T12:44:06.000Z</updated>
         <summary type="html"><![CDATA[石川県の災害対策本部会議が開かれ、オンラインで出席した珠洲市の泉谷市長は「生存率が下がるとされる発生から72時間まであとわずかになってしまった。力を振り絞って人命救助に取り組んでほしい」と訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学入学共通テスト 被災地の受験生に追試験の特例措置 文科相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014308021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014308021000.html"/>
+        <updated>2024-01-03T12:32:58.000Z</updated>
+        <summary type="html"><![CDATA[今回の大地震を受け、盛山文部科学大臣は、1月中旬に実施される「大学入学共通テスト」の本試験を受けられない被災地の受験生について、1月下旬の追試験を受けられるよう特例措置を講じることを発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
