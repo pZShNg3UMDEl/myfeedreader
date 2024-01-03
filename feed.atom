@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T06:30:39.696Z</updated>
+    <updated>2024-01-03T06:50:23.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【中継映像・速報中】福岡 北九州 小倉北区 商店街で火災]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307901000.html"/>
+        <updated>2024-01-03T06:38:32.000Z</updated>
+        <summary type="html"><![CDATA[警察によりますと、3日午後3時すぎ、北九州市小倉北区魚町で「建物が燃えている」と、消防に通報があったということです。現場付近は商店が密集している地域で、NHKのカメラの映像では炎と黒煙が上がり、消防が消火活動に当たっているのが確認できます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セガ「ゲーム開発力世界最強です｡湯川専務･せがた三四郎います」←こいつが負けた理由]]></title>
         <id>https://switchsoku.com/?p=96752</id>
