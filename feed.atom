@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T20:50:19.087Z</updated>
+    <updated>2024-01-04T21:19:48.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「H3」打ち上げや日本初 月面着陸の計画 宇宙めぐる動き活発に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309451000.html"/>
+        <updated>2024-01-04T21:15:07.000Z</updated>
+        <summary type="html"><![CDATA[去年、初号機が打ち上げに失敗した新たな主力ロケット「H3」の2号機の打ち上げが来月予定されているほか、今月20日には無人探査機による日本初の月面着陸も計画されるなど、ことしは年明けから宇宙をめぐる動きが活発になりそうです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地震後 1週間ほど最大震度7程度の揺れに注意 土砂災害の危険も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309461000.html"/>
+        <updated>2024-01-04T21:02:16.000Z</updated>
+        <summary type="html"><![CDATA[今回の能登半島地震で石川県で震度7の揺れを観測したあと、能登地方やその周辺では地震が相次いでいて、今月1日の地震から1週間ほどは最大震度7程度の揺れに注意が必要です。また、被災地では地震の揺れで地盤が緩んでいるところがあり、土砂災害に十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽田空港事故 管制官 指示後の海保機「別調整などで意識せず」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309651000.html"/>
+        <updated>2024-01-04T20:57:00.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港で起きた日本航空と海上保安庁の航空機どうしの衝突炎上事故で、担当した管制官は海上保安庁の航空機に滑走路の手前まで走行するよう指示を出したあとの状況について「別の航空機の調整などがあったため、意識していなかった」と話していることがわかりました。滑走路への進入には気がつかなかったということで、国の運輸安全委員会が当時の詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イラン 追悼式典での爆発 ISがみずからの犯行だと主張する声明]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240105/k10014309751000.html</id>
