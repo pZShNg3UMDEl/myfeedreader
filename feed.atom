@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T02:10:14.628Z</updated>
+    <updated>2024-01-04T02:40:21.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海上保安庁の機長「突然機体の後ろから火が出た」羽田空港事故]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308601000.html"/>
+        <updated>2024-01-04T02:35:04.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港で日本航空の旅客機と海上保安庁の航空機が衝突して炎上し、海上保安官5人が死亡した事故で、海上保安庁の機長が警視庁の聞き取りに対して「突然、機体の後ろから火が出た」という趣旨の説明をしていたことが捜査関係者への取材で分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海上保安庁「珠洲市漁港周辺 津波に流され1人行方不明の情報」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308551000.html"/>
+        <updated>2024-01-04T02:10:24.000Z</updated>
+        <summary type="html"><![CDATA[石川県の災害対策本部会議で、海上保安庁は、「珠洲市の飯田湾西方の鵜飼漁港の周辺で、津波に流されて1人が行方不明になっているという情報があり、巡視船を捜索に向かわせている」と報告しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野良の三毛猫が子猫を紹介しにきてくれた]]></title>
         <id>https://2-9-9.com/?p=65871</id>
