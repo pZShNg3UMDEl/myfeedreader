@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T04:50:19.900Z</updated>
+    <updated>2024-01-04T05:28:01.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「全国のみなさん、共産党の能登半島地震災害募金に協力してください」]]></title>
+        <id>https://itainews.com/archives/2031884.html</id>
+        <link href="https://itainews.com/archives/2031884.html"/>
+        <updated>2024-01-04T05:01:50.000Z</updated>
+        <summary type="html"><![CDATA[1 ：名無しさん＠涙目です。：2024/01/03(水) 18:04:39.79 ID:C1VQtqBA0●.net 
+
+
+
+
+
+
+
+
+
+「2024年能登半島地震災害募金」ご協力を。犠牲になられた方々に心から哀悼の意を表します。被災されたみなさまに心からお見舞い申し上げます。お預かりした救援募金は、日本共産...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震 “救助に全力を 輸送課題解消急ぐよう指示”首相]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240104/k10014308621000.html</id>
@@ -9322,25 +9342,6 @@ Abstract: This paper presents the complete design, fabrication, and characteriza
         <updated>2023-12-06T10:50:57.000Z</updated>
         <author>
             <name>ドラゴンクエストウォーク公式</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony announces new 5MP SWIR sensor IMX992]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/sony-announces-new-5mp-swir-sensor.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/sony-announces-new-5mp-swir-sensor.html"/>
-        <updated>2023-12-05T17:00:00.007Z</updated>
-        <summary type="html"><![CDATA[Product page: https://www.sony-semicon.com/en/products/is/industry/swir/imx992-993.html 
-
-Press release: https://www.sony-semicon.com/en/news/2023/2023112901.html
-Sony Semiconductor Solutions to Release SWIR Image Sensor for Industrial Applications with Industry-Leading 5.32 Effective Megapixels Expanding the lineup for delivering high-resolution and low-light performance 
-
-
-
-Atsugi, Japan — Sony Semiconductor Solutions Corporation (SSS) today announced the upcoming release of the IMX992 short-wavelength infrared (SWIR) image sensor for industrial equipment, with the industry’s highest pixel count, at 5.32 effective megapixels.
-
-The new sensor uses SSS’s proprietary Cu-Cu connection to achieve the industry’s smallest pixel size of 3.45 μm among SWIR image sensors. It also features an optim…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
