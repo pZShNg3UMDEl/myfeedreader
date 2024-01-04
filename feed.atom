@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T07:35:42.454Z</updated>
+    <updated>2024-01-04T07:50:33.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -52,6 +52,16 @@ JAL機炎上のもうひとつの懸念「預けられていた動物はいた�
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「大盛ガーリックトマトソースパスタ」を世界一詳しく調査しました。   公式YouTubeチャン […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[びわ湖の水位低下 滋賀県が「渇水対策本部」設置へ 約18年ぶり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308941000.html"/>
+        <updated>2024-01-04T06:32:54.000Z</updated>
+        <summary type="html"><![CDATA[びわ湖の水位が下がっていることを受けて、滋賀県の三日月知事は4日の記者会見で「渇水対策本部」をおよそ18年ぶりに設置することを明らかにしたうえで、県民に改めて節水を呼びかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
