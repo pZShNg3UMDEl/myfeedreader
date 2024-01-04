@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T04:39:52.170Z</updated>
+    <updated>2024-01-04T04:50:19.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -53,6 +53,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308701000.html"/>
         <updated>2024-01-04T03:46:06.000Z</updated>
         <summary type="html"><![CDATA[羽田空港で起きた日本航空の旅客機と海上保安庁の航空機の衝突炎上事故で、管制官と日本航空機の交信記録には、着陸のやり直しに関する内容がなかったことが分かりました。管制官と日本航空機のパイロットはいずれも、滑走路上の海上保安庁の航空機に気がついていなかった可能性があり、国の運輸安全委員会が詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東証で大発会 地震の影響懸念から株価一時700円以上値下がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308661000.html"/>
+        <updated>2024-01-04T03:33:17.000Z</updated>
+        <summary type="html"><![CDATA[東京証券取引所で新年の大発会が開かれ、ことしの取り引きが始まりました。能登半島地震の影響への懸念が出て、取り引き開始直後、日経平均株価は700円以上、値下がりしました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
