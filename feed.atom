@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T20:37:19.900Z</updated>
+    <updated>2024-01-04T20:50:19.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イラン 追悼式典での爆発 ISがみずからの犯行だと主張する声明]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309751000.html"/>
+        <updated>2024-01-04T20:34:50.000Z</updated>
+        <summary type="html"><![CDATA[イランで2回爆発が起きて80人以上が死亡した事件について、過激派組織IS＝イスラミックステートがみずからの犯行だと主張する声明を出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミャンマー 独立記念日にあわせ受刑者9600人余に恩赦与える]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309511000.html"/>
+        <updated>2024-01-04T20:20:59.000Z</updated>
+        <summary type="html"><![CDATA[ミャンマーで実権をにぎる軍は独立記念日にあわせ、民主活動家らを含む受刑者9600人余りに恩赦を与えました。軍に拘束されている民主派指導者、アウン・サン・スー・チー氏は含まれていないとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【JAL機炎上】ペット犠牲受け「同伴搭乗」求める声が加速…“貨物扱い”禁止を求める署名は2日で1.6万人超え]]></title>
         <id>https://itainews.com/archives/2031898.html</id>
