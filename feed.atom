@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T23:36:53.566Z</updated>
+    <updated>2024-01-04T23:50:35.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米高官“ロシアが北朝鮮供与のミサイル ウクライナに発射”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309781000.html"/>
+        <updated>2024-01-04T22:45:57.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ・ホワイトハウスの高官は、ロシアが北朝鮮から弾道ミサイルの供与を受け、ウクライナに対して発射したとみられると明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写真家 篠山紀信さん 死去 83歳 時代を象徴する人物撮り続ける]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240105/k10014309761000.html</id>
