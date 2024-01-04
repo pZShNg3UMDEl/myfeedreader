@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T10:31:51.487Z</updated>
+    <updated>2024-01-04T10:50:27.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海保機 約40秒間 滑走路上に停止か 羽田空港 衝突炎上事故]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014309321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014309321000.html"/>
+        <updated>2024-01-04T10:47:42.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港で起きた衝突炎上事故で、海上保安庁の航空機は衝突までおよそ40秒間、滑走路上に停止していたとみられることが分かりました。専門家は、日本航空機のパイロットが事故を避けるための時間は一定程度あったとしたうえで、「長く停止していたことでかえって見えづらくなった可能性もある」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避難生活 “低体温症に注意 互いに見守りを” 専門家が解説]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308771000.html"/>
+        <updated>2024-01-04T10:31:28.000Z</updated>
+        <summary type="html"><![CDATA[今回の能登半島地震では、厳しい寒さや各地で停電や断水が相次ぐなかでの避難生活を余儀なくされています。専門家は気温の低下などによる「低体温症」に特に注意が必要だとして、体を温かくすることや周りの人たちの体調の変化を互いに見守りあうなどしてほしいと呼びかけています。【動画 7分10秒】※データ放送ではご覧になれません]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[節税のフリーレンス]]></title>
         <id>https://www.youtube.com/watch?v=SWH9D727Fjg</id>
