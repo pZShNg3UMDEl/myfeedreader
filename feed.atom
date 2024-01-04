@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T02:40:21.255Z</updated>
+    <updated>2024-01-04T02:50:44.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東急東横線と東京メトロ副都心線 全線で運転見合わせ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308641000.html"/>
+        <updated>2024-01-04T02:38:42.000Z</updated>
+        <summary type="html"><![CDATA[東急電鉄によりますと東急東横線は、午前10時55分ごろ、東京・渋谷区の渋谷駅での車内の安全確認のため、全線で運転を見合わせています。また、東京メトロによりますとこの影響で副都心線も全線で運転を見合わせています。運転再開の見通しはたっていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海上保安庁の機長「突然機体の後ろから火が出た」羽田空港事故]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240104/k10014308601000.html</id>
