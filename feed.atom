@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T14:50:11.559Z</updated>
+    <updated>2024-01-05T15:24:11.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[珠洲市 医師などNGOが医療支援や捜索活動“環境は非常に劣悪”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014311001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014311001000.html"/>
+        <updated>2024-01-05T14:50:48.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震を受け、石川県珠洲市には医師や看護師などからなるNGOの災害支援チームが入り、医療支援や捜索活動などを行っています。NGOが派遣した災害支援チームのプロジェクトリーダーを務める医師は「飲む物も食べる物もなく医療だけでは救えないという状態で、これまで活動してきた避難所や災害現場の中でも非常に劣悪な環境だと言わざるをえない」などと述べ、危機感を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[親戚にいる謎のおじさん]]></title>
         <id>https://logipara.com/?p=9367</id>
