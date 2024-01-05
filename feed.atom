@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T19:35:47.435Z</updated>
+    <updated>2024-01-05T19:50:17.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ライフライン 6日】断水や停電続く 石川県で3万人余が避難]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240106/k10014311481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240106/k10014311481000.html"/>
+        <updated>2024-01-05T19:35:54.000Z</updated>
+        <summary type="html"><![CDATA[1日に石川県能登地方で震度7の揺れを観測した地震により、6日も断水や停電などライフラインへの影響が各地で続いています。各地の最新状況について随時更新でまとめます。石川県内の6日の給水支援の情報もお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダンボール箱から出るのに苦戦してしまう子猫]]></title>
         <id>https://2-9-9.com/?p=66028</id>
