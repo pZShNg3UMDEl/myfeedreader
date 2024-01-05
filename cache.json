@@ -6,6 +6,36 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120346/",
+          "author": null,
+          "description": "劇場アニメ「劇場版 オーバーロード 聖王国編」が2024年に公開されることが決まり、特報映像が披露された。 アニメ「オーバーロード」シリーズは、シリーズ累計1400万部を突破する丸山くがね氏によ...",
+          "link": "https://anime.eiga.com/news/120346/",
+          "publishedOn": "2024-01-05T10:00:00.000Z",
+          "wordCount": 833,
+          "title": "「劇場版 オーバーロード 聖王国編」は24年公開　特報映像も披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/120344/",
+          "author": null,
+          "description": "2023年12月29日～31日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、上位4作品に変動はなく、「劇場版 SPY×FAMILY CODE: White」が2週連続で首位...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/120344/",
+          "publishedOn": "2024-01-05T10:00:00.000Z",
+          "wordCount": 857,
+          "title": "【週末アニメ映画ランキング】「劇場版 SPY×FAMILY」が2週連続で首位を獲得し、お正月興行をけん引",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120323/",
           "author": null,
           "description": "テレビアニメ「魔法科高校の劣等生 第3シーズン」が4月からTOKYO MX、BS11、とちぎテレビ、群馬テレビ、MBS、テレビ愛知でスタートすることが決定した。そのほか、新キャストや主題歌アーテ...",
@@ -1062,6 +1092,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96824",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/04(木) 00:30:42.542 消耗品なんだから 本体裏パカッと開けて自 […]",
+          "link": "https://switchsoku.com/switch/96824",
+          "publishedOn": "2024-01-05T10:00:42.000Z",
+          "wordCount": 9977,
+          "title": "Switchのバッテリー交換ってなんで郵送修理なんだ？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/03/switch-tegra.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=96822",
           "author": "SWITCH速報",
@@ -2295,6 +2335,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310911000.html",
+          "author": null,
+          "description": "厚生労働省によりますと石川県内で108の高齢者施設で断水や停電などの被害が確認されていますが、3つの施設と連絡が取れない状況が続いているとして、厚生労働省と石川県などが確認を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310911000.html",
+          "publishedOn": "2024-01-05T10:26:16.000Z",
+          "wordCount": 1008,
+          "title": "石川県の高齢者施設 3施設と連絡取れず 厚労省など確認進める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310911_2401051844_0105190601_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310951000.html",
+          "author": null,
+          "description": "羽田空港で起きた航空機どうしの衝突炎上事故で、事故の前、管制官が海上保安庁の航空機に対し、離陸の順番が1番目だと伝えていたことが分かりました。日本航空機の着陸後の順番を示したものでしたが、実際には、着陸前に滑走路に進入していることから国土交通省はすでに離陸の許可を得たと認識していた可能性もあるとみて確認を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310951000.html",
+          "publishedOn": "2024-01-05T10:25:21.000Z",
+          "wordCount": 897,
+          "title": "羽田空港事故 管制官 海保機に離陸順番1番と伝え許可と認識か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310951_2401051908_0105190854_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310931000.html",
+          "author": null,
+          "description": "6日からの3連休について、多くの被災地ではボランティアなどの受け入れ態勢が整っておらず、石川県などは現時点では問い合わせなども控えてほしいとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310931000.html",
+          "publishedOn": "2024-01-05T10:14:29.000Z",
+          "wordCount": 1009,
+          "title": "あすから3連休 “ボランティア問い合わせも控えて” 石川県",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310931_2401051911_0105191253_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310871000.html",
           "author": null,
@@ -8099,6 +8169,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031913.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：草井満子：2024/01/04(木) 17:24:44.91 ID:w6cLfUlK0●.net\n\n\n\n\n\n\n\n\n歌舞伎町のお餅つきに乙武くんも来てくれました。そしてお餅ついてくれました！#乙武洋匡#歌舞伎町#大久保公園 pic.twitter.com/EoqThEWfpg— 安倍昭恵 (@akie_official) January 4, 2024 \n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2031913.html",
+          "publishedOn": "2024-01-05T10:01:37.000Z",
+          "wordCount": 2399,
+          "title": "安倍昭恵さん「餅付きに乙武くんが手伝いにきてくれました！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e4a5f767.png"
+        },
         {
           "id": "https://itainews.com/archives/2031909.html",
           "author": "yonepo665sfr",
