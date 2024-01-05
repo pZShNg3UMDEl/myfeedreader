@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T09:22:33.971Z</updated>
+    <updated>2024-01-05T09:36:21.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川県 志賀町で津波4m超遡上か 輪島市では4m以上地盤が隆起]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310811000.html"/>
+        <updated>2024-01-05T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[今月1日の能登半島地震で研究者のグループが現地を調査した結果、震度7の揺れを観測した石川県志賀町では、津波が4メートルを超える高さまで陸地を駆け上がったとみられるほか、輪島市の海岸沿いでは4メートル以上地盤が隆起していたことがわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“津波の浸水範囲120ha以上 さらに広がる可能性” 国交省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310731000.html"/>
+        <updated>2024-01-05T09:15:24.000Z</updated>
+        <summary type="html"><![CDATA[今回の能登半島地震で、国土交通省が石川県珠洲市と能登町の上空から撮影した画像を分析した結果、津波で浸水した範囲が少なくとも120ヘクタールにのぼることが分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自衛隊、馬鹿だった！パンを1台のトラックから降ろすのに25人を動員wwww外人から馬鹿にされまくる]]></title>
         <id>https://itainews.com/archives/2031909.html</id>
