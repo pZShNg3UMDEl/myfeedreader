@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120343/",
+          "author": null,
+          "description": "上山道郎氏が「月刊ヤングキングアワーズGH」（少年画報社刊）で連載中の漫画「悪役令嬢転生おじさん」のテレビアニメ化が決定した。 同作は、娘がプレイしていた乙女ゲームの世界に公爵令嬢として異世界転...",
+          "link": "https://anime.eiga.com/news/120343/",
+          "publishedOn": "2024-01-05T08:00:00.000Z",
+          "wordCount": 764,
+          "title": "「悪役令嬢転生おじさん」TVアニメ化決定　52歳のオタク男性公務員が主人公",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120203/",
           "author": null,
           "description": "ガンダムシリーズの45周年を記念する特番が、テレビ東京6局ネットで1月7日～2月25日の毎週日曜午前10時から2カ月連続で放送される。 1月には「ガンダム45周年記念！ガンダムビルドシリーズ S...",
@@ -1032,6 +1047,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96822",
+          "author": "SWITCH速報",
+          "description": "Nintendo Switch版『ロックマンX アニバーサリー コレクション １・２』が2024年1 […]",
+          "link": "https://switchsoku.com/soft/megaman/96822",
+          "publishedOn": "2024-01-05T08:00:34.000Z",
+          "wordCount": 10287,
+          "title": "『ロックマンX』全作10周以上プレイした猛者だけど質問ある？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/11/rockman-x.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=96818",
           "author": "SWITCH速報",
@@ -2255,6 +2280,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310741000.html",
+          "author": null,
+          "description": "石川県能登町の孤立状態になっている地区で、4日、東京消防庁がヘリコプターで救助活動を行ったときの映像です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310741000.html",
+          "publishedOn": "2024-01-05T08:23:09.000Z",
+          "wordCount": 708,
+          "title": "【動画】石川 能登町 孤立地区の高齢者3人をヘリで救助（4日）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310741_2401051716_0105171702_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310781000.html",
+          "author": null,
+          "description": "能登半島地震を受けて、東京都は、自宅が損壊するなどした被災者を受け入れようと、都営住宅を100戸程度用意し、受け付けを速やかに始めたいとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310781000.html",
+          "publishedOn": "2024-01-05T08:17:56.000Z",
+          "wordCount": 994,
+          "title": "被災者受け入れへ都営住宅100戸程度用意 使用期限当面6か月",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310781_2401051708_0105171237_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310771000.html",
+          "author": null,
+          "description": "能登半島地震を受けて、アメリカのエマニュエル駐日大使はアメリカ軍による支援の準備を進めていると明らかにしました。日米両政府は被災地のニーズなども見極めながら、支援に向け調整を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310771000.html",
+          "publishedOn": "2024-01-05T08:12:30.000Z",
+          "wordCount": 940,
+          "title": "“米軍による被災地支援の準備進める” 米駐日大使 SNSに投稿",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310771_2401051701_0105170647_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310161000.html",
+          "author": null,
+          "description": "石川県内の避難所でインフルエンザや新型コロナの感染者が増えていることが県の災害対策本部会議で報告され、馳知事は、避難環境の改善などに取り組む考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310161000.html",
+          "publishedOn": "2024-01-05T07:53:04.000Z",
+          "wordCount": 762,
+          "title": "石川県の避難所でインフルやコロナ感染者増加",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310161_2401051431_0105154431_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310681000.html",
           "author": null,
@@ -6397,6 +6462,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=65940",
+          "author": "299",
+          "description": "お母さん猫が赤ちゃん猫たちにおっぱいを飲ませています。なんとも心落ち着く光景です。 赤ちゃん猫たちは必死におっぱいに吸い付いていますが、お母さん猫は空中に前足をあげて、エアふみふみを盛んにしています。 飼い主さんがお母さ...\n赤ちゃん猫たちへの授乳時間を心から満喫するママ猫さん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65940",
+          "publishedOn": "2024-01-05T08:00:12.000Z",
+          "wordCount": 1865,
+          "title": "赤ちゃん猫たちへの授乳時間を心から満喫するママ猫さん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65940.jpeg"
+        },
+        {
           "id": "https://2-9-9.com/?p=65936",
           "author": "299",
           "description": "お父さんが子供部屋の2段ベッドの上にあがってきて、そこでお昼寝をすることにしたようです。 というのも、この子供部屋のベッドには猫たち人気のスポットなので一緒に昼寝ができるという醍醐味があるからというのが最大の理由でした。...\n子供部屋の2段ベッドの上は猫たちに人気のスポットだった！ first appeared on 肉球ドットコム（299.com）.",
@@ -7460,6 +7535,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=65073",
+          "author": "編集部：松永達矢",
+          "description": "プリンストンは、Power Delivery 3.0対応のOAタップ「PPS-PD65TW」を1月19日（金）に発売する。価格はオープンだが、公式通販サイトでは税込11,800円で販売される。 12個の3ピンコンセントと2個のUSB Type-Cポート、3個のUSB Type-Aポートを備えた定格1 […]",
+          "link": "https://gadget.phileweb.com/post-65073/",
+          "publishedOn": "2024-01-05T08:20:31.000Z",
+          "wordCount": 750,
+          "title": "プリンストン、PD65W対応のタワー型OAタップ「PPS-PD65TW」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/001.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=65038",
           "author": "Gadget Gate",
           "description": "LGエレクトロニクスは、米ラスベガスの現地時間1月9日から12日にかけて開催される国際展示会「CES 2024」に先駆け、4K/240HzおよびフルHD/480Hzを切り替えられる「デュアルHz」を実現した32型ゲーミング有機ELディスプレイ“Ultra Gear OLED”「32GS95UE」を発 […]",
@@ -7899,6 +7984,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031917.html",
+          "author": "damono3856",
+          "description": "1 名前：jinjin ★：2024/01/05(金) 07:27:06.52 ID:pAkPefpO9.net\n\n\n\n\n\n\n\n【画像流出】松本人志の性加害疑惑を告発した女性「本当に素敵で…」「最後までとても優しくて」会合終わりにスピードワゴン小沢に送っていた“お礼メッセージ” : https://t.co/3HMe7orRDa #松...",
+          "link": "https://itainews.com/archives/2031917.html",
+          "publishedOn": "2024-01-05T08:01:29.000Z",
+          "wordCount": 2548,
+          "title": "【画像流出】松本人志の性加害疑惑を告発した女性「本当に素敵で…」　スピードワゴン小沢に送っていた“お礼”",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/ff861494-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031908.html",
           "author": "yonepo665sfr",
