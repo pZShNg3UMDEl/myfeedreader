@@ -2256,6 +2256,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310501000.html",
+          "author": null,
+          "description": "能登半島地震が起きた際、新潟市が、津波警報に伴う避難指示の情報を県の防災アプリやテレビなどで一斉に伝えるLアラートに入力するのを失念していたことがわかりました。今月1日の能登半島地震で、新潟県内では最大震度6弱の揺れを観測し、沿岸の自治体には津波警報が出されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310501000.html",
+          "publishedOn": "2024-01-05T07:16:34.000Z",
+          "wordCount": 689,
+          "title": "新潟市 避難指示の情報伝えるLアラートへの入力失念",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310501_2401051549_0105161638_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310331000.html",
+          "author": null,
+          "description": "能登半島地震への対応で齋藤経済産業大臣が記者会見し、燃料が特に不足している輪島市や珠洲市への大型車両の通行が可能となったため、5日朝からガソリンなどの輸送を再開したと明らかにしました。そのうえで輸送が軌道に乗れば、数日以内にはガソリンスタンドの行列などが解消されるという見通しを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310331000.html",
+          "publishedOn": "2024-01-05T07:02:34.000Z",
+          "wordCount": 1001,
+          "title": "輪島や珠洲へのガソリン輸送再開 数日以内に行列解消か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310331_2401051533_0105160236_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310281000.html",
           "author": null,
           "description": "石川県内では地震の影響で被災した幹線道路の復旧作業が進み、珠洲市や輪島市、それに能登町の中心部まではタンクローリーやトラックなどの大型車も通行できるようになっています。",
@@ -7420,6 +7440,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=65030",
+          "author": "PHILE WEB編集部",
+          "description": "LGは、ノートPC「LG gramシリーズ」の2024年モデルを発表。フラグシップモデル「LG gram Pro」や2in1モデル「LG gram Pro 2-in-1」など、7機種の存在を明らかにした。 「LG gram Pro」は、17インチ機（17Z90SP）と16インチ機（16Z90SP）の […]",
+          "link": "https://gadget.phileweb.com/post-65030/",
+          "publishedOn": "2024-01-05T07:09:57.000Z",
+          "wordCount": 835,
+          "title": "ノートPC「LG gramシリーズ」2024年モデル発表。AIが画像自動分類、スマホ連携も容易に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/gram-Pro-Ambient-Cut.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=64952",
+          "author": "Munenori Taniguchi",
+          "description": "iPhoneを使用していて、文字を入力する際に画面が隠れてしまうのが気になるけれど、Bluetoothキーボードを持ち運ぶほどでもないという人はある程度いるだろう。 そんな人におすすめなのが、米ラスベガスで開催されるCES 2024に出展予定であるスマートフォンケースタイプのキーボード、「Click […]",
+          "link": "https://gadget.phileweb.com/post-64952/",
+          "publishedOn": "2024-01-05T07:07:21.000Z",
+          "wordCount": 780,
+          "title": "やっぱり物理キーボードが欲しい人向けiPhoneケース「Clicks」。CES 2024に出展",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/Clicks1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=64994",
           "author": "多根清史",
           "description": "アップルが生成系AI開発に取り組んでいることは、ティム・クックCEO自らが認めている。それは社内では「Apple GPT」と呼ばれ、LLM（大規模言語モデル）用フレームワーク「Ajax」により開発されているとも報じられていた。 それに続き、アップルが今年のWWDC（世界開発者会議）にて生成AIや様々 […]",
@@ -7829,6 +7869,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031908.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：うんち：2024/01/04(木) 15:08:15.33 ID:jtgooMTK0.net\n\n\n\n\n\n\n\n\n【高額請求】被災家屋に設置するブルーシートの貼り付けで、高額な費用を請求される事案が七尾市内で確認されました。県外の業者とみられます。被災地でよく見られる商法です。ご注意ください。#令和６...",
+          "link": "https://itainews.com/archives/2031908.html",
+          "publishedOn": "2024-01-05T07:01:07.000Z",
+          "wordCount": 2384,
+          "title": "日本人終わる。悪徳リフォーム会社が石川県に殺到しブルーシートを張って荒稼ぎwwwwwwww",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/c/cc983519-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031920.html",
           "author": "yonepo665sfr",
