@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T16:50:37.119Z</updated>
+    <updated>2024-01-05T17:29:50.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 志賀町で震度4の地震 津波の心配なし M4.6]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240106/k10014311461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240106/k10014311461000.html"/>
+        <updated>2024-01-05T17:15:57.000Z</updated>
+        <summary type="html"><![CDATA[5日午前1時59分ごろ石川県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。震度4を観測したのは石川県志賀町。震度3が、輪島市、中能登町でした。また、七尾市や、羽咋市、能登町で震度2の揺れを観測したほか、石川県と富山県、新潟県、福井県、岐阜県で震度1の揺れを観測しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung announces new Isocell Vizion sensors]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/01/samsung-announces-new-isocell-vizion.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/01/samsung-announces-new-isocell-vizion.html"/>
+        <updated>2024-01-05T17:10:00.001Z</updated>
+        <summary type="html"><![CDATA[Samsung press release: https://semiconductor.samsung.com/emea/news-events/news/samsung-unveils-two-new-isocell-vizion-sensors-tailored-for-robotics-and-xr-applications/
+Samsung Unveils Two New ISOCELL Vizion Sensors Tailored for Robotics and XR Applications
+The ISOCELL Vizion 63D, a time-of-flight sensor, captures high-resolution 3D images with exceptional detail
+The ISOCELL Vizion 931, a global shutter sensor, captures dynamic moments with clarity and precision 
+
+
+
+Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today introduced two new ISOCELL Vizion sensors — a time-of-flight (ToF) sensor, the ISOCELL Vizion 63D, and a global shutter sensor, the ISOCELL Vizion 931. First introduced in 2020, Samsung’s ISOCELL Vizion lineup includes ToF and global shutt…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ご飯欲しいニャ～とお願いする子猫達]]></title>
         <id>https://2-9-9.com/?p=66020</id>

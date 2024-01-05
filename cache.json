@@ -2219,6 +2219,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/01/samsung-announces-new-isocell-vizion.html",
+          "author": null,
+          "description": "Samsung press release: https://semiconductor.samsung.com/emea/news-events/news/samsung-unveils-two-new-isocell-vizion-sensors-tailored-for-robotics-and-xr-applications/\nSamsung Unveils Two New ISOCELL Vizion Sensors Tailored for Robotics and XR Applications\nThe ISOCELL Vizion 63D, a time-of-flight sensor, captures high-resolution 3D images with exceptional detail\nThe ISOCELL Vizion 931, a global shutter sensor, captures dynamic moments with clarity and precision \n\n\n\nSamsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today introduced two new ISOCELL Vizion sensors — a time-of-flight (ToF) sensor, the ISOCELL Vizion 63D, and a global shutter sensor, the ISOCELL Vizion 931. First introduced in 2020, Samsung’s ISOCELL Vizion lineup includes ToF and global shutt…",
+          "link": "http://image-sensors-world.blogspot.com/2024/01/samsung-announces-new-isocell-vizion.html",
+          "publishedOn": "2024-01-05T17:10:00.001Z",
+          "wordCount": 4832,
+          "title": "Samsung announces new Isocell Vizion sensors",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWbmsfAPTUZao8nTtuyF76uL8p7Y7p1lDvYanA-soMgoFaJnDZyPnM72uxRRT6wqpjNqFrHwrok7OQiITYcOm5P9UK6ZPAvrn3Mnny2gRVHf58zPKr3u9RJ3vr_-U6MoXEtyyDrM0arT7JJ-6HbYlCNP_Ni2lBEHhDbDzvO7PSs1LAIcd0KYWu7ojLmrWr7xPWOB3lT3TNLqISTPZNDDs70Q-kD0K3H_3mZp388=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/01/samsungsk-hynix-bet-on-intelligent.html",
           "author": null,
           "description": "From Business Korea: https://www.businesskorea.co.kr/news/articleView.html?idxno=208769\nSamsung, SK hynix Advance in AI-embedded Image Sensors\nSamsung Electronics and SK hynix are making strides in commercializing “On-sensor AI” technology for image sensors, aiming to elevate their image sensor technologies centered around AI and challenge the market leader, Japan’s Sony, in dominating the next-generation market.\nAt the “SK Tech Summit 2023” held last month, SK hynix revealed its progress in developing On-sensor AI technology. This technology embeds an image sensor onto an AI chip, processing data directly at the sensor level, unlike traditional sensors that relay image information to the Central Processing Unit (CPU) for computation and inference. This advance is expected to be a key tech…",
@@ -2395,6 +2405,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240106/k10014311461000.html",
+          "author": null,
+          "description": "5日午前1時59分ごろ石川県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。震度4を観測したのは石川県志賀町。震度3が、輪島市、中能登町でした。また、七尾市や、羽咋市、能登町で震度2の揺れを観測したほか、石川県と富山県、新潟県、福井県、岐阜県で震度1の揺れを観測しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240106/k10014311461000.html",
+          "publishedOn": "2024-01-05T17:15:57.000Z",
+          "wordCount": 520,
+          "title": "石川 志賀町で震度4の地震 津波の心配なし M4.6",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014311461_2401060204_0106020620_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240106/k10014311061000.html",
           "author": null,
