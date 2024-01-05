@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T09:36:21.356Z</updated>
+    <updated>2024-01-05T09:50:25.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、カスタムChatGPTのストアを来週オープンへ]]></title>
+        <id>https://gadget.phileweb.com/?p=65021</id>
+        <link href="https://gadget.phileweb.com/post-65021/"/>
+        <updated>2024-01-05T09:43:07.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIは来週にも、カスタマイズされたAIエージェントを販売するカスタムChatGPTストアをオープンすることを、GPTビルダーとして登録済みのユーザーへのメールで明らかにした。 カスタムChatGPTストアはもともと、昨年のうちにオープンする予定だったが、サム・アルトマンらの解任～復帰騒動が発 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川県受け付けの義援金 初日だけで1億円超 能登半島地震]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310871000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310871000.html"/>
+        <updated>2024-01-05T09:42:03.000Z</updated>
+        <summary type="html"><![CDATA[石川県が4日から受け付けを始めた義援金などに、初日の4日だけで、合わせて1億円を超える額が集まったということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天皇皇后両陛下 能登半島地震で石川県知事にお見舞い]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310841000.html"/>
+        <updated>2024-01-05T09:35:27.000Z</updated>
+        <summary type="html"><![CDATA[天皇皇后両陛下は、今回の能登半島地震で甚大な被害が出ている石川県の馳知事に、側近を通じてお見舞いの気持ちなどを伝えられました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川県 志賀町で津波4m超遡上か 輪島市では4m以上地盤が隆起]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240105/k10014310811000.html</id>

@@ -2296,6 +2296,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310871000.html",
+          "author": null,
+          "description": "石川県が4日から受け付けを始めた義援金などに、初日の4日だけで、合わせて1億円を超える額が集まったということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310871000.html",
+          "publishedOn": "2024-01-05T09:42:03.000Z",
+          "wordCount": 852,
+          "title": "石川県受け付けの義援金 初日だけで1億円超 能登半島地震",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310871_2401051833_0105183457_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310841000.html",
+          "author": null,
+          "description": "天皇皇后両陛下は、今回の能登半島地震で甚大な被害が出ている石川県の馳知事に、側近を通じてお見舞いの気持ちなどを伝えられました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310841000.html",
+          "publishedOn": "2024-01-05T09:35:27.000Z",
+          "wordCount": 993,
+          "title": "天皇皇后両陛下 能登半島地震で石川県知事にお見舞い",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310841_2401051810_0105181717_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310811000.html",
           "author": null,
           "description": "今月1日の能登半島地震で研究者のグループが現地を調査した結果、震度7の揺れを観測した石川県志賀町では、津波が4メートルを超える高さまで陸地を駆け上がったとみられるほか、輪島市の海岸沿いでは4メートル以上地盤が隆起していたことがわかりました。",
@@ -7609,6 +7629,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=65021",
+          "author": "Munenori Taniguchi",
+          "description": "OpenAIは来週にも、カスタマイズされたAIエージェントを販売するカスタムChatGPTストアをオープンすることを、GPTビルダーとして登録済みのユーザーへのメールで明らかにした。 カスタムChatGPTストアはもともと、昨年のうちにオープンする予定だったが、サム・アルトマンらの解任～復帰騒動が発 […]",
+          "link": "https://gadget.phileweb.com/post-65021/",
+          "publishedOn": "2024-01-05T09:43:07.000Z",
+          "wordCount": 839,
+          "title": "OpenAI、カスタムChatGPTのストアを来週オープンへ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/01/OpenAI_Logo.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=65079",
           "author": "編集部：伴 修二郎",
