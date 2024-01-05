@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/120312/",
+          "author": null,
+          "description": "1月5日午後9時から、日本テレビ系「金曜ロードショー」にて「千と千尋の神隠し」が放送されます。 宮崎駿監督（原作・脚本・監督）とスタジオジブリが手がけた同作は2001年に公開され、最終的に興行収...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/120312/",
+          "publishedOn": "2024-01-05T12:00:00.000Z",
+          "wordCount": 918,
+          "title": "「千と千尋の神隠し」あらすじ、声優まとめ　かつて10歳だった人、これから10歳になる子どもに宮崎駿監督が本気で伝えたかったこと",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120324/",
           "author": null,
           "description": "テレビアニメ「狼と香辛料 merchant meets the wise wolf」の放送が4月からテレビ東京ほかでスタートすることが決定した。描き下ろしビジュアル企画「ホロと巡る四季の物語」の...",
@@ -1107,6 +1122,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96828",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/04(木) 09:41:12.13 ID:Js0ZoVmo0 『スマブラ fo […]",
+          "link": "https://switchsoku.com/soft/smashbros/96828",
+          "publishedOn": "2024-01-05T12:00:17.000Z",
+          "wordCount": 10045,
+          "title": "『スマブラ for 3DS』新キャラをリークした社員、任天堂を解雇されていた…",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/sumabura-3ds.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=96824",
           "author": "SWITCH速報",
@@ -2350,6 +2375,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014311121000.html",
+          "author": null,
+          "description": "5日朝、地震で被災した石川県輪島市の住宅に侵入し、みかんを盗んだとして自称・男子大学生が窃盗などの疑いで逮捕されました。能登地方ではこうした被害の通報や相談が十数件寄せられていて、警察は注意を呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014311121000.html",
+          "publishedOn": "2024-01-05T12:24:38.000Z",
+          "wordCount": 577,
+          "title": "被災地でみかん窃盗か 自称大学生逮捕 “ボランティアで来た”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014311121_2401052109_0105212440_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014311041000.html",
+          "author": null,
+          "description": "石川県の馳知事は、5日夕方に行われた県の災害対策本部会議で、来週中にも輪島市などで仮設住宅の建設にとりかかる考えを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014311041000.html",
+          "publishedOn": "2024-01-05T12:17:18.000Z",
+          "wordCount": 618,
+          "title": "石川県知事“来週中にも輪島市などで仮設住宅建設とりかかる”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014311041_2401052047_0105205704_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310911000.html",
           "author": null,
@@ -6623,16 +6668,6 @@
           "wordCount": 2652,
           "title": "絶縁型PWMスイッチング電源用パワーIC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/08/cover_news082.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2312/07/news059.html",
-          "author": null,
-          "description": "NXPセミコンダクターズは、車載向けシングルチップUWBファミリー「Trimension NCJ29D6」を発表した。セキュアなカーアクセスや侵入警告、幼児の置き去り検出などに対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2312/07/news059.html",
-          "publishedOn": "2023-12-07T00:00:00.000Z",
-          "wordCount": 2661,
-          "title": "幼児の置き去り検知など、車載向けシングルチップUWBファミリー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/07/cover_news059.jpg"
         }
       ]
     },
@@ -8194,6 +8229,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031926.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：草井満子(茸) [US]：2024/01/05(金) 15:24:48.68 ID:y0UA21yt0●.net\n\n\n\n\n\n\n\n\n\n［社告］能登半島地震の義援金を募集　きょう4日から受け付け https://t.co/lfaBqVQnQP— 沖縄タイムス (@theokinawatimes) January 3, 2024 \n\n\n\n\n\n\n\n［社告］能登半島地震の義援金を募...",
+          "link": "https://itainews.com/archives/2031926.html",
+          "publishedOn": "2024-01-05T12:01:39.000Z",
+          "wordCount": 2737,
+          "title": "沖縄タイムスが能登半島地震の義援金を募集　※現金直接持参or現金書留のみ受付",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/a/fae0816f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031914.html",
           "author": "yonepo665sfr",
