@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T13:50:41.037Z</updated>
+    <updated>2024-01-05T14:27:50.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[僕「モンハンやってみよ」「大剣･太刀･片手･双剣･ハンマー･ランス･スラアク･チャアク･ライト･ヘビィ･弓」]]></title>
+        <id>https://switchsoku.com/?p=96831</id>
+        <link href="https://switchsoku.com/soft/monsterhunter/96831"/>
+        <updated>2024-01-05T14:00:57.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/01/04(木) 15:26:37.47 ID:UkO9iKhv0 …から武器選んで […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“川の水が“きゅー”と引いた”富山沿岸で津波を見た人が証言]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014311171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014311171000.html"/>
+        <updated>2024-01-05T13:59:34.000Z</updated>
+        <summary type="html"><![CDATA[地震の発生から5日目となった5日、富山県の沿岸部にいた人たちの証言から当時の津波の状況が分かってきました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島市で震度4の地震 津波の心配なし M4.4]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240105/k10014311361000.html</id>
