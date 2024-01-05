@@ -1003,6 +1003,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96806",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/04(木) 11:47:58.68 ID:3LEsO   2: 20 […]",
+          "link": "https://switchsoku.com/nintendo/96806",
+          "publishedOn": "2024-01-05T02:00:53.000Z",
+          "wordCount": 9982,
+          "title": "宮本茂×糸井重里の「ほぼ日」対談が面白い",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/miyamoto-itoi.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=96804",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/04(木) 19:10:55.65 ID:N8WZhETU0 1.WiiSpo […]",
+          "link": "https://switchsoku.com/ranking/96804",
+          "publishedOn": "2024-01-05T00:00:41.000Z",
+          "wordCount": 10126,
+          "title": "和ゲーの世界売上ランキングTOP10",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/05/hq720.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=96799",
           "author": "SWITCH速報",
           "description": "1: 2024/01/04(木) 20:33:35.93 ID:sqQMe/DJ0 https:// […]",
@@ -1813,16 +1833,6 @@
           "wordCount": null,
           "title": "【ドラクエウォーク】登場から１年。神武器ウロボロスのつえ復刻で未入手無課金勇者はジェム投入すべきか!?２本目は!?まもなくやってくる復刻メドローアをジャッジ!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5r32s1hY9X4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5r32s1hY9X4",
-          "publishedOn": "2023-12-06T14:00:49.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォーク】2属性単体激インフレ武器登場!!ついに属性700%超え!!無課金勇者はDQモンスターズ3発売記念ガチャ魔力の宝剣を全力で獲得しに行くべきか!?",
-          "imageUrl": null
         }
       ]
     },
@@ -2205,6 +2215,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309911000.html",
+          "author": null,
+          "description": "石川県の馳知事は、金沢市で、救援物資を輸送するための拠点施設を視察し、物資の中継地点を設けるなど輸送態勢を強化する考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309911000.html",
+          "publishedOn": "2024-01-05T02:10:48.000Z",
+          "wordCount": 973,
+          "title": "石川県 馳知事 “救援物資の輸送 中継地点設け態勢強化を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309911_2401051103_0105111050_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309891000.html",
+          "author": null,
+          "description": "アメリカ・ニューヨークで、4日、地下鉄の列車どうしが衝突して脱線する事故があり、24人が軽いけがをしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309891000.html",
+          "publishedOn": "2024-01-05T01:54:41.000Z",
+          "wordCount": 745,
+          "title": "米 ニューヨーク 地下鉄の列車どうしが衝突し脱線 24人けが",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309891_2401051045_0105105443_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309831000.html",
+          "author": null,
+          "description": "イスラエルのガラント国防相は4日、戦闘終了後のガザ地区の管理について考えを表明しました。「パレスチナ人が責任を持つ」としながらもイスラエル軍が地区内で自由に活動できるなどと説明しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309831000.html",
+          "publishedOn": "2024-01-05T01:13:04.000Z",
+          "wordCount": 786,
+          "title": "イスラエル国防相 “戦後のガザ地区 パレスチナ人が責任持つ”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309831_2401050915_0105101306_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309781000.html",
           "author": null,
@@ -5870,6 +5910,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/05/news065.html",
+          "author": null,
+          "description": "コンガテックは、コンピュータオンモジュール「conga-TC700 COM Express Compact」の販売を開始する。インテルの「Core Ultra」を内蔵し、最大6つのPコアと最大8つのEコア、2つの低電力Eコアにより、最大22スレッドをサポートする。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/05/news065.html",
+          "publishedOn": "2024-01-05T01:00:00.000Z",
+          "wordCount": 2665,
+          "title": "Intel「Core Ultra」を搭載したCOM Express Compactモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/05/cover_news065.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2312/28/news045.html",
           "author": null,
           "description": "ams OSRAMは、マルチLEDパッケージ「SFH 7018」を発表した。赤色、緑色、赤外線の3 in 1タイプで、同社の前世代品と比較して、総放射強度が40％以上向上した。",
@@ -6076,6 +6126,26 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=65928",
+          "author": "299",
+          "description": "三毛ママが茶白の子猫と一緒にのんびりとした昼下がりを過ごしています。とても穏やかな表情をしたママ猫は人にもとてもよく慣れています。 頭を撫でてもらうと目を細めて気持ちよさそうです。その間にも子猫はママのお腹に顔をうずめて...\n子育て中のママ猫の幸せそうな表情に心満たされました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65928",
+          "publishedOn": "2024-01-05T02:00:48.000Z",
+          "wordCount": 1860,
+          "title": "子育て中のママ猫の幸せそうな表情に心満たされました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65928.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=65961",
+          "author": "299",
+          "description": "猫のひのきがダンボールの中に入ってお兄ちゃんに遊んでもらって大ハッスル中です。 ダンボールの箱の蓋を開けたり閉じたりしていると、急に遊びの熱が冷めてしまったようで、勢いよくダンボールがら飛び出して行ってしまいました。 蓋...\n大好きなお兄ちゃんにべったりな甘えん坊ひのき first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/65961",
+          "publishedOn": "2024-01-05T00:00:54.000Z",
+          "wordCount": 1860,
+          "title": "大好きなお兄ちゃんにべったりな甘えん坊ひのき",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65961.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=65924",
           "author": "299",
@@ -7452,28 +7522,7 @@
       "title": "有吉の壁【公式】壁チャンネル",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=XmLK0OZPPNE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XmLK0OZPPNE",
-          "publishedOn": "2023-12-06T12:00:29.000Z",
-          "wordCount": null,
-          "title": "【有吉の壁】2023年を振り返ろう大反省会を覗き見【タイムマシーン３号／シソンヌ／とにかく明るい安村／パンサー向井／ジャンポケ太田／四千頭身後藤】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xLdaWQJIbqg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xLdaWQJIbqg",
-          "publishedOn": "2023-12-06T11:54:00.000Z",
-          "wordCount": null,
-          "title": "【スペシャルコラボMV】路上教習のダウンヒラー“Ｊ”×MOTSU _ Driver’s lesson 90s feat.MOTSU【有吉の壁】",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "痛いニュース(ﾉ∀`)",
