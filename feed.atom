@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T23:36:40.283Z</updated>
+    <updated>2024-01-05T23:50:17.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮キム総書記 岸田首相宛てに見舞いの電報 能登の地震受け]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240106/k10014311551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240106/k10014311551000.html"/>
+        <updated>2024-01-05T23:38:14.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被害を受けて、北朝鮮はキム・ジョンウン（金正恩）総書記が岸田総理大臣に宛てて見舞いの電報を送ったと6日、朝鮮労働党機関紙「労働新聞」を通じて発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【交通影響 6日】JR七尾線 のと鉄道 全面復旧めど立たず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240106/k10014311501000.html</id>
