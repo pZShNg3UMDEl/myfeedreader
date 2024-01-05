@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120330/",
+          "author": null,
+          "description": "アニメ「それいけ！アンパンマン」の劇場版シリーズ最新作「それいけ！アンパンマン ばいきんまんとえほんのルルン」が、6月28日に全国公開されることが決定した。 シリーズ35作目となる「ばいきんまん...",
+          "link": "https://anime.eiga.com/news/120330/",
+          "publishedOn": "2024-01-05T02:30:00.000Z",
+          "wordCount": 755,
+          "title": "アンパンマンとばいきんまんが力を合わせる「それいけ！アンパンマン ばいきんまんとえほんのルルン」6月28日公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120316/",
           "author": null,
           "description": "河合優実と坂東龍汰が、4月からテレビ東京で放送開始される新ドラマ「RoOT ルート」で主演を務めることがわかった。 本作は、「ビッグコミックスペリオールダルパナ」（小学館）で連載中の漫画「RoO...",
@@ -2215,6 +2230,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309871000.html",
+          "author": null,
+          "description": "地震で被災者の心と体の健康管理が課題となるなか、医師などのグループが各地の被災者向けに無料のオンライン健康相談を受け付けています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309871000.html",
+          "publishedOn": "2024-01-05T02:18:26.000Z",
+          "wordCount": 718,
+          "title": "被災者向け無料オンライン健康相談 “気軽に相談を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309871_2401051110_0105111828_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309861000.html",
+          "author": null,
+          "description": "富山県は、能登半島地震で住宅が全壊した世帯に10万円の見舞い金を支給するなどの支援策を取りまとめました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309861000.html",
+          "publishedOn": "2024-01-05T02:14:02.000Z",
+          "wordCount": 941,
+          "title": "富山県 住宅全壊世帯に10万円の見舞い金支給へ 支援策まとまる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309861_2401051050_0105111404_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309911000.html",
           "author": null,
@@ -5493,6 +5528,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=231932",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
+          "link": "https://foodfighter.jp/mcdonalds-godzilla-beef-potato",
+          "publishedOn": "2024-01-05T02:27:58.000Z",
+          "wordCount": 1866,
+          "title": "【マクドナルド】旨辛肉厚ビーフ＆ザク切りポテト【ゴジラバーガー・期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/2799203fce5c9b22bf502ba6c4f9cddc.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=231910",
           "author": "foodfighter",
           "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「濃厚チーズパイ」を世界一詳しく調査しました。   公式Y […]",
@@ -7276,6 +7321,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqFaMBFtHduRRJKVCJhBr9g",
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ssswu0eVKfU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ssswu0eVKfU",
+          "publishedOn": "2024-01-05T02:08:34.000Z",
+          "wordCount": null,
+          "title": "ステマライターヨッピーとフローレンス駒崎について調べてみました",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SWH9D727Fjg",
           "author": null,
