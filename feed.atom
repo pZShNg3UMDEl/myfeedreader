@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T07:19:59.394Z</updated>
+    <updated>2024-01-05T07:35:33.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LG、4K/240HzとフルHD/480Hzを切り替えられるゲーミングOLEDディスプレイを海外発表]]></title>
+        <id>https://gadget.phileweb.com/?p=65038</id>
+        <link href="https://gadget.phileweb.com/post-65038/"/>
+        <updated>2024-01-05T07:34:48.000Z</updated>
+        <summary type="html"><![CDATA[LGエレクトロニクスは、米ラスベガスの現地時間1月9日から12日にかけて開催される国際展示会「CES 2024」に先駆け、4K/240HzおよびフルHD/480Hzを切り替えられる「デュアルHz」を実現した32型ゲーミング有機ELディスプレイ“Ultra Gear OLED”「32GS95UE」を発 […]]]></summary>
+        <author>
+            <name>Gadget Gate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自衛隊 道路寸断で避難所への物資輸送難航]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310671000.html"/>
+        <updated>2024-01-05T07:22:55.000Z</updated>
+        <summary type="html"><![CDATA[自衛隊は5000人の態勢で人命救助や救援物資の輸送などにあたっていますが、能登地方では複数の場所で道路が寸断されるなどしているため、物資の集積拠点から避難所への輸送が難航しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新潟市 避難指示の情報伝えるLアラートへの入力失念]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240105/k10014310501000.html</id>
