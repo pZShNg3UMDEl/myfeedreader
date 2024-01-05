@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T06:30:47.399Z</updated>
+    <updated>2024-01-05T06:50:22.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被災の幹線道路復旧進む  輪島市中心部まで大型車も通行可能に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310281000.html"/>
+        <updated>2024-01-05T06:47:26.000Z</updated>
+        <summary type="html"><![CDATA[石川県内では地震の影響で被災した幹線道路の復旧作業が進み、珠洲市や輪島市、それに能登町の中心部まではタンクローリーやトラックなどの大型車も通行できるようになっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 能登半島地震支援で寄付へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310301000.html"/>
+        <updated>2024-01-05T06:28:57.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手はみずからのSNSで、能登半島地震の被災地を支援するため球団とともに寄付することを明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マクドナルド】スモーキーペッパーチキン【ゴジラバーガー・期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=232006</id>
