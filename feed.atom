@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T08:40:11.338Z</updated>
+    <updated>2024-01-05T08:50:15.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[羽田空港 C滑走路 「1月8日に運用再開に全力」斉藤国交相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310861000.html"/>
+        <updated>2024-01-05T08:46:42.000Z</updated>
+        <summary type="html"><![CDATA[日本航空と海上保安庁の航空機どうしの衝突炎上事故で閉鎖が続いていた羽田空港のC滑走路について、斉藤国土交通大臣は5日夕方、記者団に対し、「現在、事故機の撤去作業の段階だ。その後、速やかに復旧作業を進め、大きな問題が発生しなければ今月8日には運用の再開が可能となる見込みだ。それに向けて全力で取り組んでいく」と述べました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“避難所生活 集団感染に注意 できる範囲で感染対策を”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240105/k10014310721000.html</id>
