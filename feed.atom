@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T03:36:46.431Z</updated>
+    <updated>2024-01-05T03:50:32.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】石川県で孤立状態の地域は… 支援物資届かず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309991000.html"/>
+        <updated>2024-01-05T03:40:32.000Z</updated>
+        <summary type="html"><![CDATA[地震発生から4日経ちましたが、石川県では今も各地で孤立状態が続いています。石川県によりますと、5日午前8時現在、能登地方の5つの市と町の33の地区で、少なくとも840人あまりが孤立状態になっているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ミニストップ】とよのか練乳いちごパフェ【コールドスイーツ新商品】]]></title>
         <id>https://foodfighter.jp/?p=231938</id>
@@ -32,6 +42,16 @@
 片道5時間半かかりましたが、何とか輪島市に入り、被災地の実情をつかみ、要望をお聞きしてきました。井上哲士参議院議員、藤野やすふみ前衆議院議員と一緒です。避難所で...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オスプレイ墜落事故 米軍がフライトレコーダー回収]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309931000.html"/>
+        <updated>2024-01-05T03:01:33.000Z</updated>
+        <summary type="html"><![CDATA[去年11月、鹿児島県屋久島沖でアメリカ空軍の輸送機オスプレイが墜落した事故で、アメリカ軍は、当時の飛行状況を記録したフライトレコーダーなどを回収し、事故原因の究明に向けた調査を本格化させています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
