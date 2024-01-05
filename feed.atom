@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T20:23:54.718Z</updated>
+    <updated>2024-01-05T20:36:41.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川県能登地方で震度5強の地震 津波の心配なし M5.3]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240106/k10014311511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240106/k10014311511000.html"/>
+        <updated>2024-01-05T20:32:37.000Z</updated>
+        <summary type="html"><![CDATA[６日午前５時２６分ごろ地震がありました。この地震による津波の心配はありません。震源地は石川県能登地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは５．３と推定されます。各市町村の震度は以下のとおりです。▼震度５強が、石川県穴水町。▼震度５弱が、石川県七尾市。▼震度４が、富山県氷見市、石川県輪島市、石川県志賀町、石川県中能登町。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲報】機内ペット同伴→脱出時はペット置き去り必須。納得しない乗客と揉め他の乗客も脱出困難の恐れ]]></title>
         <id>https://itainews.com/archives/2031923.html</id>
