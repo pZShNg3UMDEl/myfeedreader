@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T22:50:33.155Z</updated>
+    <updated>2024-01-06T23:21:38.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【交通影響 7日】大雪の影響で石川県内の道路通行止めの可能性]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312491000.html"/>
+        <updated>2024-01-06T23:10:27.000Z</updated>
+        <summary type="html"><![CDATA[地震による交通機関への影響です。（7日午前5時時点）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[藤井聡太八冠 タイトル独占で防衛の1年始まる【一問一答も】]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240107/k10014312281000.html</id>
