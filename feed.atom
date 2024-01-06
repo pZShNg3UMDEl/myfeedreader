@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T21:18:37.946Z</updated>
+    <updated>2024-01-06T21:35:26.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルとハマス戦闘3か月 犠牲者増加に歯止めかからず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312341000.html"/>
+        <updated>2024-01-06T21:31:29.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍とイスラム組織ハマスの戦闘が始まってから7日で3か月となります。ガザ地区では6日も南部を含む各地でイスラエル軍による攻撃が行われ、いまも犠牲者の増加に歯止めがかからない状況が続いていて、人道危機が深刻化しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震の被災地 平地でも大雪見込み 低体温症に十分注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312321000.html"/>
+        <updated>2024-01-06T21:20:12.000Z</updated>
+        <summary type="html"><![CDATA[最大震度7を観測した能登半島地震の被災地は、上空の強い寒気の影響で雨が次第に雪に変わり8日にかけて平地でも大雪となるところがある見込みです。大雨による土砂災害に十分注意するとともに雪による交通への影響、路面の凍結などにも注意してください。また、地震活動が活発で引き続き最大震度7程度の揺れに注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軽井沢スキーバス転落事故 8年を前に遺族が墓参り]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240107/k10014312391000.html</id>
