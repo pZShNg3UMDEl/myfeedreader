@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T06:39:12.282Z</updated>
+    <updated>2024-01-06T06:50:35.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【6日】孤立状態・要支援 少なくとも39地区で 石川]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240106/k10014311961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240106/k10014311961000.html"/>
+        <updated>2024-01-06T06:41:08.000Z</updated>
+        <summary type="html"><![CDATA[石川県によりますと、6日午前8時現在、能登地方の6つの市と町の少なくとも39の地区が孤立状態になっていたり、孤立は解消されたものの引き続き支援が必要になっているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島 避難者ら余震や今後の生活に不安 地震発生から5日]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240106/k10014311941000.html</id>
