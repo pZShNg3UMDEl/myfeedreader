@@ -2471,6 +2471,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240106/k10014311261000.html",
+          "author": null,
+          "description": "最大震度7を観測した能登半島地震の被災地は、上空の寒気の影響で大気の状態が非常に不安定になり7日にかけて大雨のおそれがあり、そのあと雪に変わる見込みです。土砂災害に十分注意するとともに、雪による交通への影響、路面の凍結などにも注意してください。また、6日朝も震度5強の揺れを観測するなど地震活動が活発で、引き続き最大震度7程度の揺れに注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240106/k10014311261000.html",
+          "publishedOn": "2024-01-06T09:23:51.000Z",
+          "wordCount": 608,
+          "title": "地震被災地 あすにかけ大雨のおそれ 土砂災害など注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014311261_2401061711_0106171238_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240106/k10014312091000.html",
           "author": null,
           "description": "今回の地震では、石川県輪島市に帰省していた富山市の男子中学生が家屋の倒壊に巻き込まれて死亡しました。中学生の父親が6日NHKの取材に応じ、当時の状況を語りました。",
@@ -6367,6 +6377,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=232096",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「ビアードパパ」の新商品「贅沢いちご」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ】 […]",
+          "link": "https://foodfighter.jp/beardpapa-almond-cream-puff",
+          "publishedOn": "2024-01-06T09:21:53.000Z",
+          "wordCount": 1862,
+          "title": "【ビアードパパ】濃いアーモンドシュー（シュークリーム）【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/3da8083f63e8be1b22b418f30b46acde.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=232076",
           "author": "foodfighter",
