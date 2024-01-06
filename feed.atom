@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T13:35:52.657Z</updated>
+    <updated>2024-01-06T13:50:11.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[髪を切ろう2024]]></title>
+        <id>https://logipara.com/?p=9370</id>
+        <link href="https://logipara.com/diary-text/2024-01-07"/>
+        <updated>2024-01-06T13:48:43.000Z</updated>
+        <summary type="html"><![CDATA[髪を切ってきたよ！！(小学2年生が自慢する口調で) 　 ビチビチの18歳(自称)であるワタナベですが、なぜか髪には白いものが目立ちはじめています。白髪が増えるか、それとも髪そのものが無くなるかの鍔迫り合い。dead  […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“北朝鮮軍 黄海に60発以上砲撃” 韓国軍発表 2日連続で砲撃]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240106/k10014312351000.html</id>
@@ -211,6 +221,16 @@
         <summary type="html"><![CDATA[BS12トゥエルビで毎週日曜午後7時から放送中の「日曜アニメ劇場」で、1月14日から以下の作品が放送される（1月7日は放送休止）。1月14日 「機動戦士ガンダムSEED スペシャルエディション ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 馳知事が非常事態を宣言 県職員に災害対応を指示]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240106/k10014312191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240106/k10014312191000.html"/>
+        <updated>2024-01-06T09:59:52.000Z</updated>
+        <summary type="html"><![CDATA[石川県内で100人を超える人が亡くなった今回の地震について、石川県の馳知事は「これまでにない未曽有の大災害だ。能登を救うために、県庁としての非常事態を宣言する」と述べ、県の職員に対し、全庁をあげて災害対応にあたるよう指示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
