@@ -2143,16 +2143,6 @@
           "wordCount": null,
           "title": "【ドラクエウォーク】同一ＰＴで１・２ターン大楽勝!!レッドオーガ・れんごくまちょうなどほこら４種をゴールデンクレイモア１本のみ防具アクセ無しの裸攻略!!ＰＴ複数作る必要無し!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FG8tv2S6Fsc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FG8tv2S6Fsc",
-          "publishedOn": "2023-12-08T09:00:19.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォーク】登場から１年。神武器ウロボロスのつえ復刻で未入手無課金勇者はジェム投入すべきか!?２本目は!?まもなくやってくる復刻メドローアをジャッジ!!",
-          "imageUrl": null
         }
       ]
     },
@@ -2555,6 +2545,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312391000.html",
+          "author": null,
+          "description": "長野県軽井沢町で、大学生など15人が死亡したスキーツアーのバス事故から8年となるのを前に、大学生の息子を亡くした両親が墓参りをして、再発防止を祈りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014312391000.html",
+          "publishedOn": "2024-01-06T21:15:42.000Z",
+          "wordCount": 335,
+          "title": "軽井沢スキーバス転落事故 8年を前に遺族が墓参り",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312391_2401062208_0107061544_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312301000.html",
+          "author": null,
+          "description": "1日に石川県能登地方で震度7の揺れを観測した地震により、7日も断水や停電などライフラインへの影響が各地で続いています。各地の最新状況について随時更新でまとめます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014312301000.html",
+          "publishedOn": "2024-01-06T20:47:59.000Z",
+          "wordCount": 781,
+          "title": "【ライフライン 7日】断水や停電続く 給水支援の状況は",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312301_2401062034_0106205243_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312431000.html",
           "author": null,
