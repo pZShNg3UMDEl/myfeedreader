@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T06:39:04.678Z</updated>
+    <updated>2024-01-07T06:50:40.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312801000.html"/>
         <updated>2024-01-07T06:36:50.000Z</updated>
         <summary type="html"><![CDATA[午後3時26分ごろ、石川県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍「2024年も戦闘は続く」長期的戦闘 辞さない構え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312611000.html"/>
+        <updated>2024-01-07T06:33:18.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍とイスラム組織ハマスの戦闘が始まってから7日で3か月です。イスラエル軍は6日、ガザ地区北部でハマスの指揮系統を破壊したとしたうえで「2024年も戦闘は続く」と強調し、目的を達成するまで長期的な戦闘も辞さない構えを示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -78,6 +88,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「はたちの集い」地震の影響で分散して開催 富山 呉羽]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312661000.html"/>
+        <updated>2024-01-07T05:18:07.000Z</updated>
+        <summary type="html"><![CDATA[今年度、20歳になる人を祝う「はたちの集い」が、富山市の一部地域では会場が地震で被災したため、別の場所に分散する形で7日、行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[米国防長官の入院 大統領に数日間伝えず “対応に問題あった”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240107/k10014312691000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312691000.html"/>
@@ -110,6 +130,16 @@
 　自民...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政治資金問題 岸田首相“信頼回復へ 議論進める” 日曜討論]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312671000.html"/>
+        <updated>2024-01-07T04:09:54.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題を受けて、岸田総理大臣はNHKの日曜討論で、今週党に設ける新たな組織のもとで、政治資金規正法の改正や派閥のあり方を含め、国民の信頼回復に向けた議論を進める考えを示しました。一方、立憲民主党の泉代表は、政治資金規正法を改正し、会計責任者だけでなく政治家も処罰の対象に加える罰則強化が必要だと主張しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
