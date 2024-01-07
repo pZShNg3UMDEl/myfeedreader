@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T09:35:28.526Z</updated>
+    <updated>2024-01-07T09:50:32.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新潟 西区 防犯カメラには地震発生から冠水の様子が克明に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312921000.html"/>
+        <updated>2024-01-07T09:38:24.000Z</updated>
+        <summary type="html"><![CDATA[1月1日の地震で、新潟市西区では液状化現象が確認され、各地で住宅などに被害が出ています。新潟市西区のホテルに設置された防犯カメラには、地震の直後、地面に亀裂が入り、水が流れ出る様子が克明に記録されていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「音楽ボランティアは迷惑になります」大震災経験したミュージシャンが呼びかけ　仮設住宅で石投げられ…自らの苦い記憶告白]]></title>
         <id>https://itainews.com/archives/2031971.html</id>
