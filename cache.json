@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120293/",
+          "author": null,
+          "description": "ゲーム「FINAL FANTASY VII REBIRTH」の発売を記念して、「FINAL FANTASY VII」のその後をフルCGで描いた映像作品「FINAL FANTASY VII ADV...",
+          "link": "https://anime.eiga.com/news/120293/",
+          "publishedOn": "2024-01-07T10:00:00.000Z",
+          "wordCount": 897,
+          "title": "「FF7アドベントチルドレン」4Kリマスター版、1月19日から2週間限定で劇場公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120161/",
           "author": null,
           "description": "アニメ「ソードアート・オンライン」シリーズの劇場版3作が、1月10、19、20日にフジテレビで放送される。 川原礫氏のライトノベルが原作のアニメ「ソードアート・オンライン」シリーズは、主人公キリ...",
@@ -1197,6 +1212,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96878",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/06(土) 20:11:15.88 ID:DJCn/yrd0 ドラクエ12やド […]",
+          "link": "https://switchsoku.com/soft/dragonquest/96878",
+          "publishedOn": "2024-01-07T10:00:52.000Z",
+          "wordCount": 10041,
+          "title": "堀井雄二「2024年は辰年という事でドラクエの年だと思っています！」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/dq3-re-4.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=96875",
           "author": "SWITCH速報",
@@ -2611,6 +2636,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014313041000.html",
+          "author": null,
+          "description": "石川県によりますと、7日午後2時現在、能登地方の4つの市と町の少なくとも24の地区が、依然として孤立状態になっているということです。このうち、鵠巣地区と西保地区では、それぞれ700人を超える人が孤立状態になっているということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014313041000.html",
+          "publishedOn": "2024-01-07T10:25:11.000Z",
+          "wordCount": 608,
+          "title": "【7日】孤立状態 少なくとも24地区 輪島市では700人超の地区も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014313041_2401071846_0107184637_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014313061000.html",
+          "author": null,
+          "description": "1月2日に起きた航空機どうしの衝突事故の影響で閉鎖している羽田空港のC滑走路について、国土交通省は、8日午前0時に運用を再開すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014313061000.html",
+          "publishedOn": "2024-01-07T10:17:12.000Z",
+          "wordCount": 574,
+          "title": "羽田空港のC滑走路 8日午前0時再開へ 国土交通省",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014313061_2401071853_0107185411_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312971000.html",
+          "author": null,
+          "description": "ロシア軍が1月2日に、ウクライナ東部のハルキウ市への攻撃で使用したミサイルについて、一部のメディアが、北朝鮮の弾道ミサイルが使われたとする専門家の見方を伝えるなど、ロシア軍は、このところ北朝鮮のミサイルを相次いで使用している可能性が出ています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014312971000.html",
+          "publishedOn": "2024-01-07T09:41:21.000Z",
+          "wordCount": 500,
+          "title": "ロシア軍 2日のハルキウへの攻撃に北朝鮮の弾道ミサイル使用か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312971_2401071823_0107184123_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312921000.html",
           "author": null,
           "description": "1月1日の地震で、新潟市西区では液状化現象が確認され、各地で住宅などに被害が出ています。新潟市西区のホテルに設置された防犯カメラには、地震の直後、地面に亀裂が入り、水が流れ出る様子が克明に記録されていました。",
@@ -2619,6 +2674,16 @@
           "wordCount": 654,
           "title": "新潟 西区 防犯カメラには地震発生から冠水の様子が克明に",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312921_2401071834_0107183826_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312291000.html",
+          "author": null,
+          "description": "石川県によりますと、7日午後2時の時点で、県内であわせて128人の死亡が確認されたということです。さらに、輪島市や珠洲市、内灘町、それに能登町でも、多数の住宅に被害が出ていますが依然として全体状況は把握できていないとしています。各地の被害について、随時更新でお伝えしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014312291000.html",
+          "publishedOn": "2024-01-07T09:13:32.000Z",
+          "wordCount": 847,
+          "title": "【被害状況7日】石川で128人死亡 重軽傷者560人 救助活動続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312291_2401062033_0107104020_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312711000.html",
@@ -9614,6 +9679,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2031973.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：うんち：2024/01/07(日) 00:08:17.61 ID:hKFw46hx0.net \n\n\n\n\n\n\n\n\n\n石川・穴水の避難所で自動販売機が壊されたのは、避難者の飲料を確保するためだったことが分かりました。石川県警は事件性はないとの見方を示しています。#能登半島地震　#穴水町　#自販機破壊　#自動...",
+          "link": "https://itainews.com/archives/2031973.html",
+          "publishedOn": "2024-01-07T10:01:58.000Z",
+          "wordCount": 2556,
+          "title": "石川の自販機破壊事件、読売のやらかしだったwwww水なくやむを得ず許可得て破壊していた…",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/9/198ea4b3-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2031971.html",
           "author": "yonepo665sfr",
