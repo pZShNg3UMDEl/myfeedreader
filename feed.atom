@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T05:27:24.919Z</updated>
+    <updated>2024-01-07T05:37:42.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -39,6 +39,16 @@
 　自民...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富山 高岡市 道路修復など「専決処分」で計2億円の予算措置]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312631000.html"/>
+        <updated>2024-01-07T04:03:42.000Z</updated>
+        <summary type="html"><![CDATA[富山県高岡市は今回の能登半島地震で被害を受けた道路の修復などを急ぐため、議会の承認を経ない「専決処分」であわせて2億円の予算措置を行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
