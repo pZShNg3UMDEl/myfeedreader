@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T22:38:20.170Z</updated>
+    <updated>2024-01-07T22:50:31.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【交通影響 8日】鉄道運行状況は 一般車両 通行できない道路も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240108/k10014313241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313241000.html"/>
+        <updated>2024-01-07T22:47:48.000Z</updated>
+        <summary type="html"><![CDATA[地震による交通機関への影響です。（8日午前6時時点）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[葬式でお布施が少な過ぎて坊主がブチ切れ、40分の読経を超早口で10分で済ませてトンズラ]]></title>
         <id>https://itainews.com/archives/2031989.html</id>
