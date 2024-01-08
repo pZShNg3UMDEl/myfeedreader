@@ -2876,6 +2876,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314321000.html",
+          "author": null,
+          "description": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、9日午前5時49分ごろ、インドネシア付近を震源とするマグニチュード7.0の大きな地震がありました。この地震で、気象庁は震源の近くで津波が発生するおそれがあるとして北西太平洋津波情報を発表しました。気象庁によりますとこの地震による日本への津波の影響はありません。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314321000.html",
+          "publishedOn": "2024-01-08T21:36:44.000Z",
+          "wordCount": 659,
+          "title": "インドネシア M7.0の地震 日本への津波の影響なし 気象庁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314321_2401090632_0109063646_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314311000.html",
+          "author": null,
+          "description": "相模鉄道によりますと、相鉄線は横浜市の瀬谷駅と三ツ境駅の間の踏切の安全確認のため、午前5時39分から全線で運転を見合わせています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314311000.html",
+          "publishedOn": "2024-01-08T21:24:08.000Z",
+          "wordCount": 677,
+          "title": "相鉄線 全線で運転見合わせ 踏切の安全確認のため",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314311_2401090623_0109062410_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240109/k10014313841000.html",
           "author": null,
           "description": "日銀はことし、長期にわたって続けてきた大規模な金融緩和策を転換するかどうかの見極めに入ります。賃金の上昇を伴った2％の物価安定目標が達成できるという見通しが立つことが政策転換の前提となりますが、国内外の経済をめぐる不確実性が依然高い中で日銀は難しい判断を迫られることになります。",
@@ -10139,6 +10159,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=64896",
+          "author": "山本竜也",
+          "description": "国内で数多くのUMPC販売を手掛ける天空は12月20日、10.1インチのUMPC「OneMix5」の国内販売を開始した。価格はRAM32GB/ストレージ1TBモデルが19万8800円、32GB/2TBモデルが20万8000円（どちらも税込）。国内販売モデルは日本語キーボード仕様のみとなっている。 U […]",
+          "link": "https://gadget.phileweb.com/post-64896/",
+          "publishedOn": "2024-01-08T21:40:00.000Z",
+          "wordCount": 787,
+          "title": "絶妙なサイズ感、10.1型の“革装2-in-1ノートPC”「OneMix5」を試す",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/DSC07206.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=65217",
           "author": "編集部：平山洸太",
