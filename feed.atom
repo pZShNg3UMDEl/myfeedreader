@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T09:23:50.365Z</updated>
+    <updated>2024-01-08T09:36:45.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 志賀町 避難所3か所で新型コロナ感染確認 健康管理難しく]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240108/k10014313911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313911000.html"/>
+        <updated>2024-01-08T09:27:25.000Z</updated>
+        <summary type="html"><![CDATA[石川県志賀町によりますと、8日午前10時までに町内の3か所の避難所で合わせて13人が新型コロナウイルスに感染していると確認されたということです。町は感染者のための避難所を新たに設ける準備を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島港に臨時の津波計設置し観測再開 一時観測できず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240108/k10014313861000.html</id>
