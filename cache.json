@@ -2205,6 +2205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LjJSwjBt1Uo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LjJSwjBt1Uo",
+          "publishedOn": "2024-01-08T10:33:36.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】はかいのてっきゅう×●●でダメージが跳ね上がる!!手に入れた無課金勇者が早速使ってみた!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jNwin4ib7do",
           "author": null,
           "description": "",
@@ -2795,6 +2805,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313961000.html",
+          "author": null,
+          "description": "人気お笑いコンビ「ダウンタウン」の松本人志さんから性的な被害を受けたとする女性の証言が一部週刊誌に掲載されたことを受けて、吉本興業は松本さんが芸能活動を休止すると発表しました。松本人志さんについては、先月発売された週刊文春に松本さんから9年前に都内のホテルで性的な被害を受けたとする女性の証言が掲載され、この報道に対し、吉本興業は、「当該事実は一切なく、記事はタレントの社会的評価を著しく低下させ、その名誉を毀損するものです」などとするコメントを発表していました。吉本興業は、松本さんから「このまま芸能活動を継続することで多くの関係者や共演者にご迷惑やご負担をお掛けすることになる一方、裁判との同時並行ではこれまでのようにお笑いに全力を傾けることができなくなってしまう」として記事に対する裁判に注力したいという申し入れがあり、8日、松本さんが活動を休止することを発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240108/k10014313961000.html",
+          "publishedOn": "2024-01-08T10:42:23.000Z",
+          "wordCount": 661,
+          "title": "「ダウンタウン」松本人志さん 芸能活動休止を発表 吉本興業",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313961_2401081948_0108194929_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313941000.html",
           "author": null,
