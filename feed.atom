@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T20:50:37.111Z</updated>
+    <updated>2024-01-08T21:18:32.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日銀 大規模金融緩和策転換するかどうか見極めに 難しい判断も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014313841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014313841000.html"/>
+        <updated>2024-01-08T21:14:00.000Z</updated>
+        <summary type="html"><![CDATA[日銀はことし、長期にわたって続けてきた大規模な金融緩和策を転換するかどうかの見極めに入ります。賃金の上昇を伴った2％の物価安定目標が達成できるという見通しが立つことが政策転換の前提となりますが、国内外の経済をめぐる不確実性が依然高い中で日銀は難しい判断を迫られることになります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 活発な地震活動続く 被災地では厳しい冷え込みに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314271000.html"/>
+        <updated>2024-01-08T20:54:47.000Z</updated>
+        <summary type="html"><![CDATA[今回の能登半島地震で最大で震度7を観測した石川県の能登地方やその周辺ではおよそ1週間が過ぎた今も活発な地震活動が続いていて、気象庁は今後1か月ほどは最大震度5強程度かそれ以上の揺れに注意するよう呼びかけています。被災地では9日朝にかけて厳しい冷え込みとなったほか、日中は再び雨が予想されていて低体温症や土砂災害、なだれなどに十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[輪島「朝市通り」の火災現場 きょうから100人態勢で集中捜索へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240109/k10014314171000.html</id>
