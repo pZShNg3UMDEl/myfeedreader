@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T22:38:23.728Z</updated>
+    <updated>2024-01-08T22:50:37.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震で孤立した地域にドローンで薬を配送 石川 輪島]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314231000.html"/>
+        <updated>2024-01-08T22:40:49.000Z</updated>
+        <summary type="html"><![CDATA[今回の地震で孤立した地域に必要な物資をどのように届けるかが課題となる中、8日、石川県輪島市ではドローンを使って被災者に薬が送り届けられました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国 習国家主席 汚職の取締り 徹底して続ける姿勢強調]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240109/k10014314261000.html</id>
