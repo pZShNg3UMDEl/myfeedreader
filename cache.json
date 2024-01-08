@@ -1243,6 +1243,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96888",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/07(日) 19:53:42.50 ID:MKiLBdiba そんな噂がなんか […]",
+          "link": "https://switchsoku.com/leak/96888",
+          "publishedOn": "2024-01-08T02:00:56.000Z",
+          "wordCount": 10025,
+          "title": "【噂】『Hi-Fi RUSH』がSwitchで発売？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/hi-fi-rush-switch.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=96886",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/07(日) 23:03:17.74 ID:gnyGQldE0 これに勝てる比較 […]",
+          "link": "https://switchsoku.com/gossip/96886",
+          "publishedOn": "2024-01-08T00:00:12.000Z",
+          "wordCount": 10060,
+          "title": "スーパーマリオブラザーズ (1985)  スーパーマリオ64 (1996)  ←約10年で進化しすぎじゃない？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/07/mario64.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=96884",
           "author": "SWITCH速報",
           "description": "1: 2024/01/07(日) 00:58:17.70 ID:usmdHL7y0 理解できんわ & […]",
@@ -2302,6 +2322,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9372",
+          "author": "watanabe@logipara.com",
+          "description": "「2024年になってから行ったお店、ライフ(スーパー)とまいばすけっとだけじゃね？」と気付いたときの顔をしています",
+          "link": "https://logipara.com/diary-text/2024-01-08",
+          "publishedOn": "2024-01-08T01:45:02.000Z",
+          "wordCount": 4382,
+          "title": "初売り（に行ってない）",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9370",
           "author": "watanabe@logipara.com",
           "description": "髪を切ってきたよ！！(小学2年生が自慢する口調で) 　 ビチビチの18歳(自称)であるワタナベですが、なぜか髪には白いものが目立ちはじめています。白髪が増えるか、それとも髪そのものが無くなるかの鍔迫り合い。dead  […]",
@@ -2695,6 +2725,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313521000.html",
+          "author": null,
+          "description": "石川県能登地方を震源とする地震で、石川県は住民基本台帳をもとに8日午前9時の時点で安否が分かっていない人として、103人の氏名や年齢などを公表し、広く情報の提供を求めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240108/k10014313521000.html",
+          "publishedOn": "2024-01-08T02:01:44.000Z",
+          "wordCount": 867,
+          "title": "能登半島地震 安否不明者103人の氏名 石川県が公表（8日9時）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313521_2401081058_0108110118_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313221000.html",
+          "author": null,
+          "description": "能登半島地震から8日で1週間です。石川県ではこれまでに161人の死亡が確認され、いまも被害の全容がつかめないなか、安否が分からない人の捜索や必要な物資を届けるための道路の復旧などが急がれています。各地の被害について、随時更新でお伝えしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240108/k10014313221000.html",
+          "publishedOn": "2024-01-08T02:01:03.000Z",
+          "wordCount": 971,
+          "title": "【被害状況 8日】石川県で161人死亡 安否不明者103人（9時）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313221_2401072056_0108091947_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313491000.html",
+          "author": null,
+          "description": "大雪の影響で8日未明から北海道豊浦町の国道37号線で、およそ15キロにわたって車が立往生していて、解消に向けた除雪作業が行われています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240108/k10014313491000.html",
+          "publishedOn": "2024-01-08T01:29:03.000Z",
+          "wordCount": 629,
+          "title": "北海道 豊浦町 国道37号線 約15キロにわたり立往生 通行止めも",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313491_2401081008_0108102905_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313351000.html",
+          "author": null,
+          "description": "今回の能登半島地震では石川県内に住む多くの外国人も被災しています。避難生活を続けている人の中には支援へ感謝を示す一方、職場も被災する中で今後の生活に不安を訴える人もいます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240108/k10014313351000.html",
+          "publishedOn": "2024-01-08T00:21:07.000Z",
+          "wordCount": 475,
+          "title": "能登半島地震 外国人の被災者 今後の生活に不安訴える人も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313351_2401080919_0108092109_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313241000.html",
           "author": null,
@@ -8107,6 +8177,26 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=66118",
+          "author": "299",
+          "description": "もちまるくんの飼い主さんがお風呂に入っている間に、もちまるくんは脱いである服を一生懸命にふみふみしています。 ひととおりふみふみして満足したら、そのまま服の上にどっかりと落ち着いてしまいました。仕方ないので飼い主さんはゆ...\n飼い主さんの膝の上で絵本を一緒に見る猫さん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66118",
+          "publishedOn": "2024-01-08T02:00:48.000Z",
+          "wordCount": 1615,
+          "title": "飼い主さんの膝の上で絵本を一緒に見る猫さん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66118.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=66151",
+          "author": "299",
+          "description": "森の中の道路をバイクでツーリングしていたら、道の脇に段ボール箱が置かれていることに気づいたライダーさんでした。 気になったので引き返してのぞいてみたら、箱の隙間から1匹の子猫が飛び出してきました。 箱を開けてみると他にも...\nツーリングの途中で箱に入れられて捨てられていた子猫たちを保護 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66151",
+          "publishedOn": "2024-01-08T00:00:47.000Z",
+          "wordCount": 1616,
+          "title": "ツーリングの途中で箱に入れられて捨てられていた子猫たちを保護",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66151.jpeg"
+        },
+        {
           "id": "https://2-9-9.com/?p=66113",
           "author": "299",
           "description": "耳が後ろにクルンとカールしている仔猫さんはアメリカンカールという猫種で今注目されている人気猫さんです。 仔猫の名前はさつきちゃん。女の子なのにかなりヤンチャな子猫で飼い主さんの手に容赦無くガブガブしてきます。でも同時に喉...\nパパ猫と初対面の子猫の威嚇が止まらない〜 first appeared on 肉球ドットコム（299.com）.",
@@ -9954,16 +10044,6 @@
           "publishedOn": "2023-12-10T12:00:09.000Z",
           "wordCount": null,
           "title": "ぱっぷす小池百合子住民訴訟③ぱっぷす準備書面",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K6U_vnb-rQM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K6U_vnb-rQM",
-          "publishedOn": "2023-12-09T12:00:10.000Z",
-          "wordCount": null,
-          "title": "R4WBPC住民訴訟②東京都&Colabo(中川卓)書面",
           "imageUrl": null
         }
       ]
