@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T20:24:43.845Z</updated>
+    <updated>2024-01-09T20:36:38.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年の世界の平均気温 “過去最高”と発表 EUの気象情報機関]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240110/k10014315691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315691000.html"/>
+        <updated>2024-01-09T20:23:54.000Z</updated>
+        <summary type="html"><![CDATA[去年1年間の世界の平均気温はこれまでで最も高かったとEU＝ヨーロッパ連合の気象情報機関が発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[志賀原発 “地震発生後 約1～3mの津波が複数回到達” 北陸電力]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240110/k10014315671000.html</id>
