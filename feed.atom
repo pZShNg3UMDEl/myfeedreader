@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T09:23:10.849Z</updated>
+    <updated>2024-01-09T09:36:58.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[八代亜紀さん死去 73歳 「舟唄」や「雨の慕情」などのヒット曲]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014315201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014315201000.html"/>
+        <updated>2024-01-09T09:23:35.000Z</updated>
+        <summary type="html"><![CDATA[「舟唄」や「雨の慕情」などのヒット曲で知られる歌手の八代亜紀さんが急速進行性間質性肺炎を発症し療養を続けていましたが、12月30日に亡くなったと所属事務所が発表しました。73歳でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新潟県で震度5弱の地震（17:59）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240109/k10014315161000.html</id>
@@ -15137,59 +15147,6 @@ Return to Conference List index]]></summary>
         <summary type="html"><![CDATA[インフィニオン テクノロジーズは、10Gビット/秒の伝送速度に対応したUSBペリフェラルコントローラー「EZ-USB FX10」を発表した。デュアルCPUコア「ARM Cortex-M4」「ARM Cortex-M0+」で構成され、7系統のシリアル通信ブロックなどを搭載する。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Postings - Week of 10 Dec 2023]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/job-postings-week-of-10-dec-2023.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/job-postings-week-of-10-dec-2023.html"/>
-        <updated>2023-12-10T21:34:00.002Z</updated>
-        <summary type="html"><![CDATA[Dyson
-Senior Camera Systems Engineer,
-  Electronics
-Singapore
-Link
-Johnson & Johnson
-Optical Engineer – R&D
-Cincinnati, Ohio, USA 
-Link
-Italian Space Agency
-PostDoc
-  - Development of new technologies for particle detection in space
-Rome, Italy
-Link
-Apple
-Senior Firmware Engineer - Camera
-Cupertino, California, USA
-Link
-University of Arizona – Wyant
-  College of Optical Sciences
-Postdoctoral Research Associate I
-Tucson, Arizona, USA
-Link
-Google
-Image Tuning Engineer, Pixel
-  Camera
-Taipei, Taiwan
-Link
-Stanford University
-Professor, Departments of Photon
-  Science and of Particle Physics and Astrophysics
-Menlo Park, California, USA
-Link
-NDI Europe GmbH
-Development Engineer Sensor
-  Technology
-Radolfzell,
-  Germany
-Link
-McGill University
-Postdoctoral Fellow - nEXO
-  Detector Development (send e-mail)
-Montreal, Quebec, Canada
-Link]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
