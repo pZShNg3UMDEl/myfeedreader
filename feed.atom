@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T20:36:38.060Z</updated>
+    <updated>2024-01-09T20:50:14.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民 政治刷新本部を10日設置へ 政治資金問題の再発防止を検討]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240110/k10014315491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315491000.html"/>
+        <updated>2024-01-09T20:42:12.000Z</updated>
+        <summary type="html"><![CDATA[自民党は、派閥の政治資金パーティーをめぐる問題を受けて再発防止策などを検討するため、10日、「政治刷新本部」の設置を決めることにしています。岸田総理大臣を本部長としメンバーには中堅・若手の議員も加え政治資金規正法の改正も視野に議論する方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 能登半島地震の被災地 早ければ13日にも視察で調整]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240110/k10014315651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315651000.html"/>
+        <updated>2024-01-09T20:39:14.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震を受けた政府の対応をめぐり、岸田総理大臣は、適切な支援を着実に進めていく上で被災地の実情を直接把握したいとして、早ければ今週13日にも現地を視察する方向で検討しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年の世界の平均気温 “過去最高”と発表 EUの気象情報機関]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240110/k10014315691000.html</id>
