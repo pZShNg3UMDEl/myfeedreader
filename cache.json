@@ -1303,6 +1303,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96918",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/07(日) 21:36:14.36 ID:Yp7DlUZ30 過去作１つもやっ […]",
+          "link": "https://switchsoku.com/soft/96918",
+          "publishedOn": "2024-01-09T02:00:05.000Z",
+          "wordCount": 9960,
+          "title": "『ニンテンドッグス』をSwitchやりたい！！！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/01/nintendogs.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=96916",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/08(月) 23:12:14.93 ID:mOw80gMRd 任天堂は今年「S […]",
+          "link": "https://switchsoku.com/leak/96916",
+          "publishedOn": "2024-01-09T00:00:07.000Z",
+          "wordCount": 10194,
+          "title": "CNBCが「任天堂は今年､Switch2を発売する予定」と報道",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2lkt.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96912",
           "author": "SWITCH速報",
           "description": "リーカーZippo氏によると、Switch後継機向けに『ゼノブレイドX』のフルリメイクが進行中とのこ […]",
@@ -2875,6 +2895,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314061000.html",
+          "author": null,
+          "description": "石川県によりますと、9日午前9時の時点で、県内で合わせて180人の死亡が確認されたということです。輪島市で81人、珠洲市で71人、穴水町で18人、七尾市で5人、能登町で2人、志賀町で2人、羽咋市で1人となっています。また、重軽傷者は県内全体で少なくとも565人にのぼっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314061000.html",
+          "publishedOn": "2024-01-09T02:01:33.000Z",
+          "wordCount": 852,
+          "title": "【被害状況 9日】石川県で180人死亡 安否不明120人（午前9時）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314061_2401082004_0108211817_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314351000.html",
+          "author": null,
+          "description": "国際情勢を分析しているアメリカの調査会社は「ことしの10大リスク」を発表し、最大のリスクとして「アメリカの分断」を挙げ、11月の大統領選挙に向けて政治的な分断がさらに深まり、地政学的な不安定さを世界にもたらす可能性があると危機感を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314351000.html",
+          "publishedOn": "2024-01-09T00:50:45.000Z",
+          "wordCount": 789,
+          "title": "ことし最大のリスクは「アメリカの分断」 米調査会社",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314351_2401090922_0109095009_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314401000.html",
+          "author": null,
+          "description": "連休明けの9日の東京株式市場、日経平均株価は一時600円以上、値上がりして3万3900円台をつけました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314401000.html",
+          "publishedOn": "2024-01-09T00:41:23.000Z",
+          "wordCount": 627,
+          "title": "株価 一時600円以上値上がり 3万3900円台に バブル期以来",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314401_2401090914_0109094048_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314281000.html",
+          "author": null,
+          "description": "アメリカのオースティン国防長官の入院が3日間、バイデン大統領に伝えられていなかったとして批判の声が上がっていることについて、ホワイトハウスの高官は大統領にオースティン長官を更迭する意向はないと明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314281000.html",
+          "publishedOn": "2024-01-09T00:21:37.000Z",
+          "wordCount": 656,
+          "title": "米高官 “バイデン大統領 入院の国防長官を更迭する意向なし”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314281_2401090918_0109092140_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314291000.html",
+          "author": null,
+          "description": "1974年のサッカーワールドカップで当時の西ドイツを優勝に導き「皇帝」と呼ばれた名選手、フランツ・ベッケンバウアーさんが死去しました。78歳でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314291000.html",
+          "publishedOn": "2024-01-09T00:09:55.000Z",
+          "wordCount": 980,
+          "title": "サッカー 「皇帝」ベッケンバウアーさん死去 旧西ドイツ名選手",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314291_2401090908_0109090924_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314301000.html",
           "author": null,
@@ -7923,6 +7993,26 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=232334",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼チェー […]",
+          "link": "https://foodfighter.jp/matsuya-2024-0109",
+          "publishedOn": "2024-01-09T02:07:00.000Z",
+          "wordCount": 1927,
+          "title": "【松屋】炙り十勝豚丼・大盛り【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/ac48dfd7cea2533e0eaf1ce2f5774093.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=232311",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム いちごのビスケットサンドアイス」を世界一詳しく調査しました。   公式Yo […]",
+          "link": "https://foodfighter.jp/711sej-strawberry-biscuit-ice",
+          "publishedOn": "2024-01-09T00:24:59.000Z",
+          "wordCount": 1873,
+          "title": "【セブンイレブン】セブンプレミアム いちごのビスケットサンドアイス【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/94cee2a6e8060a02b9404fa367bc70e7.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=232293",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「ハーゲンダッツ ミニカップ ストロベリーショコラパフェ」を世界一詳しく調査しました。    […]",
@@ -8530,6 +8620,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/09/news056.html",
+          "author": null,
+          "description": "ミツミ電機は、1セル用リチウムイオン電池用保護IC「MM414x」シリーズを発売した。過電流検出電圧精度は±0.5mVで、7A±1Aの放電過電流検出（LPS規格）に対して、0.5mΩのセンス抵抗まで対応できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/09/news056.html",
+          "publishedOn": "2024-01-09T01:00:00.000Z",
+          "wordCount": 2660,
+          "title": "高精度な過電流検出機能を搭載した1セル用電池保護IC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/09/Rel_231221_Mitsumi01.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/05/news065.html",
           "author": null,
           "description": "コンガテックは、コンピュータオンモジュール「conga-TC700 COM Express Compact」の販売を開始する。インテルの「Core Ultra」を内蔵し、最大6つのPコアと最大8つのEコア、2つの低電力Eコアにより、最大22スレッドをサポートする。",
@@ -8726,6 +8826,26 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=66179",
+          "author": "299",
+          "description": "飼い主さんが赤ちゃん猫を手のひらに乗せていると、お母さん猫がやってきて慎重に首のところを咥えるとそのまま、より安全な寝床のほうへ赤ちゃん猫を運んでいきます。 お母さん猫は飼い主さんが赤ちゃんを抱っこしていても特に怒ったり...\n飼い主さんに赤ちゃん猫をたっぷり抱っこさせてくれるお母さん猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66179",
+          "publishedOn": "2024-01-09T02:00:24.000Z",
+          "wordCount": 1617,
+          "title": "飼い主さんに赤ちゃん猫をたっぷり抱っこさせてくれるお母さん猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66179.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=66211",
+          "author": "299",
+          "description": "お母さんが呼ぶと豆大福が一直線に駆け足で近寄ってきました。かなりガチムチボディの豆大福が、ポテポテと走ってくるところはとてもコミカルで可愛らしいです。 お母さんに頭をヨシヨシしてもらってご満悦な表情の豆大福です。大好きな...\nかわるがわるお母さんのお腹の上に乗ってきて甘えるニャンズ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66211",
+          "publishedOn": "2024-01-09T00:00:29.000Z",
+          "wordCount": 1616,
+          "title": "かわるがわるお母さんのお腹の上に乗ってきて甘えるニャンズ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66211.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=66175",
           "author": "299",
@@ -10230,6 +10350,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=65222",
+          "author": "多根清史",
+          "description": "アップルがM3チップを搭載したiPad Proを準備中であり、従来のミニLEDバックライト画面に代わって有機ELディスプレイを採用するとの噂は何度となく報じられてきた。昨年は新型iPadが1つも投入されない年となったが、2024年は新技術を満載したiPad Proと、新たなサイズ12.9インチを含む […]",
+          "link": "https://gadget.phileweb.com/post-65222/",
+          "publishedOn": "2024-01-09T01:57:43.000Z",
+          "wordCount": 822,
+          "title": "有機EL版iPad Pro、常時表示と高輝度、長寿命かつ薄くて軽いと著名アナリスト予測",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2083255906-1.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=65234",
+          "author": "PHILE WEB編集部",
+          "description": "米アップルは、“空間コンピュータ”を謳うヘッドセット「Apple Vision Pro」を、2月2日（金）より米国のApple Store全店とオンラインのApple Storeで販売すると発表した。 予約受付は、太平洋標準時の1月19日（金）午前5時から開始する。本体の価格は256GBモデルの場合 […]",
+          "link": "https://gadget.phileweb.com/post-65234/",
+          "publishedOn": "2024-01-09T00:01:43.000Z",
+          "wordCount": 795,
+          "title": "米アップル、「Apple Vision Pro」を2月2日発売。3499ドルから",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/vision-pro-2.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=64896",
           "author": "山本竜也",
           "description": "国内で数多くのUMPC販売を手掛ける天空は12月20日、10.1インチのUMPC「OneMix5」の国内販売を開始した。価格はRAM32GB/ストレージ1TBモデルが19万8800円、32GB/2TBモデルが20万8000円（どちらも税込）。国内販売モデルは日本語キーボード仕様のみとなっている。 U […]",
@@ -10774,16 +10914,6 @@
           "publishedOn": "2023-12-11T12:00:10.000Z",
           "wordCount": null,
           "title": "新橋九段裁判③書面、反訴状、反訴書面",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7ZPknXyv2Ds",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7ZPknXyv2Ds",
-          "publishedOn": "2023-12-10T12:00:09.000Z",
-          "wordCount": null,
-          "title": "ぱっぷす小池百合子住民訴訟③ぱっぷす準備書面",
           "imageUrl": null
         }
       ]
