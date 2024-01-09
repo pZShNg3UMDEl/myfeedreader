@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T11:18:47.349Z</updated>
+    <updated>2024-01-09T11:36:20.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【週末アニメ映画ランキング】「劇場版 SPY×FAMILY」が3週連続首位、「名探偵コナン vs. 怪盗キッド」は4位にランクイン]]></title>
+        <id>https://anime.eiga.com/news/column/eiga_ranking/120354/</id>
+        <link href="https://anime.eiga.com/news/column/eiga_ranking/120354/"/>
+        <updated>2024-01-09T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[1月5日～7日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「劇場版 SPY×FAMILY CODE: White」が3週連続で首位を獲得。週末3日間で動員39万9000人...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 新型コロナ 医療機関で正確な患者数の把握が困難に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014315411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014315411000.html"/>
+        <updated>2024-01-09T11:21:19.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の影響で、石川県では新型コロナウイルスなどの発生状況を把握するために調査の対象となっている、県内の医療機関で正確な患者数の把握が難しくなっていて、県は早期の体制づくりを進めることにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大谷翔平 契約金後払い 米カリフォルニア州が問題視する声明]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240109/k10014315341000.html</id>
