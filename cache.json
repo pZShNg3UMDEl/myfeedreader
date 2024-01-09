@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120347/",
+          "author": null,
+          "description": "アニメ「ドロヘドロ」の続編が、配信シリーズとして製作されることが決定した。ティザービジュアル、原作者・林田球氏のコメントが発表された。 2000年から18年にわたって連載された原作漫画は、魔法に...",
+          "link": "https://anime.eiga.com/news/120347/",
+          "publishedOn": "2024-01-09T09:00:00.000Z",
+          "wordCount": 807,
+          "title": "「ドロヘドロ」続編が配信シリーズとして製作決定　ティザービジュアル公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120302/",
           "author": null,
           "description": "劇場アニメ「アリスとテレスのまぼろし工場」が、1月15日からNetflixで独占配信される。 2023年9月に劇場公開された同作は、「さよならの朝に約束の花をかざろう」で初監督を務めた脚本家・岡...",
@@ -2940,6 +2955,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014315161000.html",
+          "author": null,
+          "description": "９日午後５時５９分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度５弱が、新潟県中越地方。▼震度４が、新潟県上越地方、新潟県下越地方、佐渡地方、石川県能登地方。今後の情報に注意してください。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014315161000.html",
+          "publishedOn": "2024-01-09T09:19:58.000Z",
+          "wordCount": 551,
+          "title": "新潟県で震度5弱の地震（17:59）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014315161_2401091804_0109180451_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014315081000.html",
+          "author": null,
+          "description": "中国国営の中国中央テレビによりますと、日本時間の9日午後4時すぎ、中国は四川省の西昌衛星発射センターからロケットを使用して衛星を発射したと発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014315081000.html",
+          "publishedOn": "2024-01-09T09:14:04.000Z",
+          "wordCount": 532,
+          "title": "中国 “衛星を発射”と発表 台湾では「防空警報」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014315081_2401091743_0109181406_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014315111000.html",
+          "author": null,
+          "description": "8日、東京 文京区にある田中角栄元総理大臣の自宅だった建物が全焼した火事で、警視庁と消防が現場を詳しく調べたところ、1階の仏壇付近から火が出たとみられることが分かりました。娘の田中真紀子氏は「線香をあげて建物から出たあと、音がして火事に気付いた」と説明していて、警視庁などが出火原因の特定を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014315111000.html",
+          "publishedOn": "2024-01-09T08:54:02.000Z",
+          "wordCount": 735,
+          "title": "旧田中角栄元首相邸が全焼 1階の仏壇付近から出火か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014315111_2401091742_0109175349_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314981000.html",
           "author": null,
@@ -11314,6 +11359,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032025.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/01/08(月) 15:02:02.38 ID:52Ysxcrv0●.net \n\n\n\n\n\n\n\n\n\n時間が経てばどんどんボランティアに向かう人たちが増えるのに、被災者のカレーを食べるな、と言う表層的にしか物事を見られない連中の外野のうるさいクレームのせいで被災地にいく...",
+          "link": "https://itainews.com/archives/2032025.html",
+          "publishedOn": "2024-01-09T09:01:01.000Z",
+          "wordCount": 2511,
+          "title": "【まだアメリカへ行かない】ウーマン村本『お前ら（5ch）のせいで被災地のボランティアの数が減る』",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/8/085ab08f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032038.html",
           "author": "yonepo665sfr",
