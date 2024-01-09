@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T19:35:33.175Z</updated>
+    <updated>2024-01-09T19:50:20.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【被災者支援情報 10日】大学入試共通テスト 特例措置を実施]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240110/k10014315631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315631000.html"/>
+        <updated>2024-01-09T19:28:51.000Z</updated>
+        <summary type="html"><![CDATA[今週末に予定されている大学入学共通テストの本試験について、石川県内の会場で受ける予定だった受験生は全員が追試験の対象となるなど、地震を受けて特例措置が実施されます。被災した人に向けた支援の動きを随時更新でお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お母さん猫がしっぽで子猫をあやしている姿にほっこりさせられます]]></title>
         <id>https://2-9-9.com/?p=66275</id>
