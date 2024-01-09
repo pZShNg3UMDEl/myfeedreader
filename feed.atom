@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T03:24:37.000Z</updated>
+    <updated>2024-01-09T03:36:43.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川と新潟 計97の郵便局で窓口業務の休止続く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314521000.html"/>
+        <updated>2024-01-09T03:33:18.000Z</updated>
+        <summary type="html"><![CDATA[今回の地震の影響で郵便局の業務の休止が長期化しています。日本郵便によりますと、石川県と新潟県の合わせて97の郵便局で窓口業務の休止が続き、併設されているゆうちょ銀行のATMも利用できない状態となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ディズニー、YouTubeで『蒸気船ウィリー』使用動画に著作権侵害申し立てをするも抗議受け撤回]]></title>
         <id>https://gadget.phileweb.com/?p=65241</id>
