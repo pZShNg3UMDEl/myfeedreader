@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T08:30:27.914Z</updated>
+    <updated>2024-01-09T08:50:28.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震で車中泊続ける人に エコノミークラス症候群に近い症状も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314981000.html"/>
+        <updated>2024-01-09T08:39:40.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震から1週間余りがたつ中、車中泊を続ける人の中には、エコノミークラス症候群に近い症状がみられる人も出てきています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島 4.4平方km拡大 輪島市の海岸線 海側に最大240m広がる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240109/k10014314931000.html</id>
