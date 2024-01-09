@@ -2931,6 +2931,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314731000.html",
+          "author": null,
+          "description": "能登半島地震のあと、被災地の避難所で活動を行っているNGOの医療チームがNHKの取材に応じ、避難所では運営を担う自治体の職員が被災するなどして人手が不足し、支援が十分に行き届いていない場所があると訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314731000.html",
+          "publishedOn": "2024-01-09T06:34:50.000Z",
+          "wordCount": 613,
+          "title": "“自治体職員も被災 人手不足の避難所も”NGO医療チーム",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314731_2401091508_0109151813_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314711000.html",
+          "author": null,
+          "description": "9日昼前、NHKのヘリコプターが石川県内の上空から撮影した映像です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314711000.html",
+          "publishedOn": "2024-01-09T06:26:58.000Z",
+          "wordCount": 581,
+          "title": "【動画】JR七尾線 復旧作業進む 能登半島地震で運転取りやめ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314711_2401091510_0109152659_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314761000.html",
           "author": null,
           "description": "宅配大手のヤマト運輸が、配達を担当するおよそ2万5000人の個人事業主との契約を今月末までに終了するとしていることを受けて、当事者である配達員や労働組合が撤回を求める抗議活動を行いました。",
@@ -8177,6 +8197,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=232354",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「森永製菓　ラムネのひと粒アイス」を世界一詳しく調査しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/famima-morinaga-ramune-ice",
+          "publishedOn": "2024-01-09T06:31:28.000Z",
+          "wordCount": 1880,
+          "title": "【ファミマ】森永製菓　ラムネのひと粒アイス【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/ab51513fe4e0a587a17b2a8b8b988936.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=232334",
           "author": "foodfighter",
