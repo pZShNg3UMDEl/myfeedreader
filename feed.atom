@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T10:32:15.383Z</updated>
+    <updated>2024-01-09T10:50:18.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHK 2024年度から3か年の経営計画を決定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314681000.html"/>
+        <updated>2024-01-09T10:41:46.000Z</updated>
+        <summary type="html"><![CDATA[NHKは、来年度・2024年度から3か年の経営計画を決めました。健全な民主主義の発達に資することをNHKの究極の使命と位置づけ、信頼できる基本的な情報と多様なコンテンツを提供する方針を示す一方、経営改革を進め、1割値下げした受信料額を堅持するとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 道路復旧進むも “普段の2倍の時間” 現状は？]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314751000.html"/>
+        <updated>2024-01-09T10:32:45.000Z</updated>
+        <summary type="html"><![CDATA[地震発生から8日たちましたが、石川県能登地方の道路は、沿岸部を中心に土砂崩れなどによる通行止めで、救助や被災者支援への影響が続いています。国は復旧が進んでいる内陸の道路から、“くしの歯状”に緊急復旧を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【餃子の王将】餃子2人前・回鍋肉（ジャストサイズ）【定番メニュー】]]></title>
         <id>https://foodfighter.jp/?p=232393</id>
