@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T23:22:39.108Z</updated>
+    <updated>2024-01-10T23:36:41.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米大統領選 共和党から立候補表明のクリスティー氏 撤退を表明]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317171000.html"/>
+        <updated>2024-01-10T23:16:26.000Z</updated>
+        <summary type="html"><![CDATA[ことし11月に行われるアメリカ大統領選挙に向けて野党・共和党から立候補を表明していたニュージャージー州のクリスティー前知事は10日、「指名を勝ち取り、バイデン大統領を破り、共和党を希望に満ちたものとして取り戻したかったが、勝利までの道筋はなくなった」と述べて選挙戦から撤退することを表明しました。クリスティー氏は、トランプ前大統領に対する批判の急先ぽうとして、穏健な保守派である自分こそが今のアメリカに必要だとアピールしてきましたが、トランプ氏が支持率で共和党のほかの候補者を大きくリードする中、支持を広げることができませんでした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】長野市のハローワークにハンマー男　パソコン13台破壊　身柄確保､けが人なし]]></title>
         <id>https://itainews.com/archives/2032076.html</id>
