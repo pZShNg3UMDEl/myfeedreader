@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T18:50:50.414Z</updated>
+    <updated>2024-01-10T19:17:04.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[災害関連死防止へ 配慮必要な人の受け入れ準備進む 愛知県など]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014316981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014316981000.html"/>
+        <updated>2024-01-10T19:12:54.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の災害関連死を防ぐため、2次避難や広域避難が急がれる中、各地の自治体の宿泊施設や医療機関などでは、被災地の高齢者施設の入所者など配慮が必要な人を受け入れる準備が進められています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫ちゃんの後ろ足をくすぐってみた]]></title>
         <id>https://2-9-9.com/?p=66337</id>
@@ -16599,15 +16609,6 @@ Schematics of Gapless and 2x2 on-chip lens.
 Cross sectional SPAD image of (a) our previous work and (b) this work.]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ドラクエウォーク】同一ＰＴで１・２ターン大楽勝!!レッドオーガ・れんごくまちょうなどほこら４種をゴールデンクレイモア１本のみ防具アクセ無しの裸攻略!!ＰＴ複数作る必要無し!!]]></title>
-        <id>https://www.youtube.com/watch?v=SIsgawWB_f4</id>
-        <link href="https://www.youtube.com/watch?v=SIsgawWB_f4"/>
-        <updated>2023-12-12T07:15:02.000Z</updated>
-        <author>
-            <name>YoshiZo</name>
         </author>
     </entry>
 </feed>
