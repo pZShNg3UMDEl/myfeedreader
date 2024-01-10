@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T16:50:44.012Z</updated>
+    <updated>2024-01-10T17:26:13.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[羽田空港事故 日本航空パイロット 衝突後は“操縦不能と認識”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317081000.html"/>
+        <updated>2024-01-10T16:55:29.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港で起きた航空機どうしの衝突炎上事故で、日本航空がパイロットから聞き取りを行ったところ、衝突後の状況について「ブレーキなどを操作したが機能せず、操縦不能だと認識した」と話していることがわかりました。国の運輸安全委員会は衝突から乗客が脱出するまでの経緯についても詳しく調査しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダンボール箱で眠る猫達]]></title>
         <id>https://2-9-9.com/?p=66328</id>
