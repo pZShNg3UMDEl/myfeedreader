@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T19:17:04.958Z</updated>
+    <updated>2024-01-10T19:35:44.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[持続可能な農業に向けて 環境負荷低減の取り組み促進へ 農水省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014316861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014316861000.html"/>
+        <updated>2024-01-10T19:21:23.000Z</updated>
+        <summary type="html"><![CDATA[持続可能な農業の実現に向けて、農林水産省は、ことし4月から農家に対し、農薬や化学肥料を必要以上に使わないことを一部の補助金を支給する際の要件に加えるなど、環境への負荷を低減する取り組みを促していくことにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[災害関連死防止へ 配慮必要な人の受け入れ準備進む 愛知県など]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240111/k10014316981000.html</id>
