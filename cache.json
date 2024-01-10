@@ -1453,6 +1453,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96966",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/10(水) 12:29:58.18 ID:PGxwrI70d 任天堂、時価総額 […]",
+          "link": "https://switchsoku.com/nintendo/96966",
+          "publishedOn": "2024-01-10T09:40:53.000Z",
+          "wordCount": 10064,
+          "title": "任天堂、時価総額10兆円超え",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/07/Nintendo-money.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=96963",
           "author": "SWITCH速報",
           "description": "1: 2024/01/09(火) 15:30:30.40 ID:e2fai3jr0 アンリアルエンジ […]",
@@ -3145,6 +3155,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240110/k10014316701000.html",
+          "author": null,
+          "description": "ウクライナ軍は東部の国境に接しているロシア西部の州に対して越境攻撃とみられる動きを強めていて、侵攻するロシア側への揺さぶりを続けています。これに対しロシア側は「脅威を排除する」としたうえで、国境を接するウクライナ側の州で攻撃を続けていて、双方の応酬が激しくなっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240110/k10014316701000.html",
+          "publishedOn": "2024-01-10T09:42:58.000Z",
+          "wordCount": 539,
+          "title": "ウクライナ ロシア西部に越境攻撃か ロシアも攻撃で応酬激化",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240110/K10014316701_2401101829_0110183049_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240110/k10014316151000.html",
           "author": null,
