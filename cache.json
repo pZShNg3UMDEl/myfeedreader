@@ -3091,6 +3091,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240110/k10014316051000.html",
+          "author": null,
+          "description": "今月1日、震度6強の揺れを観測した石川県輪島市の中心部「朝市通り」で発生した大規模な火災現場で、警察などは2日目となる集中的な捜索を行い巻き込まれた人がいないかなど確認を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240110/k10014316051000.html",
+          "publishedOn": "2024-01-10T04:44:10.000Z",
+          "wordCount": 559,
+          "title": "石川 輪島「朝市通り」の大規模な火災現場 集中捜索 2日目",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240110/K10014316051_2401101208_0110130522_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240110/k10014316131000.html",
+          "author": null,
+          "description": "今月1日の地震で外部から電気を受けるための変圧器が壊れ、現在も、一部の系統が使えなくなるなどのトラブルが起きた北陸電力の志賀原子力発電所について、原子力規制委員会は、変圧器の復旧を急ぐことや、ほかの原発も含めて、地震対策の見直しが必要か検討することを求めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240110/k10014316131000.html",
+          "publishedOn": "2024-01-10T04:42:46.000Z",
+          "wordCount": 699,
+          "title": "志賀原発のトラブル 規制委“地震対策見直し必要か検討を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240110/K10014316131_2401101305_0110133736_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240110/k10014315971000.html",
           "author": null,
           "description": "今回の地震では高齢者施設や障害者施設も被災していますが、現地で支援に当たるNPOなどの調査で、みずからも被災した施設の職員が帰宅できないまま勤務するなど、厳しい状況で支援を続けていることがわかりました。",
@@ -8787,6 +8807,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=232490",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ジューシービーフメンチカツバーガー」を世界一詳しく調査しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/711sej-mince-cutlet-burger",
+          "publishedOn": "2024-01-10T04:33:48.000Z",
+          "wordCount": 1866,
+          "title": "【セブンイレブン】ジューシービーフメンチカツバーガー【新作コンビニパン】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/857e48cf0bcfeb79d1eb87133dbe1677.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=232468",
           "author": "foodfighter",
