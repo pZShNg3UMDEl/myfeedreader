@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T20:25:06.465Z</updated>
+    <updated>2024-01-10T20:36:33.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[専門家 “避難所の生活環境 早急に改善し災害関連死の防止を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014316901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014316901000.html"/>
+        <updated>2024-01-10T20:21:41.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災者の問診などの支援活動にあたった専門家は避難所の生活環境は体調不良になるリスクが高い厳しい状態だと指摘しています。避難生活などが原因でなくなる災害関連死を防ぐためにも避難所の生活・衛生環境を早急に改善する必要があるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震 被災地で厳しい冷え込み 低体温症に十分注意]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240111/k10014317121000.html</id>
