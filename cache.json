@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120368/",
+          "author": null,
+          "description": "「劇場版 SPY×FAMILY CODE: White」が公開中のアニメ「SPY×FAMILY」の描き下ろしイラストが、女性グラビア週刊誌「anan」1月17日発売号（2381号）のスペシャルエ...",
+          "link": "https://anime.eiga.com/news/120368/",
+          "publishedOn": "2024-01-11T12:00:00.000Z",
+          "wordCount": 877,
+          "title": "「SPY×FAMILY」アーニャ＆ボンドが「anan」表紙に　誌面で劇場版特集＆イラストステッカーも付属",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120369/",
           "author": null,
           "description": "1月26日から全国公開される「機動戦士ガンダムSEED FREEDOM」の第1弾入場特典（入場者プレゼント）が明らかになった。「MX4D」「4DX」「Dolby Cinema」版の上映や、公開記...",
@@ -1542,6 +1557,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=96993",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/11(木) 12:43:22.44 ID:pJmpOwqP0 #ファミコン国民 […]",
+          "link": "https://switchsoku.com/ds/96993",
+          "publishedOn": "2024-01-11T12:00:18.000Z",
+          "wordCount": 10042,
+          "title": "ファミコン国民投票 第25回テーマ「和」といえば？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/07/fc-touhytou.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=96990",
           "author": "SWITCH速報",
@@ -3326,6 +3351,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317941000.html",
+          "author": null,
+          "description": "11日夜、東京 板橋区で火事があり、消防によりますと、この建物に住む70代の男女2人が意識不明の重体となっているほか、4人がけがをしているということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317941000.html",
+          "publishedOn": "2024-01-11T12:40:09.000Z",
+          "wordCount": 530,
+          "title": "東京 板橋区で建物火災 2人が意識不明の重体 4人けが",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317941_2401112049_0111205738_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317431000.html",
+          "author": null,
+          "description": "元旦の突然の地震から10日がたちました。多くの人が日常を奪われ、今も各地の避難所などで避難生活が続いています。大変な状況の中で取材にこたえてくださった被災地の方々の声をまとめました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317431000.html",
+          "publishedOn": "2024-01-11T12:03:40.000Z",
+          "wordCount": 1691,
+          "title": "「ゆっくり休む場所なく インフル感染も」【被災地の声 11日】",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317431_2401112021_0111202452_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317901000.html",
+          "author": null,
+          "description": "ネット証券大手のSBI証券が上場後の「初値」をつり上げるための注文と知りながら買い注文を受け付けていたとして、金融庁は金融商品取引法に基づいて一部の業務の停止を命じる方針を固めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317901000.html",
+          "publishedOn": "2024-01-11T11:57:51.000Z",
+          "wordCount": 781,
+          "title": "SBI証券に一部の業務停止命じる方針固める 金融庁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317901_2401112043_0111205753_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317851000.html",
           "author": null,
           "description": "防衛省は、陸上幕僚監部のナンバー2にあたる陸上幕僚副長が9日、数十人の隊員とともに靖国神社を参拝したと明らかにしました。内部通達で禁止されている部隊での参拝にあたる可能性があるとして、調査するとしています。",
@@ -3394,6 +3449,16 @@
           "wordCount": 1292,
           "title": "仮設トイレ設置進むも… 深刻な「トイレ問題」適切な使い方は",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317251_2401111744_0111180337_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317661000.html",
+          "author": null,
+          "description": "林官房長官は、北朝鮮に拉致された横田めぐみさんの母親の早紀江さんらと総理大臣官邸で面会し、すべての拉致被害者の早期帰国に向けて全力で取り組む考えを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317661000.html",
+          "publishedOn": "2024-01-11T09:29:22.000Z",
+          "wordCount": 558,
+          "title": "林官房長官 横田めぐみさんの母親らと面会 “早期帰国に全力”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317661_2401111726_0111174806_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317721000.html",
@@ -13027,6 +13092,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NUqfEgJFI08",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NUqfEgJFI08",
+          "publishedOn": "2024-01-11T12:11:18.000Z",
+          "wordCount": null,
+          "title": "その男、名は「太閤」#3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ioIDerLMcLs",
           "author": null,
           "description": "",
@@ -13299,6 +13374,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032101.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(愛媛県) [ES]：2024/01/11(木) 12:59:49.19 ID:JZ+VO0lG0●.net \n\n\n\n\n\n\n\n\n\n\n七尾市職員に炊き出しの差し入れ200食分をいただきました。温かい食事を食べることができ、感謝いたします。 pic.twitter.com/58zW8Mfj7A— 七尾市長　茶谷 義隆 (@...",
+          "link": "https://itainews.com/archives/2032101.html",
+          "publishedOn": "2024-01-11T12:01:02.000Z",
+          "wordCount": 2848,
+          "title": "石川県七尾市長「七尾市職員に炊き出しの差し入れをいただきました」　パ「行政が炊き出し食うなや」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/f/ef3d1113-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032099.html",
           "author": "damono3856",
