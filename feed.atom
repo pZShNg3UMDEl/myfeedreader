@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T05:28:27.036Z</updated>
+    <updated>2024-01-11T05:38:50.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政府 “2次避難所 今週中にも1万人分確保を目指し調整”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317341000.html"/>
+        <updated>2024-01-11T05:26:59.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震を受けた対応をめぐり、政府は、なるべく多くの被災者に、より安全に過ごせる場所に移ってもらうため、被災地外の宿泊施設などの2次避難所を、今週中にも1万人分確保することを目指し調整を急いでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI、「GPTストア」オープン。カスタマイズしたChatGPTを配布可能に]]></title>
         <id>https://gadget.phileweb.com/?p=65561</id>
