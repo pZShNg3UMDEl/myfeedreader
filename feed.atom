@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T16:50:33.236Z</updated>
+    <updated>2024-01-11T17:27:45.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Talk on meta-optics-based color imagers (Prof. Arka Majumdar - UWash Seattle)]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/01/talk-on-meta-optics-based-color-imagers.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/01/talk-on-meta-optics-based-color-imagers.html"/>
+        <updated>2024-01-11T17:00:00.004Z</updated>
+        <summary type="html"><![CDATA[URochester - Institute of Optics Colloquium Sep 2023
+
+Abstract: The miniaturization of image sensors in recent decades has made today’s cameras ubiquitous across many application domains, including medical imaging, smartphones, security, robotics, and autonomous transportation. However, only imagers that are an order of magnitude smaller could enable novel applications in nano-robotics, in vivo imaging, mixed reality, and health monitoring. While sensors with sub-micron pixels exist now, further miniaturization has been primarily prohibited by fundamental limitations of conventional optics. Traditional imaging systems consist of a cascade of refractive elements that correct for aberrations, and these bulky lenses impose a lower limit on camera footprint. In recent years, sub-wavelength dif…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お母さんのまねっこ！]]></title>
         <id>https://2-9-9.com/?p=66393</id>
