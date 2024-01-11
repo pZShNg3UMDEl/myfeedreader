@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T03:37:01.357Z</updated>
+    <updated>2024-01-11T03:50:30.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[演歌歌手 冠二郎さん死去 79歳 「炎」など ヒット曲で知られる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317321000.html"/>
+        <updated>2024-01-11T03:39:07.000Z</updated>
+        <summary type="html"><![CDATA[「炎」や「酒場」などのヒット曲で知られる演歌歌手の冠二郎さんが、今月1日、心不全のため埼玉県内の病院で亡くなりました。79歳でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[皇居で「講書始」天皇皇后両陛下 日本語学 研究者などから講義]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317281000.html"/>
+        <updated>2024-01-11T03:33:24.000Z</updated>
+        <summary type="html"><![CDATA[天皇皇后両陛下が年の初めにさまざまな分野の研究者から講義を受けられる「講書始」が、皇居で行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 “宿泊施設などへ2次避難を” 激甚災害の指定も決定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317231000.html"/>
+        <updated>2024-01-11T03:27:35.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震について、岸田総理大臣は避難の長期化が見込まれる中、より安全な場所に移ってもらうことが重要だとして、自治体が「みなし避難所」として借り上げた宿泊施設などへの2次避難を積極的に促すよう指示しました。また、国が復旧にかかる費用を支援する「激甚災害」への指定などを決定したことを明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羽田空港事故 日本航空パイロット“他機の離陸許可 通信なし”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240111/k10014317301000.html</id>
