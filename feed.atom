@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T22:29:06.763Z</updated>
+    <updated>2024-01-11T22:39:05.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[働きながら介護「ビジネスケアラー」増加見込みで対策強化へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014317971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014317971000.html"/>
+        <updated>2024-01-11T22:32:24.000Z</updated>
+        <summary type="html"><![CDATA[いわゆる団塊の世代が75歳以上の後期高齢者となっていく中で、働きながら介護する「ビジネスケアラー」と呼ばれる人たちの増加が見込まれています。このため、経済産業省は仕事と介護の両立に向けて対策を強化する方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サイバー攻撃防止へ5月から制度開始 企業向けビジネス広がる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240112/k10014317991000.html</id>
