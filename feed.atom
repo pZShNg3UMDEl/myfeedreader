@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T06:31:39.273Z</updated>
+    <updated>2024-01-11T06:50:19.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 去年の自動車輸出台数 日本を抜いて世界1位の見通し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317461000.html"/>
+        <updated>2024-01-11T06:32:15.000Z</updated>
+        <summary type="html"><![CDATA[中国が去年1年間の自動車輸出台数で日本を抜いて世界1位となる見通しになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【松のや】ロースミルフィーユかつ定食【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=232597</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。  […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地震被災者に携帯電話約1500台を無料貸し出し NTTドコモ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317481000.html"/>
+        <updated>2024-01-11T06:21:05.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは今回の地震の被災者を対象に、携帯電話およそ1500台を無料で貸し出すことになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
