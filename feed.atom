@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T08:31:05.500Z</updated>
+    <updated>2024-01-11T08:50:36.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【サウナ付きスパ完備だって★】パークインホテル厚木が「3S HOTEL ATSUGI」に。2024年春リブランドオープン！［厚木市泉町］]]></title>
+        <id>https://atsugi-lab.com/?p=40300</id>
+        <link href="https://atsugi-lab.com/news-atsugi-3shotel2024spring/"/>
+        <updated>2024-01-11T08:49:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです！ 先日、本厚木駅東口すぐ近くのパークインホテル厚木の前を通りかかったところ、 何やら工事中の様子… 気になって調べてみたところ、ホームページに記載がありました！ パークインホテル厚木は2024年春に、 「3…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乳幼児がいる被災家族支援 液体ミルクやベビーフード送る動き]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240111/k10014317611000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317611000.html"/>
         <updated>2024-01-11T08:10:25.000Z</updated>
         <summary type="html"><![CDATA[乳幼児がいる被災地の家族を支援しようと、メーカー各社の間で液体ミルクやベビーフードを送る動きが広がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 能登町 断水続く公立病院 職員が水運ぶなど対応追われる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317591000.html"/>
+        <updated>2024-01-11T08:05:56.000Z</updated>
+        <summary type="html"><![CDATA[地震発生直後から断水が続いている石川県能登町の公立病院では、治療の際、大量の水を必要とする透析患者などを別の病院に移したうえで、職員みずから浄水場から水を運ぶなどの対応に追われていました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
