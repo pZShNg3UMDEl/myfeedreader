@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T20:37:47.782Z</updated>
+    <updated>2024-01-11T20:50:42.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍が攻撃継続 国際司法裁判所の審理の行方は]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014318041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014318041000.html"/>
+        <updated>2024-01-11T20:38:29.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍は11日もガザ地区の中部や南部でイスラム組織ハマスの戦闘員を殺害するなど攻撃を続け、住民の犠牲者も増え続けています。こうした中、国際司法裁判所ではイスラエル軍による軍事作戦の停止などを求めた訴訟の審理が始まり、その行方が注目されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被爆者資料保存活用へ計画の拠点施設 10年以上設立めど立たず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240112/k10014317881000.html</id>
