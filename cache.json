@@ -1483,6 +1483,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=96977",
+          "author": "SWITCH速報",
+          "description": "1: 24/01/09(火) 17:58:17 ID:vlWX どのゲームのでもええから知りたい 4 […]",
+          "link": "https://switchsoku.com/soft/mariokart8/96977",
+          "publishedOn": "2024-01-11T02:00:09.000Z",
+          "wordCount": 10136,
+          "title": "皆が好きなマリオカートのコース教えて",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/mariokart8dx-96.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=96975",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/10(水) 11:50:53.31 ID:aha4Chox0 なんで名作扱いな […]",
+          "link": "https://switchsoku.com/soft/96975",
+          "publishedOn": "2024-01-11T00:00:57.000Z",
+          "wordCount": 10135,
+          "title": "『グランディア』やったけど面白いのか？これ",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/08/grandia.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=96972",
           "author": "SWITCH速報",
           "description": "1: 2024/01/10(水) 15:04:08.11 ID:ynbjMogs0 https:// […]",
@@ -3215,6 +3235,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317201000.html",
+          "author": null,
+          "description": "石川県によりますと、11日午前9時の時点で、県内で、あわせて213人の死亡が確認されたということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317201000.html",
+          "publishedOn": "2024-01-11T01:48:45.000Z",
+          "wordCount": 448,
+          "title": "石川県の死者213人に 重軽傷者は少なくとも567人 能登半島地震",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317201_2401111048_0111105443_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317191000.html",
+          "author": null,
+          "description": "11日の東京株式市場、日経平均株価は一時、3万5000円台まで値上がりしました。日経平均株価が取り引き時間中に3万5000円台をつけるのは、バブル期の1990年2月以来およそ33年11か月ぶりです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317191000.html",
+          "publishedOn": "2024-01-11T01:27:09.000Z",
+          "wordCount": 624,
+          "title": "株価 一時3万5000円台まで値上がり 約33年11か月ぶり",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317191_2401110910_0111091155_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317161000.html",
+          "author": null,
+          "description": "イギリスでは、郵便局で利用されていた会計システムの欠陥によって郵便局長らが横領などの罪で不当に訴追された事件が再び注目される事態となっています。システムを納入していた富士通への批判も再燃する中、スナク首相は、当事者の救済を進める考えを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317161000.html",
+          "publishedOn": "2024-01-11T00:46:57.000Z",
+          "wordCount": 540,
+          "title": "英 郵便局で利用の会計システムに欠陥 納入の富士通へ批判再燃",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317161_2401110903_0111094659_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317131000.html",
           "author": null,
@@ -10000,6 +10050,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/11/news080.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、4.5kV IGBTモジュール「XHP3」ファミリーを発表した。450AのデュアルIGBTモジュール「FF450R45T3E4_B」と、エミッター制御E4ダイオードを備えた450Aのダブルダイオードモジュール「DD450S45T3E4_B5」を用意する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/11/news080.html",
+          "publishedOn": "2024-01-11T00:00:00.000Z",
+          "wordCount": 2684,
+          "title": "ユニット数削減に貢献する、4.5kV IGBTモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/11/cover_news080.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/10/news049.html",
           "author": null,
           "description": "STマイクロエレクトロニクスは、GaN HEMTとゲートドライバーを搭載したSiP「MasterGaN1L」「MasterGaN4L」を発表した。ハーフブリッジ構成で接続した、2個のGaN HEMTを内蔵している。",
@@ -10196,6 +10256,26 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=66300",
+          "author": "299",
+          "description": "今回ご紹介するのは子育て中の母猫です。 オッパイに吸い付ている子猫ちゃんを見つめ、クルルルっと何かを伝えている模様。 その様子が微笑ましいのでご覧ください。 道端で野良の母猫が寝転がり、赤ちゃん猫におっぱいをあげていまし...\n子猫に話しかける母猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66300",
+          "publishedOn": "2024-01-11T02:00:11.000Z",
+          "wordCount": 1622,
+          "title": "子猫に話しかける母猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66300.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=66333",
+          "author": "299",
+          "description": "今回ご紹介するのは手乗り赤ちゃん猫です。 飼い主さんの掌にすっぽりと収まり、幸せそうに眠る寝姿をご覧ください。 お布団で赤ちゃん猫が幸せそうに眠っていました。 そこへ飼い主さんが近づくと、赤ちゃん猫を握って掌の中へすっぽ...\n飼い主さんの掌で幸せそうに眠る赤ちゃん猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66333",
+          "publishedOn": "2024-01-11T00:00:40.000Z",
+          "wordCount": 1625,
+          "title": "飼い主さんの掌で幸せそうに眠る赤ちゃん猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66333.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=66296",
           "author": "299",
@@ -12649,6 +12729,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032080.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：おっさん友の会 ★：2024/01/10(水) 22:15:01.63 ID:aUzmmWVQ9.net\n\n\n\n\n\n\n\n\n\n\n全国から支援も“期限切れ”食品　「避難所を何だと...」怒りの声 支援物資受け入れ一時中止https://t.co/2fBG3LC5Xc— FNNプライムオンライン (@FNN_News) January 10, 2024 \n\n\n\n\n\n\n\n\n地...",
+          "link": "https://itainews.com/archives/2032080.html",
+          "publishedOn": "2024-01-11T00:01:15.000Z",
+          "wordCount": 3368,
+          "title": "全国から支援も“期限切れ”食品　「避難所を何だと...」怒りの声 支援物資受け入れ一時中止",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/2/52520d0d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032076.html",
           "author": "yonepo665sfr",
