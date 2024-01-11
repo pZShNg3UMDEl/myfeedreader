@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T07:35:57.246Z</updated>
+    <updated>2024-01-11T07:50:25.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【動画】被災地の現状は？必要な支援は？被災者支援団体に聞く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317541000.html"/>
+        <updated>2024-01-11T07:37:40.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地では道路が寸断され状況の把握が難しい中で、さまざまな団体が支援を行っています。被災者支援などを行う団体が加盟する「ジャパン・プラットフォーム」の高橋丈晴事務局長に、現地の状況や必要な支援などについて聞きました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“行くべき旅行先 52か所”に山口市 ニューヨーク・タイムズ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240111/k10014317441000.html</id>
@@ -44,6 +54,16 @@
         <summary type="html"><![CDATA[「こんにちは皆さん、私はテイラー・スウィフトです」 「梱包ミスのため、ル・クルーゼの調理器具セット3,000個を販売することができません。そこで、熱心なファンの皆さんに無料で差し上げます」 まるで誤発注した大量の商品を買ってほしいと、Twitterで呼びかるどこかの小売店のような動画だが、これが最近 […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2次避難 県外などで受け入れ進む 珠洲市の施設入所者は愛知へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317311000.html"/>
+        <updated>2024-01-11T07:16:13.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で災害関連死を防ぐため、被災した人たちの2次避難や広域避難が急がれています。断水や停電が続く石川県内の施設からは高齢者が自衛隊のヘリコプターで愛知県内に移りました。きょうの動きをまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
