@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T09:36:49.801Z</updated>
+    <updated>2024-01-12T09:50:26.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[孤立状態 少なくとも1910人 「高齢の両親 健康面が不安」石川]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014318841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014318841000.html"/>
+        <updated>2024-01-12T09:40:31.000Z</updated>
+        <summary type="html"><![CDATA[石川県によりますと、12日午後2時の時点で、輪島市、珠洲市、能登町の少なくとも17地区の1900人余りが、道路が通れなくなるなどして依然、孤立状態になっているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阪神・淡路大震災29年 追悼のつどい 灯籠の文字は「ともに」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014318921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014318921000.html"/>
+        <updated>2024-01-12T09:33:54.000Z</updated>
+        <summary type="html"><![CDATA[6434人が犠牲となった地震災害、阪神・淡路大震災から、1月17日で29年となります。この日に神戸市で開かれる追悼のつどいでは、灯籠が「ともに」という文字の形に並べられることになりました。能登半島地震で被災した人たちと“ともに助け合おう”という思いが込められています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 珠洲 中学生のうち希望者を別の市の施設に集団避難の方針]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240112/k10014318781000.html</id>
