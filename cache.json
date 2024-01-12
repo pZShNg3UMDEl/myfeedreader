@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/120381/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、本日公開の「傷物語 こよ...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/120381/",
+          "publishedOn": "2024-01-12T10:00:00.000Z",
+          "wordCount": 1214,
+          "title": "【入場特典リスト1月最新版】本日公開「傷物語」に注目　「SPY×FAMILY」「鬼太郎誕生」は新特典",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120380/",
           "author": null,
           "description": "「『ツキウタ。』劇場版 RABBITS KINGDOM THE MOVIE」が、6月14日から全国100館以上で公開されることが決定し、浅沼晋太郎、茉莉邑薫、鈴木達央、武蔵真之介の出演が明らかに...",
@@ -1602,6 +1617,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97022",
+          "author": "SWITCH速報",
+          "description": "ニンテンドーダイレクトでも紹介されたUBIの『プリンス オブ ペルシャ 失われた王冠』は2024年1 […]",
+          "link": "https://switchsoku.com/soft/97022",
+          "publishedOn": "2024-01-12T10:00:15.000Z",
+          "wordCount": 10052,
+          "title": "『プリンス オブ ペルシャ 失われた王冠』良ゲーな模様",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/prince.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97019",
           "author": "SWITCH速報",
@@ -3465,6 +3490,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014318941000.html",
+          "author": null,
+          "description": "LCC＝格安航空会社の「ジェットスター・ジャパン」は、システム障害の影響で、12日午後4時ごろから国内線のすべての便が出発できない状態になっていて、復旧の見通しは立っていないということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014318941000.html",
+          "publishedOn": "2024-01-12T10:08:21.000Z",
+          "wordCount": 883,
+          "title": "ジェットスター 国内線全便出発できず システム障害の影響",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014318941_2401121814_0112184412_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014318811000.html",
+          "author": null,
+          "description": "石川県の避難所で救護活動に当たっている日本赤十字社の救護班が避難所の感染症の状況や救護の課題について報告し、発熱患者が増加するなど災害関連死の増加が避けられない状況だと訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014318811000.html",
+          "publishedOn": "2024-01-12T09:57:28.000Z",
+          "wordCount": 792,
+          "title": "日本赤十字社 避難所の状況 “災害関連死 増加避けられない”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014318811_2401121750_0112183130_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240112/k10014318841000.html",
           "author": null,
@@ -10373,6 +10418,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=232778",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「築地銀だこ」の新商品「クロワッサンたい焼き チョコレッタ」を世界一詳しく調査しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/gindaco-taiyaki-chocolate",
+          "publishedOn": "2024-01-12T10:21:14.000Z",
+          "wordCount": 1909,
+          "title": "【築地銀だこ】クロワッサンたい焼き チョコレッタ【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/f99fc3312ac7c02eb54b3086174f6543.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=232757",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTubeチャンネ […]",
@@ -14149,6 +14204,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032121.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：煮卵 ★：2024/01/11(木) 18:40:35.39 ID:qzKO8sWg9.net\n\n\n\n\n\n\n\n\n\n「日本の地震は報い」中国アナウンサー、仕事失い８００万人のフォロワー得る https://t.co/c4HisUo06K— Ric (@Ricrex55) January 9, 2024 \n\n\n\n\n\n\n\n\n\n日本で新年初日に大地震が発生したことを「因果...",
+          "link": "https://itainews.com/archives/2032121.html",
+          "publishedOn": "2024-01-12T10:01:25.000Z",
+          "wordCount": 2590,
+          "title": "「日本の地震は報い」発言の中国アナウンサー “解雇” 　仕事失うも８００万人のフォロワー得る… ３億１０００万人が「いいね」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/e/ae881007-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032118.html",
           "author": "yonepo665sfr",
