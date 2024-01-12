@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T22:50:34.779Z</updated>
+    <updated>2024-01-12T23:21:52.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領“船舶攻撃続けばさらなる措置”戦闘の拡大懸念]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319421000.html"/>
+        <updated>2024-01-12T22:57:32.000Z</updated>
+        <summary type="html"><![CDATA[中東のイエメンで反政府勢力フーシ派の拠点への空爆を行ったアメリカのバイデン大統領は、紅海を航行する船舶への攻撃が続けば、さらなる措置をとると強調しました。これに対しフーシ派は対決姿勢を強めていて戦闘の拡大が懸念されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旅客機の窓パネル事故 米連邦航空局「ほかにも製造上の問題」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240113/k10014319471000.html</id>
