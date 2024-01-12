@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120375/",
+          "author": null,
+          "description": "オリジナルテレビアニメ「終末トレインどこへいく？」が4月から放送されることが決まり、PV第2弾が公開された。オープニング主題歌は、中島怜による「GA-TAN GO-TON」が作品をいろどる。 同...",
+          "link": "https://anime.eiga.com/news/120375/",
+          "publishedOn": "2024-01-12T12:00:00.000Z",
+          "wordCount": 865,
+          "title": "水島努監督「終末トレインどこへいく？」4月放送開始　2月4日にキャスト登壇の先行上映会開催",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120382/",
           "author": null,
           "description": "1月11日から放送中の「勇気爆発バーンブレイバーン」に鈴村健一が出演していることがわかった。主役ロボットであるブレイバーンを演じている。第2弾PV、第2弾キービジュアル、第1話を視聴した俳優・タ...",
@@ -1632,6 +1647,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97025",
+          "author": "SWITCH速報",
+          "description": "猫シミュレーター2024年1月26日まで2000円→100円（95％オフ） 1: 2024/01/1 […]",
+          "link": "https://switchsoku.com/soft/indy/97025",
+          "publishedOn": "2024-01-12T12:00:43.000Z",
+          "wordCount": 10007,
+          "title": "『猫ゲー』ついにSwitchでも配信開始‥お値段100円！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/972070fd67012d5bee3a08f5f5581e4501e8eb8e9a13093ed3b180a4cc517b54.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97022",
           "author": "SWITCH速報",
@@ -3516,6 +3541,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319321000.html",
+          "author": null,
+          "description": "12日午後9時10分ごろ、石川県で震度4を観測する地震がありました。この地震による津波の心配はありません。",
+          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014319321000.html",
+          "publishedOn": "2024-01-12T12:25:59.000Z",
+          "wordCount": 538,
+          "title": "石川 志賀町で震度4の地震 津波の心配なし M4.4",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319321_2401122114_0112211535_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319121000.html",
           "author": null,
           "description": "ゆうちょ銀行は、期間が5年の定期貯金の金利を今月15日から0.07％に引き上げると発表しました。定期貯金の金利引き上げは2007年6月以来となります。",
@@ -3524,6 +3559,16 @@
           "wordCount": 805,
           "title": "ゆうちょ銀行 期間5年の定期貯金の金利引き上げ 2007年6月以来",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319121_2401121905_0112194114_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319071000.html",
+          "author": null,
+          "description": "1月1日の地震で自宅で被災した石川県輪島市の76歳の女性が、家族と車中泊をした翌日の2日に胸の痛みを訴えて病院に搬送され、亡くなっていたことが分かりました。NHKの取材に対し、女性の息子は、「震災がなければ大丈夫だっただろう。守ってあげられなかったのが心残りです」と語りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014319071000.html",
+          "publishedOn": "2024-01-12T10:38:54.000Z",
+          "wordCount": 781,
+          "title": "石川 輪島 76歳女性 車中泊した翌日に死亡「震災がなければ」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319071_2401121848_0112193406_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319171000.html",
@@ -11458,16 +11503,6 @@
           "wordCount": 2663,
           "title": "ブラシレスDCモーター向け、3相スマートゲートドライバーIC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/15/cover_news076.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2312/14/news079.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、Qi対応レシーバーICおよびトランスミッターICをベースとした評価ボード「STEVAL-WLC38RX」「STEVAL-WBC86TX」を発表した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2312/14/news079.html",
-          "publishedOn": "2023-12-14T00:00:00.000Z",
-          "wordCount": 2662,
-          "title": "Qi対応レシーバーICおよび、トランスミッター評価ボードを発表",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/14/cover_news079.jpg"
         }
       ]
     },
@@ -13977,6 +14012,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=glyFw0ziQTI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=glyFw0ziQTI",
+          "publishedOn": "2024-01-12T11:47:24.000Z",
+          "wordCount": null,
+          "title": "その男、名は「長文君」#4",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NUqfEgJFI08",
           "author": null,
           "description": "",
@@ -14259,6 +14304,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032126.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/01/12(金) 08:52:09.49 ID:e1L9DEmb0●.net\n\n\n\n\n\n\n\n\n\n山本太郎氏が動く千羽鶴とか言われてるのワロタwww— 笑顔で決めろ (@Smilebomber461) January 11, 2024 \n\n\n\n\n\n\n\n\n\n\n\nれいわ・山本太郎氏　再び被災地入りを宣言「今から能登半島、...",
+          "link": "https://itainews.com/archives/2032126.html",
+          "publishedOn": "2024-01-12T12:01:59.000Z",
+          "wordCount": 2950,
+          "title": "山本太郎さん、再び能登入り　「動く千羽鶴」「うんこする千羽鶴」「千羽鶴の擬人化」と呼ばれ始める",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/e/0e00a919-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032124.html",
           "author": "damono3856",
