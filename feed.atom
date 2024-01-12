@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T19:16:57.154Z</updated>
+    <updated>2024-01-12T19:35:34.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[きょうから大学入学共通テスト 被災の受験生は追試験の対象も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319251000.html"/>
+        <updated>2024-01-12T19:24:54.000Z</updated>
+        <summary type="html"><![CDATA[全国で49万人が出願している「大学入学共通テスト」が13日から始まります。能登半島地震で被災し本試験を受けられない受験生は、追試験の対象となるなど特例措置が実施されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 能登地方で震度4の地震 津波の心配なし]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240113/k10014319431000.html</id>
