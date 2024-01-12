@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T14:50:21.258Z</updated>
+    <updated>2024-01-12T15:23:54.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -46,6 +46,16 @@
         <summary type="html"><![CDATA[1: 24/01/11(木) 10:35:49 ID:nEo4 Switch買わずに待機することはや […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラ 船舶攻撃影響でドイツの工場の生産の大部分一時停止へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014319291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014319291000.html"/>
+        <updated>2024-01-12T13:33:59.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのEV＝電気自動車メーカー、テスラは、イエメンの反政府勢力フーシ派による紅海での船舶への攻撃で海上輸送が影響を受け部品の調達が難しくなっているとして、ドイツにある工場の生産の大部分を今月下旬から2週間停止すると発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -185,6 +195,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240112/k10014319191000.html"/>
         <updated>2024-01-12T11:37:40.000Z</updated>
         <summary type="html"><![CDATA[韓国の人気俳優で、違法薬物を使用した疑いで警察の取り調べを受けていたイ・ソンギュンさんが、先月死亡したことについて、韓国の映画関係者などの団体が声明を発表しました。イさんは自殺したとみられ、過熱する報道にさらされていたとして、真相の究明と再発防止を求めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 地震被災地の視察 13日は見送り 14日以降で調整]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014319101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014319101000.html"/>
+        <updated>2024-01-12T11:32:14.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地の視察について、岸田総理大臣は、13日は天候の見通しがよくないとして見送ることを決め、14日以降で調整を続けることになりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
