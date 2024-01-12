@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T07:35:44.016Z</updated>
+    <updated>2024-01-12T07:50:17.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR埼京線 大崎～大宮上下線 運転見合わせ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014318711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014318711000.html"/>
+        <updated>2024-01-12T07:46:38.000Z</updated>
+        <summary type="html"><![CDATA[JR埼京線は、埼玉県戸田市の戸田駅で起きた人身事故の影響で、午後4時すぎから大崎駅と大宮駅の間の上下線で運転を見合わせています。運転再開は午後5時10分ごろの見込みです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[服用薬飲めずなど 災害関連死疑いで5人報告 石川 珠洲市の病院]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014318671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014318671000.html"/>
+        <updated>2024-01-12T07:39:56.000Z</updated>
+        <summary type="html"><![CDATA[今回の能登半島地震で、石川県内ではこれまでに14人が避難生活で体調が悪化するなどして亡くなる「災害関連死」の疑いがあると発表されています。こうした中、珠洲市の病院は、ふだん服用していた薬が飲めず亡くなったとみられる人など5人を「災害関連死」の疑いがあるとして、市に報告したということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あすから大学入学共通テスト 被災地の受験生たちは]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240112/k10014318341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014318341000.html"/>
+        <updated>2024-01-12T07:33:56.000Z</updated>
+        <summary type="html"><![CDATA[13日から大学入学共通テストが始まります。大切な試験の直前に起きた能登半島地震。そうした中、今回の地震で大きな被害を受けた石川県珠洲市の高校生たちは、12日朝、試験会場のある金沢市に向けてバスで出発しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜CES＞ASUS、ARグラス「AirVision M1」。高輝度・広視野角でマイクやスピーカーも内蔵]]></title>
         <id>https://gadget.phileweb.com/?p=65724</id>
