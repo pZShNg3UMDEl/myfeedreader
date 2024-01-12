@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T07:20:56.037Z</updated>
+    <updated>2024-01-12T07:35:44.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[＜CES＞ASUS、ARグラス「AirVision M1」。高輝度・広視野角でマイクやスピーカーも内蔵]]></title>
+        <id>https://gadget.phileweb.com/?p=65724</id>
+        <link href="https://gadget.phileweb.com/post-65724/"/>
+        <updated>2024-01-12T07:21:19.000Z</updated>
+        <summary type="html"><![CDATA[ASUSは、米ラスベガスで開催されている世界最大級のエレクトロニクス展示会「CES 2024」において、ARグラス「ASUS AirVision M1」を発表した。 USB Type-Cケーブルの接続に対応し、DisplayPort Alt Modeでの信号出力が可能なPCやスマートフォンなどと組み […]]]></summary>
+        <author>
+            <name>Gadget Gate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[避難所で感染症拡大 「市立輪島病院」1週間以内に満床のおそれ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240112/k10014318641000.html</id>
