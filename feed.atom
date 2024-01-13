@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T07:18:56.346Z</updated>
+    <updated>2024-01-13T07:35:20.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報中】台湾総統選挙 まもなく開票開始 有権者の判断は？]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319761000.html"/>
+        <updated>2024-01-13T07:30:11.000Z</updated>
+        <summary type="html"><![CDATA[4年に1度の台湾の総統選挙は、このあと日本時間の午後5時に投票が締め切られます。中国との向き合い方が争点の1つとなる中、中国の圧力に対抗する姿勢を示す与党が政権を維持するのか、交流拡大などを訴える野党が政権交代を実現するのかが焦点です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【動画】れいわの候補者　「私はケンカが得意だ」　→　リプ欄を閉じて吠え捲る]]></title>
         <id>https://itainews.com/archives/2032140.html</id>
