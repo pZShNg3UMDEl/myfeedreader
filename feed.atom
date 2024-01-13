@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T02:16:49.657Z</updated>
+    <updated>2024-01-13T02:42:48.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島 揺れ周期の違いが建物の被害割合に影響か 専門家分析]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319511000.html"/>
+        <updated>2024-01-13T02:34:38.000Z</updated>
+        <summary type="html"><![CDATA[今月1日の大地震では震度7の揺れを観測した石川県志賀町と比べて、6強の七尾市や輪島市、穴水町などの建物の被害が非常に多くなっています。専門家は揺れの周期の違いが被害の割合に影響していた可能性があるとして、地域の地盤の特性に合わせた耐震対策が必要だと指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学入学共通テスト始まる 被災地の受験生「不安だった」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319581000.html"/>
+        <updated>2024-01-13T02:31:30.000Z</updated>
+        <summary type="html"><![CDATA[大学入学共通テストが13日から始まり、能登半島地震で被害を受けた新潟県内でも各地で雪が降る中、受験生が試験に臨んでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米英のフーシ派拠点攻撃 国連安保理で緊急会合]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319561000.html"/>
+        <updated>2024-01-13T02:27:33.000Z</updated>
+        <summary type="html"><![CDATA[中東のイエメンで反政府勢力フーシ派の拠点にアメリカ軍とイギリス軍が攻撃を行ったことを受けて、国連の安全保障理事会で緊急会合が開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[これから拡散しやすいデマって？過去の災害から見えたこと]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240113/k10014319311000.html</id>
