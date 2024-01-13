@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T05:27:46.740Z</updated>
+    <updated>2024-01-13T05:37:53.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319681000.html"/>
         <updated>2024-01-13T05:19:55.000Z</updated>
         <summary type="html"><![CDATA[石川県の馳知事は、被災地の輪島市や珠洲市からの2次避難について、高齢者や希望する人全員を対象にするとしたうえで、今月中にめどをつけたいという考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[志賀原発 故障設備の補修作業終了 送電可能な状態に 北陸電力]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319701000.html"/>
+        <updated>2024-01-13T05:11:26.000Z</updated>
+        <summary type="html"><![CDATA[北陸電力は、石川県志賀町にある志賀原子力発電所で、13日午前中、外部から電気を受けている2系統の送電線のうち1系統について、地震で故障した設備の補修作業のため送電を停止していましたが、正午前に作業を完了し、送電可能な状態に戻ったと発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
