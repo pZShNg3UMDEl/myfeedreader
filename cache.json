@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120385/",
+          "author": null,
+          "description": "キャラクターラッププロジェクト「ヒプノシスマイク -Division Rap Battle-」のキャスト13人が出演する特番「新春ヒプマイ2024 新年会SP」が1月14日午後5時から「ABEM...",
+          "link": "https://anime.eiga.com/news/120385/",
+          "publishedOn": "2024-01-13T12:00:00.000Z",
+          "wordCount": 902,
+          "title": "「ヒプマイ」声優13人集合特番「新年会SP」1月14日に生放送　“2次会”ではカラオケ＆ボイス対決",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120362/",
           "author": null,
           "description": "佐々木蔵之介が主演した連続ドラマの完結編となる「映画 マイホームヒーロー」の新キャストが発表され、津田健次郎、宮世琉弥、立川談春、板倉俊之（「インパルス」）、大東駿介、西垣匠、金子隼也が出演する...",
@@ -1737,6 +1752,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97051",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/13(土) 19:51:23.13 ID:NJ0kWHFF0 次世代機が近い今 […]",
+          "link": "https://switchsoku.com/nintendo/97051",
+          "publishedOn": "2024-01-13T12:00:48.000Z",
+          "wordCount": 10118,
+          "title": "伝説の配信「Nintendo Switch プレゼンテーション2017」から７年",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/03/switch-pre.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97049",
           "author": "SWITCH速報",
@@ -12153,16 +12178,6 @@
           "wordCount": 2649,
           "title": "電子レンジの修理（2）　スタートスイッチが効かない使用歴20年のレンジ編",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/14/l_tt231215_wired_001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2312/15/news076.html",
-          "author": null,
-          "description": "ルネサス エレクトロニクスは、ブラシレスDCモーター向けの3相スマートゲートドライバーIC「RAA306012」とマイコン、ゲートドライバーICを1パッケージに搭載した2種類のモーター制御IC「RAJ306101」「RAJ306102」の販売を開始した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2312/15/news076.html",
-          "publishedOn": "2023-12-15T00:00:00.000Z",
-          "wordCount": 2663,
-          "title": "ブラシレスDCモーター向け、3相スマートゲートドライバーIC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/15/cover_news076.jpg"
         }
       ]
     },
@@ -15084,6 +15099,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032157.html",
+          "author": "damono3856",
+          "description": "1 名前：：2024/01/13(土) 10:29:07.23 ● 2BP(2000).net\n\n\n\n\n\n\n\n松本人志スキャンダル、メンタリストDaigo氏「活動休止は『神の一手』かも」その理由とは?（サカノワ） https://t.co/pIMRmCiR9Z— keita (@rkccy63) January 11, 2024  \n\n\n\n\n\n\n松本人志スキャンダル、メ...",
+          "link": "https://itainews.com/archives/2032157.html",
+          "publishedOn": "2024-01-13T12:04:28.000Z",
+          "wordCount": 2936,
+          "title": "DAIGO「松本人志の休業は天才的。賠償金50億円とれる」　弁護士「松本は自主的に休業したから無理」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/d/2dde457b-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032150.html",
           "author": "yonepo665sfr",
