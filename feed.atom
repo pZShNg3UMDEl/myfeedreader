@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T15:35:44.054Z</updated>
+    <updated>2024-01-13T15:50:39.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鹿児島 諏訪之瀬島に「噴火速報」を発表 気象庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320241000.html"/>
+        <updated>2024-01-13T15:42:51.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は、鹿児島県の諏訪之瀬島に「噴火速報」を発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ちびたなひまわりにご飯を奪われてしまったひのき]]></title>
         <id>https://2-9-9.com/?p=66449</id>
