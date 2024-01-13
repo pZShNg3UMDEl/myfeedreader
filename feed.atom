@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T10:40:07.611Z</updated>
+    <updated>2024-01-13T10:50:34.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島 希望する中学生の集団避難 12日までに250人が同意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319911000.html"/>
+        <updated>2024-01-13T10:46:35.000Z</updated>
+        <summary type="html"><![CDATA[地震で大きな被害を受けた石川県輪島市では市内の中学生のうち希望する生徒全員を県内の別の施設に集団で避難させる方針です。輪島市は12日までに全体の6割あまりの250人の生徒が集団避難に同意したと明らかにしました。避難をすれば、一時的にも住み慣れた町や家族と離れて暮らすことになり、中学生がいる家庭からはさまざまな声が上がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金沢「1.5次避難所」新たに開設 高齢者などの一時受け入れ先に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319941000.html"/>
+        <updated>2024-01-13T10:42:11.000Z</updated>
+        <summary type="html"><![CDATA[地震による避難生活が長期化するなか、被災した高齢者などの一時的な受け入れ先となる「1.5次避難所」が13日、金沢市内に新たに開設されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 能登町 避難所の86歳男性 体調悪化させ搬送 災害関連死か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240113/k10014319921000.html</id>
