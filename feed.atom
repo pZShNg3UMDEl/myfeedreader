@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T09:35:45.374Z</updated>
+    <updated>2024-01-13T09:50:27.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラグビー全国大学選手権 帝京大3連覇 34対15で明治大に勝利]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319901000.html"/>
+        <updated>2024-01-13T09:43:21.000Z</updated>
+        <summary type="html"><![CDATA[ラグビーの大学日本一を決める全国大学選手権の決勝が東京・国立競技場で行われ、帝京大が34対15で明治大に勝って3大会連続12回目の優勝を果たしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都心で「初雪」平年より10日遅い観測]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240113/k10014319871000.html</id>
