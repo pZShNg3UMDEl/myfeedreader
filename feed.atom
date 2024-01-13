@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T09:20:32.889Z</updated>
+    <updated>2024-01-13T09:35:45.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319871000.html"/>
         <updated>2024-01-13T09:15:41.000Z</updated>
         <summary type="html"><![CDATA[東京管区気象台は13日午後5時20分ごろ、「東京の都心で初雪を観測した」と発表しました。東京の都心の初雪は、平年より10日遅く、昨シーズンより11日早いということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラグビーリーグワン 第5節 ワイルドナイツが大勝 開幕5連勝に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319861000.html"/>
+        <updated>2024-01-13T09:05:10.000Z</updated>
+        <summary type="html"><![CDATA[ラグビーのリーグワンは1部にあたるディビジョン1の第5節3試合が行われ、埼玉パナソニックワイルドナイツが12トライを奪う猛攻で三菱重工相模原ダイナボアーズに大勝し、開幕から5連勝としました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
