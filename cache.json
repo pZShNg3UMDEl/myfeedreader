@@ -3607,16 +3607,6 @@
           "wordCount": 3838,
           "title": "Apple is looking for two sensor designers",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2023/12/lecture-by-dr-tobi-delbruck-on-history.html",
-          "author": null,
-          "description": "Silicon Retina: History, Live Demo, and Whiteboard Pixel Design\n\n\n \n\nRockwood Memorial Lecture 2023: Tobi Delbruck, Institute of Neuroinformatics, UZH-ETH Zürich\nEvent Camera Silicon Retina; History, Live Demo, and Whiteboard Circuit Design\nRockwood Memorial Lecture 2023 (11/20/23)\nhttps://inc.ucsd.edu/events/rockwood/\nHosted by: Terry Sejnowski, Ph.D. and Gert Cauwenberghs, Ph.D.\nOrganized by: Institute for Neural Computation, https://inc.ucsd.edu\nAbstract: Event cameras electronically model spike-based sparse output from biological eyes to reduce latency, increase dynamic range, and sparsify activity in comparison to conventional imagers. Driven by the need for more efficient battery powered, always-on machine vision in future wearables, event cameras have emerged as a next step in the continued evolution of electronic vision. This lecture will have 3 parts: 1. A brief history of silicon retina development starting from Fukushima’s Neocognitron and Mahowald and Mead’s earliest spatial retinas; 2: A live demo of a contemporary frame-event DAVIS camera that includes an inertial measurement unit (IMU) vestibular system, 3: (targeted for neuromorphic analog circuit design students in the BENG 216 class), a whiteboard discussion about event camera pixel design at the transistor level, highlighting design aspects of event camera pixels which endow them with fast response even under low lighting, precise threshold matching even under large transistor mismatch, and temperature-independent event threshold.",
-          "link": "http://image-sensors-world.blogspot.com/2023/12/lecture-by-dr-tobi-delbruck-on-history.html",
-          "publishedOn": "2023-12-14T17:00:00.020Z",
-          "wordCount": 5125,
-          "title": "Lecture by Dr. Tobi Delbruck on the history of silicon retina and event cameras",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUTVkS3As2zywaVYGv6ssJJks4Itl59uR5cUfhc2y1hQ7hG4emZThhh356WS94HyeG_Srs8W_7S1kUfHfJRDikqi6BXQKcuc7D3rds7toS5eq1Nag=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -3625,6 +3615,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240113/k10014319681000.html",
+          "author": null,
+          "description": "石川県の馳知事は、被災地の輪島市や珠洲市からの2次避難について、高齢者や希望する人全員を対象にするとしたうえで、今月中にめどをつけたいという考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240113/k10014319681000.html",
+          "publishedOn": "2024-01-13T05:19:55.000Z",
+          "wordCount": 1007,
+          "title": "石川 馳知事「今はまず2次避難所に」希望者全員 今月中めど",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240113/K10014319681_2401131348_0113141922_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240113/k10014319601000.html",
           "author": null,
@@ -14769,6 +14769,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032147.html",
+          "author": "damono3856",
+          "description": "1 名前：朝一から閉店までφ ★：2024/01/13(土) 05:19:02.67 ID:a7+AqIMT9.net\n\n\n\n\n\n\n\n米女優ジリアン・アンダーソン、「女性の陰部」を刺繍したドレスでゴールデン・グローブ賞に登場して物議＜ゴールデン・グローブ賞授賞式で、米女優ジリアン・アンダーソンが着用し...",
+          "link": "https://itainews.com/archives/2032147.html",
+          "publishedOn": "2024-01-13T05:04:37.000Z",
+          "wordCount": 2454,
+          "title": "米女優ジリアン・アンダーソン、「女性の陰部」を刺繍したドレスでゴールデン・グローブ賞に登場して物議",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/6/86a7f13b-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032141.html",
           "author": "damono3856",

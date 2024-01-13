@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T04:50:37.042Z</updated>
+    <updated>2024-01-13T05:27:46.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 馳知事「今はまず2次避難所に」希望者全員 今月中めど]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319681000.html"/>
+        <updated>2024-01-13T05:19:55.000Z</updated>
+        <summary type="html"><![CDATA[石川県の馳知事は、被災地の輪島市や珠洲市からの2次避難について、高齢者や希望する人全員を対象にするとしたうえで、今月中にめどをつけたいという考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米女優ジリアン・アンダーソン、「女性の陰部」を刺繍したドレスでゴールデン・グローブ賞に登場して物議]]></title>
+        <id>https://itainews.com/archives/2032147.html</id>
+        <link href="https://itainews.com/archives/2032147.html"/>
+        <updated>2024-01-13T05:04:37.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：朝一から閉店までφ ★：2024/01/13(土) 05:19:02.67 ID:a7+AqIMT9.net
+
+
+
+
+
+
+
+米女優ジリアン・アンダーソン、「女性の陰部」を刺繍したドレスでゴールデン・グローブ賞に登場して物議＜ゴールデン・グローブ賞授賞式で、米女優ジリアン・アンダーソンが着用し...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】野菜ちゃんぽんスープ【新作コンビニ惣菜】]]></title>
         <id>https://foodfighter.jp/?p=232833</id>
@@ -19455,27 +19483,6 @@ X-FAB Silicon Foundries SE, the leading analog/mixed-signal and specialty foundr
 
 Image Sensor Analog Design Engineer - Cupertino, California, USA - Link
 Image Sensor Digital Design Engineer - Cupertino, California, USA - Link]]></summary>
-        <author>
-            <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lecture by Dr. Tobi Delbruck on the history of silicon retina and event cameras]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/lecture-by-dr-tobi-delbruck-on-history.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/lecture-by-dr-tobi-delbruck-on-history.html"/>
-        <updated>2023-12-14T17:00:00.020Z</updated>
-        <summary type="html"><![CDATA[Silicon Retina: History, Live Demo, and Whiteboard Pixel Design
-
-
- 
-
-Rockwood Memorial Lecture 2023: Tobi Delbruck, Institute of Neuroinformatics, UZH-ETH Zürich
-Event Camera Silicon Retina; History, Live Demo, and Whiteboard Circuit Design
-Rockwood Memorial Lecture 2023 (11/20/23)
-https://inc.ucsd.edu/events/rockwood/
-Hosted by: Terry Sejnowski, Ph.D. and Gert Cauwenberghs, Ph.D.
-Organized by: Institute for Neural Computation, https://inc.ucsd.edu
-Abstract: Event cameras electronically model spike-based sparse output from biological eyes to reduce latency, increase dynamic range, and sparsify activity in comparison to conventional imagers. Driven by the need for more efficient battery powered, always-on machine vision in future wearables, event cameras have emerged as a next step in the continued evolution of electronic vision. This lecture will have 3 parts: 1. A brief history of silicon retina development starting from Fukushima’s Neocognitron and Mahowald and Mead’s earliest spatial retinas; 2: A live demo of a contemporary frame-event DAVIS camera that includes an inertial measurement unit (IMU) vestibular system, 3: (targeted for neuromorphic analog circuit design students in the BENG 216 class), a whiteboard discussion about event camera pixel design at the transistor level, highlighting design aspects of event camera pixels which endow them with fast response even under low lighting, precise threshold matching even under large transistor mismatch, and temperature-independent event threshold.]]></summary>
         <author>
             <name>Image Sensors World</name>
         </author>
