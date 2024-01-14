@@ -3744,6 +3744,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/01/histogram-less-spad-lidar.html",
+          "author": null,
+          "description": "Tontini et al. from  FBK and University of Trento recently published an article titled \"Histogram-less LiDAR through SPAD response linearization\" in the IEEE Sensors journal.\n\nOpen access link: https://ieeexplore.ieee.org/document/10375298\nAbstract:  We present a new method to acquire the 3D information from a SPAD-based direct-Time-of-Flight (d-ToF) imaging system which does not require the construction of a histogram of timestamps and can withstand high flux operation regime. The proposed acquisition scheme emulates the behavior of a SPAD detector with no distortion due to dead time, and extracts the TOF information by a simple average operation on the photon timestamps ensuring ease of integration in a dedicated sensor and scalability to large arrays. The method is validated through a comprehensive mathematical analysis, whose predictions are in agreement with a numerical Monte Carlo model of the problem. Finally, we show the validity of the predictions in a real d-ToF measurement setup under challenging background conditions well beyond the typical pile-up limit of 5% detection rate up to a distance of 3.8m.",
+          "link": "http://image-sensors-world.blogspot.com/2024/01/histogram-less-spad-lidar.html",
+          "publishedOn": "2024-01-14T18:00:00.001Z",
+          "wordCount": 3849,
+          "title": "Histogram-less SPAD LiDAR",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikR7UDUdvx9hil3KEWbkrZ95ZKIoE31QirSwCfaMOX1JrzhaQhhXaOKC5fqGlKjxfXxmetMzbn1WwW2QhqRUikp-YLrmjWe5Iu3h1WUT5bYd1W0tIPlbzIfKjbUBwdu1mkrYkfV6ahoDRqNASTZByESOPoCCwFaDYhQlAejC4YrbufqpN-SuRp/w1200-h630-p-k-no-nu/Capture1.PNG"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/01/talk-on-meta-optics-based-color-imagers.html",
           "author": null,
           "description": "URochester - Institute of Optics Colloquium Sep 2023\n\nAbstract: The miniaturization of image sensors in recent decades has made today’s cameras ubiquitous across many application domains, including medical imaging, smartphones, security, robotics, and autonomous transportation. However, only imagers that are an order of magnitude smaller could enable novel applications in nano-robotics, in vivo imaging, mixed reality, and health monitoring. While sensors with sub-micron pixels exist now, further miniaturization has been primarily prohibited by fundamental limitations of conventional optics. Traditional imaging systems consist of a cascade of refractive elements that correct for aberrations, and these bulky lenses impose a lower limit on camera footprint. In recent years, sub-wavelength dif…",
@@ -12761,6 +12771,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=66592",
+          "author": "299",
+          "description": "今回ご紹介するのは独特な寝相で眠る子猫ちゃんです。 いくらなんでもその体勢で眠るのは苦しいでしょ？とツッコミを入れたくなること間違いなしの寝姿をご覧ください。 石の上で野良の三毛子猫ちゃんが眠っていました。 気持ち良さそ...\n野良子猫の寝相が可愛すぎる first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66592",
+          "publishedOn": "2024-01-14T18:00:48.000Z",
+          "wordCount": 1624,
+          "title": "野良子猫の寝相が可愛すぎる",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66592.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=66584",
           "author": "299",

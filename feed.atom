@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T17:50:40.139Z</updated>
+    <updated>2024-01-14T18:28:18.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[野良子猫の寝相が可愛すぎる]]></title>
+        <id>https://2-9-9.com/?p=66592</id>
+        <link href="https://2-9-9.com/archives/66592"/>
+        <updated>2024-01-14T18:00:48.000Z</updated>
+        <summary type="html"><![CDATA[今回ご紹介するのは独特な寝相で眠る子猫ちゃんです。 いくらなんでもその体勢で眠るのは苦しいでしょ？とツッコミを入れたくなること間違いなしの寝姿をご覧ください。 石の上で野良の三毛子猫ちゃんが眠っていました。 気持ち良さそ...
+野良子猫の寝相が可愛すぎる first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Histogram-less SPAD LiDAR]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/01/histogram-less-spad-lidar.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/01/histogram-less-spad-lidar.html"/>
+        <updated>2024-01-14T18:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Tontini et al. from  FBK and University of Trento recently published an article titled "Histogram-less LiDAR through SPAD response linearization" in the IEEE Sensors journal.
+
+Open access link: https://ieeexplore.ieee.org/document/10375298
+Abstract:  We present a new method to acquire the 3D information from a SPAD-based direct-Time-of-Flight (d-ToF) imaging system which does not require the construction of a histogram of timestamps and can withstand high flux operation regime. The proposed acquisition scheme emulates the behavior of a SPAD detector with no distortion due to dead time, and extracts the TOF information by a simple average operation on the photon timestamps ensuring ease of integration in a dedicated sensor and scalability to large arrays. The method is validated through a comprehensive mathematical analysis, whose predictions are in agreement with a numerical Monte Carlo model of the problem. Finally, we show the validity of the predictions in a real d-ToF measurement setup under challenging background conditions well beyond the typical pile-up limit of 5% detection rate up to a distance of 3.8m.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子猫にお湯をかけてみた]]></title>
         <id>https://2-9-9.com/?p=66584</id>
