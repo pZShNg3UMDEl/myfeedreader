@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T02:22:00.368Z</updated>
+    <updated>2024-01-14T02:48:12.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【被害状況 14日】石川県で220人死亡 安否不明者23人(9時)]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320141000.html"/>
+        <updated>2024-01-14T02:20:51.000Z</updated>
+        <summary type="html"><![CDATA[石川県によりますと、14日午前9時の時点で、県内であわせて220人の死亡が確認されているということです。また、安否が分かっていない人として、23人の氏名や年齢などを公表し、広く情報の提供を求めています。各地の被害について、随時更新でお伝えしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア プーチン大統領の長女マリヤ氏がメディアに 極めてまれ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240114/k10014320071000.html</id>
