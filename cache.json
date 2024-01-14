@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120376/",
+          "author": null,
+          "description": "「ONE PIECE」で知られる漫画家・尾田栄一郎氏の初期短編をアニメ化する「MONSTERS 一百三情飛龍侍極」の主要キャストが発表され、主人公リューマ役を細谷佳正、フレア役を花澤香菜、シラノ...",
+          "link": "https://anime.eiga.com/news/120376/",
+          "publishedOn": "2024-01-14T15:00:00.000Z",
+          "wordCount": 831,
+          "title": "尾田栄一郎原作アニメ「MONSTERS」細谷佳正、花澤香菜、東地宏樹らキャスト発表　1月22日から世界同時配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120373/",
           "author": null,
           "description": "「エクスペンダブルズ」シリーズの最新作「エクスペンダブルズ ニューブラッド」（公開中）のスペシャル映像が、このほど公開された。テレビアニメ「ダンベル何キロ持てる？」のオープニングテーマ「お願いマ...",
@@ -3875,6 +3890,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014320701000.html",
+          "author": null,
+          "description": "世界の政財界のリーダーが集まる、通称「ダボス会議」が15日からスイスで始まります。ウクライナ侵攻や中東情勢に加え、世界経済の行方やAIの活用のあり方など、重要な課題について議論が交わされます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014320701000.html",
+          "publishedOn": "2024-01-14T15:03:31.000Z",
+          "wordCount": 766,
+          "title": "ダボス会議 15日から 世界の政財界のリーダーら2800人余参加へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014320701_2401142132_0115000333_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240114/k10014320991000.html",
+          "author": null,
+          "description": "北欧のアイスランドで、去年12月に続いて南西部の町の近くで噴火が起き、住民は事前に避難しましたが、流れ出た溶岩が町に迫り、住宅などへの被害が懸念されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240114/k10014320991000.html",
+          "publishedOn": "2024-01-14T12:58:12.000Z",
+          "wordCount": 668,
+          "title": "アイスランドで再び噴火 住民は事前に避難も 溶岩が町に迫る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240114/K10014320991_2401142125_0114215814_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240114/k10014321021000.html",
           "author": null,
