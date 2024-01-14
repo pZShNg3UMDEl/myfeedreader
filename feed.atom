@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T22:50:18.947Z</updated>
+    <updated>2024-01-14T23:24:08.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】三國シェフ監修 富良野オムカレー【北海道グルメフェア・新作コンビニ弁当】]]></title>
+        <id>https://foodfighter.jp/?p=232942</id>
+        <link href="https://foodfighter.jp/711sej-omurice-curry"/>
+        <updated>2024-01-14T23:03:05.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「三國シェフ監修 富良野オムカレー」を世界一詳しく調査しました。   公式YouTubeチャン […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小林陵侑 スキージャンプW杯個人今季初優勝 1回目5位から逆転]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240115/k10014321081000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321081000.html"/>
         <updated>2024-01-14T22:11:31.000Z</updated>
         <summary type="html"><![CDATA[スキージャンプ男子のワールドカップがポーランドで行われ、日本のエース、小林陵侑選手が2回目にこの日最長不倒の大ジャンプを見せて、逆転勝ちで今シーズン初優勝を果たしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ提唱の和平案 スイス外相“実現にはロシア参加を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014320731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014320731000.html"/>
+        <updated>2024-01-14T22:02:22.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナが提唱する和平案についての協議が、14日、スイスのダボスで開かれ、共同議長を務めたスイスのカシス外相は、和平案の実現に向けた今後の議論にはロシアを参加させる必要があるという認識を示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
