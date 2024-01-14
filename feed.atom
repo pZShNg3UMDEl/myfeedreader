@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T21:19:19.059Z</updated>
+    <updated>2024-01-14T21:35:40.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【15日随時更新】戦闘開始から100日経過 終結は見通せない状況]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321051000.html"/>
+        <updated>2024-01-14T21:19:33.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスとの戦闘が始まってから、1月14日で、100日がたちました。イスラエル国内では人質解放を求める声が強まる一方、ネタニヤフ首相はハマスの壊滅を目指す姿勢を崩しておらず、戦闘の終結は見通せない状況です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[砂川事件めぐる賠償訴訟きょう判決 “日米密談”の評価も注目]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240115/k10014320671000.html</id>
