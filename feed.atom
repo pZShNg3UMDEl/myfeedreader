@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T05:37:43.363Z</updated>
+    <updated>2024-01-14T05:50:26.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岡山 夫婦殺傷事件 逮捕の知人“長男から両親殺害依頼された”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320421000.html"/>
+        <updated>2024-01-14T05:38:40.000Z</updated>
+        <summary type="html"><![CDATA[先月、岡山県倉敷市の住宅で50代の夫婦が刃物で刺されて殺傷され、夫婦の長男とその知人が逮捕された事件で、警察の調べに対し知人が「長男から両親の殺害を依頼された」という趣旨の供述をしていることが捜査関係者への取材で分かりました。捜査関係者によりますと、長男は容疑を否認しているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夫「朝パンを食べてから記憶がない」女房が床に座り死亡]]></title>
         <id>https://itainews.com/archives/2032176.html</id>
