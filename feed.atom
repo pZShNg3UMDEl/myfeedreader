@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T20:23:20.820Z</updated>
+    <updated>2024-01-14T20:36:41.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[砂川事件めぐる賠償訴訟きょう判決 “日米密談”の評価も注目]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014320671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014320671000.html"/>
+        <updated>2024-01-14T20:32:20.000Z</updated>
+        <summary type="html"><![CDATA[1957年に東京のアメリカ軍の基地に学生らが立ち入り、その後有罪となった、いわゆる「砂川事件」をめぐり、当時の学生らが国を訴えている裁判の判決が、15日、東京地方裁判所で言い渡されます。当時の最高裁判所の長官がアメリカ側と非公式に会談し、判決に関する情報を事前に伝えていたことを示す公文書が後に見つかったことから、原告側は「不公平な裁判だった」と主張していて、こうした経緯をどのように評価するか注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震から2週間 地震活動なお活発 低体温症にも注意を]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240115/k10014320681000.html</id>
