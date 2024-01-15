@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T22:39:13.149Z</updated>
+    <updated>2024-01-15T22:50:14.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【交通影響 16日】鉄道・航空・道路（6時）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322421000.html"/>
+        <updated>2024-01-15T22:43:52.000Z</updated>
+        <summary type="html"><![CDATA[地震による交通機関や道路への影響です。（16日午前6時）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震“今後2～3週間ほど震度5強程度に注意を”調査委]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240116/k10014322471000.html</id>
