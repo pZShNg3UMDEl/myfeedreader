@@ -3949,6 +3949,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/01/job-postings-week-of-14-january-2024.html",
+          "author": null,
+          "description": "Google\nImage Processing Engineer\nMountain View, California, USA\nLink\nUniversity of Southampton\n  \nPhD Studentship: Integration of\n  Detectors for Mid-Infrared Sensors\nSouthampton, England, UK\nLink\nCMOS Sensor, Inc.\nIntegrated Circuit Design Engineer\nSan Jose, California,, USA\nLink\nCMOS Sensor, Inc.\nProduct Marketing and Sales Manager\nSan Jose, California,, USA\nLink\nUniversity of Melbourne \nDetector Assembly Technical\n  Officer: ATLAS-ITk Silicon Detector Modules\nParkville, Victoria, Australia\nLink\nSandia National Laboratories\nIntegrated Photonics Postdoctoral\n  Appointee\nAlbuquerque, New Mexico, USA\nLink\nRutherford Appleton Laboratory\nIntegrated Circuit and\n  Microelectronic system Graduate Engineers\nHarwell, Oxfordshire, UK\nLink\nCalifornia Institute of\n  Technology\nDetector Engineer\nPasadena, California, USA\nLink\nASML\nDesign Engineer - Optical Sensor\n  System\nWilton, Connecticut, USA\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/01/job-postings-week-of-14-january-2024.html",
+          "publishedOn": "2024-01-15T17:03:00.002Z",
+          "wordCount": 3828,
+          "title": "Job Postings - Week of 14 January 2024",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/01/histogram-less-spad-lidar.html",
           "author": null,
           "description": "Tontini et al. from  FBK and University of Trento recently published an article titled \"Histogram-less LiDAR through SPAD response linearization\" in the IEEE Sensors journal.\n\nOpen access link: https://ieeexplore.ieee.org/document/10375298\nAbstract:  We present a new method to acquire the 3D information from a SPAD-based direct-Time-of-Flight (d-ToF) imaging system which does not require the construction of a histogram of timestamps and can withstand high flux operation regime. The proposed acquisition scheme emulates the behavior of a SPAD detector with no distortion due to dead time, and extracts the TOF information by a simple average operation on the photon timestamps ensuring ease of integration in a dedicated sensor and scalability to large arrays. The method is validated through a comprehensive mathematical analysis, whose predictions are in agreement with a numerical Monte Carlo model of the problem. Finally, we show the validity of the predictions in a real d-ToF measurement setup under challenging background conditions well beyond the typical pile-up limit of 5% detection rate up to a distance of 3.8m.",
