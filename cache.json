@@ -3430,6 +3430,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NvVv1eNWI0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NvVv1eNWI0I",
+          "publishedOn": "2024-01-15T11:30:50.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】15章実装で周回環境が大変化!?レベリング武器の必要スペックが変わるかもしれません。",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RSm9f200aEU",
           "author": null,
           "description": "",
@@ -4050,6 +4060,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322071000.html",
+          "author": null,
+          "description": "石川県の能登地方で震度7の揺れを観測した地震から2週間がたち、旧ツイッターのXでは避難や生活支援に関する誤った情報や誤解を招く情報が拡散しています。専門家は、今後も内容が変わりつつも誤った情報などが出てくるとして、安易な拡散をしないよう注意を呼び掛けています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322071000.html",
+          "publishedOn": "2024-01-15T11:32:25.000Z",
+          "wordCount": 686,
+          "title": "避難や生活支援に関する誤情報などが拡散 安易な拡散に注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322071_2401152018_0115202604_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321601000.html",
           "author": null,
