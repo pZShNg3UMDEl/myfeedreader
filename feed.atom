@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T04:32:06.623Z</updated>
+    <updated>2024-01-15T04:50:28.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「地震来るたびいつ家が壊れるか」在宅避難を続ける人は…]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321291000.html"/>
+        <updated>2024-01-15T04:39:52.000Z</updated>
+        <summary type="html"><![CDATA[石川県能登地方で発生した最大震度7の地震から2週間がたつ中、被災地では多くの人が避難所での生活を余儀なくされていますが、中には被災した自宅にとどまり「在宅避難」を続ける人もいて、地震が続く中での不安な日々が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 馳知事“被害全容把握できず 被災者ニーズ速やかに対応”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321371000.html"/>
+        <updated>2024-01-15T04:23:19.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発生から15日で2週間です。石川県の馳知事は記者会見で、いまも被害の全容が把握できていないとしたうえで、引き続き被災者のニーズに速やかに対応していく考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[茨城 阿見町 コンビニ ドラッグストアで従業員刺される 男逮捕]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240115/k10014321341000.html</id>
