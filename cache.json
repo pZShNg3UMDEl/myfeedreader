@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120391/",
+          "author": null,
+          "description": "「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の完全新作劇場アニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章」が9月6日に公開されることが決定した。制作が告知されていた劇場...",
+          "link": "https://anime.eiga.com/news/120391/",
+          "publishedOn": "2024-01-15T11:00:00.000Z",
+          "wordCount": 841,
+          "title": "「ラブライブ！虹ヶ咲学園スクールアイドル同好会」劇場版3部作「完結編」の第1章が9月16日公開決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120390/",
           "author": null,
           "description": "「魔神英雄伝ワタル」シリーズの流れをくむテレビアニメ最新作「魔神創造伝ワタル」の制作が決定した。超特報映像が公開されている。 「魔神英雄伝ワタル」シリーズの原点は、1988年に放送されたテレビア...",
@@ -4036,6 +4051,46 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321601000.html",
+          "author": null,
+          "description": "能登半島地震の発生から15日で2週間。避難生活が長引く中、災害関連死を防げるか、大きな課題となっています。被災地では、生活を立て直すため「2次避難」を決断した人がいる一方で、避難所や自宅にとどまるという人もいて、石川県によると、「2次避難所」として約2万8000人分を確保しているのに対し、14日の時点で入ったのは792人だということです。なぜ判断が分かれるのか？そもそも「2次避難」とは？簡単には進まない実情が見えてきました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321601000.html",
+          "publishedOn": "2024-01-15T11:13:05.000Z",
+          "wordCount": 1772,
+          "title": "眠れず 暖取れず…避難所で死者も なぜ2次避難は進まないのか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321601_2401151949_0115195352_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322011000.html",
+          "author": null,
+          "description": "“天空の城”として知られる福井県大野市の越前大野城の石垣の一部が崩れているのが見つかり、能登半島地震の影響とみて、15日専門家が現場の調査を行いました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322011000.html",
+          "publishedOn": "2024-01-15T10:53:45.000Z",
+          "wordCount": 797,
+          "title": "福井 大野 “天空の城” 越前大野城の石垣の一部崩れる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322011_2401151939_0115194824_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321651000.html",
+          "author": null,
+          "description": "アメリカ政府の元高官らは15日に台北で、台湾総統選挙で当選した与党 民進党の頼清徳氏などと会談しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321651000.html",
+          "publishedOn": "2024-01-15T10:52:33.000Z",
+          "wordCount": 729,
+          "title": "米政府元高官らが台湾訪問 民進党 頼清徳氏などと会談",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321651_2401151643_0115165128_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321981000.html",
+          "author": null,
+          "description": "能登半島地震の被災地で、13日まで医療支援にあたった救急医がNHKの取材に応じました。避難所では高血圧や糖尿病といった持病の薬が不足している人が多いことなどから、今後、心臓や血管などの病気による「災害関連死」が増えるおそれがあるとして、継続的な健康管理が必要だと訴えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321981000.html",
+          "publishedOn": "2024-01-15T10:43:50.000Z",
+          "wordCount": 789,
+          "title": "避難所で持病の薬が不足 心臓病など「災害関連死」増える恐れ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321981_2401151842_0115192819_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322031000.html",
           "author": null,
           "description": "プロ野球で「松坂世代」最後の現役選手となっているソフトバンクの和田毅投手が長崎市での自主トレーニングを公開し「しっかりトレーニングはできている。開幕に合わせたい」と意気込みを話しました。",
@@ -4046,6 +4101,16 @@
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322031_2401151905_0115193141_01_02.jpg"
         },
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321991000.html",
+          "author": null,
+          "description": "イスラエル軍は、イスラム組織ハマスに対するガザ地区での軍事作戦について、これまでにハマスの戦闘員およそ9000人を殺害したなどと成果をアピールしました。一方で、住民の犠牲者の増加に歯止めがかからない中、WHO＝世界保健機関は「医療システムが破壊され、十分な治療を受けられず命を落とす患者がいる」として、危機的な医療の現状を訴えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321991000.html",
+          "publishedOn": "2024-01-15T10:25:43.000Z",
+          "wordCount": 478,
+          "title": "イスラエル軍 ガザ地区での成果アピール WHO“医療は危機的”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321991_2401151850_0115192441_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321851000.html",
           "author": null,
           "description": "1月1日に発生した能登半島地震では、ふるさとに帰省していて被災した人も数多くいましたが、研究者によるビッグデータの分析で、石川県輪島市や珠洲市などでは市の外から訪れていた人の割合が1割ほどを占めていたことが分かりました。研究者は「地域に慣れていない人がいたかもしれず、津波などの対策を考える際にはこうした可能性も考慮すべきだ」と指摘しています。",
@@ -4054,6 +4119,16 @@
           "wordCount": 662,
           "title": "地震発生時 輪島や珠洲 市外からの訪問者1割 ビッグデータ分析",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321851_2401151820_0115183821_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321281000.html",
+          "author": null,
+          "description": "NHKの世論調査によりますと、岸田内閣を「支持する」と答えた人は、去年12月の調査より3ポイント上がって26％だったのに対し、「支持しない」と答えた人は2ポイント下がって56％でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321281000.html",
+          "publishedOn": "2024-01-15T10:00:59.000Z",
+          "wordCount": 698,
+          "title": "岸田内閣支持率「支持」26％「支持しない」56％ NHK世論調査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321281_2401151223_0115170411_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321401000.html",
@@ -13447,6 +13522,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=66568",
+          "author": "299",
+          "description": "今回ご紹介するのは子猫ちゃんに初めてカリカリをあげてみたシーンです。 いきなり与えられたドライフードを子猫ちゃんはちゃんと食べられるのかな？と心配していたら意外な展開に。 母猫もビックリの食べっぷりをご覧ください。 これ...\n子猫にカリカリをあげてみた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66568",
+          "publishedOn": "2024-01-15T11:00:21.000Z",
+          "wordCount": 1621,
+          "title": "子猫にカリカリをあげてみた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66568.jpeg"
+        },
+        {
           "id": "https://2-9-9.com/?p=66564",
           "author": "299",
           "description": "今回ご紹介するのは仕草がとっても可愛い子猫ちゃんです。 前足をペロペロ舐める姿が可愛いだけでなく、目の前のものを興味津々に見つめる姿もグッド。 そのキュートさに飼い主さんはメロメロになってしまう程でした。 それでは愛らし...\n仕草が可愛すぎる子猫 first appeared on 肉球ドットコム（299.com）.",
@@ -16639,6 +16724,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032212.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2024/01/15(月) 06:44:55.59 ID:EJPH38pM9.net\n\n\n\n\n\n\n\n＞採用予定数を満たす合格者を全ての職種区分で確保できたのは大阪府と兵庫県にとどまり、45都道府県で「採用予定数割れ」が生じていた都道府県でコレなら、市町村は…🥺#Yahooニュースhttps://t.c...",
+          "link": "https://itainews.com/archives/2032212.html",
+          "publishedOn": "2024-01-15T11:04:15.000Z",
+          "wordCount": 2418,
+          "title": "４５都道府県で「採用予定数割れ」　公務員不足、急速に悪化　工事発注の遅れも",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/5/e539958b-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032206.html",
           "author": "yonepo665sfr",
