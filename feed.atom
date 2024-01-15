@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T03:36:48.395Z</updated>
+    <updated>2024-01-15T03:50:34.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮の弾道ミサイル“中距離と推定 詳細は分析中” 官房長官]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321261000.html"/>
+        <updated>2024-01-15T03:47:23.000Z</updated>
+        <summary type="html"><![CDATA[14日、北朝鮮から発射された弾道ミサイルについて、林官房長官は、中距離弾道ミサイルと推定する一方、極超音速兵器かどうかは分析中だとしたうえで、今回の対応を含め、日米韓3か国で即時に情報を共有するしくみが運用されていることを明らかにしました。14日の弾道ミサイル発射について、北朝鮮は、従来の液体燃料式より迅速に発射できる固体燃料式の中距離弾道ミサイルの発射実験だったと発表するとともに、極超音速で滑空する弾頭が装着されたと主張しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエルとハマス戦闘100日 人質の映像公開 終結見通せず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240115/k10014321181000.html</id>
