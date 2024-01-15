@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T23:23:48.282Z</updated>
+    <updated>2024-01-15T23:36:40.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【被害状況 16日】石川県で約8700戸 停電（6時）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322411000.html"/>
+        <updated>2024-01-15T23:28:26.000Z</updated>
+        <summary type="html"><![CDATA[北陸電力送配電によりますと、今回の地震の影響で、石川県の能登地方では16日午前6時の時点でおよそ8700戸が停電しています。各地の被害について、随時更新でお伝えしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【交通影響 16日】鉄道・航空・道路（6時）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240116/k10014322421000.html</id>
