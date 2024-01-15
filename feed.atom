@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T14:50:36.406Z</updated>
+    <updated>2024-01-15T15:25:17.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ライフライン 16日】石川県内の給水 いつ どこで]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322131000.html"/>
+        <updated>2024-01-15T15:02:23.000Z</updated>
+        <summary type="html"><![CDATA[1日に石川県能登地方で震度7の揺れを観測した地震により、断水の影響が続いています。給水の最新状況について随時更新でまとめます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保険金不正請求 損保ジャパンと親会社に業務改善命令へ 金融庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014322461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014322461000.html"/>
+        <updated>2024-01-15T14:59:40.000Z</updated>
+        <summary type="html"><![CDATA[ビッグモーターによる保険金の不正請求問題で、金融庁は、損害保険ジャパンと親会社のSOMPOホールディングスに対し、月内にも保険業法に基づいて業務改善命令を出す方向で調整を進めることにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤ちゃんが好きすぎる猫]]></title>
         <id>https://2-9-9.com/?p=66579</id>
