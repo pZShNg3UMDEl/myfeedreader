@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T22:50:14.625Z</updated>
+    <updated>2024-01-15T23:23:48.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322421000.html"/>
         <updated>2024-01-15T22:43:52.000Z</updated>
         <summary type="html"><![CDATA[地震による交通機関や道路への影響です。（16日午前6時）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル 戦時内閣からも“人質解放へ戦闘の一時停止を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322541000.html"/>
+        <updated>2024-01-15T22:39:54.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍は15日もガザ地区での軍事作戦を続けていて、現地の保健当局は過去24時間に132人が死亡したと発表しました。一方で、イスラエルの戦時内閣の中からは人質解放のために戦闘の一時停止を求める声も上がっていて、あくまでハマス壊滅を掲げ作戦の継続を主張してきたネタニヤフ首相は難しい対応を迫られています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
