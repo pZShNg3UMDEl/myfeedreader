@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T19:16:41.179Z</updated>
+    <updated>2024-01-15T19:35:34.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（1月16日の動き）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014299921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014299921000.html"/>
+        <updated>2024-01-15T19:28:43.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる16日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナとは7時間、ロシアのモスクワとは6時間の時差があります）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民 政治刷新本部 きょう開催へ 安倍派 報告書を訂正で調整]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322151000.html"/>
+        <updated>2024-01-15T19:19:30.000Z</updated>
+        <summary type="html"><![CDATA[自民党は16日、すべての所属議員を対象に「政治刷新本部」の会合を開き、派閥改革などの議論を行います。一方で、安倍派は収支報告書を訂正する方向で調整を進めていて、幹部に対し経緯や今後の対応を説明するよう求める声が出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 政府 新年度予算案の予備費 1兆円に倍増決定へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322501000.html"/>
+        <updated>2024-01-15T19:17:13.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震を受けて、政府は16日、新年度予算案の予備費を1兆円に倍増することを決定します。今年度予算の予備費とあわせて切れ目なく財政措置を講じ、被災者支援や復旧などに全力を挙げるとともに、災害関連死を防ぐため引き続き2次避難を呼びかける方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大相撲初場所 3日目 初日から2連勝 大関 霧島は熱海富士と対戦]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240116/k10014322371000.html</id>
