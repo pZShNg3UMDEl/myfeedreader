@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T09:25:06.298Z</updated>
+    <updated>2024-01-15T09:36:31.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「リコリス・リコイル」舞台化第2弾が6月上演　キャストは河内美里、本西彩希帆ら第1弾出演者が続投]]></title>
+        <id>https://anime.eiga.com/news/120389/</id>
+        <link href="https://anime.eiga.com/news/120389/"/>
+        <updated>2024-01-15T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[オリジナルアニメ「リコリス・リコイル」の舞台化第2弾「『リコリス・リコイル』Life won’t wait.」の上演が決定した。6月7～16日にかけて、東京ドームシティのシアターGロッソで行われ...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「無事と伝えて」孤立状態 少なくとも15地区415人【15日】]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240115/k10014321671000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321671000.html"/>
         <updated>2024-01-15T09:04:27.000Z</updated>
         <summary type="html"><![CDATA[石川県によりますと、15日午後2時時点で輪島市、珠洲市、能登町の少なくとも15地区の415人が道路が通れなくなるなどして、依然として孤立状態になっているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民 谷川弥一議員が長崎県連会長を辞任 政治資金めぐる問題で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321801000.html"/>
+        <updated>2024-01-15T09:03:18.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題を受け、安倍派に所属する衆議院長崎3区選出の谷川弥一議員が長崎県連の会長を辞任しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>

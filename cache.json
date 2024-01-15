@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120389/",
+          "author": null,
+          "description": "オリジナルアニメ「リコリス・リコイル」の舞台化第2弾「『リコリス・リコイル』Life won’t wait.」の上演が決定した。6月7～16日にかけて、東京ドームシティのシアターGロッソで行われ...",
+          "link": "https://anime.eiga.com/news/120389/",
+          "publishedOn": "2024-01-15T09:30:00.000Z",
+          "wordCount": 836,
+          "title": "「リコリス・リコイル」舞台化第2弾が6月上演　キャストは河内美里、本西彩希帆ら第1弾出演者が続投",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120387/",
           "author": null,
           "description": "「劇場版 SPY×FAMILY CODE: White」の公開後ポスタービジュアルが披露された。 同ビジュアルは、両手を広げて「ちち」に駆け寄るアーニャと、そんなアーニャを優しく見守る父・ロイド...",
@@ -3989,6 +4004,16 @@
           "wordCount": 786,
           "title": "「無事と伝えて」孤立状態 少なくとも15地区415人【15日】",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321671_2401151736_0115173808_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321801000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受け、安倍派に所属する衆議院長崎3区選出の谷川弥一議員が長崎県連の会長を辞任しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321801000.html",
+          "publishedOn": "2024-01-15T09:03:18.000Z",
+          "wordCount": 430,
+          "title": "自民 谷川弥一議員が長崎県連会長を辞任 政治資金めぐる問題で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321801_2401151800_0115180320_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321781000.html",
