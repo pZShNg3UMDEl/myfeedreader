@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T05:39:10.584Z</updated>
+    <updated>2024-01-16T05:50:17.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、EUで「App Store以外からiOSアプリをインストール可能」準備完了か]]></title>
+        <id>https://gadget.phileweb.com/?p=65917</id>
+        <link href="https://gadget.phileweb.com/post-65917/"/>
+        <updated>2024-01-16T05:49:51.000Z</updated>
+        <summary type="html"><![CDATA[欧州連合（EU）が「デジタル市場法（DMA）」が発効したことで、アップルはiPhone上でApp Store以外のサードパーティ製アプリストアや、サイドロード（正規ストア以外からのアプリのインストール）を認める必要に迫られている。 そんななか、アップルがまもなくApp Storeを「EU向け」と「米 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[春闘 “企業に継続的な賃上げ強く呼びかけ” 経団連が基本方針]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240116/k10014322641000.html</id>
@@ -22370,57 +22380,6 @@ Technology trend and chip micrograph.]]></summary>
         <summary type="html"><![CDATA[テクトロニクスは、ミックスドシグナルオシロスコープの「MSO44B」「MSO46B」シリーズを発表した。プロセッサシステムを改良していて、ユーザーインタフェースの応答速度が2倍に向上している。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Postings - Week of 17 Dec 2023]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/job-postings-week-of-17-dec-2023.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/job-postings-week-of-17-dec-2023.html"/>
-        <updated>2023-12-17T17:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta 
-Image Sensor Application Engineer
-Sunnyvale, California, USA or
-  Redmond Washington, USA
-Link
-California institute of
-  Technology
-Detector Engineer 
-Pasadena, California, USA
-Link
-University of Southampton
-PhD Studentship: Greenhouse Gas
-  Detection using Silicon Photonics Platform
-Southampton, UK
-(follow “How to Apply” instructions)
-Link
-Space Dynamics Laboratory
-Electro-Optical Sensor Systems
-  Engineer
-North Logan, Utah, USA
-Link
-Raytheon
-Process Code Engineer
-Andover, Massachusetts, USA
-Link
-SOLIEL Synchrotron Group
-Responsible Detector Group
-Saint-Aubin, France
-Link
-Teledyne e2v Technologies 
-Focal Plane Engineer
-Camarillo, California, USA
-Link
-Pixxel
-Sensors Specialist (EO/IR)
-Bengaluru, Karnataka, India
-Link
-onsemi
-Summer 2024 Device Engineering
-  Intern
-Hopewell Junction, New York, USA
-Link]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
