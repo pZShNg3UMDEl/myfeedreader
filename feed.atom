@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T20:25:18.937Z</updated>
+    <updated>2024-01-16T20:36:34.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[柿沢前副大臣を公職選挙法違反の罪で起訴へ 東京地検特捜部]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240117/k10014323761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240117/k10014323761000.html"/>
+        <updated>2024-01-16T20:30:22.000Z</updated>
+        <summary type="html"><![CDATA[東京の江東区長選挙をめぐる買収などの疑いで逮捕された柿沢未途前法務副大臣について、東京地検特捜部は、勾留期限の17日、公職選挙法違反の罪で起訴する方針です。また、この選挙で支援を受け当選した木村弥生前区長についても、公職選挙法違反の罪で立件する方向で捜査を進めているものとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「活断層」リスク評価 専門家 “調査手法など見直す必要ある”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240117/k10014323681000.html</id>
@@ -23018,15 +23028,6 @@ Technology trend and chip micrograph.]]></summary>
         <summary type="html"><![CDATA[部屋で洗濯物を干そうと、洗濯ハンガーに靴下を吊るそうとしたところ、靴下を落としてしまい、反射的に空中で靴下をキャッチしようとして、勢い余って自らの股間を自らの手でおもいっきり強打してしまい、部屋にひとりうずくまる男。そう […]]]></summary>
         <author>
             <name>watanabe@logipara.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[緊急速報２　堀口英利くんの学習院仮処分裁判]]></title>
-        <id>https://www.youtube.com/watch?v=snZwLRuSHyQ</id>
-        <link href="https://www.youtube.com/watch?v=snZwLRuSHyQ"/>
-        <updated>2023-12-18T08:30:07.000Z</updated>
-        <author>
-            <name>暇な空白チャンネル</name>
         </author>
     </entry>
 </feed>
