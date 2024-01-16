@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T04:30:21.312Z</updated>
+    <updated>2024-01-16T04:50:38.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT Storeが「ガールフレンド」チャットボットで賑わう。ただし規約違反、順次削除へ]]></title>
+        <id>https://gadget.phileweb.com/?p=65869</id>
+        <link href="https://gadget.phileweb.com/post-65869/"/>
+        <updated>2024-01-16T04:31:27.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIは1月10日に、登録ユーザーがカスタムChatGPTを公開できる「GPT Store」をオープンしたが、わずか数日の間にガールフレンドを演じるよう学習させたチャットボットが多数公開されるようになった。 GPT Storeのオープン当日に更新された利用ポリシーにおいて、OpenAIは「ロマ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政治刷新本部 岸田首相“時間の許すかぎり出席” 政治資金問題]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240116/k10014322681000.html</id>
