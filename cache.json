@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120393/",
+          "author": null,
+          "description": "アニメ「青春ブタ野郎」シリーズの新作「大学生編」の制作決定PVが公開された。 同映像は、公開中の劇場アニメ「青春ブタ野郎はランドセルガールの夢を見ない」の最後に上映されており、原作イラストを手が...",
+          "link": "https://anime.eiga.com/news/120393/",
+          "publishedOn": "2024-01-16T03:00:00.000Z",
+          "wordCount": 830,
+          "title": "「青ブタ　大学生編」制作決定PVが公開　「ランドセルガール」の最後に上映されている特別映像",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120392/",
           "author": null,
           "description": "KAMITSUBAKI STUDIOによるオリジナルIPプロジェクト「神椿市建設中。」のテレビアニメ化が決定し、2025年に放送されることがわかった。 バーチャルアーティストグループ「V.W.P...",
@@ -4125,6 +4140,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322731000.html",
+          "author": null,
+          "description": "16日朝、岐阜県の東海北陸自動車道のトンネル内で乗用車や路線バスなど7台の車が関係する追突事故があり、消防によりますと12人が重軽傷を負ったということです。事故当時、現場付近は雪が降っていたということで、警察が事故の状況を詳しく調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322731000.html",
+          "publishedOn": "2024-01-16T03:19:34.000Z",
+          "wordCount": 632,
+          "title": "東海北陸道 トンネル内で車7台関係する事故 12人重軽傷 岐阜",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322731_2401161200_0116120343_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322711000.html",
+          "author": null,
+          "description": "能登半島地震を受けた対応をめぐり、岸田総理大臣は政府の対策本部で、被災地外の2次避難所でも同様に生活支援が受けられることなどを丁寧に説明し、移動を促すよう指示しました。また今月中にも被災者の生活再建などに向けた支援パッケージをまとめる方針を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322711000.html",
+          "publishedOn": "2024-01-16T03:18:55.000Z",
+          "wordCount": 830,
+          "title": "岸田首相 2次避難所の移動 支援など丁寧に説明し促すよう指示",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322711_2401161150_0116115140_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322741000.html",
+          "author": null,
+          "description": "ビッグモーターによる保険金の不正請求問題で、損害保険ジャパンの対応について調査委員会がまとめた最終報告書の内容が明らかになりました。コンプライアンス体制が機能不全を起こしていたことが要因だったとした上で、親会社についても主体的・指導的姿勢が乏しく、リスクへの感度が低かったなどと厳しく指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322741000.html",
+          "publishedOn": "2024-01-16T03:03:32.000Z",
+          "wordCount": 834,
+          "title": "ビッグモーター不正請求 損保ジャパンの最終報告書 内容判明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322741_2401161157_0116120023_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322721000.html",
+          "author": null,
+          "description": "自動車メーカーの「ダイハツ工業」が国の認証を不正に取得していた問題で、国土交通省は3つの車種で特に悪質な不正行為が確認されたとして、これら3車種で大量生産に必要な「型式指定」を取り消すと明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322721000.html",
+          "publishedOn": "2024-01-16T03:01:00.000Z",
+          "wordCount": 835,
+          "title": "ダイハツ認証不正 3車種の「型式指定」取消へ 国土交通省",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322721_2401161151_0116115648_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322671000.html",
           "author": null,
@@ -16360,6 +16415,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=65872",
+          "author": "多根清史",
+          "description": "まだ2024年は始まったばかりだが、早くも次期「iPhone 16」シリーズに関する噂が活気づいている。数日前にも、「iPhone 16 Pro」モデルの最新プロトタイプ情報が届けられたばかりだ。 そんななか、標準モデル「iPhone 16」および「iPhone 16 Plus」の性能がかなり強化さ […]",
+          "link": "https://gadget.phileweb.com/post-65872/",
+          "publishedOn": "2024-01-16T03:22:36.000Z",
+          "wordCount": 818,
+          "title": "アップル、「iPhone 16」「iPhone 16 Plus」RAMを8GBに増量？Proモデルは高速5Gモデム搭載か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2366277825.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=65856",
+          "author": "多根清史",
+          "description": "アップルがApple Watch Series 9とApple Watch Ultra 2につき、血中酸素モニタリング機能を削除した改良モデルを準備中だと明らかになった。米ITCが、同社が医療機器会社Masimoの特許を侵害したと認定したことに基づき、両モデルが米国で輸入・販売禁止になる事態を避ける […]",
+          "link": "https://gadget.phileweb.com/post-65856/",
+          "publishedOn": "2024-01-16T03:22:05.000Z",
+          "wordCount": 790,
+          "title": "Apple Watch Series 9/Ultra 2、血中酸素モニターを米国で削除か。販売禁止を回避のため",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2377849217.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=65826",
           "author": "Munenori Taniguchi",
           "description": "YouTubeが、ユーザーが動画視聴の際に表示される広告を無効化する広告ブロッカーを使用している場合、コンテンツの再生開始まで遅延時間を挿入し、反応を遅くする対策を展開しているとRedditユーザーが報告している。 9to5Googleはこの問題を再現したところ、広告ブロッカーを無効化すればすぐに遅 […]",
@@ -17269,6 +17344,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032232.html",
+          "author": "damono3856",
+          "description": "1 名前：どどん ★：2024/01/15(月) 20:45:01.19 ID:chgHbk6n9.net\n\n\n\n\n\n\n\nスタバで撃たれ男性死亡 指定暴力団池田組幹部組員の前谷祐一郎容疑者(62)を殺人容疑で全国に指名手配（あいテレビ）#Yahooニュース https://t.co/RV5rosDRx3— ミャ王 (@araie02) January 15, 2...",
+          "link": "https://itainews.com/archives/2032232.html",
+          "publishedOn": "2024-01-16T03:03:42.000Z",
+          "wordCount": 2476,
+          "title": "スタバで撃たれ男性死亡 指定暴力団池田組幹部組員を殺人容疑で全国に指名手配",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8ebca74f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032223.html",
           "author": "yonepo665sfr",
