@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T03:25:52.271Z</updated>
+    <updated>2024-01-16T03:36:48.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“パトカーと鬼ごっこ” バイクで集団走行 少年少女18人検挙]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322791000.html"/>
+        <updated>2024-01-16T03:33:12.000Z</updated>
+        <summary type="html"><![CDATA[バイク10台で集団走行し、信号無視などを繰り返したとして少年少女合わせて18人が警視庁に検挙されました。調べに対し、「パトカーと鬼ごっこをしてスリルがあった」などと供述しているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハマス“イスラエル軍の攻撃で人質2人死亡”映像公開 軍は反論]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322661000.html"/>
+        <updated>2024-01-16T03:25:13.000Z</updated>
+        <summary type="html"><![CDATA[イスラム組織ハマスは、イスラエル軍による攻撃で人質2人が死亡したとする内容の映像を公開し、ネタニヤフ政権に揺さぶりをかけるねらいがあるとみられます。これに対しイスラエル軍は、ハマス側がうその情報を流していると反論し、人質をめぐる対応が焦点となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、「iPhone 16」「iPhone 16 Plus」RAMを8GBに増量？Proモデルは高速5Gモデム搭載か]]></title>
         <id>https://gadget.phileweb.com/?p=65872</id>
