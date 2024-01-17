@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T04:31:07.119Z</updated>
+    <updated>2024-01-17T04:50:40.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポルシェ911のインパネ表示にタイプミス発見。「Brake」をうっかり「Break」と表記]]></title>
+        <id>https://gadget.phileweb.com/?p=65964</id>
+        <link href="https://gadget.phileweb.com/post-65964/"/>
+        <updated>2024-01-17T04:47:40.000Z</updated>
+        <summary type="html"><![CDATA[高級スポーツカー、ポルシェ911は1963年の登場以来、ポルシェを代表するクルマとして世界の人々に愛されてきた。 高性能であることは当然ながら、壊れにくいのもその特徴のひとつで、市場調査会社J.D. Powerの「自動車耐久品質調査」では上位にランキングされる品質を誇り、その自動車としての寿命は水冷 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被災地の２次避難や集団避難 分かれる判断 離ればなれの家族も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240117/k10014324121000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240117/k10014324121000.html"/>
         <updated>2024-01-17T04:22:55.000Z</updated>
         <summary type="html"><![CDATA[石川県では、能登半島地震の被災者により安全な場所に移ってもらう「2次避難」や子どもたちの「集団避難」が進められています。一方、地区や家族の間でも、避難するか、地元にとどまるか判断が分かれるケースもみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阪神・淡路大震災から29年 東日本大震災の被災地などで追悼]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240117/k10014324151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240117/k10014324151000.html"/>
+        <updated>2024-01-17T04:20:52.000Z</updated>
+        <summary type="html"><![CDATA[阪神・淡路大震災から、1月17日で29年です。東日本大震災の被災地、岩手県陸前高田市や福島県郡山市などでは、阪神・淡路大震災で亡くなった人と、元日に起きた能登半島地震で亡くなった人を悼みました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
