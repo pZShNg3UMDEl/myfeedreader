@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T20:36:43.361Z</updated>
+    <updated>2024-01-17T20:50:17.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮“ロシアと緊密に協力” 外相とプーチン大統領会談で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325091000.html"/>
+        <updated>2024-01-17T20:38:27.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮は、チェ・ソニ外相とプーチン大統領の会談内容について、双方が緊密に協力していく立場を再確認したと発表しました。また、チェ外相は朝鮮半島情勢をめぐり、ロシア側と積極的に共同で行動していくことで一致したとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナ PCR検査事業で約6000万円投資詐欺か 社長ら6人逮捕]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240118/k10014324841000.html</id>
