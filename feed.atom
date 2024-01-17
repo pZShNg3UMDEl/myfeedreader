@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T15:25:17.208Z</updated>
+    <updated>2024-01-17T15:36:36.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NY市場 円安進む 一時1ドル148円台まで値下がり 約1か月半ぶり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325131000.html"/>
+        <updated>2024-01-17T15:26:51.000Z</updated>
+        <summary type="html"><![CDATA[17日のニューヨーク外国為替市場では円安が進み、円相場は一時、1ドル＝148円台まで値下がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【CoCo壱番屋（ココイチ）】グランド・マザー・カレー【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=233326</id>
