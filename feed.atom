@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T06:31:34.731Z</updated>
+    <updated>2024-01-17T06:50:17.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JAL新社長は客室乗務員出身 鳥取三津子専務 59歳]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240117/k10014324321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240117/k10014324321000.html"/>
+        <updated>2024-01-17T06:31:26.000Z</updated>
+        <summary type="html"><![CDATA[日本航空はいまの赤坂祐二社長の後任に客室乗務員出身の鳥取三津子専務を起用する人事を発表しました。鳥取氏は59歳。客室乗務員の経験が長く、客室本部長などを経て、現在は専務でグループの最高顧客責任者を務めています。赤坂社長は代表権のある会長となります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[賃上げ実現へ「政労使会議」近く開催の方向で調整 岸田首相]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240117/k10014324301000.html</id>
