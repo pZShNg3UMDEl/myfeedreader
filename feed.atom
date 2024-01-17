@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T02:44:40.567Z</updated>
+    <updated>2024-01-17T02:54:56.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル 防衛費約2兆円増額 軍事作戦長期化辞さない姿勢]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240117/k10014324111000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240117/k10014324111000.html"/>
+        <updated>2024-01-17T02:52:17.000Z</updated>
+        <summary type="html"><![CDATA[イスラム組織ハマスとの戦闘を続けているイスラエル政府は、ことしの防衛費をおよそ2兆円増額し、軍事作戦のさらなる長期化も辞さない姿勢を強調しました。一方、イスラエルとハマスの仲介にあたっているカタールの首相は紛争により、中東地域全体の緊張が高まっているとしてガザ地区での停戦が必要だと訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島の海岸 地震で地盤隆起 船出航できず 漁師「絶望」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240117/k10014324051000.html</id>
