@@ -2068,6 +2068,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97167",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/17(水) 10:05:55.67 ID:98LQhIO50   8 […]",
+          "link": "https://switchsoku.com/online/97167",
+          "publishedOn": "2024-01-17T04:00:47.000Z",
+          "wordCount": 10032,
+          "title": "Switch Online + で『黄金の太陽』が配信開始！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/pIYNieQd.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=97165",
           "author": "SWITCH速報",
           "description": "1: 2024/01/16(火) 18:06:09.64 ID:Nnz0SEz20 ゲーフリは何をそ […]",
@@ -4302,16 +4312,6 @@
           "wordCount": 5012,
           "title": "imec paper at IEDM 2023 on a waveguide design for color imaging",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdVbc9JvRGO-FHtDs2koSEhUI_JXHyvyd595ixNsegyRR5u69JCdyZpPPmSqWSHUgD6wr_PvrF5fHqrbf62eXiJEwboJS8CWQxa7XvSYdSSk_wz54SHCzfFk=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2023/12/omnivision-15mp1mp-hybrid-rgbevent.html",
-          "author": null,
-          "description": "Guo et al. from Omnivision presented a hybrid RGB/event vision sensor in a paper titled \"A 3-Wafer-Stacked Hybrid 15MPixel CIS + 1 MPixel EVS with 4.6GEvent/s Readout, In-Pixel TDC and On-Chip ISP and ESP Function\" at ISSCC 2023.\n\nAbstract: Event Vision Sensors (EVS) determine, at pixel level, whether a temporal contrast change beyond a predefined threshold is detected [1–6]. Compared to CMOS image sensors (CIS), this new modality inherently provides data-compression functionality and hence, enables high-speed, low-latency data capture while operating at low power. Numerous applications such as object tracking, 3D detection, or slow-motion are being researched based on EVS [1]. Temporal contrast detection is a relative measurement and is encoded by so-called “events” being further characterized through x/y pixel location, event time-stamp (t) and the polarity (p), indicating whether an increase or decrease in illuminance has been detected.\n \n\n\n\n\nSchematic of dual wafer 4x4 macro-pixel and peripheral readout circuitry on third wafer.\n\n\n\n\n\nEVS readout block diagram and asynchronous scanner with hierarchical skip-logic.\n \n \n\nEvent-signal processor (ESP) block diagram and MIPI interface.\n \n\n\n\nSensor output illustrating hybrid CIS and EVS data capture. 10kfps slow-motion images of an exploding water balloon from 1080p, 120fps + event data.\n \n \n\n\nCharacterization results: Contrast response, nominal contrast, latency and noise vs. illuminance.\n \n\n\n\n\n\n \n\n\nTechnology trend and chip micrograph.",
-          "link": "http://image-sensors-world.blogspot.com/2023/12/omnivision-15mp1mp-hybrid-rgbevent.html",
-          "publishedOn": "2023-12-18T16:12:00.001Z",
-          "wordCount": 4701,
-          "title": "OmniVision 15MP/1MP hybrid RGB/event vision sensor (ISSCC 2023)",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXiP4QvZ1s_xuX1HHJ5-EuACqW1kxYOb1ujJ7c_1Eyt4ESjX00VVvy8y5eIDxMP_vjWnP7TwGmvc4YFxgc1iKJ-T8_I1_eR8tmzsio95bhSmT7EVpz-n9Q9pfxvERrQmShJc_yCtkytWklfQxuzWVnnNT-G2WjaALv-wj7bIQg0E8TTT_7W92MCe3-65iD2B_MHTFtq5q4rM4x2vQ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -4320,6 +4320,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324121000.html",
+          "author": null,
+          "description": "石川県では、能登半島地震の被災者により安全な場所に移ってもらう「2次避難」や子どもたちの「集団避難」が進められています。一方、地区や家族の間でも、避難するか、地元にとどまるか判断が分かれるケースもみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324121000.html",
+          "publishedOn": "2024-01-17T04:22:55.000Z",
+          "wordCount": 905,
+          "title": "被災地の２次避難や集団避難 分かれる判断 離ればなれの家族も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324121_2401171300_0117130104_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324221000.html",
+          "author": null,
+          "description": "16日、北海道にある新千歳空港の駐機場で、大韓航空の旅客機がキャセイパシフィック航空の旅客機に接触したトラブルで、損傷した双方の機体は17日朝までに現場から離れた場所に移されました。大韓航空は当時、機体を押して移動させていた車両が雪でスリップしたと説明していて、航空会社などは機体の状況を確認することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324221000.html",
+          "publishedOn": "2024-01-17T04:05:12.000Z",
+          "wordCount": 827,
+          "title": "新千歳空港 旅客機接触 損傷した双方の機体が移動 北海道",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324221_2401171237_0117130217_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324131000.html",
+          "author": null,
+          "description": "紫外線を当てると光るように遺伝子が組み換えられた熱帯魚の「ベタ」を違法に販売していたとして、警視庁は東京 江戸川区の熱帯魚店の経営者と店長を逮捕しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324131000.html",
+          "publishedOn": "2024-01-17T03:59:42.000Z",
+          "wordCount": 852,
+          "title": "遺伝子組み換え熱帯魚を違法販売か 熱帯魚店経営者ら逮捕 東京",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324131_2401171146_0117115314_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324201000.html",
+          "author": null,
+          "description": "今回の能登半島地震で、震源域の断層の動きを専門家が分析した結果、能登半島の北東にある断層がほとんどずれ動いていなかったことが分かりました。専門家はこの断層で規模の大きな地震が発生すると新潟県の沿岸に津波が押し寄せるおそれもあるとして注意を呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324201000.html",
+          "publishedOn": "2024-01-17T03:47:25.000Z",
+          "wordCount": 687,
+          "title": "能登半島地震の震源域 半島の北東断層ずれ動かず “注意を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324201_2401171232_0117124543_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324141000.html",
           "author": null,
@@ -14681,6 +14721,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=66681",
+          "author": "299",
+          "description": "今回ご紹介するのは息子さんが保護してきた子猫ちゃんです。 保護した時は目ヤニで瞼が開かない等かなり弱った状態だったのですが、今ではすっかり元気に。 無邪気に遊ぶ姿が微笑ましいのでご覧ください。 部屋でウロウロしているのが...\n遊び疲れて寝落ちする子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66681",
+          "publishedOn": "2024-01-17T04:00:51.000Z",
+          "wordCount": 1615,
+          "title": "遊び疲れて寝落ちする子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66681.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=66677",
           "author": "299",
