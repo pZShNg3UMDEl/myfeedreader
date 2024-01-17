@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T02:18:49.844Z</updated>
+    <updated>2024-01-17T02:44:40.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島の海岸 地震で地盤隆起 船出航できず 漁師「絶望」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240117/k10014324051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240117/k10014324051000.html"/>
+        <updated>2024-01-17T02:15:55.000Z</updated>
+        <summary type="html"><![CDATA[石川県輪島市の海岸は、地震の影響で広く地盤が隆起し、港から船が出航できなくなっていて、地元の漁師は「自分たちの力では修復できる状況ではなく絶望しています」と話しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国 去年のGDP 前年比＋5.2％ 中国政府の目標を上回る]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240117/k10014324021000.html</id>
