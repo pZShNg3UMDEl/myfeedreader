@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120401/",
+          "author": null,
+          "description": "青年向けウェブコミック「ヤリ部屋暮らし」（原作：スイカ）をアニメ化する企画が進められていることが分かった。 アニメ版のタイトルは「よあそびぐらしっ！」となり、放送中の「悶えてよ、アダムくん」など...",
+          "link": "https://anime.eiga.com/news/120401/",
+          "publishedOn": "2024-01-17T12:00:00.000Z",
+          "wordCount": 799,
+          "title": "「よあそびぐらしっ！」アニメ化企画進行中　幼なじみとの危ない同居生活を描く",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120412/",
           "author": null,
           "description": "「劇場版ハイキュー!! ゴミ捨て場の決戦」のIMAX版ポスタービジュアルが公開された。 今作は、烏野高校と音駒高校の「ゴミ捨て場の決戦」が全国の舞台で実現する。IMAX版ポスタービジュアルは、来...",
@@ -2112,6 +2127,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97190",
+          "author": "SWITCH速報",
+          "description": "1: 24/01/16(火) 19:40:57 ID:ewZf リトルマックでええよな？あんな雑な動 […]",
+          "link": "https://switchsoku.com/soft/smashbros/97190",
+          "publishedOn": "2024-01-17T12:00:03.000Z",
+          "wordCount": 10154,
+          "title": "スマブラの最も不愉快なキャラってコイツだよな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/07/suma-bros.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=97186",
           "author": "SWITCH速報",
@@ -4405,6 +4430,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324981000.html",
+          "author": null,
+          "description": "ソフトバンクは、今回の地震を受けて主に「ガラケー」と呼ばれる携帯電話で使われている3Gのサービスの終了時期を全国で延期すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324981000.html",
+          "publishedOn": "2024-01-17T12:43:50.000Z",
+          "wordCount": 578,
+          "title": "ソフトバンク “ガラケー”など3G終了時期延期 能登半島地震で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324981_2401172138_0117214352_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324721000.html",
+          "author": null,
+          "description": "イランのメディアは軍事精鋭部隊が隣国パキスタンにある武装組織の拠点を攻撃したと伝え、これにパキスタン政府が反発しています。イランは、イラクやシリアにも越境攻撃を行ったばかりで、地域情勢の不安定化が懸念されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324721000.html",
+          "publishedOn": "2024-01-17T12:28:07.000Z",
+          "wordCount": 526,
+          "title": "イラン軍事精鋭部隊 隣国パキスタンの武装組織の拠点を攻撃か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324721_2401171839_0117212809_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324761000.html",
+          "author": null,
+          "description": "自民党の「政治刷新本部」の会合が開かれ、外部の有識者から、派閥の政治資金パーティーの取りやめや、政治資金規正法の改正を求める意見が出されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324761000.html",
+          "publishedOn": "2024-01-17T12:22:46.000Z",
+          "wordCount": 555,
+          "title": "自民党「政治刷新本部」会合 外部の有識者から意見聴取",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324761_2401171852_0117211255_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324791000.html",
+          "author": null,
+          "description": "58年前、静岡県で一家4人が殺害された事件で死刑が確定した袴田巌さんの再審＝やり直しの裁判で17日、7回目の審理が行われ、弁護団は、取り調べの録音テープの音声を法廷で再生し「袴田さんは長時間の執ような取り調べで自白させられ、犯人に仕立てられた」と主張しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324791000.html",
+          "publishedOn": "2024-01-17T11:48:13.000Z",
+          "wordCount": 503,
+          "title": "袴田巌さん再審 弁護団が取り調べの録音テープを法廷で再生",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324791_2401171911_0117204815_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324771000.html",
           "author": null,
@@ -15018,16 +15083,6 @@
           "wordCount": 2765,
           "title": "2023年の半導体業界を振り返る～市況回復の兆し、業界再編を狙う動きも ―― 電子版2023年12月号",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/19/mm220117_denshiban01_w490.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2312/19/news071.html",
-          "author": null,
-          "description": "ノルディックセミコンダクターは、以前よりサンプル提供していた同社のパワーマネジメントIC「nPM1300」の量産を開始した。バッテリー駆動用途に適した製品で、独自の残量ゲージ機能を搭載している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2312/19/news071.html",
-          "publishedOn": "2023-12-19T00:00:00.000Z",
-          "wordCount": 2663,
-          "title": "残量ゲージ機能搭載、パワーマネジメントICの量産開始",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/19/cover_news071.jpg"
         }
       ]
     },
@@ -18600,6 +18655,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032283.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(茸) [US]：2024/01/17(水) 12:36:17.92 ID:ZIevVcJ10.net\n\n\n\n\n\n\n\n\n《新証拠入手》6、7人目の告発者が…松本人志「ホテル室内写真」と「女性セレクト指示書」https://t.co/9etsnlbm2N#週刊文春— 週刊文春 (@shukan_bunshun) January 17, 2024...",
+          "link": "https://itainews.com/archives/2032283.html",
+          "publishedOn": "2024-01-17T12:01:31.000Z",
+          "wordCount": 2838,
+          "title": "【文春】松本人志さん、女衒芸人への「女性セレクト指示書」を作っていたｗｗｗ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/8/b8c8055c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032281.html",
           "author": "damono3856",
