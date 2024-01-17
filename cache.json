@@ -3700,6 +3700,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9DgY_aGmHpo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9DgY_aGmHpo",
+          "publishedOn": "2024-01-17T07:29:11.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】待望の最新情報キタ!!15章と新武器は!?1月17日のスマートウォークが衝撃すぎた!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NvVv1eNWI0I",
           "author": null,
           "description": "",
@@ -4330,6 +4340,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324411000.html",
+          "author": null,
+          "description": "自動車メーカーの「ダイハツ工業」は、国の認証取得の不正問題で基準に適合しない可能性がある2車種について、リコールを検討していることを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324411000.html",
+          "publishedOn": "2024-01-17T07:29:57.000Z",
+          "wordCount": 635,
+          "title": "ダイハツ 認証取得の不正問題 2車種についてリコールを検討",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324411_2401171558_0117162959_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324371000.html",
           "author": null,
