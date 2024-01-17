@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T22:39:19.693Z</updated>
+    <updated>2024-01-17T22:50:22.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プーチン大統領「ロシアに主導権」ウクライナも徹底抗戦を強調]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325171000.html"/>
+        <updated>2024-01-17T22:39:11.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのプーチン大統領は、ウクライナ侵攻を巡る状況についてロシア側に主導権があると主張し、ウクライナのゼレンスキー大統領も徹底抗戦の姿勢を改めて強調しました。来月で侵攻が始まって2年となりますが、戦闘のさらなる長期化は避けられない見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イギリス キャサリン妃が腹部手術 公務は当面見合わせ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240118/k10014325141000.html</id>
