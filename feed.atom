@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T03:25:48.916Z</updated>
+    <updated>2024-01-17T03:37:01.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[通常国会 自民 1月29日 政治とカネ集中審議 30日政府4演説提案]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240117/k10014324141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240117/k10014324141000.html"/>
+        <updated>2024-01-17T03:27:54.000Z</updated>
+        <summary type="html"><![CDATA[通常国会の審議日程をめぐり、自民党と立憲民主党の国会対策委員長が会談し、自民党は今月29日に政治とカネの問題をテーマに集中審議を行ったあと、翌30日に岸田総理大臣の施政方針演説など政府4演説を行うことを提案しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有機EL版iPad Pro関連パーツはまもなく生産開始、本体の発売は4月の可能性]]></title>
         <id>https://gadget.phileweb.com/?p=65963</id>
