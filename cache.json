@@ -6,6 +6,36 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120409/",
+          "author": null,
+          "description": "2章立ての劇場アニメ「デッドデッドデーモンズデデデデデストラクション」で主演を務める幾田りら、あのによるスペシャルコラボソング2曲が誕生。「絶絶絶絶対聖域」（ano feat. 幾田りら）が前章...",
+          "link": "https://anime.eiga.com/news/120409/",
+          "publishedOn": "2024-01-17T10:30:00.000Z",
+          "wordCount": 884,
+          "title": "幾田りら×あの、映画「デデデデ」主題歌2曲でコラボ　「地球がクソやばい」予告編も披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/konki_ranking/120404/",
+          "author": null,
+          "description": "1月第3週の2024年冬アニメ録画ランキングは、新章「一級魔法使い試験編」に突入した「葬送のフリーレン」が2週連続で首位となった。 2位は「ポケットモンスター 新シリーズ」。3位の「ダンジョン飯...",
+          "link": "https://anime.eiga.com/news/column/konki_ranking/120404/",
+          "publishedOn": "2024-01-17T10:00:00.000Z",
+          "wordCount": 863,
+          "title": "【今期TVアニメランキング】「葬送のフリーレン」2週連続首位　「ダンジョン飯」が3位にランクアップ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120403/",
           "author": null,
           "description": "アニメ化もされた「氷菓」で知られる直木賞作家・米澤穂信氏のミステリー作品「小市民」シリーズから、「春期限定いちごタルト事件」と「夏期限定トロピカルパフェ事件」のテレビアニメ化が決定した。7月から...",
@@ -2067,6 +2097,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97186",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/17(水) 08:35:02.94 ID:uWH2YRCwr https:// […]",
+          "link": "https://switchsoku.com/soft/mario_odyssey/97186",
+          "publishedOn": "2024-01-17T10:00:28.000Z",
+          "wordCount": 10014,
+          "title": "現在の「スーパーマリオ64 RTA」ランキング",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/05/mario64.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=97177",
           "author": "SWITCH速報",
@@ -4350,6 +4390,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324311000.html",
+          "author": null,
+          "description": "被災地を支援する新たな動きが出てきています。金沢市では石川県が募集したボランティアが活動を開始しました。在日アメリカ軍も支援物資の輸送を始めました。医療や薬などの支援も続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324311000.html",
+          "publishedOn": "2024-01-17T10:26:07.000Z",
+          "wordCount": 1424,
+          "title": "石川県募集ボランティア始動 在日米軍が物資輸送 民間の動きも",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324311_2401171706_0117181943_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324621000.html",
+          "author": null,
+          "description": "中国政府で台湾政策を担当する当局は、先の台湾総統選挙で当選した与党・民進党の頼清徳氏について名指しでの非難は避けながらも「民進党は台湾の主流の民意を代表していない」と述べ、3期続けて政権を担う民進党をけん制しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324621000.html",
+          "publishedOn": "2024-01-17T10:12:47.000Z",
+          "wordCount": 584,
+          "title": "“民進党は台湾の民意を代表せず” 中国政府がけん制",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324621_2401171842_0117191250_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324031000.html",
+          "author": null,
+          "description": "「悲しいけど、寂しいけど、おふくろには健康でいてもらいたいって思いで」同居する母には2次避難してもらい、自分は被災地に残ることを決めた男性のことばです。地震から17日目。被災地で取材にこたえてくださったみなさんの声をまとめました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014324031000.html",
+          "publishedOn": "2024-01-17T09:40:53.000Z",
+          "wordCount": 2067,
+          "title": "「別れたくない…でも母は健康でいて」【被災地の声 17日】",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014324031_2401171802_0117182322_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240117/k10014324731000.html",
           "author": null,
@@ -18449,6 +18519,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Cawnvhs4S_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cawnvhs4S_E",
+          "publishedOn": "2024-01-17T10:00:13.000Z",
+          "wordCount": null,
+          "title": "【新宿SP】安村 大ブレイクの弊害！？【#有吉の壁】#short",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MAPexsFUkkI",
           "author": null,
           "description": "",
@@ -18465,6 +18545,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032279.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2024/01/17(水) 08:28:33.49 ID:u8THebTT9.net\n\n\n\n\n\n\n\n富士通社長が謝罪　被害者に「壊滅的影響」―英郵便局冤罪事件 https://t.co/eu7FKUXFme— 時事ドットコム（時事通信ニュース） (@jijicom) January 16, 2024  \n\n\n\n\n\n\n　【ロンドン時事】英国の...",
+          "link": "https://itainews.com/archives/2032279.html",
+          "publishedOn": "2024-01-17T10:11:26.000Z",
+          "wordCount": 2363,
+          "title": "富士通社長が謝罪　被害者に「壊滅的影響」―英郵便局冤罪事件",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/6/f6145cc8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032276.html",
           "author": "yonepo665sfr",
