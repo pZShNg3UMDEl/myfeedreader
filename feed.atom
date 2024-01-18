@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T05:28:45.086Z</updated>
+    <updated>2024-01-18T05:38:55.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報中】甲府 夫婦殺人放火事件判決 主文は最後の見通し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325521000.html"/>
+        <updated>2024-01-18T05:29:21.000Z</updated>
+        <summary type="html"><![CDATA[3年前、甲府市で一方的に好意を寄せていた女性が暮らす住宅に侵入し、女性の両親を殺害して住宅を全焼させたなどとして殺人や放火などの罪に問われている当時19歳の被告に対する判決の言い渡しが甲府地方裁判所で始まりました。裁判長は冒頭で結論にあたる主文を述べず、判決の理由を先に読み上げています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富山 氷見市 断水した1万7000戸余 1月分の上下水道料金 無料に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240118/k10014325591000.html</id>
