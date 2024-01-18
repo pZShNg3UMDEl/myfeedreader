@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T07:35:36.154Z</updated>
+    <updated>2024-01-18T07:50:35.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サムスン、Galaxy S24シリーズに「生成AI」技術を搭載。Google Cloudとの提携により]]></title>
+        <id>https://gadget.phileweb.com/?p=66158</id>
+        <link href="https://gadget.phileweb.com/post-66158/"/>
+        <updated>2024-01-18T07:37:46.000Z</updated>
+        <summary type="html"><![CDATA[サムスンは1月18日未明に開催した新製品発表会「Unpacked」で新型スマートフォンGalaxy S24 Ultra、Galaxy S24+、Galaxy S24 を発表した。これらの機種は、Googleの大規模言語モデルGeminiを使用して「次世代AI機能」をもたらすとしている。 Google […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google、画像や動画から気になるアイテムを「かこって検索」できる新機能]]></title>
         <id>https://gadget.phileweb.com/?p=66219</id>
