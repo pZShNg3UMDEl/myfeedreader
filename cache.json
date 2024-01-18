@@ -2143,6 +2143,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97209",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/18(木) 08:40:48.79 ID:P+uQo+n2d 2: 2024/ […]",
+          "link": "https://switchsoku.com/soft/dragonquest/97209",
+          "publishedOn": "2024-01-18T02:00:53.000Z",
+          "wordCount": 10028,
+          "title": "Switchドラゴンクエストモンスターズ3、100万本突破！！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/06/dqm3.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=97206",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/17(水) 20:43:04.56 ID:OaP/dgQx0 不思議のダンジョ […]",
+          "link": "https://switchsoku.com/soft/97206",
+          "publishedOn": "2024-01-18T00:00:58.000Z",
+          "wordCount": 10129,
+          "title": "『風来のシレン6』容量1.6GB",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/siren6.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=97200",
           "author": "SWITCH速報",
           "description": "1: 2024/01/17(水) 21:00:14.62 ID:PkSqnXPYd きたあああああ！ […]",
@@ -4300,16 +4320,6 @@
           "wordCount": 4393,
           "title": "苦痛に耐えられぬ時つかうがいい",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2023/12/image-4.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9311",
-          "author": "watanabe@logipara.com",
-          "description": "思い起こせば一年前の今頃、目の下のクマ取りに挑みました。 　 目の下のクマを取った話、そして笑気ガス(準備編) 　 その結果、誰に言っても「何が変わったのかわからない」と言われ続け、本当に私、クマ取りやったっけ？あれって […]",
-          "link": "https://logipara.com/health/2023-12-20",
-          "publishedOn": "2023-12-19T13:57:16.000Z",
-          "wordCount": 4395,
-          "title": "ポイント惜しんで金を失う",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2023/12/image-4-1-1024x543.jpg"
         }
       ]
     },
@@ -4475,6 +4485,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014325241000.html",
+          "author": null,
+          "description": "宇宙が誕生した初期のころに、太陽の数百万倍という極めて大きな質量のブラックホールが存在していたという研究成果を、イギリスなどの研究チームが発表しました。このブラックホールはこれまで見つかった中で最も古いものだということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014325241000.html",
+          "publishedOn": "2024-01-18T01:55:57.000Z",
+          "wordCount": 449,
+          "title": "“宇宙誕生の初期にブラックホール存在” 英などの研究チーム",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014325241_2401181046_0118105259_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014325251000.html",
+          "author": null,
+          "description": "去年7月、埼玉県熊谷市の国道で女性が乗用車にひき逃げされて死亡した事件で、警察は車を運転していた94歳の女性をひき逃げなどの疑いで、18日に書類送検しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014325251000.html",
+          "publishedOn": "2024-01-18T01:53:48.000Z",
+          "wordCount": 587,
+          "title": "埼玉 熊谷 ひき逃げ死亡事件 車を運転の94歳女性を書類送検",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014325251_2401181045_0118104701_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014324901000.html",
+          "author": null,
+          "description": "アメリカの中央銀行にあたるFRB＝連邦準備制度理事会は最新の経済報告を公表し、ほぼすべての地区でインフレの要因となってきた人手不足の改善傾向が続いているという見方が示されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014324901000.html",
+          "publishedOn": "2024-01-18T00:30:47.000Z",
+          "wordCount": 748,
+          "title": "アメリカFRB “人手不足 改善傾向続く” 最新の経済報告を公表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014324901_2401172241_0118063207_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240118/k10014325161000.html",
           "author": null,
@@ -15160,6 +15200,26 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/16/news016.html",
+          "author": null,
+          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「マイコンのクロック」についてです。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/16/news016.html",
+          "publishedOn": "2024-01-18T01:00:00.000Z",
+          "wordCount": 2648,
+          "title": "クロックとは　ーーマイコンにクロックが必要な理由",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/16/cover_news016.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/18/news074.html",
+          "author": null,
+          "description": "村田製作所は、姿勢角と自己位置を高精度に検知可能な小型6軸慣性力センサー「SCH16T-K01」を開発した。過酷な環境条件下でも、機械動特性や位置検知において高い性能が求められる用途に適している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/18/news074.html",
+          "publishedOn": "2024-01-18T00:00:00.000Z",
+          "wordCount": 2655,
+          "title": "姿勢角と自己位置を検知する小型6軸慣性力センサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/18/cover_news074.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/16/news169.html",
           "author": null,
           "description": "ロームは、100V耐圧のSBD「YQ」シリーズの量産を開始した。独自のトレンチMOS構造を採用し、順方向電圧と逆方向電流を同時に低減していて、逆回復時間は15ナノ秒を達成している。",
@@ -15336,6 +15396,26 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=66741",
+          "author": "299",
+          "description": "今回ご紹介するのは子猫ちゃんのことが気になって仕方のない先住猫です。 ヨチヨチと不安定な感じで子猫ちゃんが歩いているからでしょう。 先住猫は子猫ちゃんにピッタリくっついて離れません。 心配する様子が微笑ましいのでご覧くだ...\n子猫のことが気になって追跡してしまう先住猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66741",
+          "publishedOn": "2024-01-18T02:00:50.000Z",
+          "wordCount": 1631,
+          "title": "子猫のことが気になって追跡してしまう先住猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66741.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=66775",
+          "author": "299",
+          "description": "お父さんが床に手をついていると子猫にとってはちょうど良いキャットツリーのようになります。子猫のむぎはお父さんの膝の上に登って腕の間をすりぬけたりして楽しそうに冒険をしています。 高さもちょうど良いので怪我することなく安心...\nお父さんのジャングルジムで楽しく遊ぶ子猫が可愛い first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66775",
+          "publishedOn": "2024-01-18T00:00:42.000Z",
+          "wordCount": 1625,
+          "title": "お父さんのジャングルジムで楽しく遊ぶ子猫が可愛い",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66775.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=66737",
           "author": "299",
