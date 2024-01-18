@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T22:50:31.948Z</updated>
+    <updated>2024-01-18T23:24:06.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[関東甲信であすから降雪 関東南部の平地でも積雪の見込み]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326641000.html"/>
+        <updated>2024-01-18T22:55:25.000Z</updated>
+        <summary type="html"><![CDATA[本州の南岸を進む低気圧の影響で関東甲信では、20日午後から21日にかけて山沿いなどを中心に大雪となり、関東南部の平地でも積雪となる所がある見込みで、最新の情報に注意してください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【地震速報】石川県志賀町で震度4 津波心配なし（7:06）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240119/k10014326631000.html</id>
