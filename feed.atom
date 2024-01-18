@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T07:21:15.897Z</updated>
+    <updated>2024-01-18T07:35:36.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google、画像や動画から気になるアイテムを「かこって検索」できる新機能]]></title>
+        <id>https://gadget.phileweb.com/?p=66219</id>
+        <link href="https://gadget.phileweb.com/post-66219/"/>
+        <updated>2024-01-18T07:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Google は、「Google Pixel 8」「Google Pixel 8 Pro」Samsung「Galaxy S24 series」を対象に、新たな検索方法「かこって検索」（Circle to Search）機能を1月31日より順次提供開始すると発表した。 「かこって検索」とは、画像やテキ […]]]></summary>
+        <author>
+            <name>編集部：松永達矢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[こども誰でも通園制度 “月10時間は利用可能に” こども相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325691000.html"/>
+        <updated>2024-01-18T07:22:17.000Z</updated>
+        <summary type="html"><![CDATA[親が働いていなくても子どもを保育所などに預けられる「こども誰でも通園制度」について、加藤こども政策担当大臣は、再来年4月以降に本格的に導入する際には、1人当たり、ひと月に少なくとも10時間は利用できるようにしたいという考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 12とM2 MacBook Air、GPUにセキュリティ脆弱性。機密データ漏えいリスク]]></title>
         <id>https://gadget.phileweb.com/?p=66170</id>
