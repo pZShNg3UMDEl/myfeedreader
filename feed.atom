@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T20:37:06.966Z</updated>
+    <updated>2024-01-18T20:50:20.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[輪島 約72時間後救助も亡くなる 女性の長男「よくがんばった」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326451000.html"/>
+        <updated>2024-01-18T20:46:27.000Z</updated>
+        <summary type="html"><![CDATA[今回の能登半島地震の発生からおよそ72時間が経過した今月4日、石川県輪島市の倒壊した住宅から消防に救助された89歳の女性がその後、亡くなりました。女性の長男が18日、NHKの取材に応じ、「回復しているように見えていたので残念です。よくがんばった。もう苦しまなくていいからゆっくり休んでほしい」と語りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震の被災地 日中あまり気温上がらず 低体温症に注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326361000.html"/>
+        <updated>2024-01-18T20:43:59.000Z</updated>
+        <summary type="html"><![CDATA[最大震度7を観測した能登半島地震の被災地では19日はいったん天気が回復するものの、日中はあまり気温が上がらない見込みです。引き続き低体温症に注意して、家族や周りに体調を崩している人がいないか声をかけあうなど、対策を心がけてください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOC ロシア選手など条件付きで五輪出場を認めるも詳細明かさず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240119/k10014326441000.html</id>
