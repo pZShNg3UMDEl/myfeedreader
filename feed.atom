@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T21:50:19.844Z</updated>
+    <updated>2024-01-18T22:29:22.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】石川県志賀町で震度4 津波心配なし（7:06）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326631000.html"/>
+        <updated>2024-01-18T22:12:07.000Z</updated>
+        <summary type="html"><![CDATA[19日午前7時6分ごろ地震がありました。この地震による津波の心配はありません。震源地は能登半島沖で震源の深さは10キロ、地震の規模を示すマグニチュードは4.3と推定されます。各市町村の震度は以下のとおりです。▼震度4が、石川県志賀町。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早くミルク欲しいニャ～とソワソワする子猫]]></title>
+        <id>https://2-9-9.com/?p=66801</id>
+        <link href="https://2-9-9.com/archives/66801"/>
+        <updated>2024-01-18T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA[今回ご紹介するのはミルクのことが気になって仕方のない子猫ちゃんです。 早く！早く！とミルクを待ちかねてソワソワしている様子が可愛らしいのでご覧ください。 シーツの上で子猫ちゃんが寝転がっていました。 今起きたばかりなので...
+早くミルク欲しいニャ～とソワソワする子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカ 厳しい寒波で40人が死亡 電線の落下による感電など]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326611000.html"/>
+        <updated>2024-01-18T21:51:46.000Z</updated>
+        <summary type="html"><![CDATA[アメリカでは今週にかけて広い範囲で寒波に見舞われ、寒さや雪の影響などでこれまでに40人が死亡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「オープンAI」アルトマンCEO 「ダボス会議」で解任劇振り返る]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240119/k10014326421000.html</id>
