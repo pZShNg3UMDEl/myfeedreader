@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T20:24:54.361Z</updated>
+    <updated>2024-01-18T20:37:06.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IOC ロシア選手など条件付きで五輪出場を認めるも詳細明かさず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326441000.html"/>
+        <updated>2024-01-18T20:32:28.000Z</updated>
+        <summary type="html"><![CDATA[この夏に開催されるパリオリンピックに、ウクライナへの軍事侵攻を続けるロシアと、その同盟国ベラルーシの選手の出場を条件付きで認めると、IOC＝国際オリンピック委員会が発表したあと、初めての理事会が韓国で開かれました。その後の記者会見でIOCは、今後、どのような手続きを取るかなど具体的なことは明らかにしませんでした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“目の前で誰かが倒れたら”救命処置学ぶアプリを公開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014325291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014325291000.html"/>
+        <updated>2024-01-18T20:24:15.000Z</updated>
+        <summary type="html"><![CDATA[目の前で突然誰かが倒れた時どうしたらいいか、119番からAEDの使用まで、必要な救命処置を簡単に学べるアプリを、医師などでつくる団体が開発し、19日に公開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Amazon】アマゾンフレックス配達員「トイレ行けず、信号待ちでおにぎりかじる」激務訴え、環境改善を要求]]></title>
         <id>https://itainews.com/archives/2032314.html</id>
