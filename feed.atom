@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T23:24:06.861Z</updated>
+    <updated>2024-01-18T23:36:35.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326641000.html"/>
         <updated>2024-01-18T22:55:25.000Z</updated>
         <summary type="html"><![CDATA[本州の南岸を進む低気圧の影響で関東甲信では、20日午後から21日にかけて山沿いなどを中心に大雪となり、関東南部の平地でも積雪となる所がある見込みで、最新の情報に注意してください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国分寺の住宅で火事 70代とみられる男女2人が意識ない状態]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326651000.html"/>
+        <updated>2024-01-18T22:51:56.000Z</updated>
+        <summary type="html"><![CDATA[東京消防庁によりますと19日午前6時すぎ、東京 国分寺西恋ヶ窪の2階建ての住宅の1階部分から火が出ました。この火事で70代とみられる男女2人が救助されましたが、いずれも意識がない状態で病院に搬送されたということです。東京消防庁が消火活動を行うとともに逃げ遅れた人が1人いるという情報があることから確認を進めています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
