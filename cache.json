@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120363/",
+          "author": null,
+          "description": "ワーナー・ブラザースとレジェンダリー・ピクチャーズ、東宝が提携し、「GODZILLA ゴジラ」（2014）から展開してきた、ハリウッド版「ゴジラ」シリーズと「キングコング：髑髏島の巨神」（17）...",
+          "link": "https://anime.eiga.com/news/120363/",
+          "publishedOn": "2024-01-18T12:00:00.000Z",
+          "wordCount": 856,
+          "title": "ピンク色に染まる新たな形態のゴジラ　「ゴジラ×コング　新たなる帝国」　世界初公開シーン含む日本版予告＆ポスター公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120396/",
           "author": null,
           "description": "新海誠監督が2023年11月中旬、米カリフォルニアのピクサー・アニメーション・スタジオを訪問し、最新作「すずめの戸締まり」とともに、第81回ゴールデングローブ賞の作品賞（アニメーション部門）にノ...",
@@ -2217,6 +2232,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97226",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/18(木) 15:08:00.53 ID:Qw/2Jx6Sd メトロイドドレッ […]",
+          "link": "https://switchsoku.com/soft/97226",
+          "publishedOn": "2024-01-18T12:30:05.000Z",
+          "wordCount": 10069,
+          "title": "『プリンス･オブ･ペルシャ』の新作‥神ゲーだった",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/prince.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97224",
           "author": "SWITCH速報",
@@ -4610,6 +4635,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014325311000.html",
+          "author": null,
+          "description": "日本国内での医薬品の販売許可がない海外の会社から個人向けの輸出と称して千葉県内の客などに薬を販売したとして、医薬品販売会社の代表取締役など2人が逮捕されました。調べに対し、このうち1人は容疑を否認しているということです",
+          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014325311000.html",
+          "publishedOn": "2024-01-18T12:38:21.000Z",
+          "wordCount": 677,
+          "title": "“輸出”と称し無許可で薬販売か 医薬品販売会社の2人を逮捕",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014325311_2401181127_0118113214_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014326411000.html",
+          "author": null,
+          "description": "17日未明、宮崎県都城市の住宅で、この家に住む女子高校生の次女が男に背中を刺されてけがをしました。関係者によりますと、住宅からは高校の制服などの衣類がなくなり、次女は「見たことのない若い男だと思う」と話していて、警察は殺人未遂事件として、逃げた男の行方を捜査しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014326411000.html",
+          "publishedOn": "2024-01-18T12:06:12.000Z",
+          "wordCount": 472,
+          "title": "住宅で女子高校生が男に刺されけが 制服などなくなる 宮崎",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014326411_2401182112_0118211437_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240118/k10014326231000.html",
           "author": null,
@@ -15813,16 +15858,6 @@
           "wordCount": 2672,
           "title": "マルチモーダルAI向けマイクロコントローラー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/21/cover_news067.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2312/20/news061.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、10Mボーの高速オプトカプラ5製品を発表した。供給電流と標準ターンオン閾値電流が低く、データ通信や自動化機器などのノイズ絶縁、グラウンドループの解消に適している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2312/20/news061.html",
-          "publishedOn": "2023-12-20T00:00:00.000Z",
-          "wordCount": 2648,
-          "title": "RoHSに準拠、10Mボーの高速オプトカプラ5製品を発表",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/20/cover_news061.jpg"
         }
       ]
     },
