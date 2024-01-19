@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T11:35:45.627Z</updated>
+    <updated>2024-01-19T11:50:23.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR宇都宮線 東京～宇都宮 運転見合わせ 湘南新宿ラインも影響]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014328031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014328031000.html"/>
+        <updated>2024-01-19T11:37:43.000Z</updated>
+        <summary type="html"><![CDATA[JR宇都宮線は、埼玉県の、蓮田駅と東大宮駅の間で起きた人身事故の影響で、午後7時51分から東京駅と宇都宮駅の間の上下線で運転を見合わせています。また、この事故の影響でJR湘南新宿ラインも新宿駅と宇都宮駅の間の上下線で運転を見合わせています。JR東日本によりますと運転再開はいずれも午後9時10分ごろを見込んでいるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厚労省 地震で事業縮小企業 休業手当など助成率引き上げを決定]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240119/k10014327761000.html</id>
