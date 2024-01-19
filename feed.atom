@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T10:33:18.432Z</updated>
+    <updated>2024-01-19T10:50:27.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 被災地は20日も再び雨に土砂災害に十分注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014327801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014327801000.html"/>
+        <updated>2024-01-19T10:45:49.000Z</updated>
+        <summary type="html"><![CDATA[最大震度7を観測した能登半島地震の被災地では、20日の午後から再び雨が降る見込みで、地震で地盤が緩んでいるところもあり、土砂災害に十分注意が必要です。また、20日も気温があまり上がらない見込みで、低体温症に注意し、家族や周りに体調を崩している人がいないか、声をかけあうなど対策を心がけてください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ライブ配信予定】JAXA探査機 月面着陸へ 午前0時に降下開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014327201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014327201000.html"/>
+        <updated>2024-01-19T10:35:11.000Z</updated>
+        <summary type="html"><![CDATA[JAXA＝宇宙航空研究開発機構の無人探査機「SLIM」が20日未明に月面への着陸に挑戦します。日付が変わった20日午前0時ごろから降下を開始し、およそ20分後に月面に着陸する計画です。成功すれば日本で初めて、世界でも5か国目となります。※随時更新で速報します。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自民 安倍派 派閥解散の方針を決定 政治資金めぐる事件で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240119/k10014327541000.html</id>
