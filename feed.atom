@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T23:37:16.402Z</updated>
+    <updated>2024-01-19T23:50:23.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア中部で大規模なデモ ウクライナへの軍事侵攻以降まれ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240120/k10014328171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240120/k10014328171000.html"/>
+        <updated>2024-01-19T23:34:20.000Z</updated>
+        <summary type="html"><![CDATA[ロシア中部のバシコルトスタン共和国で、地元の著名な活動家に実刑判決が言い渡され、これに抗議する支持者らが相次いで大規模なデモを行い、拘束者も出ています。ウクライナへの軍事侵攻以降、ロシアで大規模なデモが行われるのはまれで、大統領選挙が3月に行われるのを前に、政権は国内の安定維持に神経をとがらせています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two New Jobs from Transformative Optics]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/01/two-new-jobs-from-transformative-optics.html</id>
@@ -247,6 +257,16 @@ Senior Software Engineer 
 旅行に置いていかれ、拗ねる猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建物倒れ父が…「現実受け入れられない」【被災地の声 20日】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240120/k10014327331000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240120/k10014327331000.html"/>
+        <updated>2024-01-19T21:47:44.000Z</updated>
+        <summary type="html"><![CDATA[「生きていてほしい」でも父がいた建物は完全に倒れ、津波警報のため、自分はその場を離れなくてはならない。長男の洋一さんは、目の前の現実を受け入れられませんでした。今回の地震で、多くの人が大切な家族を亡くしました。「被災地の声」です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
