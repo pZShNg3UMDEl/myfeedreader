@@ -4751,6 +4751,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240119/k10014327651000.html",
+          "author": null,
+          "description": "19日の東京外国為替市場は、アメリカでことしの早い時期に利下げが行われるとの見方が後退したことで、円相場は一時、1ドル＝148円台後半まで値下がりしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240119/k10014327651000.html",
+          "publishedOn": "2024-01-19T09:23:47.000Z",
+          "wordCount": 566,
+          "title": "円相場一時148円台後半に値下がり 米で早期利下げの見方後退で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014327651_2401191812_0119182350_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240119/k10014326671000.html",
           "author": null,
           "description": "19日の東京株式市場、日経平均株価は一時、600円以上値上がりし終値として33年11か月ぶりの高値を更新しました。",
@@ -4759,6 +4769,16 @@
           "wordCount": 641,
           "title": "日経平均株価 一時600円以上値上がり 33年11か月ぶり高値更新",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014326671_2401191526_0119180410_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240119/k10014327441000.html",
+          "author": null,
+          "description": "国立がん研究センターは、子どもや若い世代のがん患者に対し、国内で未承認の治療薬を投与する臨床研究を1月から始めました。海外で使われている薬が、国内で使えるようになるまでに時間がかかる「ドラッグ・ラグ」の解消につながると期待されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240119/k10014327441000.html",
+          "publishedOn": "2024-01-19T09:10:42.000Z",
+          "wordCount": 513,
+          "title": "海外の薬を日本でも 小児がん患者らに未承認治療薬の臨床研究",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014327441_2401191734_0119181044_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240119/k10014327471000.html",
@@ -15127,6 +15147,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=233470",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/mccafe-macaron-strawberry-milk",
+          "publishedOn": "2024-01-19T09:24:36.000Z",
+          "wordCount": 1954,
+          "title": "【マクドナルド】マカロン いちごミルクバター【マックカフェ・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/f2b9587305fe035a1dc2b2066870736a.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=233448",
           "author": "foodfighter",
