@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T04:31:23.268Z</updated>
+    <updated>2024-01-19T04:50:40.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -35,6 +35,16 @@
         <summary type="html"><![CDATA[1: 2024/01/19(金) 07:56:42.22 ID:8Ydzl+TxM 　300円の生活 […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新春恒例「歌会始」 ことしのお題は「和」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326861000.html"/>
+        <updated>2024-01-19T03:50:31.000Z</updated>
+        <summary type="html"><![CDATA[新春恒例の「歌会始」が19日、皇居で行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
