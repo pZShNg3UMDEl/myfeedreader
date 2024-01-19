@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T11:19:11.797Z</updated>
+    <updated>2024-01-19T11:35:45.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[厚労省 地震で事業縮小企業 休業手当など助成率引き上げを決定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014327761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014327761000.html"/>
+        <updated>2024-01-19T11:20:08.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で事業の縮小を余儀なくされた企業に対して、厚生労働省は企業が支払う休業手当などの助成率を最大で8割まで引き上げることを決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダイハツ 出荷停止指示解除の5車種 生産再開準備も時期未定]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240119/k10014327811000.html</id>
