@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T18:50:13.132Z</updated>
+    <updated>2024-01-19T19:16:42.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -152,6 +152,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240119/k10014328111000.html"/>
         <updated>2024-01-19T13:53:03.000Z</updated>
         <summary type="html"><![CDATA[カタールで行われているサッカーのアジアカップで日本は1次リーグの第2戦でイラクに1対2で敗れました。日本は、去年6月から続いていた国際Aマッチの連勝記録が10で止まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ライフライン 20日】石川県内の給水 いつ どこで]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240119/k10014328091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014328091000.html"/>
+        <updated>2024-01-19T13:30:49.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震により、石川県内では断水の影響が続いています。給水の最新状況について、随時更新でまとめています。※目次から各自治体の状況に飛ぶことができます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
