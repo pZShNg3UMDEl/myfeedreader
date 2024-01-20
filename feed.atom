@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T13:35:27.818Z</updated>
+    <updated>2024-01-20T13:50:41.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -52,6 +52,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240120/k10014328661000.html"/>
         <updated>2024-01-20T12:40:43.000Z</updated>
         <summary type="html"><![CDATA[大相撲初場所は7日目、3場所ぶりに復帰した横綱 照ノ富士は大関経験者の正代に敗れて2敗目を喫しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スキージャンプ女子W杯 団体戦 伊藤 高梨出場の日本は4位 山形]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240120/k10014328721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240120/k10014328721000.html"/>
+        <updated>2024-01-20T12:30:14.000Z</updated>
+        <summary type="html"><![CDATA[スキージャンプ女子のワールドカップは、2人1組で争う形式の団体戦が山形市で行われ、伊藤有希選手と高梨沙羅選手が出場した日本は4位でした。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
