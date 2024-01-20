@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T23:37:20.708Z</updated>
+    <updated>2024-01-20T23:50:51.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“プーチン大統領 早い時期に北朝鮮訪問を表明” 北朝鮮が発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240121/k10014328911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240121/k10014328911000.html"/>
+        <updated>2024-01-20T23:43:16.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮外務省は、ロシアのプーチン大統領が1月16日に行ったチェ・ソニ外相との会談で北朝鮮を早い時期に訪問する用意を表明したと、21日、国営の朝鮮中央通信を通じて発表しました。プーチン大統領の訪朝が実現すれば24年ぶりで、北朝鮮外務省は「史上最大の誠心を尽くして、迎える準備ができている」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[千葉 我孫子 市道で倒れていた男性死亡 ひき逃げとみて捜査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240121/k10014328901000.html</id>
