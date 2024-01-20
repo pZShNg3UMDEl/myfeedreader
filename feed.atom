@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T09:35:43.220Z</updated>
+    <updated>2024-01-20T09:50:26.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マンションに車突っ込み ６人はねられる 70歳ドライバーを逮捕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240120/k10014328471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240120/k10014328471000.html"/>
+        <updated>2024-01-20T09:28:57.000Z</updated>
+        <summary type="html"><![CDATA[20日午前、札幌市西区のマンションに乗用車が突っ込み、中にいた男女6人がはねられてけがをし、このうち1人は足の骨を折る重傷だということです。乗用車の70歳のドライバーは「アクセルとブレーキを踏み間違えた」と話しているということで、警察は過失運転傷害の疑いで逮捕して状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川県の選手ら“支援への感謝”示す 全国男子駅伝 開会式]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240120/k10014328631000.html</id>
