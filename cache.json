@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120420/",
+          "author": null,
+          "description": "津田健次郎が、野田サトル氏の人気漫画を実写映画化した「ゴールデンカムイ」で、ナレーションを務めていることがわかった。2018年4月から放送を開始し、現在は第4期まで完結しているテレビアニメ版で尾...",
+          "link": "https://anime.eiga.com/news/120420/",
+          "publishedOn": "2024-01-20T12:00:00.000Z",
+          "wordCount": 848,
+          "title": "津田健次郎、実写映画「ゴールデンカムイ」のナレーションを担当　TVアニメ版の尾形百之助役に続いての参加",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120410/",
           "author": null,
           "description": "1月27日公開の「映画 ギヴン 柊mix」で、本編終了後に週替わりの特典映像が上映されることが分かった。 キヅナツキ氏が「シェリプラス」（新書館刊）で連載したボーイズラブ漫画をアニメ化した「ギヴ...",
@@ -2382,6 +2397,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97308",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/20(土) 17:21:55.44 ID:NctRPCwa0 🔥 […]",
+          "link": "https://switchsoku.com/leak/97308",
+          "publishedOn": "2024-01-20T12:00:46.000Z",
+          "wordCount": 10170,
+          "title": "【噂】NVIDIA「Switch2の箱にNvidiaブランドを表示したい。発表会にも参加したい」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/11/nintendo-nvidia.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97300",
           "author": "SWITCH速報",
@@ -4965,6 +4990,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328791000.html",
+          "author": null,
+          "description": "本州の南を進む低気圧の影響で関東甲信では山沿いを中心に雪が降り、21日にかけて大雪となるおそれがあります。気象庁は積雪による交通への影響や路面の凍結に十分注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328791000.html",
+          "publishedOn": "2024-01-20T12:28:22.000Z",
+          "wordCount": 796,
+          "title": "あす関東甲信の山沿いを中心に大雪のおそれ 交通影響に注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328791_2401202101_0120210222_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328741000.html",
+          "author": null,
+          "description": "スピードスケートの四大陸選手権が、アメリカのソルトレークシティーで開幕し、女子1500メートルに出場した高木美帆選手が、1分52秒37のタイムで優勝しました。これで高木選手は、今シーズン、この種目で5連勝となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328741000.html",
+          "publishedOn": "2024-01-20T12:11:23.000Z",
+          "wordCount": 682,
+          "title": "スピードスケート四大陸選手権開幕 高木美帆が女子1500mで優勝",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328741_2401202055_0120205547_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328761000.html",
+          "author": null,
+          "description": "アメリカで3年前、俳優のアレック・ボールドウィン氏が手にしていた銃が発射され、スタッフ1人が死亡した事件で、西部ニューメキシコ州の大陪審は19日、ボールドウィン氏を過失致死の罪で起訴しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328761000.html",
+          "publishedOn": "2024-01-20T11:58:06.000Z",
+          "wordCount": 621,
+          "title": "米俳優ボールドウィン氏を過失致死罪で起訴 撮影現場で銃発射",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328761_2401202015_0120201534_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328611000.html",
           "author": null,
@@ -17158,16 +17213,6 @@
           "wordCount": 2645,
           "title": "マイコンに搭載されているセンターアラインPWMって何？",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/15/cover_news098.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2312/22/news075.html",
-          "author": null,
-          "description": "マイクロチップ・テクノロジーは、量産向けにパワーモジュール「SP1F」「SP3F」のプレスフィット端子オプションを発表した。はんだレスでプリント基板に実装できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2312/22/news075.html",
-          "publishedOn": "2023-12-22T00:00:00.000Z",
-          "wordCount": 2657,
-          "title": "200以上のオプションを選択できる、プレスフィット端子パワーモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2312/22/cover_news075.jpg"
         }
       ]
     },
@@ -21320,6 +21365,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032368.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2024/01/20(土) 09:46:21.19 ID:pJXkus0q9.net\n\n\n\n\n\n\n\n「励ましたが生き返らなかった」自宅に女性の遺体放置　容疑で７７歳男逮捕 https://t.co/a8xDElWmFq via @Sankei_news— 御園生明雄 (@akioabcd) January 20, 2024  \n\n\n\n\n\n\n集合住宅の自宅で女性...",
+          "link": "https://itainews.com/archives/2032368.html",
+          "publishedOn": "2024-01-20T12:05:45.000Z",
+          "wordCount": 2455,
+          "title": "【大阪】「励ましたが生き返らなかった」自宅に女性の遺体放置　容疑で７７歳男逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/6/a6834018-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032360.html",
           "author": "yonepo665sfr",
