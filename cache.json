@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120427/",
+          "author": null,
+          "description": "テレビアニメ「なぜ僕の世界を誰も覚えていないのか？」に千葉翔也、市ノ瀬加那、白石晴香の出演が決定した。ティザービジュアルも公開されている。 原作は、細音啓氏による累計発行部数70万部（電子込み）...",
+          "link": "https://anime.eiga.com/news/120427/",
+          "publishedOn": "2024-01-20T01:00:00.000Z",
+          "wordCount": 871,
+          "title": "「なぜ僕の世界を誰も覚えていないのか？」に千葉翔也、市ノ瀬加那、白石晴香が出演決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120419/",
           "author": null,
           "description": "劇場アニメ「機動戦士ガンダムSEED FREEDOM」の公開初日に、スタッフトーク上映会が開催される。 スタッフトーク上映会は、新宿ピカデリーで、封切り直前の1月25日午後11時50分からスター...",
@@ -2322,6 +2337,26 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97278",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/20(土) 00:23:57.57 ID:dL3CpcCj0 EGGコンソール […]",
+          "link": "https://switchsoku.com/soft/97278",
+          "publishedOn": "2024-01-20T02:00:51.000Z",
+          "wordCount": 10059,
+          "title": "EGG「Switch版の方が勢いがある。任天堂のハードだからという安心感もある」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/egg-xanadu.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=97276",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/19(金) 11:22:13.19 ID:WOppnDV60 ゲームのサブスク […]",
+          "link": "https://switchsoku.com/gossip/97276",
+          "publishedOn": "2024-01-20T00:00:40.000Z",
+          "wordCount": 10209,
+          "title": "Forbes「ゲームサブスクは頭打ち。任天堂とSteamが正しかった」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/10/game-deback.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97265",
           "author": "SWITCH速報",
@@ -4670,16 +4705,6 @@
           "wordCount": 4388,
           "title": "銀歯",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9318",
-          "author": "watanabe@logipara.com",
-          "description": "昼飲みに賛同する看板を見ると写真を撮っちゃうんだけど、これは何の癖(へき)なんでしょう。",
-          "link": "https://logipara.com/diary-text/2023-12-22",
-          "publishedOn": "2023-12-21T13:15:19.000Z",
-          "wordCount": 4401,
-          "title": "立て看板",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2023/12/image-5-576x1024.jpg"
         }
       ]
     },
@@ -4855,6 +4880,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328251000.html",
+          "author": null,
+          "description": "イギリスの郵便局の会計システムの欠陥で郵便局長らが不当に訴追された事件について、経緯を調べているイギリス政府の調査機関による公聴会が開かれました。この中で、システムを納入した富士通の幹部は欠陥は早い段階で把握されていたものの、問題は20年近く続いていたという認識を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328251000.html",
+          "publishedOn": "2024-01-20T01:25:57.000Z",
+          "wordCount": 563,
+          "title": "英郵便局システム欠陥 富士通幹部 “欠陥は早い段階で把握”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328251_2401200944_0120102559_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328241000.html",
+          "author": null,
+          "description": "アメリカの民間企業が開発し、今月打ち上げられた無人の月着陸船について、企業側は打ち上げ後に異常が発生したため月への着陸を断念し、日本時間の19日「宇宙ごみ」にならないよう、地球の大気圏に突入させて、燃え尽きたとみられると明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328241000.html",
+          "publishedOn": "2024-01-20T00:48:20.000Z",
+          "wordCount": 595,
+          "title": "米 民間の月着陸船 地球の大気圏に突入し燃え尽きる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328241_2401200936_0120094822_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328171000.html",
           "author": null,
@@ -16867,6 +16912,26 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=66869",
+          "author": "299",
+          "description": "今回ご紹介するのはオモチャで遊び続ける子猫ちゃんです。 このオモチャは起き上がりこぼしのようになっていて、倒してもすぐに直立しようと戻ってきてしまいます。 それが楽しいのか、子猫ちゃんは延々…と。 夢中になって遊ぶ姿が可...\n子猫に起き上がりこぼし系オモチャを渡してみた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66869",
+          "publishedOn": "2024-01-20T02:00:26.000Z",
+          "wordCount": 1634,
+          "title": "子猫に起き上がりこぼし系オモチャを渡してみた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66869.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=66903",
+          "author": "299",
+          "description": "今回ご紹介するのは尻尾を頭の上にのせてくつろぐ猫ちゃんです。 余程尻尾が心地よいのか、猫ちゃんは幸せそうにムニャムニャ。 ス～っと寝落ちしていく様子が可愛らしいのでご覧ください。 尻尾を頭に乗せて寝転がっているのが、茶ト...\n猫の尻尾を帽子替わりにする猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66903",
+          "publishedOn": "2024-01-20T00:00:04.000Z",
+          "wordCount": 1633,
+          "title": "猫の尻尾を帽子替わりにする猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66903.jpeg"
+        },
+        {
           "id": "https://2-9-9.com/?p=66865",
           "author": "299",
           "description": "今回ご紹介するのは旅行に置いて行かれてお怒りモードになっている猫ちゃんです。 いつもの帰宅や帰宅時間が遅い時の反応も紹介してくれているので、比較してお楽しみください。 最初は飼い主さんが普通に帰宅した時の反応です。 玄関...\n旅行に置いていかれ、拗ねる猫 first appeared on 肉球ドットコム（299.com）.",
@@ -23747,6 +23812,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40416",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです♪ 久々にランチレポートです☆ 最近、DA BUTCHERSさんがInstagramや公式LINEにてお得な限定メニューを沢山発信している との噂を聞きつけて直行してみましたー！ 「DA BUTCHERS（ダ…",
+          "link": "https://atsugi-lab.com/campaignlunchreport-db202401/",
+          "publishedOn": "2024-01-20T02:11:42.000Z",
+          "wordCount": 1216,
+          "title": "【話題】「DA BUTCHERS（ダ・ブッチャーズ）」の次々更新される限定キャンペーンがお得！早速ランチに行ってみた。［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/db-campaign202401.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=40454",
           "author": "田原",
