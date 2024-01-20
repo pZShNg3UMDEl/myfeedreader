@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T20:50:46.336Z</updated>
+    <updated>2024-01-20T21:18:29.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京都市長選 きょう告示 16年ぶり新人どうしが争う構図の見込み]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240121/k10014328691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240121/k10014328691000.html"/>
+        <updated>2024-01-20T21:00:49.000Z</updated>
+        <summary type="html"><![CDATA[任期満了に伴う京都市長選挙が、21日告示されます。現職の引退に伴って16年ぶりに新人どうしが争う構図となる見込みです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震の被災地は広い範囲で雨 土砂災害のおそれ 警戒を]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240121/k10014328871000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240121/k10014328871000.html"/>
         <updated>2024-01-20T20:38:32.000Z</updated>
         <summary type="html"><![CDATA[最大震度7を観測した能登半島地震の被災地では、広い範囲で雨が降り続いています。揺れの強かった地域では地震で地盤が緩んでいるため、少ない雨でも土砂災害が発生するおそれがあり警戒が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“正当だ” 弾道ミサイル発射受けた安保理会合に北朝鮮が反発]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240121/k10014328851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240121/k10014328851000.html"/>
+        <updated>2024-01-20T20:27:32.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮外務省は、国連安保理で、弾道ミサイルの発射を受けて緊急会合が開かれたことについて談話を発表しアメリカなどに対する「正当な防衛力の強化が罵倒されている」と反発しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
