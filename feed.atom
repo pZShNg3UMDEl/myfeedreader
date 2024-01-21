@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T02:22:44.822Z</updated>
+    <updated>2024-01-21T02:48:34.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震被害の珠洲市と能登町 中学生約140人の集団避難始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240121/k10014328991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240121/k10014328991000.html"/>
+        <updated>2024-01-21T02:43:22.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害を受けた石川県珠洲市と能登町に住む中学生およそ140人の集団での避難が21日から始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大泉洋クルージング]]></title>
         <id>https://logipara.com/?p=9418</id>
