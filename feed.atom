@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T20:23:50.974Z</updated>
+    <updated>2024-01-21T20:36:41.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 活発な地震活動続く 23日からは大雪のおそれ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329401000.html"/>
+        <updated>2024-01-21T20:32:08.000Z</updated>
+        <summary type="html"><![CDATA[最大震度7を観測した能登半島地震の発生から22日で3週間です。今月1日以降、地震の回数は減っているものの、体に揺れを感じる地震は1500回近くにのぼるなど依然活発な地震活動が続いていて、気象庁は今後2週間ほどは最大震度5強程度かそれ以上の地震に注意するよう呼びかけています。一方、23日から冬型の気圧配置が強まり、東日本と西日本の日本海側を中心に、被災地でも大雪となる見込みで、交通への影響に十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「トランプ氏のライバル」デサンティス氏が大統領選から撤退]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329531000.html"/>
+        <updated>2024-01-21T20:22:16.000Z</updated>
+        <summary type="html"><![CDATA[ことし秋のアメリカ大統領選挙に向け、野党・共和党から立候補を表明していたフロリダ州のデサンティス知事が21日、自身のSNSにビデオメッセージを投稿し、選挙戦から撤退することを明らかにしました。デサンティス氏は保守色の強い政策を次々と打ち出すとともに、知事としての実績をアピールし、一時は「トランプ氏の最大のライバル」とも言われましたが、支持率が伸び悩んでいました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卓球 全日本選手権 パリ五輪の切符かけた争いに注目 22日開幕]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240122/k10014329241000.html</id>
