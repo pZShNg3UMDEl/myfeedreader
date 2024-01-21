@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T20:36:41.484Z</updated>
+    <updated>2024-01-21T20:50:12.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民 派閥のあり方など議論 25日にも中間的取りまとめ行う方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329381000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329381000.html"/>
+        <updated>2024-01-21T20:45:24.000Z</updated>
+        <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる事件を受けて、自民党の「政治刷新本部」は今週、中間的な取りまとめを行う方針です。派閥の法令違反が明らかになった場合は党が解散や活動休止を求められるようにすることなどを盛り込む方向で調整しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震 活発な地震活動続く 23日からは大雪のおそれ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240122/k10014329401000.html</id>
