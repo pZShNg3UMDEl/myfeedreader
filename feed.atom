@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T05:41:47.580Z</updated>
+    <updated>2024-01-21T05:50:36.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -28159,24 +28159,6 @@ ST’s direct-ToF sensors combine a 940nm vertical cavity surface emitting laser
         <summary type="html"><![CDATA[こんにちは、点心大好きふみえ＠あつらぼです！ 冬になると、温かいメニューが恋しくなりますね。 今回はそんな時に頬張りたい熱々の小籠包が人気のお店、 「茶薫小籠包 本厚木ミロード店」へランチに行ってまいりましたー！ 「茶薫小籠包 本厚木ミロー…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D cameras at CES 2024: Orbbec and MagikEye]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/3d-cameras-at-ces-2024-orbbec-and.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/3d-cameras-at-ces-2024-orbbec-and.html"/>
-        <updated>2023-12-22T17:49:00.001Z</updated>
-        <summary type="html"><![CDATA[Annoucements below from (1) Orbbec and (2) MagikEye about their upcoming CES demos.
-
-
-
-Orbbec releases Persee N1 camera-computer kit for 3D vision enthusiasts, powered by the NVIDIA Jetson platform
-
-
-Orbbec’s feature-rich RGB-D camera-computer is a ready-to-use out-of-the box solution for 3D vision application developers and experimenters
-Troy, Mich, 13 December 2023 — Orbbec, an industry leader dedicated to 3D vision systems, has developed the Persee N1, an all-in-one combination of a popular stereo-vision 3D camera and a purpose-built computer based on the NVIDIA Jetson platform, and equipped with industry-standard interfaces for the most useful accessories and data connections. Developers using the newly launched camera-computer will also enjoy the benefits of the Ubuntu OS and OpenCV l…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
