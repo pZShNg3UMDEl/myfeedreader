@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120439/",
+          "author": null,
+          "description": "3月15日から新潟市で開催される第2回新潟国際アニメーション映画祭の長編コンペティション部門のノミネート作品が決定した。日本からは塚原重義監督「クラユカバ」、岡田麿里監督「アリスとテレスのまぼろ...",
+          "link": "https://anime.eiga.com/news/120439/",
+          "publishedOn": "2024-01-22T12:00:00.000Z",
+          "wordCount": 741,
+          "title": "第2回新潟国際アニメーション映画祭、コンペ部門ノミネート発表　日本作品は「クラユカバ」「アリスとテレスのまぼろし工場」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120437/",
           "author": null,
           "description": "小説「ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで」のテレビアニメ化が決定し、2024年内にTBSほかで放送されることがわかった。あわせて、メインスタッフやティザーPV、キ...",
@@ -2593,6 +2608,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97372",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/22(月) 00:33:16.62 ID:b8K4ICCe0 Q. なぜ今まで […]",
+          "link": "https://switchsoku.com/square-enix/97372",
+          "publishedOn": "2024-01-22T12:10:13.000Z",
+          "wordCount": 10085,
+          "title": "スクエニ、大量のタイトルを開発しまくったことを反省",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/06/square-enix.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97370",
           "author": "SWITCH速報",
           "description": "1: 2024/01/21(日) 19:43:14.88 ID:AzUdgqkGd ガチで &nbs […]",
@@ -4872,6 +4897,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9427",
+          "author": "watanabe@logipara.com",
+          "description": "今年に入ってから日本株、ぐいぐい上がってる。すごく好調。好調すぎる。 なんでしょうね、株が上がっているのは良いことなんですが、少々、釈然としない。 　 新NISAにつられて株を始めた人が、軒並み儲かっている。 いいんです […]",
+          "link": "https://logipara.com/investment/2024-01-23",
+          "publishedOn": "2024-01-22T12:10:26.000Z",
+          "wordCount": 4419,
+          "title": "日本株あがってます(もってません)",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9421",
           "author": "watanabe@logipara.com",
           "description": "映画「ゴールデンカムイ」を観てきました。 　 ゴールデンカムイが実写化されると聞き、ネット民は総出で「止めとけ」「原作を汚すな」と大騒ぎでした。そう、「よせばいいのに漫画を日本で実写化したら予想通りの惨状」というパターン […]",
@@ -5335,6 +5370,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014330451000.html",
+          "author": null,
+          "description": "パレスチナのガザ地区で軍事作戦を進めるイスラエルは南部ハンユニスへの攻撃をさらに拡大していて、政権高官はイスラム組織ハマスの中枢に迫っていると主張しています。イスラエルのネタニヤフ首相が強硬な姿勢を崩さない中、アメリカや関係国は停戦を目指して外交的な動きを活発化させていると報じられています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014330451000.html",
+          "publishedOn": "2024-01-22T12:53:25.000Z",
+          "wordCount": 484,
+          "title": "イスラエル ガザ地区南部へ攻撃拡大 関係国は停戦目指す動きも",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014330451_2401222011_0122215327_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014330631000.html",
+          "author": null,
+          "description": "中国による日本産の水産物の輸入停止で大きな影響を受けているホタテについて、ベトナムを中国に代わる新たな加工拠点として検討しようと、北海道などの日本企業が現地を視察しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014330631000.html",
+          "publishedOn": "2024-01-22T12:02:29.000Z",
+          "wordCount": 543,
+          "title": "中国が輸入停止のホタテ ベトナムを新加工拠点として検討へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014330631_2401222059_0122210231_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240122/k10014330311000.html",
           "author": null,
@@ -17073,6 +17128,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=233708",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「白バラコーヒーミルクバー 8本入り」を世界一詳しく調査しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/711sej-shirobara-coffee-ice-cream",
+          "publishedOn": "2024-01-22T12:05:28.000Z",
+          "wordCount": 1838,
+          "title": "【セブンイレブン】白バラコーヒーミルクバー 8本入り【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/18044f892093e773b6725fd240f4debc.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=233691",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ロッテの新商品「爽（そう）濃林檎（こりんご）」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]",
@@ -22950,6 +23015,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032417.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/01/22(月) 11:37:40.99 ID:a7FzdUAE0●.net\n\n\n\n\n\n\n\n\n\n\nマンション一室で女性死亡、男性搬送　住人は女性と面識なし　福岡https://t.co/3WyzfZojkR21日夜、福岡市博多区のマンション一室で、住人から「息子と女性が倒れている。息子はう...",
+          "link": "https://itainews.com/archives/2032417.html",
+          "publishedOn": "2024-01-22T12:01:23.000Z",
+          "wordCount": 2468,
+          "title": "マンションの一室で20代の息子と40代の女が倒れてるのを親が発見　40代の女は誰？状態",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/6/062c1487-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032412.html",
           "author": "yonepo665sfr",
