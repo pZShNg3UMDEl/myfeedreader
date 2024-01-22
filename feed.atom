@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T07:22:01.722Z</updated>
+    <updated>2024-01-22T07:36:11.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 “岸田派解散は けじめをつけるため判断した”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014330061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014330061000.html"/>
+        <updated>2024-01-22T07:25:11.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣は自民党の「政治刷新本部」の会合で、先に岸田派を解散する意向を示したことについて、派閥の政治資金パーティーをめぐる事件を踏まえ、けじめをつけるため判断したと説明しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[入院に至らない救急搬送 6月から7700円徴収へ 三重 松阪]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240122/k10014330051000.html</id>
