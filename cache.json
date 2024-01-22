@@ -2473,6 +2473,26 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97358",
+          "author": "SWITCH速報",
+          "description": "80: 2024/01/21(日) 08:54:28.91 ID:izU8EwWx0 スイカゲーム買 […]",
+          "link": "https://switchsoku.com/soft/indy/97358",
+          "publishedOn": "2024-01-22T02:00:08.000Z",
+          "wordCount": 10029,
+          "title": "スイカゲーム買うかで迷ってる",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/11/suica-game.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=97353",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/21(日) 07:31:20.872 ID:/SiJcIeg0 俺はさっきスト […]",
+          "link": "https://switchsoku.com/ds/97353",
+          "publishedOn": "2024-01-22T00:00:09.000Z",
+          "wordCount": 10076,
+          "title": "未だにスーパーファミコン実機でやってる人いる？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/09/Nintendo-SuperFamicom.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97350",
           "author": "SWITCH速報",
           "description": "1: 2024/01/21(日) 09:17:51.186 ID:yWNDoJU70 モンハンとドラ […]",
@@ -5175,6 +5195,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329631000.html",
+          "author": null,
+          "description": "大相撲の大関経験者で平幕の朝乃山が初場所9日目の22日から休場することになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329631000.html",
+          "publishedOn": "2024-01-22T01:51:50.000Z",
+          "wordCount": 722,
+          "title": "大相撲 朝乃山が休場 土俵下でしばらく立てず右足気にする様子",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329631_2401221043_0122105152_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329611000.html",
+          "author": null,
+          "description": "来年度以降改定される介護報酬のサービスごとの具体的な報酬額がまとまり、厚生労働省は人手不足が深刻な介護職員について、職員の処遇改善に使いみちを限った加算を重点的につけることになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329611000.html",
+          "publishedOn": "2024-01-22T01:49:13.000Z",
+          "wordCount": 468,
+          "title": "介護報酬 サービスごとの報酬額 職員処遇改善にかぎり重点加算",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329611_2401221038_0122104916_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329581000.html",
+          "author": null,
+          "description": "週明けの22日の東京株式市場、日経平均株価は値上がりして、一時、3万6500円台をつけ、取り引き時間中としてバブル期の1990年2月以来となる高値水準を更新しています。先週末のニューヨーク市場でハイテク関連の株価が大きく上昇した流れを受けて、東京市場でも取り引き開始直後から関連する銘柄などに買い注文が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329581000.html",
+          "publishedOn": "2024-01-22T01:02:26.000Z",
+          "wordCount": 964,
+          "title": "日経平均株価 取り引き時間中としてバブル期以来 高値水準更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329581_2401221002_0122100335_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329441000.html",
+          "author": null,
+          "description": "ロシア北西部の港にあるガス会社の施設で起きた火災について、ウクライナのメディアは、ウクライナの治安機関が行った無人機攻撃だったと伝えました。また、ウクライナ東部ドネツク州では、ロシア側が支配する拠点で、ウクライナ軍の攻撃で市民25人が死亡したとして、ロシア側はウクライナへの非難を強めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329441000.html",
+          "publishedOn": "2024-01-21T22:04:45.000Z",
+          "wordCount": 740,
+          "title": "“ロシアの支配拠点で市民25人死亡”ウクライナへの批判強める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329441_2401221021_0122102832_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329551000.html",
           "author": null,
@@ -16523,6 +16583,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=233636",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、赤城乳業株式会社の新商品「フルーツ大福アイスバー 温州みかん」を世界一詳しく調査しました。   公式YouTubeチ […]",
+          "link": "https://foodfighter.jp/fruit-daifuku-ice-cream-mikan",
+          "publishedOn": "2024-01-21T23:51:49.000Z",
+          "wordCount": 1838,
+          "title": "赤城乳業 フルーツ大福アイスバー 温州みかん【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/f7ac116cff0d45e64dbdb9f0a3645713.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=233613",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、豊富なトッピングで好みの組み合わせを見つけることができる超有名人気カレー専門チェーン「カレーハウスC […]",
@@ -17760,6 +17830,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/22/news033.html",
+          "author": null,
+          "description": "テキサス・インスツルメンツは、車載用半導体チップ3品種を発表した。77GHzミリ波レーダーセンサーチップ「AWR2544」と、ソフトウェアプログラマブルなドライバーチップ「DRV3946-Q1」「DRV3901-Q1」を提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/22/news033.html",
+          "publishedOn": "2024-01-22T00:00:00.000Z",
+          "wordCount": 2648,
+          "title": "77GHzミリ波レーダーセンサーなど車載用チップ3品種",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/22/cover_news033.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/19/news078.html",
           "author": null,
           "description": "マイクロチップ・テクノロジーはファームウェアへの不正な読み出しや消去、変更を防ぐ機能を搭載したマイクロコントローラーファミリー「PIC18-Q24」を発表した。PDID機能を採用していて、プログラムおよびデバッグインタフェースへのアクセスを遮断できる。",
@@ -17926,6 +18006,26 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=66995",
+          "author": "299",
+          "description": "ママが1泊2日の旅行から帰宅すると玄関までお出迎えしてくれたプリンちゃんです。お留守番をしていて相当寂しかったのでしょうね。 ママの顔を見てホッとしたような表情をしています。玄関からリビングのほうに向かうプリンちゃんは、...\n旅行から帰宅したママを大歓迎するプリンちゃんの健気さに心打たれます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/66995",
+          "publishedOn": "2024-01-22T02:00:49.000Z",
+          "wordCount": 1624,
+          "title": "旅行から帰宅したママを大歓迎するプリンちゃんの健気さに心打たれます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66995.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=67027",
+          "author": "299",
+          "description": "このお家の新たなファミリーの一員として迎え入れられた子猫は、その色柄からてんぷらという名前をつけてもらいました。 初日とは思えないほど新しいお家にもすっかり慣れていて、堂々とくつろいでいます。 しばらくはベッドの上でまっ...\n新しい家にやってきた初日から物おじせず堂々としている子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67027",
+          "publishedOn": "2024-01-22T00:00:31.000Z",
+          "wordCount": 1625,
+          "title": "新しい家にやってきた初日から物おじせず堂々としている子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67027.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=66991",
           "author": "299",
@@ -20990,6 +21090,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=66454",
+          "author": "多根清史",
+          "description": "アップルは次期「iPhone 16」シリーズに、新たな「キャプチャーボタン」を搭載すると何度か噂されてきた。著名ジャーナリストも言及し、ビデオ撮影用ボタンだと説明していた経緯もある。 このキャプチャーボタンにつき、独自の情報源を持つニュースメディアThe Informationが詳細な情報を伝えてい […]",
+          "link": "https://gadget.phileweb.com/post-66454/",
+          "publishedOn": "2024-01-22T01:31:21.000Z",
+          "wordCount": 777,
+          "title": "アップル、「iPhone 16」シリーズの「キャプチャーボタン」でズームイン／アウトやピント合わせ可能か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2392651723.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=66419",
           "author": "Munenori Taniguchi",
           "description": "米アイダホ州の片田舎を拠点とするYouTubeチャンネルGrind Hard Plumbing Coが、モンスタートラックのタイヤで走るバイクを自作するという、壮大なプロジェクトを進めている。 このバイクはご覧のとおり、自作の鋼管製フレームに150馬力のKTM 1190 Adventure V型2気 […]",
@@ -22204,16 +22314,6 @@
           "publishedOn": "2023-12-24T04:54:40.000Z",
           "wordCount": null,
           "title": "実写版　暇な空白チャンネル　和物紹介",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ARPgdFlrhJE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ARPgdFlrhJE",
-          "publishedOn": "2023-12-23T12:30:52.000Z",
-          "wordCount": null,
-          "title": "堀口英利くんの清谷質問解説講義#23",
           "imageUrl": null
         }
       ]
