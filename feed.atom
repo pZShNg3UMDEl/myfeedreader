@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T11:20:03.493Z</updated>
+    <updated>2024-01-22T11:36:03.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[濁流にのまれた孫娘を水中から救出 高台へ【被災地の声 22日】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329781000.html"/>
+        <updated>2024-01-22T11:30:52.000Z</updated>
+        <summary type="html"><![CDATA[「これはダメだ」地震のあと、自宅前を流れる川の水面が盛り上がって一気に寄せてきた濁流。頭の高さを超える水につかりながら、一緒にいた小2の孫娘の姿が見えなくなりました。「死なせてたまるか」能登町白丸地区の男性が、その時の様子を話してくれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブリを食べて被災地支援を 石川 珠洲では「寒ブリ」漁が再開]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240122/k10014330091000.html</id>
@@ -29699,16 +29709,6 @@ ST’s direct-ToF sensors combine a 940nm vertical cavity surface emitting laser
         <updated>2023-12-24T04:54:40.000Z</updated>
         <author>
             <name>暇な空白チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RRR(気付け薬)]]></title>
-        <id>https://logipara.com/?p=9324</id>
-        <link href="https://logipara.com/diary-text/2023-12-24"/>
-        <updated>2023-12-23T23:26:47.000Z</updated>
-        <summary type="html"><![CDATA[昨晩家で飲んでて、眠くなりつつ、なんとなく見るテレビがないなーと思って、配信されているRRRを見たんですよ。 RRRを見たことのない方は、このような至宝を生み出してくれたラージャマウリ監督に感謝の祈りを捧げつつ観るがよい […]]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
         </author>
     </entry>
 </feed>
