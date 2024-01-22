@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T19:17:26.533Z</updated>
+    <updated>2024-01-22T19:35:28.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NYダウ平均株価 一時3万8000ドル超に 取り引き時間中として初]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240123/k10014330761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014330761000.html"/>
+        <updated>2024-01-22T19:22:03.000Z</updated>
+        <summary type="html"><![CDATA[週明け22日のニューヨーク株式市場は、アメリカの半導体やIT関連企業の決算発表が本格化するのを前に、企業業績への期待感から買い注文が増え、ダウ平均株価は一時、取り引き時間中として初めて3万8000ドルを超えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊藤和子弁護士⑤結審]]></title>
         <id>https://www.youtube.com/watch?v=iQVXId_gUZc</id>
@@ -117,6 +127,16 @@ Photodetectors that are sensitive in the shortwave-infrared (SWIR) range (1–2�
 自公勝利の八王子市長選、逆風接戦制した小池都知事の応援https://t.co/MY40KZMU71「寝られない１週間だった。ヒリヒリ胃が痛む毎日だった。本来、追い風を送らないといけ...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被災者の生活再建などに向けた政府の支援パッケージ案まとまる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014330671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014330671000.html"/>
+        <updated>2024-01-22T14:02:03.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災者の生活再建などに向けた政府の支援パッケージの案がまとまりました。住宅や企業の施設の復旧支援策のほか、被災地周辺の観光も支えるため、国が観光客の宿泊代の一部を補助する「北陸応援割」などが盛り込まれています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
