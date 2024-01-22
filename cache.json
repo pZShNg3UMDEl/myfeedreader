@@ -6,6 +6,36 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120435/",
+          "author": null,
+          "description": "2月2日から劇場上映される「『鬼滅の刃』絆の奇跡、そして柱稽古へ」の冒頭に、本編映像を使用したスペシャルアバン映像が追加されることが分かった。 アバン映像は、アニメ「鬼滅の刃」シリーズでエンディ...",
+          "link": "https://anime.eiga.com/news/120435/",
+          "publishedOn": "2024-01-22T09:00:00.000Z",
+          "wordCount": 732,
+          "title": "「鬼滅の刃 柱稽古編」先行劇場上映版にアバン映像を追加　2月17、24日に「遊郭編」特別編集版をフジテレビで再放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120433/",
+          "author": null,
+          "description": "日本テレビのバラエティ番組「踊る！さんま御殿!!」の1月23日放送回「国民的漫画家＆漫画で人生を学んだ有名人」に、「キン肉マン」の嶋田隆司氏（ゆでたまご）、「賭博黙示録カイジ」の福本伸行氏、「宇...",
+          "link": "https://anime.eiga.com/news/120433/",
+          "publishedOn": "2024-01-22T09:00:00.000Z",
+          "wordCount": 733,
+          "title": "1月23日放送「さんま御殿」に「キン肉マン」「カイジ」「宇宙兄弟」などの人気漫画家が集合　佐久間大介が大興奮",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120434/",
           "author": null,
           "description": "2023年公開予定だった劇場アニメ「テンカウント」の制作中止が1月19日、公式サイトと公式X（旧Twitter）で発表された。理由は制作上の都合によるものと説明されている。制作中止にともない、公...",
@@ -5246,6 +5276,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014330181000.html",
+          "author": null,
+          "description": "ロシアが侵攻を続けるウクライナでは、東部ドネツク州のロシア側が支配する拠点で、ウクライナ軍の攻撃によって市民27人が死亡したとして、ロシア側は、ウクライナや軍事支援を行う欧米諸国を強く非難する構えです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014330181000.html",
+          "publishedOn": "2024-01-22T09:05:02.000Z",
+          "wordCount": 707,
+          "title": "ロシア側の支配拠点 “ウクライナ軍の攻撃で市民27人が死亡”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014330181_2401221800_0122180504_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240122/k10014330151000.html",
           "author": null,
           "description": "この冬一番の強い寒気が流れ込み冬型の気圧配置が強まる影響で、新潟県を中心に長野県や関東北部でも23日から25日ごろにかけて大雪となる見込みです。交通への影響などに十分注意するとともに、能登半島地震で損傷を受けた建物は雪の重みによる倒壊にも注意して下さい。",
@@ -5254,6 +5294,16 @@
           "wordCount": 577,
           "title": "東日本上空にこの冬一番の寒気 23～25日 新潟など大雪見込み",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014330151_2401221744_0122174604_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329841000.html",
+          "author": null,
+          "description": "ロシアのプーチン大統領が満面の笑みで出迎えたのは、モスクワを訪れている北朝鮮のチェ・ソニ外相。ロシアと北朝鮮は、協力をさらに拡大しています。ロシアはウクライナへの侵略を続け、一方、北朝鮮は、年明けから砲撃を繰り返したり、弾道ミサイルを発射したりして、軍事的な威嚇を続けています。ロシアと北朝鮮の緊密な関係は、日本をはじめ、アジアの安全保障に今後どのような影響を及ぼすのか。軍事情勢に詳しい東京大学先端科学技術研究センターの小泉悠 准教授に聞きます。※1月17日「ニュースウオッチ9」で放送した内容です。※動画は6分46秒、データ放送ではご覧になれません。",
+          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329841000.html",
+          "publishedOn": "2024-01-22T08:44:43.000Z",
+          "wordCount": 1058,
+          "title": "【解説】ロシアと北朝鮮 接近の理由は 小泉悠准教授に聞く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329841_2401221635_0122164604_01_03.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329941000.html",
@@ -22670,6 +22720,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032408.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：うんこ：2024/01/21(日) 21:50:13.03 ID:2PhR5me+0●.net \n\n\n\n\n\n\n\n\n\n障害者グループホーム、横浜・金沢区で開設断念　住民反対「こんな施設ができるなら、お金があれば引っ越したい」　（カナロコ by 神奈川新聞） https://t.co/ynRGba0mBp— ティグレ (@Masked_Tigre...",
+          "link": "https://itainews.com/archives/2032408.html",
+          "publishedOn": "2024-01-22T09:01:26.000Z",
+          "wordCount": 2604,
+          "title": "住民「障害者が眼中に入るのウザい」←こんなの生活保護や年金で生きるしかないやろ？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/b/2b2224c9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032416.html",
           "author": "damono3856",
