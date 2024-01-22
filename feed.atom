@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T03:25:47.683Z</updated>
+    <updated>2024-01-22T03:37:37.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[珠洲 避難所の中学校が授業再開 市内すべての小中学校が再開に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329761000.html"/>
+        <updated>2024-01-22T03:19:51.000Z</updated>
+        <summary type="html"><![CDATA[石川県珠洲市の避難所になっている中学校が22日、地震の後、初めて授業を再開しました。これで、市内の小中学校はすべて再開したことになります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエル首相“ハマス壊滅まで戦闘”強硬姿勢に国内で批判も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240122/k10014329681000.html</id>
