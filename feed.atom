@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T04:32:15.652Z</updated>
+    <updated>2024-01-22T04:50:48.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329861000.html"/>
         <updated>2024-01-22T04:30:06.000Z</updated>
         <summary type="html"><![CDATA[自民党安倍派の政治資金パーティーをめぐる事件で政治資金規正法違反の虚偽記載の罪で略式起訴され、自民党を離党した谷川弥一衆議院議員が22日、衆議院に議員辞職願を提出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高浜原発1号機 トラブル相次ぐ 出力下げて調査 放射能影響なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329821000.html"/>
+        <updated>2024-01-22T04:27:37.000Z</updated>
+        <summary type="html"><![CDATA[福井県にある関西電力、高浜原子力発電所1号機で21日から22日にかけて、配管から冷却水の蒸気が漏れるなどのトラブルが相次ぎ、関西電力は午前9時すぎから出力を下げて原因を調べています。漏れた冷却水に放射性物質は含まれておらず、放射能の影響はないとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
