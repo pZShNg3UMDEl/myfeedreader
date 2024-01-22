@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T05:39:42.289Z</updated>
+    <updated>2024-01-22T05:50:44.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 雲南省で山崩れ発生 47人が行方不明 現地は雪 厳しい寒さ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329901000.html"/>
+        <updated>2024-01-22T05:44:17.000Z</updated>
+        <summary type="html"><![CDATA[中国内陸部の雲南省にある村で22日朝、山崩れが発生し、47人が行方不明となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国土交通省と気象庁が「緊急発表」日本海側を中心に大雪が予想]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240122/k10014329951000.html</id>
