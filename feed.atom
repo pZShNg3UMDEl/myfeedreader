@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T08:32:42.804Z</updated>
+    <updated>2024-01-22T08:50:41.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東日本上空にこの冬一番の寒気 23～25日 新潟など大雪見込み]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014330151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014330151000.html"/>
+        <updated>2024-01-22T08:46:02.000Z</updated>
+        <summary type="html"><![CDATA[この冬一番の強い寒気が流れ込み冬型の気圧配置が強まる影響で、新潟県を中心に長野県や関東北部でも23日から25日ごろにかけて大雪となる見込みです。交通への影響などに十分注意するとともに、能登半島地震で損傷を受けた建物は雪の重みによる倒壊にも注意して下さい。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セルフレジは社会的に失敗　5人に1人が「うっかり万引き」経験　有人レジに戻す動きも]]></title>
         <id>https://itainews.com/archives/2032416.html</id>
