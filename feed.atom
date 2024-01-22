@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T20:36:19.621Z</updated>
+    <updated>2024-01-22T20:50:52.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「日中経済協会」の訪問団 約4年ぶり訪中へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240123/k10014330501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014330501000.html"/>
+        <updated>2024-01-22T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[日本の経済界の代表らが参加する「日中経済協会」の訪問団が、およそ4年ぶりに23日から中国 北京を訪れます。中国の指導部や政府の高官らとの会談を通じ、日本産の水産物の輸入停止をはじめ、両国間の経済的な課題について議論を深められるかが焦点となります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学校の健康診断 “子どもの着衣可に 心情など配慮を” 文科省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240123/k10014330711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014330711000.html"/>
+        <updated>2024-01-22T20:41:50.000Z</updated>
+        <summary type="html"><![CDATA[学校の健康診断について文部科学省は、正確な診察に支障のない範囲で原則、上半身裸ではなく体操服などで体を覆うなど、子どものプライバシーや心情に配慮するよう全国に通知しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幼稚園児がたこ揚げに挑戦「自分が飛んでいる感じ」 広島 福山]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240123/k10014330011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014330011000.html"/>
+        <updated>2024-01-22T20:39:20.000Z</updated>
+        <summary type="html"><![CDATA[広島県福山市で、地元の幼稚園児たちがたこ揚げに挑戦しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[この冬1番の強い寒気 地震被災地も25日ごろにかけ大雪の見込み]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240123/k10014330531000.html</id>
