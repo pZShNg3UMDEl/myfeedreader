@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T05:29:44.098Z</updated>
+    <updated>2024-01-22T05:39:42.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国土交通省と気象庁が「緊急発表」日本海側を中心に大雪が予想]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329951000.html"/>
+        <updated>2024-01-22T05:35:55.000Z</updated>
+        <summary type="html"><![CDATA[23日から能登半島地震の被災地をはじめ日本海側を中心に大雪が予想されることについて、国土交通省と気象庁は「緊急発表」を行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[志賀原発 完全な復旧には半年以上かかる見通し トラブル続く]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240122/k10014329881000.html</id>
