@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T20:50:52.111Z</updated>
+    <updated>2024-01-22T21:20:24.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ高官 “北朝鮮がロシアにとって最大の武器供給国”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240123/k10014330581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014330581000.html"/>
+        <updated>2024-01-22T20:49:19.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ国防省のブダノフ情報総局長はイギリスの経済紙のインタビューの中で、現在、北朝鮮がロシアにとって、最大の武器供給国となっていると指摘しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「日中経済協会」の訪問団 約4年ぶり訪中へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240123/k10014330501000.html</id>
@@ -30091,15 +30101,6 @@ ST’s direct-ToF sensors combine a 940nm vertical cavity surface emitting laser
         <summary type="html"><![CDATA[「メリークリスマス！」 と書かれた垂れ幕のスーパーで買った、晩御飯ののり弁当でしか味わえない味があります。ワタナベです。 　 人生も47回目のクリスマスとなりますと、さすがに慣れてきました。いい子にしてもプレゼント来 […]]]></summary>
         <author>
             <name>watanabe@logipara.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ドラクエウォーク】カルベロさんいらっしゃ～い！！クリスマス23スペシャル復刻ガチャ30連で獲れなかった武器を回収したい無課金勇者!]]></title>
-        <id>https://www.youtube.com/watch?v=MydWgOAs9DU</id>
-        <link href="https://www.youtube.com/watch?v=MydWgOAs9DU"/>
-        <updated>2023-12-24T09:05:32.000Z</updated>
-        <author>
-            <name>YoshiZo</name>
         </author>
     </entry>
 </feed>
