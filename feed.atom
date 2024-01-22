@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T15:38:42.712Z</updated>
+    <updated>2024-01-22T15:50:42.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paper on non-toxic quantum dot SWIR sensors in Nature Photonics]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/01/paper-on-non-toxic-quantum-dot-swir.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/01/paper-on-non-toxic-quantum-dot-swir.html"/>
+        <updated>2024-01-22T15:39:00.003Z</updated>
+        <summary type="html"><![CDATA[In a paper titled "Silver telluride colloidal quantum dot infrared photodetectors and image sensors" Wang et al. from  ICFO, ICREA, and Qurv Technologies (Spain) write:
+
+Photodetectors that are sensitive in the shortwave-infrared (SWIR) range (1–2 µm) are of great interest for applications such as machine vision, autonomous driving and three-dimensional, night and adverse weather imaging, among others. Currently available technologies in the SWIR range rely on costly epitaxial semiconductors that are not monolithically integrated with complementary metal–oxide–semiconductor electronics. Solution-processed quantum dots can address this challenge by enabling low-cost manufacturing and simple monolithic integration on silicon in a back-end-of-line process. So far, colloidal quantum dot materi…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[たっぷり遊んだらお腹が空いたにゃ〜子猫の大合唱が可愛い！]]></title>
         <id>https://2-9-9.com/?p=67019</id>
