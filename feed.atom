@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T16:50:25.293Z</updated>
+    <updated>2024-01-23T17:28:11.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[雪による鉄道や道路の影響は（24日1:00）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332221000.html"/>
+        <updated>2024-01-23T17:16:34.000Z</updated>
+        <summary type="html"><![CDATA[雪による東海北陸地方の交通への影響です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダンボール箱に居つく猫達]]></title>
         <id>https://2-9-9.com/?p=67144</id>
