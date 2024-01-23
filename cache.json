@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120446/",
+          "author": null,
+          "description": "テレビアニメ「ラブライブ！」の放送10周年を記念し、2015年に公開された劇場アニメ「ラブライブ！The School Idol Movie」が体感型上映システム「4DX」対応版で、3月15日か...",
+          "link": "https://anime.eiga.com/news/120446/",
+          "publishedOn": "2024-01-23T09:00:00.000Z",
+          "wordCount": 785,
+          "title": "「ラブライブ！The School Idol Movie」4DX版が3月15日から期間限定上映　シリーズ初の4DX化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120442/",
           "author": null,
           "description": "「『鬼滅の刃』絆の奇跡、そして柱稽古へ」が2月2日に公開されます。 同作は、「ワールドツアー上映」として、世界140以上の国と地域で上映。今春スタートの新章「柱稽古編」の第1話（1時間スペシャル...",
@@ -5456,6 +5471,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331441000.html",
+          "author": null,
+          "description": "能登半島地震で震度5強を観測した富山県氷見市では、地面に埋めたパイプから放水する消雪装置の破損が相次いでいて、市では、大雪の場合、重機による除雪作業で対応することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014331441000.html",
+          "publishedOn": "2024-01-23T08:18:57.000Z",
+          "wordCount": 554,
+          "title": "富山 氷見 消雪装置の破損相次ぐ 大雪は重機での除雪で対応へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331441_2401231652_0123170409_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331421000.html",
           "author": null,
           "description": "岸田総理大臣は自民党の「政治刷新本部」の会合で、岸田派の解散について、総裁として政治改革の議論の先頭に立つため必要な判断だったとした上で、派閥をカネと人事に関わらない政策集団に改める方向で意見集約を図る考えを示しました。",
@@ -5474,6 +5499,16 @@
           "wordCount": 639,
           "title": "女子中学生にわいせつ目的で面会要求の疑いで22歳大学生逮捕",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331381_2401231616_0123165043_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331371000.html",
+          "author": null,
+          "description": "ダイハツ工業をめぐる国の認証の不正取得問題で、国土交通省は3車種の大量生産に必要な型式指定を取り消す方針を決めたことについて、23日、会社の意見を聞く聴聞を開きました。ダイハツは方針を受け入れる意向を示し、今週中にも正式に取り消される見通しです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014331371000.html",
+          "publishedOn": "2024-01-23T07:41:00.000Z",
+          "wordCount": 731,
+          "title": "ダイハツ 3車種の型式指定 今週中にも正式に取り消しへ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331371_2401231632_0123163650_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331311000.html",
@@ -5504,6 +5539,16 @@
           "wordCount": 853,
           "title": "【解説動画】被災した方にどう接すれば 心のケア専門家に聞く",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331191_2401231529_0123152956_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331221000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる事件を受けて、岸田派は、岸田総理大臣の意向を踏まえ解散することを正式に決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014331221000.html",
+          "publishedOn": "2024-01-23T06:24:38.000Z",
+          "wordCount": 687,
+          "title": "岸田派 解散を正式に決定 政治資金事件受け 67年の歴史に幕",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331221_2401231445_0123152440_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330931000.html",
@@ -22420,6 +22465,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=66634",
+          "author": "Munenori Taniguchi",
+          "description": "ここ最近のAIの進歩は、それによって人々の雇用が失われるのではないか、という不安を静かにわき起こらせている。しかし、MIT CSAIL（コンピュータ科学・人工知能研究所）、MIT Sloan、The Productivity InstituteそしてIBM Institute for Busines […]",
+          "link": "https://gadget.phileweb.com/post-66634/",
+          "publishedOn": "2024-01-23T09:05:58.000Z",
+          "wordCount": 782,
+          "title": "MIT CSAILいわく「AIは思ったより人の仕事を奪わない」。経済的に採算が合うのは約23%",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/Silentgunman_Shutterstock.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=66614",
           "author": "Munenori Taniguchi",
           "description": "スペインのデザインスタジオ「Bel & Bel」が、大友克洋の漫画・アニメ映画『AKIRA』に登場する“金田バイク”の電動バージョンを製作している。 Bel & Belは、主にスクーターやクラシックカーといった乗りものから、その象徴的なパーツを使って新たなインテリアや機能的なデザイン […]",
@@ -23800,6 +23855,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032435.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(ジパング) [US]：2024/01/22(月) 12:50:28.72 ID:JcSVkSFN0.net\n\n\n\n\n\n\n\n\n先日大拡散された、以下の話題。2014年頃から繰り返し話題になり、毎回否定されている話でした。■SNSで拡散された「せっけんと石けんと石鹸は違うもの」は誤り（記事直...",
+          "link": "https://itainews.com/archives/2032435.html",
+          "publishedOn": "2024-01-23T09:01:32.000Z",
+          "wordCount": 2388,
+          "title": "SNS「せっけんと石けんと石鹸は違う！」日本石鹸洗剤工業会「デマです」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/1/11cdc846-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032437.html",
           "author": "yonepo665sfr",
