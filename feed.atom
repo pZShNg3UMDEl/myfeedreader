@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T21:20:13.443Z</updated>
+    <updated>2024-01-23T21:36:30.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[円相場 NY市場は一転し円安方向に 一時148円台後半に値下がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332241000.html"/>
+        <updated>2024-01-23T21:32:28.000Z</updated>
+        <summary type="html"><![CDATA[23日の外国為替市場では日銀の植田総裁の発言が金融緩和策の修正に前向きだと受け止められ、東京市場で一時、円高が進みましたが、ニューヨーク市場では一転して円安方向に振れ、一時、1ドル＝148円台後半まで値下がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滋賀県 福井県に「顕著な大雪に関する情報」厳重に警戒を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332271000.html"/>
+        <updated>2024-01-23T21:30:05.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は24日午前6時すぎに福井県と滋賀県に「顕著な大雪に関する気象情報」を相次いで発表しました。午前6時までの6時間に滋賀県長浜市余呉では37センチ、福井県敦賀市では30センチの顕著な降雪を観測しました。この強い雪は24日夜にかけて続く見込みで、気象庁は福井県の嶺南東部と滋賀県の湖北では短時間の大雪に伴って大規模な交通障害が発生する危険性が高まっているとして大雪に厳重に警戒するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共和党候補選び第2戦ニューハンプシャー州 日本時間24日開票へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240124/k10014331931000.html</id>
