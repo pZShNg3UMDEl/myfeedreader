@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T20:36:41.432Z</updated>
+    <updated>2024-01-23T20:50:31.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東海道新幹線 積雪のため 名古屋と米原間で速度落とし運転]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332261000.html"/>
+        <updated>2024-01-23T20:44:03.000Z</updated>
+        <summary type="html"><![CDATA[JR東海によりますと、東海道新幹線は滋賀県米原市付近での積雪のため、始発から名古屋と米原の間の一部の区間で速度を落として運転します。また、列車に付いた雪を確認する作業を下りは新大阪駅で、上りは名古屋駅で行うということで、この区間の通過に最大で10分程度の遅れが見込まれています。JR東海は今後の雪の状況によっては遅れが拡大する可能性があるとしてホームページなどで最新の運行情報を確認するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【韓国】クレーンゲーム店で「大便テロ」　韓国で店舗内外で大便放置する事例相次ぐ]]></title>
         <id>https://itainews.com/archives/2032448.html</id>
