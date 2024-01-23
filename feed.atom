@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T20:50:31.648Z</updated>
+    <updated>2024-01-23T21:20:13.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[共和党候補選び第2戦ニューハンプシャー州 日本時間24日開票へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014331931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014331931000.html"/>
+        <updated>2024-01-23T20:45:54.000Z</updated>
+        <summary type="html"><![CDATA[秋のアメリカ大統領選挙に向けた野党・共和党の候補者選びの第2戦、東部ニューハンプシャー州の予備選挙は日本時間の24日午前に投票が締め切られ、開票が始まります。トランプ前大統領とヘイリー元国連大使の2人が争う構図で、全米の高い関心を集めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東海道新幹線 積雪のため 名古屋と米原間で速度落とし運転]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240124/k10014332261000.html</id>
