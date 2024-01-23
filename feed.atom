@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T11:50:20.565Z</updated>
+    <updated>2024-01-23T12:56:04.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【気象予報士解説】北海道から九州にかけ大雪のおそれ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240123/k10014332081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014332081000.html"/>
+        <updated>2024-01-23T12:39:05.000Z</updated>
+        <summary type="html"><![CDATA[この冬一番の強い寒気と冬型の気圧配置の影響で、25日ごろにかけて日本海側を中心に大雪となる見込みで、能登半島地震の被災地では雪が強まっています。ふだん雪の少ない西日本や東海などでも大雪となるおそれがあります。今後の雪の見通しと注意点について、斉田季実治 気象予報士の解説です。1月23日「ニュースウオッチ9」で放送しました。※動画は2分16秒 データ放送ではご覧になれません。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハッピーバースデーろじぱら(と思っていた)]]></title>
+        <id>https://logipara.com/?p=9432</id>
+        <link href="https://logipara.com/diary-text/2024-01-24"/>
+        <updated>2024-01-23T12:33:10.000Z</updated>
+        <summary type="html"><![CDATA[みなさん！1月23日は何の日かご存知ですか！？ そう！当該サイト「ろじっくぱらだいす」がこの世に生まれた日なんですーーーーー！！！ 　 　 　 　 ……と思っていたら、1/23じゃなくて1/20(3日前)だったときのサイ […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【滝沢ガレソ】ジャニーズ潰しで反省しゲス垢卒業宣言！！！！！！]]></title>
+        <id>https://www.youtube.com/watch?v=OZeVWiafwDo</id>
+        <link href="https://www.youtube.com/watch?v=OZeVWiafwDo"/>
+        <updated>2024-01-23T12:15:41.000Z</updated>
+        <author>
+            <name>暇な空白チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラーメン屋が潰れまくり中　2023年は過去最多]]></title>
+        <id>https://itainews.com/archives/2032446.html</id>
+        <link href="https://itainews.com/archives/2032446.html"/>
+        <updated>2024-01-23T12:05:42.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：草井満子(茸) [DE]：2024/01/23(火) 11:16:46.51 ID:MxyjV+V10●.net
+
+
+
+
+
+
+
+【TSRデータインサイト】 2023年（1-12月） 「ラーメン店の倒産動向」調査 https://t.co/HBI1X3Db6o #休廃業 #倒産動向 #東京商工リサーチ pic.twitter.com/WF89knntx5— TSR_NEWS (@T...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【まだまだ勢い止まらず興収23.4億円突破】「鬼太郎誕生」第5弾入場特典が1月27日から配布開始]]></title>
+        <id>https://anime.eiga.com/news/120448/</id>
+        <link href="https://anime.eiga.com/news/120448/"/>
+        <updated>2024-01-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公開中の劇場アニメ「鬼太郎誕生 ゲゲゲの謎」の第5弾入場特典として、ビジュアルカード（1種）が1月27日から配布される。特典カードの絵柄は、キャラクターデザイン・谷田部透湖が新たに描き下ろしたイ...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大阪王将】ふわとろあんかけ肉ミンチ！！出てこいやー天津飯【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=233817</id>
@@ -30997,16 +31054,6 @@ ST’s direct-ToF sensors combine a 940nm vertical cavity surface emitting laser
         <link href="https://edn.itmedia.co.jp/edn/articles/2312/21/news024.html"/>
         <updated>2023-12-25T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[今回は前回の検討で得られた各部の波形からスイッチング動作に関係する素子に要求される特性項目と値について説明します。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フラット型パッケージを採用した赤／緑／青色LED]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2312/25/news038.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2312/25/news038.html"/>
-        <updated>2023-12-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ams OSRAMは、同社のLED「OSTAR Projection Compact」ファミリーに赤、緑、青のカラーバリエーションを追加した。フラット型パッケージを採用していて、光学レンズを発光面に近付けた設計ができる。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>
