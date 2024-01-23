@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T19:35:37.098Z</updated>
+    <updated>2024-01-23T19:50:44.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天皇皇后両陛下 正倉院の宝物を忠実に再現した品々の展覧会に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332061000.html"/>
+        <updated>2024-01-23T19:47:18.000Z</updated>
+        <summary type="html"><![CDATA[天皇皇后両陛下は、正倉院の宝物を後世に受け継ぐため忠実に再現して作った品々を紹介する展覧会をご覧になりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民 政治刷新本部の中間とりまとめ あす決定へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014331801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014331801000.html"/>
+        <updated>2024-01-23T19:42:56.000Z</updated>
+        <summary type="html"><![CDATA[自民党は派閥の政治資金パーティーをめぐる事件を受けて、派閥はカネと人事から完全に決別するなどとした中間とりまとめを25日に決定します。一方、党内では安倍派幹部の政治責任を問う声が強まっていて、党執行部は処分を行うことも検討しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東北・北陸・上越新幹線 きょう始発からほぼ通常どおり運転へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014331981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014331981000.html"/>
+        <updated>2024-01-23T19:35:53.000Z</updated>
+        <summary type="html"><![CDATA[東北・北陸・上越の各新幹線は23日、架線のトラブルの影響で一部の区間で終日、運転を取りやめました。JR東日本によりますと復旧作業を進めていて、一部をのぞき、始発から通常どおり運転する予定だということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福井県に「顕著な大雪に関する情報」厳重に警戒を]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240124/k10014332231000.html</id>
