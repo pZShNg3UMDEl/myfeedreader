@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120444/",
+          "author": null,
+          "description": "「PUI PUI モルカー」の新作長編映画が2024年に公開されることが決定した。新作はパペットアニメではなくCGアニメーションとなり、東宝の新レーベル「TOHO NEXT」が配給する。 あわせ...",
+          "link": "https://anime.eiga.com/news/120444/",
+          "publishedOn": "2024-01-23T03:00:00.000Z",
+          "wordCount": 805,
+          "title": "「PUI PUI モルカー」CGアニメで長編映画化、24年公開　まんきゅうが監督、見里朝希が総監修",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120439/",
           "author": null,
           "description": "3月15日から新潟市で開催される第2回新潟国際アニメーション映画祭の長編コンペティション部門のノミネート作品が決定した。日本からは塚原重義監督「クラユカバ」、岡田麿里監督「アリスとテレスのまぼろ...",
@@ -5390,6 +5405,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330911000.html",
+          "author": null,
+          "description": "東京 足立区の住宅の床下から50代の夫婦が遺体で見つかった事件で、新たに逮捕された男の容疑者とみられる人物が、血の付いた衣服のようなものを持って歩く様子が、現場近くの防犯カメラに写っていたことが、捜査関係者への取材でわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330911000.html",
+          "publishedOn": "2024-01-23T03:20:40.000Z",
+          "wordCount": 542,
+          "title": "夫婦遺体遺棄事件 防犯カメラに容疑者 血の付いた衣服を所持か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330911_2401231145_0123122019_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330841000.html",
+          "author": null,
+          "description": "23日の東京株式市場、日経平均株価は取り引き開始直後から買い注文が広がって、3万6900円台まで値上がりし、取り引き時間中としてバブル期の1990年2月以来の高値水準を更新しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330841000.html",
+          "publishedOn": "2024-01-23T03:08:13.000Z",
+          "wordCount": 633,
+          "title": "株価 3万6900円台まで値上がり バブル期以来の高値水準を更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330841_2401231156_0123120739_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330961000.html",
+          "author": null,
+          "description": "秋のアメリカ大統領選挙に向けた野党・共和党の候補者選びの第2戦、東部ニューハンプシャー州の予備選挙の投票が日本時間の23日夜に始まります。トランプ前大統領とヘイリー元国連大使が争う構図で、双方は、投票日前日も集会を開き支持を訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330961000.html",
+          "publishedOn": "2024-01-23T03:03:43.000Z",
+          "wordCount": 596,
+          "title": "米大統領選 共和党予備選ニューハンプシャー州で23日 投票開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330961_2401231152_0123120328_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330941000.html",
+          "author": null,
+          "description": "日銀の金融政策決定会合は23日が2日目で、まもなく当面の運営方針を公表します。金融緩和策の転換のタイミングに市場の関心が集まる中、政策の方向性をどう示すのかが焦点となります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330941000.html",
+          "publishedOn": "2024-01-23T03:00:29.000Z",
+          "wordCount": 684,
+          "title": "日銀 金融政策決定会合2日目 当面の運営方針 まもなく公表へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330941_2401231144_0123120031_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330951000.html",
+          "author": null,
+          "description": "この冬一番の強い寒気と冬型の気圧配置の影響で25日ごろにかけて日本海側を中心に能登半島地震の被災地でも大雪となる見込みで、すでに西日本の平地で雪が降り始めています。ふだん雪の少ない地域でも大雪となるおそれがあり、交通への影響に十分注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330951000.html",
+          "publishedOn": "2024-01-23T02:57:45.000Z",
+          "wordCount": 936,
+          "title": "25日にかけ日本海側中心に被災地でも大雪の見込み 十分注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330951_2401231220_0123122327_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330881000.html",
           "author": null,
@@ -22105,6 +22170,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=66564",
+          "author": "多根清史",
+          "description": "アップルは先週末、米国で空間コンピュータ「Apple Vision Pro」の予約受付を開始した。基本価格は3499ドル（ストレージ256GB）、日本円で約52万円もの製品である。 その高価さにもかかわらず、週末には16万～18万台ものVision Proが売れたと著名アナリストが主張している。 ア […]",
+          "link": "https://gadget.phileweb.com/post-66564/",
+          "publishedOn": "2024-01-23T03:07:07.000Z",
+          "wordCount": 838,
+          "title": "アップル、「Apple Vision Pro」18万台を販売済み？しかし需要が先細りする可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2319392383.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=66535",
           "author": "Munenori Taniguchi",
           "description": "イギリス国防省は、英国防科学技術研究所（Dstl）が約1億ポンド(約188億円)を投じて開発してきたレーザー指向性エネルギー兵器「DragonFire」による、空中標的への高出力発射テストを実施した。 発表によると、DragonFireの射程距離は機密事項とされるものの、その精度は1kmの距離から1 […]",
@@ -23435,6 +23510,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032430.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(東京都) [US]：2024/01/22(月) 11:17:50.19 ID:gLn/8jYV0●.net\n\n\n\n\n\n\n\n\n\n「感染者が立ち寄った店」知事のひと言で客は消えた…老舗ラーメン店主の絶望　行政のコロナ対応は本当に妥当だった？　今考えたい感染症対策 | 2024/1/22 - 47NEWS h...",
+          "link": "https://itainews.com/archives/2032430.html",
+          "publishedOn": "2024-01-23T03:01:12.000Z",
+          "wordCount": 2450,
+          "title": "徳島知事「ラーメン屋にコロナが立ち寄りした」お前ら「コロナ軒」「ラーメン、コロナ抜きで」客消える",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/a/9a610eed-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032426.html",
           "author": "yonepo665sfr",
