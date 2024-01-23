@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T15:37:27.749Z</updated>
+    <updated>2024-01-23T15:50:20.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR北陸本線 特急列車が異音と停電で一時運転見合わせ 福井]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332171000.html"/>
+        <updated>2024-01-23T15:44:08.000Z</updated>
+        <summary type="html"><![CDATA[23日夜、福井県内のJR北陸本線で駅に停車していた特急列車が異音を感知し停電も起きたため、北陸本線は一部の区間で一時運転を見合わせました。JR西日本が停電の原因を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Job Postings from Employers in France]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/01/two-job-postings-from-employers-in.html</id>
