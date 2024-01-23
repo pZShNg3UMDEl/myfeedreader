@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T18:50:25.087Z</updated>
+    <updated>2024-01-23T19:17:47.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[福井県に「顕著な大雪に関する情報」厳重に警戒を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332231000.html"/>
+        <updated>2024-01-23T19:06:00.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は24日午前3時51分、福井県に「顕著な大雪に関する情報」を発表しました。短時間の大雪に伴って大規模な交通障害が発生する危険性が高まっているとして厳重に警戒するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア猫の面白い映像をまとめてみました]]></title>
         <id>https://2-9-9.com/?p=67153</id>
