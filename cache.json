@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/120414/",
+          "author": null,
+          "description": "「機動戦士ガンダムSEED」シリーズの新作映画「機動戦士ガンダムSEED FREEDOM」が1月26日に公開されます。シリーズの振り返りとして「機動戦士ガンダムSEED」の作品展開と、当時どこが...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/120414/",
+          "publishedOn": "2024-01-23T09:30:00.000Z",
+          "wordCount": 831,
+          "title": "【新作映画公開記念】「機動戦士ガンダムSEED」は何が新しかったのか　作品展開を紹介",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120446/",
           "author": null,
           "description": "テレビアニメ「ラブライブ！」の放送10周年を記念し、2015年に公開された劇場アニメ「ラブライブ！The School Idol Movie」が体感型上映システム「4DX」対応版で、3月15日か...",
@@ -5470,6 +5485,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331511000.html",
+          "author": null,
+          "description": "去年、岐阜市にある陸上自衛隊の射撃場で、隊員3人を小銃で銃撃し2人を殺害したなどとして逮捕された当時の自衛官候補生について、検察が精神鑑定の結果などから刑事責任能力を問えると判断したことが、関係者への取材でわかりました。当時の候補生は23日に家庭裁判所に送られ、今後、刑事処分が相当かどうか判断されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014331511000.html",
+          "publishedOn": "2024-01-23T09:27:51.000Z",
+          "wordCount": 575,
+          "title": "陸自訓練中に銃撃 3人殺傷事件 刑事責任能力問えると判断 検察",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331511_2401231809_0123182713_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331441000.html",
           "author": null,
