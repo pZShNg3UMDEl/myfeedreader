@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T16:50:40.001Z</updated>
+    <updated>2024-01-24T17:28:06.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hokuyo solid-state LiDAR uses Lumotive's beamsteering technology]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/01/hokuyo-solid-state-lidar-uses-lumotives.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/01/hokuyo-solid-state-lidar-uses-lumotives.html"/>
+        <updated>2024-01-24T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[From: https://hokuyo-usa.com/resources/blog/pioneering-autonomous-capabilities-solid-state-3d-lidar
+
+
+Hokuyo YLM-X001
+
+
+Autonomous technologies are proliferating across industries at breakneck speed. Various sectors, like manufacturing, agriculture, storage, freight, etc., are rushing to embrace robotics, automation, and self-driving capabilities.
+At the helm of this autonomous transformation is LiDAR, the eyes that allow technologies to perceive and understand their surroundings. LiDAR is like a hawk scanning the landscape with sharp vision, giving clarity and insight into what stands before it. Additionally, research solidifies the claims of increasing LiDAR usage and anticipates that the global LiDAR market will reach 5.35 billion USD by 2030.
+While spinning mechanical LiDAR sensors hav…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[留守番中の猫とカワウソの様子をwebカメラでチェックしてみよう！]]></title>
         <id>https://2-9-9.com/?p=67209</id>
