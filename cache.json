@@ -2774,21 +2774,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120290/",
-          "author": null,
-          "description": "テレビアニメ「魔導具師ダリヤはうつむかない」が2024年に放送されることが決定し、メインキャストの大西沙織、田丸篤志の出演が明らかになった。ティザーPVやメインスタッフなども公開されている。 原...",
-          "link": "https://anime.eiga.com/news/120290/",
-          "publishedOn": "2023-12-26T03:00:00.000Z",
-          "wordCount": 724,
-          "title": "「魔導具師ダリヤはうつむかない」24年に放送　メインキャストに大西沙織、田丸篤志",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2797,6 +2782,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97448",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/24(水) 12:22:36.270 ID:Tb0YsDq30 そろそろ次世代 […]",
+          "link": "https://switchsoku.com/switch/97448",
+          "publishedOn": "2024-01-24T15:00:20.000Z",
+          "wordCount": 10099,
+          "title": "Nintendo Switch 2017年3月3日発売 ← コレ",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/11/switch-kimijima.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=97443",
           "author": "SWITCH速報",
