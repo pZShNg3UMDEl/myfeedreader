@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T23:36:07.908Z</updated>
+    <updated>2024-01-24T23:50:26.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝マックメニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“県営プールでの水着撮影会” 許可条件の素案まとまる 埼玉]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333791000.html"/>
+        <updated>2024-01-24T23:09:35.000Z</updated>
+        <summary type="html"><![CDATA[埼玉県の県営プールでの水着撮影会のあり方について議論してきた検討会は、撮影会の新たな許可条件について素案をまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -53,6 +63,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333821000.html"/>
         <updated>2024-01-24T21:55:45.000Z</updated>
         <summary type="html"><![CDATA[岸田総理大臣が、26日に召集される通常国会で行う施政方針演説の原案が明らかになりました。自民党の派閥をカネと人事から決別させて信頼回復を目指す考えを示すとともに、能登半島地震の対応では、自身をトップとする「能登復興本部」を新たに設け、被災地の再生に取り組む決意を強調しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“トランスジェンダー 大会参加の議論は40％余”五輪競技団体]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333731000.html"/>
+        <updated>2024-01-24T21:48:46.000Z</updated>
+        <summary type="html"><![CDATA[ことしのパリオリンピックを前に、NHKが大会で実施される各競技の団体にトランスジェンダーの選手の国内での大会参加についてアンケートを行った結果、議論を「行っている」、または「行う予定」と答えたのは合わせて40％余りでした。IOC＝国際オリンピック委員会はトランスジェンダーなどの選手が国際大会に参加する際に自認する性によって差別しないことなどを盛り込んだ指針を策定していて、専門家は議論を行っていない団体について「選手から対応を求める要望があがるのを待つのでは遅く、トランスジェンダーについて理解するというところからスタートするだけでも事態は変わる」としています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
