@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T13:38:08.130Z</updated>
+    <updated>2024-01-24T13:50:22.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -100,6 +100,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240124/k10014333721000.html"/>
         <updated>2024-01-24T12:26:39.000Z</updated>
         <summary type="html"><![CDATA[この冬一番の強い寒気と冬型の気圧配置の影響で日本海側を中心に雪が降り続き、岐阜県や滋賀県では記録的な大雪となっています。気象庁は引き続き重大な交通への影響に厳重に警戒するとともに、不要不急の外出を控えるよう呼びかけています。今後の雪の見通しと注意点について、斉田季実治 気象予報士の解説です。1月24日「ニュースウオッチ9」で放送しました。※動画は2分22秒 データ放送ではご覧になれません。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大相撲初場所11日目 霧島は2敗守る 琴ノ若も1敗を守り10勝目]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014333421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014333421000.html"/>
+        <updated>2024-01-24T12:19:46.000Z</updated>
+        <summary type="html"><![CDATA[大相撲初場所は終盤戦に入り11日目、横綱昇進に挑む大関 霧島は関脇 大栄翔に勝って2敗を守りました。また、1敗で単独トップの関脇 琴ノ若も勝ち、2場所連続のふた桁勝利となる10勝目を挙げました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
