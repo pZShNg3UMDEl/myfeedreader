@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T20:38:54.062Z</updated>
+    <updated>2024-01-24T20:50:28.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 江西省の雑居ビルで火災 少なくとも39人死亡 9人けが]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html"/>
+        <updated>2024-01-24T20:36:27.000Z</updated>
+        <summary type="html"><![CDATA[中国内陸部・江西省にある雑居ビルで24日に火災が起き、これまでに39人が死亡しました。警察当局は、ビルで行われていた工事中に火花が引火した可能性があるとして、詳しい原因を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【映画】『魔女の宅急便』作者明かす本音、ジブリ映画観て驚き　原作と異なる展開に「あれ？と思いました」]]></title>
         <id>https://itainews.com/archives/2032473.html</id>
