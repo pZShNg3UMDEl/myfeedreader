@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T04:31:23.194Z</updated>
+    <updated>2024-01-24T04:50:48.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名神高速道路 岐阜県関ケ原付近 複数車両が動けない状態に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332611000.html"/>
+        <updated>2024-01-24T04:34:58.000Z</updated>
+        <summary type="html"><![CDATA[雪のため通行止めとなっている名神高速道路の岐阜県の関ケ原付近では、車両が動きにくい状況となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【イベント】予約不要・気軽に楽しめるイベントが沢山♪1～2月に開催される厚木市主催のイベント情報まとめてみた！]]></title>
         <id>https://atsugi-lab.com/?p=40499</id>
