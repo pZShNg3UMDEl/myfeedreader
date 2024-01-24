@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T04:50:48.786Z</updated>
+    <updated>2024-01-24T05:29:19.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川県内 半数余が「自主避難所」中長期的な医療支援など課題]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332531000.html"/>
+        <updated>2024-01-24T05:12:10.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発生から3週間余りがたつ中、石川県内では、いまも1万人余りが避難所で生活を続けていますが、被災した13の市と町にある300か所余りの避難所のうち、自治体ではなく、地域の人たちがみずから運営する「自主避難所」が、半数余りにのぼることが、県への取材で分かりました。「自主避難所」は、公的な支援などが行き届きにくく、中長期的な医療支援の態勢に懸念があり、どのように支えていくのかも課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリエイティブ、2つのカメラを切り替えられるウェブカメラ「Project Watcher」]]></title>
+        <id>https://gadget.phileweb.com/?p=66708</id>
+        <link href="https://gadget.phileweb.com/post-66708/"/>
+        <updated>2024-01-24T05:08:57.000Z</updated>
+        <summary type="html"><![CDATA[クリエイティブメディアは、デュアルカメラ搭載ウェブカメラ「Creative Project Watcher」を1月下旬に発売する。同社オンラインストアにおける販売価格は47,800円（税込）。 「フロント フェイシング用カメラ 01」と「オブジェクト フェイシング用カメラ 02」という2基のカメラか […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元・安倍派幹部　西村康稔　JR明石駅前で『私はやってない潔白だ』のビラ配布で、地元有権者失笑]]></title>
+        <id>https://itainews.com/archives/2032463.html</id>
+        <link href="https://itainews.com/archives/2032463.html"/>
+        <updated>2024-01-24T05:01:48.000Z</updated>
+        <summary type="html"><![CDATA[1 ：名無しさん＠涙目です。：2024/01/23(火) 16:08:53.86 ID:mn0P9Dno0●.net 
+
+
+
+
+
+
+
+
+
+
+地元の兵庫県明石市の明石駅前でビラ配りを行なった #西村康稔 前経産相ですが、ビラ配りの報道を見たと思われる有権者からは怒りの投稿が相次いでいます。 https://t.co/9CEJYgP...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【噂】SEGA、Switch2 向けに20本のタイトルを用意か！？]]></title>
+        <id>https://switchsoku.com/?p=97425</id>
+        <link href="https://switchsoku.com/soft/sega/97425"/>
+        <updated>2024-01-24T05:00:57.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/01/24(水) 11:52:38.28 ID:Zs1kUFQBd 162 名無しさ […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名神高速道路 岐阜県関ケ原付近 複数車両が動けない状態に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240124/k10014332611000.html</id>
@@ -31696,20 +31747,6 @@ The institute will present nine papers during the conference this year. Two pres
         <summary type="html"><![CDATA[ロボットアニメ「シンカリオン」シリーズのテレビアニメ最新作「シンカリオン チェンジ ザ ワールド」の制作が決定した。特報映像が公開されている。 「シンカリオン」は、ジェイアール東日本企画、小学館...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STMicroelectronics releases new multizone time-of-flight sensor]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/stmicroelectronics-releases-new.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/stmicroelectronics-releases-new.html"/>
-        <updated>2023-12-25T17:26:00.001Z</updated>
-        <summary type="html"><![CDATA[Original article: https://www.eejournal.com/industry_news/next-generation-multizone-time-of-flight-sensor-from-stmicroelectronics-boosts-ranging-performance-and-power-saving/
-Next-generation multizone time-of-flight sensor from STMicroelectronics boosts ranging performance and power saving 
-Target applications include human-presence sensing, gesture recognition, robotics, and other industrial uses
-Geneva, Switzerland, December 14, 2023 – STMicroelectronics’ VL53L8CX, the latest-generation 8×8 multizone time-of-flight (ToF) ranging sensor, delivers a range of improvements including greater ambient-light immunity, lower power consumption, and enhanced optics.
-ST’s direct-ToF sensors combine a 940nm vertical cavity surface emitting laser (VCSEL), a multizone SPAD (single-photon avalanche diod…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
