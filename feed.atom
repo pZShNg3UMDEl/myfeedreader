@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T19:35:47.455Z</updated>
+    <updated>2024-01-24T19:50:38.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名神高速 関ヶ原IC付近の立往生 すべて解消 発生から約19時間]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333881000.html"/>
+        <updated>2024-01-24T19:38:53.000Z</updated>
+        <summary type="html"><![CDATA[大雪のため名神高速道路では、岐阜県の関ヶ原インターチェンジ付近で24日午前9時ごろから車の立往生が続いていましたが、中日本高速道路によりますと発生からおよそ19時間たった25日午前4時にすべて解消しました。立往生は上り下りとも一時5キロを超え、最大でおよそ770台が滞留していました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富山湾の海底 斜面の一部 深さ40mにわたり崩壊 海保の調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333561000.html"/>
+        <updated>2024-01-24T19:26:44.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の震源域に近い富山湾の海底を海上保安庁が調査した結果、斜面の一部が深さ40メートルにわたって崩壊していたことがわかりました。富山市では大地震の発生からわずか3分後に津波が押し寄せていて、専門家は「海底で地すべりが起きて津波が押し寄せたことを裏付ける重要な調査結果だ」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島を流れる6つの川の計14か所で河道閉塞]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240125/k10014333711000.html</id>
@@ -32421,16 +32441,6 @@ The institute will present nine papers during the conference this year. Two pres
         <summary type="html"><![CDATA[劇場版シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」の最新予告が披露された。津田健次郎が演じる新選組副長・土方歳三が登場している。 時は幕末、星の形の鍔（つば）がついた刀・星...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【松屋】ブラウンソースハンバーグ定食【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=231176</id>
-        <link href="https://foodfighter.jp/matsuya-2023-1226"/>
-        <updated>2023-12-26T07:46:54.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼チェー […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>

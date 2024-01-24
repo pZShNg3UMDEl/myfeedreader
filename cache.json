@@ -5731,6 +5731,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333881000.html",
+          "author": null,
+          "description": "大雪のため名神高速道路では、岐阜県の関ヶ原インターチェンジ付近で24日午前9時ごろから車の立往生が続いていましたが、中日本高速道路によりますと発生からおよそ19時間たった25日午前4時にすべて解消しました。立往生は上り下りとも一時5キロを超え、最大でおよそ770台が滞留していました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333881000.html",
+          "publishedOn": "2024-01-24T19:38:53.000Z",
+          "wordCount": 405,
+          "title": "名神高速 関ヶ原IC付近の立往生 すべて解消 発生から約19時間",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333561000.html",
+          "author": null,
+          "description": "能登半島地震の震源域に近い富山湾の海底を海上保安庁が調査した結果、斜面の一部が深さ40メートルにわたって崩壊していたことがわかりました。富山市では大地震の発生からわずか3分後に津波が押し寄せていて、専門家は「海底で地すべりが起きて津波が押し寄せたことを裏付ける重要な調査結果だ」と指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333561000.html",
+          "publishedOn": "2024-01-24T19:26:44.000Z",
+          "wordCount": 584,
+          "title": "富山湾の海底 斜面の一部 深さ40mにわたり崩壊 海保の調査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333561_2401242215_0124221929_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333711000.html",
           "author": null,
           "description": "能登半島地震で、崩れた斜面の土砂が川を塞ぐ河道閉塞が、能登半島を流れる6つの川の合わせて14か所で起きていることが、国土交通省の分析で分かりました。完全にせき止められている箇所はなく、現時点で川の水位は上昇していないということです。",
@@ -19946,16 +19966,6 @@
           "wordCount": 1835,
           "title": "【セブンイレブン】はらこめし（はらこ飯）【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2023/12/8977b41eb09b8485e429fbc548729f89.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=231176",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼チェー […]",
-          "link": "https://foodfighter.jp/matsuya-2023-1226",
-          "publishedOn": "2023-12-26T07:46:54.000Z",
-          "wordCount": 1889,
-          "title": "【松屋】ブラウンソースハンバーグ定食【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2023/12/d8d28783816ac85374e92f68828296b8.jpg"
         }
       ]
     },
