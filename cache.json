@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120449/",
+          "author": null,
+          "description": "宮崎駿が手がけた劇場アニメ「名探偵ホームズ」のデジタルリマスター版が、全国のイオンシネマほか117館で3月22日から順次2週間限定で上映されることが決定した。 「名探偵ホームズ」は、コナン・ドイ...",
+          "link": "https://anime.eiga.com/news/120449/",
+          "publishedOn": "2024-01-24T07:00:00.000Z",
+          "wordCount": 792,
+          "title": "宮崎駿が手がけた劇場版「名探偵ホームズ」リマスター版が全国117館で上映　片渕須直らも制作に参加",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120454/",
           "author": null,
           "description": "推していたアイドルの子どもに生まれ変わる「転生もの」として、社会現象を巻き起こした「【推しの子】」の実写化が決定した。Amazonと東映の共同プロジェクトで、2024年冬にドラマシリーズをAma...",
@@ -2727,6 +2742,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97428",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/24(水) 10:36:09.23 ID:rv2PphMC0 『パルワールド』 […]",
+          "link": "https://switchsoku.com/nintendo/97428",
+          "publishedOn": "2024-01-24T07:00:02.000Z",
+          "wordCount": 10000,
+          "title": "任天堂、『パルワールド』の“ポケモン”Modに申し立て",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/palworld.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97425",
           "author": "SWITCH速報",
@@ -5615,6 +5640,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332901000.html",
+          "author": null,
+          "description": "能登半島地震で被災した地域を支援しようとする動きは広がり、ふるさと納税を通じた寄付や石川県に寄せられた義援金などは24日までに100億円を超えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332901000.html",
+          "publishedOn": "2024-01-24T07:07:31.000Z",
+          "wordCount": 647,
+          "title": "被災地支援のふるさと納税や石川県への義援金 100億円超に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332901_2401241520_0124153806_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332931000.html",
+          "author": null,
+          "description": "自動車メーカーのダイハツ工業は、車体側面が衝突した際にすべてのドアが施錠されるおそれがあるとして、2車種で、32万台余りのリコールを国土交通省に届け出ました。この不具合は、国の認証を不正に取得した問題を調査するなかで、明らかになったということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332931000.html",
+          "publishedOn": "2024-01-24T06:56:35.000Z",
+          "wordCount": 490,
+          "title": "ダイハツ 32万台余リコール 車体側面衝突で全ドア施錠のおそれ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332931_2401241541_0124155506_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332731000.html",
+          "author": null,
+          "description": "26日に召集される通常国会を前に自民党と公明党の幹事長らが会談し、自民党の派閥の政治資金パーティーをめぐる事件を受けて、再発防止を図るため政治資金規正法の改正に向けて野党側と協議する方針を確認しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332731000.html",
+          "publishedOn": "2024-01-24T06:49:13.000Z",
+          "wordCount": 684,
+          "title": "“政治資金規正法の改正へ 野党側と協議” 自民・公明幹事長ら",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332731_2401241521_0124154323_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332891000.html",
           "author": null,
@@ -18263,6 +18318,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=233891",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「肉の旨み味わう 牛めし」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃 […]",
+          "link": "https://foodfighter.jp/711sej-gyumeshi-2024",
+          "publishedOn": "2024-01-24T06:56:15.000Z",
+          "wordCount": 1841,
+          "title": "【セブンイレブン】肉の旨み味わう 牛めし【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/d28714b107b9b447c42a853f7cee7420.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=233866",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouTube […]",
@@ -24600,6 +24665,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032461.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/01/23(火) 12:20:44.63 ID:jU1gcOFN0●.net \n\n\n\n\n\n\n\n\n「理解できず３度見しました」　リアルすぎるイチゴサンドの正体に驚きの声　描いたのは日本画家 https://t.co/FJJdgLUppN#料理 #日本画 @_aya_1011_— Hint-Pot（ヒントポット） (...",
+          "link": "https://itainews.com/archives/2032461.html",
+          "publishedOn": "2024-01-24T07:01:50.000Z",
+          "wordCount": 2355,
+          "title": "日本画家「おいしそうなイチゴサンドでしょ」お前ら「○○○にみえる」「○〇〇」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/6/e6edfa8f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032465.html",
           "author": "damono3856",
