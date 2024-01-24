@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120450/",
+          "author": null,
+          "description": "「機動戦士ガンダムSEED FREEDOM」が1月26日に公開されることを記念して、メインキャラクターのキラ・ヤマトを特集した「機動戦士ガンダムSEED キラ・ヤマトぴあ」が1月22日に発売され...",
+          "link": "https://anime.eiga.com/news/120450/",
+          "publishedOn": "2024-01-24T03:00:00.000Z",
+          "wordCount": 808,
+          "title": "劇場版「ガンダムSEED」公開記念「キラ・ヤマトぴあ」発売中　キラ尽くしの中面ページが限定公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120448/",
           "author": null,
           "description": "公開中の劇場アニメ「鬼太郎誕生 ゲゲゲの謎」の第5弾入場特典として、ビジュアルカード（1種）が1月27日から配布される。特典カードの絵柄は、キャラクターデザイン・谷田部透湖が新たに描き下ろしたイ...",
@@ -5585,6 +5600,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332581000.html",
+          "author": null,
+          "description": "自民党安倍派の政治資金パーティーをめぐる事件で、政治資金規正法違反の虚偽記載の罪で略式起訴され自民党を離党した谷川弥一 衆議院議員が24日、議員を辞職しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332581000.html",
+          "publishedOn": "2024-01-24T03:20:55.000Z",
+          "wordCount": 659,
+          "title": "谷川弥一氏が議員辞職 政治資金事件で略式起訴 長崎3区補選へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332581_2401241204_0124122057_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332501000.html",
+          "author": null,
+          "description": "石川県珠洲市のデイサービスの事業所では、およそ3週間ぶりに利用者の受け入れを再開しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332501000.html",
+          "publishedOn": "2024-01-24T02:58:58.000Z",
+          "wordCount": 663,
+          "title": "珠洲 デイサービス事業所受け入れ再開 陸自の医師らが体調確認",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332501_2401241149_0124115901_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332551000.html",
+          "author": null,
+          "description": "能登半島地震への対応などをめぐり衆議院予算委員会で集中審議が行われ、立憲民主党の泉代表が住宅に被害を受けた世帯への支援金の上限を引き上げるよう求めたのに対し、岸田総理大臣は実情に合わせて追加的な支援を検討していく考えを示しました。また、被災地の支援のため、26日にも今年度予算の予備費から1500億円規模の支出を決定する考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332551000.html",
+          "publishedOn": "2024-01-24T02:58:08.000Z",
+          "wordCount": 701,
+          "title": "岸田首相 地震の被災地支援で1500億円規模の支出へ 衆院予算委",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332551_2401241153_0124115811_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332431000.html",
           "author": null,
@@ -19490,6 +19535,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/23/news040.html",
+          "author": null,
+          "description": "回は歯を削ったりする歯科用ハンドピースコントローラーの不具合調査を報告する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/23/news040.html",
+          "publishedOn": "2024-01-24T02:30:00.000Z",
+          "wordCount": 2635,
+          "title": "電解コンデンサーの下にパターンを引いたらこうなる",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/23/l_tt240123_Wired_001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/24/news065.html",
           "author": null,
           "description": "日清紡マイクロデバイスは、2回路入り高音質オーディオ用オペアンプ「NL8802」を発売した。動作電圧が±22Vと高く、業務用やHiFiオーディオ機器といった高いダイナミックレンジが求められる機器に適する。",
@@ -23000,6 +23055,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=66670",
+          "author": "多根清史",
+          "description": "アップルが自社ブランドの完全自動運転EV（電気自動車）、通称「アップルカー」開発に長年にわたり取り組んでいることは、数々の情報や噂話から確実視されている。元従業員が自動運転に関する企業秘密を盗み出し、裁判で有罪を認めたこともあった。 その最新情報として、同社が市場への投入を優先して「それほど野心的で […]",
+          "link": "https://gadget.phileweb.com/post-66670/",
+          "publishedOn": "2024-01-24T02:47:20.000Z",
+          "wordCount": 752,
+          "title": "“アップルカー”、2028年発売の可能性。自動運転レベルは引き下げか",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_435423085.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=66634",
           "author": "Munenori Taniguchi",
           "description": "ここ最近のAIの進歩は、それによって人々の雇用が失われるのではないか、という不安を静かにわき起こらせている。しかし、MIT CSAIL（コンピュータ科学・人工知能研究所）、MIT Sloan、The Productivity InstituteそしてIBM Institute for Busines […]",
@@ -24390,6 +24455,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032458.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/01/23(火) 16:40:35.79 ID:s+bnJGE50●.net\n\n\n\n\n\n\n\n\n\n\n「生理痛の痛みってどのくらい？」生理痛体験研修を通して生理について考える https://t.co/6jT3Sq4FXs— RKK NEWS DIG Powered by JNN (@rkkhodo) January 23, 2024 \n\n\n\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2032458.html",
+          "publishedOn": "2024-01-24T03:01:49.000Z",
+          "wordCount": 2553,
+          "title": "女子学生「男さんでも生理の痛みがわかる機械を発明しました。えい！」ビリビリ！男さん「ぎゃああ！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/5/656a6102-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032456.html",
           "author": "yonepo665sfr",
