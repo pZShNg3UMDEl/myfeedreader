@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T10:33:22.075Z</updated>
+    <updated>2024-01-24T10:50:20.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア軍用機 墜落か “捕虜のウクライナ軍兵士65人など搭乗”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014333411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014333411000.html"/>
+        <updated>2024-01-24T10:32:23.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの国営通信社は、ロシア国防省の話として、ウクライナと国境を接している西部のベルゴロド州で、ロシア軍の軍用機が墜落したと伝えました。墜落したのはイリューシン76型輸送機で、ロシア国営のタス通信社は、捕虜となったウクライナ軍の兵士65人が乗っていたほか、ロシア軍の乗員6人や護衛の兵士3人が乗っていたとしています。ロシア大統領府のペスコフ報道官は「これから調査する」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技能実習生「会社も被害、戻れない…」【被災地の声 24日】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332571000.html"/>
+        <updated>2024-01-24T10:14:31.000Z</updated>
+        <summary type="html"><![CDATA[「怖かったです」地震が起きた時、ベトナム人の女性は工場で仕事中でした。職場の被害は大きく、仕事に戻れるめどは立っていません。働きながら技術を学ぶ外国人技能実習生が、地域の産業で大きな役割を果たしてきた能登地方。異国で被災し、仕事や住む場所はどうなるのか、実習生の不安の声です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[参院予算委 能登半島地震への対応など集中審議]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240124/k10014333391000.html</id>
