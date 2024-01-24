@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T20:50:28.356Z</updated>
+    <updated>2024-01-24T21:12:06.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小児・「AYA世代」 がん患者 10年後の生存率 初公表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333521000.html"/>
+        <updated>2024-01-24T20:57:25.000Z</updated>
+        <summary type="html"><![CDATA[全国のがん拠点病院などでがんと診断された人のデータをもとに国立がん研究センターが小児や10代後半から30代の「AYA世代」と呼ばれる患者の10年後の生存率を初めて集計し、公表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国 江西省の雑居ビルで火災 少なくとも39人死亡 9人けが]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html</id>
@@ -32478,16 +32488,6 @@ The institute will present nine papers during the conference this year. Two pres
         <link href="https://anime.eiga.com/news/column/eiga_ranking/120294/"/>
         <updated>2023-12-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[12月22日～24日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「劇場版 SPY×FAMILY CODE: White」が首位スタートを切った。作品は、集英社の漫画アプリ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「おじゃる丸」がNHK大河ドラマ「光る君へ」と“平安”コラボ　第1弾のミニ番組が放送開始]]></title>
-        <id>https://anime.eiga.com/news/120291/</id>
-        <link href="https://anime.eiga.com/news/120291/"/>
-        <updated>2023-12-26T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eテレで放送中のアニメ「おじゃる丸」と、2024年1月7日から放送を開始するNHK大河ドラマ「光る君へ」のコラボレーションが決定した。1年間を通じて放送を中心に展開されるコラボの第1弾として、1...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
         </author>

@@ -2744,21 +2744,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120291/",
-          "author": null,
-          "description": "Eテレで放送中のアニメ「おじゃる丸」と、2024年1月7日から放送を開始するNHK大河ドラマ「光る君へ」のコラボレーションが決定した。1年間を通じて放送を中心に展開されるコラボの第1弾として、1...",
-          "link": "https://anime.eiga.com/news/120291/",
-          "publishedOn": "2023-12-26T09:00:00.000Z",
-          "wordCount": 684,
-          "title": "「おじゃる丸」がNHK大河ドラマ「光る君へ」と“平安”コラボ　第1弾のミニ番組が放送開始",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5715,6 +5700,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333521000.html",
+          "author": null,
+          "description": "全国のがん拠点病院などでがんと診断された人のデータをもとに国立がん研究センターが小児や10代後半から30代の「AYA世代」と呼ばれる患者の10年後の生存率を初めて集計し、公表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333521000.html",
+          "publishedOn": "2024-01-24T20:57:25.000Z",
+          "wordCount": 1107,
+          "title": "小児・「AYA世代」 がん患者 10年後の生存率 初公表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333521_2401250550_0125055116_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html",
           "author": null,
