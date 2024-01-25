@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T06:38:01.563Z</updated>
+    <updated>2024-01-25T06:50:46.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キム総書記 北朝鮮の地方経済「極めて情けない状態」指摘]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014334321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014334321000.html"/>
+        <updated>2024-01-25T06:36:38.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮のキム・ジョンウン（金正恩）総書記は、北朝鮮の地方経済について「極めて情けない状態だ」と指摘し、今後10年にわたって、立て直しを進める姿勢を強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、iOS 18に「生成AIベースのSiri」搭載か。オンデバイス&動画や音声も扱える可能性]]></title>
         <id>https://gadget.phileweb.com/?p=66883</id>
