@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T03:36:59.628Z</updated>
+    <updated>2024-01-25T03:50:33.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -84,6 +84,26 @@
         <summary type="html"><![CDATA[アップルの次期フラッグシップ機のうち、最上位モデル「iPhone 16 Pro Max」に関しては、様々な噂が伝えられてきた。画面サイズが6.9インチとなり「iPhone史上最大」になることや、望遠レンズがさらに強化されるという具合だ。 それらに続き、より大幅に進化したメインカメラセンサーを搭載し、 […]]]></summary>
         <author>
             <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金沢と被災地域結ぶ北陸鉄道の特急バス 一部で運行再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014334021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014334021000.html"/>
+        <updated>2024-01-25T02:59:45.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の影響で運休となっていた、金沢市と被災した地域を結ぶバスの運行が25日から一部で再開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 新型戦略巡航ミサイル「プルファサル」発射実験を実施]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333901000.html"/>
+        <updated>2024-01-25T02:53:38.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮は、新型の戦略巡航ミサイル「プルファサル」の初めての発射実験を、24日に行ったと発表しました。北朝鮮は、日本や韓国にあるアメリカ軍の基地などをたたくため巡航ミサイルの性能の向上を図っています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
