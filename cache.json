@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120465/",
+          "author": null,
+          "description": "2024年放送予定のテレビアニメ「ハイガクラ」に大塚剛央、石川界人、Lynn、下野紘、日野聡の出演が決定した。 同作は、高山しのぶ氏が「ゼロサムオンライン」で連載中の中華風ファンタジー漫画が原作...",
+          "link": "https://anime.eiga.com/news/120465/",
+          "publishedOn": "2024-01-25T23:00:00.000Z",
+          "wordCount": 840,
+          "title": "中華風ファンタジー「ハイガクラ」主要キャストに大塚剛央、石川界人、Lynn、下野紘、日野聡",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120440/",
           "author": null,
           "description": "テレビアニメ「ただいま、おかえり」の放送、配信が今春にスタートすることが決定し、田丸篤志、森川智之、種崎敦美の出演が明らかになった。特報PVも公開されている。 シリーズ累計360万部を突破した、...",
@@ -2693,21 +2708,6 @@
           "publishedOn": "2023-12-27T12:00:00.000Z",
           "wordCount": 749,
           "title": "「神は遊戯に飢えている。」24年4月放送開始　立花日菜、中村カンナ、小清水亜美が出演、立花はED主題歌も担当",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120232/",
-          "author": null,
-          "description": "キャラクターデザイナー・アニメーターの高橋久美子（※高ははしごだか）の初めての作品集「高橋久美子アニメーションワークス」が、2024年1月19日に発売される。 同書には、高橋が手がけた「カードキ...",
-          "link": "https://anime.eiga.com/news/120232/",
-          "publishedOn": "2023-12-27T11:00:00.000Z",
-          "wordCount": 727,
-          "title": "「CCさくら」「ガンダムUC」「桜蘭高校ホスト部」キャラデザ・高橋久美子の初画集、コミックマーケットで先行発売",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -5760,6 +5760,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335141000.html",
+          "author": null,
+          "description": "パリオリンピックの開幕まで26日で半年です。新型コロナの影響で開催が1年延期され、原則、無観客となった異例の東京大会を経て、スポーツ界は選手の世代交代や強化策の停滞、それにスポンサー離れといった課題に直面していて、自国開催の大会が残したものを半年後のパリ大会での成果につなげられるかが問われることになります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014335141000.html",
+          "publishedOn": "2024-01-25T22:58:25.000Z",
+          "wordCount": 875,
+          "title": "パリオリンピック開幕まできょうで半年 異例の東京大会を経て",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335141_2401260423_0126042340_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335011000.html",
           "author": null,
@@ -29414,16 +29424,6 @@
           "wordCount": 3381,
           "title": "海外の料理を「未開グルメ」と表現 日テレのグルメ番組にSNSで「差別では」と批判続々",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/6/b6977fb8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031642.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2023/12/26(火) 13:56:46.66 ID:HU21SRuH0●.net\n\n\n\n\n\n\n\n\n\nぞくぞくと閉店…「いきなりステーキ」はなぜこれほど凋落してしまったのか : https://t.co/SrgA2EYlOI #現代ビジネス— 現代ビジネス (@gendai_biz) December 25, 2023 \n\n\n\n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2031642.html",
-          "publishedOn": "2023-12-27T11:01:42.000Z",
-          "wordCount": 3599,
-          "title": "ぞくぞくと閉店…「いきなりステーキ」はなぜこれほど凋落してしまったのか",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/9/59a8d5cd-s.png"
         }
       ]
     },
