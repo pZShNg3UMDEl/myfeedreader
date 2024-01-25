@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T05:39:12.910Z</updated>
+    <updated>2024-01-25T05:50:25.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[ニューヨークを拠点とする電気自動車スタートアップ、Olympian Motorsは、レトロでありつつ愛嬌もある外観の高級EV「Model 01」を開発している。 Model 01は4人乗り4ドア、RWDのクラシックなセダンだが、クラシックなのは外観だけでなく、インテリアにも木材やカシミア、シルクとい […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京23区の新築マンション平均価格 初めて1億円超える]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014334271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014334271000.html"/>
+        <updated>2024-01-25T05:28:43.000Z</updated>
+        <summary type="html"><![CDATA[不動産の調査会社のまとめによりますと、東京23区で去年1年間に発売された新築マンションの平均価格は1億1483万円と初めて1億円を超えました。調査会社は、資材価格の高騰などを背景に工事費が上昇したことに加え、利便性が高い都心でのマンション開発が相次いでいることが影響したとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物価高・生成AI題材に川柳を詠む 「サラ川」ことしの入選作は]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014334141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014334141000.html"/>
+        <updated>2024-01-25T05:16:34.000Z</updated>
+        <summary type="html"><![CDATA[世相や働く人の本音などをユーモアたっぷりに詠む川柳コンクールの入選作が発表され、物価高や生成AIを題材にした100の作品が選ばれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
