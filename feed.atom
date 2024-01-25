@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T10:32:53.496Z</updated>
+    <updated>2024-01-25T10:50:23.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪・関西万博の費用検証など 政府の有識者委が初会合]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240125/k10014334661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014334661000.html"/>
+        <updated>2024-01-25T10:42:23.000Z</updated>
+        <summary type="html"><![CDATA[来年開催される大阪・関西万博にかかる費用の検証や、計画の進捗（しんちょく）を点検するための政府の有識者委員会の初会合が開かれ、出席した委員からは資材価格の変動などを踏まえて、コスト管理を進める必要があるといった意見が出ました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全焼した永井豪記念館 館内の原画やフィギュアは燃えず 輪島]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240125/k10014334771000.html</id>
