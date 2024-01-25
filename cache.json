@@ -2684,36 +2684,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120234/",
-          "author": null,
-          "description": "「バービー」の大成功を受け、玩具メーカーのマテルは「アメリカン・ガール」人形の映画化準備に着手した。 「アメリカン・ガール」とは1986年にプレザント・カンパニーが発売した人形シリーズで、アメリ...",
-          "link": "https://anime.eiga.com/news/120234/",
-          "publishedOn": "2023-12-26T13:00:00.000Z",
-          "wordCount": 647,
-          "title": "「バービー」に続くか？　「アメリカン・ガール」人形が映画化",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120299/",
-          "author": null,
-          "description": "テレビアニメ「鴨乃橋ロンの禁断推理」1st Seasonが12月25日に最終回を迎え、2nd Seasonが制作中であることが明らかになった。鴨乃橋ロン役の阿座上洋平、一色都々丸役の榎木淳弥は、...",
-          "link": "https://anime.eiga.com/news/120299/",
-          "publishedOn": "2023-12-26T12:00:00.000Z",
-          "wordCount": 718,
-          "title": "「鴨乃橋ロンの禁断推理」2nd Season制作決定　阿座上洋平＆榎木淳弥は“M家との対決”に向け「楽しみです」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2722,6 +2692,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97457",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/24(水) 22:00:56.78 ID:PIcpIjPQ0 【Side Or […]",
+          "link": "https://switchsoku.com/soft/splatoon3/97457",
+          "publishedOn": "2024-01-25T00:00:43.000Z",
+          "wordCount": 10084,
+          "title": "スプラトゥーン３DLC「サイド・オーダー」2月22日配信決定！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/splatoon3-sideorder.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97448",
           "author": "SWITCH速報",
@@ -5670,6 +5650,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333921000.html",
+          "author": null,
+          "description": "ガザ地区でのイスラエル軍の攻撃が、パレスチナ人に対するジェノサイド、集団殺害にあたるとして南アフリカが軍事作戦の停止などを求めた訴訟で、国際司法裁判所は作戦停止を命じる暫定的な措置を出すかどうかの判断を26日に示すことになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333921000.html",
+          "publishedOn": "2024-01-25T00:34:52.000Z",
+          "wordCount": 568,
+          "title": "南アがイスラエルの軍事作戦停止など求めた訴訟 26日に判断へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333921_2401250927_0125093454_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333791000.html",
           "author": null,
@@ -20035,6 +20025,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/25/news033.html",
+          "author": null,
+          "description": "ams OSRAMは、ウェアラブルデバイス向けのバイタルサイン測定用AFE「AS7058」を発表した。低ノイズ特性により信号対雑音比が120dBと高く、光電式容積脈波記録法の測定性能向上に寄与する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/25/news033.html",
+          "publishedOn": "2024-01-25T00:00:00.000Z",
+          "wordCount": 2673,
+          "title": "IEC 60601-2-47準拠、低ノイズのバイタルサイン測定用AFE",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/25/cover_news033.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/23/news040.html",
           "author": null,
           "description": "回は歯を削ったりする歯科用ハンドピースコントローラーの不具合調査を報告する。",
@@ -20221,6 +20221,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67214",
+          "author": "299",
+          "description": "子猫のぽちゃくんがお布団のなかに入って寝ていると、パパ猫がこっそりと寝床の中に入ってきました。 最初はぽちゃくんはパパ猫の侵入に気づいていなかったようですが、さすがにパパ猫がウロウロしていると目が覚めてしまったようです。...\n子猫の寝床に突如侵入してきたパパ猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67214",
+          "publishedOn": "2024-01-25T00:00:23.000Z",
+          "wordCount": 1625,
+          "title": "子猫の寝床に突如侵入してきたパパ猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67214.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=67174",
           "author": "299",
@@ -28582,6 +28592,26 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40577",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ つい先日までガッツリ工事が行われており、いつオープンになるのかと気になっていた 厚木一番街の「もつ焼しげ吉　本厚木店」。 以前の記事 ・【キニナル！】1月中旬オープン予定だった「バーガーキング 本厚木駅前…",
+          "link": "https://atsugi-lab.com/open-motsuyaki-shigekichi202401/",
+          "publishedOn": "2024-01-25T00:30:30.000Z",
+          "wordCount": 1151,
+          "title": "【開店・続報】厚木一番街に「もつ焼しげ吉　本厚木店」予定通り1月26日にオープンするみたい☆［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/open-shigekichi2024.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=39905",
+          "author": "fumie",
+          "description": "塊のお肉を見ると食欲とワクワクが止まりません！！ふみえ＠あつらぼです♪ 今回は、ガッツリとお肉が食べたい気分の時にオススメのお店、 シュラスコレストラン「ALEGRIA（アレグリア）海老名」のランチに厚木らぼ編集部でお邪魔してまいりました！…",
+          "link": "https://atsugi-lab.com/lunchreport-alegriaebina2023/",
+          "publishedOn": "2024-01-25T00:09:24.000Z",
+          "wordCount": 1214,
+          "title": "【海老名】目の前で肉を切るパフォーマンスも必見♪「ALEGRIA（アレグリア）海老名」でシュラスコランチを堪能してきた♥",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/alegria2023.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=40499",
           "author": "fumie",
