@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T21:11:13.948Z</updated>
+    <updated>2024-01-25T21:21:22.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国際司法裁判所 ガザ攻撃めぐる暫定的な措置 今夜にも判断へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335121000.html"/>
+        <updated>2024-01-25T21:12:20.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍によるガザ地区への攻撃がパレスチナ人に対するジェノサイド、集団殺害などにあたるとして、南アフリカが国際司法裁判所に訴えていた訴訟で、裁判所は日本時間の26日夜、判決を出すまでの間の暫定的な措置について判断を示すことになっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イラン テヘランの病院で火災 高層階まで燃え広がる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240126/k10014335251000.html</id>
@@ -33974,16 +33984,6 @@ The institute will present nine papers during the conference this year. Two pres
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム BIGパフェ 巨峰＆マスカット」を世界一詳しく調査しました。   公式Yo […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胃を振動させる「ダイエット用カプセル」が開発中。ブタによる実験では効果アリ]]></title>
-        <id>https://gadget.phileweb.com/?p=64725</id>
-        <link href="https://gadget.phileweb.com/post-64725/"/>
-        <updated>2023-12-27T09:15:15.000Z</updated>
-        <summary type="html"><![CDATA[科学者と技術者からなる研究チームが、ダイエット用の振動型摂取型生体電子刺激装置（Vibratory Ingestible BioElectronic Stimulator：VIBES）に関する実験結果をScience Advances誌に発表した。 VIBESは、一見するとただのカプセル薬だが、胃の […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
