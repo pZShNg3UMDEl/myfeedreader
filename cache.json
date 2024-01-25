@@ -6,6 +6,36 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120464/",
+          "author": null,
+          "description": "「劇場版ブルーロック EPIOSODE 凪」の新ビジュアルが公開された。 同ビジュアルは、主人公・凪誠士郎をはじめ、御影玲王、潔世一、蜂楽廻、國神錬介、千切豹馬、糸師凛の7人が、“エゴを表現した...",
+          "link": "https://anime.eiga.com/news/120464/",
+          "publishedOn": "2024-01-25T09:00:00.000Z",
+          "wordCount": 816,
+          "title": "「劇場版ブルーロック」7人の瞳に“エゴいオーラ”が宿るエゴイストビジュアル公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120463/",
+          "author": null,
+          "description": "オリジナルテレビアニメ「菜なれ花なれ」に中川梨花、中島由貴、武田羅梨沙多胡、石見舞菜香、佳原萌枝、伊藤美来の出演が決定した。キャラクターPVとキャラクターキービジュアルも公開されている。 「SH...",
+          "link": "https://anime.eiga.com/news/120463/",
+          "publishedOn": "2024-01-25T09:00:00.000Z",
+          "wordCount": 899,
+          "title": "P.A.WORKS制作「菜なれ花なれ」中川梨花、中島由貴らメインキャスト発表　キャラPV＆ビジュアルも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120461/",
           "author": null,
           "description": "漫画「殿と犬」のアニメ化が決定し、原作者の西田理英氏による描き下ろしティザービジュアルが披露された。 「COMIC ポラリス」で連載中の同作は、没落して貧乏長屋暮らしをおくる元武士の殿が、偶然出...",
@@ -5706,6 +5736,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014334581000.html",
+          "author": null,
+          "description": "能登半島地震の復旧・復興に向けた政府の支援策がまとまり、木造の仮設住宅も活用した住まいの確保策や、中小企業の施設復旧にかかる費用の補助制度などが盛り込まれました。また観光支援として、観光客の宿泊代の一部を補助する「北陸応援割」を実施するとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014334581000.html",
+          "publishedOn": "2024-01-25T09:01:01.000Z",
+          "wordCount": 643,
+          "title": "能登半島地震の復旧・復興に向けた政府の支援策まとまる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014334581_2401251750_0125175337_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014334561000.html",
+          "author": null,
+          "description": "心臓移植に関わる医師や医療関係者らが新たに「日本心臓移植学会」を設立し、代表の大阪大学の澤芳樹名誉教授は、心臓移植が必要な人の待機期間を短くするために、速やかに移植を受けられる仕組み作りを国などに働きかけていく考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014334561000.html",
+          "publishedOn": "2024-01-25T08:30:59.000Z",
+          "wordCount": 561,
+          "title": "心臓移植に関わる医師や医療関係者ら「日本心臓移植学会」設立",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014334561_2401251726_0125172913_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240125/k10014334461000.html",
           "author": null,
           "description": "2012年に自民党の谷垣元総裁を中心に結成された谷垣グループは25日、都内で遠藤前総務会長や中谷元防衛大臣ら幹部が会合を開き、政治団体としては解散する方針を確認しました。26日、所属議員が出席する総会を開き、正式に決める予定です。",
@@ -5724,6 +5774,16 @@
           "wordCount": 667,
           "title": "春闘 全労連 10％以上賃上げ要求を決定“ストライキも辞さず”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014334491_2401251636_0125171615_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014334441000.html",
+          "author": null,
+          "description": "子どもに接する仕事に就く人に性犯罪歴がないことを確認する制度「日本版DBS」の導入について、障害のある子どもがいる親などがこども家庭庁を訪れ、被害を訴えることが難しい子どもたちが守られるよう、制度の導入を急ぐよう求める要望書を提出しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014334441000.html",
+          "publishedOn": "2024-01-25T08:08:30.000Z",
+          "wordCount": 622,
+          "title": "「日本版DBS」 障害のある子どもいる親などが早期導入を要望",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014334441_2401251602_0125160631_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240125/k10014334361000.html",
@@ -25520,6 +25580,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032488.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/01/22(月) 22:01:57.03 ID:lxQeH8Fh0.net\n\n\n\n\n\n\n\n\n\n松本人志、文春に勝つには「女性との人間関係が必要…人はモノじゃない」　元テレ朝社員の弁護士が指摘（ENCOUNT） https://t.co/xFfV31VDQ4— 芸能スルース (@geinou_sleuth) Januar...",
+          "link": "https://itainews.com/archives/2032488.html",
+          "publishedOn": "2024-01-25T09:01:07.000Z",
+          "wordCount": 2374,
+          "title": "【朗報】文春、裁判を見越して名誉毀損対策もバッチリだった",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/d/fd4aebe0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032492.html",
           "author": "damono3856",
