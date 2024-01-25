@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T20:36:09.174Z</updated>
+    <updated>2024-01-25T20:50:26.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[札幌市教委 市立小中学校に 心身の健康管理アプリ導入へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014334881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014334881000.html"/>
+        <updated>2024-01-25T20:35:19.000Z</updated>
+        <summary type="html"><![CDATA[3年前の2021年に札幌市の市立中学校に通っていた当時1年生の女子生徒が自殺した問題を受けて、市の教育委員会は市立の小学校と中学校に通うすべての児童・生徒を対象に、いじめに関するアンケートや心身の健康管理を行うアプリを導入する方針を固めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民 茂木派 参議院側で複数議員が退会検討 動き広がるか焦点]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335031000.html"/>
+        <updated>2024-01-25T20:34:06.000Z</updated>
+        <summary type="html"><![CDATA[自民党の麻生派と茂木派を除く4つの派閥が解散を決める中、茂木派の小渕選挙対策委員長は派閥を退会する意向を明らかにしました。茂木派では、参議院側でも複数の議員が退会を検討しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震の被災地 厳しい冷え込み 輪島で-1.1度]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240126/k10014335081000.html</id>
