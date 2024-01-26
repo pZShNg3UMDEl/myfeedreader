@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T03:37:49.616Z</updated>
+    <updated>2024-01-26T03:50:27.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[他人の名義で不正にクレカ加盟店契約か 決済代行会社の3人逮捕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335481000.html"/>
+        <updated>2024-01-26T03:27:42.000Z</updated>
+        <summary type="html"><![CDATA[他人の名義で不正にクレジットカード会社の加盟店契約を結んだとして、決済代行会社の営業本部長ら3人が警視庁に逮捕されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、App Storeの規制緩和を発表。ゲームストリーミング許可、Xbox CloudやGeForce NOWも提供可能に]]></title>
         <id>https://gadget.phileweb.com/?p=66932</id>
