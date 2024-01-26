@@ -5742,16 +5742,6 @@
           "wordCount": 4065,
           "title": "Videos du jour: TinyML, Hamamatsu, ADI",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXM2JmjHHavsv0TqI65VZWgr0iwFAs6PhZCgzzN0wWW0lLxKKA7mxsNShnnLsYNN40udsi0MLVIiY1gETqQdolpGEoejbC7l5LfG_fKWtk5HyMu1Q=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2023/12/cea-leti-iedm-2023-papers-on-emerging.html",
-          "author": null,
-          "description": "From Semiconductor Digest: https://www.semiconductor-digest.com/cea-leti-will-present-gains-in-ultimate-3d-rf-power-and-quantum-neuromorphic-computing-with-emerging-devices/\nCEA-Leti Will Present Gains in Ultimate 3D, RF & Power, and Quantum & Neuromorphic Computing with Emerging Devices\nCEA-Leti papers at IEDM 2023, Dec. 9-13, in San Francisco, will present results in multiple fields, including ultimate 3D advances in radio frequency, such as performance improvement at cryogenic temperature.\nThe institute will present nine papers during the conference this year. Two presentations will highlight a breakthrough in 3D sequential integration and results pushing GaN/Si HEMT closer to GaN/SiC performance at 28 GHz:\n “3D Sequential Integration with Si CMOS Stacked on 28nm Industrial FDSOI with C…",
-          "link": "http://image-sensors-world.blogspot.com/2023/12/cea-leti-iedm-2023-papers-on-emerging.html",
-          "publishedOn": "2023-12-27T17:15:00.000Z",
-          "wordCount": 4279,
-          "title": "CEA-Leti IEDM 2023 papers on emerging devices",
-          "imageUrl": null
         }
       ]
     },
@@ -24634,6 +24624,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=66957",
+          "author": "Munenori Taniguchi",
+          "description": "ソニーは、PlayStation 5のシステムソフトウェアアップデート（24.01-08.60.00）により、Cronus Zenと呼ばれるコンバーター製品の使用を無効化した。 コンバーターとは、本来なら認証されたコントローラーしか使用できないところに、別のゲーム機のコントローラーや、PCのマウス／ […]",
+          "link": "https://gadget.phileweb.com/post-66957/",
+          "publishedOn": "2024-01-26T05:16:53.000Z",
+          "wordCount": 786,
+          "title": "PS5、システムアップデートで不正ツール「Cronus Zen」を排除",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/mwiii.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=67004",
+          "author": "多根清史",
+          "description": "米マイクロソフトが、Xbox事業と傘下のアクティビジョン・ブリザードを含めて、ゲーム部門の人員を約1900人レイオフすることが明らかになった。米Bloombergほか複数の海外メディアが、Xboxトップのフィル・スペンサー氏による内部メモを入手したと報じている。 この人員削減は、同社ゲーム部門全体（ […]",
+          "link": "https://gadget.phileweb.com/post-67004/",
+          "publishedOn": "2024-01-26T05:13:49.000Z",
+          "wordCount": 862,
+          "title": "マイクロソフト、ゲーム部門を約1900人解雇。パッケージゲーム販売部署も閉鎖の可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2108556695.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=66960",
           "author": "多根清史",
