@@ -2684,21 +2684,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120325/",
-          "author": null,
-          "description": "Cygamesが展開するクロスメディアコンテンツ「ウマ娘 プリティーダービー」が初めて映画化されることになり、「ウマ娘 プリティーダービー 新時代の扉」のタイトルで5月24日から全国で公開される...",
-          "link": "https://anime.eiga.com/news/120325/",
-          "publishedOn": "2023-12-27T15:30:00.000Z",
-          "wordCount": 750,
-          "title": "【「ウマ娘」初映画化】主人公はジャングルポケット　ビジュアル＆場面写真＆特報映像が完成",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5784,6 +5769,16 @@
           "wordCount": 801,
           "title": "通常国会召集 自民“円滑な運営に協力を” 野党“説明責任を”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335541_2401261147_0126115957_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335491000.html",
+          "author": null,
+          "description": "アメリカの有力紙、ワシントン・ポストは25日、関係者の話として、CIA＝中央情報局のバーンズ長官が数日以内にヨーロッパを訪れ、ハマスに捕らわれている人質全員の解放に向けて、イスラエルとハマスの仲介に取り組む計画だと報じました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014335491000.html",
+          "publishedOn": "2024-01-26T02:53:27.000Z",
+          "wordCount": 647,
+          "title": "“CIA長官訪欧 イスラエルとハマス仲介に取り組む計画” 米紙",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335491_2401261130_0126115329_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335501000.html",

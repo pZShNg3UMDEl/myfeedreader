@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T03:25:47.570Z</updated>
+    <updated>2024-01-26T03:37:49.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -68,6 +68,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335541000.html"/>
         <updated>2024-01-26T02:59:54.000Z</updated>
         <summary type="html"><![CDATA[通常国会の召集を受けて、与野党9党の国会対策委員長などが会談し、自民党が円滑な国会運営に協力を求めたのに対し、野党側は自民党の派閥の政治資金パーティーをめぐる事件について説明責任を果たすよう求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“CIA長官訪欧 イスラエルとハマス仲介に取り組む計画” 米紙]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335491000.html"/>
+        <updated>2024-01-26T02:53:27.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの有力紙、ワシントン・ポストは25日、関係者の話として、CIA＝中央情報局のバーンズ長官が数日以内にヨーロッパを訪れ、ハマスに捕らわれている人質全員の解放に向けて、イスラエルとハマスの仲介に取り組む計画だと報じました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -34136,16 +34146,6 @@ The institute will present nine papers during the conference this year. Two pres
 お母さんのおんぶでお部屋の散歩をするニャンコ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【「ウマ娘」初映画化】主人公はジャングルポケット　ビジュアル＆場面写真＆特報映像が完成]]></title>
-        <id>https://anime.eiga.com/news/120325/</id>
-        <link href="https://anime.eiga.com/news/120325/"/>
-        <updated>2023-12-27T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Cygamesが展開するクロスメディアコンテンツ「ウマ娘 プリティーダービー」が初めて映画化されることになり、「ウマ娘 プリティーダービー 新時代の扉」のタイトルで5月24日から全国で公開される...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
