@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T09:36:30.111Z</updated>
+    <updated>2024-01-26T09:50:31.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ インフルエンザ ともに患者数増加 感染対策徹底を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335821000.html"/>
+        <updated>2024-01-26T09:34:57.000Z</updated>
+        <summary type="html"><![CDATA[今月21日までの1週間に全国の医療機関から報告された新型コロナウイルスの患者数とインフルエンザの患者数がともに前の週から増加していて、厚生労働省は「手洗いや、こまめな換気を行うなど引き続き対策を徹底してほしい」などと呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“NHKラジオ 衛星 国際放送も原則ネット必須化を” 報告書案]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240126/k10014336221000.html</id>
@@ -34591,16 +34601,6 @@ https://www.o...]]></summary>
 なんとか子猫たちと仲良くなりたい柴犬リキが考えた方法とは？ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年に急低下したNTTドコモの通信品質、「コミケ」対策に見るその改善具合]]></title>
-        <id>https://gadget.phileweb.com/?p=64745</id>
-        <link href="https://gadget.phileweb.com/post-64745/"/>
-        <updated>2023-12-27T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年、携帯電話業界における大きな出来事の1つとなったのが、NTTドコモの著しい通信品質低下である。2023年春頃から大都市圏を中心に、NTTドコモの通信速度が遅い、あるいはつながらないといった声が急増し、同社のネットワークに対する不満が一気に高まっていった。 通信品質の対策強化を図るNTTドコ […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>

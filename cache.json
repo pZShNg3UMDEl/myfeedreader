@@ -5816,6 +5816,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335821000.html",
+          "author": null,
+          "description": "今月21日までの1週間に全国の医療機関から報告された新型コロナウイルスの患者数とインフルエンザの患者数がともに前の週から増加していて、厚生労働省は「手洗いや、こまめな換気を行うなど引き続き対策を徹底してほしい」などと呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014335821000.html",
+          "publishedOn": "2024-01-26T09:34:57.000Z",
+          "wordCount": 1156,
+          "title": "新型コロナ インフルエンザ ともに患者数増加 感染対策徹底を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335821_2401261422_0126170830_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240126/k10014336221000.html",
           "author": null,
           "description": "インターネットを通じたNHKの番組などの提供について、総務省の作業部会は、地上波テレビ放送に加え、ラジオ・衛星・国際放送の番組なども原則必須業務化すべきとし、衛星放送は実施環境が整うまで、当面見送ることが適当だとする報告書案をまとめました。",
@@ -26068,16 +26078,6 @@
           "wordCount": 783,
           "title": "米国でのApple Watch販売禁止、一時解除。控訴裁判所が命令",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/12/shutterstock_2365120903-1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=64745",
-          "author": "佐野正弘",
-          "description": "2023年、携帯電話業界における大きな出来事の1つとなったのが、NTTドコモの著しい通信品質低下である。2023年春頃から大都市圏を中心に、NTTドコモの通信速度が遅い、あるいはつながらないといった声が急増し、同社のネットワークに対する不満が一気に高まっていった。 通信品質の対策強化を図るNTTドコ […]",
-          "link": "https://gadget.phileweb.com/post-64745/",
-          "publishedOn": "2023-12-27T21:40:00.000Z",
-          "wordCount": 772,
-          "title": "2023年に急低下したNTTドコモの通信品質、「コミケ」対策に見るその改善具合",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/12/PC270033.jpg"
         }
       ]
     },
