@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T15:24:34.147Z</updated>
+    <updated>2024-01-26T15:36:58.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新潟 上越 能登半島地震で高さ最大5.8mの津波到達か 気象庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014336401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014336401000.html"/>
+        <updated>2024-01-26T15:07:10.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震では各地に津波が到達していますが、新潟県上越市では最大5.8メートルの高さまで達していたとみられることが気象庁の現地調査で分かりました。一方、津波計を設置している石川県の珠洲市長橋町と輪島市の輪島港では、津波の浸水の跡は確認できず、気象庁は地盤の隆起が影響した可能性があるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子猫のへ毛づくろいが暴走してしまうママ猫さん]]></title>
         <id>https://2-9-9.com/?p=67271</id>
@@ -34789,16 +34799,6 @@ https://www.o...]]></summary>
         <summary type="html"><![CDATA[1: 2023/12/28(木) 10:32:31.86 ID:V53gLDB90 [任天堂HP]「 […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日刊スポーツ映画大賞「THE FIRST SLAM DUNK」が石原裕次郎賞　石井裕也監督作「月」は4冠]]></title>
-        <id>https://anime.eiga.com/news/120329/</id>
-        <link href="https://anime.eiga.com/news/120329/"/>
-        <updated>2023-12-28T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[第36回日刊スポーツ映画大賞・石原裕次郎賞が12月27日、日刊スポーツの公式Youtubeチャンネルで発表され、井上雄彦監督作「THE FIRST SLAM DUNK」が石原裕次郎賞を受賞した。...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>

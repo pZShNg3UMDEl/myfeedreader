@@ -2759,21 +2759,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120329/",
-          "author": null,
-          "description": "第36回日刊スポーツ映画大賞・石原裕次郎賞が12月27日、日刊スポーツの公式Youtubeチャンネルで発表され、井上雄彦監督作「THE FIRST SLAM DUNK」が石原裕次郎賞を受賞した。...",
-          "link": "https://anime.eiga.com/news/120329/",
-          "publishedOn": "2023-12-28T03:30:00.000Z",
-          "wordCount": 790,
-          "title": "日刊スポーツ映画大賞「THE FIRST SLAM DUNK」が石原裕次郎賞　石井裕也監督作「月」は4冠",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5870,6 +5855,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014336401000.html",
+          "author": null,
+          "description": "能登半島地震では各地に津波が到達していますが、新潟県上越市では最大5.8メートルの高さまで達していたとみられることが気象庁の現地調査で分かりました。一方、津波計を設置している石川県の珠洲市長橋町と輪島市の輪島港では、津波の浸水の跡は確認できず、気象庁は地盤の隆起が影響した可能性があるとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014336401000.html",
+          "publishedOn": "2024-01-26T15:07:10.000Z",
+          "wordCount": 638,
+          "title": "新潟 上越 能登半島地震で高さ最大5.8mの津波到達か 気象庁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014336401_2401261859_0126190124_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240126/k10014336851000.html",
           "author": null,
