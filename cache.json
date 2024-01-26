@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120476/",
+          "author": null,
+          "description": "「機動戦士ガンダムSEED FREEDOM」の挿入歌が、中島美嘉の楽曲「望郷」であることが明らかになった。同曲の作詞・作曲・編曲は小室哲哉が手がけた。1月26日の映画公開にあわせて、同日から配信...",
+          "link": "https://anime.eiga.com/news/120476/",
+          "publishedOn": "2024-01-26T10:30:00.000Z",
+          "wordCount": 859,
+          "title": "「ガンダムSEED FREEDOM」挿入歌は中島美嘉「望郷」　作詞・作曲・編曲は小室哲哉",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/maeq_iianime/120443/",
           "author": null,
           "description": "主題歌の歌詞に「一向聴（イーシャンテン）」が出てくるアニメといえば、昔は小学館、ちょっと前はスクウェア・エニックスだったわけですが、最近は講談社になりました。 ……はて、いったいぜんたい、なんの...",
@@ -5840,6 +5855,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335691000.html",
+          "author": null,
+          "description": "能登半島地震が発生した1月、北陸の石川県など4県の宿泊施設のキャンセルは約17万件にのぼっています。そんな中、発表された「北陸応援割」。1人1泊あたり2万円を上限に、観光客の宿泊料金の半額が補助される予定です。歓迎の声があがる一方で、SNSでは「被災者へ直接支援を」といった批判も。応援したいけど本当に観光に行ってもいいの？現地の宿や専門家に聞きました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014335691000.html",
+          "publishedOn": "2024-01-26T10:17:05.000Z",
+          "wordCount": 1484,
+          "title": "北陸応援割 宿泊代が半額 応援したいけど本当に行っていいの？",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335691_2401261813_0126181345_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014336501000.html",
+          "author": null,
+          "description": "プロ野球 ロッテは12球団の選手で唯一、契約を更改していなかった佐々木朗希投手について、今シーズンの契約を結ぶことで合意したと発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014336501000.html",
+          "publishedOn": "2024-01-26T10:12:24.000Z",
+          "wordCount": 491,
+          "title": "ロッテ 佐々木朗希との今季の契約合意発表 12球団で唯一未更改",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014336501_2401261837_0126191014_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240126/k10014336341000.html",
           "author": null,
