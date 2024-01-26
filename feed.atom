@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T19:35:40.079Z</updated>
+    <updated>2024-01-26T19:50:12.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -44,6 +44,16 @@ The Acuros GO provides users with unprecedented flexibility, portability, and pe
 The SWIR capabilities of the Acuros GO make it valuable…]]></summary>
         <author>
             <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川県 ボランティアを被災地に派遣へ 家財の片付けなど]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014336481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014336481000.html"/>
+        <updated>2024-01-26T16:54:50.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災者を支援するため、石川県は27日から、県に登録したボランティアを被災地に派遣することになりました。27日は七尾市と志賀町、穴水町で、およそ80人のボランティアが家財の片付けなどを行うことにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -34680,26 +34690,6 @@ https://www.o...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20231228/k10014302601000.html"/>
         <updated>2023-12-28T07:55:35.000Z</updated>
         <summary type="html"><![CDATA[LCC＝格安航空会社の「ジェットスター・ジャパン」の労働組合は、パイロットなど一部の従業員が実施しているストライキを年末年始も続ける方針で、会社は、影響を最小限に抑えるとしたうえで、利用客に対し、最新の運航状況を確認するよう呼びかけています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Auto、まもなく「AIで会話やメッセージを要約」機能を提供か]]></title>
-        <id>https://gadget.phileweb.com/?p=64835</id>
-        <link href="https://gadget.phileweb.com/post-64835/"/>
-        <updated>2023-12-28T07:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Googleは、Androidスマートフォンを車載機器と接続する「Android Auto」につき、AIアシスタントが込み入った会話やメッセージを要約する機能の開発に取り組んでいることが明らかとなった。 これは米9to5Googleが、Googleアプリを解析した結果から分かったことだ。運転中に1つ […]]]></summary>
-        <author>
-            <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都内 救急車出動要請 12月に入り急増“年末年始の適正利用を”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20231228/k10014302591000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20231228/k10014302591000.html"/>
-        <updated>2023-12-28T07:48:01.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では28日の救急車の出動率が80％を超え、東京消防庁は27日に続いて2日連続で「救急車ひっ迫アラート」を発表しました。都内の救急車の出動要請は12月に入ってから急増していて、東京消防庁は年末年始の救急車の適正利用を呼びかけています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
