@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T04:36:33.345Z</updated>
+    <updated>2024-01-26T04:50:48.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東アジア最古となるウミガメの化石 鹿児島 離島の地層から発見]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335611000.html"/>
+        <updated>2024-01-26T04:28:02.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県の離島にあるおよそ1億年前の地層から日本を含む東アジアで最古となるウミガメの化石が見つかったと東京都市大学などの研究グループが発表し、ウミガメの仲間が世界に分布を広げた過程を探るうえで重要な発見だとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日大 薬物事件対応めぐる“パワハラ”裁判 林理事長側争う姿勢]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335741000.html"/>
+        <updated>2024-01-26T04:22:10.000Z</updated>
+        <summary type="html"><![CDATA[日本大学のアメリカンフットボール部での薬物事件の対応をめぐりパワーハラスメントなどを受けたとして、澤田康広元副学長が林真理子理事長に賠償を求めた裁判が始まり、林理事長側は争う姿勢を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佐賀 小城 住宅2棟全焼 2人死亡 火元の80代夫婦と連絡取れず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240126/k10014335571000.html</id>
