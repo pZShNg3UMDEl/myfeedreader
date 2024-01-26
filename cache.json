@@ -2699,21 +2699,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120309/",
-          "author": null,
-          "description": "テレビアニメ「神は遊戯（ゲーム）に飢えている。」の放送が2024年4月にスタートすることが決定し、立花日菜、中村カンナ、小清水亜美の出演が明らかになった。PV第1弾も公開されている。 細音啓氏に...",
-          "link": "https://anime.eiga.com/news/120309/",
-          "publishedOn": "2023-12-27T12:00:00.000Z",
-          "wordCount": 749,
-          "title": "「神は遊戯に飢えている。」24年4月放送開始　立花日菜、中村カンナ、小清水亜美が出演、立花はED主題歌も担当",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2722,6 +2707,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97502",
+          "author": "SWITCH速報",
+          "description": "2024年1月25日、『逆転裁判456 王泥喜セレクション』が Nintendo Switchで発売 […]",
+          "link": "https://switchsoku.com/gyakutensaiban/97502",
+          "publishedOn": "2024-01-26T00:00:24.000Z",
+          "wordCount": 10070,
+          "title": "『逆転裁判456 王泥喜セレクション』が Nintendo Switchで発売",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/gyakuten-456.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97498",
           "author": "SWITCH速報",
@@ -5760,6 +5755,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335291000.html",
+          "author": null,
+          "description": "東京23区の今月の消費者物価指数は、速報値で、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より1.6％の上昇となりました。上昇率は、先月から0.5ポイント下がり、おととし5月以来の1％台となりました。このうち「生鮮食品を除く食料」は去年の同じ月より5.7％上昇しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014335291000.html",
+          "publishedOn": "2024-01-26T00:13:03.000Z",
+          "wordCount": 801,
+          "title": "東京23区の消費者物価指数 前年同月比1.6％上昇",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335291_2401260902_0126090421_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014334951000.html",
+          "author": null,
+          "description": "能登半島地震の被災者を支援するため、石川県が受け付けている義援金は24日の時点で100億円を上回りました。県は被災した人たちにできるだけ早く届けられるよう調整するとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014334951000.html",
+          "publishedOn": "2024-01-26T00:07:38.000Z",
+          "wordCount": 509,
+          "title": "能登半島地震 被災者支援の義援金 100億円を上回る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014334951_2401252212_0125221351_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240126/k10014334991000.html",
           "author": null,
@@ -19288,6 +19303,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=234081",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ほうれん草とベーコンのバター醤油パスタ」を世界一詳しく調査しました。   公式YouTube […]",
+          "link": "https://foodfighter.jp/711sej-spinach-bacon-pasta-2024",
+          "publishedOn": "2024-01-25T23:52:31.000Z",
+          "wordCount": 1838,
+          "title": "【セブンイレブン】ほうれん草とベーコンのバター醤油パスタ【新作コンビニパスタ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/a7c4d9c2eeec7cbe65e9b0798a73c4eb.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=234046",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、平日限定ランチメニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式Y […]",
@@ -20645,6 +20670,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/26/news074.html",
+          "author": null,
+          "description": "アンリツは、同社が開発、製造する高精度帯域制御装置「PureFlow」シリーズの新製品「PureFlow AS1」を、販売代理店となるSCSKから発売した。ドメインフィルター機能やSNI識別機能、アクティブモニター機能を追加している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/26/news074.html",
+          "publishedOn": "2024-01-26T00:00:00.000Z",
+          "wordCount": 2665,
+          "title": "クラウド通信環境に適した高精度帯域制御装置",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/26/cover_news074.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/25/news033.html",
           "author": null,
           "description": "ams OSRAMは、ウェアラブルデバイス向けのバイタルサイン測定用AFE「AS7058」を発表した。低ノイズ特性により信号対雑音比が120dBと高く、光電式容積脈波記録法の測定性能向上に寄与する。",
@@ -20831,6 +20866,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67280",
+          "author": "299",
+          "description": "保護されて24日めの子猫のマロンちゃんが抱っこされてじっとしています。おてんばなマロンちゃんですが飼い主さんに抱っこされると、すぐにおとなしくなります。 キラキラしているマロンちゃんの目に吸い込まれそうになりますね〜。優...\n抱っこしてトントンされるとすぐに夢のなかへ〜 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67280",
+          "publishedOn": "2024-01-26T00:00:10.000Z",
+          "wordCount": 1624,
+          "title": "抱っこしてトントンされるとすぐに夢のなかへ〜",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67280.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=67241",
           "author": "299",
@@ -25850,16 +25895,6 @@
           "wordCount": null,
           "title": "望月衣塑子さん訴訟⑤被告準備書面",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=apuEw2_xcWo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=apuEw2_xcWo",
-          "publishedOn": "2023-12-27T12:14:51.000Z",
-          "wordCount": null,
-          "title": "堀口英利くんの仮処分決定スペシャル",
-          "imageUrl": null
         }
       ]
     },
@@ -29424,16 +29459,6 @@
           "wordCount": 5142,
           "title": "【長野】安すぎる「熊出動手当て」に猟友会員が悲鳴　「時給1000円。費用含めたらほぼボランティア」「命張ってるのに人を舐めてる」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/0/b03a1ffa-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031648.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：muffin ★：2023/12/25(月) 22:42:28.57 ID:v/2syTMJ9.net\n\n\n\n\n\n\n\n\n【韓国料理やインド料理は“未開”？…日テレのグルメ番組にSNSで「差別では」と批判続々】https://t.co/SE0LFZckUK #インド #料理 #日本テレビ #炎上 #韓国 #女性自身［@jisinjp］— 女性自身【公...",
-          "link": "https://itainews.com/archives/2031648.html",
-          "publishedOn": "2023-12-27T12:01:27.000Z",
-          "wordCount": 3381,
-          "title": "海外の料理を「未開グルメ」と表現 日テレのグルメ番組にSNSで「差別では」と批判続々",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/6/b6977fb8-s.png"
         }
       ]
     },
@@ -29442,6 +29467,26 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40556",
+          "author": "comomo",
+          "description": "こんにちはももこ＠あつらぼです♪ 年末にキニナル求人貼りだしを見つけた、厚木一番街のビル。 以前の記事はこちら https://atsugi-lab.com/kininarunews-sugi-ichibangai202312/ スギ薬局厚…",
+          "link": "https://atsugi-lab.com/open-sugidrug-ichibangai202402/",
+          "publishedOn": "2024-01-26T00:27:09.000Z",
+          "wordCount": 1146,
+          "title": "【開店】厚木一番街のキニナル工事は「スギドラッグ」で確定！2月22日（木）オープンみたい。ドラッグストア激戦区が実現…！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/sugid-202401.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=40544",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 今回は愛甲石田エリアの閉店情報が入ってまいりました…。 愛甲石田駅すぐ近くの「京都ラーメン森井　愛甲石田店」が1月31日（水）をもって閉店してしまうそうです。 まずは場所からご案内いたします。 「京都ラー…",
+          "link": "https://atsugi-lab.com/close-ramenmorii202401/",
+          "publishedOn": "2024-01-26T00:18:29.000Z",
+          "wordCount": 1155,
+          "title": "【悲報】愛甲石田駅すぐ近く「京都ラーメン森井　愛甲石田店」が1月31日をもって閉店→2月になにか動きがある模様！？［厚木市愛甲］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/aiko-morii202401-1.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=40577",
           "author": "fumie",
