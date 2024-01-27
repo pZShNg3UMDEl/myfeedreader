@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T10:12:58.857Z</updated>
+    <updated>2024-01-27T10:27:05.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【27日随時更新】国連スタッフ ハマスの奇襲攻撃に関与の疑い]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014336931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014336931000.html"/>
+        <updated>2024-01-27T10:21:26.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区で人道状況の悪化が深刻化するなか現地で活動する国連のスタッフが去年10月のハマスによる奇襲攻撃に関与していた疑いが浮上し、今後の支援活動への影響が懸念されています。※イスラエルやパレスチナに関する日本時間1月27日の動きを、随時更新してお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【画像】能登半島地震、2次避難所での食事がヤバいｗｗｗｗ]]></title>
         <id>https://itainews.com/archives/2032556.html</id>
@@ -34863,16 +34873,6 @@ A high-rise building is on fire in Odesa due to Russia's attack. pic.twitter.com
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国の公立学校で3000人余の教員不足 教職員組合が調査]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20231229/k10014302921000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014302921000.html"/>
-        <updated>2023-12-28T22:19:18.000Z</updated>
-        <summary type="html"><![CDATA[教員不足が課題となる中、全国の公立の小中学校や高校で、2023年10月時点で少なくとも3000人余りの不足が出ているとして、調査した教職員組合は「今までになかった数で深刻な事態だ」と指摘しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
