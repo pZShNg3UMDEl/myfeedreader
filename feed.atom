@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T06:27:03.498Z</updated>
+    <updated>2024-01-27T06:37:47.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[沖縄 尖閣沖 中国海警局の船2隻が領海侵入 海保が警告続ける]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337311000.html"/>
+        <updated>2024-01-27T06:29:16.000Z</updated>
+        <summary type="html"><![CDATA[沖縄県の尖閣諸島の沖合で中国海警局の船2隻が、27日昼前、日本の領海に侵入し海上保安本部は直ちに領海から出るよう警告を続けています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川県知事 断水復旧にあわせ水道管更新へ 国に支援求める考え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337301000.html"/>
+        <updated>2024-01-27T06:18:30.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震によって石川県の広い範囲で続いている断水について、馳知事は、復旧にあわせて老朽化した水道管を更新する必要があると指摘し、住民の負担にならないよう、国に財政面などでの支援を求めていく考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富山湾の津波 “県内の一部では高さ約2mの可能性” 専門家調査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240127/k10014337201000.html</id>
