@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T21:35:11.321Z</updated>
+    <updated>2024-01-27T21:50:24.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被災地はきょうも断続的に雨や雪 土砂災害や体調悪化に注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014337691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014337691000.html"/>
+        <updated>2024-01-27T21:42:51.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地では28日も断続的に雨や雪が降る見込みで、土砂災害に注意が必要です。災害関連死を防ぐために低体温症やエコノミークラス症候群などへの対策も心がけてください。また、依然として地震活動が活発な状態が続いていて、気象庁は引き続き強い揺れを伴う地震に注意を呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JR高崎線 東京～高崎間で運転見合わせ 人身事故の影響]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240128/k10014337861000.html</id>
@@ -34844,16 +34854,6 @@ A high-rise building is on fire in Odesa due to Russia's attack. pic.twitter.com
         <summary type="html"><![CDATA[北海道帯広市で開かれたスピードスケートの全日本選手権は、最終日の29日女子スプリント部門の2回目のレースが行われ、高木美帆選手が前日と合わせて4本のレースすべてで1位となり総合優勝しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】ビーフシチューのとろーりオムライスドリア【新作コンビニ弁当】]]></title>
-        <id>https://foodfighter.jp/?p=231423</id>
-        <link href="https://foodfighter.jp/711sej-beef-stew-omu-doria-2023"/>
-        <updated>2023-12-29T09:46:48.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ビーフシチュー仕立てのオムライスドリア」を世界一詳しく調査しました。   公式YouTube […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
