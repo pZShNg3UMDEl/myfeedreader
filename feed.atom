@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T05:11:45.651Z</updated>
+    <updated>2024-01-27T05:24:43.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -32,6 +32,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337221000.html"/>
         <updated>2024-01-27T04:46:57.000Z</updated>
         <summary type="html"><![CDATA[プロ野球、ロッテの佐々木朗希投手が今シーズンの契約を更改して記者会見し、「将来的に大リーグでプレーしたい思いがある」と話し、大リーグへ挑戦する意向があることを明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アラスカ航空 検査で安全性確認の事故と同型機 運航再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337161000.html"/>
+        <updated>2024-01-27T04:45:49.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのアラスカ航空は、運航する旅客機の窓部分のパネルが飛行中に吹き飛んだ事故を受けて同型機のボーイング737MAX9の運航を停止していましたが、検査を済ませた機体の運航を26日から再開しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
