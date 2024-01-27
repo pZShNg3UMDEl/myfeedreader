@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120462/",
+          "author": null,
+          "description": "劇場アニメ「機動戦士ガンダムSEED FREEDOM」（公開中）の魅力を凝縮したタブロイド新聞「機動戦士ガンダムSEED FREEDOM特別号」が、1月27日に発売される。 報知新聞社より発行さ...",
+          "link": "https://anime.eiga.com/news/120462/",
+          "publishedOn": "2024-01-27T03:00:00.000Z",
+          "wordCount": 854,
+          "title": "「ガンダムSEED FREEDOM」のタブロイド新聞発売　誌面は作品の魅力凝縮、特大ポスターも付属",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120472/",
           "author": null,
           "description": "米アカデミー賞を主催する映画芸術科学アカデミーは1月23日（現地時間）、第96回アカデミー賞のノミネート作品を発表した。北米でのオスカー前哨戦で健闘してきた宮崎駿監督の「君たちはどう生きるか」は...",
@@ -2684,21 +2699,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120339/",
-          "author": null,
-          "description": "「キン肉マン」アニメシリーズ最新作「完璧超人始祖（パーフェクト・オリジン）」編のキャスト第1弾が発表され、キン肉マンを宮野真守が担当することがわかった。さらに、旧アニメ版でキン肉マンを演じた神谷...",
-          "link": "https://anime.eiga.com/news/120339/",
-          "publishedOn": "2023-12-28T15:00:00.000Z",
-          "wordCount": 707,
-          "title": "「キン肉マン」アニメ最新作、宮野真守が“新・キン肉マン”に　“初代”神谷明はキン肉真弓など2役で出演",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2707,6 +2707,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97546",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/26(金) 11:00:53.41 ID:LdFBtt560 アナザーコード  […]",
+          "link": "https://switchsoku.com/soft/97546",
+          "publishedOn": "2024-01-27T03:00:08.000Z",
+          "wordCount": 9992,
+          "title": "『アナザーコードリコレクション』初週15,741本",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/c00df355b9daf4c21aabe8f028bcf5f9.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97540",
           "author": "SWITCH速報",
@@ -5045,6 +5055,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k4QGW589_d8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k4QGW589_d8",
+          "publishedOn": "2024-01-27T03:00:33.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】執行してもらえるのか!?天使の断頭台をGETしたい無課金勇者の断罪の執行者装備ガチャ30連!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZtC0sk0f4Tw",
           "author": null,
           "description": "",
@@ -5745,6 +5765,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337131000.html",
+          "author": null,
+          "description": "愛媛県今治市の住宅で64歳の女性が刃物で切られて殺害された事件で、警察は目撃者の情報などから現場から立ち去った男が事件に関わったとみて行方を捜査しています。また、女性の次女と連絡が取れなくなっていて、警察は事件に巻き込まれた可能性もあるとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337131000.html",
+          "publishedOn": "2024-01-27T03:08:56.000Z",
+          "wordCount": 655,
+          "title": "愛媛 今治 女性殺害 立ち去った男が関与か 次女と連絡とれず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337131_2401271142_0127120858_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240127/k10014336921000.html",
           "author": null,
@@ -19834,16 +19864,6 @@
           "wordCount": 702,
           "title": "柿沢前副大臣ら買収などの疑い 秘書 結果を一覧表で報告か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014303081_2312282328_1228232838_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231229/k10014302941000.html",
-          "author": null,
-          "description": "秋篠宮ご夫妻の次女の佳子さまは、29日に29歳の誕生日を迎えられました。",
-          "link": "http://www3.nhk.or.jp/news/html/20231229/k10014302941000.html",
-          "publishedOn": "2023-12-28T15:00:18.000Z",
-          "wordCount": 500,
-          "title": "佳子さま きょう29歳の誕生日",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014302941_2312281934_1228225224_01_02.jpg"
         }
       ]
     },
@@ -19852,6 +19872,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234197",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの冷凍食品「チョコスモアタルト」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]",
+          "link": "https://foodfighter.jp/lawson-chocolate-smores-tart",
+          "publishedOn": "2024-01-27T03:01:03.000Z",
+          "wordCount": 1868,
+          "title": "【ローソン】チョコスモアタルト【冷凍スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/985b18b7815f8f802a90f99e53605bcf.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234175",
           "author": "foodfighter",
@@ -26540,6 +26570,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032554.html",
+          "author": "damono3856",
+          "description": "1 名前：首都圏の虎 ★：2024/01/26(金) 18:05:05.11 ID:g7YSWtWT9.net\n\n\n\n\n\n\n\nドイツ教会、2000人超性虐待　46年以降、聖職者ら未成年に | 2024/1/26 - 共同通信 特定した被害者の大半が当時14歳未満で、約65％が男性、約35％が女性だった。加害者の約40％が聖職者で、...",
+          "link": "https://itainews.com/archives/2032554.html",
+          "publishedOn": "2024-01-27T03:07:16.000Z",
+          "wordCount": 2308,
+          "title": "ドイツ教会、2000人超性虐待　46年以降、聖職者ら未成年に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/8/d84e07f2-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032542.html",
           "author": "damono3856",
