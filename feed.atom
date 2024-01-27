@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T11:36:13.789Z</updated>
+    <updated>2024-01-27T11:50:17.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中心市街地の高層化再開発 7割以上で工事費増 遅れや見直しも]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337101000.html"/>
+        <updated>2024-01-27T11:41:53.000Z</updated>
+        <summary type="html"><![CDATA[世界的な資材価格の高騰は、全国のまちづくりにも深刻な影響を及ぼしています。中心市街地で高層化による再開発を進める全国129の地区にアンケート調査をしたところ、全体の7割以上で工事費が上振れし、計画の遅れや見直しが必要な地区も出ていることが分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震の津波 最大波が時間たってから来た地域も 専門家]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337541000.html"/>
+        <updated>2024-01-27T11:37:32.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で発生した津波について、石川県内などで現地調査を行った専門家らによる報告会が金沢市で開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自民 麻生副総裁 “派閥は政策集団として役割強化で信頼回復”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240127/k10014337481000.html</id>
@@ -34945,16 +34965,6 @@ A high-rise building is on fire in Odesa due to Russia's attack. pic.twitter.com
 子猫と一緒に遊びたくてウズウズしているハスキー犬 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デンマーク・フランスの海運大手 一部で紅海を通る運航再開]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303121000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303121000.html"/>
-        <updated>2023-12-28T23:43:14.000Z</updated>
-        <summary type="html"><![CDATA[イエメンの反政府勢力、フーシ派による船舶への攻撃の影響で、紅海を経由する海上輸送を一時停止する動きが続くなか、デンマークやフランスの海運大手は、一部で紅海を通る運航の再開を発表しました。商船を守るためアメリカが主導した有志連合の活動開始を受けての再開だとしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
