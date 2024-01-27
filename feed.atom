@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T03:35:31.786Z</updated>
+    <updated>2024-01-27T03:50:29.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大学入学共通テスト 追試験始まる 金沢大学でも特例措置で実施]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337151000.html"/>
+        <updated>2024-01-27T03:34:20.000Z</updated>
+        <summary type="html"><![CDATA[「大学入学共通テスト」の追試験が27日から始まり、能登半島地震を受けた特例措置として石川県の金沢大学でも実施されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川県 能登半島地震の被災地へ ボランティアの派遣始まる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240127/k10014337141000.html</id>
