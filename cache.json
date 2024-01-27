@@ -5786,6 +5786,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337421000.html",
+          "author": null,
+          "description": "富山県氷見市の観光施設、「ひみ番屋街」では、能登半島地震による断水が続いたため、一時、ほとんどの店が休業していましたが、27日からすべての店が営業を再開し、大勢の買い物客などでにぎわいました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337421000.html",
+          "publishedOn": "2024-01-27T09:08:17.000Z",
+          "wordCount": 680,
+          "title": "富山 氷見の観光施設「ひみ番屋街」すべての店が営業再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337421_2401271717_0127180819_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337381000.html",
           "author": null,
           "description": "北朝鮮による拉致問題について知ってもらおうと、拉致被害者の曽我ひとみさんの講演が埼玉県川口市で行われ、被害者全員が日本に帰るまで力を貸してほしいと訴えました。",
@@ -20024,26 +20034,6 @@
           "wordCount": 650,
           "title": "JR総武快速線 東京～千葉 上下線 運転見合わせ 人身事故の影響",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014303151_2312290611_1229061546_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231229/k10014303111000.html",
-          "author": null,
-          "description": "28日のニューヨーク外国為替市場ではアメリカで来年、早期に利下げが行われるとの見方からドル売り円買いが進み、円相場は一時、1ドル＝140円台前半まで値上がりして5か月ぶりの円高ドル安水準となりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20231229/k10014303111000.html",
-          "publishedOn": "2023-12-28T21:13:42.000Z",
-          "wordCount": 521,
-          "title": "円相場 一時140円台前半に値上がり 5か月ぶり円高ドル安水準",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014303111_2312290424_1229061326_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231229/k10014303031000.html",
-          "author": null,
-          "description": "イスラエル軍は地上侵攻を拡大したガザ地区の中部に加え南部でも攻勢を強め、28日、大勢の避難民が身を寄せる病院付近が砲撃にさらされて10人が死亡し、犠牲者の数がこれまでに2万1300人を超えるなど、状況は悪化の一途をたどっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20231229/k10014303031000.html",
-          "publishedOn": "2023-12-28T21:12:26.000Z",
-          "wordCount": 664,
-          "title": "イスラエル ガザ地区南部の病院付近砲撃 10人死亡",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231229/K10014303031_2312290610_1229061136_01_03.jpg"
         }
       ]
     },
