@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T22:36:34.743Z</updated>
+    <updated>2024-01-27T22:50:26.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 志賀町で大地震引き起こした活断層とは異なる断層確認]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014336861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014336861000.html"/>
+        <updated>2024-01-27T22:44:29.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で震度7の揺れを観測した石川県志賀町で、大地震を引き起こした活断層とは異なる断層が確認されました。2つの断層はほぼ同時にずれ動いたとみられ、調査した専門家は「見つかった断層はおよそ20キロ離れているが、大地震に付随して活動したとみられ、今後の防災を考えるうえで非常に重要な発見だ」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大相撲初場所 千秋楽見どころ 2敗トップの照ノ富士 霧島と対戦]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240128/k10014337641000.html</id>
