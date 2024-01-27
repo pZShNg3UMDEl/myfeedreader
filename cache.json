@@ -5253,16 +5253,6 @@
           "wordCount": null,
           "title": "【ドラクエウォーク】振り返りながら種類別にNo.1を決める!!2023年の年度代表武器は・・・!?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M3w3gaoWs8A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M3w3gaoWs8A",
-          "publishedOn": "2023-12-28T16:16:24.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォークLIVE】モンスターグランプリ・ＤＱＭカップ！目指せマスター！12月29日！",
-          "imageUrl": null
         }
       ]
     },
@@ -5765,6 +5755,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337081000.html",
+          "author": null,
+          "description": "大相撲の大関 豊昇龍が、右ひざのけがのため、初場所14日目の27日から休場することになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337081000.html",
+          "publishedOn": "2024-01-27T04:22:07.000Z",
+          "wordCount": 673,
+          "title": "大相撲 豊昇龍 右ひざのけがで休場 横綱 照ノ冨士は不戦勝に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337081_2401271045_0127111311_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337151000.html",
           "author": null,
