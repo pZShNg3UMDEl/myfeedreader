@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T13:12:38.019Z</updated>
+    <updated>2024-01-27T13:22:44.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川県  90人以上が車中泊 避難所以外の避難者に登録呼びかけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337591000.html"/>
+        <updated>2024-01-27T13:13:54.000Z</updated>
+        <summary type="html"><![CDATA[公的サービスの提供につなげるため、石川県は避難所以外で避難している人を把握しようと、名前や避難先などの登録を呼びかけていますが、これまでに90人以上が車中泊をしていると回答していることが分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【熊本】コロナ感染の部員に「せき込み君」　暴言70種の教諭、停職２カ月に]]></title>
         <id>https://itainews.com/archives/2032565.html</id>
