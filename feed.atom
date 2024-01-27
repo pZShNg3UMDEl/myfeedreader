@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T03:12:43.368Z</updated>
+    <updated>2024-01-27T03:23:18.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川県 能登半島地震の被災地へ ボランティアの派遣始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337141000.html"/>
+        <updated>2024-01-27T03:16:06.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地では、石川県によるボランティアの派遣が27日から始まり、現地で廃棄物の仕分けなどの活動にあたっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愛媛 今治 女性殺害 立ち去った男が関与か 次女と連絡とれず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240127/k10014337131000.html</id>
