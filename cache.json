@@ -2699,21 +2699,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120237/",
-          "author": null,
-          "description": "アニメーションスタジオ、イルミネーションの新作「FLY! フライ！」の日本語吹き替え版に、堺雅人、麻生久美子、ヒコロヒー、黒川想矢、池村碧彩が参加していることがわかった。あわせて、吹き替え版の予...",
-          "link": "https://anime.eiga.com/news/120237/",
-          "publishedOn": "2023-12-28T12:00:00.000Z",
-          "wordCount": 712,
-          "title": "堺雅人＆麻生久美子、イルミネーション新作「FLY!」でカモの夫婦に　ヒコロヒーは“ワル”のハト役",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5051,16 +5036,6 @@
           "wordCount": 10140,
           "title": "ゲーム業界人176人が選ぶ「2023年発売されたゲームで最も感心させられたタイトル」ランキング",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/game171.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96600",
-          "author": "SWITCH速報",
-          "description": "1: 2023/12/28(木) 20:02:02.35 ID://xTEHZ0d アトラス プロデ […]",
-          "link": "https://switchsoku.com/atlus/96600",
-          "publishedOn": "2023-12-28T12:20:04.000Z",
-          "wordCount": 10035,
-          "title": "アトラス石田「現時点では未発表のタイトルに関わっている」メガテン新作か！？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/megami4.webp"
         }
       ]
     },
@@ -5565,16 +5540,6 @@
           "wordCount": 4382,
           "title": "あと2日",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9341",
-          "author": "watanabe@logipara.com",
-          "description": "ﾄﾞｺﾞｫｫｫｫｫｫｫｫｫﾝ(仕事を納めた音) 今年の仕事は手強かった。2023年の仕事は勇者ヒンメルすら倒すのに苦労したと言われる、歴代屈指のしぶとさでした。 そもそも、この私が仕事納め日にまで忙しいというのは、何 […]",
-          "link": "https://logipara.com/diary-text/2023-12-29",
-          "publishedOn": "2023-12-28T12:51:20.000Z",
-          "wordCount": 4398,
-          "title": "納めました",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -5780,6 +5745,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014336681000.html",
+          "author": null,
+          "description": "能登半島地震で複数の住宅が巻き込まれた石川県の輪島市市ノ瀬町の土砂災害の現場を専門家が調査した結果、地震の揺れで崩壊しやすい斜面と平行に地層が重なる地形だったことが分かりました。専門家は「地震では崖崩れだけでなく、規模の大きな土砂災害に注意が必要だ」と呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014336681000.html",
+          "publishedOn": "2024-01-27T00:49:38.000Z",
+          "wordCount": 607,
+          "title": "輪島の土砂災害現場 「流れ盤」が地震の揺れで崩壊か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014336681_2401262055_0126210318_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014336701000.html",
+          "author": null,
+          "description": "「大学入学共通テスト」の追試験が27日から始まり、東京や京都など5つの会場に加え、能登半島地震を受けた特例措置として、石川県の金沢大学でも実施されます。大学入学共通テストの追試験は、今月13日と14日の本試験をインフルエンザや新型コロナの感染などで受けられなかった1629人を対象に、27日と28日に行われます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014336701000.html",
+          "publishedOn": "2024-01-27T00:37:07.000Z",
+          "wordCount": 655,
+          "title": "大学入学共通テスト きょうから追試験 金沢大学でも実施",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014336701_2401262045_0126205044_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240127/k10014336871000.html",
           "author": null,
@@ -19769,16 +19754,6 @@
           "wordCount": 861,
           "title": "中国の軍需企業3社の幹部 国政助言機関の役職 一斉に取り消し",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20231228/K10014303051_2312282234_1228223652_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231228/k10014302931000.html",
-          "author": null,
-          "description": "28日、兵庫県川西市の山の中で近くに住む高齢の女性2人が死亡しているのが見つかり、警察は散歩中に滑落したとみて詳しい状況を調べています。",
-          "link": "http://www3.nhk.or.jp/news/html/20231228/k10014302931000.html",
-          "publishedOn": "2023-12-28T12:13:43.000Z",
-          "wordCount": 726,
-          "title": "山の沢近くで高齢女性2人が死亡 散歩中に滑落か 兵庫 川西",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231228/K10014302931_2312281903_1228190835_01_02.jpg"
         }
       ]
     },
@@ -19787,6 +19762,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234175",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/yoshinoya-wteishoku-negishio",
+          "publishedOn": "2024-01-27T00:34:58.000Z",
+          "wordCount": 1925,
+          "title": "【吉野家】W定食（牛皿・ねぎ塩牛カルビ定食）【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/2649c52a193b12b6b4c4a0c460524181.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234153",
           "author": "foodfighter",
@@ -21341,6 +21326,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67339",
+          "author": "299",
+          "description": "家猫訓練中の赤ちゃん猫たちが、自分たちの寝床から大脱走をしています。 かなり高い壁なのに、まずは白黒のハチワレの赤ちゃん猫が上手に脱走すると、続いてキジトラの赤ちゃん猫も後を追うようにして脱走します。 ツルツル滑るプラス...\n家猫訓練中の赤ちゃん猫たちが次々と寝床から脱走！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67339",
+          "publishedOn": "2024-01-27T00:00:03.000Z",
+          "wordCount": 1625,
+          "title": "家猫訓練中の赤ちゃん猫たちが次々と寝床から脱走！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67339.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=67301",
           "author": "299",
