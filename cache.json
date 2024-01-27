@@ -2729,21 +2729,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120318/",
-          "author": null,
-          "description": "12月31日から2024年1月3日の4日間、NHK Eテレで、アニメ「響け！ユーフォニアム」劇場版4作が地上波初放送される。 京都アニメーション制作の「響け！ユーフォニアム」シリーズは、武田綾乃...",
-          "link": "https://anime.eiga.com/news/120318/",
-          "publishedOn": "2023-12-29T03:00:00.000Z",
-          "wordCount": 674,
-          "title": "「響け！ユーフォニアム」劇場版4作、Eテレで年末年始に地上波初放送",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2752,6 +2737,21 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97573",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/26(金) 18:29:15.97 ID:32Kvo18y0 なお必殺技 ht […]",
+          "link": "https://switchsoku.com/soft/97573",
+          "publishedOn": "2024-01-27T15:00:43.000Z",
+          "wordCount": 10256,
+          "title": "【悲報】アバッキオ「えっワイもジョジョの格ゲーに参加できるんですか？！」",
+          "enclosure": {
+            "url": "https://video.twimg.com/ext_tw_video/1695998249684090880/pu/vid/1280x720/DlX0Q9wQh9oIPGco.mp4",
+            "length": "4143502",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/03/jojo-asbr.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=97569",
           "author": "SWITCH速報",
@@ -30374,16 +30374,6 @@
           "wordCount": 2306,
           "title": "松本人志「いつ辞めても良いと思ってたんやけど…やる気が出てきたなぁ～。」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/7/17c4bd2a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031722.html",
-          "author": "damono3856",
-          "description": "1 名前：Hitzeschleier ★：2023/12/28(木) 16:19:25.01 ID:rFSVZtp+9.net\n\n\n\n\n\n\n\nタンクローリー爆発、40人以上死亡　リベリアhttps://t.co/VgOqW6zJmj西アフリカのリベリアで26日、ガソリンを運んでいたタンクローリーが衝突事故後に爆発し、40人以上が死亡しました。...",
-          "link": "https://itainews.com/archives/2031722.html",
-          "publishedOn": "2023-12-29T03:03:46.000Z",
-          "wordCount": 2364,
-          "title": "事故を起こしたタンクローリーが爆発　ガソリンを持ち去ろうと集まった住民４０人以上が死亡　リベリア",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/a/8a98df40-s.png"
         }
       ]
     },
