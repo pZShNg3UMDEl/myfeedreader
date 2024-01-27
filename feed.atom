@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T15:21:23.338Z</updated>
+    <updated>2024-01-27T15:35:49.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年1月21日から1月27日】]]></title>
+        <id>https://foodfighter.jp/?p=234252</id>
+        <link href="https://foodfighter.jp/bento-ranking-2024-0128"/>
+        <updated>2024-01-27T15:31:44.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年1月21日から1月27日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキング […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲報】アバッキオ「えっワイもジョジョの格ゲーに参加できるんですか？！」]]></title>
         <id>https://switchsoku.com/?p=97573</id>
@@ -35011,16 +35021,6 @@ A high-rise building is on fire in Odesa due to Russia's attack. pic.twitter.com
         <summary type="html"><![CDATA[1: 2023/12/28(木) 23:38:12.296 ID:lRyfbpTp0 あるんか？ & […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茨城 海浜公園に来年の「えと」大きな竜の地上絵がお目見え]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20231229/k10014303261000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20231229/k10014303261000.html"/>
-        <updated>2023-12-29T03:30:35.000Z</updated>
-        <summary type="html"><![CDATA[茨城県ひたちなか市の海浜公園では来年の「えと」にちなみ、大きな竜の地上絵がお目見えしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
