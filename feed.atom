@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T04:50:36.445Z</updated>
+    <updated>2024-01-28T05:12:35.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【東京・埼玉】「俺たちはいつ会えるんだ」と小学生女児を誘いホテルで性的暴行した無職男(24)を逮捕]]></title>
+        <id>https://itainews.com/archives/2032584.html</id>
+        <link href="https://itainews.com/archives/2032584.html"/>
+        <updated>2024-01-28T05:01:38.000Z</updated>
+        <summary type="html"><![CDATA[1 ：おっさん友の会 ★：2024/01/27(土) 16:29:24.84 ID:Kkz6izdC9.net
+
+
+
+
+
+
+
+
+
+ホテルで小学生女児に性的暴行…無職男を逮捕　女児のスマホ見た母衝撃、警察に相談し発覚　「俺たちはいつ会えるんだ」と誘っていた24歳 #SmartNews https://t.co/XMJRcciX1c— October-m...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【なか卯】マヨ鶏から丼・ごはん大盛り【定番メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=234255</id>
+        <link href="https://foodfighter.jp/nakau-torikaradon-mayonnaise"/>
+        <updated>2024-01-28T04:59:07.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子ゴルフ 米ツアー 松山英樹 13位 フランスのパボンが初優勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338041000.html"/>
+        <updated>2024-01-28T04:49:10.000Z</updated>
+        <summary type="html"><![CDATA[男子ゴルフのアメリカツアーの大会は27日、カリフォルニア州で最終ラウンドが行われ、松山英樹選手はスコアを5つ伸ばし、通算8アンダーで13位でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユース五輪 スキー男子ビッグエア ニコルズ皇吏が銀メダル]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240128/k10014338101000.html</id>
@@ -34885,32 +34925,6 @@ China Tries To Censor Data About Nearly 1 Billion People in Povertyhttps://t.co/
 ストーブの前を独占して温まる猫さん first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Videos du jour: TinyML, Hamamatsu, ADI]]></title>
-        <id>http://image-sensors-world.blogspot.com/2023/12/videos-du-jour-tinyml-hamamatsu-adi.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2023/12/videos-du-jour-tinyml-hamamatsu-adi.html"/>
-        <updated>2023-12-29T17:00:00.001Z</updated>
-        <summary type="html"><![CDATA[tinyML Asia 2022
-In-memory computing and Dynamic Vision Sensors: Recipes for tinyML in Internet of Video Things
-Arindam BASU , Professor, Department of Electrical Engineering, City University of Hong Kong
-Vision sensors are unique for IoT in that they provide rich information but also require excessive bandwidth and energy which limits scalability of this architecture. In this talk, we will describe our recent work in using event-driven dynamic vision sensors for IoVT applications like unattended ground sensors and intelligent transportation systems. To further reduce the energy of the sensor node, we utilize In-memory computing (IMC)—the SRAM used to store the video frames are used to perform basic image processing operations and trigger the following deep neural networks. Lastly, we introduce a new concept of hybrid IMC combining multiple types of memory.
-
-
-
-  
-Photon counting imaging using Hamamatsu's scientific imaging cameras - TechBites Series
-
-With our new photon number resolving mode the ORCA-Quest enables photon counting resolution across a full 9.4 megapixel image. See the camera in action and learn how photon number imaging pushes quantitative imaging to a new frontier.
-
-
-
-Accurate, Mobile Object Dimensioning using Time of Flight Technology
-
-ADI's High Resolution 3D Depth Sensing Technology coupled with advanced image stitching algorithms enables the dimensioning of non-conveyable large objects for Logistics applications. Rather than move the object to a fixed dimensioning gantry, ADI's 3D technology enables operators to take the camera to the object to perform the dimensioning function. With the same level of accuracy as fixed dimensioners, making the system mobile reduces time and cost of measurement while enhancing energy efficiency.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>

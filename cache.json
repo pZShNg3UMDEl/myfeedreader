@@ -5727,16 +5727,6 @@
           "wordCount": 4201,
           "title": "Review paper on stacking and interconnects for CMOS image sensors",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUtyXfClGSMvt1eJ5tdt_V0dQDTx3hiD35jtJ7FGHYSNITs5AJuUKdO4CjfNnNaBPQ0aJtxML1zZtgWQpYMwUGqlU-WYQ9p6Cx8CWcT4ajoL7I-CDsGjzsQnyQmdoHi51RtBJTGvxZLHYhRlRkZntqiYgc4Nue58HtyrErxH7jbmjjI8EL4CBP38rmihmEJ8b99pz_DCEJllADa6wgocMG3_qexWDThUECZWZvkOObxOWBKi00x_CNRo7uithluAhgycbLVmvX9n9DfCIyBzW7IAFexY1gqi6ZW92h56cuJxkPyDK_uNDYuCmdLX-sLVWmbQggk8FR_Sp44hWJEN3_WvrTHQKiEaxymQ0-QQuXxRKtH9tGGE-IOoabFgULAARTZ022iYDALFWJd5YVFGeE_WxyayO066lBLve6x3MHWAfnlYJ5l-0WSIs6jB9QM0pVwcnCESvSPlpa2iRnlBVcNv9McIjCLkWMp3O8lARtzckSAJBGyW1zBFz8PaWTYCtkipawcZv6u0UbKqrCMIdPqVRqcv3wpFCBDDC-CsPayAZk4h_iesvKG7uY5hmIOaq6JAqHqoaICXB3ShbHKNXEziMTeB3QRi-KSzLBPw0uQbNbh2wLlCK40qqORXTXSLY23Bj0UdrVc2MyM4V2T5LBXHQWQXxWf7fRzeok0mo3lxXcBKH-p2lvGSyuO00iKUOWiJSZNZ13rYESQeb57uqgt1KzKfGHqVMiFg7FsFoODDbnp9Zxp4hXy6mtXd4OIvv0JAxDmZQ=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2023/12/videos-du-jour-tinyml-hamamatsu-adi.html",
-          "author": null,
-          "description": "tinyML Asia 2022\nIn-memory computing and Dynamic Vision Sensors: Recipes for tinyML in Internet of Video Things\nArindam BASU , Professor, Department of Electrical Engineering, City University of Hong Kong\nVision sensors are unique for IoT in that they provide rich information but also require excessive bandwidth and energy which limits scalability of this architecture. In this talk, we will describe our recent work in using event-driven dynamic vision sensors for IoVT applications like unattended ground sensors and intelligent transportation systems. To further reduce the energy of the sensor node, we utilize In-memory computing (IMC)—the SRAM used to store the video frames are used to perform basic image processing operations and trigger the following deep neural networks. Lastly, we introduce a new concept of hybrid IMC combining multiple types of memory.\n\n\n\n  \nPhoton counting imaging using Hamamatsu's scientific imaging cameras - TechBites Series\n\nWith our new photon number resolving mode the ORCA-Quest enables photon counting resolution across a full 9.4 megapixel image. See the camera in action and learn how photon number imaging pushes quantitative imaging to a new frontier.\n\n\n\nAccurate, Mobile Object Dimensioning using Time of Flight Technology\n\nADI's High Resolution 3D Depth Sensing Technology coupled with advanced image stitching algorithms enables the dimensioning of non-conveyable large objects for Logistics applications. Rather than move the object to a fixed dimensioning gantry, ADI's 3D technology enables operators to take the camera to the object to perform the dimensioning function. With the same level of accuracy as fixed dimensioners, making the system mobile reduces time and cost of measurement while enhancing energy efficiency.",
-          "link": "http://image-sensors-world.blogspot.com/2023/12/videos-du-jour-tinyml-hamamatsu-adi.html",
-          "publishedOn": "2023-12-29T17:00:00.001Z",
-          "wordCount": 4065,
-          "title": "Videos du jour: TinyML, Hamamatsu, ADI",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXM2JmjHHavsv0TqI65VZWgr0iwFAs6PhZCgzzN0wWW0lLxKKA7mxsNShnnLsYNN40udsi0MLVIiY1gETqQdolpGEoejbC7l5LfG_fKWtk5HyMu1Q=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -5745,6 +5735,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338041000.html",
+          "author": null,
+          "description": "男子ゴルフのアメリカツアーの大会は27日、カリフォルニア州で最終ラウンドが行われ、松山英樹選手はスコアを5つ伸ばし、通算8アンダーで13位でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338041000.html",
+          "publishedOn": "2024-01-28T04:49:10.000Z",
+          "wordCount": 666,
+          "title": "男子ゴルフ 米ツアー 松山英樹 13位 フランスのパボンが初優勝",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338041_2401281153_0128134912_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338101000.html",
           "author": null,
@@ -20153,6 +20153,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=234255",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/nakau-torikaradon-mayonnaise",
+          "publishedOn": "2024-01-28T04:59:07.000Z",
+          "wordCount": 1893,
+          "title": "【なか卯】マヨ鶏から丼・ごはん大盛り【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/e7e206556ad8b3a123cd3771fce3ab98-rotated.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=234252",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年1月21日から1月27日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキング […]",
@@ -26850,6 +26860,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032584.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：おっさん友の会 ★：2024/01/27(土) 16:29:24.84 ID:Kkz6izdC9.net\n\n\n\n\n\n\n\n\n\nホテルで小学生女児に性的暴行…無職男を逮捕　女児のスマホ見た母衝撃、警察に相談し発覚　「俺たちはいつ会えるんだ」と誘っていた24歳 #SmartNews https://t.co/XMJRcciX1c— October-m...",
+          "link": "https://itainews.com/archives/2032584.html",
+          "publishedOn": "2024-01-28T05:01:38.000Z",
+          "wordCount": 2298,
+          "title": "【東京・埼玉】「俺たちはいつ会えるんだ」と小学生女児を誘いホテルで性的暴行した無職男(24)を逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/c/fc1fc402-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032580.html",
           "author": "yonepo665sfr",
