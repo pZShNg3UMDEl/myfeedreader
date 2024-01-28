@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T05:12:35.370Z</updated>
+    <updated>2024-01-28T05:26:11.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小田急 小田原線 新松田～小田原 運転見合わせ 付近の火災で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338171000.html"/>
+        <updated>2024-01-28T05:13:32.000Z</updated>
+        <summary type="html"><![CDATA[小田急小田原線は、午後1時41分に、開成駅と栢山駅の間で起きた線路付近の火災のため、新松田駅と小田原駅の間の上下線で運転を見合わせています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【東京・埼玉】「俺たちはいつ会えるんだ」と小学生女児を誘いホテルで性的暴行した無職男(24)を逮捕]]></title>
         <id>https://itainews.com/archives/2032584.html</id>
