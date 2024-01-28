@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T06:35:35.107Z</updated>
+    <updated>2024-01-28T06:50:26.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【被害状況 28日】石川県で236人死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014337881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014337881000.html"/>
+        <updated>2024-01-28T06:36:14.000Z</updated>
+        <summary type="html"><![CDATA[石川県によりますと、県内で死亡が確認された人の数は、28日午後2時の時点で27日と変わらず236人となっています。市や町ごとにみますと▽輪島市で101人▽珠洲市で99人▽穴水町で20人▽能登町で8人▽七尾市で5人▽志賀町で2人▽羽咋市で1人となっています。このうち、「災害関連死」の疑いは▽珠洲市で6人▽能登町で6人▽輪島市で3人のあわせて15人となっています。内閣府によりますと、「災害関連死」は、地震の揺れや津波などによる直接的な被害で亡くなるのではなく、その後の避難生活などで病気が悪化したり体調を崩したりして、命が失われるケースを言います。また、重軽傷者は、県内全体で1178人にのぼっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卓球 全日本選手権 女子シングルス 早田ひなが連覇]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338211000.html"/>
+        <updated>2024-01-28T06:34:04.000Z</updated>
+        <summary type="html"><![CDATA[卓球・日本一を決める全日本選手権は女子シングルスの決勝が行われ、パリオリンピックの女子シングルスで代表内定を確実にしている早田ひな選手が張本美和選手にゲームカウント4対0でストレート勝ちし、2大会連続3回目の優勝を果たしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 中高生が募金活動で被災地支援を呼びかけ 奈良]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338121000.html"/>
+        <updated>2024-01-28T06:16:05.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地への支援をより多くの人たちに呼びかけようと奈良県御所市の中学生と高校生が募金活動を行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ライブ映像有】大分空港 訓練機が滑走路外れ停止 けが人なし]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240128/k10014338201000.html</id>
