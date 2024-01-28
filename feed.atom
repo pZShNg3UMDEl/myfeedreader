@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T07:21:52.335Z</updated>
+    <updated>2024-01-28T07:35:36.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ユース五輪 スノーボード女子ビッグエア 村瀬由徠が金メダル]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338231000.html"/>
+        <updated>2024-01-28T07:27:15.000Z</updated>
+        <summary type="html"><![CDATA[カンウォンユースオリンピックのスノーボード、女子ビッグエアで16歳の村瀬由徠選手が金メダルを獲得しました。今大会で日本選手が金メダルを獲得するのは初めてです。村瀬選手は北京オリンピックのこの種目の銅メダリストの村瀬心椛選手の妹です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年1月21日から1月27日】]]></title>
         <id>https://foodfighter.jp/?p=234278</id>
@@ -65,6 +75,16 @@ AK氏のこれには『著作権侵害ダー！！！！』って言われてな
         <updated>2024-01-28T06:54:56.000Z</updated>
         <author>
             <name>暇な空白チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富山 高岡 地元高校の野球部員たちが被災地の泥の片づけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338141000.html"/>
+        <updated>2024-01-28T06:40:02.000Z</updated>
+        <summary type="html"><![CDATA[被災地で、若者たちのボランティアの動きが活発になっています。富山県高岡市では、地元の高校の野球部員たちが、液状化現象で道路などにあふれ出た泥の片づけを手伝いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
