@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T05:36:09.612Z</updated>
+    <updated>2024-01-28T05:50:11.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[女子マラソン 前田穂南選手が日本新記録 19年ぶり更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338191000.html"/>
+        <updated>2024-01-28T05:37:25.000Z</updated>
+        <summary type="html"><![CDATA[女子マラソンの東京オリンピック代表、27歳の前田穂南選手が大阪市で行われた大阪国際女子マラソンで速報タイム、2時間18分59秒の日本新記録をマークしました。これまでの日本記録は、アテネオリンピックの金メダリスト、野口みずきさんが2005年のベルリンマラソンでマークした2時間19分12秒で、前田選手はこの記録を19年ぶりに更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小田急 小田原線 新松田～小田原 運転見合わせ 付近の火災で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240128/k10014338171000.html</id>
