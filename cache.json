@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120455/",
+          "author": null,
+          "description": "「Ado」の新曲「ショコラカタブラ」を起用した、ロッテのアニメーションテレビCMが、1月22日から放送・配信されている。 同CMは、ロッテのチョコレート事業60周年プロモーションの一環として制作...",
+          "link": "https://anime.eiga.com/news/120455/",
+          "publishedOn": "2024-01-28T10:00:00.000Z",
+          "wordCount": 860,
+          "title": "Ado×TRIGGER×吉成曜　ロッテのチョコレートアニメTVCMが放送・配信中",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120459/",
           "author": null,
           "description": "大泉洋が、劇場版シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」にゲスト声優として参加することがわかった。キーパーソンとなる北海道警捜査一課の刑事・川添善久（かわぞえ・よしひさ...",
@@ -2662,6 +2677,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97599",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/27(土) 19:30:00.09 ID:KZwHvrA/r マジでなに？ & […]",
+          "link": "https://switchsoku.com/soft/monsterhunter/97599",
+          "publishedOn": "2024-01-28T10:00:34.000Z",
+          "wordCount": 10078,
+          "title": "モンハンの太刀が不動の人気No.1な理由って",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/12/mhr-tati.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=97595",
           "author": "SWITCH速報",
@@ -5755,6 +5780,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338331000.html",
+          "author": null,
+          "description": "能登半島地震の影響で、パスポートの発行ができなくなっている石川県輪島市では、手続きのために、バスでおよそ100キロ離れた金沢市のパスポートセンターに向かわざるをえない人がいるなど、生活に支障が出ています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338331000.html",
+          "publishedOn": "2024-01-28T10:00:37.000Z",
+          "wordCount": 781,
+          "title": "輪島 地震でパスポート発行できず バスで約100km離れた金沢へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338331_2401281758_0128190039_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338351000.html",
+          "author": null,
+          "description": "28日午前、埼玉県本庄市にイノシシが現れ、畑などにいた男女4人が次々にかまれるなどして、このうち1人が重傷とみられます。これまでのところ捕獲されておらず警察は見かけても近づかないよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338351000.html",
+          "publishedOn": "2024-01-28T09:47:05.000Z",
+          "wordCount": 821,
+          "title": "イノシシにかまれ4人けが このうち1人重傷か 埼玉 本庄",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338351_2401281838_0128184707_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338401000.html",
           "author": null,
@@ -20304,16 +20349,6 @@
           "wordCount": 756,
           "title": "ポーランドの領空にロシアのミサイルか 飛しょう体が侵入",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20231230/K10014303621_2312300713_1230071448_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231230/k10014303601000.html",
-          "author": null,
-          "description": "イスラエル軍は、ガザ地区の中部や南部で地上作戦を続けていて、南部ハンユニス周辺では激しい戦闘が続いているとみられます。一方、ガザ地区ではここ数日人道支援物資の搬入が滞っていて国連は、支援が行き届くよう戦闘の停止を重ねて訴えています。",
-          "link": "http://www3.nhk.or.jp/news/html/20231230/k10014303601000.html",
-          "publishedOn": "2023-12-29T22:08:30.000Z",
-          "wordCount": 759,
-          "title": "ガザ地区南部で激しい戦闘続く 人道支援物資 搬入の滞りも",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231230/K10014303601_2312300658_1230070832_01_02.jpg"
         }
       ]
     },
@@ -25425,16 +25460,6 @@
           "wordCount": 1861,
           "title": "保護されて9日目でも堂々としている子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2023/12/65594.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=65558",
-          "author": "299",
-          "description": "４匹の子猫が室内でじゃれあっている所から始まります。 一匹の子猫が飼い主さんの側で不思議そうな顔つきで見つめいているので飼い主さんが撫でてあげると子猫は不安そうな顔をしていますね。 普段からあまり人に触れられたことがない...\n子猫達と飼い主さんの触れ合い first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/65558",
-          "publishedOn": "2023-12-29T22:00:15.000Z",
-          "wordCount": 1871,
-          "title": "子猫達と飼い主さんの触れ合い",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2023/12/65558.jpg"
         }
       ]
     },
@@ -27060,6 +27085,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032587.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(茸) [CN]：2024/01/27(土) 18:37:42.89 ID:E4Y3syhC0●.net \n\n\n\n\n\n\n\n\n立花孝志氏　松本人志に“ラブコール”「直ちには無理かもしれませんが、手を組みたいです。ぜひ立候補を」（スポニチアネックス）#Yahooニュース https://t.co/14V69FuPx...",
+          "link": "https://itainews.com/archives/2032587.html",
+          "publishedOn": "2024-01-28T10:01:16.000Z",
+          "wordCount": 2413,
+          "title": "【速報】NHから国民を守る党 松本人志氏を擁立かwwwwwwwwwwwwwww",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/3/83bd6ba0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032582.html",
           "author": "yonepo665sfr",
