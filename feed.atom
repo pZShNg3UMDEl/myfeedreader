@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T20:22:30.372Z</updated>
+    <updated>2024-01-28T20:36:32.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パリパラリンピック 代表選考の基準変更に選手たちが申し立て]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240129/k10014338671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240129/k10014338671000.html"/>
+        <updated>2024-01-28T20:23:29.000Z</updated>
+        <summary type="html"><![CDATA[パリパラリンピックの代表選手の選考基準が選手に理由の説明もなく変更されたのは不合理だなどとして、アーチェリーの選手たちが変更の取り消しを求めて日本スポーツ仲裁機構に仲裁を申し立てたことが関係者への取材でわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国連機関スタッフ 攻撃関与疑いでUNRWAへの資金拠出停止相次ぐ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240129/k10014338781000.html</id>
@@ -35227,26 +35237,6 @@ China Tries To Censor Data About Nearly 1 Billion People in Povertyhttps://t.co/
         <summary type="html"><![CDATA[新年を前に、福岡市の櫛田神社では、初詣の参拝者を迎える臨時の「みこ」の任命式が行われました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ペンギンが来年のえと「辰」をイメージした衣装で散歩 松江]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20231230/k10014303891000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20231230/k10014303891000.html"/>
-        <updated>2023-12-30T08:36:22.000Z</updated>
-        <summary type="html"><![CDATA[新しい年を間近に控え、松江市のテーマパークではペンギンが来年のえとの「辰」をイメージした衣装を身につけて園内を散歩しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カプコンプロデューサー「2024年の新ハードに期待している」]]></title>
-        <id>https://switchsoku.com/?p=96648</id>
-        <link href="https://switchsoku.com/soft/capcom/96648"/>
-        <updated>2023-12-30T08:30:13.000Z</updated>
-        <summary type="html"><![CDATA[1: 2023/12/30(土) 00:22:55.38 ID:3ULWPuJkd https:// […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
         </author>
     </entry>
 </feed>
