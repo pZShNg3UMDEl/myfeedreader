@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T11:09:27.509Z</updated>
+    <updated>2024-01-28T11:20:37.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 内灘町 液状化きっかけに低い土地に土が流れ込んだか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338371000.html"/>
+        <updated>2024-01-28T11:17:11.000Z</updated>
+        <summary type="html"><![CDATA[今回の地震で液状化の被害を受けた石川県内灘町について地盤工学の専門家が現地調査を行ったところ、一部の地域では地盤の液状化をきっかけに土が低い土地に流れ込む現象が起きていたことが新たに分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「eスポーツ」なぜ日本で盛り上がらない？　日本は家庭用ゲーム機だが、海外ではPCゲームに勢いがある]]></title>
         <id>https://itainews.com/archives/2032589.html</id>
