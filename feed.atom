@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T08:29:38.274Z</updated>
+    <updated>2024-01-28T08:39:46.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大相撲初場所 横綱 照ノ富士と関脇 琴ノ若による優勝決定戦へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338381000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338381000.html"/>
+        <updated>2024-01-28T08:30:56.000Z</updated>
+        <summary type="html"><![CDATA[大相撲初場所は千秋楽の28日、2敗でトップに並んでいた横綱・照ノ富士と関脇・琴ノ若がともに勝ち、13勝2敗で並んだため、2人による優勝決定戦が行われることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卓球 全日本選手権 男子シングルス 張本智和が6年ぶり優勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240128/k10014338301000.html</id>
