@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T23:13:51.416Z</updated>
+    <updated>2024-01-28T23:24:07.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[桐島聡容疑者と名乗る人物 死亡を確認 入院先の病院で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240129/k10014338861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240129/k10014338861000.html"/>
+        <updated>2024-01-28T23:20:00.000Z</updated>
+        <summary type="html"><![CDATA[1970年代に起きた連続企業爆破事件の1つに関わったとして指名手配された「東アジア反日武装戦線」のメンバー、桐島聡容疑者（70）と名乗る人物が29日、入院先の神奈川県内の病院で死亡したことが、捜査関係者への取材でわかりました。警視庁はDNA鑑定などで本人かどうかの確認を急いでいました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北朝鮮 潜水艦発射巡航ミサイル 発射実験 日本海上で28日]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240129/k10014338841000.html</id>
