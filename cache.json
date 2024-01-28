@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120470/",
+          "author": null,
+          "description": "テレビアニメ「ザ・ファブル」のメインキャストが発表され、主役の佐藤明役を興津和幸、佐藤洋子役を沢城みゆき、清水岬役を花澤香菜、海老原剛士役を大塚明夫、小島賢治役を津田健次郎、ボス役を小村哲生、ジ...",
+          "link": "https://anime.eiga.com/news/120470/",
+          "publishedOn": "2024-01-28T15:00:00.000Z",
+          "wordCount": 846,
+          "title": "「ザ・ファブル」明役の興津和幸ほか沢城みゆき、花澤香菜、大塚明夫、津田健次郎ら出演　4月から2クール連続放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120457/",
           "author": null,
           "description": "4月からTBS系28局で全国同時放送されるテレビアニメ「花野井くんと恋の病」に、久保ユリカ、坂本真綾、木村良平、逢坂良太の出演が決定した。 原作は、森野萌氏が「月刊デザート」（講談社刊）で連載中...",
@@ -2678,21 +2693,6 @@
           "publishedOn": "2023-12-30T08:00:00.000Z",
           "wordCount": 1012,
           "title": "尾崎隆晴監督、黒田洋介、倉田英之「BASTARD!! －暗黒の破壊神－」「ゴブリンスレイヤー」スタッフ対談",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/120307/",
-          "author": null,
-          "description": "アニメ「SPY×FAMILY」初のオリジナルストーリーの長編アニメ「劇場版 SPY×FAMILY CODE: White」が公開中です。テレビシリーズは2022年放送の「Season 1」、23...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/120307/",
-          "publishedOn": "2023-12-30T03:00:00.000Z",
-          "wordCount": 870,
-          "title": "「SPY×FAMILY」アーニャがみんなに愛されるわけ　人気の理由をファンに聞いてみた【アーニャ語録も紹介】",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -20379,26 +20379,6 @@
           "wordCount": 870,
           "title": "福島 東北自動車道で少なくとも8台関係の事故 2人病院に搬送",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20231230/K10014303721_2312301149_1230121209_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231230/k10014303711000.html",
-          "author": null,
-          "description": "イスラエルのガラント国防相はガザ地区での軍事作戦について、「われわれの成果は見事なもので、目標達成も遠くない」と述べ、イスラム組織ハマスの壊滅に向けた作戦の成果を強調しました。一方、この1週間のガザ地区での死者は保健当局のまとめで1000人を超えていて、犠牲者の増加に歯止めがかからない状態が続いています。",
-          "link": "http://www3.nhk.or.jp/news/html/20231230/k10014303711000.html",
-          "publishedOn": "2023-12-30T03:04:54.000Z",
-          "wordCount": 964,
-          "title": "イスラエル国防相 ガザ地区での軍事作戦 成果強調も犠牲者増加",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231230/K10014303711_2312301145_1230120456_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231230/k10014303731000.html",
-          "author": null,
-          "description": "自民党の派閥の政治資金パーティーをめぐる事件で、東京地検特捜部が、安倍派幹部の西村康稔前経済産業大臣からも任意で事情を聴いたことが関係者への取材でわかりました。これで、安倍派の幹部6人すべてが事情聴取を受けたことになり、特捜部は派閥の政治資金収支報告書にパーティー収入の一部が記載されなかった詳しい経緯について確認したものとみられます。",
-          "link": "http://www3.nhk.or.jp/news/html/20231230/k10014303731000.html",
-          "publishedOn": "2023-12-30T03:00:59.000Z",
-          "wordCount": 968,
-          "title": "西村前経済産業相から任意聴取 政治資金 東京地検特捜部",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231230/K10014303731_2312301204_1230120532_01_03.jpg"
         }
       ]
     },
@@ -20407,6 +20387,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234321",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、今月中に実食調査し、2024年1月29日時点で販売中のチェーン店の肉グルメ（全10種類）を美味しい・おすすめ順にラ […]",
+          "link": "https://foodfighter.jp/niku-ranking-2024-0129",
+          "publishedOn": "2024-01-28T14:56:34.000Z",
+          "wordCount": 1862,
+          "title": "【肉の日】チェーン店の美味しい・おすすめグルメランキング【2024年1月29日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/29180f8c2e0d56b220fbd049c8b30919.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234302",
           "author": "foodfighter",
@@ -30704,16 +30694,6 @@
           "wordCount": 2359,
           "title": "満員電車で…「うるさい！」泣き止まない息子に怒鳴るサラリーマン　すると、前に座っていた女性から",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/3/838c2906-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031743.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵▲ ★：2023/12/29(金) 22:59:39.05 ID:G6FumnQi9.net\n\n\n\n\n\n\n\n電話が嫌で仕事をやめるケースも…若い世代に多い「電話恐怖症」　電話マナー学ぶ「もしもし検定」採用する企業が増加 https://t.co/WG3y1emzlv— BSS NEWS テレポート山陰 (@BSS_minna) Decembe...",
-          "link": "https://itainews.com/archives/2031743.html",
-          "publishedOn": "2023-12-30T03:03:09.000Z",
-          "wordCount": 2461,
-          "title": "電話が嫌で仕事をやめるケースも…若い世代に多い「電話恐怖症」　電話マナー学ぶ「もしもし検定」採用する企業が増加",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/4/34ff86d2-s.png"
         }
       ]
     },
