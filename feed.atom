@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T22:36:27.054Z</updated>
+    <updated>2024-01-28T22:50:31.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 潜水艦発射巡航ミサイル 発射実験 日本海上で28日]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240129/k10014338841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240129/k10014338841000.html"/>
+        <updated>2024-01-28T22:37:45.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮は、キム・ジョンウン（金正恩）総書記の立ち会いのもとで28日、日本海上で潜水艦発射巡航ミサイルを発射する実験が行われたと29日朝に発表しました。韓国軍は北朝鮮が28日、巡航ミサイル数発を北朝鮮東部のシンポ（新浦）付近の海上から発射したと明らかにしていて、北朝鮮の29日朝の発表はこれを指すものとみられます。また、キム総書記は原子力潜水艦の建造事業を確認したとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春闘 賃上げ率 高水準の去年を上回る予測 民間エコノミスト]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240129/k10014338541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240129/k10014338541000.html"/>
+        <updated>2024-01-28T22:33:23.000Z</updated>
+        <summary type="html"><![CDATA[ことしの春闘での賃金の引き上げ率について民間のエコノミストの予測がまとまり、平均で3.85％と、30年ぶりの高い水準となった去年を上回る見通しとなっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バレンタインデー商戦 デパート各社「イートイン」を強化]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240129/k10014338531000.html</id>
