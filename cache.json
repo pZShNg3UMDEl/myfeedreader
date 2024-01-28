@@ -5771,6 +5771,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338611000.html",
+          "author": null,
+          "description": "石川県で震度7の揺れを観測した能登半島地震から29日で4週間です。石川県内の被災地では4万2000戸余りで断水が続くなどインフラの復旧には時間がかかる見通しで、避難生活の長期化は避けられない状況となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014338611000.html",
+          "publishedOn": "2024-01-28T21:37:58.000Z",
+          "wordCount": 743,
+          "title": "能登半島地震 避難生活の長期化 避けられない状況 石川",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014338611_2401282133_0129063800_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338641000.html",
           "author": null,
           "description": "自民党の派閥の政治資金パーティーをめぐる事件を受けて、国会は29日、衆参両院の予算委員会で集中審議が行われます。与党側が、岸田総理大臣に再発防止への決意をただすのに対し、野党側は、岸田総理大臣や起訴されなかった派閥幹部らの責任を追及する方針です。",
@@ -20269,16 +20279,6 @@
           "wordCount": 976,
           "title": "西村前経産相や下村元政調会長を任意聴取 政治資金 東京地検",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20231230/K10014303951_2312301844_1230185157_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231230/k10014303991000.html",
-          "author": null,
-          "description": "競輪の年間チャンピオンを決める『KEIRINグランプリ』が東京 立川市で行われ、33歳の松浦悠士選手が初優勝を果たしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20231230/k10014303991000.html",
-          "publishedOn": "2023-12-30T09:40:30.000Z",
-          "wordCount": 849,
-          "title": "『KEIRINグランプリ』松浦悠士 初優勝 競輪年間チャンピオンに",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231230/K10014303991_2312301838_1230184032_01_02.jpg"
         }
       ]
     },
