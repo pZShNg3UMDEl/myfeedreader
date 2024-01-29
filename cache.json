@@ -5811,6 +5811,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339791000.html",
+          "author": null,
+          "description": "豊田自動織機が生産したエンジンの認証不正問題で、トヨタ自動車は、国内の4つの自動車工場で生産ラインの停止を決めました。会社は、再開を目指して対応を急ぐ方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339791000.html",
+          "publishedOn": "2024-01-29T20:30:25.000Z",
+          "wordCount": 613,
+          "title": "トヨタ自動車 4つの工場で生産ライン停止 再開目指し対応急ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339791_2401292239_0129224227_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339821000.html",
+          "author": null,
+          "description": "国会では30日、岸田総理大臣が施政方針演説を行い、自民党の派閥をカネと人事から決別させるなどとして、政治の信頼回復を目指す考えを強調することにしています。これに対し、野党側は、31日からの代表質問で実態解明を急ぐよう求めるなど、追及を強める方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339821000.html",
+          "publishedOn": "2024-01-29T20:27:45.000Z",
+          "wordCount": 657,
+          "title": "岸田首相 きょう施政方針演説 政治の信頼回復目指す考え強調へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339821_2401292258_0130052747_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339721000.html",
           "author": null,
           "description": "2月3日の節分を前に、大阪の水族館では鬼にふんしたダイバーが水槽の中に登場するイベントが始まりました。",
@@ -20409,26 +20429,6 @@
           "wordCount": 826,
           "title": "明治神宮 1年のけがれはらう「大祓」4年ぶりに一般の人も参列",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20231231/K10014304491_2312311705_1231172854_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231231/k10014304511000.html",
-          "author": null,
-          "description": "1月1日、元日にかけての天気です。大気の状態が不安定になっているため、明け方にかけては日本海側を中心に落雷や突風などに注意が必要です。一方、太平洋側では朝は晴れて初日の出が見られるところがありそうです。",
-          "link": "http://www3.nhk.or.jp/news/html/20231231/k10014304511000.html",
-          "publishedOn": "2023-12-31T08:32:03.000Z",
-          "wordCount": 888,
-          "title": "元日の天気は？ 日本海側中心に落雷や突風などに注意を",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231231/K10014304511_2312311726_1231172714_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20231231/k10014304471000.html",
-          "author": null,
-          "description": "サッカー日本代表は、元日の1月1日、国立競技場で行われるタイ代表との強化試合に向けて公式練習を行い、森保一監督が「アジアカップやその先のワールドカップにつながる戦いをしたい」と意気込みを話しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20231231/k10014304471000.html",
-          "publishedOn": "2023-12-31T08:28:04.000Z",
-          "wordCount": 1102,
-          "title": "サッカー日本代表 元日のタイ代表との強化試合へ公式練習",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20231231/K10014304471_2312311701_1231170336_01_02.jpg"
         }
       ]
     },
