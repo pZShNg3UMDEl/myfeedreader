@@ -5726,6 +5726,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338971000.html",
+          "author": null,
+          "description": "能登半島地震で石川県輪島市などの自宅を離れ、旅館やホテルといった2次避難所で過ごす子どもたちの中には、避難先に近い学校へ一時的に通学する動きが出ています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014338971000.html",
+          "publishedOn": "2024-01-29T02:24:16.000Z",
+          "wordCount": 587,
+          "title": "石川 輪島 2次避難所で過ごす子どもが避難先に近い学校へ通学",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014338971_2401291111_0129112418_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338961000.html",
           "author": null,
           "description": "大阪国際女子マラソンで19年ぶりに日本記録を更新した前田穂南選手がレースから一夜明けた29日、会見し「自分の力を出し切って記録を出せてうれしい」と喜びを語りました。",
@@ -20302,6 +20312,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234384",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「ルージュホワイトオペラフラペチーノ」を世界一詳しく調査しました。    […]",
+          "link": "https://foodfighter.jp/starbucks-rougeopera-white",
+          "publishedOn": "2024-01-29T02:34:19.000Z",
+          "wordCount": 1907,
+          "title": "【スターバックス】ルージュホワイトオペラフラペチーノ【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/f5ff08e869b0d45a6cdb7fbd71b6f6eb.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234361",
           "author": "foodfighter",
