@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T23:37:03.069Z</updated>
+    <updated>2024-01-29T23:50:09.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12月の完全失業率 2.4％ 前月比0.1ポイント改善]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339891000.html"/>
+        <updated>2024-01-29T23:45:59.000Z</updated>
+        <summary type="html"><![CDATA[総務省によりますと、先月の全国の完全失業率は2.4％で、前の月より0.1ポイント改善しました。この結果、去年1年間の平均の完全失業率は2.6％と、おととしと変わりませんでした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム ホワイトチョコ大好きな真っ白な白くま【新作アイス】]]></title>
         <id>https://foodfighter.jp/?p=234428</id>
