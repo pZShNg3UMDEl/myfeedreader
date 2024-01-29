@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T20:13:34.649Z</updated>
+    <updated>2024-01-29T20:24:52.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[節分前に 水槽の中に鬼にふんしたダイバーが登場 大阪の水族館]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339721000.html"/>
+        <updated>2024-01-29T20:14:51.000Z</updated>
+        <summary type="html"><![CDATA[2月3日の節分を前に、大阪の水族館では鬼にふんしたダイバーが水槽の中に登場するイベントが始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地震活動 活発な状態続く 被災地は気温上昇で土砂災害に注意]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240130/k10014339921000.html</id>
