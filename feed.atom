@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T10:29:23.286Z</updated>
+    <updated>2024-01-29T10:39:39.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240129/k10014339421000.html"/>
         <updated>2024-01-29T10:14:55.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震でビルが倒壊して隣の自宅が巻き込まれ、妻と19歳の娘を亡くした石川県輪島市の男性は、現場で2人の遺品を探しています。男性は取材に対し「毎朝、夢だとよいなと思って起きる。本当に悔しい」と話しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽田空港 衝突事故 国の運輸安全委 海保機長に聞き取り開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240129/k10014339551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240129/k10014339551000.html"/>
+        <updated>2024-01-29T10:10:41.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港で起きた航空機どうしの衝突炎上事故で、国の運輸安全委員会が、海上保安庁の機長への聞き取りを始めたことが分かりました。海上保安庁機は、誤って滑走路に進入したとみられていて、運輸安全委員会が当時の詳しい状況を調べています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
