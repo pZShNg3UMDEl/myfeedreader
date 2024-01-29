@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T22:37:44.839Z</updated>
+    <updated>2024-01-29T22:50:15.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -43,6 +43,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339881000.html"/>
         <updated>2024-01-29T21:09:24.000Z</updated>
         <summary type="html"><![CDATA[ことし3月に行われるロシアの大統領選挙をめぐり、中央選挙管理委員会はプーチン大統領が必要な有権者の署名を集めたとして大統領選挙の候補者に正式に登録しました。プーチン氏の陣営は国民からの広い支持をアピールし、公式に選挙活動を開始するとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福井市の市立中学校 休日の部活動 25年度末で原則廃止の見通し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339631000.html"/>
+        <updated>2024-01-29T20:51:11.000Z</updated>
+        <summary type="html"><![CDATA[教員の長時間労働を解消するため、福井市のすべての市立中学校では、原則、2025年度末で休日の部活動が廃止される見通しになりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -35273,16 +35283,6 @@ JUST IN!! 新着記事⠀ /／🗣同乗の男性２人は“頸椎損傷”と�
         <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304601000.html"/>
         <updated>2023-12-31T10:59:26.000Z</updated>
         <summary type="html"><![CDATA[大みそかの夜、秋田県男鹿市の各地では、鬼のような面をかぶった男性が地域の家々をまわって無病息災を願う伝統行事「男鹿のナマハゲ」が行われています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18歳で新年迎える新成人 推計106万人 過去最少に 総務省]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304221000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304221000.html"/>
-        <updated>2023-12-31T10:39:25.000Z</updated>
-        <summary type="html"><![CDATA[新年を18歳で迎える新成人は106万人で、総務省が推計を取り始めてから最も少なくなりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
