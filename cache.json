@@ -2624,21 +2624,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120257/",
-          "author": null,
-          "description": "劇場未公開だったピクサーの3作品「私ときどきレッサーパンダ」「あの夏のルカ」「ソウルフル・ワールド」の日本公開が決定した。「私ときどきレッサーパンダ」は2024年3月15日、「あの夏のルカ」は2...",
-          "link": "https://anime.eiga.com/news/120257/",
-          "publishedOn": "2023-12-30T12:00:00.000Z",
-          "wordCount": 726,
-          "title": "ピクサー未公開作「私ときどきレッサーパンダ」「あの夏のルカ」「ソウルフル・ワールド」日本劇場公開が決定",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2647,6 +2632,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97612",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/28(日) 13:41:57.37 ID:jB64HEizd https:// […]",
+          "link": "https://switchsoku.com/leak/97612",
+          "publishedOn": "2024-01-29T00:00:59.000Z",
+          "wordCount": 10077,
+          "title": "【噂】Switch2ではONLINEサービスにゲームキューブが追加か！？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/switch-online-plus.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97607",
           "author": "SWITCH速報",
@@ -5740,6 +5735,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338741000.html",
+          "author": null,
+          "description": "ことしのG7＝主要7か国の議長国を務めるイタリアのメローニ首相が、2月初めに日本を訪問して岸田総理大臣と会談する方向で調整を進めていることがわかり、ウクライナへの支援などにG7として引き続き連携して取り組むことを確認するものと見られます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014338741000.html",
+          "publishedOn": "2024-01-29T00:47:23.000Z",
+          "wordCount": 707,
+          "title": "イタリア首相 2月初めに日本訪問 岸田首相と会談の方向で調整",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014338741_2401290945_0129094725_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338871000.html",
+          "author": null,
+          "description": "1月20日、月面への着陸に成功したものの搭載していた太陽電池が発電しておらず、電源を切っていた日本の無人探査機「SLIM」について、JAXA＝宇宙航空研究開発機構は旧ツイッター、Xの公式アカウントで、これまでに地上との通信を確立することに成功し、運用を再開したことを明らかにしました。すでに月面での科学観測を開始しているということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014338871000.html",
+          "publishedOn": "2024-01-29T00:07:34.000Z",
+          "wordCount": 773,
+          "title": "日本の月探査機「SLIM」発電確認 通信確立し月面調査再開 JAXA",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014338871_2401290909_0129090935_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338861000.html",
           "author": null,
@@ -20258,6 +20273,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=234323",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「ルージュオペラフラペチーノ」を世界一詳しく調査しました。   公式Yo […]",
+          "link": "https://foodfighter.jp/starbucks-rougeopera",
+          "publishedOn": "2024-01-28T23:50:45.000Z",
+          "wordCount": 1908,
+          "title": "【スターバックス】ルージュオペラフラペチーノ【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/e121463d5f38eeac2c9d9c3c7fa5b04c.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=234321",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、今月中に実食調査し、2024年1月29日時点で販売中のチェーン店の肉グルメ（全10種類）を美味しい・おすすめ順にラ […]",
@@ -21635,6 +21660,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/29/news036.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズ は、高外部磁場耐性のリニア型TMR位置センサー「XENSIV TLI5590-A6W」を発表した。リニアまたは環状の磁気エンコーダーの使用により、10μm未満の高精度で精密測定できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/29/news036.html",
+          "publishedOn": "2024-01-29T00:00:00.000Z",
+          "wordCount": 2681,
+          "title": "10μm未満の高精度測定を実現、高外部磁場耐性のリニア型TMR位置センサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/29/cover_news036.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/26/news074.html",
           "author": null,
           "description": "アンリツは、同社が開発、製造する高精度帯域制御装置「PureFlow」シリーズの新製品「PureFlow AS1」を、販売代理店となるSCSKから発売した。ドメインフィルター機能やSNI識別機能、アクティブモニター機能を追加している。",
@@ -21821,6 +21856,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67468",
+          "author": "299",
+          "description": "赤ちゃん猫が目を細めながら哺乳瓶からミルクをゴクゴク美味しそうに飲んでいます。飼い主さんの手に自分の手を添えながらミルクを飲んでいる姿は、とても可愛いものです。 ミルクをリズム良く飲みほしていく子猫はとても頼もしくて、こ...\nミルクを飲んで満腹になった子猫がしばらく動けません first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67468",
+          "publishedOn": "2024-01-29T00:00:54.000Z",
+          "wordCount": 1624,
+          "title": "ミルクを飲んで満腹になった子猫がしばらく動けません",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67468.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=67431",
           "author": "299",
@@ -30474,16 +30519,6 @@
           "wordCount": 2514,
           "title": "【衝撃の答え】たばこを吸うと、寿命は何年縮まる？　ヤバいよ",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/9/c939afd3-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031758.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2023/12/30(土) 12:05:57.18 ID:jYGeHdnM0●.net\n\n\n\n\n\n\n\nNHK「インターネット視聴」にも課金へ…「受信料制度」はこれからどうなる？【経済アナリストが解説】https://t.co/vtmFTJudXdNHKの受信料の支払いは法律で義務付けられています...",
-          "link": "https://itainews.com/archives/2031758.html",
-          "publishedOn": "2023-12-30T12:03:37.000Z",
-          "wordCount": 2918,
-          "title": "NHK「インターネット視聴」にも課金へ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/7/c70352c4-s.png"
         }
       ]
     },
