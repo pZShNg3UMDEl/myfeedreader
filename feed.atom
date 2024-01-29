@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T13:36:46.611Z</updated>
+    <updated>2024-01-29T13:50:40.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 日本人短期滞在ビザ免除“再開検討” 日本側にも措置要求]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240129/k10014339691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240129/k10014339691000.html"/>
+        <updated>2024-01-29T13:16:17.000Z</updated>
+        <summary type="html"><![CDATA[中国政府が停止している日本人が中国に短期滞在する際のビザの免除について、中国外務省は29日、「再開を真剣に検討する」としました。そのうえで日本側も訪日する中国人に対して何らかの措置をとるよう求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老車カス「修理代なんて払えん。独り身の年金暮らしで払う金もない、ひもじい年寄りから金を取る気か」]]></title>
         <id>https://itainews.com/archives/2032617.html</id>
@@ -35591,16 +35601,6 @@ JUST IN!! 新着記事⠀ /／🗣同乗の男性２人は“頸椎損傷”と�
 仕事を邪魔する可愛い子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮 キム総書記 “来年 軍事偵察衛星3基を追加打ち上げへ”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20231231/k10014304211000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20231231/k10014304211000.html"/>
-        <updated>2023-12-31T01:38:35.000Z</updated>
-        <summary type="html"><![CDATA[北朝鮮のキム・ジョンウン（金正恩）総書記は、30日まで開かれた朝鮮労働党の中央委員会総会で、来年、軍事偵察衛星を追加で3基打ち上げる計画を発表しました。また韓国との関係について、統一の対象ではなく、敵対的な2つの国家として位置づけると方針を転換することを明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
