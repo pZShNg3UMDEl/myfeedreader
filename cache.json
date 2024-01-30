@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120484/",
+          "author": null,
+          "description": "テレビアニメ化企画が進行していた「モブから始まる探索英雄譚」の放送が2024年内に決定した。保住有哉、花澤香菜の出演が明らかとなったほか、PV第1弾、メインスタッフ、キービジュアル第1弾も公開さ...",
+          "link": "https://anime.eiga.com/news/120484/",
+          "publishedOn": "2024-01-30T03:00:00.000Z",
+          "wordCount": 758,
+          "title": "低ステータスの高校生が成り上がる「モブから始まる探索英雄譚」24年放送　メインキャストに保住有哉、花澤香菜",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120485/",
           "author": null,
           "description": "放送中のアニメ「ちいかわ」の1月30日放送回に、乳酸菌の歌を歌うヒーロー「むちゃうマン」が初登場した。劇中でむちゃうマンが歌う楽曲「むちゃうマンのテーマ」は、「ドラゴンボールZ」の主題歌「CHA...",
@@ -2618,21 +2633,6 @@
           "publishedOn": "2024-01-01T03:00:00.000Z",
           "wordCount": 815,
           "title": "今石洋之×中島かずき×TRIGGER「プロメア」1月1日午後11時からBS11で放送",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120328/",
-          "author": null,
-          "description": "オリジナル時代劇アニメ「明治撃剣-1874-」の無料放送が1月14日からスタートすることが決定した。中村悠一、三上哲、黒沢ともよ、Lynnらが出演する。PVも公開されている。 物語の舞台は、大政...",
-          "link": "https://anime.eiga.com/news/120328/",
-          "publishedOn": "2023-12-31T15:00:00.000Z",
-          "wordCount": 864,
-          "title": "時代劇アニメ「明治撃剣-1874-」1月14日からBS松竹東急で無料放送　中村悠一、三上哲、黒沢ともよ、Lynnら出演",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -5730,6 +5730,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340141000.html",
+          "author": null,
+          "description": "石川県の酒造会社の間では、能登半島地震で被災した会社からコメなどを別の会社の蔵に移して日本酒を製造しようという動きが出始めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014340141000.html",
+          "publishedOn": "2024-01-30T02:59:06.000Z",
+          "wordCount": 508,
+          "title": "石川 被災の酒造会社 コメなどを別会社の蔵に移し日本酒製造へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340141_2401301133_0130115908_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340151000.html",
+          "author": null,
+          "description": "最大で震度7を観測した石川県の能登地方やその周辺では地震の回数は徐々に減少しているものの、依然、地震活動が活発な状態で引き続き注意が必要です。一方、被災地ではこれまでの地震で地盤が緩んでいるため、雪どけの水や少ない雨でも土砂災害が発生するおそれがあり注意してください。",
+          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014340151000.html",
+          "publishedOn": "2024-01-30T02:49:47.000Z",
+          "wordCount": 451,
+          "title": "被災地で気温上昇 “雪どけや少ない雨でも土砂災害に注意を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340151_2401301130_0130114949_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340121000.html",
+          "author": null,
+          "description": "イスラム組織ハマスに拘束されている人質の解放と戦闘の休止に向けた交渉について、アメリカのブリンケン国務長官は29日、記者会見で「生産的な協議だった」と述べて交渉の進展に期待を示しました。一方、イスラエルとハマスの主張には隔たりがあるとの指摘もあり、交渉がまとまるかどうかは不透明な状況です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014340121000.html",
+          "publishedOn": "2024-01-30T02:48:53.000Z",
+          "wordCount": 520,
+          "title": "人質解放 戦闘休止の交渉 米国務長官 “生産的協議”進展期待",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340121_2401301139_0130114855_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340131000.html",
+          "author": null,
+          "description": "政党から議員に支給される「政策活動費」の廃止や透明化を野党や公明党が求めていることについて、自民党の梶山幹事長代行は、税金を原資とし、国から政党に交付される政党交付金の使いみちなどもあわせて議論すべきだという考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014340131000.html",
+          "publishedOn": "2024-01-30T02:39:08.000Z",
+          "wordCount": 492,
+          "title": "自民 梶山幹事長代行 “政党交付金の使途公開なども議論を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340131_2401301123_0130113910_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340101000.html",
           "author": null,
@@ -20369,16 +20409,6 @@
           "wordCount": 805,
           "title": "岸田首相 年頭の所感 “政治資金問題 国民の信頼回復に全力”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014304401_2312311352_1231135252_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014304061000.html",
-          "author": null,
-          "description": "天皇陛下は、新年にあたって文書で感想を寄せ、全国で相次いだ災害のほか世界各地で起きている戦争や紛争に触れたうえで、「新しい年が、我が国と世界の人々にとって、明るい希望を持って歩んでいくことのできる年となることを祈ります」と述べられました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014304061000.html",
-          "publishedOn": "2023-12-31T15:00:30.000Z",
-          "wordCount": 764,
-          "title": "天皇陛下「希望を持って歩める年に」新年にあたって文書で感想",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014304061_2312311021_0101000032_01_02.jpg"
         }
       ]
     },
@@ -20387,6 +20417,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234477",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、すべての店で粉から作る讃岐うどんが人気のチェーン「讃岐釜揚げうどん　丸亀製麺」へ進撃しました。  […]",
+          "link": "https://foodfighter.jp/marugame-kakitamaankake",
+          "publishedOn": "2024-01-30T03:07:15.000Z",
+          "wordCount": 1901,
+          "title": "【丸亀製麺】牡蠣たまあんかけうどん・大盛り【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/abb23a52445921611641ae4d4b4b019e.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234451",
           "author": "foodfighter",
@@ -25575,6 +25615,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=67272",
+          "author": "Munenori Taniguchi",
+          "description": "イーロン・マスク氏は、自身が設立した脳インプラント開発企業Neuralinkが、最初のヒトの脳へのチップ埋め込み手術を行ったとX（Twitter）に述べた。患者は術後、順調に回復しているという。 Neuralinkは、2023年3月に米食品医薬品局（FDA）からヒト臨床試験の申請を却下されていたもの […]",
+          "link": "https://gadget.phileweb.com/post-67272/",
+          "publishedOn": "2024-01-30T03:07:01.000Z",
+          "wordCount": 777,
+          "title": "イーロン・マスク氏、Neuralinkが初めて人間に脳インプラントを実施したと報告",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/Neuralink1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=67296",
           "author": "編集部：平山洸太",
           "description": "Zoomは、アップルのMRヘッドセット「Apple Vision Pro」に向けてアプリを展開すると発表。米国における同製品の発売日と同じく、2月2日から利用可能になるとしている。 Apple Vision Pro版のZoomアプリでは、ユーザー自身の姿、顔や手の動きをリアルタイムで再現するという、 […]",
@@ -27245,6 +27295,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032636.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Ailuropoda melanoleuca ★：2024/01/29(月) 19:05:19.73 ID:cfpnNnzx9.net\n\n\n\n\n\n\n\n\n\n【独自】桐島容疑者とみられる男の潜伏中の写真入手　写真撮影時は58歳か https://t.co/0Yn61Dv5C5— TBS NEWS DIG Powered by JNN (@tbsnewsdig) January 29, 2024 \n\n\n\n\n\n\n\n\n2024...",
+          "link": "https://itainews.com/archives/2032636.html",
+          "publishedOn": "2024-01-30T03:01:16.000Z",
+          "wordCount": 2315,
+          "title": "【独自】桐島容疑者とみられる男の潜伏中の写真入手　写真撮影時は58歳か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/5/a5f333ad-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032625.html",
           "author": "damono3856",
