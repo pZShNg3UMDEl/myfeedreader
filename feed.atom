@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T05:37:20.008Z</updated>
+    <updated>2024-01-30T05:50:18.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、スマートホーム製品用の「homeOS」開発中？tvOS 17.4ベータに手がかり]]></title>
+        <id>https://gadget.phileweb.com/?p=67357</id>
+        <link href="https://gadget.phileweb.com/post-67357/"/>
+        <updated>2024-01-30T05:40:35.000Z</updated>
+        <summary type="html"><![CDATA[アップルは「HomePod」と「Apple TV」といったスマートホーム製品に、システムソフトウェアtvOSを搭載している。そして開発者向けに配信されたtvOS 17.4最初のベータ版から、新たな「homeOS」開発が水面下で進行中の手がかりを米MacRumorsが発見した。 2021年6月、アップ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経産省 NTT中心の開発プロジェクトに450億円余の支援決定]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240130/k10014340341000.html</id>
