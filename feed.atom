@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T05:26:58.469Z</updated>
+    <updated>2024-01-30T05:37:20.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経産省 NTT中心の開発プロジェクトに450億円余の支援決定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240130/k10014340341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014340341000.html"/>
+        <updated>2024-01-30T05:27:10.000Z</updated>
+        <summary type="html"><![CDATA[光の技術を使った次世代通信ネットワークの実用化に向けて、経済産業省は、NTTを中心に複数の日本企業が参加する開発プロジェクトに対し、450億円余りの支援を決定したと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英紙「物価高のなか、日本のサラリーマンは『激安ランチ』を食べている」]]></title>
         <id>https://itainews.com/archives/2032638.html</id>
