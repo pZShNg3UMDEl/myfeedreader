@@ -5766,6 +5766,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341041000.html",
+          "author": null,
+          "description": "国会は31日から岸田総理大臣の施政方針演説に対する各党の代表質問が始まります。自民党が岸田総理大臣に政治改革の具体的なスケジュールを示し、早急に作業に着手するよう求めるのに対し、立憲民主党は政治資金問題に関係したすべての議員を処分するなど自民党として政治責任を果たすよう迫る構えです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341041000.html",
+          "publishedOn": "2024-01-30T21:19:51.000Z",
+          "wordCount": 704,
+          "title": "国会 各党代表質問へ 立民は自民に政治責任果たすよう迫る構え",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341041_2401302147_0131061953_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240131/k10014340961000.html",
           "author": null,
           "description": "能登半島地震で、石川県七尾市や津幡町など複数の地点で土を盛って造成した土地が崩壊し、住宅にも被害が出ていたことが専門家の調査で分かりました。",
@@ -20444,26 +20454,6 @@
           "wordCount": 402,
           "title": "気象庁  「令和6年能登半島地震」と命名 石川県能登地方の地震",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014305521_2401011825_0101182654_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014305271000.html",
-          "author": null,
-          "description": "1日午後4時すぎに能登地方で震度7の揺れを観測する地震が起き、大津波警報が発表されました。各地の被害について随時更新してお伝えしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014305271000.html",
-          "publishedOn": "2024-01-01T09:20:34.000Z",
-          "wordCount": 1209,
-          "title": "【被害まとめ】石川県で震度7 大津波警報",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014305271_2401011742_0101174820_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014305441000.html",
-          "author": null,
-          "description": "震度6強の揺れを観測した石川県輪島市の防災担当の職員によりますと「市内で火災が発生している」という情報が寄せられているということです。詳細は確認中だとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014305441000.html",
-          "publishedOn": "2024-01-01T09:13:25.000Z",
-          "wordCount": 398,
-          "title": "石川 輪島”市内で火災発生”情報",
-          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
         }
       ]
     },
@@ -20472,6 +20462,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234546",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
+          "link": "https://foodfighter.jp/mcdonalds-tamago-double-muffin",
+          "publishedOn": "2024-01-30T20:50:49.000Z",
+          "wordCount": 1923,
+          "title": "【マクドナルド】たまごダブルマフィン（朝マック）【リバイバルバーガーズ・期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/5d7e91fd4e728623d4bcc8339a59a48a.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234523",
           "author": "foodfighter",
