@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120485/",
+          "author": null,
+          "description": "放送中のアニメ「ちいかわ」の1月30日放送回に、乳酸菌の歌を歌うヒーロー「むちゃうマン」が初登場した。劇中でむちゃうマンが歌う楽曲「むちゃうマンのテーマ」は、「ドラゴンボールZ」の主題歌「CHA...",
+          "link": "https://anime.eiga.com/news/120485/",
+          "publishedOn": "2024-01-30T00:00:00.000Z",
+          "wordCount": 705,
+          "title": "アニメ「ちいかわ」むちゃうマンの歌は影山ヒロノブが担当「ノリノリで歌っちゃいました」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120483/",
           "author": null,
           "description": "P.A.WORKSが手がけるオリジナルテレビアニメ「真夜中ぱんチ」が7月からスタートすることが決定した。ティザービジュアルと特報映像が公開されている。 同作は、世界最大の動画投稿サイト「NewT...",
@@ -2624,36 +2639,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/120266/",
-          "author": null,
-          "description": "アニメ・声優・イベント情報サイト「アニメハック」では、2023年の年末企画として「声優」「ニュース」「各期のアニメ」「イベント」の4つのカテゴリーごとにランキングを発表します。 1年間で最も読ま...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/120266/",
-          "publishedOn": "2023-12-31T12:00:00.000Z",
-          "wordCount": 943,
-          "title": "2023年も「鬼滅の刃」はすごかった　圧倒的人気で話題独占【年間・人気記事ランキング】",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120266/",
-          "author": null,
-          "description": "アニメ・声優・イベント情報サイト「アニメハック」では、2023年の年末企画として「声優」「ニュース」「各期のアニメ」「イベント」の4つのカテゴリーごとにランキングを発表します。 1年間で最も読ま...",
-          "link": "https://anime.eiga.com/news/120266/",
-          "publishedOn": "2023-12-31T12:00:00.000Z",
-          "wordCount": 936,
-          "title": "2023年も「鬼滅の刃」はすごかった　圧倒的人気で話題独占【年間・人気記事ランキング】",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2662,6 +2647,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97645",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/29(月) 09:34:47.13 ID:2+GRqEnnM どうして… &n […]",
+          "link": "https://switchsoku.com/soft/zelda/97645",
+          "publishedOn": "2024-01-30T00:00:34.000Z",
+          "wordCount": 9952,
+          "title": "リンクさん頑張ってるのにゲームタイトルにならない…",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/05/zelda-totk004.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97636",
           "author": "SWITCH速報",
@@ -5026,16 +5021,6 @@
           "wordCount": 9989,
           "title": "年越しにやるゲーム教えて",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/zPuO93Eg.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96676",
-          "author": "SWITCH速報",
-          "description": "1: 23/12/22(金) 18:04:28 ID:yFJR 桃鉄令和 2020/11/19 発売 […]",
-          "link": "https://switchsoku.com/switch/96676",
-          "publishedOn": "2023-12-31T12:00:16.000Z",
-          "wordCount": 10014,
-          "title": "最近の『桃太郎電鉄』‥滅茶苦茶景気がいい",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/momotetu-world-100.webp"
         }
       ]
     },
@@ -5745,6 +5730,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339781000.html",
+          "author": null,
+          "description": "去年1年間の平均の有効求人倍率は1.31倍となり、コロナ禍からの経済活動の回復などを背景に2年連続で前の年を上回りました。ただ、コロナ禍前の令和元年と比べると低い状況が続いていて、厚生労働省は「製造業や建設業で原材料費の高騰を受けて求人の数を減らす動きがあるとみられ、注視が必要だ」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339781000.html",
+          "publishedOn": "2024-01-29T23:59:09.000Z",
+          "wordCount": 752,
+          "title": "有効求人倍率 去年1年間の平均で1.31倍 2年連続で前年上回る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339781_2401300858_0130085911_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339891000.html",
           "author": null,
@@ -20343,6 +20338,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=234451",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 白い生チョコバー」を世界一詳しく調査しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/711sej-nama-choco-bar-ice-white",
+          "publishedOn": "2024-01-30T00:25:16.000Z",
+          "wordCount": 1874,
+          "title": "【セブンイレブン】セブンプレミアム 白い生チョコバー【新作コンビニアイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/198e92018f44873c6f0d02b583d694a0.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=234428",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム ホワイトチョコ大好きな真っ白な白くま」を世界一詳しく調査しました。   公 […]",
@@ -21750,6 +21755,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2401/30/news078.html",
+          "author": null,
+          "description": "マイクロンテクノロジーは、LPDDR5Xベースの低消費電力圧縮アタッチドメモリモジュール「LPCAMM2」を発表した。最大転送速度は、現行のDDR5 SODIMMの5600Mビット/秒を上回る9600Mビット/秒を達成している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2401/30/news078.html",
+          "publishedOn": "2024-01-30T00:00:00.000Z",
+          "wordCount": 2648,
+          "title": "LPDDR5Xベースの低消費電力メモリモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/30/cover_news078.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2401/23/news180.html",
           "author": null,
           "description": "今回は前回説明しきれなかったチョークの要求特性について説明し、続いて今回の目標であるリップル電圧を図式解法で導けるかを検討します。",
@@ -21956,6 +21971,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67527",
+          "author": "299",
+          "description": "しっぽがくの字に折れていているキジトラの子猫ちゃんがちょこまか動き回っています。 飼い主さんの膝の上に乗って甘えてきたりしていましたが、部屋の中を探検してみたいという好奇心が旺盛なので、時折飼い主さんのところから離れてい...\n部屋の探検をしたらごはんを食べてすぐに昼寝する子猫の慌ただしい1日 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67527",
+          "publishedOn": "2024-01-30T00:00:46.000Z",
+          "wordCount": 1631,
+          "title": "部屋の探検をしたらごはんを食べてすぐに昼寝する子猫の慌ただしい1日",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67527.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=67488",
           "author": "299",
@@ -30649,16 +30674,6 @@
           "wordCount": 2397,
           "title": "運転中に「おにぎりパクパク」は違反になる可能性も 危険大な「ながら運転」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/e/1ee255a1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031794.html",
-          "author": "damono3856",
-          "description": "1 名前：(八嶽山) [ﾆﾀﾞ]：2023/12/31(日) 12:32:51.48 ID:●.net\n\n\n\n\n\n\n\n松本人志さん週刊誌報道 吉本興業「当該事実は一切ない」https://t.co/FBKvVmEHTP #nhk_news— NHKニュース (@nhk_news) December 27, 2023  \n\n\n\n\n\n\n松本人志さん週刊誌報道 吉本興業「当該事実は...",
-          "link": "https://itainews.com/archives/2031794.html",
-          "publishedOn": "2023-12-31T12:05:05.000Z",
-          "wordCount": 2838,
-          "title": "吉本興業「松本人志の強姦は嘘！スポンサーは安心して！」 スポンサー「はい降板します」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/2/2211e90a-s.png"
         }
       ]
     },
