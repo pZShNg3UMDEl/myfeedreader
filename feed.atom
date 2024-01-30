@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T09:35:33.850Z</updated>
+    <updated>2024-01-30T09:50:24.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[医師が危機感示す「福祉避難所」の現状 人手不足 受け入れ困難]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240130/k10014340171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014340171000.html"/>
+        <updated>2024-01-30T09:30:56.000Z</updated>
+        <summary type="html"><![CDATA[災害のあと、支援や配慮が必要なお年寄りや障害者が避難する「福祉避難所」。石川県輪島市の一部の地域では新たな避難者の受け入れが難しい状態が続いていることがわかりました。人手の不足が主な原因で、支援にあたる医師は「災害関連死につながりかねない」と危機感を示しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ひろゆきと公明党と強いつながりがあるフローレンス駒崎弘樹　渋谷ふるさと納税編]]></title>
         <id>https://www.youtube.com/watch?v=5ww5tMPgfHg</id>
@@ -35704,16 +35714,6 @@ JUST IN!! 新着記事⠀ /／🗣同乗の男性２人は“頸椎損傷”と�
 5匹の子猫たちの初めてのお風呂はみんなリラックスして丈夫にできました first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渋谷 年越しに混雑 大型ビジョン停止など対策 大きな混乱なし]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240101/k10014304691000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240101/k10014304691000.html"/>
-        <updated>2023-12-31T21:48:09.000Z</updated>
-        <summary type="html"><![CDATA[東京の渋谷駅周辺では年越しにあわせて訪れた多くの人で混雑しましたが、渋谷区によりますと、大きな混乱はなかったということです。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
