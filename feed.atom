@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T06:35:26.837Z</updated>
+    <updated>2024-01-30T06:50:25.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“脳に小型機器を埋め込む臨床試験開始” マスク氏の企業]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240130/k10014340471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014340471000.html"/>
+        <updated>2024-01-30T06:44:20.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの起業家、イーロン・マスク氏は、自身が立ち上げた企業が、患者の脳に小型の機器を埋め込んでコンピューターに直接つなぐ臨床試験を開始したと明らかにしました。体の不自由な人がコンピューターを操作できるようにする技術として注目されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首相 施政方針演説 “政治の信頼回復 被災地再生に取り組む”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240130/k10014340391000.html</id>
