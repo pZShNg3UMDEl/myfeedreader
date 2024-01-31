@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T19:10:10.656Z</updated>
+    <updated>2024-01-31T19:20:31.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米FRB 金融政策決定会合 4会合連続で政策金利据え置き]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342571000.html"/>
+        <updated>2024-01-31T19:08:04.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのFRB＝連邦準備制度理事会は金融政策を決める会合を開き、31日、政策金利を据え置くことを決定したと発表しました。インフレの鈍化傾向が続いているためで、FRBが金利を据え置くのは4会合連続です。力強い経済成長が続く中、FRBがいつ利下げに踏み切るかが焦点となっていて、このあとパウエル議長が記者会見でどのような発言をするかに市場は注目しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[松江の「椿寺」 早咲きのつばきが冬の境内に彩り]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240201/k10014342361000.html</id>
