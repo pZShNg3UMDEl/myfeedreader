@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T21:24:16.426Z</updated>
+    <updated>2024-01-31T21:35:18.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ライドシェア 5月から三浦市で実証実験 神奈川県]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342821000.html"/>
+        <updated>2024-01-31T21:28:58.000Z</updated>
+        <summary type="html"><![CDATA[一般のドライバーが自分の車などを使って有料で人を運ぶ「ライドシェア」について、三浦市での導入を目指す神奈川県は、地元に住む人からドライバーを募り、タクシー会社が運行管理を担う仕組みでことし5月から実証実験を行うとする具体案をまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震1か月 政府 きょう復興本部の初会合 支援金追加か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342621000.html"/>
+        <updated>2024-01-31T21:26:34.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震から1か月となる1日、政府は、新設した復旧・復興支援本部の初会合を開きます。住宅が全壊するなどした高齢の被災者らを対象とする新たな支援金の支給を含め、追加の支援策について意見が交わされる見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震1か月 石川県内の漁港被害 緊急調査へ 農水省]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240201/k10014342421000.html</id>
