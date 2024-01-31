@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120492/",
+          "author": null,
+          "description": "1月26日に「プリティーシリーズ新作発表会」が開催され、4月から最新作「ひみつのアイプリ」がテレビ東京系列6局ネットで放送されることが明らかになった。藤寺美徳と平塚紗依が、シリーズ初のダブル主演...",
+          "link": "https://anime.eiga.com/news/120492/",
+          "publishedOn": "2024-01-31T03:00:00.000Z",
+          "wordCount": 722,
+          "title": "「プリティーシリーズ」最新作「ひみつのアイプリ」4月放送開始　藤寺美徳と平塚紗依がシリーズ初のダブル主演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120497/",
           "author": null,
           "description": "ストップモーション・アニメーションで知られる英アードマン・アニメーションズが、Netflixで好評を博した短編映画「ことりのロビン」を拡張し、シリーズ化することになったと米バラエティが報じている...",
@@ -5710,6 +5725,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341531000.html",
+          "author": null,
+          "description": "NTT西日本の子会社の元派遣社員が自治体や企業などの900万件を超える個人情報を流出させた問題で、このうち岡山県内の企業の顧客情報を不正に持ち出して名簿業者に漏えいしたとして、岡山県警察本部が60代の元派遣社員を不正競争防止法違反の疑いで逮捕したことが、捜査関係者への取材で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341531000.html",
+          "publishedOn": "2024-01-31T03:05:26.000Z",
+          "wordCount": 620,
+          "title": "NTT西日本子会社 元派遣社員逮捕 個人情報流出問題で 岡山県警",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341531_2401311153_0131120528_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341451000.html",
+          "author": null,
+          "description": "能登半島地震では、30日までに石川県内で「災害関連死」の疑いを含め、238人の死亡が確認されています。このうち、警察が検視を行った222人の「死因」についてNHKが警察庁に取材したところ、倒壊した建物の下敷きになったことなどによる「圧死」が最も多く、全体のおよそ40％を占めていることがわかりました。中には、「低体温症」や「凍死」が30人以上いたことが明らかになり、多くの人が救助を待つなどする間、寒さによって体力を奪われ亡くなっていた実態が浮き彫りになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341451000.html",
+          "publishedOn": "2024-01-31T02:59:03.000Z",
+          "wordCount": 905,
+          "title": "能登半島地震 死因は「圧死」約4割 「低体温症」や「凍死」も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341451_2401311133_0131113523_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341471000.html",
+          "author": null,
+          "description": "日銀は、先週開いた金融政策決定会合の「主な意見」を公表し、委員の間から「出口についての議論を本格化させていくことが必要だ」という意見が出るなど、今の大規模な金融緩和策の転換に向けて前向きな発言が相次いでいたことが分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341471000.html",
+          "publishedOn": "2024-01-31T02:42:41.000Z",
+          "wordCount": 554,
+          "title": "日銀 決定会合 大規模金融緩和策の転換に前向きな発言相次ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341471_2401311131_0131114243_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341491000.html",
           "author": null,
@@ -20369,16 +20414,6 @@
           "wordCount": 500,
           "title": "石川 穴水町 男性1人が意識不明 少なくとも4人が閉じ込め",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306451_2401020033_0102003456_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306461000.html",
-          "author": null,
-          "description": "宮内庁は「令和6年能登半島地震」の発生を受けて、2日に皇居で予定されていた新年一般参賀を取りやめると発表しました。皇居での一般参賀が取りやめられるのは、新型コロナウイルスの感染拡大を考慮して令和2年（2020年）の天皇誕生日の一般参賀が取りやめられて以来です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014306461000.html",
-          "publishedOn": "2024-01-01T15:09:07.000Z",
-          "wordCount": 707,
-          "title": "2日の新年一般参賀 取りやめを発表 地震発生を受け 宮内庁",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306461_2401020006_0102000909_01_02.jpg"
         }
       ]
     },
@@ -27335,6 +27370,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032663.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(東京都) [US]：2024/01/30(火) 18:17:00.44 ID:JlZKlOke0.net \n\n\n\n\n\n\n\n\n\n\n校長を懲戒免職　コンビニのコーヒー『レギュラー110円』購入し『ラージ180円』を注ぐ…「校長として心の底から申し訳なく思っています」 https://t.co/yGvo0n0ZAK #M...",
+          "link": "https://itainews.com/archives/2032663.html",
+          "publishedOn": "2024-01-31T03:01:48.000Z",
+          "wordCount": 2378,
+          "title": "朝礼「校長先生(59)はコンビニコーヒーのレギュラーを買いラージを入れクビになりました」生徒「」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8edcb031-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032655.html",
           "author": "damono3856",
