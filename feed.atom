@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T09:12:10.274Z</updated>
+    <updated>2024-01-31T09:22:38.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 救助要請殺到の中 消防指令システムに不具合]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240131/k10014341551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240131/k10014341551000.html"/>
+        <updated>2024-01-31T09:13:37.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発災直後に石川県輪島市や珠洲市などを管轄する消防本部の指令システムに不具合が生じ、出動の指令を出す操作ができなくなっていたことがわかりました。当時、消防本部で対応できる件数を大幅に超える救助要請が殺到していて、対応にあたった職員は「指令を出せない状況が続き、緊急車両をすぐに向かわせることができなかった。道路状況も悪く、多くの命を助けたいのに何もできないことが歯がゆかった」と振り返りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在は行われていない治療でアルツハイマー病に「感染」した可能性。5つの症例が報告]]></title>
         <id>https://gadget.phileweb.com/?p=67502</id>
