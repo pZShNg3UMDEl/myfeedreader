@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T12:23:03.399Z</updated>
+    <updated>2024-01-31T12:46:24.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京アニ放火殺人事件 面会の遺族に被告が謝罪 控訴した理由話す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240131/k10014342311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240131/k10014342311000.html"/>
+        <updated>2024-01-31T12:13:51.000Z</updated>
+        <summary type="html"><![CDATA[「京都アニメーション」のスタジオに放火し、社員36人を殺害したなどとして、京都地方裁判所で死刑が言い渡された青葉真司被告に、妻を亡くした遺族が拘置所で面会しました。遺族によりますと、改めて謝罪を受けた一方、被告は控訴した理由について「発信したいことがあった」などと、話したということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカー日本代表・伊東純也、女性2人から“性加害疑惑”で刑事告訴されていた]]></title>
         <id>https://itainews.com/archives/2032678.html</id>
