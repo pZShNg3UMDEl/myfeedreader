@@ -5796,6 +5796,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342631000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題で安倍派に所属する2人の政務官が辞任し、野党側は内閣の退陣を求めるなど追及を強めています。一方、国会では1日から参議院でも代表質問が始まり政治改革などをめぐって論戦が交わされます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342631000.html",
+          "publishedOn": "2024-01-31T20:19:58.000Z",
+          "wordCount": 793,
+          "title": "きょう参院でも代表質問 安倍派政務官2人辞任で野党側は追及へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342631_2401312341_0131234437_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342431000.html",
+          "author": null,
+          "description": "プロ野球は1日から多くの球団がキャンプに入り、3月29日の開幕に向けて本格的なチームづくりをスタートさせます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342431000.html",
+          "publishedOn": "2024-01-31T20:17:16.000Z",
+          "wordCount": 739,
+          "title": "プロ野球 きょうから多くの球団がキャンプイン",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342431_2401312217_0131224605_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342491000.html",
+          "author": null,
+          "description": "石川県で最大震度7の揺れを観測した能登半島地震から1日で1か月です。現地では依然として1万4000人以上が避難生活を余儀なくされていて、被災者の生活支援が課題となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342491000.html",
+          "publishedOn": "2024-01-31T20:13:33.000Z",
+          "wordCount": 760,
+          "title": "能登半島地震1か月 石川県 1万4000人以上避難 生活支援課題に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342491_2401312314_0131232043_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342531000.html",
           "author": null,
           "description": "アメリカの航空機大手、ボーイングは、2023年1年間の決算を発表し5年連続の最終赤字となりました。また、737MAX9の窓部分のパネルが飛行中に吹き飛んだ事故を受けてことしの業績の見通しは示しませんでした。",
@@ -20634,16 +20664,6 @@
           "wordCount": 372,
           "title": "【ライブ映像】羽田空港 日本航空の機体が炎上 海保機と衝突か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307191_2401021804_0102181639_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307141000.html",
-          "author": null,
-          "description": "２日午後５時１３分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度５強が、石川県能登地方。今後の情報に注意してください。",
-          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307141000.html",
-          "publishedOn": "2024-01-02T08:18:31.000Z",
-          "wordCount": 193,
-          "title": "石川 能登地方で震度5強の地震（17:13）",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307141_2401021719_0102172109_01_02.jpg"
         }
       ]
     },
