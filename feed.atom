@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T20:23:59.238Z</updated>
+    <updated>2024-01-31T20:35:28.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NTT西日本子会社情報漏えい 元派遣社員「金に困ってやった」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342641000.html"/>
+        <updated>2024-01-31T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[NTT西日本の子会社の元派遣社員が、企業の顧客情報を不正に持ち出して名簿業者に漏えいしたとして逮捕された事件で、動機について、「金に困ってやった」などと供述していることが、捜査関係者への取材で分かりました。警察は、名簿業者から金を受け取っていたとみて詳しいいきさつを捜査しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[きょう参院でも代表質問 安倍派政務官2人辞任で野党側は追及へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240201/k10014342631000.html</id>
