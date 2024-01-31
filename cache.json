@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120503/",
+          "author": null,
+          "description": "2024年放送のテレビアニメ「アクロトリップ」に伊藤美来、島崎信長、水瀬いのり、河西健吾の出演が決定し、ティザーPVとキービジュアルが公開された。 佐和田米氏による原作は、2017～23年に「り...",
+          "link": "https://anime.eiga.com/news/120503/",
+          "publishedOn": "2024-01-31T09:00:00.000Z",
+          "wordCount": 702,
+          "title": "「アクロトリップ」に伊藤美来、島崎信長、水瀬いのり、河西健吾が出演　ティザーPVとキービジュアルも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120492/",
           "author": null,
           "description": "1月26日に「プリティーシリーズ新作発表会」が開催され、4月から最新作「ひみつのアイプリ」がテレビ東京系列6局ネットで放送されることが明らかになった。藤寺美徳と平塚紗依が、シリーズ初のダブル主演...",
@@ -5745,6 +5760,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014342021000.html",
+          "author": null,
+          "description": "中古車販売会社「ビッグモーター」の店舗前の街路樹伐採事件で、伐採を指示したとして逮捕された本社の社員は、各地の店舗を巡回点検する立場を唯一担い、現場の店舗に対して一定の影響力を持っていたことが警察などへの取材でわかりました。点検の成績などがよくなければ降格処分につながったという指摘もあり、警察は影響力を背景に伐採を指示していたとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014342021000.html",
+          "publishedOn": "2024-01-31T08:51:35.000Z",
+          "wordCount": 657,
+          "title": "ビッグモーター 逮捕の社員 本社側の影響力を背景に伐採指示か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014342021_2401311732_0131174018_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240131/k10014342001000.html",
           "author": null,
@@ -20444,16 +20469,6 @@
           "wordCount": 975,
           "title": "石川で震度7 津波注意報が北海道～中国の日本海沿岸などに発表",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306671_2401020630_0102063126_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014306581000.html",
-          "author": null,
-          "description": "津波のメカニズムに詳しい東京大学地震研究所の佐竹健治教授は、今後1週間程度は最大震度7程度の揺れを伴う地震に注意が必要で、建物に異変がある場合には避難を続けるほか、海岸付近で地震が起きれば再び津波が発生する可能性もあることから、揺れを感じたら情報を待たずに高台への避難を心がけてほしいとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014306581000.html",
-          "publishedOn": "2024-01-01T20:52:59.000Z",
-          "wordCount": 632,
-          "title": "専門家「今後1週間程度 最大震度7程度の地震 津波に注意を」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306581_2401020319_0102055301_01_02.jpg"
         }
       ]
     },
@@ -25690,6 +25705,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=67502",
+          "author": "Munenori Taniguchi",
+          "description": "認知症のアルツハイマー病は、アミロイドβタンパク質によって引き起こされることがわかっている。また、まれに遺伝子の欠陥が原因で発症することもある。 しかし、1月29日付けのNature Medicineに掲載された、ユニバーシティ・カレッジ・ロンドン（UCL）の研究チームによる論文では、医学的に後天的 […]",
+          "link": "https://gadget.phileweb.com/post-67502/",
+          "publishedOn": "2024-01-31T09:07:30.000Z",
+          "wordCount": 760,
+          "title": "現在は行われていない治療でアルツハイマー病に「感染」した可能性。5つの症例が報告",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/Atthapon-Raksthaput_Shutterstock.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=67468",
           "author": "Munenori Taniguchi",
           "description": "id Softwareが1993年にPC版がリリースした『Doom』は、3D FPSゲームの名作というだけでなく、有志の手によってデジカメから電卓、iPod、プリンター、Apple Watch、Excel、オシロスコープ、文字放送、Twitter、妊娠検査キットまであらゆるデバイスに移植されてきたこ […]",
@@ -27470,6 +27495,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032668.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(新日本) [TW]：2024/01/30(火) 14:52:59.66 ID:FYE669G40.net\n\n\n\n\n\n\n\n\n男子生徒にわいせつな行為の疑い 元教諭3回目の逮捕 東京https://t.co/gYiMZWwBvn #nhk_news— NHKニュース (@nhk_news) January 30, 2024 \n\n\n\n\n\n\n\n東京都内の中高一貫校...",
+          "link": "https://itainews.com/archives/2032668.html",
+          "publishedOn": "2024-01-31T09:01:21.000Z",
+          "wordCount": 2352,
+          "title": "生徒にわいせつな行為の疑い 元教諭3回目の逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/9/e9e023b5-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032671.html",
           "author": "yonepo665sfr",
