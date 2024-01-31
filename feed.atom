@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T03:35:45.164Z</updated>
+    <updated>2024-01-31T03:50:34.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震発生からあすで1か月 石川県内で初の仮設住宅 輪島市に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240131/k10014341581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240131/k10014341581000.html"/>
+        <updated>2024-01-31T03:40:31.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発生から2月1日で1か月となるなか、石川県内で初めての仮設住宅が31日に輪島市で完成します。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 16シリーズ、「大幅なデザイン変更はない」とのアナリスト予測]]></title>
         <id>https://gadget.phileweb.com/?p=67431</id>
@@ -35454,16 +35464,6 @@ Numerous technology breakthroughs have been made in image sensor development in 
         <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306441000.html"/>
         <updated>2024-01-01T16:20:55.000Z</updated>
         <summary type="html"><![CDATA[気象庁は、北陸や新潟県、山形県、兵庫県北部に出していた津波警報を2日午前1時15分、すべて津波注意報に切り替えました。引き続き、北海道から九州にかけての日本海側沿岸などでは津波注意報が出ています。この時間も各地で津波が観測されています。気象庁は津波注意報が出ている地域では、避難している人はそのまま避難を続け、海沿いや川の河口の近くには絶対に近づかないなど、引き続き、厳重に警戒するよう呼びかけています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北陸新幹線 富山～金沢駅間で約1400人が車内に取り残される]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240102/k10014306491000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014306491000.html"/>
-        <updated>2024-01-01T15:39:35.000Z</updated>
-        <summary type="html"><![CDATA[JR西日本によりますと、北陸新幹線は1日夕方から長野駅と金沢駅の間で終日、運転を見合わせました。2日も、この区間で始発から正午ごろまで運転をとりやめるとしています。このため富山駅と金沢駅の間では列車4本が止まったままで、いまも車内に乗客あわせておよそ1400人が取り残されているということです。このうち2人が発熱を訴えていますが、症状は軽いということです。列車内は電気や暖房が使えるほか、JRの従業員が車で現地に向かって食料を届けたということです。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
