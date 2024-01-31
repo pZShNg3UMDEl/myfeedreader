@@ -5711,6 +5711,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341491000.html",
+          "author": null,
+          "description": "林官房長官は、自民党安倍派に所属する小森卓郎 総務政務官と加藤竜祥 国土交通政務官から辞任の意向が伝えられたことを明らかにしました。安倍派の政治資金パーティーをめぐる問題が理由とみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341491000.html",
+          "publishedOn": "2024-01-31T02:23:48.000Z",
+          "wordCount": 550,
+          "title": "小森総務政務官と加藤国交政務官が辞意 政治資金問題受け",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341491_2401311127_0131113157_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341421000.html",
           "author": null,
           "description": "去年12月の企業の生産活動を示す鉱工業生産指数は、2か月ぶりに上昇しました。",
@@ -20369,16 +20379,6 @@
           "wordCount": 707,
           "title": "2日の新年一般参賀 取りやめを発表 地震発生を受け 宮内庁",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014306461_2401020006_0102000909_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240101/k10014306371000.html",
-          "author": null,
-          "description": "1日午後11時3分ごろ、気象庁は石川県能登地方を震源とする震度7の揺れを観測する地震が発生したと発表しましたが、誤りだったとして取り消し、実際に観測されたのは震度3だったと発表しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240101/k10014306371000.html",
-          "publishedOn": "2024-01-01T14:24:31.000Z",
-          "wordCount": 797,
-          "title": "気象庁 午後11時3分発表の“石川県能登地方で震度7”取り消し",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240101/K10014306371_2401012316_0101232433_01_02.jpg"
         }
       ]
     },
