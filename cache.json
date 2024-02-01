@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120505/",
+          "author": null,
+          "description": "2024年内に放送予定のテレビアニメ「戦隊大失格」に、吉野裕行、長江里加、和氣あず未、立木文彦の出演が決定した。各人の担当キャラクターを紹介する、キャラクターボイス動画も公開されている。 原作は...",
+          "link": "https://anime.eiga.com/news/120505/",
+          "publishedOn": "2024-02-01T12:00:00.000Z",
+          "wordCount": 767,
+          "title": "「戦隊大失格」ヒーロー側戦隊員役に吉野裕行、長江里加、和氣あず未、立木文彦　キャラボイス動画も公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120513/",
           "author": null,
           "description": "テレビアニメ総集編「攻殻機動隊 STAND ALONE COMPLEX The Laughing Man」が、講談社が運営するYouTubeチャンネル「フル☆アニメTV」にて2月3日まで無料配信...",
@@ -2678,6 +2693,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97732",
+          "author": "SWITCH速報",
+          "description": "1: 2024/01/24(水) 17:48:04.22 ID:O0dyHe410 ソースは2022 […]",
+          "link": "https://switchsoku.com/soft/pawapro/97732",
+          "publishedOn": "2024-02-01T12:00:19.000Z",
+          "wordCount": 10046,
+          "title": "『パワプロ2024』発表間近か！？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/02/67cee5a44d6126ac2486a1f5bed31aab.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97728",
           "author": "SWITCH速報",
           "description": "1: 2024/02/01(木) 12:27:14.50 ID:l6Qx78990 『Riviera […]",
@@ -5071,16 +5096,6 @@
           "wordCount": 9992,
           "title": "【朗報】マリオ映画、アマプラ1位に浮上",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/03/mario-direct.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96745",
-          "author": "SWITCH速報",
-          "description": "1: 2023/12/28(木) 17:49:16.811 ID:E0xDtbvh0 SVとかびっく […]",
-          "link": "https://switchsoku.com/soft/pokemon/96745",
-          "publishedOn": "2024-01-03T00:00:32.000Z",
-          "wordCount": 10078,
-          "title": "ポケモンって知らない間にストーリーがすごいことになってたんだな……",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/08/pokemon-sv-battle-pv.webp"
         }
       ]
     },
@@ -5810,6 +5825,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343881000.html",
+          "author": null,
+          "description": "サッカー女子の日本代表「なでしこジャパン」の主力、猶本光選手が左ひざの前十字じん帯を修復する手術を受け、所属チームが全治8か月から10か月の見込みと発表しました。ことし7月に開幕するパリオリンピック出場が厳しい状況になりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343881000.html",
+          "publishedOn": "2024-02-01T12:01:39.000Z",
+          "wordCount": 775,
+          "title": "“なでしこ”猶本光 左ひざを手術 パリ五輪出場厳しい状況に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343881_2402012031_0201210141_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343911000.html",
+          "author": null,
+          "description": "先月、月面着陸に成功した日本の無人探査機「SLIM」は搭載した太陽電池で発電し、調査を進めてきましたが、着陸地点に太陽があたらなくなる夜に入り「休眠状態」に入ったとJAXA＝宇宙航空研究開発機構が明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343911000.html",
+          "publishedOn": "2024-02-01T11:56:05.000Z",
+          "wordCount": 664,
+          "title": "無人探査機「SLIM」夜に入り「休眠状態」に JAXA",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343911_2402011921_0201195248_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343751000.html",
+          "author": null,
+          "description": "能登半島地震では、建物の倒壊や火災、津波、寒さによって多くの命が奪われましたが、広範囲で発生した液状化による被害が生活再建の大きな障壁となっています。専門家の分析では、今回の地震で被害が大きかった場所が砂が堆積した「砂丘」に集中していることがわかりました。専門家は「砂丘の液状化被害はこれまであまり注目されておらず、今後の対策に生かす必要がある」と指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343751000.html",
+          "publishedOn": "2024-02-01T11:52:15.000Z",
+          "wordCount": 680,
+          "title": "液状化が生活再建の大きな障壁に 被害は「砂丘」に集中",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343751_2402012039_0201205040_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343061000.html",
+          "author": null,
+          "description": "都内各地で再開発が進む中、おしゃれな街として、人気を集めてきた目黒区の「自由が丘」で、長年懸案とされてきた駅前の再開発事業が、来年度本格化することになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343061000.html",
+          "publishedOn": "2024-02-01T11:40:40.000Z",
+          "wordCount": 675,
+          "title": "東京「自由が丘」人気の街も建物老朽化で駅前の再開発本格化へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343061_2402011202_0201125533_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343931000.html",
           "author": null,
@@ -26130,16 +26185,6 @@
           "wordCount": 1864,
           "title": "ベッドにやってきた猫に大興奮の赤ちゃん",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65808.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=65843",
-          "author": "299",
-          "description": "ふたごのキジトラ子猫ですが、お昼寝をする時は必ず飼い主さんの膝の上に揃ってやってきます。お父さんの体は面積も広いので子猫2匹が乗ってもかなり余裕があるようです。 一緒に乗っているときもありますが、1匹だけが独占していると...\nお父さんの体をベッドにして尾昼寝する可愛い子猫兄弟 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/65843",
-          "publishedOn": "2024-01-03T00:00:47.000Z",
-          "wordCount": 1863,
-          "title": "お父さんの体をベッドにして尾昼寝する可愛い子猫兄弟",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65843.jpg"
         }
       ]
     },
@@ -28065,6 +28110,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032708.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：愛の戦士 ★：2024/02/01(木) 12:07:21.30 ID:HKYzBAY59.net\n\n\n\n\n\n\n\n\n\n伊東選手側「性加害はない」と告訴状提出へ | 2024/2/1 - 共同通信 https://t.co/46DyRMLcXG— ogan (@ogyanbo) February 1, 2024 \n\n\n\n\n\n\n\n\nKYODO 　2024/02/01\n\n　サッカー日本代表伊東純也選手...",
+          "link": "https://itainews.com/archives/2032708.html",
+          "publishedOn": "2024-02-01T12:01:39.000Z",
+          "wordCount": 2318,
+          "title": "伊東選手側「性加害はない」と告訴状提出へ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/1/511911d9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032707.html",
           "author": "damono3856",
