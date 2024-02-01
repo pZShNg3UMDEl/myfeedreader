@@ -2609,21 +2609,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120340/",
-          "author": null,
-          "description": "テレビアニメ「死神坊ちゃんと黒メイド」第3期が2024年4月から放送されることが決まり、ティザービジュアルが公開された。「生きて欲しいんだ、君に。」というキャッチコピーとともに、手を差し出す坊ち...",
-          "link": "https://anime.eiga.com/news/120340/",
-          "publishedOn": "2024-01-02T13:05:00.000Z",
-          "wordCount": 817,
-          "title": "「死神坊ちゃんと黒メイド」第3期は24年4月放送決定　ティザービジュアル公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -4996,16 +4981,6 @@
           "wordCount": 10078,
           "title": "ポケモンって知らない間にストーリーがすごいことになってたんだな……",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/08/pokemon-sv-battle-pv.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96741",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/02(火) 20:50:16.35 ID:UdKf9cu50 ハッピー・アニバ […]",
-          "link": "https://switchsoku.com/gossip/96741",
-          "publishedOn": "2024-01-02T14:00:10.000Z",
-          "wordCount": 9970,
-          "title": "『MOTHER2』の30周年を記念して､2024年にたくさんのおたのしみを企画しています。",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/mother2-30th.webp"
         }
       ]
     },
@@ -5725,6 +5700,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342731000.html",
+          "author": null,
+          "description": "能登半島地震で被災し避難生活を続けている石川県輪島市の男性のもとに、1月下旬、1通の年賀状が届きました。差出人は、地震のあと安否が分からなくなっている地元の先輩で、男性は「“心配かけたね”と笑って帰ってきてほしいけど、厳しいようで、つらいです」と苦しい胸の内を語りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342731000.html",
+          "publishedOn": "2024-02-01T01:06:41.000Z",
+          "wordCount": 834,
+          "title": "避難先に届いた1通の年賀状 差出人は安否不明の地元の先輩",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342731_2402010157_0201020204_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342871000.html",
           "author": null,
@@ -20664,36 +20649,6 @@
           "wordCount": 196,
           "title": "能登半島地震 石川県内の死者 55人確認",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307481_2401022318_0102231921_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307391000.html",
-          "author": null,
-          "description": "石川県能登地方で震度7の揺れを観測した地震で、京都大学防災研究所の境有紀教授が地震計のデータを分析したところ、穴水町の地震計では、建物に大きな被害を与える周期が1秒から2秒の揺れが多く含まれていて、阪神・淡路大震災を引き起こした地震に匹敵するということです。境教授は「自宅などに立ち入る際は、建物が少しでも傾いていないかを確認することが重要だ」と指摘しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307391000.html",
-          "publishedOn": "2024-01-02T13:52:19.000Z",
-          "wordCount": 866,
-          "title": "能登半島地震 “阪神・淡路大震災の地震に匹敵する”専門家",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307391_2401022245_0102225220_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307301000.html",
-          "author": null,
-          "description": "2日午後5時47分ごろ、東京・大田区の羽田空港で新千歳空港から向かっていた日本航空516便が、着陸した直後に海上保安庁の航空機と衝突しました。日本航空は、2日午後10時40分ごろから記者会見を行っています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307301000.html",
-          "publishedOn": "2024-01-02T13:43:19.000Z",
-          "wordCount": 424,
-          "title": "【ライブ配信・速報中】羽田空港事故 日本航空の会見が始まる",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307301_2401022243_0102224525_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307131000.html",
-          "author": null,
-          "description": "今回の地震では石川県の能登半島を中心に、広い範囲で火災や建物の倒壊などの大きな被害が確認されています。NHKがこれまでに取材した映像や視聴者から寄せられた映像のうち、能登半島での被害地点を詳しく調べ、マップにまとめました。（情報は2日午後3時までのものです）",
-          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307131000.html",
-          "publishedOn": "2024-01-02T13:05:57.000Z",
-          "wordCount": 1664,
-          "title": "被害はどこで？ 能登半島地震 NHKの取材映像から",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307131_2401022055_0102205617_01_02.jpg"
         }
       ]
     },
@@ -20702,6 +20657,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234708",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
+          "link": "https://foodfighter.jp/sukiya-okonomi2024",
+          "publishedOn": "2024-02-01T01:36:50.000Z",
+          "wordCount": 1877,
+          "title": "【すき家】お好み牛玉丼・大盛り【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/1a9ff286c2cf3f4582b0bf7577c1ec44.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234687",
           "author": "foodfighter",
@@ -22366,6 +22331,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67615",
+          "author": "299",
+          "description": "おにいちゃんがベッドに寝転がって一生懸命に宿題をしています。するとそばにいた子猫が前足を伸ばしてきて宿題の邪魔をしてきます。 集中していたお兄ちゃんも、思わず子猫のほうを見ています。でもすぐに宿題の続きに戻ります。 とこ...\n宿題で忙しいおにいちゃんの邪魔をするいたずら子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67615",
+          "publishedOn": "2024-02-01T02:00:39.000Z",
+          "wordCount": 1395,
+          "title": "宿題で忙しいおにいちゃんの邪魔をするいたずら子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67615.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=67647",
           "author": "299",
@@ -31229,16 +31204,6 @@
           "wordCount": 2256,
           "title": "【静岡】ブレーキの踏み方にクレームつけ…乗客の女がタクシー運転手の顔殴り運賃支払わず逃走　浜松市",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/8/8815c563-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031848.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(愛媛県) [ES]\n2024/01/02(火) 12:47:19.21ID:bZW7l5ww0●\n\n\n\n\n\n\n\nNHK紅白歌合戦、視聴率が歴代最低の原因…大幅刷新も不発、74回目で岐路 #NHK #NHK紅白歌合戦 #リアルタイム視聴率 https://t.co/siKbJ3DX2x— Business Journal/ビジネス...",
-          "link": "https://itainews.com/archives/2031848.html",
-          "publishedOn": "2024-01-02T13:03:03.000Z",
-          "wordCount": 2624,
-          "title": "NHK紅白歌合戦　視聴率が歴代最低・・・　大人気K-POP大量投入したのになぜ・・・",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/2/a2f20875-s.png"
         }
       ]
     },
