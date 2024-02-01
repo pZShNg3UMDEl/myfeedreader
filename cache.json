@@ -5771,6 +5771,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343711000.html",
+          "author": null,
+          "description": "石川県で震度7の激しい揺れを観測した能登半島地震から1日で1か月です。能登地方やその周辺では地震の回数は徐々に減少しているものの、依然、活動が活発な状態が続いています。気象庁は今後2週間から3週間ほどは最大震度5弱程度かそれ以上の地震に注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343711000.html",
+          "publishedOn": "2024-02-01T09:13:26.000Z",
+          "wordCount": 563,
+          "title": "能登半島地震1か月 地震活動は依然活発 気象庁が注意呼びかけ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343711_2402011746_0201175114_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343641000.html",
           "author": null,
           "description": "1日午前、大阪空港の駐機場で、全日空機どうしの翼が接触し、この影響で全日空の10便が欠航しました。けが人はおらず、全日空は「お客様にご迷惑をおかけし、お詫び申し上げます」としています。",
@@ -20799,16 +20809,6 @@
           "wordCount": 759,
           "title": "NYダウ平均株価 ことし最初の取引 最高値を更新",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307621_2401030722_0103072341_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307551000.html",
-          "author": null,
-          "description": "北朝鮮のキム・ジョンウン（金正恩）総書記の妹、キム・ヨジョン（金与正）氏は、韓国のユン・ソンニョル（尹錫悦）大統領に対する「新年のメッセージ」として談話を発表し、アメリカとの連携を強めるユン大統領の安保政策により、核戦力を強化できる「贈り物を受け取り、うれしい」などと挑発しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307551000.html",
-          "publishedOn": "2024-01-02T21:14:17.000Z",
-          "wordCount": 740,
-          "title": "北朝鮮 キム・ヨジョン氏が「新年のメッセージ」で韓国を挑発",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307551_2401030326_0103061419_01_02.jpg"
         }
       ]
     },
@@ -20817,6 +20817,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=234761",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「旨辛キムチチャーハン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]",
+          "link": "https://foodfighter.jp/711sej-kimuchi-fried-rice-2024",
+          "publishedOn": "2024-02-01T09:15:22.000Z",
+          "wordCount": 1852,
+          "title": "【セブンイレブン】旨辛キムチチャーハン【コンビニ弁当新商品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/1b40c257354d64c531b8c0918a7a6b68.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=234746",
           "author": "foodfighter",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T09:13:41.611Z</updated>
+    <updated>2024-02-01T09:25:13.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】旨辛キムチチャーハン【コンビニ弁当新商品】]]></title>
+        <id>https://foodfighter.jp/?p=234761</id>
+        <link href="https://foodfighter.jp/711sej-kimuchi-fried-rice-2024"/>
+        <updated>2024-02-01T09:15:22.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「旨辛キムチチャーハン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震1か月 地震活動は依然活発 気象庁が注意呼びかけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343711000.html"/>
+        <updated>2024-02-01T09:13:26.000Z</updated>
+        <summary type="html"><![CDATA[石川県で震度7の激しい揺れを観測した能登半島地震から1日で1か月です。能登地方やその周辺では地震の回数は徐々に減少しているものの、依然、活動が活発な状態が続いています。気象庁は今後2週間から3週間ほどは最大震度5弱程度かそれ以上の地震に注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AmazonタイムセールでAnker／Jackery／JVCのポータブル電源がお得！]]></title>
         <id>https://gadget.phileweb.com/?p=67719</id>
@@ -36160,16 +36180,6 @@ SNSで“人工地震が原因”など不安あおる偽情報に注意Xでは�
 遊びに夢中でなかなかごはんに気づかない子猫たち first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮 キム・ヨジョン氏が「新年のメッセージ」で韓国を挑発]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307551000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307551000.html"/>
-        <updated>2024-01-02T21:14:17.000Z</updated>
-        <summary type="html"><![CDATA[北朝鮮のキム・ジョンウン（金正恩）総書記の妹、キム・ヨジョン（金与正）氏は、韓国のユン・ソンニョル（尹錫悦）大統領に対する「新年のメッセージ」として談話を発表し、アメリカとの連携を強めるユン大統領の安保政策により、核戦力を強化できる「贈り物を受け取り、うれしい」などと挑発しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
