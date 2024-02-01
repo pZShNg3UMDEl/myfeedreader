@@ -5600,16 +5600,6 @@
           "wordCount": 4385,
           "title": "気がついたら正月が終わってた2024",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/01/image.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=9352",
-          "author": "watanabe@logipara.com",
-          "description": "さようならお正月(布団で丸まりながら)",
-          "link": "https://logipara.com/diary-text/2024-01-03",
-          "publishedOn": "2024-01-03T01:47:46.000Z",
-          "wordCount": 4382,
-          "title": "絶賛体調不良中です",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -5825,6 +5815,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014344031000.html",
+          "author": null,
+          "description": "アメリカで、SNS上の有害なコンテンツから子どもを守る対策が不十分だという議論が起きる中、議会上院がSNS運営会社5社の幹部を呼んで公聴会を開きました。議員からは運営会社の責任について厳しい追及が相次ぎ、インスタグラムなどを運営するメタのザッカーバーグCEOが謝罪に追い込まれる場面もありました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014344031000.html",
+          "publishedOn": "2024-02-01T13:40:12.000Z",
+          "wordCount": 732,
+          "title": "SNS子ども対策 米議会上院で公聴会 ザッカーバーグCEOが謝罪も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014344031_2402012113_0201211911_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014344211000.html",
+          "author": null,
+          "description": "中国の上海で開幕したフィギュアスケートの四大陸選手権は1日、男子シングル前半のショートプログラムが行われ、北京オリンピック銀メダリストの鍵山優真選手がシーズンベストを更新する安定感のある演技で首位に立ちました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014344211000.html",
+          "publishedOn": "2024-02-01T13:28:34.000Z",
+          "wordCount": 673,
+          "title": "フィギュア四大陸選手権 鍵山優真 男子シングルSPで首位に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014344211_2402012220_0201222241_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343651000.html",
           "author": null,
