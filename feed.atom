@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T11:20:55.714Z</updated>
+    <updated>2024-02-01T11:35:33.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宝塚歌劇団 面談で“従来の見解変更し配慮した内容”と遺族に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343931000.html"/>
+        <updated>2024-02-01T11:24:44.000Z</updated>
+        <summary type="html"><![CDATA[宝塚歌劇団に所属する25歳の劇団員が死亡し、遺族がパワハラがあったなどと主張している問題で、遺族と代理人の弁護士は、歌劇団側の代理人と1月面談を行った際、歌劇団側から「従来の見解を変更し遺族側の意見に相当程度配慮した内容が述べられた」ことを、明らかにしました。詳細は明らかにしておらず、今後も交渉を続けるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本含む各国のUNRWAへの資金拠出停止に NGOなど撤回求める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343941000.html"/>
+        <updated>2024-02-01T11:22:53.000Z</updated>
+        <summary type="html"><![CDATA[パレスチナのガザ地区で活動する国連機関の職員が、イスラム組織ハマスによるイスラエルへの攻撃に関与した疑いを受けて、日本を含む各国から資金拠出の一時的な停止の表明が相次ぐ中、日本のNGOなどが会見を開き「ガザの人々の命を奪うことに等しい行為だ」などとして、政府に撤回を求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大相撲 大の里 ふるさと石川への思い話す 地震で実家も被害]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240201/k10014343821000.html</id>
