@@ -5826,6 +5826,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014344051000.html",
+          "author": null,
+          "description": "埼玉県内で健康診断などを行っている埼玉県健康づくり事業団が「ランサムウエア」によるサイバー攻撃を受けたと発表しました。受診した人のエックス線画像や氏名など、個人情報が漏えいしたおそれもあり、警察に相談するとともに被害の実態を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014344051000.html",
+          "publishedOn": "2024-02-01T12:34:06.000Z",
+          "wordCount": 686,
+          "title": "サイバー攻撃でエックス線画像など漏えいおそれ 埼玉の事業団",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014344051_2402012056_0201212645_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343991000.html",
+          "author": null,
+          "description": "「京都アニメーション」のスタジオが放火され、社員36人が死亡した事件で、遺族や社員などが京都府宇治市内の公園に事件を伝える碑を設置するよう市に要望し、松村市長は「前向きに検討していきたい」と応じました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343991000.html",
+          "publishedOn": "2024-02-01T12:30:19.000Z",
+          "wordCount": 654,
+          "title": "京アニ事件 遺族や社員“事件伝える碑の設置を” 宇治市に要望",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343991_2402012051_0201211128_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343881000.html",
           "author": null,
           "description": "サッカー女子の日本代表「なでしこジャパン」の主力、猶本光選手が左ひざの前十字じん帯を修復する手術を受け、所属チームが全治8か月から10か月の見込みと発表しました。ことし7月に開幕するパリオリンピック出場が厳しい状況になりました。",
@@ -27636,6 +27656,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqFaMBFtHduRRJKVCJhBr9g",
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UpQSqGMhhXw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UpQSqGMhhXw",
+          "publishedOn": "2024-02-01T12:21:35.000Z",
+          "wordCount": null,
+          "title": "新橋九段裁判⑤原告書面＆次回結審",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PGjmHCuBpLU",
           "author": null,
