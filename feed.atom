@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T11:10:53.002Z</updated>
+    <updated>2024-02-01T11:20:55.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大相撲 大の里 ふるさと石川への思い話す 地震で実家も被害]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343821000.html"/>
+        <updated>2024-02-01T11:14:54.000Z</updated>
+        <summary type="html"><![CDATA[大相撲初場所で新入幕ながら11勝をあげた石川県出身の大の里が能登半島地震の発生から1か月となった1日、取材に応じ「石川県の人たちが元気をもらったと知り、うれしかった」と、ふるさとへの思いを話しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大人気VTuber、誹謗中傷で書類送検]]></title>
         <id>https://itainews.com/archives/2032707.html</id>
