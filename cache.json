@@ -5756,6 +5756,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343501000.html",
+          "author": null,
+          "description": "政治資金パーティーをめぐる事件を受けて、解散することを決めた自民党の安倍派は、最後となる議員総会を開き、派閥としての活動を終えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343501000.html",
+          "publishedOn": "2024-02-01T08:31:01.000Z",
+          "wordCount": 909,
+          "title": "自民 安倍派 最後の議員総会 派閥としての活動終える",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343501_2402011652_0201172004_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343551000.html",
           "author": null,
           "description": "自民党の派閥の政治資金パーティーをめぐる問題で、埼玉県選出で安倍派に所属する衆議院議員の三ツ林裕己氏と大塚拓氏、柴山昌彦氏、それに中根一幸氏の4人が政治資金収支報告書を訂正しました。",
@@ -20764,16 +20774,6 @@
           "wordCount": 751,
           "title": "岸田首相 能登半島地震の対応「人命第一の方針 救出に全力」",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307501_2401030005_0103054357_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307541000.html",
-          "author": null,
-          "description": "ウクライナでは2日もロシア軍による無人機やミサイルを使った大規模な攻撃が首都キーウなどにあり、死傷者が出るなどロシア側は年末年始にかけて攻勢を強めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307541000.html",
-          "publishedOn": "2024-01-02T20:18:29.000Z",
-          "wordCount": 840,
-          "title": "ロシア軍 年末年始にかけて攻勢強める キーウなどに大規模攻撃",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307541_2401030303_0103051831_01_02.jpg"
         }
       ]
     },
