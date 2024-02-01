@@ -5791,6 +5791,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344301000.html",
+          "author": null,
+          "description": "1日夜、鹿児島県南さつま市で住宅が全焼する火事があり、焼け跡から3人が遺体で見つかりました。警察は身元の確認を進めるとともに、火事の原因を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344301000.html",
+          "publishedOn": "2024-02-01T20:16:00.000Z",
+          "wordCount": 716,
+          "title": "住宅火災 焼け跡から3人が遺体で見つかる 鹿児島県南さつま市",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344301_2402020515_0202051543_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344221000.html",
           "author": null,
           "description": "2022年2月、新潟県の菓子メーカー「三幸製菓」の工場が全焼し6人が死亡した火事で、警察は安全管理に問題があったとして会社のトップら幹部4人を2日にも業務上過失致死傷の疑いで書類送検する方針を固めたことが捜査関係者への取材でわかりました。",
@@ -20869,16 +20879,6 @@
           "wordCount": 686,
           "title": "震度7観測の石川県志賀町 揺れは東日本大震災に匹敵 気象庁",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307941_2401031721_0103175912_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307931000.html",
-          "author": null,
-          "description": "店舗や住宅など200棟以上が焼けたとみられる石川県輪島市の観光名所「朝市通り」周辺では、店や自宅などの被害を確かめようと、現場を訪れる人の姿がありました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307931000.html",
-          "publishedOn": "2024-01-03T08:33:08.000Z",
-          "wordCount": 885,
-          "title": "猫が見つからない 輪島 自宅全焼男性“ きっと逃げたと信じ”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307931_2401031655_0103172329_01_02.jpg"
         }
       ]
     },
