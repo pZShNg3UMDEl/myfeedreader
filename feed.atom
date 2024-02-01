@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T02:01:23.270Z</updated>
+    <updated>2024-02-01T02:30:41.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【映像 被災地のいま】輪島「朝市通り」火災直後から変わらず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342901000.html"/>
+        <updated>2024-02-01T02:20:55.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震からきょうで1か月です。石川県輪島市の中心部にある「朝市通り」をNHKがけさ7時すぎにドローンで撮影しました。通り沿いにはいまも黒く焦げた建物が並んでいます。被災地した各地のいまをお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【公式】マリオvs.ドンキーコング 紹介映像‥体験版も配信開始]]></title>
+        <id>https://switchsoku.com/?p=97715</id>
+        <link href="https://switchsoku.com/soft/mario_odyssey/97715"/>
+        <updated>2024-02-01T02:10:13.000Z</updated>
+        <summary type="html"><![CDATA[2月16日発売の『マリオvs.ドンキーコング』の紹介映像が公開。体験版も配信開始となっています。 1 […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宿題で忙しいおにいちゃんの邪魔をするいたずら子猫]]></title>
         <id>https://2-9-9.com/?p=67615</id>
@@ -35795,16 +35815,6 @@ SNSで“人工地震が原因”など不安あおる偽情報に注意Xでは�
 子猫何やら初体験で動けない first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能登半島地震 石川県内の死者 55人確認]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html"/>
-        <updated>2024-01-02T14:19:19.000Z</updated>
-        <summary type="html"><![CDATA[石川県によりますと、今回の地震で亡くなった人は2日午後9時半の時点で、県内で合わせて55人確認されたということです。輪島市で24人、珠洲市で20人、七尾市で5人、穴水町と能登町で2人、羽咋市と志賀町でそれぞれ1人となっています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>

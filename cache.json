@@ -2618,6 +2618,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97715",
+          "author": "SWITCH速報",
+          "description": "2月16日発売の『マリオvs.ドンキーコング』の紹介映像が公開。体験版も配信開始となっています。 1 […]",
+          "link": "https://switchsoku.com/soft/mario_odyssey/97715",
+          "publishedOn": "2024-02-01T02:10:13.000Z",
+          "wordCount": 10010,
+          "title": "【公式】マリオvs.ドンキーコング 紹介映像‥体験版も配信開始",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/mario-donkey.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=97710",
           "author": "SWITCH速報",
           "description": "1: 2024/01/31(水) 16:15:03.69 ID:4P0PlP0b0 https:// […]",
@@ -5700,6 +5710,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342901000.html",
+          "author": null,
+          "description": "能登半島地震からきょうで1か月です。石川県輪島市の中心部にある「朝市通り」をNHKがけさ7時すぎにドローンで撮影しました。通り沿いにはいまも黒く焦げた建物が並んでいます。被災地した各地のいまをお伝えします。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342901000.html",
+          "publishedOn": "2024-02-01T02:20:55.000Z",
+          "wordCount": 974,
+          "title": "【映像 被災地のいま】輪島「朝市通り」火災直後から変わらず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342901_2402011057_0201105826_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342731000.html",
           "author": null,
@@ -20639,16 +20659,6 @@
           "wordCount": 701,
           "title": "志賀原発 敷地内の水位計で約3メートルの水位上昇を観測",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307421_2401022301_0102234919_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html",
-          "author": null,
-          "description": "石川県によりますと、今回の地震で亡くなった人は2日午後9時半の時点で、県内で合わせて55人確認されたということです。輪島市で24人、珠洲市で20人、七尾市で5人、穴水町と能登町で2人、羽咋市と志賀町でそれぞれ1人となっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240102/k10014307481000.html",
-          "publishedOn": "2024-01-02T14:19:19.000Z",
-          "wordCount": 196,
-          "title": "能登半島地震 石川県内の死者 55人確認",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240102/K10014307481_2401022318_0102231921_01_02.jpg"
         }
       ]
     },
