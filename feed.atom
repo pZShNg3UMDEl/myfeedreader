@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T17:28:40.682Z</updated>
+    <updated>2024-02-01T17:38:55.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【石川 給水支援・入浴支援】輪島市など9市町で（2日予定）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344091000.html"/>
+        <updated>2024-02-01T17:31:23.000Z</updated>
+        <summary type="html"><![CDATA[石川県内で2日に予定されている給水支援の情報です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突然寝落ちしてしまう子猫]]></title>
         <id>https://2-9-9.com/?p=67704</id>
