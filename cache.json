@@ -5826,6 +5826,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343651000.html",
+          "author": null,
+          "description": "ミャンマーで軍がクーデターを起こして1日で3年となりました。こうした中、民主派勢力の呼びかけで最大都市のヤンゴンなど各地で軍への抗議を示す「沈黙のストライキ」が行われ、人通りが途絶えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343651000.html",
+          "publishedOn": "2024-02-01T13:09:19.000Z",
+          "wordCount": 803,
+          "title": "ミャンマー軍事クーデターから3年 各地で「沈黙のストライキ」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343651_2402011804_0201220921_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014344081000.html",
+          "author": null,
+          "description": "サッカー日本代表の伊東純也選手が、カタールで開かれているアジアカップでチームから離脱することになりました。日本サッカー協会は、伊東選手に関する一部報道について慎重な対応が求められ、選手本人の心身のコンディションを考慮したとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014344081000.html",
+          "publishedOn": "2024-02-01T12:54:01.000Z",
+          "wordCount": 650,
+          "title": "サッカー伊東純也 日本代表を離脱 協会“一部報道で慎重対応”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014344081_2402012152_0201215403_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014344041000.html",
+          "author": null,
+          "description": "あおぞら銀行は、今年度の業績予想を下方修正し、最終的な損益がこれまでの黒字予想から一転して280億円の赤字になるという見通しを発表しました。赤字になれば15年ぶりで、厳しい状況が続くアメリカの商業用不動産向けのローン事業で損失に備える引当金を積み増したことが主な要因です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014344041000.html",
+          "publishedOn": "2024-02-01T12:36:20.000Z",
+          "wordCount": 634,
+          "title": "あおぞら銀行 今年度業績予想 一転 280億円の赤字見通し",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014344041_2402012107_0201211553_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014344051000.html",
           "author": null,
           "description": "埼玉県内で健康診断などを行っている埼玉県健康づくり事業団が「ランサムウエア」によるサイバー攻撃を受けたと発表しました。受診した人のエックス線画像や氏名など、個人情報が漏えいしたおそれもあり、警察に相談するとともに被害の実態を調べています。",
@@ -20954,26 +20984,6 @@
           "wordCount": 581,
           "title": "石川県 能登地方で震度5強の地震（10:54）",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307691_2401031059_0103110015_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307651000.html",
-          "author": null,
-          "description": "2日、東京の羽田空港で日本航空の旅客機と海上保安庁の航空機が滑走路上で衝突して炎上し、海上保安庁の乗組員5人が死亡した事故。「これまでにわかっていることは」「原因究明には何が焦点となるのか」社会部の山下哲平記者の解説です。【動画:3分46秒】※データ放送ではご覧になれません",
-          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307651000.html",
-          "publishedOn": "2024-01-03T01:02:38.000Z",
-          "wordCount": 865,
-          "title": "【解説動画】羽田空港事故 事故の状況は 原因究明の焦点は",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307651_2401030938_0103100240_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307641000.html",
-          "author": null,
-          "description": "1日、震度5強の揺れを観測した富山県氷見市では今も広い範囲で断水が続いていて、3日も夜明け前から住民が給水所に長い列を作りポリタンクなどに水を入れていました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307641000.html",
-          "publishedOn": "2024-01-03T00:52:05.000Z",
-          "wordCount": 784,
-          "title": "富山 氷見 夜明け前から給水所に長い列 広範囲で断水続く",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307641_2401030930_0103095206_01_02.jpg"
         }
       ]
     },
@@ -22676,6 +22686,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67635",
+          "author": "299",
+          "description": "飼い主さんが鍵しっぽのビビちゃんに猫の顔の形をした猫鍋をプレゼントしました。この中に丸くなって寝転がれば、ひんやりとして気持ちが良いはずです。 初めてみる猫鍋なのでビビちゃんもすんなりとは入ってくれないだろうと予想してい...\nヒンヤリ猫鍋をもらってご機嫌なニャンコさん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67635",
+          "publishedOn": "2024-02-01T13:00:33.000Z",
+          "wordCount": 1392,
+          "title": "ヒンヤリ猫鍋をもらってご機嫌なニャンコさん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67635.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=67631",
           "author": "299",
@@ -28140,6 +28160,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032710.html",
+          "author": "damono3856",
+          "description": "1 名前：尺アジ ★：2024/01/31(水) 21:05:20.98 ID:QQW7sLbI9.net\n\n\n\n\n\n\n\n【リニア】もはや理解不能…記者も呆れる川勝知事の問答「私はJRの立場で言っている」#SmartFLASH #JR東海 #リニア #川勝平太 #知事 #静岡県https://t.co/3jsQ4N5t1Y— SmartFLASH (@info_smafla...",
+          "link": "https://itainews.com/archives/2032710.html",
+          "publishedOn": "2024-02-01T13:08:16.000Z",
+          "wordCount": 2318,
+          "title": "【リニア】もはや理解不能…記者も呆れる川勝知事の問答「私はJRの立場で言っている」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/8/d892fc6d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032708.html",
           "author": "yonepo665sfr",
