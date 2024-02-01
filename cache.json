@@ -5218,16 +5218,6 @@
           "wordCount": null,
           "title": "【ドラクエウォーク】宝の地図の2024年版最新整理法!!残す地図手放す地図の分け方!地図上限解放記念!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=199gBH4o3Hk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=199gBH4o3Hk",
-          "publishedOn": "2024-01-03T10:15:09.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォーク】強力武器が揃った!!おたのしみ福袋'24復刻ふくびきに無課金勇者はジェム投入してよいのか!?",
-          "imageUrl": null
         }
       ]
     },
@@ -5760,6 +5750,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344321000.html",
+          "author": null,
+          "description": "ウクライナの当局はロシアが支配する南部クリミアでロシア軍のミサイル艇を撃沈したと発表し、東部の戦況がこう着する中、ウクライナはクリミア周辺への攻撃を強めているとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344321000.html",
+          "publishedOn": "2024-02-01T22:22:45.000Z",
+          "wordCount": 731,
+          "title": "“ロシア軍のミサイル艇を撃沈” ウクライナ国防省発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344321_2402020722_0202072247_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344331000.html",
           "author": null,
@@ -20849,16 +20849,6 @@
           "wordCount": 1302,
           "title": "【避難状況 3日】輪島市や珠洲市の避難所 水や食料 燃料が不足",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307671_2401031147_0103134645_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307991000.html",
-          "author": null,
-          "description": "1日の能登半島地震で、発生からおおむね1分以内に珠洲市の沿岸に津波が到達していたとみられることが専門家の分析でわかりました。専門家は「今後も大きく揺れたら沿岸からすぐに離れてほしい」と呼びかけています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307991000.html",
-          "publishedOn": "2024-01-03T10:23:17.000Z",
-          "wordCount": 732,
-          "title": "珠洲市沿岸 津波は地震から1分以内に到達か 専門家分析",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307991_2401031920_0103192320_01_02.jpg"
         }
       ]
     },

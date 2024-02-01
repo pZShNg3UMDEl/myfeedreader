@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T22:12:43.483Z</updated>
+    <updated>2024-02-01T22:27:45.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“ロシア軍のミサイル艇を撃沈” ウクライナ国防省発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344321000.html"/>
+        <updated>2024-02-01T22:22:45.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナの当局はロシアが支配する南部クリミアでロシア軍のミサイル艇を撃沈したと発表し、東部の戦況がこう着する中、ウクライナはクリミア周辺への攻撃を強めているとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤンチャ盛りの子猫達が可愛すぎる件]]></title>
         <id>https://2-9-9.com/?p=67671</id>
@@ -36176,25 +36186,6 @@ At the “SK Tech Summit 2023” held last month, SK hynix revealed its progress
         <summary type="html"><![CDATA[石川県能登地方で震度7の揺れを観測した地震の影響による各地の避難の状況をまとめています。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珠洲市沿岸 津波は地震から1分以内に到達か 専門家分析]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307991000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307991000.html"/>
-        <updated>2024-01-03T10:23:17.000Z</updated>
-        <summary type="html"><![CDATA[1日の能登半島地震で、発生からおおむね1分以内に珠洲市の沿岸に津波が到達していたとみられることが専門家の分析でわかりました。専門家は「今後も大きく揺れたら沿岸からすぐに離れてほしい」と呼びかけています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ドラクエウォーク】強力武器が揃った!!おたのしみ福袋'24復刻ふくびきに無課金勇者はジェム投入してよいのか!?]]></title>
-        <id>https://www.youtube.com/watch?v=199gBH4o3Hk</id>
-        <link href="https://www.youtube.com/watch?v=199gBH4o3Hk"/>
-        <updated>2024-01-03T10:15:09.000Z</updated>
-        <author>
-            <name>YoshiZo</name>
         </author>
     </entry>
 </feed>
