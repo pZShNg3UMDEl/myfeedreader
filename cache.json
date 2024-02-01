@@ -5726,6 +5726,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343071000.html",
+          "author": null,
+          "description": "国会は2月1日から参議院本会議で岸田総理大臣の施政方針演説に対する各党の代表質問が始まりました。立憲民主党が自民党の派閥の政治資金パーティーをめぐる問題で特別委員会を設置して全容を解明するよう求めたのに対し、岸田総理大臣は「国会で判断する事柄だ」としたうえで、与野党による議論の場が設けられた場合は党として貢献していく考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014343071000.html",
+          "publishedOn": "2024-02-01T03:22:49.000Z",
+          "wordCount": 698,
+          "title": "参院本会議 代表質問始まる 政治資金問題めぐり論戦",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014343071_2402011205_0201122252_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342981000.html",
+          "author": null,
+          "description": "能登半島地震でのボランティア派遣は、1月27日から石川県の七尾市、志賀町、穴水町で始まっています。ボランティアの参加者を乗せたバスは、けさも金沢市から被災地に向けて出発しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342981000.html",
+          "publishedOn": "2024-02-01T03:12:01.000Z",
+          "wordCount": 682,
+          "title": "地震のボランティア派遣 3日から珠洲市と中能登町でも始まる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342981_2402011113_0201121203_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014343031000.html",
           "author": null,
           "description": "1日午前、岐阜県大垣市の名神高速道路で、走行中の乗用車の運転席付近に物が当たってフロントガラスが割れ、運転していた男性が意識不明の重体となっています。警察は当たった物の特定を進め、荷物を落とした車や落下物を跳ね上げた車などがいないか調べています。",
@@ -25919,6 +25939,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=67547",
+          "author": "多根清史",
+          "description": "モバイル向けWebブラウザとデスクトップ（PC）版ブラウザとの違いは、主に「拡張機能が利用できるかどうか」にある。これまで名の知られたブラウザのうち、モバイル版で拡張機能をサポートしていた数少ない例の1つが、Android版Firefoxだった。 そんな状況のなか、遠からずAndroid版Micro […]",
+          "link": "https://gadget.phileweb.com/post-67547/",
+          "publishedOn": "2024-02-01T03:28:11.000Z",
+          "wordCount": 774,
+          "title": "Android版Edgeブラウザ、まもなく拡張機能に対応か。Firefoxに続き",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_1787732240.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=67502",
           "author": "Munenori Taniguchi",
