@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T07:22:44.479Z</updated>
+    <updated>2024-02-01T07:35:34.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『Death Stranding 2: On the Beach』2025年発売へ。新規IP『Physint（仮）』も発表]]></title>
+        <id>https://gadget.phileweb.com/?p=67634</id>
+        <link href="https://gadget.phileweb.com/post-67634/"/>
+        <updated>2024-02-01T07:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Mac / iPhone / iPad版の『Death Stranding』をリリースしたばかりの小島秀夫監督が、2月1日早朝に配信されたPlayStationの新作情報番組「State of Play」に登場し、『Death Stranding 2：On The Beach』が2025年に発売され […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地震で中1の級友失い「一緒に卒業するんやぞ」【被災地の声】]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240201/k10014341541000.html</id>
@@ -36055,16 +36065,6 @@ SNSで“人工地震が原因”など不安あおる偽情報に注意Xでは�
         <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307571000.html"/>
         <updated>2024-01-02T19:39:08.000Z</updated>
         <summary type="html"><![CDATA[今回の地震で被害を受けている北陸と新潟県では大気の状態が不安定になり、雨が降っているところがあります。地震の揺れで地盤が緩んでいるため、少しの雨でも土砂災害の危険度が高まるおそれがあり、気象庁は警戒するよう呼びかけています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羽田空港事故 管制官 “日航機に侵入許可 海保機は手前まで”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240103/k10014307511000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014307511000.html"/>
-        <updated>2024-01-02T19:34:16.000Z</updated>
-        <summary type="html"><![CDATA[2日、東京の羽田空港で日本航空の旅客機が着陸した直後に海上保安庁の航空機と滑走路上で衝突して炎上し、海上保安庁の乗組員5人が死亡した事故で、国土交通省が確認したところ、事故の前、管制官からは日本航空機に対して滑走路への進入許可が出ていた一方、海上保安庁の航空機に対しては滑走路手前まで走行するよう指示が出ていたことがわかりました。国の運輸安全委員会は、3日から本格的な調査を始め管制官とのやりとりなど、当時の詳しい状況を調べることにしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
