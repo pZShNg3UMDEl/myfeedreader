@@ -2669,21 +2669,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120292/",
-          "author": null,
-          "description": "「宇宙戦艦ヤマト」リメイクシリーズの最新作「ヤマトよ永遠（とわ）に REBEL（レベル）3199」が全7章仕立てとなり、「第一章 黒の侵略」が2024年7月19日から全国の劇場で上映を開始するこ...",
-          "link": "https://anime.eiga.com/news/120292/",
-          "publishedOn": "2024-01-03T03:00:00.000Z",
-          "wordCount": 889,
-          "title": "リメイクシリーズ最新作「ヤマトよ永遠に REBEL3199」　福井晴敏を総監督に全7章で劇場上映",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5825,6 +5810,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344201000.html",
+          "author": null,
+          "description": "能登半島地震で震度5強を観測した富山県氷見市では、支援を受けるために必要なり災証明書の申請がこれまでに4900件余り出されていますが、発行できたのはおよそ20％にとどまっていて、市は急ピッチで作業を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344201000.html",
+          "publishedOn": "2024-02-01T15:01:09.000Z",
+          "wordCount": 674,
+          "title": "り災証明書の発行約20％にとどまり急ピッチで作業 富山 氷見市",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344201_2402012123_0201212841_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240201/k10014344261000.html",
           "author": null,
@@ -20984,16 +20979,6 @@
           "wordCount": 649,
           "title": "羽田事故 海保機長 “管制官から離陸許可” 認識に食い違い",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307751_2401031219_0103121933_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240103/k10014307721000.html",
-          "author": null,
-          "description": "石川県の災害対策本部会議が開かれ、オンラインで出席した珠洲市の泉谷市長は、対応できていない救助要請が72件に上ることを明らかにしたうえで、仮設トイレが至急必要だと訴えました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240103/k10014307721000.html",
-          "publishedOn": "2024-01-03T03:00:42.000Z",
-          "wordCount": 702,
-          "title": "石川県 珠洲市長 “対応できていない救助要請が72件”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240103/K10014307721_2401031159_0103120044_01_02.jpg"
         }
       ]
     },
@@ -31739,16 +31724,6 @@
           "wordCount": 2550,
           "title": "アナウンサー「能登半島地震は日本への報い」。停職",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/4/84137504-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031856.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(愛媛県) [ES]：2024/01/02(火) 20:37:50.37 ID:bZW7l5ww0●.net\n\n\n\n\n\n\n\nSNSで“人工地震が原因”など不安あおる偽情報に注意Xでは今回の地震の原因が「人工地震」だと主張して不安をあおる根拠のない情報や、原子力発電所や避難所の状況...",
-          "link": "https://itainews.com/archives/2031856.html",
-          "publishedOn": "2024-01-03T03:03:25.000Z",
-          "wordCount": 2425,
-          "title": "Xで人工地震デマや原発デマ、避難所デマでみずからの政治的主張に結び付ける投稿　NHK報道",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/978c75fe-s.png"
         }
       ]
     },
