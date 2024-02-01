@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T21:11:02.583Z</updated>
+    <updated>2024-02-01T21:21:33.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震で被災した酒事業者に特例措置 国税庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344341000.html"/>
+        <updated>2024-02-01T21:09:10.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した酒の取り扱い事業者の復旧を支援するため、国税庁は、酒税の還付を受ける際の手続きを大幅に簡略化する特例措置をとることにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[避難所で“消灯前の1時間だけ酒を酌み交わす場” 石川県七尾市]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240202/k10014344291000.html</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[能登半島地震で被災した人たちが身を寄せている石川県七尾市の避難所では、夜に1時間だけ酒を酌み交わす場が設けられていて、昨夜（1日）も10人ほどが利用していました。]]></summary>
         <author>
             <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【吉野家】から揚げ親子丼【店舗限定・期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=234783</id>
+        <link href="https://foodfighter.jp/yoshinoya-karaage-oyakodon"/>
+        <updated>2024-02-01T21:01:33.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定・新メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTub […]]]></summary>
+        <author>
+            <name>foodfighter</name>
         </author>
     </entry>
     <entry>
