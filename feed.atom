@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T05:28:04.917Z</updated>
+    <updated>2024-02-01T05:38:10.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -57,6 +57,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342881000.html"/>
         <updated>2024-02-01T04:10:14.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震の発生から1か月。被災した人たちの多くが住まいの選択に思い悩んでいます。“去るべきか” それとも “残るべきか”家族への思い、土地への思い、将来への思い。それは、簡単な決断ではありません。6組の家族の決断を取材しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明秀日立高校 硬式野球部で金属バットなくなる 部員が売ったか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343051000.html"/>
+        <updated>2024-02-01T04:04:15.000Z</updated>
+        <summary type="html"><![CDATA[高校野球の強豪校、茨城県の明秀日立高校の硬式野球部で、備品の金属バットがなくなり、学校が警察に相談していることがわかりました。関係者によりますと、これまでに学校に対して、複数の部員がリサイクルショップに売ったと申し出ているということです。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
