@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T07:12:35.065Z</updated>
+    <updated>2024-02-01T07:22:44.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震で中1の級友失い「一緒に卒業するんやぞ」【被災地の声】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240201/k10014341541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014341541000.html"/>
+        <updated>2024-02-01T07:10:04.000Z</updated>
+        <summary type="html"><![CDATA[「銀治郎のことを忘れるな、一緒に卒業するんやぞ」能登町の中学1年生、森銀治郎さんは1月1日の地震による自宅の倒壊で亡くなりました。授業中、みんなが理解できるよう率先して質問していたこと。ソフトテニス部の練習に励んで大会で活躍していたこと。通っていた中学校の同級生や先生たちが、銀治郎さんへの思いを話してくれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川県の地震想定 27年前のまま“災害度低い”と防災計画に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240201/k10014343311000.html</id>
