@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T23:35:42.389Z</updated>
+    <updated>2024-02-01T23:50:27.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IT大手アップル アマゾン メタ 12月までの3か月決算 増収増益]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344181000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344181000.html"/>
+        <updated>2024-02-01T23:17:25.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのIT大手、アップルとアマゾン、それに旧フェイスブックのメタは1日、それぞれ去年10月から12月までの3か月間の決算を発表し、いずれも増収増益となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長野 3年前の殺人未遂で逮捕の容疑者 去年から仙台集合住宅に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240202/k10014344311000.html</id>
@@ -36126,16 +36136,6 @@ At the “SK Tech Summit 2023” held last month, SK hynix revealed its progress
         <summary type="html"><![CDATA[冨樫義博氏の漫画「HUNTER×HUNTER」の本格対戦格闘ゲームの制作が決定した。2024年1月6日にTOKYO DOME CITY HALL で行われる「ブシロード新春大発表会2024」のブ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羽田空港事故 交信記録やり取り詳細“18分の避難”機内で何が]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240103/k10014308031000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240103/k10014308031000.html"/>
-        <updated>2024-01-03T11:45:01.000Z</updated>
-        <summary type="html"><![CDATA[2日、東京の羽田空港で日本航空の旅客機が着陸した直後に海上保安庁の航空機と滑走路上で衝突して炎上し、海上保安官5人が死亡した事故で、国土交通省は管制官と双方の機体との当時のやり取りを公表しました。「やり取りの詳細は」「“18分の避難” 機内では何が」交信記録の詳細と、乗客の証言をまとめました。※記事文末に管制官と双方の機体との詳細なやり取りを掲載しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
