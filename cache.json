@@ -5766,6 +5766,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344931000.html",
+          "author": null,
+          "description": "石川県によりますと、県内で死亡が確認された人の数は2日午後2時の時点で、1日と変わらず240人となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344931000.html",
+          "publishedOn": "2024-02-02T09:11:41.000Z",
+          "wordCount": 798,
+          "title": "【被害状況 2月2日】石川県で240人死亡",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344931_2402021758_0202180134_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345081000.html",
           "author": null,
           "description": "石川県では、今回の地震のあと自宅で避難生活を送る「在宅避難者」が少なくとも2800人余りにのぼっていますが、行政に名前や避難先などを登録しないまま「危険」と判定された自宅にとどまり続ける人もいます。在宅避難者は東日本大震災など過去の災害でも行政の支援を十分に受けられず問題となっていて、東北のボランティア団体の代表はいち早く状況把握を進めるべきだと訴えています。",
@@ -20944,26 +20954,6 @@
           "wordCount": 900,
           "title": "地震被災地で雨 土砂災害に警戒 気象庁",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240104/K10014308281_2401040630_0104063201_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240104/k10014307971000.html",
-          "author": null,
-          "description": "自民党は、派閥の政治資金パーティーをめぐる問題を受けて、信頼回復に向けた再発防止策などを検討することにしていて、派閥のあり方を含めた党改革の議論がどこまで深まるかが焦点となります。",
-          "link": "http://www3.nhk.or.jp/news/html/20240104/k10014307971000.html",
-          "publishedOn": "2024-01-03T21:19:42.000Z",
-          "wordCount": 425,
-          "title": "自民 派閥のあり方含めた党改革の議論 どこまで深まるか焦点",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240104/K10014307971_2401031750_0104061943_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240104/k10014308251000.html",
-          "author": null,
-          "description": "羽田空港で日本航空の旅客機と海上保安庁の航空機が滑走路上で衝突して炎上し、海上保安官5人が死亡した事故で、日本航空機のパイロットが会社の聞き取りに対し、滑走路への進入中、海上保安庁の航空機を「視認できなかった」と話していることがわかりました。国の運輸安全委員会が事故の詳しい状況を調べています。また、日本航空は着陸してから乗客乗員379人全員が機体の外に避難するまでの18分間について、その詳細を明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240104/k10014308251000.html",
-          "publishedOn": "2024-01-03T21:16:50.000Z",
-          "wordCount": 839,
-          "title": "JALパイロット 海保の航空機「視認できなかった」羽田空港事故",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240104/K10014308251_2401032238_0103235053_01_02.jpg"
         }
       ]
     },
@@ -27716,6 +27706,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqFaMBFtHduRRJKVCJhBr9g",
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kcGDMJiXHRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kcGDMJiXHRI",
+          "publishedOn": "2024-02-02T09:21:28.000Z",
+          "wordCount": null,
+          "title": "ColaboDV(R3)住民訴訟①訴状&都庁答弁書",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UpQSqGMhhXw",
           "author": null,
