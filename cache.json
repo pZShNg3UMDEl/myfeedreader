@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120526/",
+          "author": null,
+          "description": "4月からNHKで放送を開始する和風ファンタジーアニメ「烏（からす）は主を選ばない」に、田村睦心と入野自由が出演することが明らかになった。PV第1弾とキービジュアルも公開されている。 同作は、阿部...",
+          "link": "https://anime.eiga.com/news/120526/",
+          "publishedOn": "2024-02-02T12:00:00.000Z",
+          "wordCount": 795,
+          "title": "「烏は主を選ばない」雪哉役に田村睦心、若宮役に入野自由　監督は「ゆるキャン△」の京極義昭",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/tokuten_list/120521/",
           "author": null,
           "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、本日公開「『鬼滅の刃』絆...",
@@ -5076,16 +5091,6 @@
           "wordCount": 10113,
           "title": "【噂】新型Switchはギミック路線では無く強化版？価格は400ドルか！？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2lkt.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96768",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/01(月) 18:22:47.82 ID:9dtiCg9C0 あと一つは？ & […]",
-          "link": "https://switchsoku.com/gossip/96768",
-          "publishedOn": "2024-01-04T00:00:58.000Z",
-          "wordCount": 10223,
-          "title": "三大デザインが美しいゲームハード「初期型PS3」「Wii」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/09/nintendoi-hard.jpg"
         }
       ]
     },
@@ -5805,6 +5810,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345621000.html",
+          "author": null,
+          "description": "自民党の麻生副総裁は、上川外務大臣の容姿などに触れたみずからの発言について「表現に不適切な点があったことは否めない」として撤回しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345621000.html",
+          "publishedOn": "2024-02-02T12:12:49.000Z",
+          "wordCount": 626,
+          "title": "自民 麻生副総裁 上川外相の容姿などに触れた発言を撤回",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345621_2402022107_0202211201_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345611000.html",
+          "author": null,
+          "description": "日本サッカー協会の田嶋幸三会長が会見し、一部報道を受けてアジアカップの日本代表からの離脱が発表されていた伊東純也選手について改めて離脱させる考えを示しました。田嶋会長は「伊東選手のコンディションを考えた上で総合的に判断した」と説明しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345611000.html",
+          "publishedOn": "2024-02-02T12:02:28.000Z",
+          "wordCount": 675,
+          "title": "サッカー 伊東純也 日本代表を離脱 田嶋会長「総合的に判断」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345611_2402022055_0202210231_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345011000.html",
+          "author": null,
+          "description": "石川県珠洲市の宝立町で、地震で家屋が倒壊する瞬間や津波が押し寄せる状況が介護事業所の送迎車のドライブレコーダーに記録されていました。注意：画像右下のボタンを押すと地震発生時の様子や津波が押し寄せる映像が再生されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345011000.html",
+          "publishedOn": "2024-02-02T11:45:39.000Z",
+          "wordCount": 645,
+          "title": "家屋倒壊 津波が押し寄せ…ドライブレコーダーが記録した映像",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345011_2402021915_0202193215_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344941000.html",
           "author": null,
@@ -26345,16 +26380,6 @@
           "wordCount": 1867,
           "title": "野良の三毛猫が子猫を紹介しにきてくれた",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65871.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=65904",
-          "author": "299",
-          "description": "小さな子猫がちんまりと飼い主さんの手のひらの上でまるくなって寝ています。その寝顔は天使そのものです。 グレーと白のハチワレの子猫も飼い主さんの手のひらに包まれて抱き上げられて、そのまま爆睡しています。そうかと思えば白い子...\n手のひらの中でぐっすり眠る子猫たちはみんな天使そのものです first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/65904",
-          "publishedOn": "2024-01-04T00:00:21.000Z",
-          "wordCount": 1860,
-          "title": "手のひらの中でぐっすり眠る子猫たちはみんな天使そのものです",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65904.jpeg"
         }
       ]
     },
