@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T03:35:28.812Z</updated>
+    <updated>2024-02-02T03:50:22.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[参院本会議 代表質問 政治資金問題“党の考えまとめ議論”首相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344631000.html"/>
+        <updated>2024-02-02T03:32:34.000Z</updated>
+        <summary type="html"><![CDATA[国会は参議院本会議で2日目の代表質問が行われ、自民党の派閥の政治資金パーティーをめぐる問題で、岸田総理大臣は、政治資金規正法の改正に関し、党として考え方をまとめ、今の国会で各党と議論していく考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小学校にグローブ贈った大谷選手にお礼メッセージ 盛山文科相]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240202/k10014344551000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344551000.html"/>
         <updated>2024-02-02T03:27:38.000Z</updated>
         <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手が全国の小学校にグローブを贈ったことに対し、盛山文部科学大臣は、大谷選手に宛ててお礼のメッセージを送ったことを明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自衛隊 今後1万人態勢で被災者の生活支援中心に活動へ 防衛相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344571000.html"/>
+        <updated>2024-02-02T03:26:21.000Z</updated>
+        <summary type="html"><![CDATA[木原防衛大臣は、能登半島地震のために編成され、最大1万4000人態勢で人命救助や物資の輸送などにあたってきた自衛隊の「統合任務部隊」について、発生から1か月がたち活動に一定のめどがついたとして、編成を解くよう命じました。今後は1万人態勢で給水や入浴の支援など、被災者の生活支援を中心に活動を行っていくとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -36110,16 +36130,6 @@ At the “SK Tech Summit 2023” held last month, SK hynix revealed its progress
         <summary type="html"><![CDATA[1: 2024/01/03(水) 10:38:08.23 ID:bnoYDpBB0 ファンがいないっ […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川県 輪島市と珠洲市で震度４ 津波の心配なし]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240104/k10014308351000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240104/k10014308351000.html"/>
-        <updated>2024-01-03T15:47:13.000Z</updated>
-        <summary type="html"><![CDATA[４日午前０時３６分ごろ地震がありました。この地震による津波の心配はありません。震源地は能登半島沖で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．８と推定されます。各市町村の震度は以下のとおりです。震度４が石川県輪島市、石川県珠洲市。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
