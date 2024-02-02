@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T19:35:29.493Z</updated>
+    <updated>2024-02-02T19:50:33.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【石川 給水支援情報】輪島 珠洲 能登町など（3日）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345951000.html"/>
+        <updated>2024-02-02T19:47:29.000Z</updated>
+        <summary type="html"><![CDATA[石川県内で3日に予定されている給水支援の情報です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岩手 花巻で住宅火災 焼け跡から2人の遺体 90代女性と息子か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345961000.html"/>
+        <updated>2024-02-02T19:39:51.000Z</updated>
+        <summary type="html"><![CDATA[2日午後7時ごろ、岩手県花巻市で住宅が焼ける火事があり、焼け跡から2人が遺体で見つかりました。警察は連絡が取れなくなっているこの家に住む90代の女性と、家を訪れていた息子とみて確認を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ボール型のおもちゃに入りたかったまるちゃんでしたが諦めました]]></title>
         <id>https://2-9-9.com/?p=67778</id>
