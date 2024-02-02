@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T17:12:37.712Z</updated>
+    <updated>2024-02-02T17:28:28.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Videos from onsemi, AI Storm, ST, EPFL]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/02/new-videos-from-onsemi-ai-storm-st-epfl.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/02/new-videos-from-onsemi-ai-storm-st-epfl.html"/>
+        <updated>2024-02-02T17:23:00.023Z</updated>
+        <summary type="html"><![CDATA[Onsemi emphasizes its internal fab capabilities:
+
+
+  
+  
+  
+
+
+At CES, AI Storm describes the analog AI approach contained in its image sensor:
+ 
+
+
+
+
+
+
+Also at CES, ST presents its new 3D sensing approach:
+ 
+
+
+
+
+
+ 
+EPFL presents a combo of spiking neuron processor and  SPAD sensor:
+
+EPFL also presents a burst SPAD imager:]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫島の公園で茶白猫さんとたわむれる]]></title>
         <id>https://2-9-9.com/?p=67770</id>
