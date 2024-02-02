@@ -5836,6 +5836,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345791000.html",
+          "author": null,
+          "description": "能登半島地震で全壊した住宅が富山県内では100戸を超え、県は、住宅が全壊した世帯に最大300万円の支援金を支給する「被災者生活再建支援法」を県内全域に適用することを決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345791000.html",
+          "publishedOn": "2024-02-02T13:43:43.000Z",
+          "wordCount": 774,
+          "title": "富山県 全壊などの被災世帯に最大300万円支援 全域で適用",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345791_2402022218_0202222527_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345591000.html",
+          "author": null,
+          "description": "プロ野球、ロッテの佐々木朗希投手が、沖縄 石垣島で行われているキャンプの2日目で初めてブルペンに入り、変化球も交えながら37球を投げ込みました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345591000.html",
+          "publishedOn": "2024-02-02T13:15:41.000Z",
+          "wordCount": 704,
+          "title": "【キャンプ】ロッテ佐々木朗希 初のブルペン入り 37球投げ込む",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345591_2402022201_0202220310_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345731000.html",
           "author": null,
           "description": "能登半島地震の被災者の留守宅を狙った空き巣や、被害に便乗した悪質商法などの被害を防ごうと、富山県警察本部は氷見市の住宅街に防犯カメラを設置しました。",
@@ -21184,16 +21204,6 @@
           "wordCount": 748,
           "title": "海上保安庁「珠洲市漁港周辺 津波に流され1人行方不明の情報」",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240104/K10014308551_2401041115_0104111532_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240104/k10014308461000.html",
-          "author": null,
-          "description": "ことし最初の取り引きとなる4日の東京株式市場、日経平均株価は一時、700円以上値下がりしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240104/k10014308461000.html",
-          "publishedOn": "2024-01-04T01:49:10.000Z",
-          "wordCount": 1071,
-          "title": "株価一時700円以上値下がり 能登半島地震の被害広がりに警戒感",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240104/K10014308461_2401040921_0104092220_01_02.jpg"
         }
       ]
     },
