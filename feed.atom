@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T21:21:05.763Z</updated>
+    <updated>2024-02-02T21:36:23.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「米軍 イラクとシリア領内に報復攻撃」欧米メディア報じる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346001000.html"/>
+        <updated>2024-02-02T21:32:43.000Z</updated>
+        <summary type="html"><![CDATA[CNNテレビなど複数の欧米のメディアはアメリカ政府当局者の話として「アメリカ軍がイラクとシリアの領内に報復攻撃を始めた」と伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和臨調 罰則強化求める緊急提言 “選挙制度など見直しも”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240203/k10014345861000.html</id>
