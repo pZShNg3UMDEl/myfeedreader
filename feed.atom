@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T20:36:38.193Z</updated>
+    <updated>2024-02-02T20:50:39.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル MRゴーグル型端末を米で販売開始 市場拡大なるか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345971000.html"/>
+        <updated>2024-02-02T20:46:07.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのIT大手アップルは現実の風景と仮想現実などを重ね合わせて映し出すMR＝複合現実のゴーグル型端末の販売をアメリカで始めました。この分野には旧フェイスブックのメタも力を入れるなど競争が激しくなっていて、アップルの参入が市場の拡大につながるかに関心が集まっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民 政治資金問題 全所属議員対象にアンケート実施へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345851000.html"/>
+        <updated>2024-02-02T20:34:55.000Z</updated>
+        <summary type="html"><![CDATA[自民党は、派閥の政治資金パーティーをめぐる問題を受けて、関係議員から聴き取りを始めるとともに、来週、すべての所属議員を対象にアンケートを行うことになりました。これに対し、野党側は、週明けから行われる予算委員会で、引き続き実態の解明や政治資金規正法の改正などを求める方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 珠洲市と中能登町 きょうからボランティア派遣]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240203/k10014345841000.html</id>
