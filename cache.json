@@ -5766,6 +5766,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014341931000.html",
+          "author": null,
+          "description": "能登半島地震の発生直後に旧ツイッターのXで相次いだ偽の救助要請などについて、NHKが分析したところ、多くは海外から日本語で投稿されていて、閲覧された回数は合わせて1100万回以上に上ることが分かりました。発信者の中には、Xで多く閲覧されることで収益を得る「インプ稼ぎ」の方法を教える動画を投稿している人物もいて、偽情報の拡散にXの収益化の仕組みが影響している実態が浮かび上がりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014341931000.html",
+          "publishedOn": "2024-02-02T09:22:51.000Z",
+          "wordCount": 530,
+          "title": "能登半島地震の偽情報 海外から多く “インプレゾンビ”が",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014341931_2402021505_0202155818_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344931000.html",
           "author": null,
           "description": "石川県によりますと、県内で死亡が確認された人の数は2日午後2時の時点で、1日と変わらず240人となっています。",
@@ -20944,16 +20954,6 @@
           "wordCount": 1071,
           "title": "株価一時700円以上値下がり 能登半島地震の被害広がりに警戒感",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240104/K10014308461_2401040921_0104092220_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240104/k10014308281000.html",
-          "author": null,
-          "description": "今回の能登半島地震で石川県で震度7の揺れを観測したあと、能登地方やその周辺では地震が相次いでいて、1週間程度は最大震度7程度の揺れに注意が必要です。また、被災地では雨が降っているところがあり、気象庁は少しの雨でも土砂災害のおそれがあるとして警戒を呼びかけています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240104/k10014308281000.html",
-          "publishedOn": "2024-01-03T21:33:32.000Z",
-          "wordCount": 900,
-          "title": "地震被災地で雨 土砂災害に警戒 気象庁",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240104/K10014308281_2401040630_0104063201_01_02.jpg"
         }
       ]
     },
@@ -26209,6 +26209,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=67786",
+          "author": "多根清史",
+          "description": "昨年アップルは、クアルコムからiPhone向け5Gモデムチップ供給を受ける契約を2026年まで延長すると発表した。その理由は同社が独自の5Gモデム開発に苦戦しており、時間稼ぎするためとみられている。 それに続き、少なくとも2027年までは、アップル製品がクアルコム製モデムを採用し続けることが明らかに […]",
+          "link": "https://gadget.phileweb.com/post-67786/",
+          "publishedOn": "2024-02-02T09:26:15.000Z",
+          "wordCount": 779,
+          "title": "iPhone SE 4に影響？ アップル、クアルコムとの5Gモデム契約を2027年まで延長",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_1621325680-1.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=67800",
           "author": "多根清史",
