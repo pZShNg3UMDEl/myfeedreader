@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T07:21:32.814Z</updated>
+    <updated>2024-02-02T07:35:42.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[厚労省職員 誤ったアドレス登録し誤送信 首相答弁案も流出]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344861000.html"/>
+        <updated>2024-02-02T07:27:48.000Z</updated>
+        <summary type="html"><![CDATA[厚生労働省の職員が、省内のメーリングリストに誤ったアドレスを登録し、去年9月以降、岸田総理大臣の国会答弁案や、民間と行政の職員675人分の個人情報などが誤送信されていたことがわかりました。今のところ情報が悪用されるなどの被害は確認されていないということですが厚生労働省は、再発防止に努めるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[椎野カロリーナさん報道、ミス日本協会が声明「妻子ある男性が『独身である』旨を述べて女性に近づいた」「女性側には非がない」]]></title>
         <id>https://itainews.com/archives/2032720.html</id>
