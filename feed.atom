@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T20:12:39.508Z</updated>
+    <updated>2024-02-02T20:23:45.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 珠洲市と中能登町 きょうからボランティア派遣]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345841000.html"/>
+        <updated>2024-02-02T20:11:33.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地での災害廃棄物の片づけなどを支援するため、石川県は3日から新たに珠洲市と中能登町にボランティアを派遣することにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【北海道】14歳の女子中学生に現金１万4000円渡しホテルで性交…女子が自ら警察を訪れて発覚　19歳消防士「未成年とは知りませんでした」]]></title>
         <id>https://itainews.com/archives/2032745.html</id>
