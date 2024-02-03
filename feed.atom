@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T08:27:24.383Z</updated>
+    <updated>2024-02-03T08:38:09.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[節分 来年は1日早まり「２月2日」に 地球と太陽の動きで暦ずれ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346291000.html"/>
+        <updated>2024-02-03T08:30:38.000Z</updated>
+        <summary type="html"><![CDATA[ことしの「節分」は2月3日ですが、来年は地球と太陽の位置関係などから暦がずれる影響で1日早まり、2月2日になります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大相撲 新大関の琴ノ若 三重 鈴鹿の「椿大神社」で豆まき]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240203/k10014346321000.html</id>
@@ -36684,16 +36694,6 @@ https://i.imgur.com/YIOL...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309651000.html"/>
         <updated>2024-01-04T20:57:00.000Z</updated>
         <summary type="html"><![CDATA[羽田空港で起きた日本航空と海上保安庁の航空機どうしの衝突炎上事故で、担当した管制官は海上保安庁の航空機に滑走路の手前まで走行するよう指示を出したあとの状況について「別の航空機の調整などがあったため、意識していなかった」と話していることがわかりました。滑走路への進入には気がつかなかったということで、国の運輸安全委員会が当時の詳しい状況を調べています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イラン 追悼式典での爆発 ISがみずからの犯行だと主張する声明]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309751000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309751000.html"/>
-        <updated>2024-01-04T20:34:50.000Z</updated>
-        <summary type="html"><![CDATA[イランで2回爆発が起きて80人以上が死亡した事件について、過激派組織IS＝イスラミックステートがみずからの犯行だと主張する声明を出しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
