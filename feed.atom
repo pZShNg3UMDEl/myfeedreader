@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T04:14:25.700Z</updated>
+    <updated>2024-02-03T04:27:13.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「先天梅毒」の子ども 過去最多に 妊婦から胎児への母子感染]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345671000.html"/>
+        <updated>2024-02-03T04:19:01.000Z</updated>
+        <summary type="html"><![CDATA[梅毒に感染した妊婦から胎児に母子感染する「先天梅毒」の子どもの数は去年1年間で37人と、現在の方法で統計を取り始めてから最も多くなったことが、国立感染症研究所のまとめでわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富山 ホタルイカの定置網 漁解禁に向け地震被害からの復旧急ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346151000.html"/>
+        <updated>2024-02-03T04:17:16.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震でホタルイカ漁に使う定置網などに大きな被害が出た富山市の水橋漁港では、来月のホタルイカ漁の解禁に向けて漁業者が復旧を急いでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ前大統領の初公判を延期 議会乱入事件めぐり 連邦地裁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240203/k10014346171000.html</id>
