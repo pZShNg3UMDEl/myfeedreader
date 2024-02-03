@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T22:27:12.956Z</updated>
+    <updated>2024-02-03T22:37:30.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ローザンヌ国際バレエコンクール  2人入賞 小林愛里さん5位]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014346611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014346611000.html"/>
+        <updated>2024-02-03T22:28:15.000Z</updated>
+        <summary type="html"><![CDATA[世界の若手バレエダンサーの登竜門として知られる、スイスの「ローザンヌ国際バレエコンクール」の決勝が行われ、東京都の小林愛里さんが5位に、同じく東京都の利田太一さんが9位に、それぞれ入賞しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米軍と英軍 イエメン反政府勢力フーシ派関連施設など追加攻撃]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240204/k10014346781000.html</id>
