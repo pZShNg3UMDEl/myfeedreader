@@ -2714,21 +2714,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120343/",
-          "author": null,
-          "description": "上山道郎氏が「月刊ヤングキングアワーズGH」（少年画報社刊）で連載中の漫画「悪役令嬢転生おじさん」のテレビアニメ化が決定した。 同作は、娘がプレイしていた乙女ゲームの世界に公爵令嬢として異世界転...",
-          "link": "https://anime.eiga.com/news/120343/",
-          "publishedOn": "2024-01-05T08:00:00.000Z",
-          "wordCount": 764,
-          "title": "「悪役令嬢転生おじさん」TVアニメ化決定　52歳のオタク男性公務員が主人公",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5066,16 +5051,6 @@
           "wordCount": 9977,
           "title": "Switchのバッテリー交換ってなんで郵送修理なんだ？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/03/switch-tegra.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96822",
-          "author": "SWITCH速報",
-          "description": "Nintendo Switch版『ロックマンX アニバーサリー コレクション １・２』が2024年1 […]",
-          "link": "https://switchsoku.com/soft/megaman/96822",
-          "publishedOn": "2024-01-05T08:00:34.000Z",
-          "wordCount": 10287,
-          "title": "『ロックマンX』全作10周以上プレイした猛者だけど質問ある？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/11/rockman-x.jpg"
         }
       ]
     },
@@ -5825,6 +5800,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014345991000.html",
+          "author": null,
+          "description": "先月1日に発生した能登半島地震では、SNSを中心に被害や孤立の状況を訴えたり救助を求めたりする情報が多く発信された一方、真偽不明や誤りの情報も拡散されました。中には表示回数を増やすため被災者を装ったとみられる投稿もあり、専門家は「収入を目的とした情報が増えているのが特徴で、重要な内容だとしてもすぐには投稿せず注意深く対応する必要がある」と指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014345991000.html",
+          "publishedOn": "2024-02-03T20:06:33.000Z",
+          "wordCount": 812,
+          "title": "能登半島地震 SNSで真偽不明や誤りの情報拡散 注意深く対応を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014345991_2402031623_0203195612_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346601000.html",
+          "author": null,
+          "description": "アメリカ軍は兵士3人が死亡した攻撃への報復措置として、イラクとシリアの領内にある、イランの軍事精鋭部隊の関連施設などを空爆し、この攻撃で少なくとも45人が死亡したとみられます。イランや空爆された国から反発の声があがるなか、アメリカがさらなる報復措置に踏み切るのか今後の対応が注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346601000.html",
+          "publishedOn": "2024-02-03T20:01:11.000Z",
+          "wordCount": 653,
+          "title": "米軍が報復で空爆 イランの軍事関連施設など 45人死亡か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346601_2402040452_0204050113_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346661000.html",
           "author": null,
@@ -21054,36 +21049,6 @@
           "wordCount": 994,
           "title": "被災者受け入れへ都営住宅100戸程度用意 使用期限当面6か月",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310781_2401051708_0105171237_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310771000.html",
-          "author": null,
-          "description": "能登半島地震を受けて、アメリカのエマニュエル駐日大使はアメリカ軍による支援の準備を進めていると明らかにしました。日米両政府は被災地のニーズなども見極めながら、支援に向け調整を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310771000.html",
-          "publishedOn": "2024-01-05T08:12:30.000Z",
-          "wordCount": 940,
-          "title": "“米軍による被災地支援の準備進める” 米駐日大使 SNSに投稿",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310771_2401051701_0105170647_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309851000.html",
-          "author": null,
-          "description": "2024年、税制の優遇が拡充される新「NISA」も始まり、自分の資産を考えるうえでことしの金融市場の動きが気になる方も多いと思います。1月4日のことし最初の東京株式市場は、能登半島地震の経済への影響を懸念する見方などから日経平均株価は一時、700円以上値下がりしました。一方、ニューヨークでは1月2日にダウ平均株価はわずかながら最高値を更新。ウォール街ではことしの株価を強気に予想する専門家も多くいます。ことしの金融市場、どうなるのか。ニューヨークでマーケットを取材している記者のつぶやきです。（アメリカ総局記者 江崎大輔）※表紙の写真は、ニューヨーク証券取引所近くにあるブル（雄牛）の銅像。株価上昇トレンドの象徴。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309851000.html",
-          "publishedOn": "2024-01-05T08:02:03.000Z",
-          "wordCount": 881,
-          "title": "ことしのマーケットどうなる？懸念も【NY発経済コラム】",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309851_2401051255_0105125626_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310161000.html",
-          "author": null,
-          "description": "石川県内の避難所でインフルエンザや新型コロナの感染者が増えていることが県の災害対策本部会議で報告され、馳知事は、避難環境の改善などに取り組む考えを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310161000.html",
-          "publishedOn": "2024-01-05T07:53:04.000Z",
-          "wordCount": 762,
-          "title": "石川県の避難所でインフルやコロナ感染者増加",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310161_2401051431_0105154431_01_02.jpg"
         }
       ]
     },
@@ -22756,6 +22721,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67799",
+          "author": "299",
+          "description": "キジ白の赤ちゃん猫が毛布の上で気持ちよさそうにまったりしています。寝転がって手足を投げ出している姿が、もう可愛くってたまりません。 くるりんとまるまるようにして顔を少し上にあげ、目を半分ぐらい開けていますが、この段階です...\nまったり昼寝中の子猫に兄弟猫がニャンプロを仕掛けてきた！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67799",
+          "publishedOn": "2024-02-03T20:00:58.000Z",
+          "wordCount": 1392,
+          "title": "まったり昼寝中の子猫に兄弟猫がニャンプロを仕掛けてきた！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67799.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=67844",
           "author": "299",
@@ -26285,16 +26260,6 @@
           "wordCount": 1859,
           "title": "眠くなると膝の上に乗ってくる子猫のもっちが可愛すぎる",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65944.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=65940",
-          "author": "299",
-          "description": "お母さん猫が赤ちゃん猫たちにおっぱいを飲ませています。なんとも心落ち着く光景です。 赤ちゃん猫たちは必死におっぱいに吸い付いていますが、お母さん猫は空中に前足をあげて、エアふみふみを盛んにしています。 飼い主さんがお母さ...\n赤ちゃん猫たちへの授乳時間を心から満喫するママ猫さん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/65940",
-          "publishedOn": "2024-01-05T08:00:12.000Z",
-          "wordCount": 1865,
-          "title": "赤ちゃん猫たちへの授乳時間を心から満喫するママ猫さん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65940.jpeg"
         }
       ]
     },
@@ -31749,16 +31714,6 @@
           "wordCount": 2697,
           "title": "自衛隊、馬鹿だった！パンを1台のトラックから降ろすのに25人を動員wwww外人から馬鹿にされまくる",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/2/e2f94b62.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031917.html",
-          "author": "damono3856",
-          "description": "1 名前：jinjin ★：2024/01/05(金) 07:27:06.52 ID:pAkPefpO9.net\n\n\n\n\n\n\n\n【画像流出】松本人志の性加害疑惑を告発した女性「本当に素敵で…」「最後までとても優しくて」会合終わりにスピードワゴン小沢に送っていた“お礼メッセージ” : https://t.co/3HMe7orRDa #松...",
-          "link": "https://itainews.com/archives/2031917.html",
-          "publishedOn": "2024-01-05T08:01:29.000Z",
-          "wordCount": 2548,
-          "title": "【画像流出】松本人志の性加害疑惑を告発した女性「本当に素敵で…」　スピードワゴン小沢に送っていた“お礼”",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/ff861494-s.png"
         }
       ]
     },
