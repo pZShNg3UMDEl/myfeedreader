@@ -5866,6 +5866,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346661000.html",
+          "author": null,
+          "description": "スキージャンプ女子のワールドカップがドイツで行われ高梨沙羅選手が2位に入り、今シーズン初めて表彰台に上がりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014346661000.html",
+          "publishedOn": "2024-02-03T14:19:03.000Z",
+          "wordCount": 680,
+          "title": "スキージャンプ女子W杯 高梨沙羅が2位 今シーズン初表彰台",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346661_2402032301_0203231031_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346691000.html",
           "author": null,
           "description": "カーリングの日本選手権は女子の準決勝が行われ、SC軽井沢クラブが中部電力に競り勝って決勝に進みました。",
@@ -21284,36 +21294,6 @@
           "wordCount": 969,
           "title": "能登半島地震の被災地 あすから雨か 土砂災害に注意",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309971_2401051153_0105115506_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309871000.html",
-          "author": null,
-          "description": "地震で被災者の心と体の健康管理が課題となるなか、医師などのグループが各地の被災者向けに無料のオンライン健康相談を受け付けています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309871000.html",
-          "publishedOn": "2024-01-05T02:18:26.000Z",
-          "wordCount": 718,
-          "title": "被災者向け無料オンライン健康相談 “気軽に相談を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309871_2401051110_0105111828_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309861000.html",
-          "author": null,
-          "description": "富山県は、能登半島地震で住宅が全壊した世帯に10万円の見舞い金を支給するなどの支援策を取りまとめました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309861000.html",
-          "publishedOn": "2024-01-05T02:14:02.000Z",
-          "wordCount": 941,
-          "title": "富山県 住宅全壊世帯に10万円の見舞い金支給へ 支援策まとまる",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309861_2401051050_0105111404_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309911000.html",
-          "author": null,
-          "description": "石川県の馳知事は、金沢市で、救援物資を輸送するための拠点施設を視察し、物資の中継地点を設けるなど輸送態勢を強化する考えを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309911000.html",
-          "publishedOn": "2024-01-05T02:10:48.000Z",
-          "wordCount": 973,
-          "title": "石川県 馳知事 “救援物資の輸送 中継地点設け態勢強化を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309911_2401051103_0105111050_01_02.jpg"
         }
       ]
     },

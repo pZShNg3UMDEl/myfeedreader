@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T14:10:32.499Z</updated>
+    <updated>2024-02-03T14:23:36.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スキージャンプ女子W杯 高梨沙羅が2位 今シーズン初表彰台]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346661000.html"/>
+        <updated>2024-02-03T14:19:03.000Z</updated>
+        <summary type="html"><![CDATA[スキージャンプ女子のワールドカップがドイツで行われ高梨沙羅選手が2位に入り、今シーズン初めて表彰台に上がりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埼玉県・川口市「国に対して不満いっぱい」「不法行為を行う外国人は法に基づき厳格に強制送還等して」国に異例の訴え]]></title>
         <id>https://itainews.com/archives/2032770.html</id>
@@ -36768,36 +36778,6 @@ https://i.imgur.com/YIOL...]]></summary>
         <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被災者向け無料オンライン健康相談 “気軽に相談を”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309871000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309871000.html"/>
-        <updated>2024-01-05T02:18:26.000Z</updated>
-        <summary type="html"><![CDATA[地震で被災者の心と体の健康管理が課題となるなか、医師などのグループが各地の被災者向けに無料のオンライン健康相談を受け付けています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富山県 住宅全壊世帯に10万円の見舞い金支給へ 支援策まとまる]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309861000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309861000.html"/>
-        <updated>2024-01-05T02:14:02.000Z</updated>
-        <summary type="html"><![CDATA[富山県は、能登半島地震で住宅が全壊した世帯に10万円の見舞い金を支給するなどの支援策を取りまとめました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川県 馳知事 “救援物資の輸送 中継地点設け態勢強化を”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309911000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309911000.html"/>
-        <updated>2024-01-05T02:10:48.000Z</updated>
-        <summary type="html"><![CDATA[石川県の馳知事は、金沢市で、救援物資を輸送するための拠点施設を視察し、物資の中継地点を設けるなど輸送態勢を強化する考えを示しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
