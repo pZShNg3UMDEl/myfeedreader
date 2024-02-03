@@ -5746,6 +5746,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346781000.html",
+          "author": null,
+          "description": "アメリカのオースティン国防長官は先ほど、声明を出し、アメリカ軍とイギリス軍が3日、イランが支援するイエメンの反政府勢力フーシ派の関連施設など13か所に対し、攻撃を行ったと発表しました。攻撃は、フーシ派の兵力をそぐための作戦の一環だとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346781000.html",
+          "publishedOn": "2024-02-03T22:14:53.000Z",
+          "wordCount": 612,
+          "title": "米軍と英軍 イエメン反政府勢力フーシ派関連施設など追加攻撃",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346531000.html",
           "author": null,
           "description": "16年ぶりに新人どうしの争いとなった京都市長選挙は4日、投票日を迎え、午前7時から投票が始まりました。",
@@ -20924,36 +20934,6 @@
           "wordCount": 618,
           "title": "石川県知事“来週中にも輪島市などで仮設住宅建設とりかかる”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014311041_2401052047_0105205704_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310911000.html",
-          "author": null,
-          "description": "厚生労働省によりますと石川県内で108の高齢者施設で断水や停電などの被害が確認されていますが、3つの施設と連絡が取れない状況が続いているとして、厚生労働省と石川県などが確認を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310911000.html",
-          "publishedOn": "2024-01-05T10:26:16.000Z",
-          "wordCount": 1008,
-          "title": "石川県の高齢者施設 3施設と連絡取れず 厚労省など確認進める",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310911_2401051844_0105190601_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310951000.html",
-          "author": null,
-          "description": "羽田空港で起きた航空機どうしの衝突炎上事故で、事故の前、管制官が海上保安庁の航空機に対し、離陸の順番が1番目だと伝えていたことが分かりました。日本航空機の着陸後の順番を示したものでしたが、実際には、着陸前に滑走路に進入していることから国土交通省はすでに離陸の許可を得たと認識していた可能性もあるとみて確認を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310951000.html",
-          "publishedOn": "2024-01-05T10:25:21.000Z",
-          "wordCount": 897,
-          "title": "羽田空港事故 管制官 海保機に離陸順番1番と伝え許可と認識か",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310951_2401051908_0105190854_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014310931000.html",
-          "author": null,
-          "description": "6日からの3連休について、多くの被災地ではボランティアなどの受け入れ態勢が整っておらず、石川県などは現時点では問い合わせなども控えてほしいとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014310931000.html",
-          "publishedOn": "2024-01-05T10:14:29.000Z",
-          "wordCount": 1009,
-          "title": "あすから3連休 “ボランティア問い合わせも控えて” 石川県",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014310931_2401051911_0105191253_01_02.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T22:11:50.371Z</updated>
+    <updated>2024-02-03T22:27:12.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米軍と英軍 イエメン反政府勢力フーシ派関連施設など追加攻撃]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014346781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014346781000.html"/>
+        <updated>2024-02-03T22:14:53.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのオースティン国防長官は先ほど、声明を出し、アメリカ軍とイギリス軍が3日、イランが支援するイエメンの反政府勢力フーシ派の関連施設など13か所に対し、攻撃を行ったと発表しました。攻撃は、フーシ派の兵力をそぐための作戦の一環だとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[京都市長選 きょう投票始まる 16年ぶり新人どうしの争いに]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240204/k10014346531000.html</id>
@@ -36183,36 +36193,6 @@ Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technolo
         <summary type="html"><![CDATA[テレビアニメ「狼と香辛料 merchant meets the wise wolf」の放送が4月からテレビ東京ほかでスタートすることが決定した。描き下ろしビジュアル企画「ホロと巡る四季の物語」の...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川県の高齢者施設 3施設と連絡取れず 厚労省など確認進める]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310911000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310911000.html"/>
-        <updated>2024-01-05T10:26:16.000Z</updated>
-        <summary type="html"><![CDATA[厚生労働省によりますと石川県内で108の高齢者施設で断水や停電などの被害が確認されていますが、3つの施設と連絡が取れない状況が続いているとして、厚生労働省と石川県などが確認を進めています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羽田空港事故 管制官 海保機に離陸順番1番と伝え許可と認識か]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310951000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310951000.html"/>
-        <updated>2024-01-05T10:25:21.000Z</updated>
-        <summary type="html"><![CDATA[羽田空港で起きた航空機どうしの衝突炎上事故で、事故の前、管制官が海上保安庁の航空機に対し、離陸の順番が1番目だと伝えていたことが分かりました。日本航空機の着陸後の順番を示したものでしたが、実際には、着陸前に滑走路に進入していることから国土交通省はすでに離陸の許可を得たと認識していた可能性もあるとみて確認を進めています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あすから3連休 “ボランティア問い合わせも控えて” 石川県]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014310931000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014310931000.html"/>
-        <updated>2024-01-05T10:14:29.000Z</updated>
-        <summary type="html"><![CDATA[6日からの3連休について、多くの被災地ではボランティアなどの受け入れ態勢が整っておらず、石川県などは現時点では問い合わせなども控えてほしいとしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
