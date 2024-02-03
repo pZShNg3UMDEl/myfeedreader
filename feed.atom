@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T08:15:08.004Z</updated>
+    <updated>2024-02-03T08:27:24.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大相撲 新大関の琴ノ若 三重 鈴鹿の「椿大神社」で豆まき]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346321000.html"/>
+        <updated>2024-02-03T08:11:27.000Z</updated>
+        <summary type="html"><![CDATA[節分の3日、大相撲の新大関 琴ノ若が三重県の神社で豆まきを行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本人「毒は紫色やな」アメリカ人「毒は緑色だろ」]]></title>
         <id>https://switchsoku.com/?p=97802</id>
@@ -97,6 +107,16 @@ https://imgur.com/K2y524A.png
 https://imgur.com/MfVj318.p...]]></summary>
         <author>
             <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「マニラ市街戦」追悼 市民約10万人が犠牲 遺族「忘れないで」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346201000.html"/>
+        <updated>2024-02-03T06:43:25.000Z</updated>
+        <summary type="html"><![CDATA[太平洋戦争末期にフィリピンの首都マニラで旧日本軍とアメリカ軍による市街戦が始まってから3日で79年となる中、現地ではおよそ10万人の犠牲者を追悼する式典が開かれ、参列した遺族が「犠牲者のことを忘れないでほしい」と呼びかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -36674,16 +36694,6 @@ https://i.imgur.com/YIOL...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309751000.html"/>
         <updated>2024-01-04T20:34:50.000Z</updated>
         <summary type="html"><![CDATA[イランで2回爆発が起きて80人以上が死亡した事件について、過激派組織IS＝イスラミックステートがみずからの犯行だと主張する声明を出しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミャンマー 独立記念日にあわせ受刑者9600人余に恩赦与える]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309511000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309511000.html"/>
-        <updated>2024-01-04T20:20:59.000Z</updated>
-        <summary type="html"><![CDATA[ミャンマーで実権をにぎる軍は独立記念日にあわせ、民主活動家らを含む受刑者9600人余りに恩赦を与えました。軍に拘束されている民主派指導者、アウン・サン・スー・チー氏は含まれていないとみられます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
