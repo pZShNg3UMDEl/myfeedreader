@@ -5836,6 +5836,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346431000.html",
+          "author": null,
+          "description": "自民党は、派閥の政治資金パーティーをめぐる問題を受けて関係議員から聴き取りを進めていて、3日は党幹部が安倍派の議員に対し、キックバックの金額や使いみちなどを確認しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014346431000.html",
+          "publishedOn": "2024-02-03T10:45:25.000Z",
+          "wordCount": 527,
+          "title": "自民 政治資金問題で安倍派議員に聴き取り 金額や使いみち確認",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346431_2402031919_0203194315_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346391000.html",
           "author": null,
           "description": "アメリカの有力紙は複数の関係者の話として、ウクライナのゼレンスキー大統領が軍のザルジニー総司令官を解任することを決めたと、ウクライナ政府がアメリカ政府に伝えたと報じました。ただ、実際の解任の時期は明らかでないとしています。",
@@ -21224,26 +21234,6 @@
           "wordCount": 786,
           "title": "イスラエル国防相 “戦後のガザ地区 パレスチナ人が責任持つ”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309831_2401050915_0105101306_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309781000.html",
-          "author": null,
-          "description": "アメリカ・ホワイトハウスの高官は、ロシアが北朝鮮から弾道ミサイルの供与を受け、ウクライナに対して発射したとみられると明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309781000.html",
-          "publishedOn": "2024-01-04T22:45:57.000Z",
-          "wordCount": 929,
-          "title": "米高官“ロシアが北朝鮮供与のミサイル ウクライナに発射”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309781_2401050706_0105074559_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014309761000.html",
-          "author": null,
-          "description": "時代を象徴する人物を撮り続け、著名人の肖像やヌード写真が話題となった写真家の篠山紀信さんが4日、亡くなりました。83歳でした。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014309761000.html",
-          "publishedOn": "2024-01-04T22:39:54.000Z",
-          "wordCount": 972,
-          "title": "写真家 篠山紀信さん 死去 83歳 時代を象徴する人物撮り続ける",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014309761_2401050559_0105073956_01_02.jpg"
         }
       ]
     },

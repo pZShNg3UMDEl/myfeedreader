@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T10:36:41.666Z</updated>
+    <updated>2024-02-03T10:50:27.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民 政治資金問題で安倍派議員に聴き取り 金額や使いみち確認]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346431000.html"/>
+        <updated>2024-02-03T10:45:25.000Z</updated>
+        <summary type="html"><![CDATA[自民党は、派閥の政治資金パーティーをめぐる問題を受けて関係議員から聴き取りを進めていて、3日は党幹部が安倍派の議員に対し、キックバックの金額や使いみちなどを確認しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[松本性加害　迫られる後輩芸人たち『松本の味方について消えるか 松本を見捨て真実を話すか』]]></title>
         <id>https://itainews.com/archives/2032757.html</id>
@@ -36644,26 +36654,6 @@ https://i.imgur.com/YIOL...]]></summary>
         <summary type="html"><![CDATA[1: 2024/01/04(木) 19:10:55.65 ID:N8WZhETU0 1.WiiSpo […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米高官“ロシアが北朝鮮供与のミサイル ウクライナに発射”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309781000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309781000.html"/>
-        <updated>2024-01-04T22:45:57.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ・ホワイトハウスの高官は、ロシアが北朝鮮から弾道ミサイルの供与を受け、ウクライナに対して発射したとみられると明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写真家 篠山紀信さん 死去 83歳 時代を象徴する人物撮り続ける]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240105/k10014309761000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240105/k10014309761000.html"/>
-        <updated>2024-01-04T22:39:54.000Z</updated>
-        <summary type="html"><![CDATA[時代を象徴する人物を撮り続け、著名人の肖像やヌード写真が話題となった写真家の篠山紀信さんが4日、亡くなりました。83歳でした。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
