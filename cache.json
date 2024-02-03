@@ -2669,36 +2669,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120346/",
-          "author": null,
-          "description": "劇場アニメ「劇場版 オーバーロード 聖王国編」が2024年に公開されることが決まり、特報映像が披露された。 アニメ「オーバーロード」シリーズは、シリーズ累計1400万部を突破する丸山くがね氏によ...",
-          "link": "https://anime.eiga.com/news/120346/",
-          "publishedOn": "2024-01-05T10:00:00.000Z",
-          "wordCount": 833,
-          "title": "「劇場版 オーバーロード 聖王国編」は24年公開　特報映像も披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/eiga_ranking/120344/",
-          "author": null,
-          "description": "2023年12月29日～31日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、上位4作品に変動はなく、「劇場版 SPY×FAMILY CODE: White」が2週連続で首位...",
-          "link": "https://anime.eiga.com/news/column/eiga_ranking/120344/",
-          "publishedOn": "2024-01-05T10:00:00.000Z",
-          "wordCount": 857,
-          "title": "【週末アニメ映画ランキング】「劇場版 SPY×FAMILY」が2週連続で首位を獲得し、お正月興行をけん引",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5026,16 +4996,6 @@
           "wordCount": 10045,
           "title": "『スマブラ for 3DS』新キャラをリークした社員、任天堂を解雇されていた…",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/sumabura-3ds.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96824",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/04(木) 00:30:42.542 消耗品なんだから 本体裏パカッと開けて自 […]",
-          "link": "https://switchsoku.com/switch/96824",
-          "publishedOn": "2024-01-05T10:00:42.000Z",
-          "wordCount": 9977,
-          "title": "Switchのバッテリー交換ってなんで郵送修理なんだ？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/03/switch-tegra.jpg"
         }
       ]
     },
@@ -5785,6 +5745,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346531000.html",
+          "author": null,
+          "description": "16年ぶりに新人どうしの争いとなった京都市長選挙は4日、投票日を迎え、午前7時から投票が始まりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346531000.html",
+          "publishedOn": "2024-02-03T22:09:30.000Z",
+          "wordCount": 633,
+          "title": "京都市長選 きょう投票始まる 16年ぶり新人どうしの争いに",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346531_2402031956_0204070620_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346591000.html",
+          "author": null,
+          "description": "ロシアの首都モスクワでウクライナ侵攻に動員された兵士の妻たちが集まり、早期の帰還を訴えました。取材していた記者などが治安当局に一時拘束され、プーチン政権としては、来月の大統領選挙を前に、ウクライナ侵攻に反対する世論が広がることに神経をとがらせているとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346591000.html",
+          "publishedOn": "2024-02-03T21:38:01.000Z",
+          "wordCount": 624,
+          "title": "ウクライナ侵攻に動員のロシア軍兵士の妻たち 早期帰還訴える",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346591_2402040633_0204063719_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346581000.html",
           "author": null,
@@ -20983,6 +20963,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=234998",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、定食メニューはいつでもご飯がセルフサービスでおかわり自由の有名人気チェーン「やよい軒」へ進撃しました […]",
+          "link": "https://foodfighter.jp/yayoiken-chicken-nanban",
+          "publishedOn": "2024-02-03T21:46:56.000Z",
+          "wordCount": 1879,
+          "title": "【やよい軒】チキン南蛮定食【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/71764cb8be4c2dd98aa57dcfcd0b0723.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=234969",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「野菜と食べる温玉ビビンバ（もち麦ごはん）」を世界一詳しく調査しました。   公式YouTub […]",
@@ -22636,6 +22626,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67803",
+          "author": "299",
+          "description": "チンチラシルバーの子猫がバスケットの中に入ってじっとつぶらな瞳でこちらをじっと見つめてきています。 毛足も長くて小さい時からすでにゴージャスで洗練された雰囲気を持つ子猫は、さすがに最高に気品がありますね。 そんな子猫のた...\n可愛すぎる子猫にウットリ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67803",
+          "publishedOn": "2024-02-03T22:00:00.000Z",
+          "wordCount": 1392,
+          "title": "可愛すぎる子猫にウットリ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67803.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=67799",
           "author": "299",
@@ -31589,16 +31589,6 @@
           "wordCount": 2370,
           "title": "早稲田大学教授「わたしの周辺はエリート集団なので日本保守党とか知らない」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/3/a3633795-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031913.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：草井満子：2024/01/04(木) 17:24:44.91 ID:w6cLfUlK0●.net\n\n\n\n\n\n\n\n\n歌舞伎町のお餅つきに乙武くんも来てくれました。そしてお餅ついてくれました！#乙武洋匡#歌舞伎町#大久保公園 pic.twitter.com/EoqThEWfpg— 安倍昭恵 (@akie_official) January 4, 2024 \n\n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2031913.html",
-          "publishedOn": "2024-01-05T10:01:37.000Z",
-          "wordCount": 2399,
-          "title": "安倍昭恵さん「餅付きに乙武くんが手伝いにきてくれました！」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e4a5f767.png"
         }
       ]
     },
