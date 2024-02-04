@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120510/",
+          "author": null,
+          "description": "3月15日から新潟市で開催される、第2回新潟国際アニメーション映画祭の「FORUM フォーラム部門」「オールナイト部門」のプログラムが発表された。 時代劇をテーマとした今年の「オールナイト部門」...",
+          "link": "https://anime.eiga.com/news/120510/",
+          "publishedOn": "2024-02-04T12:00:00.000Z",
+          "wordCount": 785,
+          "title": "第2回新潟国際アニメーション映画祭の部門プログラム発表　會川昇＆虚淵玄のトークショー開催",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120488/",
           "author": null,
           "description": "テレビアニメ「豚のレバーは加熱しろ」最終回の12話が、2月5日深夜1時35分からTOKYO MXほかで順次放送されるほか、dアニメストア、ABEMAでは地上波と同日時にて最速先行配信される。Yo...",
@@ -2708,6 +2723,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97835",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/04(日) 11:30:53.70 ID:gKNVS4qY0 パッチ出してよ  […]",
+          "link": "https://switchsoku.com/spike-chunsoft/97835",
+          "publishedOn": "2024-02-04T12:00:23.000Z",
+          "wordCount": 10160,
+          "title": "『風来のシレン6』メインストーリークリア出来ね、22階あたりで必ず死ぬ",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/siren6-switch.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=97832",
           "author": "SWITCH速報",
           "description": "1: 2024/02/02(金) 22:16:20.83 ID:j2F0mKBA0 引き続きmicr […]",
@@ -5046,16 +5071,6 @@
           "wordCount": 10043,
           "title": "神谷英樹「僕が任天堂を嫌ってるという認識が社内にあるようなことを任天堂の人に聞いた」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/10/platinum-kamitani.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96833",
-          "author": "SWITCH速報",
-          "description": "1: 24/01/05(金) 00:18:37 ID:Rmd0 何なら別種という罠   2 […]",
-          "link": "https://switchsoku.com/soft/pikmin/96833",
-          "publishedOn": "2024-01-06T00:00:28.000Z",
-          "wordCount": 10228,
-          "title": "『ピクミン』チャッピーの横にいる小さい奴は親子関係じゃないという事実",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/pikmin-chapi.webp"
         }
       ]
     },
@@ -5785,6 +5800,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347391000.html",
+          "author": null,
+          "description": "ロシアは、一方的に併合を宣言したウクライナ東部ルハンシク州のパン屋が、ウクライナ軍の攻撃を受け、子どもを含む28人が死亡したと主張しました。東部ではロシア軍とウクライナ軍との間で攻防が続いていて、今後、戦闘が一層激しさを増すことも予想されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347391000.html",
+          "publishedOn": "2024-02-04T11:58:44.000Z",
+          "wordCount": 597,
+          "title": "ロシア 一方的併合宣言の地域 “ウクライナ軍攻撃で28人死亡”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347391_2402042056_0204205846_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014343701000.html",
           "author": null,
@@ -21234,16 +21259,6 @@
           "wordCount": 394,
           "title": "石川 穴水町で9人閉じ込めか 1日の地震で土砂崩れ 住宅が倒壊",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014311591_2401061047_0106110236_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240106/k10014311561000.html",
-          "author": null,
-          "description": "石川県などによりますと6日、これまでにあわせて98人の死亡が確認されたということです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240106/k10014311561000.html",
-          "publishedOn": "2024-01-06T00:15:51.000Z",
-          "wordCount": 593,
-          "title": "石川県の死者98人に このうち輪島市で59人死亡 能登半島地震",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014311561_2401061002_0106100238_01_02.jpg"
         }
       ]
     },
@@ -21252,6 +21267,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235049",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「とろけるホワイトチョコ」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃 […]",
+          "link": "https://foodfighter.jp/711sej-torokeru-white-chocolate",
+          "publishedOn": "2024-02-04T11:54:48.000Z",
+          "wordCount": 1844,
+          "title": "【セブンイレブン】とろけるホワイトチョコ【新作スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/1823505ce144ab0ea03baa0ecd0d039f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235046",
           "author": "foodfighter",
@@ -22681,16 +22706,6 @@
           "wordCount": 1863,
           "title": "【かつや】ソースカツ丼・とん汁・サラダセット【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/84b6a03ab32ad07c7034f60ed7ce2141.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=232048",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2023年12月30日から2024年1月5日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ […]",
-          "link": "https://foodfighter.jp/ranking-2024-0106",
-          "publishedOn": "2024-01-06T00:18:20.000Z",
-          "wordCount": 1828,
-          "title": "【チェーン店】最新グルメ！美味しい・おすすめランキング【2023年12月30日から2024年1月5日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/7ca50f3196acdee146d53cf455450676.jpg"
         }
       ]
     },
@@ -26475,16 +26490,6 @@
           "wordCount": 1872,
           "title": "なんとか飼い主さんの膝上へ乗ろうと頑張る子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/65992.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66024",
-          "author": "299",
-          "description": "今回ご紹介するのは里親に出した保護子猫ちゃんとの再会シーンです。 愛らしい子猫ちゃん達はどのようになったのかご覧ください。 最初は子猫ちゃん達を保護したばかりのシーンが映し出されます。 ケージの中で不安そうにしていた子猫...\n里親に出した保護子猫と一年ぶりに会ってみた first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66024",
-          "publishedOn": "2024-01-06T00:00:15.000Z",
-          "wordCount": 1866,
-          "title": "里親に出した保護子猫と一年ぶりに会ってみた",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66024.jpeg"
         }
       ]
     },
@@ -28370,6 +28375,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032795.html",
+          "author": "damono3856",
+          "description": "1 名前：うんち：2024/02/04(日) 11:34:07.45 ID:qyqOZlzd0.net\n\n\n\n\n\n\n\n年収200万円・都内1人暮らしの24歳女性「給与があまりに少なく早く退職したい」1カ月のリアルな家計簿 https://t.co/VTI2MbgDmj pic.twitter.com/Qf34OhM9EV— All About ニュース (@news_allabout)...",
+          "link": "https://itainews.com/archives/2032795.html",
+          "publishedOn": "2024-02-04T12:04:50.000Z",
+          "wordCount": 2459,
+          "title": "２４歳都内1人暮らし、年収200万円。「もう限界…退職したい」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/7/f7f8c534-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032790.html",
           "author": "yonepo665sfr",
