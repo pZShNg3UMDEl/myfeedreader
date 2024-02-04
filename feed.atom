@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T07:13:18.990Z</updated>
+    <updated>2024-02-04T07:23:36.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 能登町 「あばれ祭」の灯籠“キリコ”を守れ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347011000.html"/>
+        <updated>2024-02-04T07:11:01.000Z</updated>
+        <summary type="html"><![CDATA[石川県能登町では伝統の「あばれ祭」で使われる「キリコ」と呼ばれる灯籠を守ろうと、地震の被害を受けた倉庫から別の安全な場所に移す作業が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米 民主党 サウスカロライナ州予備選挙 バイデン大統領が勝利]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240204/k10014347021000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347021000.html"/>
         <updated>2024-02-04T07:05:32.000Z</updated>
         <summary type="html"><![CDATA[秋のアメリカ大統領選挙に向けた与党・民主党の候補者選びは、事実上の初戦となる予備選挙が南部サウスカロライナ州で行われ、再選を目指すバイデン大統領が勝利しました。民主党は現時点でバイデン氏に対抗できる有力候補は出ておらず、夏の党大会でバイデン大統領が党の候補者に指名される見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カーリング日本選手権 男子 コンサドーレが優勝 3年ぶり4回目]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347031000.html"/>
+        <updated>2024-02-04T07:02:35.000Z</updated>
+        <summary type="html"><![CDATA[カーリングの日本選手権は4日決勝が行われ、男子はコンサドーレが3連覇をねらったSC軽井沢クラブに8対3で勝って、3年ぶり4回目の優勝を果たしました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
