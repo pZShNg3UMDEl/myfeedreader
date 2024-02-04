@@ -5756,6 +5756,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347191000.html",
+          "author": null,
+          "description": "石川県輪島市は、5日から市内を巡回する無料の臨時バスの運行を始めることになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347191000.html",
+          "publishedOn": "2024-02-04T09:38:19.000Z",
+          "wordCount": 510,
+          "title": "石川 輪島 5日から市内巡回する無料臨時バスの運行開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347191_2402041823_0204182739_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347161000.html",
           "author": null,
           "description": "南米のチリでは、沿岸部などを中心に大規模な山火事が相次いで発生していて、これまでに51人が死亡するなど被害が拡大しています。",
@@ -27818,16 +27828,6 @@
           "wordCount": 780,
           "title": "＜CES＞XREAL、ハンドトラッキングも可能な6DoF対応ARグラス「XREAL Air 2 Ultra」",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/DSC_3720.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=65104",
-          "author": "佐野正弘",
-          "description": "2024年の年明けとなった1月1日に、石川県を中心に発生した能登半島地震。すでに多くの報道がなされている通り、震度7の非常に大規模で強い地震と、それに伴う津波によって甚大な被害が生じており、執筆時点でも全貌が明らかになっていない状況にある。年明けからこのような災害が起きたことは非常に悲しいことである […]",
-          "link": "https://gadget.phileweb.com/post-65104/",
-          "publishedOn": "2024-01-05T21:40:00.000Z",
-          "wordCount": 772,
-          "title": "能登半島地震で関心高まる通信インフラの災害対策、NTNへの期待と課題",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/PB090830.jpg"
         }
       ]
     },

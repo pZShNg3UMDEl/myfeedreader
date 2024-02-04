@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T09:35:40.727Z</updated>
+    <updated>2024-02-04T09:50:43.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島 5日から市内巡回する無料臨時バスの運行開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347191000.html"/>
+        <updated>2024-02-04T09:38:19.000Z</updated>
+        <summary type="html"><![CDATA[石川県輪島市は、5日から市内を巡回する無料の臨時バスの運行を始めることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【正論】X民「能登の復興なんかするな！ジジババの家なんて、税金で再建しなくていい」]]></title>
         <id>https://itainews.com/archives/2032787.html</id>
@@ -36487,16 +36497,6 @@ G...]]></summary>
 飼い主さんの掌で眠る子猫達 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能登半島地震で関心高まる通信インフラの災害対策、NTNへの期待と課題]]></title>
-        <id>https://gadget.phileweb.com/?p=65104</id>
-        <link href="https://gadget.phileweb.com/post-65104/"/>
-        <updated>2024-01-05T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年の年明けとなった1月1日に、石川県を中心に発生した能登半島地震。すでに多くの報道がなされている通り、震度7の非常に大規模で強い地震と、それに伴う津波によって甚大な被害が生じており、執筆時点でも全貌が明らかになっていない状況にある。年明けからこのような災害が起きたことは非常に悲しいことである […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>
