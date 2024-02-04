@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T07:35:38.094Z</updated>
+    <updated>2024-02-04T07:50:16.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[望月衣塑子さん訴訟⑥原告被告準備書面]]></title>
+        <id>https://www.youtube.com/watch?v=Uo7jjEanGtc</id>
+        <link href="https://www.youtube.com/watch?v=Uo7jjEanGtc"/>
+        <updated>2024-02-04T07:36:45.000Z</updated>
+        <author>
+            <name>暇な空白チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スキー モーグルW杯 デュアルモーグルで堀島行真が優勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347051000.html"/>
+        <updated>2024-02-04T07:29:21.000Z</updated>
+        <summary type="html"><![CDATA[スキーフリースタイル、モーグルのワールドカップは、アメリカでデュアルモーグルが行われ初めての総合優勝を目指す堀島行真選手が優勝しました。堀島選手は、ワールドカップでシーズン自己最多となる4勝目です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[断水続く石川 輪島で美容室が営業再開]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240204/k10014347071000.html</id>
@@ -36451,16 +36470,6 @@ G...]]></summary>
 大雨でびしょ濡れになった猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライフライン 6日】断水や停電続く 石川県で3万人余が避難]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240106/k10014311481000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240106/k10014311481000.html"/>
-        <updated>2024-01-05T19:35:54.000Z</updated>
-        <summary type="html"><![CDATA[1日に石川県能登地方で震度7の揺れを観測した地震により、6日も断水や停電などライフラインへの影響が各地で続いています。各地の最新状況について随時更新でまとめます。石川県内の6日の給水支援の情報もお伝えします。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>

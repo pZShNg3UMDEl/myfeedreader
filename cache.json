@@ -5731,6 +5731,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347051000.html",
+          "author": null,
+          "description": "スキーフリースタイル、モーグルのワールドカップは、アメリカでデュアルモーグルが行われ初めての総合優勝を目指す堀島行真選手が優勝しました。堀島選手は、ワールドカップでシーズン自己最多となる4勝目です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347051000.html",
+          "publishedOn": "2024-02-04T07:29:21.000Z",
+          "wordCount": 597,
+          "title": "スキー モーグルW杯 デュアルモーグルで堀島行真が優勝",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347051_2402041537_0204162923_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347071000.html",
           "author": null,
           "description": "地震の影響で断水が続く石川県輪島市で市内の美容室が営業を再開し、さっそく訪れて髪をカットした客の中には「髪を切るのは3か月ぶりですっきりしました」と話す人もいました。",
@@ -21129,16 +21139,6 @@
           "wordCount": 401,
           "title": "石川県能登地方で震度5強の地震 津波の心配なし M5.3",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014311511_2401060533_0106053341_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240106/k10014311481000.html",
-          "author": null,
-          "description": "1日に石川県能登地方で震度7の揺れを観測した地震により、6日も断水や停電などライフラインへの影響が各地で続いています。各地の最新状況について随時更新でまとめます。石川県内の6日の給水支援の情報もお伝えします。",
-          "link": "http://www3.nhk.or.jp/news/html/20240106/k10014311481000.html",
-          "publishedOn": "2024-01-05T19:35:54.000Z",
-          "wordCount": 1260,
-          "title": "【ライフライン 6日】断水や停電続く 石川県で3万人余が避難",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014311481_2401060330_0106042727_01_02.jpg"
         }
       ]
     },
@@ -27821,6 +27821,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqFaMBFtHduRRJKVCJhBr9g",
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Uo7jjEanGtc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Uo7jjEanGtc",
+          "publishedOn": "2024-02-04T07:36:45.000Z",
+          "wordCount": null,
+          "title": "望月衣塑子さん訴訟⑥原告被告準備書面",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oq3NNPBn5Q0",
           "author": null,
