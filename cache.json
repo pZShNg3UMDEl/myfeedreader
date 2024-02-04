@@ -5712,16 +5712,6 @@
           "wordCount": 3771,
           "title": "Job Postings - Week of 7 January 2024",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/01/samsung-announces-new-isocell-vizion.html",
-          "author": null,
-          "description": "Samsung press release: https://semiconductor.samsung.com/emea/news-events/news/samsung-unveils-two-new-isocell-vizion-sensors-tailored-for-robotics-and-xr-applications/\nSamsung Unveils Two New ISOCELL Vizion Sensors Tailored for Robotics and XR Applications\nThe ISOCELL Vizion 63D, a time-of-flight sensor, captures high-resolution 3D images with exceptional detail\nThe ISOCELL Vizion 931, a global shutter sensor, captures dynamic moments with clarity and precision \n\n\n\nSamsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today introduced two new ISOCELL Vizion sensors — a time-of-flight (ToF) sensor, the ISOCELL Vizion 63D, and a global shutter sensor, the ISOCELL Vizion 931. First introduced in 2020, Samsung’s ISOCELL Vizion lineup includes ToF and global shutt…",
-          "link": "http://image-sensors-world.blogspot.com/2024/01/samsung-announces-new-isocell-vizion.html",
-          "publishedOn": "2024-01-05T17:10:00.001Z",
-          "wordCount": 4832,
-          "title": "Samsung announces new Isocell Vizion sensors",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWbmsfAPTUZao8nTtuyF76uL8p7Y7p1lDvYanA-soMgoFaJnDZyPnM72uxRRT6wqpjNqFrHwrok7OQiITYcOm5P9UK6ZPAvrn3Mnny2gRVHf58zPKr3u9RJ3vr_-U6MoXEtyyDrM0arT7JJ-6HbYlCNP_Ni2lBEHhDbDzvO7PSs1LAIcd0KYWu7ojLmrWr7xPWOB3lT3TNLqISTPZNDDs70Q-kD0K3H_3mZp388=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -5731,6 +5721,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346951000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、NHKの「日曜討論」で立憲民主党は、自民党も含め与野党で企業・団体献金の禁止を検討すべきだと主張したのに対し、自民党は企業や団体は個人と同様に憲法で政治活動の自由が認められているとして慎重な姿勢を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346951000.html",
+          "publishedOn": "2024-02-04T04:56:43.000Z",
+          "wordCount": 686,
+          "title": "立民”企業・団体献金の禁止検討を” 自民は慎重姿勢 日曜討論",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346951_2402041328_0204135645_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346901000.html",
+          "author": null,
+          "description": "冬の札幌を彩る「さっぽろ雪まつり」が開幕し、大小さまざまな雪像や氷像が観光客を楽しませています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346901000.html",
+          "publishedOn": "2024-02-04T04:52:38.000Z",
+          "wordCount": 517,
+          "title": "冬の札幌を彩る「さっぽろ雪まつり」が開幕",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346901_2402041222_0204125824_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346991000.html",
           "author": null,
           "description": "JR京浜東北線とJR東海道線は大森駅付近の沿線で起きた火災の影響で、午前10時すぎから運転を見合わせていましたが、午後1時36分にいずれも全線で運転を再開しました。",
@@ -5739,6 +5749,26 @@
           "wordCount": 458,
           "title": "JR京浜東北線と東海道線 全線で運転再開",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346991_2402041343_0204134754_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346921000.html",
+          "author": null,
+          "description": "能登半島地震で被災した地域の子どもたちにスポーツやゲームで体を動かしてリフレッシュしてもらおうというイベントが石川県羽咋市で開かれています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346921000.html",
+          "publishedOn": "2024-02-04T04:42:53.000Z",
+          "wordCount": 709,
+          "title": "被災地の子どもたちがスポーツやゲームで体動かすイベント",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346921_2402041224_0204125600_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346941000.html",
+          "author": null,
+          "description": "難病の中でも患者数が特に少なく家族などが孤立しやすい「希少難病」について理解を深めてもらおうというシンポジウムが開かれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346941000.html",
+          "publishedOn": "2024-02-04T04:16:51.000Z",
+          "wordCount": 659,
+          "title": "「希少難病」に理解を シンポジウムで患者の家族が講演",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346941_2402041232_0204124944_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346881000.html",
@@ -28125,6 +28155,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032786.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：うんち：2024/02/04(日) 00:53:40.02 ID:Tvb8IzOV0.net\n\n\n\n\n\n\n\n\n\n■ タマホーム、ネジ飛び出し写真公開ツイッタラーに損害賠償請求へタマホームのモデルルームでネジが飛び出している写真を公開したXユーザータマホームから写真の削除を要求されたり自宅に凸撃された...",
+          "link": "https://itainews.com/archives/2032786.html",
+          "publishedOn": "2024-02-04T05:01:36.000Z",
+          "wordCount": 2325,
+          "title": "タマホーム、ネジ飛び出し写真公開ツイッタラーに損害賠償請求を準備していると表明→批判殺到w",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/1/8158ea05.png"
+        },
         {
           "id": "https://itainews.com/archives/2032784.html",
           "author": "yonepo665sfr",
