@@ -2648,6 +2648,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97820",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/02(金) 17:44:42.11 ID:zZIQJFc100202 面白いや […]",
+          "link": "https://switchsoku.com/soft/ring-fit/97820",
+          "publishedOn": "2024-02-04T02:00:29.000Z",
+          "wordCount": 9946,
+          "title": "Switchの『リングフィットアドベンチャー』買ったんやがwwywwywww",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/09/ring-fit.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97818",
           "author": "SWITCH速報",
           "description": "1: 2024/02/03(土) 22:08:25.27 ID:793p5vcj0 内部解像度を落と […]",
@@ -4956,16 +4966,6 @@
           "wordCount": 10228,
           "title": "『ピクミン』チャッピーの横にいる小さい奴は親子関係じゃないという事実",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/pikmin-chapi.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96831",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/04(木) 15:26:37.47 ID:UkO9iKhv0 …から武器選んで […]",
-          "link": "https://switchsoku.com/soft/monsterhunter/96831",
-          "publishedOn": "2024-01-05T14:00:57.000Z",
-          "wordCount": 10131,
-          "title": "僕「モンハンやってみよ」「大剣･太刀･片手･双剣･ハンマー･ランス･スラアク･チャアク･ライト･ヘビィ･弓」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/02/mhr-weapon.jpg"
         }
       ]
     },
@@ -5715,6 +5715,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346851000.html",
+          "author": null,
+          "description": "4日午前10時ごろ、東京 大田区のJR大森駅近くの飲食店で火事があり、消防が消火にあたっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346851000.html",
+          "publishedOn": "2024-02-04T01:57:52.000Z",
+          "wordCount": 512,
+          "title": "JR大森駅近くの飲食店で火事 東京 大田区",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346851_2402041053_0204105754_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346821000.html",
+          "author": null,
+          "description": "将棋の八大タイトルの1つ、「棋王戦」の第1局が4日朝から富山県魚津市で始まりました。3日夜に開かれた前夜祭で、タイトル防衛に臨む藤井聡太八冠は「能登半島地震で被災した人たちに喜んでもらえる対局となるよう頑張りたい」と決意を述べました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346821000.html",
+          "publishedOn": "2024-02-04T01:55:29.000Z",
+          "wordCount": 785,
+          "title": "将棋 「棋王戦」 富山 魚津で開幕 藤井八冠が被災者にエール",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346821_2402041044_0204105530_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346841000.html",
+          "author": null,
+          "description": "JR京浜東北線は、大森駅付近の沿線で起きた火災の影響で、午前10時半ごろから大宮駅と大船駅の間の上下線で運転を見合わせています。この影響でJR東海道線も品川駅と横浜駅の間の上下線で運転を見合わせています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346841000.html",
+          "publishedOn": "2024-02-04T01:52:30.000Z",
+          "wordCount": 729,
+          "title": "JR京浜東北線と東海道線 運転見合わせ 大森駅付近の火災影響で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346841_2402041048_0204105232_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346731000.html",
+          "author": null,
+          "description": "イギリスの北アイルランドで2年ぶりに自治政府が発足し、アイルランドとの統一を掲げるカトリック系の政党から初めて就任したオニール首相は、歴史的に対立してきたプロテスタント系の政党などと協力する姿勢を強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346731000.html",
+          "publishedOn": "2024-02-04T01:06:17.000Z",
+          "wordCount": 718,
+          "title": "英北アイルランド 自治政府発足 初めて統一掲げる政党から首相",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346731_2402041002_0204100620_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346711000.html",
           "author": null,
@@ -20914,26 +20954,6 @@
           "wordCount": 615,
           "title": "珠洲市 医師などNGOが医療支援や捜索活動“環境は非常に劣悪”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014311001_2401051941_0105202411_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014311171000.html",
-          "author": null,
-          "description": "地震の発生から5日目となった5日、富山県の沿岸部にいた人たちの証言から当時の津波の状況が分かってきました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014311171000.html",
-          "publishedOn": "2024-01-05T13:59:34.000Z",
-          "wordCount": 557,
-          "title": "“川の水が“きゅー”と引いた”富山沿岸で津波を見た人が証言",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014311171_2401052140_0105214909_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240105/k10014311361000.html",
-          "author": null,
-          "description": "５日午後１０時９分ごろ地震がありました。この地震による津波の心配はありません。震源地は石川県能登地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．４と推定されます。各市町村の震度は以下のとおりです。▼震度４が、石川県輪島市。",
-          "link": "http://www3.nhk.or.jp/news/html/20240105/k10014311361000.html",
-          "publishedOn": "2024-01-05T13:15:51.000Z",
-          "wordCount": 448,
-          "title": "石川 輪島市で震度4の地震 津波の心配なし M4.4",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240105/K10014311361_2401052214_0105221553_01_02.jpg"
         }
       ]
     },
@@ -20942,6 +20962,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235041",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年1月28日から2月3日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全8種類）を美味しい・おすすめ順に […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0204",
+          "publishedOn": "2024-02-04T01:27:08.000Z",
+          "wordCount": 1902,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年1月28日から2月3日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/6a0187317d76e0d9ccdbb738b0d243d2.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235022",
           "author": "foodfighter",
@@ -22616,6 +22646,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67807",
+          "author": "299",
+          "description": "赤ちゃん猫のお世話をするお母さん猫が、優しく、そしてていねいに赤ちゃん猫の排泄のお手伝いをしてあげています。赤ちゃん猫もお母さん猫からされるがままになっています。 排泄が終われば全身の毛づくろいをしてあげていて休むことな...\n赤ちゃん猫の感触に溺れていたらお母さん猫があっという間に連れ去って行ってしまいました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67807",
+          "publishedOn": "2024-02-04T02:00:42.000Z",
+          "wordCount": 1391,
+          "title": "赤ちゃん猫の感触に溺れていたらお母さん猫があっという間に連れ去って行ってしまいました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67807.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=67840",
           "author": "299",
@@ -31529,16 +31569,6 @@
           "wordCount": 2427,
           "title": "【悲報】機内ペット同伴→脱出時はペット置き去り必須。納得しない乗客と揉め他の乗客も脱出困難の恐れ",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/8/68139ae5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031921.html",
-          "author": "damono3856",
-          "description": "1 名前：Ailuropoda melanoleuca ★：2024/01/05(金) 00:05:18.09 ID:S45WfXTW9.net\n\n\n\n\n\n\n\nいつも『キャプテン翼』を応援していただき、ありがとうございます。すでに集英社からのリリース及び各メディアの報道によって明らかにさせていただきましたが、このたび、4月初...",
-          "link": "https://itainews.com/archives/2031921.html",
-          "publishedOn": "2024-01-05T13:05:50.000Z",
-          "wordCount": 2436,
-          "title": "【漫画】「キャプテン翼」マンガとしての連載が4月に終了、今後はネームのような形で制作",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/b/ebb225e1-s.png"
         }
       ]
     },
