@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T10:38:08.738Z</updated>
+    <updated>2024-02-04T10:50:17.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カーリング日本選手権 女子 SC軽井沢クラブが初優勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347301000.html"/>
+        <updated>2024-02-04T10:40:59.000Z</updated>
+        <summary type="html"><![CDATA[カーリングの日本選手権は4日、決勝が行われ、女子はSC軽井沢クラブが最終第10エンドで逆転し、北海道銀行に5対4で勝って初優勝を果たしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将棋 「棋王戦」第1局 「持将棋」で引き分け]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240204/k10014347231000.html</id>
