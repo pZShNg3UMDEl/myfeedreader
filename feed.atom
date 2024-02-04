@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T07:23:36.088Z</updated>
+    <updated>2024-02-04T07:35:38.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[断水続く石川 輪島で美容室が営業再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347071000.html"/>
+        <updated>2024-02-04T07:24:34.000Z</updated>
+        <summary type="html"><![CDATA[地震の影響で断水が続く石川県輪島市で市内の美容室が営業を再開し、さっそく訪れて髪をカットした客の中には「髪を切るのは3か月ぶりですっきりしました」と話す人もいました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トルコ・シリア大地震から1年 今も70万人近くが仮設住宅で生活]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347061000.html"/>
+        <updated>2024-02-04T07:21:58.000Z</updated>
+        <summary type="html"><![CDATA[5万9000人以上が死亡したトルコ・シリア大地震から6日で1年となります。トルコの被災地では街の再建が進められていますが、今も多くの人たちがコンテナの仮設住宅での生活を余儀なくされているほか、人口の流出や産業の空洞化への対応も大きな課題となっていて、復興の道のりは険しいものとなっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 能登町 「あばれ祭」の灯籠“キリコ”を守れ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240204/k10014347011000.html</id>
