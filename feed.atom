@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T05:36:03.204Z</updated>
+    <updated>2024-02-04T05:50:37.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[立春 しぼりたての日本酒が出荷 山形 寒河江]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014346891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014346891000.html"/>
+        <updated>2024-02-04T05:39:04.000Z</updated>
+        <summary type="html"><![CDATA[4日は二十四節気のひとつ、立春です。山形県寒河江市の酒造会社では、春の訪れを祝ってもらおうとしぼりたての新酒が出荷されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坂本農相  石川 輪島の港を視察 漁業関係者と意見交換]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240204/k10014346971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014346971000.html"/>
+        <updated>2024-02-04T05:29:54.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害を受けた石川県輪島市の港を坂本農林水産大臣が視察し、漁業の再開に必要な応急的な対応などを確認しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タマホーム、ネジ飛び出し写真公開ツイッタラーに損害賠償請求を準備していると表明→批判殺到w]]></title>
         <id>https://itainews.com/archives/2032786.html</id>
