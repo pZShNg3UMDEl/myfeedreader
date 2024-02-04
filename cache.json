@@ -5766,6 +5766,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347531000.html",
+          "author": null,
+          "description": "アメリカのサリバン大統領補佐官は4日、アメリカ軍の兵士が死亡した攻撃への報復措置として行った、イランが関係する勢力への軍事的圧力について、「さらなる措置を行う」と述べたうえで、直接的な軍事攻撃以外の報復措置を行う可能性も示唆しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014347531000.html",
+          "publishedOn": "2024-02-04T20:34:11.000Z",
+          "wordCount": 533,
+          "title": "米大統領補佐官 イランが関係する勢力に「さらなる措置行う」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347531_2402050413_0205053412_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347521000.html",
           "author": null,
           "description": "兵庫県姫路市の飲食店がつくった恵方巻きを食べた34人が下痢やおう吐などの症状を訴え、姫路市保健所は食中毒と断定して、この店を営業禁止処分にしました。",
@@ -21154,16 +21164,6 @@
           "wordCount": 590,
           "title": "石川 輪島 家屋倒壊に巻き込まれ中学生死亡 父親が状況語る",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014312091_2401061754_0106175915_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240106/k10014311521000.html",
-          "author": null,
-          "description": "今月1日の能登半島地震で日本火災学会は、災害時には思わぬところに火災のリスクが潜んでいるとして注意を呼びかけています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240106/k10014311521000.html",
-          "publishedOn": "2024-01-06T08:48:14.000Z",
-          "wordCount": 566,
-          "title": "災害時は思わぬところに火災のリスクが… 注意すべき点は",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240106/K10014311521_2401060657_0106132231_01_02.jpg"
         }
       ]
     },
@@ -21172,6 +21172,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235067",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”餃子に絶対の自信あり。”厳選食材を使用したこだわりの本格中華が食べられる有名人気チェーン「餃子の王 […]",
+          "link": "https://foodfighter.jp/ohsho-gyoza-renewal-2024",
+          "publishedOn": "2024-02-04T20:36:49.000Z",
+          "wordCount": 1865,
+          "title": "【餃子の王将】餃子2人前【リニューアル・定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/d0f2fc85066f14a77a437d7c74742d6b-rotated.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235049",
           "author": "foodfighter",
