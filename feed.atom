@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T15:35:19.187Z</updated>
+    <updated>2024-02-05T15:50:37.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東京23区と多摩 大雪警報解除]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348651000.html"/>
+        <updated>2024-02-05T15:41:17.000Z</updated>
+        <summary type="html"><![CDATA[東京23区と多摩に出されていた大雪警報はさきほど午前0時23分に解除されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京23区にも大雪警報 朝にかけ大雪の見込み 交通影響に警戒を]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240206/k10014348601000.html</id>
@@ -36749,16 +36759,6 @@ G...]]></summary>
 可愛すぎてぎゅっと抱きしめたくなる赤ちゃん猫たち first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「トイレトレーラー」全国各地から 石川県内の避難所などに]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312651000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312651000.html"/>
-        <updated>2024-01-07T03:36:08.000Z</updated>
-        <summary type="html"><![CDATA[断水と停電が続く被災地でトイレの環境が悪化している中、水洗のトイレを載せた「トイレトレーラー」が全国各地の自治体から、被害が大きかった地域の避難所などに届けられています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>

@@ -5836,6 +5836,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014348651000.html",
+          "author": null,
+          "description": "東京23区と多摩に出されていた大雪警報はさきほど午前0時23分に解除されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014348651000.html",
+          "publishedOn": "2024-02-05T15:41:17.000Z",
+          "wordCount": 698,
+          "title": "東京23区と多摩 大雪警報解除",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014348651_2402060040_0206004056_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240206/k10014348601000.html",
           "author": null,
           "description": "本州の南岸を進む低気圧の影響で、東京23区全域をはじめ関東甲信の広い範囲に大雪警報が発表され、平地でも積雪となっています。このあとも6日朝にかけて大雪となる見込みで、気象庁は積雪や路面の凍結による交通への影響に警戒するよう呼びかけています。",
@@ -21394,16 +21404,6 @@
           "wordCount": 530,
           "title": "富山 高岡市 道路修復など「専決処分」で計2億円の予算措置",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312631_2401071302_0107130344_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312651000.html",
-          "author": null,
-          "description": "断水と停電が続く被災地でトイレの環境が悪化している中、水洗のトイレを載せた「トイレトレーラー」が全国各地の自治体から、被害が大きかった地域の避難所などに届けられています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014312651000.html",
-          "publishedOn": "2024-01-07T03:36:08.000Z",
-          "wordCount": 565,
-          "title": "「トイレトレーラー」全国各地から 石川県内の避難所などに",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312651_2401071153_0107123610_01_02.jpg"
         }
       ]
     },
