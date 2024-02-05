@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T08:36:58.327Z</updated>
+    <updated>2024-02-05T08:50:29.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 珠洲 市内で初の仮設住宅 あす完成 2月9日から入居開始へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348131000.html"/>
+        <updated>2024-02-05T08:38:39.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県珠洲市で6日、市内で初めての仮設住宅が完成し、今月9日から入居が始まることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北朝鮮 “韓国軍 日米韓の共同訓練など年始から実施”と反発]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240205/k10014347861000.html</id>
@@ -36574,16 +36584,6 @@ G...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312391000.html"/>
         <updated>2024-01-06T21:15:42.000Z</updated>
         <summary type="html"><![CDATA[長野県軽井沢町で、大学生など15人が死亡したスキーツアーのバス事故から8年となるのを前に、大学生の息子を亡くした両親が墓参りをして、再発防止を祈りました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライフライン 7日】断水や停電続く 給水支援の状況は]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312301000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312301000.html"/>
-        <updated>2024-01-06T20:47:59.000Z</updated>
-        <summary type="html"><![CDATA[1日に石川県能登地方で震度7の揺れを観測した地震により、7日も断水や停電などライフラインへの影響が各地で続いています。各地の最新状況について随時更新でまとめます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>

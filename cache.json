@@ -5741,6 +5741,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348131000.html",
+          "author": null,
+          "description": "能登半島地震で大きな被害を受けた石川県珠洲市で6日、市内で初めての仮設住宅が完成し、今月9日から入居が始まることになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348131000.html",
+          "publishedOn": "2024-02-05T08:38:39.000Z",
+          "wordCount": 553,
+          "title": "石川 珠洲 市内で初の仮設住宅 あす完成 2月9日から入居開始へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348131_2402051722_0205173841_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347861000.html",
           "author": null,
           "description": "北朝鮮の国営通信は、韓国軍が日米韓3か国の共同訓練などを年始から相次いで実施しているとして、反発する論評を伝えました。",
@@ -21229,16 +21239,6 @@
           "wordCount": 335,
           "title": "軽井沢スキーバス転落事故 8年を前に遺族が墓参り",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312391_2401062208_0107061544_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312301000.html",
-          "author": null,
-          "description": "1日に石川県能登地方で震度7の揺れを観測した地震により、7日も断水や停電などライフラインへの影響が各地で続いています。各地の最新状況について随時更新でまとめます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014312301000.html",
-          "publishedOn": "2024-01-06T20:47:59.000Z",
-          "wordCount": 781,
-          "title": "【ライフライン 7日】断水や停電続く 給水支援の状況は",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312301_2401062034_0106205243_01_02.jpg"
         }
       ]
     },
