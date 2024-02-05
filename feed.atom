@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T13:36:12.385Z</updated>
+    <updated>2024-02-05T13:50:21.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[都心に降っている大雪を 「正々堂々と家から出なくて良い理由」 としか思っていない男ですこんにちは。わー雪だー(一歩も出ない顔)。 　 大雪時の都内ニュース定番 ・八王子からの中継 ・渋谷駅前の様子(上空から) ・品川 […]]]></summary>
         <author>
             <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“銃規制強化で駆除対策に支障ないように”松村国家公安委員長]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348431000.html"/>
+        <updated>2024-02-05T13:13:41.000Z</updated>
+        <summary type="html"><![CDATA[各地でクマによる被害が相次ぐ中、松村国家公安委員長は警察庁が検討している銃の規制強化によって、駆除対策に支障が生じることがないようにしていく考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -36826,16 +36836,6 @@ G...]]></summary>
 どうしても子猫と遊びたくてケージ前でお願いポーズをする柴犬 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 珠洲に薬局機能を備えた車両を派遣 日本薬剤師会]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312541000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312541000.html"/>
-        <updated>2024-01-07T01:37:51.000Z</updated>
-        <summary type="html"><![CDATA[今回の地震で被災した人たちに薬を提供できる体制を整えようと日本薬剤師会は薬局の機能を備えた特殊な車両を石川県内で初めて珠洲市に向けて派遣しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
