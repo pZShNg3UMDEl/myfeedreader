@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T07:23:02.314Z</updated>
+    <updated>2024-02-05T07:36:06.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -40,6 +40,16 @@
 ...]]></summary>
         <author>
             <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[豪国籍の作家 中国で執行猶予付きの死刑判決 豪外務省が発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240205/k10014347951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014347951000.html"/>
+        <updated>2024-02-05T06:55:36.000Z</updated>
+        <summary type="html"><![CDATA[オーストラリア外務省は中国でスパイの罪に問われていたオーストラリア国籍の作家について、執行猶予付きの死刑が言い渡されたと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
