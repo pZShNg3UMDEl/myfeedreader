@@ -2654,21 +2654,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120191/",
-          "author": null,
-          "description": "かわぐちかいじ氏の大ヒットコミック「沈黙の艦隊」を原作とし、大沢たかおの主演で実写化され、今秋公開された映画「沈黙の艦隊」の劇場未公開シーンを加え、東京湾で勃発する大海戦までを描く全8話の完全版...",
-          "link": "https://anime.eiga.com/news/120191/",
-          "publishedOn": "2024-01-06T12:00:00.000Z",
-          "wordCount": 816,
-          "title": "実写「沈黙の艦隊」シーズン1、プライムビデオで2月9日配信開始　劇場版から広がる全8話のオリジナルシリーズ",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -4976,16 +4961,6 @@
           "wordCount": 10021,
           "title": "ハンターハンター格ゲー『HUNTER×HUNTER NEN×IMPACT』新映像公開",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/1c9958cba614605c1f308c75e702c1a0.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96858",
-          "author": "SWITCH速報",
-          "description": "150: 2024/01/01(月) 12:21:01.37 ID:t8dPfbgX0 おすすめゲー […]",
-          "link": "https://switchsoku.com/soft/96858",
-          "publishedOn": "2024-01-06T12:00:54.000Z",
-          "wordCount": 10032,
-          "title": "5歳の娘とテキトーにやれるゲームを探してる",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/06/marioparty-supersrars.jpg"
         }
       ]
     },
@@ -5725,6 +5700,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347601000.html",
+          "author": null,
+          "description": "国会は、5日午前9時から衆議院予算委員会で岸田総理大臣とすべての閣僚が出席して、新年度予算案の実質的な審議を始める予定でしたが、自民党の派閥の政治資金パーティーをめぐる問題を受けた与野党の協議などが続いていて、委員会の開会は遅れています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014347601000.html",
+          "publishedOn": "2024-02-05T00:14:17.000Z",
+          "wordCount": 689,
+          "title": "衆院予算委 開会遅れる 政治資金問題で与野党の協議続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347601_2402050918_0205092007_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347581000.html",
+          "author": null,
+          "description": "ガザ地区での戦闘休止や人質の解放に向けた交渉が続く中、アメリカのブリンケン国務長官は、関係国などと協議するため、4日、中東に向けて、首都ワシントン郊外の空軍基地を出発しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014347581000.html",
+          "publishedOn": "2024-02-04T23:19:04.000Z",
+          "wordCount": 701,
+          "title": "米ブリンケン国務長官 中東へ出発 ガザ地区の戦闘休止など協議",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347581_2402050814_0205081906_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347461000.html",
           "author": null,
@@ -22481,16 +22476,6 @@
           "wordCount": 1859,
           "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2023年12月31日から2024年1月6日】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/95b08b30bf5f81c0ace7391d49acc548.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=232121",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ロースとんかつ巻 5巻」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃 […]",
-          "link": "https://foodfighter.jp/711sej-tonkatsumaki",
-          "publishedOn": "2024-01-06T11:55:27.000Z",
-          "wordCount": 1839,
-          "title": "【セブンイレブン】ロースとんかつ巻 5巻【新作コンビニお寿司】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/930d405a0747e4d97f90394a56e84ff0.jpg"
         }
       ]
     },
@@ -22499,6 +22484,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/02/news194.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、同社の「STM32」上で動作する、モーター制御用ソフトウェアアルゴリズム「STM32 ZeST」を発表した。通常のセンサーレスモータードライブでは困難だった、速度ゼロでのフルトルク制御に対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/02/news194.html",
+          "publishedOn": "2024-02-05T00:00:00.000Z",
+          "wordCount": 2631,
+          "title": "速度ゼロでフルトルク実現、センサーレスのモーター制御用組み込みソフト",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/02/cover_news194.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/02/news076.html",
           "author": null,
@@ -22746,6 +22741,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67902",
+          "author": "299",
+          "description": "子猫たちのごはんの用意ができたようです！床の上にごはんの入ったお皿が綺麗に並べられています。 すでにお母さん猫は、ひとあし先にごはんをバクバク食べています。ようやく1匹の子猫がごはんに気づいてお皿に近づいてきました。 す...\nごはんを食べたらすぐ遊びモードになる子猫たち first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67902",
+          "publishedOn": "2024-02-05T00:00:28.000Z",
+          "wordCount": 1407,
+          "title": "ごはんを食べたらすぐ遊びモードになる子猫たち",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67902.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=67862",
           "author": "299",
@@ -31659,26 +31664,6 @@
           "wordCount": 2489,
           "title": "れいわ・山本太郎「能登町に入った。炊き出しのカレーをいただく」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/74bd673d.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031947.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(東京都) [BR]\n2024/01/06(土) 10:56:03.33ID:JF+WQP/n0●\n\n\n\n\n\n\n\n宅急便窓口で「どうして能登に送れないんだ。みんな飢えて困ってるんだぞ」と怒ってる方。見ればラップで包んだ手作りおにぎりやご自身の使ってた下着とかを何箱も送ろう...",
-          "link": "https://itainews.com/archives/2031947.html",
-          "publishedOn": "2024-01-06T12:58:02.000Z",
-          "wordCount": 2518,
-          "title": "ワシの荷物がなんで送れんのじゃあ！←中身がおにぎりと古い下着←宛先が「被災者の皆さん」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/f/2f987943-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031949.html",
-          "author": "damono3856",
-          "description": "1 名前：ばーど ★：2024/01/06(土) 12:15:10.95 ID:cufs7C6t9.net\n\n\n\n\n\n\n\nバックカントリースキーで「道に迷った」　イタリア国籍3人「110番」県警ヘリ、地上から捜索へ…しかし現場で「救助断る」　県警は大使館に「厳重指導」申し入れ　この日は能登半島地震で被災地...",
-          "link": "https://itainews.com/archives/2031949.html",
-          "publishedOn": "2024-01-06T12:08:54.000Z",
-          "wordCount": 2596,
-          "title": "【長野】バックカントリースキーをしていたイタリア人3人、道に迷って110番　県警ヘリ出動も現場で救助断る　大使館に厳重指導申し入れ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/c/dc772ca9-s.png"
         }
       ]
     },
