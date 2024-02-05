@@ -5851,6 +5851,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348591000.html",
+          "author": null,
+          "description": "長野県では、雪の影響とみられる電車と車の事故が起きました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348591000.html",
+          "publishedOn": "2024-02-05T14:35:20.000Z",
+          "wordCount": 591,
+          "title": "長野 上田電鉄 踏切で立往生の車に電車衝突 けが人なし",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348591_2402052245_0205224626_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348431000.html",
           "author": null,
           "description": "各地でクマによる被害が相次ぐ中、松村国家公安委員長は警察庁が検討している銃の規制強化によって、駆除対策に支障が生じることがないようにしていく考えを示しました。",
@@ -21409,16 +21419,6 @@
           "wordCount": 550,
           "title": "石川 輪島では農業用ハウスに避難する人たちも 物資届かず",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312601_2401071132_0107113557_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240107/k10014312581000.html",
-          "author": null,
-          "description": "地震発生からおよそ124時間たった6日夜、石川県珠洲市で倒壊した住宅から救助された90代の女性は、足にけがをしているものの、会話ができるまで回復していることを現場で支援に当たった医師が明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240107/k10014312581000.html",
-          "publishedOn": "2024-01-07T02:48:21.000Z",
-          "wordCount": 543,
-          "title": "石川 珠洲 “救助の90代女性 会話できるまで回復” 現場の医師",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240107/K10014312581_2401071147_0107114823_01_02.jpg"
         }
       ]
     },
@@ -23101,6 +23101,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=67893",
+          "author": "299",
+          "description": "ベッドの上で飼い主さんに甘えているニャンコさんです。寝る時間になると、猫たちがベッドの上に集まってきて飼い主さんと一緒に寝るようです。 それぞれのニャンコさんたちには定位置があるようで、1匹はまずベッドの足元のところに落...\n飼い主さんと一緒に寝たくてベッドに集まるニャンズ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/67893",
+          "publishedOn": "2024-02-05T14:45:51.000Z",
+          "wordCount": 1401,
+          "title": "飼い主さんと一緒に寝たくてベッドに集まるニャンズ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67893.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=67888",
           "author": "299",
