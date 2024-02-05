@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120532/",
+          "author": null,
+          "description": "BS12トゥエルビで毎週日曜午後7時から放送中の「日曜アニメ劇場」で、2月4日から以下の作品が放送されている（2月4日分は放送ずみ）。2月4日 「機動戦士ガンダムSEED DESTINY スペシ...",
+          "link": "https://anime.eiga.com/news/120532/",
+          "publishedOn": "2024-02-05T10:30:00.000Z",
+          "wordCount": 792,
+          "title": "2月「日曜アニメ劇場」は「機動戦士ガンダムSEED DESTINY」特別総集編4部作のHDリマスター版を放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/loop7/120524/",
           "author": null,
           "description": "シリーズ形式でお届けしている、テレビアニメ「ループ７回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する」のリレーインタビュー。第3回は、チーフプロデューサーの上間康弘さんに話を聞いた。（取...",
@@ -5065,6 +5080,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xf0un9wAoeE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xf0un9wAoeE",
+          "publishedOn": "2024-02-05T10:30:19.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】新春ガチャラスト勝負は・・・!?防具が欲しい!!無課金勇者は新春2024ドラゴン装備・断罪の執行者装備計50連で希望の装備を獲得することはできるのか!?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S9zn7wM-vp4",
           "author": null,
           "description": "",
@@ -5785,6 +5810,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348001000.html",
+          "author": null,
+          "description": "犯罪被害者の遺族などに支払われている「犯罪被害者等給付金」について、警察庁は支給額を大幅に引きあげる方針を固めました。被害者が子どもだったり、収入が少なかったりするケースでは、これまで支給額が低く抑えられてきましたが、こうしたケースについて、本人や遺族への支援を拡充することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348001000.html",
+          "publishedOn": "2024-02-05T10:18:00.000Z",
+          "wordCount": 420,
+          "title": "「犯罪被害者等給付金」支給額を大幅に引きあげる方針 警察庁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348001_2402051829_0205183213_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348261000.html",
+          "author": null,
+          "description": "アサヒビールの元社長でNHKの会長を務めた福地茂雄氏が先月29日、脳出血のため都内の病院で亡くなりました。89歳でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348261000.html",
+          "publishedOn": "2024-02-05T10:13:27.000Z",
+          "wordCount": 628,
+          "title": "NHK元会長 福地茂雄氏が死去 89歳 アサヒビール社長など歴任",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348261_2402051822_0205191329_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348231000.html",
           "author": null,
@@ -21322,6 +21367,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235138",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ショコラ生どら焼き ガナッシュ＆クリーム」を世界一詳しく調査しました。   公式YouTub […]",
+          "link": "https://foodfighter.jp/711sej-chocolate-dorayaki",
+          "publishedOn": "2024-02-05T10:06:04.000Z",
+          "wordCount": 1849,
+          "title": "【セブンイレブン】ショコラ生どら焼き ガナッシュ＆クリーム【新作スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/5772d07026c3506049ae527714064c4a.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235114",
           "author": "foodfighter",
