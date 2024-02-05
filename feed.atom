@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T11:10:59.534Z</updated>
+    <updated>2024-02-05T11:21:02.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 能登町と羽咋市で災害ボランティアの受け入れ開始へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348321000.html"/>
+        <updated>2024-02-05T11:08:35.000Z</updated>
+        <summary type="html"><![CDATA[災害ボランティアについて、石川県能登町は2月8日から、また、羽咋市は2月10日から受け入れを始めることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チリ森林火災、99人死亡　消息不明300人か]]></title>
         <id>https://itainews.com/archives/2032816.html</id>
