@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T20:14:09.620Z</updated>
+    <updated>2024-02-05T20:25:00.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インフルエンザにAIを活用した新たな検査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348421000.html"/>
+        <updated>2024-02-05T20:14:15.000Z</updated>
+        <summary type="html"><![CDATA[インフルエンザは例年、2月初めのちょうど今の時期にピークを迎えると言われています。検査は、鼻の粘膜を採取する方法が一般的ですが、今、AI＝人工知能を用いた方法が広がり始めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【JOJO】ミュージカル直前の中止発表にファン「酷すぎる」…中止理由「準備に想定以上の時間を要した」に非難轟轟　ジョジョの奇妙な冒険]]></title>
         <id>https://itainews.com/archives/2032825.html</id>
@@ -36621,16 +36631,6 @@ G...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312931000.html"/>
         <updated>2024-01-07T08:25:28.000Z</updated>
         <summary type="html"><![CDATA[7日朝早く、青森県佐井村で住宅3棟が全焼する火事があり、焼け跡から2人が遺体で見つかりました。火事のあと70代と80代の女性2人と連絡が取れなくなっていて、警察は、身元の確認を進めるとともに火事の原因を調べています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 2万8800人余が避難 農業用ハウスで過ごす人も 不足物資は]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312731000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312731000.html"/>
-        <updated>2024-01-07T08:20:12.000Z</updated>
-        <summary type="html"><![CDATA[石川県によりますと、7日午後2時時点で県内の404か所で避難所が開設され、2万8821人が避難しているということです。避難所の中には必要な支援物資が不足しているところがあるほか、輪島市では指定の避難所に入りきれない人たちも。避難の現状を随時更新でお伝えします。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
