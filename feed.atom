@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T19:35:21.749Z</updated>
+    <updated>2024-02-05T19:50:22.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GDP 去年10月～12月 “力強さに欠けた” 民間予測]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348481000.html"/>
+        <updated>2024-02-05T19:47:31.000Z</updated>
+        <summary type="html"><![CDATA[去年10月から12月までのGDP＝国内総生産が、2月15日に発表されます。民間の予測では、輸出の伸びがけん引し、全体としては2期ぶりのプラス成長になるものの、GDPの半分以上を占める個人消費は、物価高の影響で力強さに欠けたという見方が大勢を占めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゼレンスキー大統領 総司令官の解任検討を認めるも懸念の声]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240206/k10014348691000.html</id>
@@ -36624,26 +36634,6 @@ G...]]></summary>
         <summary type="html"><![CDATA[1: 2024/01/04(木) 01:06:22.23 ID:0EkuBqgf0 そもそも1.2. […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能登半島地震「特定非常災害」に指定へ 岸田首相 考え明らかに]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312821000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312821000.html"/>
-        <updated>2024-01-07T07:50:05.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震を受けた政府の対策本部で、岸田総理大臣は、運転免許証の有効期間の延長など、被災者に行政上の特例措置が適用される「特定非常災害」に指定する考えを明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国高校ラグビー 神奈川の桐蔭学園が優勝 3大会ぶり4回目]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312841000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312841000.html"/>
-        <updated>2024-01-07T07:45:45.000Z</updated>
-        <summary type="html"><![CDATA[全国高校ラグビー大会の決勝が行われ、神奈川の桐蔭学園が東福岡高校に8対5で競り勝って、3大会ぶり4回目の優勝を果たしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
