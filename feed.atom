@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T08:16:29.575Z</updated>
+    <updated>2024-02-05T08:36:58.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 “韓国軍 日米韓の共同訓練など年始から実施”と反発]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240205/k10014347861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014347861000.html"/>
+        <updated>2024-02-05T08:16:23.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮の国営通信は、韓国軍が日米韓3か国の共同訓練などを年始から相次いで実施しているとして、反発する論評を伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI警備ロボット、NY市警が正式採用を見送り。タイムズスクエア駅で2か月のテスト終了]]></title>
         <id>https://gadget.phileweb.com/?p=67962</id>
@@ -36574,16 +36584,6 @@ G...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312301000.html"/>
         <updated>2024-01-06T20:47:59.000Z</updated>
         <summary type="html"><![CDATA[1日に石川県能登地方で震度7の揺れを観測した地震により、7日も断水や停電などライフラインへの影響が各地で続いています。各地の最新状況について随時更新でまとめます。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大動脈解離“男女で発生率 差がない可能性” 熊本大などGP発表]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240107/k10014312431000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240107/k10014312431000.html"/>
-        <updated>2024-01-06T20:31:27.000Z</updated>
-        <summary type="html"><![CDATA[死亡することもある血管の病気、大動脈解離は、これまで男性に多いとされてきましたが、実際には男女で発生率に差がない可能性があるとする分析結果を、熊本大学などのグループが発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
