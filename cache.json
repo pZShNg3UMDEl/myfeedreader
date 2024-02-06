@@ -5826,6 +5826,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014349851000.html",
+          "author": null,
+          "description": "天皇ご一家は6日に、政府の担当者から能登半島地震の被害や復旧状況などについて説明を受けられました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014349851000.html",
+          "publishedOn": "2024-02-06T21:26:54.000Z",
+          "wordCount": 480,
+          "title": "天皇ご一家 能登半島地震の被害や復旧状況の説明受けられる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014349851_2402062151_0206225424_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014349841000.html",
+          "author": null,
+          "description": "少子化対策の財源確保のため、公的医療保険を通じて集める「支援金制度」をめぐり、政府は、加入者1人あたりの拠出額が月平均で500円弱になると試算していて、今後、詳細な制度設計を急ぐことにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014349841000.html",
+          "publishedOn": "2024-02-06T21:24:47.000Z",
+          "wordCount": 772,
+          "title": "政府 少子化対策の「支援金制度」段階的拡大で調整 設計急ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014349841_2402062123_0207050305_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350111000.html",
           "author": null,
           "description": "7日午前6時8分ごろ、石川県志賀町で震度4を観測する地震がありました。この地震による津波の心配はありません。震源地は佐渡付近で震源の深さは１０キロ、地震の規模を示すマグニチュードは５．１と推定されます。",
@@ -21404,16 +21424,6 @@
           "wordCount": 754,
           "title": "心臓移植待つ20歳女子大生が“成人式”希望を胸に新たな一歩",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313871_2401081748_0108183931_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313911000.html",
-          "author": null,
-          "description": "石川県志賀町によりますと、8日午前10時までに町内の3か所の避難所で合わせて13人が新型コロナウイルスに感染していると確認されたということです。町は感染者のための避難所を新たに設ける準備を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240108/k10014313911000.html",
-          "publishedOn": "2024-01-08T09:27:25.000Z",
-          "wordCount": 708,
-          "title": "石川 志賀町 避難所3か所で新型コロナ感染確認 健康管理難しく",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313911_2401081819_0108182727_01_02.jpg"
         }
       ]
     },
