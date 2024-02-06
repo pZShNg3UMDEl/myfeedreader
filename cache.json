@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120539/",
+          "author": null,
+          "description": "テレビアニメ「響け！ユーフォニアム3」が4月7日から、毎週日曜日午後5時にEテレで放送されることが分かった。あわせて、黄前久美子のキャラクターPV（https://youtube.com/sho...",
+          "link": "https://anime.eiga.com/news/120539/",
+          "publishedOn": "2024-02-06T12:00:00.000Z",
+          "wordCount": 755,
+          "title": "「響け！ユーフォニアム3」4月7日午後5時からEテレで放送開始　黄前久美子のキャラPV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120547/",
           "author": null,
           "description": "4月に放送を開始するテレビアニメ「この素晴らしい世界に祝福を！3」のキービジュアルが公開された。物語の主な舞台となるアクセルの街を背に、駆け出していくカズマ一行の姿を描いている。 さらに、先行上...",
@@ -2798,6 +2813,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97878",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/06(火) 15:44:43.94 ID:FFypG0rL0 https:// […]",
+          "link": "https://switchsoku.com/soft/mariokart8/97878",
+          "publishedOn": "2024-02-06T12:00:47.000Z",
+          "wordCount": 10037,
+          "title": "『マリオカート8DX』累計6000万本突破！！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/05/hq720.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97873",
           "author": "SWITCH速報",
           "description": "1: 2024/02/06(火) 15:32:00.74 ID:FMuEIrqv0 https:// […]",
@@ -5096,16 +5121,6 @@
           "wordCount": 10025,
           "title": "【噂】『Hi-Fi RUSH』がSwitchで発売？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/hi-fi-rush-switch.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96886",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/07(日) 23:03:17.74 ID:gnyGQldE0 これに勝てる比較 […]",
-          "link": "https://switchsoku.com/gossip/96886",
-          "publishedOn": "2024-01-08T00:00:12.000Z",
-          "wordCount": 10060,
-          "title": "スーパーマリオブラザーズ (1985)  スーパーマリオ64 (1996)  ←約10年で進化しすぎじゃない？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/07/mario64.jpg"
         }
       ]
     },
@@ -5311,6 +5326,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=9490",
+          "author": "watanabe@logipara.com",
+          "description": "【第3類医薬品】龍角散ダイレクトスティックミント 16包 posted with AmaQuick at 2024.02.06 龍角散 ￥476 Amazon.co.jpで詳細を見る 　 龍角散ダイレクトのCMを見ている […]",
+          "link": "https://logipara.com/diary-text/2024-02-07",
+          "publishedOn": "2024-02-06T12:09:00.000Z",
+          "wordCount": 4410,
+          "title": "理屈しかない",
+          "imageUrl": "https://m.media-amazon.com/images/I/41-MMVXuGJL._SL200_.jpg"
+        },
         {
           "id": "https://logipara.com/?p=9485",
           "author": "watanabe@logipara.com",
@@ -5845,6 +5870,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349761000.html",
+          "author": null,
+          "description": "運転手の不足で路線バスの減便が相次ぐ中、松江市はことし4月から市営バスの平日の運行本数を2割近く減便する方針を明らかにしました。運転手の時間外労働の規制が強化されるいわゆる「2024年問題」に対応するためだとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349761000.html",
+          "publishedOn": "2024-02-06T11:48:46.000Z",
+          "wordCount": 397,
+          "title": "松江市が市営バスの平日運行本数 2割近く減便の方針 4月から",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349761_2402062014_0206204754_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349271000.html",
           "author": null,
@@ -21494,16 +21529,6 @@
           "wordCount": 629,
           "title": "北海道 豊浦町 国道37号線 約15キロにわたり立往生 通行止めも",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313491_2401081008_0108102905_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240108/k10014313351000.html",
-          "author": null,
-          "description": "今回の能登半島地震では石川県内に住む多くの外国人も被災しています。避難生活を続けている人の中には支援へ感謝を示す一方、職場も被災する中で今後の生活に不安を訴える人もいます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240108/k10014313351000.html",
-          "publishedOn": "2024-01-08T00:21:07.000Z",
-          "wordCount": 475,
-          "title": "能登半島地震 外国人の被災者 今後の生活に不安訴える人も",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240108/K10014313351_2401080919_0108092109_01_02.jpg"
         }
       ]
     },
@@ -26755,16 +26780,6 @@
           "wordCount": 1615,
           "title": "飼い主さんの膝の上で絵本を一緒に見る猫さん",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66118.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66151",
-          "author": "299",
-          "description": "森の中の道路をバイクでツーリングしていたら、道の脇に段ボール箱が置かれていることに気づいたライダーさんでした。 気になったので引き返してのぞいてみたら、箱の隙間から1匹の子猫が飛び出してきました。 箱を開けてみると他にも...\nツーリングの途中で箱に入れられて捨てられていた子猫たちを保護 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66151",
-          "publishedOn": "2024-01-08T00:00:47.000Z",
-          "wordCount": 1616,
-          "title": "ツーリングの途中で箱に入れられて捨てられていた子猫たちを保護",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66151.jpeg"
         }
       ]
     },
@@ -28650,6 +28665,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032851.html",
+          "author": "damono3856",
+          "description": "1 名前：うんち(茸) [GB]：2024/02/06(火) 12:32:46.38 ID:1dGlGyaT0.net\n\n\n\n\n\n\n\nX民「#タマホーム の展示場で施工不良の“釘”を見つけた」↓📞タマホーム「ツイート消せ😊」↓📞X民「イヤです」↓タマホーム、X民を自宅で待ち伏せしてツイ消し要求↓X民「仕方ない消す...",
+          "link": "https://itainews.com/archives/2032851.html",
+          "publishedOn": "2024-02-06T12:03:20.000Z",
+          "wordCount": 2541,
+          "title": "タマホーム社に訴えると名指しされていたこしあん氏、完全謝罪。",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/a/0a25eab9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032842.html",
           "author": "damono3856",
