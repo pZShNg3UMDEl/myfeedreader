@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T03:35:31.624Z</updated>
+    <updated>2024-02-06T03:50:29.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪 踏切で電車と乗用車が接触 通過直前に遮断機上がったか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348971000.html"/>
+        <updated>2024-02-06T03:36:51.000Z</updated>
+        <summary type="html"><![CDATA[6日朝、大阪 西成区にある南海電鉄高野線の踏切で電車と乗用車が接触しました。南海電鉄などによりますと、乗客10人にけがはなく、電車が通過する直前に下りていた遮断機が上がったということで、南海電鉄と警察は原因を詳しく調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首相“企業・団体献金のあり方 各党と議論したい”衆院予算委]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240206/k10014348921000.html</id>
