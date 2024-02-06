@@ -5619,6 +5619,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/02/ai-chat-engines-express-their-opinions.html",
+          "author": null,
+          "description": "We asked four AI chat engines a simple question, \"Who invented CMOS Image Sensors?\" There seems to have been a lot of variety in the training sets.\n\n\n \n  \n \n\n \n  Normal\n  0\n  \n  \n  \n  \n  false\n  false\n  false\n  \n  EN-US\n  X-NONE\n  X-NONE\n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n\n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  …",
+          "link": "http://image-sensors-world.blogspot.com/2024/02/ai-chat-engines-express-their-opinions.html",
+          "publishedOn": "2024-02-06T15:14:00.001Z",
+          "wordCount": 4452,
+          "title": "AI Chat Engines Express Their Opinions on CMOS Image Sensor Origins",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/02/canons-twisted-photodiodes-improve.html",
           "author": null,
           "description": "IEEE Spectrum has a recent article discussing a 2023 IEDM paper from Canon.\nPaper: Shirahige et al., \"40-5. Cross Dual-Pixel Twisted-Photodiode Image Sensor for All-Directional Auto Focus\", IEDM 2023.\n\nSpectrum article: https://spectrum.ieee.org/autofocus-canon-twisted-diode\nDiodes at Right Angles Double Autofocus Capacity: Canon twists photosensor rules to build new tech from familiar parts\n\n\nAbove are images of a rotating object using Canon's twisted photodiode autofocus [middle column] and a standard dual pixel autofocus [right column]. The gray column is the raw image and the top and bottom rows were taken at different times. Courtesy: Canon\n \n\nIn 2013, Canon introduced its first dual-pixel autofocus, a technology that allows almost every pixel in a photo sensor to help focus the image…",
