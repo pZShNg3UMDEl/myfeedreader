@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T13:16:05.011Z</updated>
+    <updated>2024-02-06T13:35:24.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -41,6 +41,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349981000.html"/>
         <updated>2024-02-06T12:29:03.000Z</updated>
         <summary type="html"><![CDATA[香港の警察は、カナダに滞在している民主活動家の周庭氏について、6日、指名手配したことを明らかにしました。周庭氏は香港国家安全維持法に違反した疑いで4年前に逮捕され、その後保釈されていましたが、去年12月、カナダに滞在していることを明らかにしていました。香港の警察は、指定した期日に出頭せず、保釈の条件に違反したと非難し、追及に全力を挙げる方針を示していました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経団連 十倉会長 万博「復旧復興に支障来す事態 認識せず」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014349601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349601000.html"/>
+        <updated>2024-02-06T12:13:58.000Z</updated>
+        <summary type="html"><![CDATA[経団連の十倉会長は、能登半島地震の被災地の復興への大阪・関西万博の影響について「現時点で復旧復興に支障を来す事態は認識していない」と述べ、来年の開催に向けて予定どおり準備を進める考えを改めて示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -36937,16 +36947,6 @@ I’m glad to see that Madonna has a grab bar so she doesn’t fall. pic.twitter
         <summary type="html"><![CDATA[「2024年になってから行ったお店、ライフ(スーパー)とまいばすけっとだけじゃね？」と気付いたときの顔をしています]]></summary>
         <author>
             <name>watanabe@logipara.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北海道 豊浦町 国道37号線 約15キロにわたり立往生 通行止めも]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240108/k10014313491000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313491000.html"/>
-        <updated>2024-01-08T01:29:03.000Z</updated>
-        <summary type="html"><![CDATA[大雪の影響で8日未明から北海道豊浦町の国道37号線で、およそ15キロにわたって車が立往生していて、解消に向けた除雪作業が行われています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
