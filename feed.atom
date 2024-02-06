@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T20:24:27.016Z</updated>
+    <updated>2024-02-06T20:35:31.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“脱北者の半数以上が権力世襲に否定的” 韓国政府の調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014349951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014349951000.html"/>
+        <updated>2024-02-06T20:28:19.000Z</updated>
+        <summary type="html"><![CDATA[韓国政府は、脱北者6000人余りを対象に調査した報告書を公開しました。近年に脱北した半数以上の人が北朝鮮の最高指導者の権力世襲に否定的な評価をしていて、世襲に批判的な見方が増加していると指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厳しい寒さ続く 路面凍結も 転倒や交通影響に注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014350021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014350021000.html"/>
+        <updated>2024-02-06T20:22:52.000Z</updated>
+        <summary type="html"><![CDATA[関東甲信は7日朝も厳しい寒さとなっています。先日の大雪により積雪が残っていたり、路面が凍結したりしているところがあり、転倒や交通への影響に注意してください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【炎上】　れいわ・山本太郎　「ブルーバッジつけてる議員は何考えてるんでしょうね」【動画】]]></title>
         <id>https://itainews.com/archives/2032852.html</id>
@@ -36832,16 +36852,6 @@ I’m glad to see that Madonna has a grab bar so she doesn’t fall. pic.twitter
 ...]]></summary>
         <author>
             <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国 “海外コンサル会社の責任者摘発 英に協力しスパイ活動”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240108/k10014313831000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313831000.html"/>
-        <updated>2024-01-08T08:25:42.000Z</updated>
-        <summary type="html"><![CDATA[中国でスパイの取締りなどを行う国家安全省は、海外のコンサルティング会社の責任者をイギリスの対外諜報機関に協力し、スパイ活動を行っていたとして、摘発したと発表しました。習近平指導部が「国家の安全」を重視する中、中国で活動する海外のコンサルティング会社への締めつけを強める姿勢を示した形です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
