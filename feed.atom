@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T08:35:29.182Z</updated>
+    <updated>2024-02-06T08:50:36.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川県 災害廃棄物 約240万トン 2026年3月末までの処理目指す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348941000.html"/>
+        <updated>2024-02-06T08:32:11.000Z</updated>
+        <summary type="html"><![CDATA[石川県の馳知事は、能登半島地震で発生する災害廃棄物の量が県全体で通常の7年分にあたるおよそ240万トンに上ると推計されると明らかにしました。県外の施設も活用した広域処理を行うことで、2026年3月末までに処理を完了することを目指すということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【画像あり】椎野カロリーナさん　ロシアとの混血だった　ウクライナ侵略に興味なし]]></title>
         <id>https://itainews.com/archives/2032845.html</id>
@@ -42,6 +52,16 @@
 5匹のにゃんこたちのお風呂デー first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バス運転手「やるしかない」 石川 七尾の自宅が全壊も仕事再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014349281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349281000.html"/>
+        <updated>2024-02-06T07:48:05.000Z</updated>
+        <summary type="html"><![CDATA[富山県氷見市の会社でバスの運転手として働く男性は、能登半島地震で石川県七尾市にある自宅が全壊しましたが、同居する母親を避難させたうえで、仕事を再開しています。男性は「うしろを見ても元には戻らないので、やるしかないです」と話しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
