@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T22:11:42.267Z</updated>
+    <updated>2024-02-06T22:26:36.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北方領土の日 領土問題解決し平和条約締結の方針堅持 上川外相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014349931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014349931000.html"/>
+        <updated>2024-02-06T22:04:36.000Z</updated>
+        <summary type="html"><![CDATA[7日は「北方領土の日」です。上川外務大臣は、ロシアとの間で領土問題を解決して平和条約を締結する方針を堅持し、交流事業の早期再開を目指す考えを強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可愛すぎる子猫を起こそうとしたけれど全く起きない！]]></title>
         <id>https://2-9-9.com/?p=67990</id>
@@ -36809,16 +36819,6 @@ I’m glad to see that Madonna has a grab bar so she doesn’t fall. pic.twitter
         <updated>2024-01-08T10:33:36.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将棋「王将戦」第1局 藤井聡太八冠が勝利]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240108/k10014313941000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313941000.html"/>
-        <updated>2024-01-08T10:24:16.000Z</updated>
-        <summary type="html"><![CDATA[将棋の八大タイトルの1つ、「王将戦」七番勝負の第1局が栃木県で行われ、藤井聡太八冠（21）が挑戦者の菅井竜也八段（31）に勝ち、ことし最初の防衛戦の初戦を白星で飾りました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
