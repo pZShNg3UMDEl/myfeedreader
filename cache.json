@@ -2789,21 +2789,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120256/",
-          "author": null,
-          "description": "大ヒット公開中の「ゴジラ－1.0」（読み：ゴジラマイナスワン）。国内外からの反響を受けて、このほどモノクロ映像版となる「ゴジラ－1.0／C」（ゴジラマイナスワン／マイナスカラー）の上映が決定。新...",
-          "link": "https://anime.eiga.com/news/120256/",
-          "publishedOn": "2024-01-08T03:00:00.000Z",
-          "wordCount": 805,
-          "title": "モノクロ映像版「ゴジラ－1.0／C」1月12日から上映　山崎貴監督「劇場で更なる恐怖に生きて抗って下さい」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5860,6 +5845,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349941000.html",
+          "author": null,
+          "description": "IAEA＝国際原子力機関のグロッシ事務局長は、軍事侵攻から2年となるのを前に、ロシアが占拠するウクライナのザポリージャ原子力発電所を視察する予定を明らかにするとともに、原発の安全の確保に向けてロシアとウクライナ、双方への働きかけを続ける考えを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349941000.html",
+          "publishedOn": "2024-02-06T14:24:12.000Z",
+          "wordCount": 689,
+          "title": "IAEA事務局長 ザポリージャ原発視察へ 両国への働きかけ続ける",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349941_2402062203_0206232414_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349981000.html",
           "author": null,
@@ -32204,16 +32199,6 @@
           "wordCount": 2574,
           "title": "ゆたぼん「被災地の人達が「今は来ないで」と言ってるのに被災地に行くのは復旧の邪魔になる」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/7/b7cdd277-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2031997.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(愛媛県) [ES]：2024/01/07(日) 23:37:09.29 ID:noeiHWFF0●.net\n\n\n\n\n\n\n\n【中部方面隊　災害派遣】 #災統合任務部隊　は、令和６年能登半島地震に伴い、上大沢地区において、救援物資の徒歩搬送を実施しました。#陸上自衛隊 #災害派遣 #統...",
-          "link": "https://itainews.com/archives/2031997.html",
-          "publishedOn": "2024-01-08T03:01:30.000Z",
-          "wordCount": 2759,
-          "title": "バカ「なんでボランティア受け入れないんだ！」　→自衛隊による物資搬送の様子をご覧ください",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/9/39cf4a22-s.png"
         }
       ]
     },
