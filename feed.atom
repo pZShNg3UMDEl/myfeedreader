@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T12:23:48.317Z</updated>
+    <updated>2024-02-06T12:46:34.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港 民主活動家の周庭氏を指名手配 香港の警察が発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014349981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349981000.html"/>
+        <updated>2024-02-06T12:29:03.000Z</updated>
+        <summary type="html"><![CDATA[香港の警察は、カナダに滞在している民主活動家の周庭氏について、6日、指名手配したことを明らかにしました。周庭氏は香港国家安全維持法に違反した疑いで4年前に逮捕され、その後保釈されていましたが、去年12月、カナダに滞在していることを明らかにしていました。香港の警察は、指定した期日に出頭せず、保釈の条件に違反したと非難し、追及に全力を挙げる方針を示していました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾TSMC 日本で2番目の半導体工場 熊本県に建設へ 正式発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014349801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349801000.html"/>
+        <updated>2024-02-06T12:12:42.000Z</updated>
+        <summary type="html"><![CDATA[半導体の受託生産で世界最大手の台湾のTSMCは、日本で2番目となる半導体工場を熊本県に建設すると正式に発表しました。工場の運営会社にはソニーグループなどに加えて新たにトヨタ自動車が出資し、第1工場と合わせた投資額は日本円で2兆9600億円を超える規模となります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[理屈しかない]]></title>
         <id>https://logipara.com/?p=9490</id>
