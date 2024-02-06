@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T23:12:26.995Z</updated>
+    <updated>2024-02-06T23:23:36.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国務長官「ハマスから返答あった」ガザ地区の交渉進展に期待]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014349911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014349911000.html"/>
+        <updated>2024-02-06T23:05:01.000Z</updated>
+        <summary type="html"><![CDATA[中東のカタールを訪問中のアメリカのブリンケン国務長官は6日、ガザ地区の戦闘の休止と人質の解放に向けた交渉をめぐり、イスラエル側からの提案に対し、イスラム組織ハマスから返答があったことを明らかにしました。ブリンケン長官は「まだ課題はあるが、合意は必要であり可能だ」と述べ、交渉の進展に期待を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北方領土の日 領土問題解決し平和条約締結の方針堅持 上川外相]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240207/k10014349931000.html</id>
@@ -36761,16 +36771,6 @@ I’m glad to see that Madonna has a grab bar so she doesn’t fall. pic.twitter
         <summary type="html"><![CDATA[台湾当局は、能登半島地震を受けて1月5日から募っている民間からの支援金が、7日までの3日間でおよそ3億9300万円にのぼったと明らかにしました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明治 エッセル スーパーカップ バターサンド味【新作アイス】]]></title>
-        <id>https://foodfighter.jp/?p=232274</id>
-        <link href="https://foodfighter.jp/super-cup-butter-sandwich"/>
-        <updated>2024-01-08T11:16:35.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、明治の新商品「明治 エッセル スーパーカップ バターサンド味」を世界一詳しく調査しました。   公式YouTubeチ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
