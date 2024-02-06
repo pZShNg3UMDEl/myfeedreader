@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T05:26:29.280Z</updated>
+    <updated>2024-02-06T05:36:26.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北海道 羅臼町 シャチ約10頭が流氷に囲まれ身動きとれず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014349071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349071000.html"/>
+        <updated>2024-02-06T05:27:07.000Z</updated>
+        <summary type="html"><![CDATA[6日朝、北海道羅臼町の沖合でシャチおよそ10頭が流氷に囲まれて身動きがとれなくなっているのが見つかりました。流氷に覆われて近づけないということで、町は「流氷が崩れて逃げ出すのを見守るしかない」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canon's twisted photodiodes improve autofocus]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/02/canons-twisted-photodiodes-improve.html</id>
