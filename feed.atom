@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T21:35:54.641Z</updated>
+    <updated>2024-02-06T21:50:17.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“管制官増員を” 労働組合が申し入れ 羽田事故受け業務新設に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014349861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014349861000.html"/>
+        <updated>2024-02-06T21:31:37.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港で起きた航空機どうしの衝突事故を受けて、国土交通省が滑走路への誤進入を防ぐため管制業務で新たな担当を設けたことに対し、労働組合が6日、航空局に申し入れを行い、管制官の人数を増やしたうえで運用するよう求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天皇ご一家 能登半島地震の被害や復旧状況の説明受けられる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240207/k10014349851000.html</id>
@@ -36842,16 +36852,6 @@ I’m glad to see that Madonna has a grab bar so she doesn’t fall. pic.twitter
         <summary type="html"><![CDATA[人間椅子というロックバンドをご存じだろうか。ブラック・サバスなど1970年代の英国ハードロックやヘヴィ・メタルの影響を色濃くうけた3人組バンドで、1990年のメジャーデビューから今年で35年目を...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心臓移植待つ20歳女子大生が“成人式”希望を胸に新たな一歩]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240108/k10014313871000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313871000.html"/>
-        <updated>2024-01-08T09:39:29.000Z</updated>
-        <summary type="html"><![CDATA[成人の日の8日、心臓移植を待つ20歳の女子大学生が友人らとともに埼玉県で記念の行事に参加し、希望を胸に新たな一歩を踏み出しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
