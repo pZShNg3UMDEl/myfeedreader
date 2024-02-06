@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T09:35:22.632Z</updated>
+    <updated>2024-02-06T09:50:13.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＪＲ山手線 電車内でリチウムイオン電池から火]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240206/k10014349621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349621000.html"/>
+        <updated>2024-02-06T09:41:43.000Z</updated>
+        <summary type="html"><![CDATA[東京消防庁によりますと、6日午後6時ごろ、東京・池袋駅に停車していたJR山手線の電車内で、リチウムイオン電池から火が出ましたが、まもなく火は消し止められたということです。警視庁や消防が詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナ退役軍人相 事実上更迭か 高官刷新で戦況改善ねらい]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240206/k10014349501000.html</id>
@@ -36761,16 +36771,6 @@ I’m glad to see that Madonna has a grab bar so she doesn’t fall. pic.twitter
         <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313181000.html"/>
         <updated>2024-01-07T21:55:44.000Z</updated>
         <summary type="html"><![CDATA[4年に1度行われる台湾総統選挙の投票日を前に、最後の日曜日となった7日、3人の候補者がそれぞれ大規模な集会で支持を訴え、中国との関係などを争点に激しい戦いを繰り広げています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衝突3か月 ネタニヤフ首相 ハマスのせん滅を目指す姿勢 強調]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240108/k10014313401000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240108/k10014313401000.html"/>
-        <updated>2024-01-07T21:37:47.000Z</updated>
-        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの一連の衝突が始まり、3か月となった7日も、イスラエル軍はガザ地区の南部などで激しい攻撃を行い、犠牲者が増え続けています。イスラエルのネタニヤフ首相は「勝利するまでとまらない」と述べ、あくまでハマスのせん滅を目指す姿勢を改めて強調しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
