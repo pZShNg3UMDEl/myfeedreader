@@ -2759,21 +2759,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/eiga_ranking/120354/",
-          "author": null,
-          "description": "1月5日～7日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「劇場版 SPY×FAMILY CODE: White」が3週連続で首位を獲得。週末3日間で動員39万9000人...",
-          "link": "https://anime.eiga.com/news/column/eiga_ranking/120354/",
-          "publishedOn": "2024-01-09T11:30:00.000Z",
-          "wordCount": 863,
-          "title": "【週末アニメ映画ランキング】「劇場版 SPY×FAMILY」が3週連続首位、「名探偵コナン vs. 怪盗キッド」は4位にランクイン",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5800,6 +5785,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351681000.html",
+          "author": null,
+          "description": "消防によりますと、8日午前6時半ごろ、福井県敦賀市にある日本原子力発電の敦賀原子力発電所1号機で「タービン建屋から煙が出ている」という通報があったということです。警察や日本原子力発電によりますとこれまでにけが人などの情報はないということで、状況の確認を進めています。敦賀原発1号機では2017年から廃炉作業が進められています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014351681000.html",
+          "publishedOn": "2024-02-07T23:26:44.000Z",
+          "wordCount": 440,
+          "title": "福井 敦賀原発1号機「煙が出ている」と通報 けが人などなし",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351681_2402080826_0208082646_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351671000.html",
           "author": null,
