@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T20:23:52.468Z</updated>
+    <updated>2024-02-07T20:35:32.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[少子化対策「支援金制度」現役世代含む74歳以下が9割余負担へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014351301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014351301000.html"/>
+        <updated>2024-02-07T20:33:04.000Z</updated>
+        <summary type="html"><![CDATA[少子化対策の財源確保のため、公的医療保険を通じて集める「支援金制度」をめぐり、政府は、現役世代を含む74歳以下の医療保険の加入者に対し、事業主の負担分も含め、全体の90％あまりの負担を求める方向で調整を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア軍 キーウなどで大規模攻撃 市民5人死亡48人けがの被害]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240208/k10014351371000.html</id>
@@ -37282,16 +37292,6 @@ BBS（電子掲示板）ってなに？15～39歳男女の40%超が「知らな�
         <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314981000.html"/>
         <updated>2024-01-09T08:39:40.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震から1週間余りがたつ中、車中泊を続ける人の中には、エコノミークラス症候群に近い症状がみられる人も出てきています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能登半島 4.4平方km拡大 輪島市の海岸線 海側に最大240m広がる]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314931000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314931000.html"/>
-        <updated>2024-01-09T08:26:15.000Z</updated>
-        <summary type="html"><![CDATA[今月1日の能登半島地震で、地盤の変動について専門家が調査したところ、能登半島では陸域がおよそ4.4平方キロメートル拡大し、輪島市では海岸線が最大で240メートル海側に向かって広がったことがわかりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
