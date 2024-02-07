@@ -5757,16 +5757,6 @@
           "wordCount": 3978,
           "title": "Image Sensors Europe 2024 Speakers announced",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/01/flare-reduction-technology-from-edgehog.html",
-          "author": null,
-          "description": "Eliminating Stray Light Image Artifacts via Invisible Image Sensor Coverglass\nHigh-quality images are critical for machine vision applications like autonomous vehicles, surveillance systems, and industrial automation. However, lens flare caused by internal light reflections can significantly degrade image quality. This “ghosting” effect manifests as spots, starbursts, and other artifacts that obscure objects and details.\nTraditional anti-reflective coatings help reduce flare by creating destructive interference to cancel out light reflections. But they fall short at wider angles where reflections still occur. Stray light hitting image sensors causes flares. These artifacts interfere with image clarity and create glare, which decreases the signal-to-noise ratio, especially in environments w…",
-          "link": "http://image-sensors-world.blogspot.com/2024/01/flare-reduction-technology-from-edgehog.html",
-          "publishedOn": "2024-01-08T17:00:00.001Z",
-          "wordCount": 4145,
-          "title": "Flare reduction technology from Edgehog",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIruzS8bVpUGqsdlzmkt5qWp6a5kucUpK2Kvp-aCBz_dNM3Qj2LlvXXJJd4v21WH4dNK2_MvA18S6TjJAyeYYyYdQslxzdF9S587MSiP_xG5_Stw6_9Lv78VRkMLg6B8W00YFFQDllGRaVkbSIF4-d7AywAmatncy8XcsxeoBpjZYt0g7eOAwL/w1200-h630-p-k-no-nu/Outdoor%20Traffic_Edgehog_SelfDriving.png"
         }
       ]
     },
@@ -5775,6 +5765,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350251000.html",
+          "author": null,
+          "description": "石川県内では、輪島市と珠洲市のほぼ全域で断水するなど、7つの市と町の3万7000戸余りで断水が続いています(6日午後2時時点)。遅いところでは復旧が4月以降になるという見通しも示されるなか、かけ湯のできる仮設の風呂が設けられるなど、少しずつ日常を取り戻そうという動きも出てきています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350251000.html",
+          "publishedOn": "2024-02-07T04:39:41.000Z",
+          "wordCount": 874,
+          "title": "石川 3万7000戸余で断水続く 日常取り戻す動きも",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350251_2402071329_0207133144_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350451000.html",
           "author": null,
@@ -28610,6 +28610,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032867.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/02/06(火) 15:04:36.40 ID:v5QZ4fk30●.net \n\n\n\n\n\n\n\n\n\n\n“車検”に出した車が返ってこず･･･「売却」か　自動車販売業の男(36)を詐欺の疑いで逮捕 山口https://t.co/MoEoj8QzXm— ｔｙｓニュース【公式】 (@tysnews) February 6, 2024 \n...",
+          "link": "https://itainews.com/archives/2032867.html",
+          "publishedOn": "2024-02-07T05:01:01.000Z",
+          "wordCount": 2414,
+          "title": "車検に出した車が返ってこず･･･自動車販売業の男「売却したけど、騙すつもりは無かった」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/2/2295b1a3-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032864.html",
           "author": "yonepo665sfr",
