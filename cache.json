@@ -5801,6 +5801,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351121000.html",
+          "author": null,
+          "description": "群馬県警察本部によりますと、7日午後4時ごろ、伊勢崎市田中島町にある2か所の公園で、小学生や大人が次々と犬にかまれ、十数人がけがをしたということです。いずれも軽傷とみられ、かんだ犬はすでに捕獲されているということです。警察が当時の状況を詳しく調べています。現場は、伊勢崎市役所から西におよそ3キロ離れた住宅街にある公園です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351121000.html",
+          "publishedOn": "2024-02-07T09:22:07.000Z",
+          "wordCount": 647,
+          "title": "群馬 伊勢崎 2か所の公園で次々犬にかまれ十数人けが 犬は捕獲",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351121_2402071815_0207182209_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350691000.html",
           "author": null,
           "description": "新たな観光コンテンツを作り出そうと、ドローンを使ってフランス料理のフルコースを北海道の有珠山の展望台まで運ぶ実証実験が行われました。",
@@ -21669,16 +21679,6 @@
           "wordCount": 659,
           "title": "インドネシア M7.0の地震 日本への津波の影響なし 気象庁",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314321_2401090632_0109063646_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314311000.html",
-          "author": null,
-          "description": "相模鉄道によりますと、相鉄線は横浜市の瀬谷駅と三ツ境駅の間の踏切の安全確認のため、午前5時39分から全線で運転を見合わせています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314311000.html",
-          "publishedOn": "2024-01-08T21:24:08.000Z",
-          "wordCount": 677,
-          "title": "相鉄線 全線で運転見合わせ 踏切の安全確認のため",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314311_2401090623_0109062410_01_02.jpg"
         }
       ]
     },

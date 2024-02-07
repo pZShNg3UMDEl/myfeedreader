@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T09:23:48.584Z</updated>
+    <updated>2024-02-07T09:36:26.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[群馬 伊勢崎 2か所の公園で次々犬にかまれ十数人けが 犬は捕獲]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014351121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014351121000.html"/>
+        <updated>2024-02-07T09:22:07.000Z</updated>
+        <summary type="html"><![CDATA[群馬県警察本部によりますと、7日午後4時ごろ、伊勢崎市田中島町にある2か所の公園で、小学生や大人が次々と犬にかまれ、十数人がけがをしたということです。いずれも軽傷とみられ、かんだ犬はすでに捕獲されているということです。警察が当時の状況を詳しく調べています。現場は、伊勢崎市役所から西におよそ3キロ離れた住宅街にある公園です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フランス料理フルコースをドローンで 北海道有珠山で実証実験]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240207/k10014350691000.html</id>
@@ -37178,16 +37188,6 @@ TENGAさんが毎年「お典雅（年賀）」として、非常にたいそう
         <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314321000.html"/>
         <updated>2024-01-08T21:36:44.000Z</updated>
         <summary type="html"><![CDATA[ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、9日午前5時49分ごろ、インドネシア付近を震源とするマグニチュード7.0の大きな地震がありました。この地震で、気象庁は震源の近くで津波が発生するおそれがあるとして北西太平洋津波情報を発表しました。気象庁によりますとこの地震による日本への津波の影響はありません。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相鉄線 全線で運転見合わせ 踏切の安全確認のため]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314311000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314311000.html"/>
-        <updated>2024-01-08T21:24:08.000Z</updated>
-        <summary type="html"><![CDATA[相模鉄道によりますと、相鉄線は横浜市の瀬谷駅と三ツ境駅の間の踏切の安全確認のため、午前5時39分から全線で運転を見合わせています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
