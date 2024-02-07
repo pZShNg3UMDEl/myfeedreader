@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120553/",
+          "author": null,
+          "description": "アニメーション作家・安田現象初の長編監督作品となる劇場アニメ「メイクアガール」に、種崎敦美と堀江瞬の出演が決定した。超特報映像とティザービジュアルも公開されている。 同作は「ずっと真夜中でいいの...",
+          "link": "https://anime.eiga.com/news/120553/",
+          "publishedOn": "2024-02-07T11:30:00.000Z",
+          "wordCount": 808,
+          "title": "安田現象初の長編監督作品「メイクアガール」主演に種崎敦美と堀江瞬　超特報＆ティザービジュアル2種公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/konki_ranking/120541/",
           "author": null,
           "description": "2月第2週の2024年冬アニメ録画ランキングは、「葬送のフリーレン」が5週連続で首位となった。 2位は先週から順位をひとつあげた「薬屋のひとりごと」。3位「ポケットモンスター 新シリーズ」、4位...",
@@ -21719,16 +21734,6 @@
           "wordCount": 753,
           "title": "JR東日本 3月のダイヤ改正 東京と千葉結ぶ特急が全車指定席に",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314301_2401090826_0109083530_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314071000.html",
-          "author": null,
-          "description": "ウクライナでは8日、東部や西部などでロシア軍による攻撃があり、あわせて4人が死亡し、30人以上がけがをしました。ウクライナ軍は、飛来したミサイル51発のうち撃墜したのは18発にとどまったとしていて、防空能力の強化が課題だと指摘しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314071000.html",
-          "publishedOn": "2024-01-08T23:26:42.000Z",
-          "wordCount": 686,
-          "title": "ウクライナ 飛来ミサイル撃墜は51発中18発 防空能力強化が課題",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314071_2401090818_0109082513_01_02.jpg"
         }
       ]
     },

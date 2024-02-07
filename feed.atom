@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T11:22:33.148Z</updated>
+    <updated>2024-02-07T11:36:23.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安田現象初の長編監督作品「メイクアガール」主演に種崎敦美と堀江瞬　超特報＆ティザービジュアル2種公開]]></title>
+        <id>https://anime.eiga.com/news/120553/</id>
+        <link href="https://anime.eiga.com/news/120553/"/>
+        <updated>2024-02-07T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメーション作家・安田現象初の長編監督作品となる劇場アニメ「メイクアガール」に、種崎敦美と堀江瞬の出演が決定した。超特報映像とティザービジュアルも公開されている。 同作は「ずっと真夜中でいいの...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仏大統領は「ミッテラン」　バイデン氏、また失言]]></title>
         <id>https://itainews.com/archives/2032872.html</id>
@@ -37274,16 +37284,6 @@ TENGAさんが毎年「お典雅（年賀）」として、非常にたいそう
         <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314301000.html"/>
         <updated>2024-01-08T23:37:45.000Z</updated>
         <summary type="html"><![CDATA[JR東日本のことし3月のダイヤ改正で東京と千葉を結ぶ特急が全車指定席となり、都内を発着する主な特急から自由席が姿を消します。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナ 飛来ミサイル撃墜は51発中18発 防空能力強化が課題]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314071000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314071000.html"/>
-        <updated>2024-01-08T23:26:42.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナでは8日、東部や西部などでロシア軍による攻撃があり、あわせて4人が死亡し、30人以上がけがをしました。ウクライナ軍は、飛来したミサイル51発のうち撃墜したのは18発にとどまったとしていて、防空能力の強化が課題だと指摘しています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
