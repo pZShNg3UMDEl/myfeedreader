@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T04:15:42.011Z</updated>
+    <updated>2024-02-07T04:35:24.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[流氷に囲まれたシャチ 姿確認できず 北海道羅臼町の沖合]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014350451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014350451000.html"/>
+        <updated>2024-02-07T04:06:26.000Z</updated>
+        <summary type="html"><![CDATA[6日、北海道羅臼町の沖合で流氷に囲まれ動けなくなっていたシャチについて、7日朝、町の職員が陸から捜索したところ、姿が確認できなくなっています。6日と比べ、流氷の密度は低くなっているように見えるということで、羅臼町は「うまく逃げていてくれれば」と話しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[林官房長官 3年前に旧統一教会の関係者と地元山口県で面会]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240207/k10014350431000.html</id>
@@ -36886,27 +36896,6 @@ High-quality images are critical for machine vision applications like autonomous
 Traditional anti-reflective coatings help reduce flare by creating destructive interference to cancel out light reflections. But they fall short at wider angles where reflections still occur. Stray light hitting image sensors causes flares. These artifacts interfere with image clarity and create glare, which decreases the signal-to-noise ratio, especially in environments w…]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャラシを器用に動かして三毛猫を遊ばせる白猫さん]]></title>
-        <id>https://2-9-9.com/?p=66207</id>
-        <link href="https://2-9-9.com/archives/66207"/>
-        <updated>2024-01-08T16:30:57.000Z</updated>
-        <summary type="html"><![CDATA[白猫さんがベッドのところに刺してある猫じゃらしの竿を上手に前足で動かしてあげるとソファのところにいる三毛猫さんがじゃらしを追いかけて遊びます。 白猫さんが、三毛猫さんのためにじゃらしを動かしてあげているように見えますね。...
-ジャラシを器用に動かして三毛猫を遊ばせる白猫さん first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羽田空港事故で安全対策 管制「ナンバーワン」当面使用停止へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314211000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314211000.html"/>
-        <updated>2024-01-08T16:26:21.000Z</updated>
-        <summary type="html"><![CDATA[羽田空港で起きた航空機どうしの衝突炎上事故を受け、国土交通省がとりまとめた緊急の安全対策の内容が明らかになりました。事故の前に管制官が伝えた出発の順番を意味する「ナンバーワン」ということばを海上保安庁の航空機が離陸許可だと取り違えた可能性もあることから、対策では当面、事前に出発順は伝えずに離陸許可を出すとしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
