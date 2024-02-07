@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120548/",
+          "author": null,
+          "description": "俳優の佐々木蔵之介が主演の「映画 マイホームヒーロー」の完成披露試写会が2月5日、東京・有楽町朝日ホールで行われた。佐々木は共演の齋藤飛鳥、「なにわ男子」の高橋恭平、宮世琉弥、津田健次郎、木村多...",
+          "link": "https://anime.eiga.com/news/120548/",
+          "publishedOn": "2024-02-07T12:00:00.000Z",
+          "wordCount": 762,
+          "title": "佐々木蔵之介、実写「マイホームヒーロー」を意味深アピール「どういう結末か見届けて」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120553/",
           "author": null,
           "description": "アニメーション作家・安田現象初の長編監督作品となる劇場アニメ「メイクアガール」に、種崎敦美と堀江瞬の出演が決定した。超特報映像とティザービジュアルも公開されている。 同作は「ずっと真夜中でいいの...",
@@ -2828,6 +2843,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97924",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/06(火) 15:44:29.73 ID:FMuEIrqv0 ハードウェアでは […]",
+          "link": "https://switchsoku.com/switch/97924",
+          "publishedOn": "2024-02-07T12:00:50.000Z",
+          "wordCount": 10141,
+          "title": "任天堂「より多くのお客様により長くSwitchを遊んでいただけるようにする」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/07/el-switch-4.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97922",
           "author": "SWITCH速報",
           "description": "1: 2024/02/07(水) 02:52:44.72 ID:8wTa4DVP0 実況も盛り上がり […]",
@@ -5126,16 +5151,6 @@
           "wordCount": 9960,
           "title": "『ニンテンドッグス』をSwitchやりたい！！！",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/01/nintendogs.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96916",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/08(月) 23:12:14.93 ID:mOw80gMRd 任天堂は今年「S […]",
-          "link": "https://switchsoku.com/leak/96916",
-          "publishedOn": "2024-01-09T00:00:07.000Z",
-          "wordCount": 10194,
-          "title": "CNBCが「任天堂は今年､Switch2を発売する予定」と報道",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2lkt.webp"
         }
       ]
     },
@@ -5855,6 +5870,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351441000.html",
+          "author": null,
+          "description": "岡山県に住む性同一性障害の当事者が行った手術なしでの性別変更の申し立てについて、家庭裁判所が7日認める決定を出しました。去年10月に示された最高裁判所大法廷の判断に沿ったもので、2度目の申し立てで認められた当事者が喜びを語りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351441000.html",
+          "publishedOn": "2024-02-07T12:17:20.000Z",
+          "wordCount": 467,
+          "title": "性同一性障害 2度目の性別変更申し立て 家裁が認める決定 岡山",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351441_2402072115_0207211722_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351511000.html",
+          "author": null,
+          "description": "7日午後8時59分ごろ、和歌山県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351511000.html",
+          "publishedOn": "2024-02-07T12:16:07.000Z",
+          "wordCount": 218,
+          "title": "【地震速報】和歌山県北部で震度4",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351511_2402072108_0207211806_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351111000.html",
+          "author": null,
+          "description": "岸田総理大臣は衆議院予算委員会で、自民党の派閥の政治資金パーティーをめぐる問題について、関係議員からの聴き取りや党所属議員へのアンケートを通じて実態を把握した上で、政治的な責任を判断する考えを、重ねて示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351111000.html",
+          "publishedOn": "2024-02-07T11:57:13.000Z",
+          "wordCount": 563,
+          "title": "衆院予算委 岸田首相 政治資金“実態把握し政治的責任を判断”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351111_2402071836_0207185514_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350831000.html",
           "author": null,
@@ -21704,26 +21749,6 @@
           "wordCount": 627,
           "title": "株価 一時600円以上値上がり 3万3900円台に バブル期以来",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314401_2401090914_0109094048_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314281000.html",
-          "author": null,
-          "description": "アメリカのオースティン国防長官の入院が3日間、バイデン大統領に伝えられていなかったとして批判の声が上がっていることについて、ホワイトハウスの高官は大統領にオースティン長官を更迭する意向はないと明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314281000.html",
-          "publishedOn": "2024-01-09T00:21:37.000Z",
-          "wordCount": 656,
-          "title": "米高官 “バイデン大統領 入院の国防長官を更迭する意向なし”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314281_2401090918_0109092140_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314291000.html",
-          "author": null,
-          "description": "1974年のサッカーワールドカップで当時の西ドイツを優勝に導き「皇帝」と呼ばれた名選手、フランツ・ベッケンバウアーさんが死去しました。78歳でした。",
-          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314291000.html",
-          "publishedOn": "2024-01-09T00:09:55.000Z",
-          "wordCount": 980,
-          "title": "サッカー 「皇帝」ベッケンバウアーさん死去 旧西ドイツ名選手",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314291_2401090908_0109090924_01_02.jpg"
         }
       ]
     },
@@ -26985,16 +27010,6 @@
           "wordCount": 1617,
           "title": "飼い主さんに赤ちゃん猫をたっぷり抱っこさせてくれるお母さん猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66179.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66211",
-          "author": "299",
-          "description": "お母さんが呼ぶと豆大福が一直線に駆け足で近寄ってきました。かなりガチムチボディの豆大福が、ポテポテと走ってくるところはとてもコミカルで可愛らしいです。 お母さんに頭をヨシヨシしてもらってご満悦な表情の豆大福です。大好きな...\nかわるがわるお母さんのお腹の上に乗ってきて甘えるニャンズ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66211",
-          "publishedOn": "2024-01-09T00:00:29.000Z",
-          "wordCount": 1616,
-          "title": "かわるがわるお母さんのお腹の上に乗ってきて甘えるニャンズ",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66211.jpeg"
         }
       ]
     },
@@ -28508,16 +28523,6 @@
           "wordCount": 822,
           "title": "有機EL版iPad Pro、常時表示と高輝度、長寿命かつ薄くて軽いと著名アナリスト予測",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2083255906-1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=65234",
-          "author": "PHILE WEB編集部",
-          "description": "米アップルは、“空間コンピュータ”を謳うヘッドセット「Apple Vision Pro」を、2月2日（金）より米国のApple Store全店とオンラインのApple Storeで販売すると発表した。 予約受付は、太平洋標準時の1月19日（金）午前5時から開始する。本体の価格は256GBモデルの場合 […]",
-          "link": "https://gadget.phileweb.com/post-65234/",
-          "publishedOn": "2024-01-09T00:01:43.000Z",
-          "wordCount": 795,
-          "title": "米アップル、「Apple Vision Pro」を2月2日発売。3499ドルから",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/vision-pro-2.jpg"
         }
       ]
     },
@@ -28900,6 +28905,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032879.html",
+          "author": "damono3856",
+          "description": "1 名前：800坂 ★：2024/02/07(水) 12:25:02.77 ID:A9YlT4f19.net\n\n\n\n\n\n\n\n何が史上最強だ…。サッカー日本代表、アジア杯でワースト記録連発むしろ史上最弱クラス？【アジアカップ2023】https://t.co/DCNsZbwDsi— フットボールチャンネル⚽️ (@foot_ch) February 4, 20...",
+          "link": "https://itainews.com/archives/2032879.html",
+          "publishedOn": "2024-02-07T12:06:21.000Z",
+          "wordCount": 2466,
+          "title": "【サッカー】何が史上最強だ…。サッカー日本代表、アジア杯でワースト記録連発。むしろ史上最弱クラス？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/731ef795-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032872.html",
           "author": "damono3856",
