@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T02:26:36.645Z</updated>
+    <updated>2024-02-07T02:36:49.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[将棋「王将戦」第4局 藤井八冠 防衛か 菅井八段が1勝返すか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240207/k10014350311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014350311000.html"/>
+        <updated>2024-02-07T02:33:50.000Z</updated>
+        <summary type="html"><![CDATA[将棋の八大タイトルの1つ、「王将戦」の第4局が都内で始まり、ここまで3連勝している藤井聡太八冠（21）がタイトル防衛を決めるか、挑戦者の菅井竜也八段（31）が1勝を返すか注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、「iPhone 16」の新ボタンで高級デジカメのように2段階シャッター機能を実現か]]></title>
         <id>https://gadget.phileweb.com/?p=68198</id>
