@@ -5786,6 +5786,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350891000.html",
+          "author": null,
+          "description": "秋田県内では今年度、クマに襲われるなどしてけがをした人は1月末までで70人に上り、過去最悪となりました。このうち、秋田市の大学病院に搬送された重傷患者の9割は顔にけがを負っていたことが大学への取材で明らかになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350891000.html",
+          "publishedOn": "2024-02-07T08:27:22.000Z",
+          "wordCount": 729,
+          "title": "秋田 今年度 クマ被害70人で過去最悪 重傷患者の9割が顔にけが",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350891_2402071718_0207172242_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350791000.html",
+          "author": null,
+          "description": "能登半島地震で被災した人たちを励まそうと、鹿児島県の漁業関係者らが金沢市の避難所を訪れ、避難している人たちに鹿児島県産の養殖ブリを使った料理をふるまいました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350791000.html",
+          "publishedOn": "2024-02-07T08:06:08.000Z",
+          "wordCount": 733,
+          "title": "金沢 避難所に養殖ブリの料理 鹿児島県の漁業関係者らふるまう",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350791_2402071650_0207165958_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350851000.html",
           "author": null,
           "description": "首都高速道路は、5日からの雪の影響で、一部で通行止めが続いていましたが、雪を取り除く作業が終わり安全が確認できたとして、午後4時半にすべて解除されました。",
@@ -21634,16 +21654,6 @@
           "wordCount": 777,
           "title": "能登半島地震 活発な地震活動続く 被災地では厳しい冷え込みに",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314271_2401090533_0109054736_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014314171000.html",
-          "author": null,
-          "description": "今月1日の能登半島地震で震度6強の揺れを観測した、石川県輪島市の中心部「朝市通り」で発生した大規模な火災現場で、9日から警察が集中的な捜索を行い、遺留品などを探すことにしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014314171000.html",
-          "publishedOn": "2024-01-08T20:28:59.000Z",
-          "wordCount": 706,
-          "title": "輪島「朝市通り」の火災現場 きょうから100人態勢で集中捜索へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314171_2401082109_0109052822_01_02.jpg"
         }
       ]
     },
@@ -21652,6 +21662,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235380",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Motto）」へ進撃 […]",
+          "link": "https://foodfighter.jp/hottomotto-chuka-ankake-omori",
+          "publishedOn": "2024-02-07T08:28:35.000Z",
+          "wordCount": 1901,
+          "title": "【ほっともっと】中華あんかけごはん・ライス大盛り【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/53345c455adde16a7efe816000299b4f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235352",
           "author": "foodfighter",
