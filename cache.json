@@ -2789,21 +2789,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120348/",
-          "author": null,
-          "description": "「劇場版 SPY×FAMILY CODE: White」の第2弾入場特典（入場者プレゼント）、フォージャー家を収めた新場面写真などが発表された。英語字幕版での上映も決定した。第2弾入場特典として...",
-          "link": "https://anime.eiga.com/news/120348/",
-          "publishedOn": "2024-01-09T10:00:00.000Z",
-          "wordCount": 848,
-          "title": "「劇場版SPY×FAMILY」第2弾入場特典は“3Dアーニャ”が飛び出すARイラストカード　新場面写真も公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5081,16 +5066,6 @@
           "wordCount": 10098,
           "title": "就職人気企業ランキング‥任天堂４位に",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/05/nintendou-corporate.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96930",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/07(日) 12:50:24.14 ID:2VLjY 宮本 たとえば開発すると […]",
-          "link": "https://switchsoku.com/nintendo/96930",
-          "publishedOn": "2024-01-09T10:00:41.000Z",
-          "wordCount": 10029,
-          "title": "宮本茂「ゲームのキャラを表現する時に2Dより3Dの方が楽」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/miyamoto-itoi.webp"
         }
       ]
     },
@@ -5840,6 +5815,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351671000.html",
+          "author": null,
+          "description": "7日のニューヨーク株式市場は、企業業績の先行きへの期待などから買い注文が増え、ダウ平均株価は値上がりし、史上最高値を更新しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014351671000.html",
+          "publishedOn": "2024-02-07T21:56:37.000Z",
+          "wordCount": 724,
+          "title": "NYダウ平均株価 史上最高値を更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351671_2402080653_0208065639_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351481000.html",
           "author": null,
@@ -21559,16 +21544,6 @@
           "wordCount": 943,
           "title": "能登半島地震 道路復旧進むも “普段の2倍の時間” 現状は？",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014314751_2401091902_0109192136_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240109/k10014315261000.html",
-          "author": null,
-          "description": "能登半島地震による液状化で大きな被害が出た新潟市西区を専門家が調査したところ、川を埋め立てて造成した場所が被害を受けたことなどがわかりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240109/k10014315261000.html",
-          "publishedOn": "2024-01-09T10:10:15.000Z",
-          "wordCount": 753,
-          "title": "能登半島地震による液状化 川の埋め立て地が被害 新潟 西区",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240109/K10014315261_2401091834_0109191017_01_02.jpg"
         }
       ]
     },
@@ -23261,6 +23236,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68053",
+          "author": "299",
+          "description": "まだ目が完全に開き切っていない赤ちゃん猫たちが4匹並んで座っています。1匹だけクリーム色で残り3匹はグレーの可愛い子たちです。 ママ猫を呼んでいるのか、時々ミャーと声をあげています。どの子も毛がホワホワしていて顔も体もま...\n毛玉みたいな赤ちゃん猫たちにハートを鷲掴みにされました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68053",
+          "publishedOn": "2024-02-07T22:00:15.000Z",
+          "wordCount": 1403,
+          "title": "毛玉みたいな赤ちゃん猫たちにハートを鷲掴みにされました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68053.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68049",
           "author": "299",
@@ -32164,16 +32149,6 @@
           "wordCount": 2496,
           "title": "れいわ新選組　「避難所で亡くなった方は、国に殺された」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/8/b8f69628-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032026.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(やわらか銀行) [US]：2024/01/08(月) 09:21:23.44 ID:O3DOCVn80.net\n\n\n\n\n\n\n\n\n\n\n「水道水は不衛生だから受け取れない？」「大型犬は入れない」混乱の避難所で試される各々の判断。「水道が通らなければ学校は再開しないそう。夜はスマホでSNS...",
-          "link": "https://itainews.com/archives/2032026.html",
-          "publishedOn": "2024-01-09T10:01:59.000Z",
-          "wordCount": 2621,
-          "title": "【能登】4㍑焼酎ボトル20本を寄付しに来た男が登場、市職員は善意を受取拒否",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/e/de789936-s.png"
         }
       ]
     },
