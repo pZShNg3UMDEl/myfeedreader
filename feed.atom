@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T17:25:54.744Z</updated>
+    <updated>2024-02-07T17:36:06.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NIST develops SNSPD detector array for mid-IR]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/02/nist-develops-snspd-detector-array-for.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/02/nist-develops-snspd-detector-array-for.html"/>
+        <updated>2024-02-07T17:28:00.001Z</updated>
+        <summary type="html"><![CDATA[Phys.org covered a recently published paper titled "A 64-pixel mid-infrared single-photon imager based on superconducting nanowire detectors" by a team from NIST in the journal Applied Physics Letters. 
+Abstract:
+
+A large-format mid-infrared single-photon imager with very low dark 
+count rates would enable a broad range of applications in fields like 
+astronomy and chemistry. Superconducting nanowire single-photon 
+detectors (SNSPDs) are a mature photon-counting technology as 
+demonstrated by their figures of merit such as high detection 
+efficiencies and very low dark count rates. However, scaling SNSPDs to 
+large array sizes for mid-infrared applications requires sophisticated 
+readout architectures in addition to superconducting materials 
+development. In this work, an SNSPD array desig…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小さな容器の中ではしゃぐ子猫が可愛い]]></title>
         <id>https://2-9-9.com/?p=68088</id>
@@ -37411,16 +37432,6 @@ TENGAさんが毎年「お典雅（年賀）」として、非常にたいそう
         <summary type="html"><![CDATA[アップルが空間コンピュータことMRヘッドセット「Apple Vision Pro」を米国で2月2日から発売すると発表したことは、既報の通りだ。記事執筆時点では、米国外での発売予定につき言及はなく、日本での発売時期も不明のままだ。 その一方で、発売日の公式リリースや、更新された製品ページには、発表時に […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪・関西万博 能登半島地震も“予定どおり開催”林官房長官]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240109/k10014314661000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240109/k10014314661000.html"/>
-        <updated>2024-01-09T05:32:33.000Z</updated>
-        <summary type="html"><![CDATA[来年開催される大阪・関西万博について、林官房長官は記者会見で今回の能登半島地震による延期の可能性を問われたのに対し、予定どおり開催できるよう引き続き準備を進めていく考えを強調しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
