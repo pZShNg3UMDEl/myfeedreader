@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120536/",
+          "author": null,
+          "description": "「無職転生II ～異世界行ったら本気だす～」の第2クールが4月7日から放送されることが決まり、キービジュアルとティザーPVが公開された。 ティザービジュアルは、主人公ルーデウスの2人の妹、ノルン...",
+          "link": "https://anime.eiga.com/news/120536/",
+          "publishedOn": "2024-02-08T12:00:00.000Z",
+          "wordCount": 751,
+          "title": "「無職転生」2期・第2クールの新ビジュアル公開　新PVはルーデウスとシルフィの軌跡を振り返り",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120556/",
           "author": null,
           "description": "2021年に放送された短編オリジナルアニメ「空色ユーティリティ」のテレビシリーズ化が決まり、第1弾スタッフ＆キャストが発表された。3人の少女の後ろ姿を収めたティザービジュアルも公開されている。 ...",
@@ -2813,6 +2828,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97959",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/06(火) 21:57:14.17 ID:oOtA2 ノーマルモードでボスに何 […]",
+          "link": "https://switchsoku.com/gossip/97959",
+          "publishedOn": "2024-02-08T12:00:41.000Z",
+          "wordCount": 10020,
+          "title": "『メトロイドドレッド』のハードモードやってて思ったけど、死にゲーって何が楽しいの？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/10/E3_2021_metroid-dread.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97957",
           "author": "SWITCH速報",
           "description": "1: 2024/02/08(木) 09:36:13.87 ID:gN7al3am0 『ファイナルファ […]",
@@ -5111,16 +5136,6 @@
           "wordCount": 10061,
           "title": "桜井政博「当番組は今年(2024年)終わる予定です」‥あ、察し",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/sakurai-game.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96944",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/09(火) 20:09:28.35 ID:9ydQYZGH0 2: 2024/ […]",
-          "link": "https://switchsoku.com/gossip/96944",
-          "publishedOn": "2024-01-10T00:00:03.000Z",
-          "wordCount": 10371,
-          "title": "スマブラ桜井「ムービーがスキップ･一時停止できないのは今風ではない」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/WUwvamF.webp"
         }
       ]
     },
@@ -5129,6 +5144,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS1qLgofM70kUlI1Wu5uqxg",
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RUYg5ZxM7h8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RUYg5ZxM7h8",
+          "publishedOn": "2024-02-08T12:01:07.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】次のガチャは新世代回復武器!?2月14日のガチャは大注目です!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xf0un9wAoeE",
           "author": null,
@@ -5860,6 +5885,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014352661000.html",
+          "author": null,
+          "description": "先月の能登半島地震について、気象庁はマグニチュード7.6の地震の2分後にマグニチュード5.7の別の地震が起き、石川県内で最大震度6弱の揺れを観測していたことが新たにわかったと発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014352661000.html",
+          "publishedOn": "2024-02-08T11:57:11.000Z",
+          "wordCount": 626,
+          "title": "能登半島地震 M7.6の地震の2分後にM5.7の別の地震発生 気象庁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014352661_2402082027_0208204649_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014352531000.html",
+          "author": null,
+          "description": "ロシアによるウクライナ侵攻を批判し、来月行われるロシアの大統領選挙への立候補に向けた手続きを進めているナデジディン元下院議員について中央選挙管理委員会は8日、一部の署名に不備があったとして立候補は認められないとする判断を下しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014352531000.html",
+          "publishedOn": "2024-02-08T11:47:00.000Z",
+          "wordCount": 703,
+          "title": "ロシア大統領選 立候補表明の元下院議員の立候補認めず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014352531_2402081929_0208195418_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240208/k10014352061000.html",
           "author": null,
@@ -23433,16 +23478,6 @@
           "wordCount": 2684,
           "title": "ユニット数削減に貢献する、4.5kV IGBTモジュール",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/11/cover_news080.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/10/news049.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、GaN HEMTとゲートドライバーを搭載したSiP「MasterGaN1L」「MasterGaN4L」を発表した。ハーフブリッジ構成で接続した、2個のGaN HEMTを内蔵している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/10/news049.html",
-          "publishedOn": "2024-01-10T00:00:00.000Z",
-          "wordCount": 2664,
-          "title": "ゲートドライバーと2つのGaN HEMTを搭載したSiP",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/10/cover_news049.jpg"
         }
       ]
     },
@@ -26980,16 +27015,6 @@
           "wordCount": 1622,
           "title": "車屋に迷い込んでしまった子猫の救出方法が秀逸過ぎた",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66236.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66271",
-          "author": "299",
-          "description": "お父さんの膝の上でまんまるに丸まってぐっすりと眠りこけている子猫を、お父さんがそっと両手で持ち上げてカーペットの上に置いてみます。 すると子猫は床の上に置かれた瞬間に目を覚まして周囲をくるくると見回すとすぐにお父さんの膝...\n何度でも膝の上に戻ってくる猫が可愛い first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66271",
-          "publishedOn": "2024-01-10T00:00:46.000Z",
-          "wordCount": 1616,
-          "title": "何度でも膝の上に戻ってくる猫が可愛い",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66271.jpeg"
         }
       ]
     },
@@ -27004,6 +27029,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=68452",
+          "author": "編集部：伴 修二郎",
+          "description": "OPPOは、同社5Gスマートフォン「OPPO A79 5G」を2月15日より順次発売する。同社オンラインストアでの価格は29,800円（税込）。 “OPPO Aシリーズ”の新モデルとして、シリーズ初のFeliCa対応や、約6.7インチの大画面ディスプレイの搭載、5,000mAhの大容量バッテリー、マ […]",
+          "link": "https://gadget.phileweb.com/post-68452/",
+          "publishedOn": "2024-02-08T11:57:30.000Z",
+          "wordCount": 788,
+          "title": "OPPO、“Aシリーズ”初のFeliCa対応5Gスマートフォン「A79 5G」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/samune.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=68400",
           "author": "Munenori Taniguchi",
@@ -28905,6 +28940,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032909.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/02/08(木) 12:04:01.62 ID:JdISCisK0●.net\n\n\n\n\n\n\n\nワリエワ、禁止薬物は「祖父のイチゴのデザート」原因か　CAS発表「祖父の主張以外に証拠なし」（THE ANSWER） https://t.co/XlMwEQYM6J— ティグレ (@Masked_Tigre) February 8,...",
+          "link": "https://itainews.com/archives/2032909.html",
+          "publishedOn": "2024-02-08T12:04:48.000Z",
+          "wordCount": 2400,
+          "title": "ロシアのドーピング、無罪か　偶然デザートに禁止薬物が落っこちただけ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/4/84a7f2c1-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032905.html",
           "author": "damono3856",
