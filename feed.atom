@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T10:28:41.759Z</updated>
+    <updated>2024-02-08T10:38:51.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島「白米千枚田」復旧へ 家族を亡くした男性が活動再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014352501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014352501000.html"/>
+        <updated>2024-02-08T10:23:09.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害が確認されている石川県輪島市の観光名所「白米千枚田」を復旧し、景観を守っていこうと、地震で妻と長男を亡くした男性が活動を再開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャニーズ性加害問題「当事者の会」副代表が救済委員会と面談]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240208/k10014352491000.html</id>
@@ -37486,16 +37496,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
         <summary type="html"><![CDATA[世界銀行は、2024年の世界経済の成長率は2.4％と、去年と比べて0.2ポイント低くなるという見通しを明らかにしました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マクドナルド】ベルギーショコラパイ【期間限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=232468</id>
-        <link href="https://foodfighter.jp/mcdonalds-hot-pie-chocolate-2024"/>
-        <updated>2024-01-09T22:33:20.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
