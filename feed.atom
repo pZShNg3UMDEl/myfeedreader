@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T19:35:37.639Z</updated>
+    <updated>2024-02-08T19:50:32.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NY市場 一時149円台半ばまで値下がり 日銀副総裁の発言で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240209/k10014353001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240209/k10014353001000.html"/>
+        <updated>2024-02-08T19:20:53.000Z</updated>
+        <summary type="html"><![CDATA[8日のニューヨーク外国為替市場では、日銀の内田副総裁がマイナス金利を解除する場合でも緩和的な金融環境を維持するという見通しを示したことを受けて円安が進み、円相場は一時、およそ2か月半ぶりに1ドル＝149円台半ばまで値下がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫島のボランティアさんの膝の上は猫の親子でギュウギュウです]]></title>
         <id>https://2-9-9.com/?p=68160</id>
