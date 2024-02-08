@@ -5317,6 +5317,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9504",
+          "author": "watanabe@logipara.com",
+          "description": "本日、2024年でいちばん役に立つであろう知識を仕入れたので共有します。 　 　 　 　 　 　 「アデランス」の社名の由来は、 フランス語で「くっついている」",
+          "link": "https://logipara.com/diary-text/2024-02-09",
+          "publishedOn": "2024-02-08T11:39:08.000Z",
+          "wordCount": 4414,
+          "title": "今日の豆知識",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9492",
           "author": "watanabe@logipara.com",
           "description": "本日紹介するゲームは「Against the Storm」。 2023年年末から本日まで、私ワタナベがドハマリしているゲームです！みんなハマれ！ このゲーム、「ローグライク系シティビルド」ゲームです。 ただのシティビルド […]",
@@ -5850,6 +5860,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014352061000.html",
+          "author": null,
+          "description": "能登半島地震で被災して石川県などからほかの都道府県へ避難したり避難することが決まったりしている人は、自治体が把握しているだけで全国30の都道府県で937人に上ることがNHKのまとめでわかりました。もとの自治体からの支援に関する情報が乏しく不安を訴える被災者もいて、専門家は「自治体間で情報を共有する体制作りを急ぐべきだ」と指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014352061000.html",
+          "publishedOn": "2024-02-08T11:05:46.000Z",
+          "wordCount": 1050,
+          "title": "能登半島地震 県外への避難者 少なくとも30都道府県937人",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014352061_2402081807_0208182927_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240208/k10014352611000.html",
           "author": null,
