@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T08:15:55.453Z</updated>
+    <updated>2024-02-08T08:36:31.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[奈良 桜井「三輪素麺」作り最盛期 寒い時期にコシの強いめんに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014352231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014352231000.html"/>
+        <updated>2024-02-08T08:16:27.000Z</updated>
+        <summary type="html"><![CDATA[奈良県桜井市で、特産の「三輪素麺」作りが最盛期を迎えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】けずりチーズのせ トマトソースのオムライス【新作コンビニ弁当】]]></title>
         <id>https://foodfighter.jp/?p=235472</id>
@@ -37392,26 +37402,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
         <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315651000.html"/>
         <updated>2024-01-09T20:39:14.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震を受けた政府の対応をめぐり、岸田総理大臣は、適切な支援を着実に進めていく上で被災地の実情を直接把握したいとして、早ければ今週13日にも現地を視察する方向で検討しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年の世界の平均気温 “過去最高”と発表 EUの気象情報機関]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014315691000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315691000.html"/>
-        <updated>2024-01-09T20:23:54.000Z</updated>
-        <summary type="html"><![CDATA[去年1年間の世界の平均気温はこれまでで最も高かったとEU＝ヨーロッパ連合の気象情報機関が発表しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[志賀原発 “地震発生後 約1～3mの津波が複数回到達” 北陸電力]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014315671000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315671000.html"/>
-        <updated>2024-01-09T20:19:58.000Z</updated>
-        <summary type="html"><![CDATA[北陸電力は、石川県志賀町にある志賀原子力発電所で、今月1日の地震発生後、およそ1メートルから3メートルの津波が、複数回到達していたことが分かったと発表しました。いずれも敷地の高さを下回っていて、この津波による安全性への影響はないとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
