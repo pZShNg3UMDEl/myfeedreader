@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T17:37:29.645Z</updated>
+    <updated>2024-02-08T17:50:39.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゼレンスキー大統領 ウクライナ軍の総司令官交代を発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240209/k10014352991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240209/k10014352991000.html"/>
+        <updated>2024-02-08T17:44:13.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナのゼレンスキー大統領は8日、軍の新しい総司令官を任命したと発表し、ザルジニー総司令官の解任を明らかにしました。これまで軍事作戦の指揮をとってきたザルジニー氏は、戦況の認識などを巡ってゼレンスキー大統領と意見が対立するなど、あつれきも生じていると指摘されていました。ロシアによる軍事侵攻が始まって今月で2年となる中、軍の総司令官が交代することで、戦況に与える影響は避けられないとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バスケ女子 パリ五輪最終予選の初戦 日本はスペインに快勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240209/k10014352891000.html</id>
