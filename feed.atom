@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T21:12:12.371Z</updated>
+    <updated>2024-02-08T21:22:19.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】焼肉＆唐揚げごはん【新作コンビニ弁当】]]></title>
+        <id>https://foodfighter.jp/?p=235519</id>
+        <link href="https://foodfighter.jp/711sej-yakiniku-karaage-gohan"/>
+        <updated>2024-02-08T21:18:05.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「焼肉＆唐揚げごはん」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JRで線路のケーブル100本以上が切断 一時運転見合わせも 山口]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240209/k10014352931000.html</id>
@@ -37380,16 +37390,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
         <link href="http://www3.nhk.or.jp/news/html/20240110/k10014316311000.html"/>
         <updated>2024-01-10T09:32:11.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震で住宅が被災した人たちの避難生活が続く中、ホテルや旅館などで被災者を受け入れる動きが広がっています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[災害関連死 “我慢で高まるリスク 体力あるうちに対策を”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014316151000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014316151000.html"/>
-        <updated>2024-01-10T09:13:41.000Z</updated>
-        <summary type="html"><![CDATA[地震の揺れや津波による直接的な被害で亡くなるのではなく、その後の避難生活で病気が悪化したり体調を崩したりして命が失われる「災害関連死」。８年前の熊本地震では、地震で直接死亡した人の4倍を超え、大きな課題になりました。これからの犠牲を1人でも少なくするために。「災害関連死」のリスクと対策は。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
