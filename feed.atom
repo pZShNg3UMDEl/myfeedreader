@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T21:22:19.754Z</updated>
+    <updated>2024-02-08T21:36:18.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル ハマスの休戦提案拒否 交渉まとまるか先行き不透明]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240209/k10014352871000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240209/k10014352871000.html"/>
+        <updated>2024-02-08T21:22:28.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区での戦闘の休止と人質の解放に向けた交渉を巡り、イスラエル側は、完全な停戦などを求めるイスラム組織ハマスからの提案を拒否する姿勢を示しました。ハマスは仲介するカタールやエジプトと協議を続けていますが、交渉がまとまるには少なくとも10日かかるとの見方も伝えられていて先行きは不透明です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】焼肉＆唐揚げごはん【新作コンビニ弁当】]]></title>
         <id>https://foodfighter.jp/?p=235519</id>
@@ -37382,16 +37392,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
         <summary type="html"><![CDATA[1: 2024/01/10(水) 12:29:58.18 ID:PGxwrI70d 任天堂、時価総額 […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「被災者に安心して寝泊まりできる場所を」宿泊施設が名乗り]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014316311000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014316311000.html"/>
-        <updated>2024-01-10T09:32:11.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震で住宅が被災した人たちの避難生活が続く中、ホテルや旅館などで被災者を受け入れる動きが広がっています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
