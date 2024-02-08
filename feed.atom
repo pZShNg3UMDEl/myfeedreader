@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T05:37:55.004Z</updated>
+    <updated>2024-02-08T05:50:25.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 自民党執行部と会談 政治資金問題受け対応協議]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014352041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014352041000.html"/>
+        <updated>2024-02-08T05:47:30.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣は自民党の麻生副総裁や茂木幹事長ら執行部のメンバーと会談し、派閥の政治資金パーティーをめぐる問題を受けて行われている聴き取りの進捗（しんちょく）状況などを確認し、今後の対応を協議しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香川 徳島 早明浦ダム 貯水率低下で第一次取水制限始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014351951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014351951000.html"/>
+        <updated>2024-02-08T05:38:09.000Z</updated>
+        <summary type="html"><![CDATA[香川県や徳島県の主な水源となっている早明浦ダムの貯水率が低下しているため、8日から第一次取水制限が始まりました。これに合わせて香川県庁には節水を呼びかける看板が設置されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウェザーニュースに深刻なユーザー離れの危機…“弱者男性ビジネス”の限界か]]></title>
         <id>https://itainews.com/archives/2032898.html</id>
