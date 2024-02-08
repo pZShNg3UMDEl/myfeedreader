@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T11:20:25.720Z</updated>
+    <updated>2024-02-08T11:35:32.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -33,6 +33,16 @@
 哺乳瓶からうまくミルクが飲めずブチギレる子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島の北西の沖合 大地震後に海底が3m隆起 海上保安庁調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014352611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014352611000.html"/>
+        <updated>2024-02-08T10:58:36.000Z</updated>
+        <summary type="html"><![CDATA[能登半島の北西の沖合では先月の大地震のあと海底がおよそ3メートル隆起していたことが海上保安庁の調査で分かりました。隆起した範囲が活断層の位置とも一致していることから、海上保安庁は今回の地震によって隆起したと考えられるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -37535,16 +37545,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
         <summary type="html"><![CDATA[STマイクロエレクトロニクスは、GaN HEMTとゲートドライバーを搭載したSiP「MasterGaN1L」「MasterGaN4L」を発表した。ハーフブリッジ構成で接続した、2個のGaN HEMTを内蔵している。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去年11月の実質賃金 前年同月比3％減 20か月連続でマイナス]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014315461000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014315461000.html"/>
-        <updated>2024-01-09T23:34:26.000Z</updated>
-        <summary type="html"><![CDATA[物価の上昇が続くなか、去年11月の働く人1人あたりの実質賃金は前の年の同じ月と比べて3％の減少となり、20か月連続のマイナスとなりました。現金給与総額は過去最長に並ぶ23か月連続のプラスとなりましたが、賃金の引き上げが物価の上昇に追いつかない状況が続いています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
