@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T02:18:06.292Z</updated>
+    <updated>2024-02-08T02:35:26.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日経平均株価 一時600円以上値上がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014351781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014351781000.html"/>
+        <updated>2024-02-08T02:25:45.000Z</updated>
+        <summary type="html"><![CDATA[8日の東京株式市場、日経平均株価は一時、600円以上値上がりしています。7日のニューヨーク市場で、主要な株価指数がいずれも上昇したことを受けて、半導体関連の銘柄などに買い注文が出ていることに加え、奈良市で開かれている懇談会での日銀の内田副総裁の発言をきっかけに、買い注文が増えた形です。市場関係者は「午前中に日銀の内田副総裁が『仮にマイナス金利を解除してもその後にどんどん利上げしていくようなパスは考えにくく、緩和的な金融環境を維持していくことになる』と述べたことも、値上がりにつながっている」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去年1年間の刑法犯罪認知件数 約70万3000件 前年比10万件超増]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240208/k10014351721000.html</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[警察庁は去年1年間の犯罪情勢を公表し、このうち刑法犯罪の認知件数はおよそ70万3000件と、おととしを10万件以上、上回りました。ネットバンキングを狙った不正送金や、児童虐待の通告件数も過去最多となるなど、警察庁は「犯罪情勢は厳しい状況にある」としています。]]></summary>
         <author>
             <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ほっともっと】海鮮中華あんかけかた焼きそば【期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=235448</id>
+        <link href="https://foodfighter.jp/hottomotto-kaisen-ankake-yakisoba"/>
+        <updated>2024-02-08T02:04:16.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Motto）」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
         </author>
     </entry>
     <entry>
@@ -4403,6 +4423,16 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
 子猫のオスカーとカズくんは心が通じあっています first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR: 3Dプリンター活用をもっと身近に！　「3D-FABs」が選ばれる理由とは]]></title>
+        <id>https://monoist.itmedia.co.jp/mn/articles/2401/24/news005.html</id>
+        <link href="https://monoist.itmedia.co.jp/mn/articles/2401/24/news005.html"/>
+        <updated>2024-02-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オリックス・レンテックが2023年5月に提供を開始した3Dプリントの造形シミュレーションサービス「3D-FABs」。手持ちの3D CADデータを使って造形の可否判定から費用の概算までワンストップかつ無料でできるWebサービスだ。利用者の反応やユースケース、金属3Dプリンター活用のトレンドを担当者に聞いた。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
