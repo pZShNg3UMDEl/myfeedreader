@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T09:35:55.179Z</updated>
+    <updated>2024-02-08T09:50:27.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[将棋「王将戦」第4局 藤井聡太八冠 ことし最初のタイトル防衛]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014352471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014352471000.html"/>
+        <updated>2024-02-08T09:35:17.000Z</updated>
+        <summary type="html"><![CDATA[将棋の八大タイトルの一つ、「王将戦」の第4局が都内で行われ、藤井聡太 八冠（21）が挑戦者の菅井竜也 八段（31）に勝ち、ことし最初のタイトル防衛を果たしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本航空 14年ぶりに貨物専用機の運航開始へ 新たな機体を公開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014352461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014352461000.html"/>
+        <updated>2024-02-08T09:33:31.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍以降、航空機での貨物輸送の需要が高まっていることから、日本航空は事業拡大に向けて今月から14年ぶりに貨物専用機の運航を始めることになり8日、新たな機体が公開されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「非正規春闘」派遣社員など“正規雇用同様 大幅賃上げを”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240208/k10014352361000.html</id>
