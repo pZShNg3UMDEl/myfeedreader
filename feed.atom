@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T03:14:01.268Z</updated>
+    <updated>2024-02-08T03:24:57.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 能登町でもきょうからボランティア活動開始 県内外から]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240208/k10014351791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014351791000.html"/>
+        <updated>2024-02-08T03:20:26.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県能登町で、8日から県内外から集まったボランティアの活動が始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、縦折りiPhoneを2つ開発中？ 折りたたみiPad miniも進行中か]]></title>
         <id>https://gadget.phileweb.com/?p=68353</id>
