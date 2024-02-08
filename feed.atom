@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T17:12:58.508Z</updated>
+    <updated>2024-02-08T17:27:17.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バスケ女子 パリ五輪最終予選の初戦 日本はスペインに快勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240209/k10014352891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240209/k10014352891000.html"/>
+        <updated>2024-02-08T17:17:39.000Z</updated>
+        <summary type="html"><![CDATA[パリオリンピックの出場権がかかるバスケットボール女子の世界最終予選の初戦で日本はスペインに86対75で快勝し、3大会連続のオリンピック出場に向けて好スタートを切りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【石川 給水支援情報】輪島・珠洲など9市町で実施（9日）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240209/k10014352961000.html</id>
@@ -37493,26 +37503,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
         <summary type="html"><![CDATA[1: 2024/01/09(火) 15:30:30.40 ID:e2fai3jr0 アンリアルエンジ […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通常国会 26日召集の方針決定と政府から連絡 自民幹部]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014316221000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014316221000.html"/>
-        <updated>2024-01-10T05:22:18.000Z</updated>
-        <summary type="html"><![CDATA[ことしの通常国会について、自民党の幹部は政府から今月26日に召集する方針を決めたと連絡があったことを明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch販売禁止の解決は和解がベスト？しかし莫大な支払が発生する可能性]]></title>
-        <id>https://gadget.phileweb.com/?p=65435</id>
-        <link href="https://gadget.phileweb.com/post-65435/"/>
-        <updated>2024-01-10T05:21:35.000Z</updated>
-        <summary type="html"><![CDATA[米国にて、「Apple Watch Series 9」と「Apple Watch Ultra 2」が医療機器会社Masimoの特許を侵害したとして米ITC（国際貿易委員会）が裁定し、輸入・販売禁止となった。アップルが控訴して一時的に解除され、もっか特許問題を回避できるソフトウェア・アップデートを準備 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
