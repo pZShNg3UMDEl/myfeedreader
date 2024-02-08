@@ -5861,6 +5861,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014352981000.html",
+          "author": null,
+          "description": "来月に行われるロシアの大統領選挙で、ウクライナへの軍事侵攻を批判するナデジディン元下院議員の立候補が認められませんでした。プーチン大統領は国内の反対勢力を抑え込み圧勝を目指す構えです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014352981000.html",
+          "publishedOn": "2024-02-08T20:16:43.000Z",
+          "wordCount": 668,
+          "title": "プーチン氏大統領選圧勝目指す構え 元下院議員の立候補認めず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014352981_2402090158_0209015923_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353001000.html",
           "author": null,
           "description": "8日のニューヨーク外国為替市場では、日銀の内田副総裁がマイナス金利を解除する場合でも緩和的な金融環境を維持するという見通しを示したことを受けて円安が進み、円相場は一時、およそ2か月半ぶりに1ドル＝149円台半ばまで値下がりしました。",
@@ -28413,26 +28423,6 @@
           "wordCount": 744,
           "title": "＜CES＞キヤノン、小型軽量の「MRゴーグル」試作機を展示。DIGIC搭載など技術活用",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/DSC_4721.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=65474",
-          "author": "編集部：平山洸太",
-          "description": "米ラスベガスにおいて、世界最大級のエレクトロニクス展示会「CES2024」が開幕。ポータブル電源で知られるJackeryは、自動ナビゲーション機能を備えたソーラーパネルのコンセプトモデル「Jackery Solar Generator Mars Bot」を発表した。 Jackery Solar Ge […]",
-          "link": "https://gadget.phileweb.com/post-65474/",
-          "publishedOn": "2024-01-10T08:22:23.000Z",
-          "wordCount": 809,
-          "title": "＜CES＞Jackery、光を求めて動くソーラーパネルロボ「Solar Generator Mars Bot」公開",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/DSC_4573.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=65456",
-          "author": "Munenori Taniguchi",
-          "description": "米民間宇宙企業Astroboticの月着陸船「Peregrine」は、1月8日に打ち上げられたUnited Launch Alliance(ULA)のVulcan Centaurロケットに搭載され、月へ向かうために月横断軌道へ展開された。ところが、その直後にPeregrineには異常が発生し、2月2 […]",
-          "link": "https://gadget.phileweb.com/post-65456/",
-          "publishedOn": "2024-01-10T08:17:32.000Z",
-          "wordCount": 806,
-          "title": "民間企業による月着陸船「Peregrine」、推進剤漏れで月への着陸を断念",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/Peregrine.jpg"
         }
       ]
     },
