@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T16:36:56.649Z</updated>
+    <updated>2024-02-08T16:50:27.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【石川 給水支援情報】輪島・珠洲など9市町で実施（9日）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240209/k10014352961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240209/k10014352961000.html"/>
+        <updated>2024-02-08T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[石川県で9日に予定されている給水支援の情報です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スコのじゅんちゃんが慌てて風呂場に直行！いったいなにが？]]></title>
         <id>https://2-9-9.com/?p=68151</id>
@@ -37538,26 +37548,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
 富士通、英政府調達から排除求める...]]></summary>
         <author>
             <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 輪島「朝市通り」の大規模な火災現場 集中捜索 2日目]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014316051000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014316051000.html"/>
-        <updated>2024-01-10T04:44:10.000Z</updated>
-        <summary type="html"><![CDATA[今月1日、震度6強の揺れを観測した石川県輪島市の中心部「朝市通り」で発生した大規模な火災現場で、警察などは2日目となる集中的な捜索を行い巻き込まれた人がいないかなど確認を進めています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[志賀原発のトラブル 規制委“地震対策見直し必要か検討を”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240110/k10014316131000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240110/k10014316131000.html"/>
-        <updated>2024-01-10T04:42:46.000Z</updated>
-        <summary type="html"><![CDATA[今月1日の地震で外部から電気を受けるための変圧器が壊れ、現在も、一部の系統が使えなくなるなどのトラブルが起きた北陸電力の志賀原子力発電所について、原子力規制委員会は、変圧器の復旧を急ぐことや、ほかの原発も含めて、地震対策の見直しが必要か検討することを求めました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
