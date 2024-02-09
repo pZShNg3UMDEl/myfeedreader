@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T12:45:09.302Z</updated>
+    <updated>2024-02-09T12:57:09.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山中で焼けた乗用車の中から男性遺体見つかる 千葉 大多喜町]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240209/k10014354091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240209/k10014354091000.html"/>
+        <updated>2024-02-09T12:46:43.000Z</updated>
+        <summary type="html"><![CDATA[千葉県警察本部によりますと、7日、大多喜町の山中で、焼けた乗用車の中から男性の遺体が見つかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[千葉 茂原 郵便局2か所に3人組が相次ぎ侵入 現金2000万円盗難]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240209/k10014354021000.html</id>
@@ -37826,16 +37836,6 @@ Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し�
         <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317191000.html"/>
         <updated>2024-01-11T01:27:09.000Z</updated>
         <summary type="html"><![CDATA[11日の東京株式市場、日経平均株価は一時、3万5000円台まで値上がりしました。日経平均株価が取り引き時間中に3万5000円台をつけるのは、バブル期の1990年2月以来およそ33年11か月ぶりです。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 郵便局で利用の会計システムに欠陥 納入の富士通へ批判再燃]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240111/k10014317161000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240111/k10014317161000.html"/>
-        <updated>2024-01-11T00:46:57.000Z</updated>
-        <summary type="html"><![CDATA[イギリスでは、郵便局で利用されていた会計システムの欠陥によって郵便局長らが横領などの罪で不当に訴追された事件が再び注目される事態となっています。システムを納入していた富士通への批判も再燃する中、スナク首相は、当事者の救済を進める考えを強調しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>

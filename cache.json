@@ -5901,6 +5901,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014354091000.html",
+          "author": null,
+          "description": "千葉県警察本部によりますと、7日、大多喜町の山中で、焼けた乗用車の中から男性の遺体が見つかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014354091000.html",
+          "publishedOn": "2024-02-09T12:46:43.000Z",
+          "wordCount": 591,
+          "title": "山中で焼けた乗用車の中から男性遺体見つかる 千葉 大多喜町",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014354091_2402092126_0209214645_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240209/k10014354021000.html",
           "author": null,
           "description": "8日夜、千葉県茂原市にある2か所の郵便局に3人組が相次いで侵入し、現金合わせて2000万円が盗まれました。警察は、特徴が似ていることなどから同一グループによる犯行の可能性もあるとみて窃盗事件として捜査しています。",
@@ -22089,16 +22099,6 @@
           "wordCount": 624,
           "title": "株価 一時3万5000円台まで値上がり 約33年11か月ぶり",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317191_2401110910_0111091155_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014317161000.html",
-          "author": null,
-          "description": "イギリスでは、郵便局で利用されていた会計システムの欠陥によって郵便局長らが横領などの罪で不当に訴追された事件が再び注目される事態となっています。システムを納入していた富士通への批判も再燃する中、スナク首相は、当事者の救済を進める考えを強調しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014317161000.html",
-          "publishedOn": "2024-01-11T00:46:57.000Z",
-          "wordCount": 540,
-          "title": "英 郵便局で利用の会計システムに欠陥 納入の富士通へ批判再燃",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317161_2401110903_0111094659_01_02.jpg"
         }
       ]
     },
