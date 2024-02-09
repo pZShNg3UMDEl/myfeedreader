@@ -2744,21 +2744,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120356/",
-          "author": null,
-          "description": "公開中の劇場アニメ「鬼太郎誕生 ゲゲゲの謎」の第4弾来場者特典が、1月13日から配布される。 特典は、これまで配布された第1～3弾の特典イラスト4種がシート状のステッカーになった「ビジュアルステ...",
-          "link": "https://anime.eiga.com/news/120356/",
-          "publishedOn": "2024-01-10T12:00:00.000Z",
-          "wordCount": 846,
-          "title": "【興収20億円突破】「鬼太郎誕生」1月13日から第4弾来場者特典ビジュアルステッカーを配布",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2767,6 +2752,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=97970",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/08(木) 10:37:42.86 ID:ZppwI/vj0 https:// […]",
+          "link": "https://switchsoku.com/leak/97970",
+          "publishedOn": "2024-02-09T00:00:29.000Z",
+          "wordCount": 11177,
+          "title": "【噂】Nate/DF「来週はパートナーDirect､Switch2は3月発表、Joy-Con廃止、下位互換あり、より大型化」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2lkt.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=97961",
           "author": "SWITCH速報",
@@ -5530,16 +5525,6 @@
           "wordCount": 4404,
           "title": "AIに置き換わらない仕事",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9378",
-          "author": "watanabe@logipara.com",
-          "description": "そういえば、今年、年賀状、0枚でしたね 　 　 年賀状って1枚でもあると、郵便局からの年賀状が挟まってくるじゃないですか 　 整骨院からきた年賀状と、郵便局からの年賀状の2枚が、輪ゴムに負けてU字型のままポストにはい […]",
-          "link": "https://logipara.com/diary-text/2024-01-11",
-          "publishedOn": "2024-01-10T12:26:05.000Z",
-          "wordCount": 4403,
-          "title": "そういえば、年賀状0枚",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -5785,6 +5770,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353091000.html",
+          "author": null,
+          "description": "JR西日本によりますと、9日午前7時前、山口県周南市のJR山陽本線・福川駅付近で走行中の列車の窓ガラスがひび割れました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353091000.html",
+          "publishedOn": "2024-02-09T00:49:56.000Z",
+          "wordCount": 676,
+          "title": "走行中の列車の窓ガラスがひび割れ JR山陽本線 山口 周南",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353091_2402090943_0209094522_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353051000.html",
+          "author": null,
+          "description": "9日の東京株式市場、日経平均株価は、3万7000円台まで値上がりしています。取り引き時間中に3万7000円台をつけるのはバブル期の1990年2月以来、34年ぶりです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353051000.html",
+          "publishedOn": "2024-02-09T00:46:59.000Z",
+          "wordCount": 672,
+          "title": "日経平均株価3万7000円台に 34年ぶりの水準 米株価上昇受け",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353051_2402090911_0209091406_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353071000.html",
+          "author": null,
+          "description": "ことし夏に開幕するパリオリンピック・パラリンピック組織委員会のエスタンゲ会長が、自身の報酬をめぐりフランスの当局から捜査対象になっていると報じられました。エスタンゲ会長は不正を否定し、当局の捜査に協力する姿勢を示しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353071000.html",
+          "publishedOn": "2024-02-09T00:08:08.000Z",
+          "wordCount": 676,
+          "title": "パリ五輪・パラ組織委会長 報酬額をめぐり仏当局の捜査対象に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353071_2402090857_0209090655_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353031000.html",
           "author": null,
@@ -21574,26 +21589,6 @@
           "wordCount": 755,
           "title": "ダイハツなど3社共同開発の軽商用車EV 今年度中の販売延期へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240110/K10014316891_2401102022_0110202521_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240110/k10014316511000.html",
-          "author": null,
-          "description": "横浜市の化学機械メーカーの社長ら3人が不正輸出の疑いで逮捕され、その後、無実が明らかになった、えん罪事件をめぐり、国と東京都は「検察と警視庁の捜査は違法だった」として、賠償を命じた東京地方裁判所の判決を不服として控訴しました。一方、原告側も控訴しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240110/k10014316511000.html",
-          "publishedOn": "2024-01-10T12:51:49.000Z",
-          "wordCount": 519,
-          "title": "不正輸出めぐるえん罪事件賠償判決 国と都が控訴 原告側も控訴",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240110/K10014316511_2401101744_0110215151_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240110/k10014316451000.html",
-          "author": null,
-          "description": "石川県珠洲市の建物被害を専門家が調査した結果、住宅が倒壊するなどの大きな被害は耐震基準が2000年に見直される前に建てられたものに集中していることが分かりました。専門家は「今後の余震で倒壊する危険性が高まっているので十分な注意が必要だ」と話しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240110/k10014316451000.html",
-          "publishedOn": "2024-01-10T12:46:42.000Z",
-          "wordCount": 726,
-          "title": "石川 珠洲 ”耐震基準見直し前の建物に倒壊など集中 注意を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240110/K10014316451_2401101730_0110174952_01_02.jpg"
         }
       ]
     },
@@ -23020,6 +23015,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/09/news070.html",
+          "author": null,
+          "description": "スイスビットは、5年間で最大1.5DWPDの耐久性を備えた、高性能PCIe SSD「N3202」シリーズを発表した。同社独自の電源損失保護機能「powersafe」と高度なセキュリティ機能を搭載する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/09/news070.html",
+          "publishedOn": "2024-02-09T00:00:00.000Z",
+          "wordCount": 2652,
+          "title": "5年で最大1.5DWPDの耐久性を備えた高性能PCIe SSD",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/09/cover_news070.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/07/news011.html",
           "author": null,
           "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「ダイナミック回路とスタティック回路」についてです。",
@@ -23306,6 +23311,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68155",
+          "author": "299",
+          "description": "茶トラの子猫がお父さんのあぐらのなかに心地よくおさまってぐっすりと眠っています。 お父さんは、そんな子猫をそーっと抱き上げてそのまま床の上に置きました。移動させている間も深く眠っているので動かされても全く起きません。 で...\nお父さんのあぐらの中の昼寝が大好きな子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68155",
+          "publishedOn": "2024-02-09T00:00:50.000Z",
+          "wordCount": 1398,
+          "title": "お父さんのあぐらの中の昼寝が大好きな子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68155.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68116",
           "author": "299",
@@ -32179,16 +32194,6 @@
           "wordCount": 2474,
           "title": "アスリート盗撮「性暴力」　福岡県条例、見直しへ",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/d/9d676810-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032064.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/01/10(水) 06:11:28.71 ID:DH1vO1W30.net\n\n\n\n\n\n\n\n\n求む警官、未経験でも初任給1600万円－サンフランシスコが｢全力｣採用 https://t.co/iVpQedcY4q— ブルームバーグニュース (@BloombergJapan) January 9, 2024 \n\n\n\n\n\n\n\n\n\nサンフランシ...",
-          "link": "https://itainews.com/archives/2032064.html",
-          "publishedOn": "2024-01-10T12:01:08.000Z",
-          "wordCount": 2537,
-          "title": "サンフランシスコ、初任給1600万円で警察官になってくれる人を募集",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/1/219db560-s.png"
         }
       ]
     },
