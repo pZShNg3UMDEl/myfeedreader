@@ -2753,6 +2753,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97976",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/08(木) 22:01:49.43 4位（初登場）　Switch　呪術廻戦 戦 […]",
+          "link": "https://switchsoku.com/soft/97976",
+          "publishedOn": "2024-02-09T02:00:17.000Z",
+          "wordCount": 10013,
+          "title": "Switch『呪術廻戦 戦華双乱』初週25,242本",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/07/zyuzyutukaisen-souran.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=97970",
           "author": "SWITCH速報",
           "description": "1: 2024/02/08(木) 10:37:42.86 ID:ZppwI/vj0 https:// […]",
@@ -5760,6 +5770,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353161000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手と山本由伸投手はキャンプイン前日の8日、キャンプ地の施設で球団の身体測定に参加しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353161000.html",
+          "publishedOn": "2024-02-09T02:11:04.000Z",
+          "wordCount": 541,
+          "title": "大谷翔平と山本由伸 ドジャースのキャンプイン前日に身体測定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353161_2402091029_0209103024_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353171000.html",
+          "author": null,
+          "description": "北朝鮮のキム・ジョンウン（金正恩）総書記は、軍の記念日に合わせて演説し「有事に韓国の領土を占領するのが国是だ」と述べ、韓国について平和統一の対象ではなく、敵対国とみなす政策のもと、軍事力の行使も辞さない方針を強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353171000.html",
+          "publishedOn": "2024-02-09T02:08:41.000Z",
+          "wordCount": 486,
+          "title": "北朝鮮 キム総書記が演説 “有事に韓国の領土占領が国是”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353171_2402091038_0209104628_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353151000.html",
+          "author": null,
+          "description": "アメリカのバイデン大統領の自宅などから、副大統領だった当時の機密文書が見つかった問題で、特別検察官は、バイデン氏を訴追しないと結論づけました。これに対し、機密文書を不正に保管したとして起訴されているトランプ前大統領は、「二重基準だ」と非難しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353151000.html",
+          "publishedOn": "2024-02-09T01:58:20.000Z",
+          "wordCount": 535,
+          "title": "バイデン大統領 機密文書問題で訴追せず 高齢などで立証困難",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353151_2402091022_0209103641_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014352971000.html",
+          "author": null,
+          "description": "石川県の奥能登地域の主要な4つの病院では、断水やスタッフの不足などのため今月4日時点で運用可能な病床数が地震前の2割程度にとどまっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014352971000.html",
+          "publishedOn": "2024-02-09T01:54:21.000Z",
+          "wordCount": 679,
+          "title": "奥能登地域 主要4病院の病床数 地震前の2割にとどまる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014352971_2402090903_0209090957_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353081000.html",
           "author": null,
@@ -21599,16 +21649,6 @@
           "wordCount": 842,
           "title": "羽田空港事故 日本航空パイロット 衝突後は“操縦不能と認識”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014317081_2401110148_0111015119_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240110/k10014316891000.html",
-          "author": null,
-          "description": "ダイハツ工業とトヨタ自動車、スズキの3社は、共同開発を進めているEV＝電気自動車の軽の商用車について、予定していた今年度中の販売を延期することが分かりました。ダイハツによる国の認証取得の不正問題を受けたもので、新たな販売時期は未定だとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240110/k10014316891000.html",
-          "publishedOn": "2024-01-10T13:55:10.000Z",
-          "wordCount": 755,
-          "title": "ダイハツなど3社共同開発の軽商用車EV 今年度中の販売延期へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240110/K10014316891_2401102022_0110202521_01_02.jpg"
         }
       ]
     },
@@ -21617,6 +21657,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235562",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ミニストップの新商品「いちごパンケーキソフト」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]",
+          "link": "https://foodfighter.jp/ministop-pancakesoft-ichigo",
+          "publishedOn": "2024-02-09T01:55:29.000Z",
+          "wordCount": 1843,
+          "title": "【ミニストップ】いちごパンケーキソフト【新作コールドスイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/2f5ff0564ae04aa5833000a8d2e11e70.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235537",
           "author": "foodfighter",
@@ -23331,6 +23381,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68120",
+          "author": "299",
+          "description": "今回は子猫ちゃんがお家へ来たばかりの頃の様子をお届けします。 猫って警戒心が強いはずなのに、あっという間に新しい環境に馴染んでしまいました。 飼い主さんに甘える様子が可愛らしいのでご覧ください。 お部屋の中をウロウロして...\nたった二時間ですっかり馴染んでしまった子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68120",
+          "publishedOn": "2024-02-09T02:00:12.000Z",
+          "wordCount": 1403,
+          "title": "たった二時間ですっかり馴染んでしまった子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68120.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68155",
           "author": "299",
@@ -32184,16 +32244,6 @@
           "wordCount": 2324,
           "title": "【埼玉】ケンカ3000戦無敗「所沢のタイソン」を脅迫容疑で逮捕 「くん付け」で呼ばれ腹を立てたか",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/2/12b21285-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032072.html",
-          "author": "damono3856",
-          "description": "1 名前：おっさん友の会 ★：2024/01/10(水) 10:52:26.24 ID:aJVhnyTT9.net\n\n\n\n\n\n\n\n［ITmedia ビジネスオンライン］スピン経済の歩き方：“クレイジー”な日本の避難所を救う　「ムービングハウス」とは何か https://t.co/1soG8uureH— ITmedia (@itmedia) January 10, 2...",
-          "link": "https://itainews.com/archives/2032072.html",
-          "publishedOn": "2024-01-10T14:03:18.000Z",
-          "wordCount": 2576,
-          "title": "【災害】外国人から「クレイジー」と絶句される日本の避難所…先進国の中でもかなり劣悪な環境という指摘",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/4/b4aebbc4-s.png"
         }
       ]
     },
