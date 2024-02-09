@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T08:37:48.325Z</updated>
+    <updated>2024-02-09T08:50:21.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[静岡 新東名高速 トンネル内で車両火災 1人けが]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240209/k10014353771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240209/k10014353771000.html"/>
+        <updated>2024-02-09T08:37:25.000Z</updated>
+        <summary type="html"><![CDATA[警察によりますと、きょう午後4時前、静岡市の新東名高速道路にある北沼上トンネル内でトラックから出火し、現在もトンネル内から煙が上がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水が液体で存在するかもしれない「スーパーアース」、地球から137光年の距離に見つかる]]></title>
         <id>https://gadget.phileweb.com/?p=68519</id>
