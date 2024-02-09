@@ -5816,6 +5816,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353211000.html",
+          "author": null,
+          "description": "人気が高まる高級腕時計の「シェアリングサービス」を展開していた大阪の会社が、先月末、突然の解散を発表しました。腕時計を預けて「シェア」してもらい、時計のランクに応じた預託料を受け取れるというシステムでしたが、「自分が預けていた時計が返ってこない」などと不安や戸惑いの声が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353211000.html",
+          "publishedOn": "2024-02-09T08:23:13.000Z",
+          "wordCount": 1096,
+          "title": "私の「ロレックス」がフリマアプリに… 腕時計シェア会社解散",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353211_2402091405_0209141724_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353681000.html",
+          "author": null,
+          "description": "IMF＝国際通貨基金は、日本経済に関し、物価上昇率が来年後半まで2％を超える水準で推移する見込みだとしたうえで、金融政策について、短期の政策金利を段階的に引き上げていくべきだと提言しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353681000.html",
+          "publishedOn": "2024-02-09T08:18:43.000Z",
+          "wordCount": 504,
+          "title": "IMF 日本経済に提言 “短期の政策金利 段階的に引き上げを”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353681_2402091641_0209171846_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353721000.html",
+          "author": null,
+          "description": "JR京葉線のダイヤ改正をめぐる問題で、再検討を求める要望書を提出した千葉市の神谷市長は「来月の時点では、いったん改正されると思うが、できるだけ早期に利便性が維持されるダイヤに復元してもらいたい」と述べました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353721000.html",
+          "publishedOn": "2024-02-09T08:14:26.000Z",
+          "wordCount": 474,
+          "title": "JR京葉線ダイヤ改正めぐり 千葉市長 “改正後 早期に復元を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353721_2402091634_0209170639_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353711000.html",
           "author": null,
           "description": "「豊田自動織機」が生産したエンジンの認証取得の不正で、トヨタ自動車は国内4つの自動車工場の6つの生産ラインを停止していますが、今月13日から一部で稼働を再開すると明らかにしました。",
@@ -21894,16 +21924,6 @@
           "wordCount": 745,
           "title": "おととし出産した妊婦の梅毒感染者の割合 8年前の3倍以上に",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014316921_2401102045_0111053635_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240111/k10014316901000.html",
-          "author": null,
-          "description": "能登半島地震で被災者の問診などの支援活動にあたった専門家は避難所の生活環境は体調不良になるリスクが高い厳しい状態だと指摘しています。避難生活などが原因でなくなる災害関連死を防ぐためにも避難所の生活・衛生環境を早急に改善する必要があるとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240111/k10014316901000.html",
-          "publishedOn": "2024-01-10T20:21:41.000Z",
-          "wordCount": 783,
-          "title": "専門家 “避難所の生活環境 早急に改善し災害関連死の防止を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240111/K10014316901_2401102041_0110205956_01_02.jpg"
         }
       ]
     },
@@ -27219,6 +27239,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=68497",
+          "author": "Munenori Taniguchi",
+          "description": "Googleが、AIモデル 「Bard」のブランド名を「Gemini」に変更すると発表した。 Geminiは昨年末に「同社最大かつ最も有能なAIモデル」との触れ込みで発表され、これまではBardと並行して存在していたが、Googleは様々なAIツールを「Gemini」ブランドとして統合していく方針の […]",
+          "link": "https://gadget.phileweb.com/post-68497/",
+          "publishedOn": "2024-02-09T08:16:15.000Z",
+          "wordCount": 787,
+          "title": "Google Bardが「Gemini」に名称変更。高性能AIモデル「Ultra 1.0」も提供開始へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/gemini.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=68491",
           "author": "多根清史",
