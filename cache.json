@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/120538/",
+          "author": null,
+          "description": "2月9日午後9時から、日本テレビ系「金曜ロードショー」にて劇場アニメ「かがみの孤城」が地上波初放送されます。 同作は、辻村深月氏によるベストセラー小説を原作に、「河童のクゥと夏休み」などで知られ...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/120538/",
+          "publishedOn": "2024-02-09T12:00:00.000Z",
+          "wordCount": 857,
+          "title": "「かがみの孤城」あらすじ、声優まとめ　原恵一監督20年ぶりのヒット作、原監督が同作で訴えたかったこと",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/tokuten_list/120566/",
           "author": null,
           "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、「機動戦士ガンダムSEE...",
@@ -2828,6 +2843,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=97996",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/09(金) 13:52:15.34 ID:iHNCNCRj0 セガサミーホール […]",
+          "link": "https://switchsoku.com/soft/sega/97996",
+          "publishedOn": "2024-02-09T12:00:04.000Z",
+          "wordCount": 10104,
+          "title": "セガ決算、盛大にやらかして株価ー12％",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/02/sega.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=97990",
           "author": "SWITCH速報",
           "description": "1: 2024/02/09(金) 12:03:32.06 ID:eJRl15Yv0 【アスク王国 国 […]",
@@ -5136,16 +5161,6 @@
           "wordCount": 10136,
           "title": "皆が好きなマリオカートのコース教えて",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/mariokart8dx-96.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=96975",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/10(水) 11:50:53.31 ID:aha4Chox0 なんで名作扱いな […]",
-          "link": "https://switchsoku.com/soft/96975",
-          "publishedOn": "2024-01-11T00:00:57.000Z",
-          "wordCount": 10135,
-          "title": "『グランディア』やったけど面白いのか？これ",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/08/grandia.jpg"
         }
       ]
     },
@@ -5885,6 +5900,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353781000.html",
+          "author": null,
+          "description": "先月、静岡市の小学校で、宿題を忘れた児童に担任の教諭が「提出期限を延ばしてほしいなら、土下座でもして」などと言って3人に土下座をさせていたことが分かりました。市の教育委員会は、不適切な指導だとして学校などへの対応を検討しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240209/k10014353781000.html",
+          "publishedOn": "2024-02-09T11:53:45.000Z",
+          "wordCount": 496,
+          "title": "静岡 小学校教諭が児童3人に土下座させる 教育委は対応を検討",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240209/K10014353781_2402092016_0209202330_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240209/k10014353841000.html",
           "author": null,
@@ -23798,16 +23823,6 @@
           "wordCount": 2658,
           "title": "産業機器向け3相ブラシレスモータードライバー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/12/cover_news058.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/11/news080.html",
-          "author": null,
-          "description": "インフィニオン テクノロジーズは、4.5kV IGBTモジュール「XHP3」ファミリーを発表した。450AのデュアルIGBTモジュール「FF450R45T3E4_B」と、エミッター制御E4ダイオードを備えた450Aのダブルダイオードモジュール「DD450S45T3E4_B5」を用意する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/11/news080.html",
-          "publishedOn": "2024-01-11T00:00:00.000Z",
-          "wordCount": 2684,
-          "title": "ユニット数削減に貢献する、4.5kV IGBTモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/11/cover_news080.jpg"
         }
       ]
     },
@@ -27345,16 +27360,6 @@
           "wordCount": 1622,
           "title": "子猫に話しかける母猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66300.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66333",
-          "author": "299",
-          "description": "今回ご紹介するのは手乗り赤ちゃん猫です。 飼い主さんの掌にすっぽりと収まり、幸せそうに眠る寝姿をご覧ください。 お布団で赤ちゃん猫が幸せそうに眠っていました。 そこへ飼い主さんが近づくと、赤ちゃん猫を握って掌の中へすっぽ...\n飼い主さんの掌で幸せそうに眠る赤ちゃん猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66333",
-          "publishedOn": "2024-01-11T00:00:40.000Z",
-          "wordCount": 1625,
-          "title": "飼い主さんの掌で幸せそうに眠る赤ちゃん猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66333.jpeg"
         }
       ]
     },
@@ -29240,6 +29245,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2032950.html",
+          "author": "damono3856",
+          "description": "1 名前：：2024/02/09(金) 13:56:43.97 ● 2BP(2000).net\n\n\n\n\n\n\n\nこれの絡みか、wizardryからホビットって種族が無くなったのよねまぁ、足の裏に毛が生えてて隠密行動の得意な種族っで盗賊か忍者向きってそのまんまだからと仕方ないかもしれんが https://t.co/8lwhGaHUML...",
+          "link": "https://itainews.com/archives/2032950.html",
+          "publishedOn": "2024-02-09T12:08:19.000Z",
+          "wordCount": 2437,
+          "title": "【炎上】ファンタジー創作で『ミスリル』『オーク』『ホビット』は使用禁止へ　トールキン財団",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/d/2d1acf59-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2032944.html",
           "author": "yonepo665sfr",
@@ -32759,16 +32774,6 @@
           "wordCount": 2465,
           "title": "Uber Eatsで買ったドリンクのフタに穴→苦情入れるも「召し上がっていただける」….再度の求めで謝罪と返金対応",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/5/a5c12002-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032080.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：おっさん友の会 ★：2024/01/10(水) 22:15:01.63 ID:aUzmmWVQ9.net\n\n\n\n\n\n\n\n\n\n\n全国から支援も“期限切れ”食品　「避難所を何だと...」怒りの声 支援物資受け入れ一時中止https://t.co/2fBG3LC5Xc— FNNプライムオンライン (@FNN_News) January 10, 2024 \n\n\n\n\n\n\n\n\n地...",
-          "link": "https://itainews.com/archives/2032080.html",
-          "publishedOn": "2024-01-11T00:01:15.000Z",
-          "wordCount": 3368,
-          "title": "全国から支援も“期限切れ”食品　「避難所を何だと...」怒りの声 支援物資受け入れ一時中止",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/2/52520d0d-s.png"
         }
       ]
     },
