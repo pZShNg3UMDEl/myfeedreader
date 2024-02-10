@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T21:11:56.132Z</updated>
+    <updated>2024-02-10T21:22:07.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「核のごみ」処分地選定 「文献調査」報告書の原案まとまる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014354821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014354821000.html"/>
+        <updated>2024-02-10T21:15:18.000Z</updated>
+        <summary type="html"><![CDATA[原子力発電に伴って発生する高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分地の選定に向けて、全国で初めて北海道の2つの町村を対象に行われてきた文献調査の報告書の原案がまとまり、寿都町の全域と神恵内村の火山の周辺を除いた一部地域が、次の段階の調査の候補地として示されることが関係者への取材でわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“精神疾患と関連の遺伝子 脳神経細胞の発達に影響”研究発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014354781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014354781000.html"/>
+        <updated>2024-02-10T21:11:28.000Z</updated>
+        <summary type="html"><![CDATA[さまざまな精神疾患などに関連しているとされ、これまで詳しい働きが分かっていなかった遺伝子が脳の神経細胞の発達に影響を与える仕組みをマウスを使った実験でつきとめたと国立精神・神経医療研究センターなどのグループが発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随時更新】ラファでの地上作戦 UNRWA事務局長が強い懸念示す]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240211/k10014354831000.html</id>
