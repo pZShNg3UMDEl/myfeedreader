@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T03:35:49.902Z</updated>
+    <updated>2024-02-10T03:50:29.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[輪島市で災害ボランティアの活動始まる 石川]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240210/k10014354431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240210/k10014354431000.html"/>
+        <updated>2024-02-10T03:34:24.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県輪島市で、地震によって出た廃棄物の片づけなどにあたる災害ボランティアの活動が10日から始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エルサルバドル ギャング約500人一斉起訴 強権的手法に批判も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240210/k10014354411000.html</id>
