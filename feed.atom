@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T20:22:21.184Z</updated>
+    <updated>2024-02-10T20:36:03.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ラファでの地上作戦 UNRWA事務局長が強い懸念示す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014354831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014354831000.html"/>
+        <updated>2024-02-10T20:31:07.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍が、100万人以上が避難しているガザ地区南部のラファで地上作戦を行う構えを示していることについて、現地で住民の支援にあたるUNRWA＝国連パレスチナ難民救済事業機関のラザリーニ事務局長は「住民にはもうどこにも避難するところがない」と述べ強い懸念を示しました。※イスラエルやパレスチナに関する日本時間2月11日の動きを、随時更新してお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ベトナム人、日本人にガチギレwwwwwwwwwwww]]></title>
         <id>https://itainews.com/archives/2032978.html</id>
@@ -37270,16 +37280,6 @@ NHK朝7時のニュース、輪島で救護活動した医師の方、「地震�
         <summary type="html"><![CDATA[「『ツキウタ。』劇場版 RABBITS KINGDOM THE MOVIE」が、6月14日から全国100館以上で公開されることが決定し、浅沼晋太郎、茉莉邑薫、鈴木達央、武蔵真之介の出演が明らかに...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜CES＞MSI、世界初のCore Ultraプロセッサー搭載携帯型ゲーミングPC「Claw」]]></title>
-        <id>https://gadget.phileweb.com/?p=65738</id>
-        <link href="https://gadget.phileweb.com/post-65738/"/>
-        <updated>2024-01-12T08:28:56.000Z</updated>
-        <summary type="html"><![CDATA[MSIは、世界で初めてインテルCore Ultraプロセッサーを搭載した携帯型ゲーミングPC“Claw”「A1M」を、米ラスベガスで開催されている世界最大級のエレクトロニクス展示会「CES2024」にて発表した。 120Hz駆動対応で輝度500ニット、sRGB 100%カバーの7インチディスプレイを […]]]></summary>
-        <author>
-            <name>PHILE WEB編集部</name>
         </author>
     </entry>
 </feed>
