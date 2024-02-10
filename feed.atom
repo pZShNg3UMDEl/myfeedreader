@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T11:20:25.179Z</updated>
+    <updated>2024-02-10T11:35:36.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知多半島道路 トラック積み荷対向車線にはみ出し 男性意識不明]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240210/k10014354721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240210/k10014354721000.html"/>
+        <updated>2024-02-10T11:29:40.000Z</updated>
+        <summary type="html"><![CDATA[10日午後、愛知県の知多半島道路でトラックが中央分離帯に衝突し積み荷の石などが対向車線にはみ出して乗用車にぶつかりました。乗用車を運転していた男性が意識不明の重体になっていて、警察はトラックの運転手を過失運転傷害の疑いで逮捕し、詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ひろゆき氏、“学校給食にふりかけ持参OK”に猛反対　「出された料理の味を変えることは、すごく失礼で下品であるということを…」]]></title>
         <id>https://itainews.com/archives/2032972.html</id>
@@ -37596,16 +37606,6 @@ NHK朝7時のニュース、輪島で救護活動した医師の方、「地震�
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「にんにく香る 牛焼肉プレート」を世界一詳しく調査しました。   公式YouTubeチャンネル […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エクアドル大統領 “国内は戦争状態” 軍による作戦本格化へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240112/k10014318161000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014318161000.html"/>
-        <updated>2024-01-11T23:33:52.000Z</updated>
-        <summary type="html"><![CDATA[治安の悪化が深刻化している南米・エクアドルのノボア大統領は国内の状況について「戦争状態にある」との認識を示し、暴力を激化させている犯罪組織の壊滅に向けて軍による作戦を本格化させる方針を強調しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
