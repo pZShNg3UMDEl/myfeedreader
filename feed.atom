@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T10:11:53.504Z</updated>
+    <updated>2024-02-10T10:27:13.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ ロシア軍の無人機攻撃相次ぎ ハルキウで7人死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240210/k10014354701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240210/k10014354701000.html"/>
+        <updated>2024-02-10T10:09:47.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナでは、ロシア軍による無人機攻撃が各地に相次ぎ、東部ハルキウでは住宅で火災が起きるなどして子ども3人を含む7人が死亡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[｢ウクライナ支援する理由ない」「アメリカのディープステート、代理戦争」立憲・原口一博氏、ロシアメディアへの発言で賛否]]></title>
         <id>https://itainews.com/archives/2032969.html</id>
@@ -37552,16 +37562,6 @@ NHK朝7時のニュース、輪島で救護活動した医師の方、「地震�
         <link href="http://www3.nhk.or.jp/news/html/20240112/k10014317971000.html"/>
         <updated>2024-01-11T22:32:24.000Z</updated>
         <summary type="html"><![CDATA[いわゆる団塊の世代が75歳以上の後期高齢者となっていく中で、働きながら介護する「ビジネスケアラー」と呼ばれる人たちの増加が見込まれています。このため、経済産業省は仕事と介護の両立に向けて対策を強化する方針です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバー攻撃防止へ5月から制度開始 企業向けビジネス広がる]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240112/k10014317991000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240112/k10014317991000.html"/>
-        <updated>2024-01-11T22:21:38.000Z</updated>
-        <summary type="html"><![CDATA[電力や通信などへのサイバー攻撃を防ぐため、ことし5月から企業が設備を導入する際の事前審査などの制度が始まります。生活インフラの防御が課題となる中、対応を求められる企業向けのビジネスも広がっています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>

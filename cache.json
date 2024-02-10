@@ -5886,6 +5886,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240210/k10014354701000.html",
+          "author": null,
+          "description": "ウクライナでは、ロシア軍による無人機攻撃が各地に相次ぎ、東部ハルキウでは住宅で火災が起きるなどして子ども3人を含む7人が死亡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240210/k10014354701000.html",
+          "publishedOn": "2024-02-10T10:09:47.000Z",
+          "wordCount": 723,
+          "title": "ウクライナ ロシア軍の無人機攻撃相次ぎ ハルキウで7人死亡",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240210/K10014354701_2402101840_0210190630_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240210/k10014354731000.html",
           "author": null,
           "description": "10日昼すぎ、石川県七尾市で地震の被害を受けた建物の片づけ作業をしていた60代の男性が倒れてきたブロック塀に挟まれ、警察によりますと意識不明の重体だということです。",
@@ -21914,16 +21924,6 @@
           "wordCount": 615,
           "title": "働きながら介護「ビジネスケアラー」増加見込みで対策強化へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014317971_2401112132_0111213308_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014317991000.html",
-          "author": null,
-          "description": "電力や通信などへのサイバー攻撃を防ぐため、ことし5月から企業が設備を導入する際の事前審査などの制度が始まります。生活インフラの防御が課題となる中、対応を求められる企業向けのビジネスも広がっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014317991000.html",
-          "publishedOn": "2024-01-11T22:21:38.000Z",
-          "wordCount": 774,
-          "title": "サイバー攻撃防止へ5月から制度開始 企業向けビジネス広がる",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014317991_2401112127_0112000324_01_02.jpg"
         }
       ]
     },
