@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T06:35:32.468Z</updated>
+    <updated>2024-02-10T06:50:23.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[珠洲 地盤の隆起 全長約4キロ高さ2メートル余の「崖」出来る]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240210/k10014354511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240210/k10014354511000.html"/>
+        <updated>2024-02-10T06:40:35.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の影響で、石川県珠洲市若山町では全長およそ4キロにわたって地盤が隆起し、高さ2メートル余りの「崖」ができるなど地形が大きく変化したことが国土地理院の調査で分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女子高校生死亡 車に5キロ以上引きずられたか 茨城 ひたちなか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240210/k10014354471000.html</id>
@@ -211,6 +221,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240210/k10014354361000.html"/>
         <updated>2024-02-10T02:51:21.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震の影響でこれまで練習していた石川県七尾市のプールが使えなくなったジュニア世代の水泳選手たちが、9日から市内の別のプールを借りて練習を再開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米 北朝鮮の人権問題担当特使が日韓訪問へ 12日から]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240210/k10014354381000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240210/k10014354381000.html"/>
+        <updated>2024-02-10T02:31:18.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ国務省は、北朝鮮の人権問題を担当する特使が来週12日から日本と韓国を訪問すると発表し、このうち、日本では、拉致問題をめぐって意見を交わすと明らかにしました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
