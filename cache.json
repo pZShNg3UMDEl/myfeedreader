@@ -5105,6 +5105,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AB1XCpRWwOo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AB1XCpRWwOo",
+          "publishedOn": "2024-02-10T08:33:50.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】無課金DQW配信者はこうやってジェムを使う！3人の配信者のジェムの使い方を調べてみる！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6f8GuvUB9uo",
           "author": null,
           "description": "",
@@ -5835,6 +5845,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240210/k10014354641000.html",
+          "author": null,
+          "description": "今月7日に千葉県大多喜町の山中で焼けた乗用車から男性が遺体で見つかった事件で遺体は車の後部で横になった状態だったことが捜査関係者への取材でわかりました。遺体はベトナム国籍の男性とみられ警察は遺棄されたいきさつを詳しく調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240210/k10014354641000.html",
+          "publishedOn": "2024-02-10T08:30:44.000Z",
+          "wordCount": 738,
+          "title": "千葉 焼けた乗用車の遺体 後部で横の状態で ベトナム国籍か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240210/K10014354641_2402101715_0210172238_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240210/k10014354591000.html",
+          "author": null,
+          "description": "松村防災担当大臣は、能登半島地震で被害を受けた石川県七尾市の浄水場を視察し復旧工事の進ちょく状況などを確認しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240210/k10014354591000.html",
+          "publishedOn": "2024-02-10T08:29:04.000Z",
+          "wordCount": 702,
+          "title": "松村防災相 石川 七尾の浄水場を視察 復旧工事の進ちょく確認",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240210/K10014354591_2402101654_0210165828_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240210/k10014354571000.html",
+          "author": null,
+          "description": "立憲民主党の岡田幹事長は、自民党が派閥の政治資金パーティーをめぐる問題を受けて所属議員を対象に行ったアンケート結果には期待できないとして、安倍派や二階派の関係議員が政治倫理審査会に出席し説明する必要があると強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240210/k10014354571000.html",
+          "publishedOn": "2024-02-10T08:12:09.000Z",
+          "wordCount": 720,
+          "title": "“安倍派や二階派議員は政倫審で説明が必要” 立民 岡田幹事長",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240210/K10014354571_2402101724_0210172754_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240210/k10014354581000.html",
           "author": null,
@@ -21874,16 +21914,6 @@
           "wordCount": 750,
           "title": "イスラエル軍が攻撃継続 国際司法裁判所の審理の行方は",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014318041_2401120537_0112053800_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014317881000.html",
-          "author": null,
-          "description": "広島と長崎に投下された原爆で被爆した人の手記など、およそ2万点の資料を保存し記憶の伝承に活用しようと都内で計画されている拠点施設が、10年以上たったいまも設立のめどが立っていない状態になっていることが分かりました。資料を管理する団体は設立に向けた検討を急ぐとともにオンラインでの活用に向けた準備を進めたいとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014317881000.html",
-          "publishedOn": "2024-01-11T20:33:19.000Z",
-          "wordCount": 777,
-          "title": "被爆者資料保存活用へ計画の拠点施設 10年以上設立めど立たず",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014317881_2401112112_0111212821_01_02.jpg"
         }
       ]
     },
