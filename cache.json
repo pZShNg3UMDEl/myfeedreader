@@ -5816,6 +5816,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240211/k10014354791000.html",
+          "author": null,
+          "description": "今月14日に投票が行われるインドネシアの大統領選挙は選挙運動の最終日を迎えました。最新の世論調査では現職のジョコ大統領の後継者を自認するプラボウォ国防相が大きくリードしていて、東南アジア最大の人口と経済規模を持つインドネシアの選挙の行方に世界の関心が集まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240211/k10014354791000.html",
+          "publishedOn": "2024-02-10T22:46:31.000Z",
+          "wordCount": 571,
+          "title": "インドネシア大統領選挙 選挙運動最終日を迎える 今月14日投票",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240211/K10014354791_2402110741_0211074633_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240211/k10014354851000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手はキャンプ2日目の10日、屋外でダッシュを行うなどして調整しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240211/k10014354851000.html",
+          "publishedOn": "2024-02-10T22:43:18.000Z",
+          "wordCount": 681,
+          "title": "大谷翔平 キャンプ2日目 屋外でダッシュを行うなどして調整",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240211/k10014354841000.html",
           "author": null,
           "description": "強い寒気の影響で、西日本や東日本では12日にかけて大気の状態が非常に不安定となる見込みです。気象庁は落雷や竜巻などの激しい突風、ひょうなどに注意するよう呼びかけています。",
@@ -21664,26 +21684,6 @@
           "wordCount": 810,
           "title": "岸田首相 地震被災地の視察 13日は見送り 14日以降で調整",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319101_2401121854_0112202440_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319121000.html",
-          "author": null,
-          "description": "ゆうちょ銀行は、期間が5年の定期貯金の金利を今月15日から0.07％に引き上げると発表しました。定期貯金の金利引き上げは2007年6月以来となります。",
-          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014319121000.html",
-          "publishedOn": "2024-01-12T10:48:42.000Z",
-          "wordCount": 805,
-          "title": "ゆうちょ銀行 期間5年の定期貯金の金利引き上げ 2007年6月以来",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319121_2401121905_0112194114_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319071000.html",
-          "author": null,
-          "description": "1月1日の地震で自宅で被災した石川県輪島市の76歳の女性が、家族と車中泊をした翌日の2日に胸の痛みを訴えて病院に搬送され、亡くなっていたことが分かりました。NHKの取材に対し、女性の息子は、「震災がなければ大丈夫だっただろう。守ってあげられなかったのが心残りです」と語りました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014319071000.html",
-          "publishedOn": "2024-01-12T10:38:54.000Z",
-          "wordCount": 781,
-          "title": "石川 輪島 76歳女性 車中泊した翌日に死亡「震災がなければ」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319071_2401121848_0112193406_01_02.jpg"
         }
       ]
     },
