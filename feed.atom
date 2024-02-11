@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T03:36:07.826Z</updated>
+    <updated>2024-02-11T03:50:29.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】石川県能登地方で震度４ 津波の心配なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014355001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014355001000.html"/>
+        <updated>2024-02-11T03:45:59.000Z</updated>
+        <summary type="html"><![CDATA[11日午後０時３６分ごろ地震がありました。この地震による津波の心配はありません。震源地は石川県能登地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．７と推定されます。各市町村の震度は以下のとおりです。▼震度４が石川県珠洲市、石川県能登町。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地震の片づけ “2次災害に気をつけたい” ブロック塀事故受け]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240211/k10014354921000.html</id>
