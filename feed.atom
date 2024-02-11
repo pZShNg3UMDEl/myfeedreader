@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T08:35:33.203Z</updated>
+    <updated>2024-02-11T08:50:33.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガザ地区 電話で助けを求めていた6歳の女の子 死亡確認]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014355221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014355221000.html"/>
+        <updated>2024-02-11T08:47:40.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区で先月末にイスラエル軍の攻撃を受けたとみられる車に取り残され、電話で助けを求めながら、その後、安否が分からなくなっていた6歳の女の子の死亡が確認されました。パレスチナ赤新月社は、女の子の救助に向かった救急隊員も攻撃で死亡したとしてイスラエル軍を強く非難しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミニスカ女性｢お前に見せる為に履いてねーから｣]]></title>
         <id>https://itainews.com/archives/2032996.html</id>
@@ -37191,16 +37201,6 @@ NHK朝7時のニュース、輪島で救護活動した医師の方、「地震�
         <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319451000.html"/>
         <updated>2024-01-12T20:53:51.000Z</updated>
         <summary type="html"><![CDATA[最大震度7を観測した能登半島地震の被災地では、雨が降っているところがあります。地震などの影響で地盤が緩んでいるところがあるため、引き続き、土砂災害に十分注意するとともに低体温症にも注意してください。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民派閥改革 岸田首相 派閥の役割や機能など意見集約へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319231000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319231000.html"/>
-        <updated>2024-01-12T20:48:03.000Z</updated>
-        <summary type="html"><![CDATA[自民党の派閥の改革をめぐり、岸田総理大臣は、派閥解消を求める意見と否定的な意見の双方があることを踏まえ、派閥の役割や機能などについて丁寧に意見集約を進めていく方針です。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
