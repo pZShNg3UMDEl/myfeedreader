@@ -5846,6 +5846,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240211/k10014355251000.html",
+          "author": null,
+          "description": "去年11月に亡くなった細田博之前衆議院議長のお別れの会が、地元の松江市で行われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240211/k10014355251000.html",
+          "publishedOn": "2024-02-11T09:32:06.000Z",
+          "wordCount": 495,
+          "title": "細田前衆議院議長のお別れの会 地元の松江で行われる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240211/K10014355251_2402111801_0211182833_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240211/k10014355271000.html",
           "author": null,
           "description": "大阪市消防局によりますと、11日午後5時40分ごろ大阪・城東区東中浜で火事があり、現在、消火活動を行っているということです。NHKの固定カメラの映像では、炎と煙が高く上がっているのが確認できます。",
@@ -21744,26 +21754,6 @@
           "wordCount": 419,
           "title": "インド最長の海上道路 日本支援で開通 交通渋滞など軽減に期待",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240113/K10014319281_2401130649_0113064936_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240113/k10014319241000.html",
-          "author": null,
-          "description": "上川外務大臣は訪問先のアメリカでブリンケン国務長官と会談しました。日米同盟の抑止力と対処力を強化するとともに、3月上旬で調整が進められている岸田総理大臣の公式訪問に向けて緊密に連携していくことで一致しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240113/k10014319241000.html",
-          "publishedOn": "2024-01-12T21:34:37.000Z",
-          "wordCount": 852,
-          "title": "上川外相 米国務長官と会談 岸田首相訪米へ 緊密に連携で一致",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240113/K10014319241_2401130615_0113063439_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240113/k10014319391000.html",
-          "author": null,
-          "description": "地震のあと公民館に避難していた石川県輪島市のグループホームの高齢者たちが、体調が悪化するおそれがあるとして12日夜、医療態勢が整った小松市のグループホームに移りました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240113/k10014319391000.html",
-          "publishedOn": "2024-01-12T21:32:42.000Z",
-          "wordCount": 629,
-          "title": "石川 輪島 被災のグループホーム高齢者が医療態勢整った施設へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240113/K10014319391_2401130631_0113063144_01_03.jpg"
         }
       ]
     },

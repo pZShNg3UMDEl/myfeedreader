@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T09:21:21.402Z</updated>
+    <updated>2024-02-11T09:35:37.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[細田前衆議院議長のお別れの会 地元の松江で行われる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014355251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014355251000.html"/>
+        <updated>2024-02-11T09:32:06.000Z</updated>
+        <summary type="html"><![CDATA[去年11月に亡くなった細田博之前衆議院議長のお別れの会が、地元の松江市で行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪 城東区東中浜で火災 消火活動中]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240211/k10014355271000.html</id>
@@ -37239,26 +37249,6 @@ NHK朝7時のニュース、輪島で救護活動した医師の方、「地震�
         <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319281000.html"/>
         <updated>2024-01-12T21:52:20.000Z</updated>
         <summary type="html"><![CDATA[インド最大の商業都市、ムンバイの湾岸部に日本の支援で全長およそ22キロにおよぶインドで最も長い海上道路が12日に開通し、交通渋滞や大気汚染などの軽減につながると期待されています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上川外相 米国務長官と会談 岸田首相訪米へ 緊密に連携で一致]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319241000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319241000.html"/>
-        <updated>2024-01-12T21:34:37.000Z</updated>
-        <summary type="html"><![CDATA[上川外務大臣は訪問先のアメリカでブリンケン国務長官と会談しました。日米同盟の抑止力と対処力を強化するとともに、3月上旬で調整が進められている岸田総理大臣の公式訪問に向けて緊密に連携していくことで一致しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 輪島 被災のグループホーム高齢者が医療態勢整った施設へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319391000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319391000.html"/>
-        <updated>2024-01-12T21:32:42.000Z</updated>
-        <summary type="html"><![CDATA[地震のあと公民館に避難していた石川県輪島市のグループホームの高齢者たちが、体調が悪化するおそれがあるとして12日夜、医療態勢が整った小松市のグループホームに移りました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
