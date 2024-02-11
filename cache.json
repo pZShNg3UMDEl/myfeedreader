@@ -2744,36 +2744,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120383/",
-          "author": null,
-          "description": "テレビアニメ「ゆるキャン△ SEASON3」のイメージビジュアル第5弾が公開された。 キャラクターの日常をとらえたイメージビジュアルの第5弾は、犬山あおいが川沿いで休憩しながら身延まんじゅうを食...",
-          "link": "https://anime.eiga.com/news/120383/",
-          "publishedOn": "2024-01-12T13:00:00.000Z",
-          "wordCount": 878,
-          "title": "「ゆるキャン△」シーズン3、犬山あおいが川沿いで身延まんじゅうを食べるイメージビジュアル第5弾公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120375/",
-          "author": null,
-          "description": "オリジナルテレビアニメ「終末トレインどこへいく？」が4月から放送されることが決まり、PV第2弾が公開された。オープニング主題歌は、中島怜による「GA-TAN GO-TON」が作品をいろどる。 同...",
-          "link": "https://anime.eiga.com/news/120375/",
-          "publishedOn": "2024-01-12T12:00:00.000Z",
-          "wordCount": 865,
-          "title": "水島努監督「終末トレインどこへいく？」4月放送開始　2月4日にキャスト登壇の先行上映会開催",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2782,6 +2752,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98037",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/10(土) 08:00:28.92 ID:zWrb9r9T0 携帯と据え置きの […]",
+          "link": "https://switchsoku.com/switch/98037",
+          "publishedOn": "2024-02-11T00:00:42.000Z",
+          "wordCount": 10053,
+          "title": "Swich2の新ギミックを予想しよう",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/nintendo-switch2.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98029",
           "author": "SWITCH速報",
@@ -5041,16 +5021,6 @@
           "wordCount": 10144,
           "title": "新型 Nintendo Switch まだか！",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2-ds.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97025",
-          "author": "SWITCH速報",
-          "description": "猫シミュレーター2024年1月26日まで2000円→100円（95％オフ） 1: 2024/01/1 […]",
-          "link": "https://switchsoku.com/soft/indy/97025",
-          "publishedOn": "2024-01-12T12:00:43.000Z",
-          "wordCount": 10007,
-          "title": "『猫ゲー』ついにSwitchでも配信開始‥お値段100円！",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/972070fd67012d5bee3a08f5f5581e4501e8eb8e9a13093ed3b180a4cc517b54.webp"
         }
       ]
     },
@@ -5790,6 +5760,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240211/k10014354861000.html",
+          "author": null,
+          "description": "鹿児島県南さつま市の養鶏場で、10日、複数のニワトリが死んでいるのが見つかり、遺伝子検査の結果、高病原性とみられる鳥インフルエンザウイルスが検出されました。今シーズン、養鶏場での発生は全国で9例目で、鹿児島県は養鶏場で飼育しているニワトリおよそ1万3000羽の処分を始めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240211/k10014354861000.html",
+          "publishedOn": "2024-02-11T00:09:04.000Z",
+          "wordCount": 607,
+          "title": "鹿児島 南さつまの養鶏場で鳥インフル 約1万3000羽の処分開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240211/K10014354861_2402110903_0211090906_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240211/k10014354791000.html",
           "author": null,
@@ -21619,26 +21599,6 @@
           "wordCount": 586,
           "title": "テスラ 船舶攻撃影響でドイツの工場の生産の大部分一時停止へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319291_2401122223_0112223316_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319301000.html",
-          "author": null,
-          "description": "宅配大手のヤマト運輸は、ことし4月から宅配便などの料金を平均でおよそ2％値上げすると発表しました。燃料価格の上昇に対応するとともにドライバーなどの待遇改善につなげることが理由だとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014319301000.html",
-          "publishedOn": "2024-01-12T12:47:56.000Z",
-          "wordCount": 996,
-          "title": "ヤマト運輸 宅配便の運賃 平均で約2％値上げへ 4月から",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319301_2401122129_0112214410_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240112/k10014319321000.html",
-          "author": null,
-          "description": "12日午後9時10分ごろ、石川県で震度4を観測する地震がありました。この地震による津波の心配はありません。",
-          "link": "http://www3.nhk.or.jp/news/html/20240112/k10014319321000.html",
-          "publishedOn": "2024-01-12T12:25:59.000Z",
-          "wordCount": 538,
-          "title": "石川 志賀町で震度4の地震 津波の心配なし M4.4",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240112/K10014319321_2401122114_0112211535_01_02.jpg"
         }
       ]
     },
@@ -23341,6 +23301,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68284",
+          "author": "299",
+          "description": "お布団の上でまったりしている子猫のそばでひよこがピーピーと激しく鳴き続けています。 子猫はひよこのことをしっかり前足で抱き抱えるようにしながら一生懸命にひよこのことをなだめているように見えます。 母猫が子猫を優しくお世話...\nひよこのママ代わりをする子猫の優しさにキュン first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68284",
+          "publishedOn": "2024-02-11T00:00:54.000Z",
+          "wordCount": 1401,
+          "title": "ひよこのママ代わりをする子猫の優しさにキュン",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68284.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68247",
           "author": "299",
@@ -26870,16 +26840,6 @@
           "wordCount": 1618,
           "title": "ケージから外の世界へ！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66389.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66385",
-          "author": "299",
-          "description": "保護猫の子猫たちが寝床でお昼寝を始めようとしています。2匹のうちの1匹はすでに体を横たえて完全に爆睡モードになっていました。 でももう1匹の子猫は、すぐには眠れないようですでに寝てしまった相手の子猫をやんわりと起こそうと...\nなかなか眠れず相手の子猫を起こそうとする子猫が可愛い〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66385",
-          "publishedOn": "2024-01-12T13:00:37.000Z",
-          "wordCount": 1616,
-          "title": "なかなか眠れず相手の子猫を起こそうとする子猫が可愛い〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66385.jpeg"
         }
       ]
     },
@@ -32084,16 +32044,6 @@
           "wordCount": 2409,
           "title": "庭に金塊埋まってる。神の啓示受け日本に向けて穴を掘り始めたブラジル人。40m掘って転落して死亡",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/3/c3407f54-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032126.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/01/12(金) 08:52:09.49 ID:e1L9DEmb0●.net\n\n\n\n\n\n\n\n\n\n山本太郎氏が動く千羽鶴とか言われてるのワロタwww— 笑顔で決めろ (@Smilebomber461) January 11, 2024 \n\n\n\n\n\n\n\n\n\n\n\nれいわ・山本太郎氏　再び被災地入りを宣言「今から能登半島、...",
-          "link": "https://itainews.com/archives/2032126.html",
-          "publishedOn": "2024-01-12T12:01:59.000Z",
-          "wordCount": 2950,
-          "title": "山本太郎さん、再び能登入り　「動く千羽鶴」「うんこする千羽鶴」「千羽鶴の擬人化」と呼ばれ始める",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/e/0e00a919-s.png"
         }
       ]
     },
