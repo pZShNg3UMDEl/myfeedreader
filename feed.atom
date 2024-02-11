@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T19:35:40.157Z</updated>
+    <updated>2024-02-11T19:50:10.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[将棋の棋士たちがオンラインで被災地支援のチャリティイベント]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355311000.html"/>
+        <updated>2024-02-11T19:47:27.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地を支援しようと、将棋の棋士たちによるオンラインのチャリティイベントが開かれ、棋士や女流棋士がトークショーで被災地への思いを語りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子猫と遊びたかった子犬は諦めて飼い主さんに甘えに行きました]]></title>
         <id>https://2-9-9.com/?p=68350</id>
@@ -37206,16 +37216,6 @@ NHK朝7時のニュース、輪島で救護活動した医師の方、「地震�
         <summary type="html"><![CDATA[1: 2024/01/12(金) 19:47:47.329 ID:xq0sY5sm0 Switchの […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【解説動画】避難生活の高血圧 注意点は？]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240113/k10014319671000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240113/k10014319671000.html"/>
-        <updated>2024-01-13T07:39:12.000Z</updated>
-        <summary type="html"><![CDATA[避難所での生活が長引いている方も多いと思いますが、助かった命を守るため、重要なのが健康の管理です。特に災害時の高血圧について、自治医科大学 苅尾七臣 教授に聞きました。1月13日正午の「NHKニュース」で放送した内容です。※動画は6分40秒 データ放送ではご覧になれません。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
