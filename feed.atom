@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T09:35:37.605Z</updated>
+    <updated>2024-02-11T09:50:26.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル首相 “ラファで地上作戦”強調 懸念の声高まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014355261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014355261000.html"/>
+        <updated>2024-02-11T09:34:29.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルのネタニヤフ首相は、アメリカのテレビ局のインタビューに対し「ラファへの攻撃を行う」と述べ、ガザ地区の最も南にあるラファで地上作戦を行う姿勢を改めて強調しました。100万人以上が密集しているとされるラファへの攻撃が強まればさらなる犠牲は避けられず、国際社会からの懸念の声が高まっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[細田前衆議院議長のお別れの会 地元の松江で行われる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240211/k10014355251000.html</id>
