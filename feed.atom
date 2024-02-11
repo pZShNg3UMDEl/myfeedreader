@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T03:24:05.147Z</updated>
+    <updated>2024-02-11T03:36:07.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震の片づけ “2次災害に気をつけたい” ブロック塀事故受け]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240211/k10014354921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240211/k10014354921000.html"/>
+        <updated>2024-02-11T03:23:54.000Z</updated>
+        <summary type="html"><![CDATA[10日、石川県七尾市で、建物の片づけ作業をしていた60代の男性が、倒れてきたブロック塀に挟まれて意識不明の重体となっている事故で、現場周辺で復旧作業にあたっている人からは、「2次被害に気をつけたい」といった声が聞かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUGIZO、ピースボートと被災地入りし被災家屋前で自撮りパシャ]]></title>
         <id>https://itainews.com/archives/2032988.html</id>
@@ -37055,16 +37065,6 @@ NHK朝7時のニュース、輪島で救護活動した医師の方、「地震�
         <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる事件で、東京地検特捜部は安倍派と二階派の会計責任者について、派閥の政治資金収支報告書にうその記載をした政治資金規正法違反の罪で在宅起訴する方向で検討していることが関係者への取材でわかりました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年1月6日から1月12日】]]></title>
-        <id>https://foodfighter.jp/?p=232808</id>
-        <link href="https://foodfighter.jp/ranking-2024-0113"/>
-        <updated>2024-01-12T15:29:17.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年1月6日から1月12日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキン […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
