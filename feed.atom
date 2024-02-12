@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T10:36:28.114Z</updated>
+    <updated>2024-02-12T10:50:22.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[井村屋 やわもちアイス よもぎもち味【新作アイス】]]></title>
+        <id>https://foodfighter.jp/?p=235798</id>
+        <link href="https://foodfighter.jp/imuraya-yawamochi-yomogi-2024"/>
+        <updated>2024-02-12T10:34:59.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、井村屋株式会社の新商品「井村屋 やわもちアイス よもぎもち味」を世界一詳しく調査しました。   公式YouTubeチ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長野 車どうしが衝突 子ども2人含む7人搬送 女性が意識不明]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240212/k10014356081000.html</id>
@@ -37400,16 +37410,6 @@ JUST IN!! 新着記事⠀ /／🗣「朝パンを食べてから記憶が無い�
 新入り赤ちゃんに興味津々の先住猫たち first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戦闘開始から100日 イスラエルで大規模集会 人質解放呼びかけ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320111000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320111000.html"/>
-        <updated>2024-01-13T22:45:53.000Z</updated>
-        <summary type="html"><![CDATA[イスラエルでは、イスラム組織ハマスとの戦闘が始まってから14日で100日となるのに合わせて大規模な集会が開かれ、パレスチナのガザ地区で拘束されている人質の解放を呼びかけています。イスラエルの軍事作戦が続く中、解放に向けたハマスとの交渉は進展が見られず、事態の打開の見通しは立っていません。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
