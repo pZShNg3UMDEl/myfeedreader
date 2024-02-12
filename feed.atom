@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T15:35:57.575Z</updated>
+    <updated>2024-02-12T15:50:14.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヒトへの臓器移植を想定した特殊なブタ 国内で初めて誕生]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356111000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356111000.html"/>
+        <updated>2024-02-12T15:46:52.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで開発された、ヒトに臓器を移植することを想定した特殊なブタを、明治大学発のベンチャー企業などのグループがクローン技術を使って生産することに成功し、国内で初めて子ブタが生まれたと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山形市で「寒鱈まつり」 庄内地方の冬の味覚を味わう]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240213/k10014355871000.html</id>
@@ -37511,16 +37521,6 @@ JUST IN!! 新着記事⠀ /／🗣「朝パンを食べてから記憶が無い�
         <summary type="html"><![CDATA[期間は1/13(土)午前9時～1/15(月)午前9時の48時間 「FrostyFest」のお題が発表 […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾総統選 当選した民進党の頼氏 日本の窓口機関トップと会談]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320331000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320331000.html"/>
-        <updated>2024-01-14T03:37:14.000Z</updated>
-        <summary type="html"><![CDATA[13日、投票が行われた台湾の総統選挙で当選した与党・民進党の頼清徳氏は14日朝、日本の台湾に対する窓口機関のトップと会談しました。頼氏が、当選から一夜明けてすぐに日本の代表と面会したことは対日関係重視の姿勢のあらわれと言えそうです。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
