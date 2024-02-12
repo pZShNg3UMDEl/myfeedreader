@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T08:35:38.028Z</updated>
+    <updated>2024-02-12T08:50:18.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「積雪の冬に地震と原発事故が同時発生」想定し訓練 新潟]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355941000.html"/>
+        <updated>2024-02-12T08:38:36.000Z</updated>
+        <summary type="html"><![CDATA[新潟県で、雪が積もっている冬に地震と柏崎刈羽原子力発電所での重大事故が同時に起き、避難ルートが寸断されたなどという想定で、住民を避難させる手順などを確認する訓練が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川県内 12日未明から火事相次ぐ 4人死亡 連絡取れない人も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355931000.html"/>
+        <updated>2024-02-12T08:36:40.000Z</updated>
+        <summary type="html"><![CDATA[12日昼前、横浜市で住宅1棟が全焼する火事があり、焼け跡から1人が遺体で見つかりました。神奈川県内では12日未明から火事が相次ぎ、合わせて4人が死亡しているほか、連絡が取れない人もいて、警察が確認などを進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ローソン】盛りすぎ！バスチー −バスク風チーズケーキ−【新作コンビニスイーツ】]]></title>
         <id>https://foodfighter.jp/?p=235777</id>
