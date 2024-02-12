@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T23:23:07.648Z</updated>
+    <updated>2024-02-12T23:35:49.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356281000.html"/>
         <updated>2024-02-12T23:08:23.000Z</updated>
         <summary type="html"><![CDATA[大谷翔平選手はキャンプ4日目の12日、このキャンプで初めてとなる屋外でのフリーバッティングを行いました。21スイング中フェンス越えが10本とパワーあふれるバッティングを見せ、右ひじの手術からの順調な回復ぶりをうかがわせました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NY株式市場 ダウ平均株価 史上最高値を更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356301000.html"/>
+        <updated>2024-02-12T22:10:41.000Z</updated>
+        <summary type="html"><![CDATA[週明け12日のニューヨーク株式市場、ダウ平均株価は、アメリカの景気の先行きへの楽観的な見方を背景に買い注文が出たことから値上がりし、史上最高値を更新しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -37231,16 +37241,6 @@ Abstract:  We present a new method to acquire the 3D information from a SPAD-ba
         <summary type="html"><![CDATA[ロシアによる軍事侵攻が続くウクライナのシュミハリ首相は、ウクライナの長期的な安全の確保のため、およそ30か国との間で安全保障協定の締結などに向けて交渉していると明らかにしました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】富良野メロンのホイップもこ（シュークリーム）【北海道グルメフェア・新作スイーツ】]]></title>
-        <id>https://foodfighter.jp/?p=232918</id>
-        <link href="https://foodfighter.jp/711sej-melon-cream-puff-2024"/>
-        <updated>2024-01-14T11:29:53.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「富良野メロンのホイップもこ」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
