@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T03:25:58.081Z</updated>
+    <updated>2024-02-12T03:37:14.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[神奈川県内 12日未明から火事相次ぐ 2人死亡 2人連絡取れず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355651000.html"/>
+        <updated>2024-02-12T03:31:50.000Z</updated>
+        <summary type="html"><![CDATA[12日未明から朝にかけて神奈川県内では火事が相次いで発生し、2人が死亡したほか、2人の連絡が取れておらず、警察が確認などを進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富山 氷見市 災害廃棄物の仮置き場の受け付け期間を延長]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240212/k10014355671000.html</id>
