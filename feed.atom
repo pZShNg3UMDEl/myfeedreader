@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T21:35:20.321Z</updated>
+    <updated>2024-02-12T21:50:26.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新NISA 投資信託に1兆3000億円近く流入 約16年ぶりの高水準に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356101000.html"/>
+        <updated>2024-02-12T21:47:04.000Z</updated>
+        <summary type="html"><![CDATA[2月13日を金融庁は、日付の語呂合わせで「NISAの日」としています。個人投資家向けの優遇税制のNISAが拡充された先月、ETF＝上場投資信託を除く投資信託の資金の出入りは、流入分が1兆3000億円近く多くなり、およそ16年ぶりの高い水準になったという推計がまとまりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍 ラファで地上作戦か 避難住民 再び避難の動きも]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356131000.html"/>
+        <updated>2024-02-12T21:34:03.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍が12日、ガザ地区南部のラファで人質2人を救出した一方、ガザ地区の保健当局はイスラエル軍の攻撃で少なくとも67人が死亡したとしています。イスラエル軍がラファでの地上作戦を行う構えを示す中、ラファに避難している人の間では恐怖が高まっていて、別の場所に再び避難する動きも出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[気温上昇 季節外れの暖かさに 雪解けによる雪崩などに注意を]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240213/k10014356121000.html</id>
