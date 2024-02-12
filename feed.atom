@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T03:13:20.140Z</updated>
+    <updated>2024-02-12T03:25:58.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[富山 氷見市 災害廃棄物の仮置き場の受け付け期間を延長]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355671000.html"/>
+        <updated>2024-02-12T03:21:27.000Z</updated>
+        <summary type="html"><![CDATA[富山県氷見市は、能登半島地震で被災した住宅などの片づけ作業が進むとともに災害廃棄物の持ち込みが急増していることを受けて、仮置き場の受け付け期間を3月20日まで延長することを決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震6週間 石川 輪島 被災した人も支援物資仕分け配付]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240212/k10014355661000.html</id>
