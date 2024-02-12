@@ -5841,6 +5841,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356121000.html",
+          "author": null,
+          "description": "暖かい空気が流れ込むため、13日は全国的に気温が上がり、季節外れの暖かさが予想されています。積雪が多い地域では雪解けによる雪崩などに十分注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356121000.html",
+          "publishedOn": "2024-02-12T21:23:06.000Z",
+          "wordCount": 748,
+          "title": "気温上昇 季節外れの暖かさに 雪解けによる雪崩などに注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356121_2402130607_0213062308_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356261000.html",
           "author": null,
           "description": "ウクライナ東部のアウディーイウカ周辺でロシア軍が攻撃を強める中、ウクライナ軍は追加の部隊を投入していると明らかにし、防衛を継続できるかが焦点となっています。",
@@ -21779,16 +21789,6 @@
           "wordCount": 734,
           "title": "台湾総統選挙 SNSで中国対抗の候補批判 中国の関与疑う分析も",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240114/K10014320871_2401141900_0114190400_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240114/k10014320801000.html",
-          "author": null,
-          "description": "能登半島地震では、高齢者施設や障害者施設で働く職員が、みずからも被災しながら限られた人員で介護や支援を続けていて、厚生労働省は被災地の施設に応援に入れる介護職員や生活支援員などを募集していましたが、13日までに970人が登録したということです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240114/k10014320801000.html",
-          "publishedOn": "2024-01-14T09:25:58.000Z",
-          "wordCount": 760,
-          "title": "厚労省 あすから被災地の高齢者施設に応援の介護職員を派遣へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240114/K10014320801_2401141822_0114182600_01_02.jpg"
         }
       ]
     },

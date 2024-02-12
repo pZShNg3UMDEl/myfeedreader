@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T21:20:53.650Z</updated>
+    <updated>2024-02-12T21:35:20.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気温上昇 季節外れの暖かさに 雪解けによる雪崩などに注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356121000.html"/>
+        <updated>2024-02-12T21:23:06.000Z</updated>
+        <summary type="html"><![CDATA[暖かい空気が流れ込むため、13日は全国的に気温が上がり、季節外れの暖かさが予想されています。積雪が多い地域では雪解けによる雪崩などに十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナ軍 東部アウディーイウカ周辺 追加の部隊を投入]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240213/k10014356261000.html</id>
@@ -37309,16 +37319,6 @@ Abstract:  We present a new method to acquire the 3D information from a SPAD-ba
         <summary type="html"><![CDATA[テレビアニメ「アイドルマスター シャイニーカラーズ」が、4月からテレビ東京、BS11、BS日テレで放送されることが決まり、キービジュアルが披露された。 同作は、「アイドルマスター」シリーズの同名...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厚労省 あすから被災地の高齢者施設に応援の介護職員を派遣へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320801000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320801000.html"/>
-        <updated>2024-01-14T09:25:58.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震では、高齢者施設や障害者施設で働く職員が、みずからも被災しながら限られた人員で介護や支援を続けていて、厚生労働省は被災地の施設に応援に入れる介護職員や生活支援員などを募集していましたが、13日までに970人が登録したということです。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
