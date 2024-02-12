@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T07:35:20.089Z</updated>
+    <updated>2024-02-12T07:50:25.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[輪島と珠洲の事業者  少なくとも6割「営業できる状況にない」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355851000.html"/>
+        <updated>2024-02-12T07:47:34.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県輪島市と珠洲市で、地元の信用金庫が取引先の事業者を対象に聞き取りを行ったところ、少なくとも6割が「営業できる状況にない」と回答しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女性問題で失脚した「若新雄純氏」の会社に立憲民主党が3年間で780万円を支払っていた]]></title>
         <id>https://itainews.com/archives/2033016.html</id>
@@ -37292,26 +37302,6 @@ JUST IN!! 新着記事⠀ /／🗣「朝パンを食べてから記憶が無い�
 飼い主さんへの愛情表現が恋人のような猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社民 福島党首が中国訪問へ 日中関係改善に向け意見交換予定]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320081000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320081000.html"/>
-        <updated>2024-01-13T19:47:42.000Z</updated>
-        <summary type="html"><![CDATA[社民党の福島党首は、今週、中国を訪問して中国共産党の高官らと会談し、日中関係の改善に向けて意見を交わすことにしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライフライン 14日】給水予定 いつ どこで 詳細情報]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240114/k10014320001000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240114/k10014320001000.html"/>
-        <updated>2024-01-13T19:41:20.000Z</updated>
-        <summary type="html"><![CDATA[1日に石川県能登地方で震度7の揺れを観測した地震により、断水の影響が続いています。14日、予定されている給水支援の情報です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
