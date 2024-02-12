@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T02:19:47.860Z</updated>
+    <updated>2024-02-12T02:35:49.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 新型の多連装ロケット砲の発射実験 11日に実施と発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355611000.html"/>
+        <updated>2024-02-12T02:25:30.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮は、新型の多連装ロケット砲の発射実験を11日に実施したと発表しました。ロケット砲は韓国を目標にした兵器で、北朝鮮はことしで4年目となる「国防5か年計画」に沿って通常兵器の能力向上を図っているとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ダイハツ 一部車種の生産再開 全面再開のめどは立たず影響懸念]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355621000.html"/>
+        <updated>2024-02-12T02:19:46.000Z</updated>
+        <summary type="html"><![CDATA[「ダイハツ工業」は、国の認証を不正に取得していた問題を受けて、国内すべての自動車工場の稼働を停止していましたが、12日、およそ1か月半ぶりに一部の車種に限って生産を再開しました。ただ、全面的な生産再開のめどは依然として立たない状況が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Switch の台数って多分PS2超えるんじゃね？]]></title>
         <id>https://switchsoku.com/?p=98069</id>
