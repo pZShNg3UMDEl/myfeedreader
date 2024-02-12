@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T09:36:12.259Z</updated>
+    <updated>2024-02-12T09:50:32.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[青森 むつ 積雪少なく屋内で雪合戦大会 紙で作った“雪玉”で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355991000.html"/>
+        <updated>2024-02-12T09:48:42.000Z</updated>
+        <summary type="html"><![CDATA[青森県むつ市では、平年に比べて積雪が少ない影響で、予定していた雪合戦の大会を屋内での開催に変更し、子どもたちが雪玉の代わりに紙で作った玉をぶつけ合いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政府 東南アジア4か国の海上保安当局に長期的支援の方針固める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240212/k10014355971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240212/k10014355971000.html"/>
+        <updated>2024-02-12T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[日本政府は、フィリピンやベトナムなど東南アジアの4か国の海上保安当局に対して長期的な支援を行う方針を固め、計画作りに乗り出しました。専門家は、南シナ海で各国と領有権争いが続く中国を念頭にしたものだと指摘し、「各国にとって非常に力強い助けになる」と分析しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島 被災した人たちが避難所の運営を担い続けるところも]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240212/k10014355951000.html</id>
