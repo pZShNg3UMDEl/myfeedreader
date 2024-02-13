@@ -2789,21 +2789,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120377/",
-          "author": null,
-          "description": "吉川晃司と石丸幹二が、「映画ドラえもん のび太の地球交響楽（シンフォニー）」のゲスト声優を務めていることがわかった。吉川はデビュー40周年にして声優に初挑戦し、石丸は「映画ドラえもん」シリーズに...",
-          "link": "https://anime.eiga.com/news/120377/",
-          "publishedOn": "2024-01-15T03:00:00.000Z",
-          "wordCount": 813,
-          "title": "デビュー40周年の吉川晃司、「映画ドラえもん」最新作で声優初挑戦　石丸幹二もシリーズ初参戦",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5900,6 +5885,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014357261000.html",
+          "author": null,
+          "description": "今月7日、千葉県大多喜町で焼けた車の中から遺体が見つかった事件で警察が身元の特定を進めた結果、ベトナム国籍の29歳の男性と確認されました。事件の背景に金銭トラブルがあるとみられ、警察はトラブルになっていたベトナム国籍の数人組が事情を知っているとみて行方を捜査しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014357261000.html",
+          "publishedOn": "2024-02-13T14:03:22.000Z",
+          "wordCount": 659,
+          "title": "焼けた車の中の遺体 ベトナム国籍の男性と確認 千葉 大多喜町",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014357261_2402132049_0213230324_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014357391000.html",
           "author": null,
@@ -22069,46 +22064,6 @@
           "wordCount": 721,
           "title": "14日の北朝鮮ミサイル発射 日米韓の高官が電話協議 強く非難",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321141_2401151125_0115121409_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321211000.html",
-          "author": null,
-          "description": "警視庁が創設されてから150年となる15日、天皇皇后両陛下も出席されて記念の式典が開かれ、天皇陛下はおことばのなかで能登半島地震の犠牲者を悼む気持ちなどを述べられました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321211000.html",
-          "publishedOn": "2024-01-15T03:10:07.000Z",
-          "wordCount": 719,
-          "title": "天皇陛下 地震の犠牲者を悼む 警視庁創設150年の式典で",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321211_2401151151_0115121009_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321271000.html",
-          "author": null,
-          "description": "15日の東京株式市場、日経平均株価は値上がりし、取り引き時間中としては1990年2月のバブル期以来の最高値を更新しました。高値の更新は5営業日連続です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321271000.html",
-          "publishedOn": "2024-01-15T03:07:59.000Z",
-          "wordCount": 675,
-          "title": "日経平均株価 バブル期以来の最高値を更新 5営業日連続",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321271_2401151205_0115120802_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321201000.html",
-          "author": null,
-          "description": "最大震度7を観測した能登半島地震の発生から15日で2週間です。今月1日以降、体に揺れを感じる地震は1400回近くにのぼるなど活発な地震活動が続いていて、引き続き震度5強程度かそれ以上の揺れに注意が必要です。一方、被災地は15日朝も厳しい冷え込みとなり16日にかけて雪が降る見込みで、揺れで地盤が緩んでいる地域では土砂災害に警戒し、低体温症にも十分注意してください。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321201000.html",
-          "publishedOn": "2024-01-15T02:58:44.000Z",
-          "wordCount": 846,
-          "title": "地震から2週間 被災地あすにかけ雪 捜索見合わせるところも",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321201_2401151209_0115121048_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321151000.html",
-          "author": null,
-          "description": "アメリカ大統領選挙に向けた野党・共和党の候補者選びの初戦、中西部アイオワ州の党員集会が日本時間の16日行われます。アイオワ州が記録的な寒波に見舞われる中、トランプ前大統領など各候補者が直前まで支持を訴えました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321151000.html",
-          "publishedOn": "2024-01-15T02:55:11.000Z",
-          "wordCount": 768,
-          "title": "米大統領選 共和党候補者選び初戦 アイオワ州 各候補支持訴え",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321151_2401151110_0115115513_01_02.jpg"
         }
       ]
     },
@@ -22117,6 +22072,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235967",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「フタバ食品 ダンディー バニラ」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
+          "link": "https://foodfighter.jp/711sej-dandy-vanilla-2024",
+          "publishedOn": "2024-02-13T15:06:28.000Z",
+          "wordCount": 1889,
+          "title": "【セブンイレブン】フタバ食品 ダンディー バニラ【新作コンビニアイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/0de058e6f3531bf4e91269af408a9174.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235945",
           "author": "foodfighter",
@@ -32664,16 +32629,6 @@
           "wordCount": 2383,
           "title": "【名古屋】教諭同士が校内で性行為　市教委、処分できず　男性自主退職で示談",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/2/7207c57a.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032199.html",
-          "author": "damono3856",
-          "description": "1 名前：デビルゾア ★：2024/01/15(月) 04:10:40.59 ID:40jOxZQH9.net\n\n\n\n\n\n\n\nYouTubeの新しい広告ブロッカー対策は「読み込み速度の大幅低下」 https://t.co/mcPJEm8pKl pic.twitter.com/UIIK7MXmvT— ゴリミー公式アカウント (@gori_me) January 14, 2024  \n\n\n\n\n\n\nYou...",
-          "link": "https://itainews.com/archives/2032199.html",
-          "publishedOn": "2024-01-15T03:01:31.000Z",
-          "wordCount": 2580,
-          "title": "【IT】YouTubeが広告ブロック対策として「広告ブロックしてるブラウザで動画の読み込みを意図的に大幅低下させている」可能性",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/a/bab56856-s.png"
         }
       ]
     },
