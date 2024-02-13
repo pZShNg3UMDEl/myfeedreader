@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T04:14:54.374Z</updated>
+    <updated>2024-02-13T04:28:20.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まだApple Vision Proは未完成、「理想型まで4世代かかる」との社内情報]]></title>
+        <id>https://gadget.phileweb.com/?p=68657</id>
+        <link href="https://gadget.phileweb.com/post-68657/"/>
+        <updated>2024-02-13T04:27:32.000Z</updated>
+        <summary type="html"><![CDATA[一般的に新たなカテゴリーの初代製品はバグや欠点が残っていることが避けがたく、ことアップル製品の初物買いは、リスクや未熟さも込みで楽しむものだといわれる。アップルが今月初めに米国で発売した空間コンピュータ「Apple Vision Pro」は、その究極の形だろう。 それはユーザーのみならず、アップル社 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もしかしてニンダイ、今月ないの？]]></title>
         <id>https://switchsoku.com/?p=98102</id>
@@ -134,6 +144,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356451000.html"/>
         <updated>2024-02-13T02:48:18.000Z</updated>
         <summary type="html"><![CDATA[イスラエル軍はガザ地区南部のラファで人質2人を救出する際の映像を公開しました。イスラエル政府としてはラファへの地上作戦を行う構えを示す中、イスラム組織ハマスへの軍事的圧力を強めることが人質の解放につながるとアピールするねらいもあるとみられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ダルビッシュ 13年目へ「健康にシーズン迎えられるよう調整」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356421000.html"/>
+        <updated>2024-02-13T02:38:16.000Z</updated>
+        <summary type="html"><![CDATA[大リーグで日本のピッチャーとして最長となる13年目のシーズンを迎えるパドレスのダルビッシュ有投手がキャンプ地で取材に応じ、「まずは健康にシーズンを迎えられるように調整したい」と意気込みを話しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -37368,16 +37388,6 @@ Abstract:  We present a new method to acquire the 3D information from a SPAD-ba
 子猫にお湯をかけてみた first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サッカーアジア杯 日本は初戦白星スタート ベトナムに逆転勝ち]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321041000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321041000.html"/>
-        <updated>2024-01-14T16:18:04.000Z</updated>
-        <summary type="html"><![CDATA[サッカーのアジアカップで、3大会ぶりの優勝を目指す日本が1次リーグの初戦に臨み、ベトナムに一時リードされる苦しい展開になりながらも4対2で勝ち、白星スタートを切りました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
