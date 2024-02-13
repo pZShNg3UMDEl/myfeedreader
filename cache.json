@@ -2774,21 +2774,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120387/",
-          "author": null,
-          "description": "「劇場版 SPY×FAMILY CODE: White」の公開後ポスタービジュアルが披露された。 同ビジュアルは、両手を広げて「ちち」に駆け寄るアーニャと、そんなアーニャを優しく見守る父・ロイド...",
-          "link": "https://anime.eiga.com/news/120387/",
-          "publishedOn": "2024-01-15T09:00:00.000Z",
-          "wordCount": 825,
-          "title": "「劇場版 SPY×FAMILY」“ちち”に駆け寄るアーニャ――家族の絆を感じる新ビジュアル公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5865,6 +5850,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357331000.html",
+          "author": null,
+          "description": "去年4月に行われた東京の江東区長選挙をめぐり公職選挙法違反の買収などの罪に問われている柿沢未途前法務副大臣の初公判が14日、東京地方裁判所で開かれます。元議員は起訴された内容を認めるとみられ、現金を提供した経緯などについてどのように説明するか注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357331000.html",
+          "publishedOn": "2024-02-13T20:51:33.000Z",
+          "wordCount": 861,
+          "title": "柿沢未途前法務副大臣 きょう初公判 東京地裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357331_2402132108_0214055135_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357251000.html",
+          "author": null,
+          "description": "「世界最大の直接選挙」とも言われるインドネシアの大統領選挙の投票が14日行われます。高い支持率を誇る現職のジョコ大統領の政策を継続するかどうかが争点となっていて、2億人を超える有権者の判断が注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357251000.html",
+          "publishedOn": "2024-02-13T20:49:41.000Z",
+          "wordCount": 993,
+          "title": "「世界最大の直接選挙」インドネシア大統領選 きょう投票",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357251_2402132036_0213214505_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357131000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、野党側は、自民党が行ったアンケート調査は不十分だとして、政治倫理審査会を開いて関係議員を出席させるよう14日の予算委員会の集中審議で迫る方針です。一方、自民党は本人の意向を確認しながら、応じるか検討することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357131000.html",
+          "publishedOn": "2024-02-13T20:47:41.000Z",
+          "wordCount": 791,
+          "title": "政治資金問題 野党側 政治倫理審査会に関係議員出席を迫る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357131_2402131939_0214054743_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357491000.html",
           "author": null,
@@ -21934,46 +21949,6 @@
           "wordCount": 742,
           "title": "富山 氷見  断水で休業続いていた温泉旅館が営業再開",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321901_2401151819_0115183053_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321671000.html",
-          "author": null,
-          "description": "石川県によりますと、15日午後2時時点で輪島市、珠洲市、能登町の少なくとも15地区の415人が道路が通れなくなるなどして、依然として孤立状態になっているということです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321671000.html",
-          "publishedOn": "2024-01-15T09:04:27.000Z",
-          "wordCount": 786,
-          "title": "「無事と伝えて」孤立状態 少なくとも15地区415人【15日】",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321671_2401151736_0115173808_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321801000.html",
-          "author": null,
-          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受け、安倍派に所属する衆議院長崎3区選出の谷川弥一議員が長崎県連の会長を辞任しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321801000.html",
-          "publishedOn": "2024-01-15T09:03:18.000Z",
-          "wordCount": 430,
-          "title": "自民 谷川弥一議員が長崎県連会長を辞任 政治資金めぐる問題で",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321801_2401151800_0115180320_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321781000.html",
-          "author": null,
-          "description": "能登半島地震で被災し、石川県から拠点を移す日本航空高校石川の野球部員の受け入れが15日、山梨県にある系列校のキャンパスで始まりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321781000.html",
-          "publishedOn": "2024-01-15T09:00:09.000Z",
-          "wordCount": 870,
-          "title": "被災の日本航空石川 野球部員ら山梨の系列校へ センバツ目指し",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321781_2401151739_0115174931_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321761000.html",
-          "author": null,
-          "description": "JR京葉線で、朝と夕方以降の時間帯で快速と通勤快速の運行を取りやめるとしたダイヤ改正について、JR東日本は、千葉市など沿線の自治体からの要望に応じて一部を見直し、早朝の上りの快速2本に限って運行を継続する考えを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321761000.html",
-          "publishedOn": "2024-01-15T08:57:33.000Z",
-          "wordCount": 850,
-          "title": "JR京葉線 快速廃止のダイヤ改正見直し 早朝上り快速2本継続へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321761_2401151740_0115175057_01_02.jpg"
         }
       ]
     },
@@ -32449,16 +32424,6 @@
           "wordCount": 2501,
           "title": "【教育】「英語の時間が足りない」受験生悲鳴─24年共通テストは英語筆記の分量がセンター時代の\"1.8倍\"…問題量が年々増加",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/9/79dfaa0a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032204.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(やわらか銀行) [KW]：2024/01/14(日) 12:01:59.11 ID:GPz7iseM0●.net \n\n\n\n\n\n\n\n\n\n【「表と裏」の法律知識 ／髙橋裕樹】松本人志さんが週刊文春を名誉毀損で提訴…勝訴なら損害賠償は過去最高額級に？ https://t.co/fRUxuYD4Ks #日刊ゲンダイD...",
-          "link": "https://itainews.com/archives/2032204.html",
-          "publishedOn": "2024-01-15T09:01:18.000Z",
-          "wordCount": 2669,
-          "title": "松本人志って会見で「例の会はあったが強要したつもりはなかった。ごめんなさい」で済んだよな？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/0/40d0ec01-s.png"
         }
       ]
     },
