@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T21:36:38.772Z</updated>
+    <updated>2024-02-13T21:50:43.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 盗塁のスタートの動きなど確認 転倒のアクシデントも]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240214/k10014357631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240214/k10014357631000.html"/>
+        <updated>2024-02-13T21:35:29.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手がアリゾナ州で行われているキャンプで、およそ50分にわたって盗塁の際のスタートの動きなどを入念に確認しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柿沢未途前法務副大臣 きょう初公判 東京地裁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240214/k10014357331000.html</id>
@@ -37448,16 +37458,6 @@ Link]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321401000.html"/>
         <updated>2024-01-15T09:54:28.000Z</updated>
         <summary type="html"><![CDATA[「こんな状態だから、行っても迷惑がかかる」被災地では依然1万9000人あまりが避難所に身を寄せていますが、中には被災した自宅にやむをえずとどまり続けている人たちもいます。地震から2週間。石川、富山、新潟で、取材にこたえてくださったみなさんの声をまとめました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川県 能登半島地震の死者名を初めて公表 遺族同意の23人分]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321931000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321931000.html"/>
-        <updated>2024-01-15T09:45:10.000Z</updated>
-        <summary type="html"><![CDATA[石川県は、能登半島地震で亡くなった方のうち、遺族の同意が得られた23人について氏名や住所などを15日、初めて公表しました。県は亡くなったほかの方々についても遺族の同意が得られれば随時、公表するとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
