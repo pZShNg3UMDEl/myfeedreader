@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T23:12:51.678Z</updated>
+    <updated>2024-02-13T23:23:47.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領 トランプ氏の発言非難 NATO同盟国の役割強調]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240214/k10014357641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240214/k10014357641000.html"/>
+        <updated>2024-02-13T23:14:44.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのトランプ前大統領が、十分な軍事費を負担しないNATO＝北大西洋条約機構の加盟国は防衛しないと発言したことについて、バイデン大統領は「危険なメッセージだ」と述べて強く非難するとともに、アメリカは同盟国としての役割を果たしていくと強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【体幹強化＋美姿勢へ★】ピラティスマシンも導入☆昨年11月オープンの「はるひボディプラスピラティス」体験レポート！［厚木市中町］]]></title>
         <id>https://atsugi-lab.com/?p=40931</id>
@@ -37321,16 +37331,6 @@ Link]]></summary>
         <updated>2024-01-15T11:30:50.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眠れず 暖取れず…避難所で死者も なぜ2次避難は進まないのか]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321601000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321601000.html"/>
-        <updated>2024-01-15T11:13:05.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震の発生から15日で2週間。避難生活が長引く中、災害関連死を防げるか、大きな課題となっています。被災地では、生活を立て直すため「2次避難」を決断した人がいる一方で、避難所や自宅にとどまるという人もいて、石川県によると、「2次避難所」として約2万8000人分を確保しているのに対し、14日の時点で入ったのは792人だということです。なぜ判断が分かれるのか？そもそも「2次避難」とは？簡単には進まない実情が見えてきました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
