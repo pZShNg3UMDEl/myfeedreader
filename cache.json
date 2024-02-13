@@ -2738,6 +2738,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98104",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/12(月) 17:01:00.14 ID:/WjD72/n0 ファミ通では40 […]",
+          "link": "https://switchsoku.com/soft/zelda/98104",
+          "publishedOn": "2024-02-13T06:00:30.000Z",
+          "wordCount": 10066,
+          "title": "ゼルダの伝説風のタクトとかいう伝説風ではない名作ｗ",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/06/zelda-kazenotakuto.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98102",
           "author": "SWITCH速報",
           "description": "1: 2024/02/09(金) 00:14:58.79 ID:HXJiO ニンダイが楽しみで生きて […]",
@@ -5025,6 +5035,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YGEufkhx57k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YGEufkhx57k",
+          "publishedOn": "2024-02-13T06:00:22.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】虹箱ラッシュキタ!?ブレアの炎槍は出るのか!?無課金勇者が四天王ブレア装備他40連で勝負をかける!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AB1XCpRWwOo",
           "author": null,
           "description": "",
@@ -5767,16 +5787,6 @@
           "wordCount": 3828,
           "title": "Job Postings - Week of 14 January 2024",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/01/histogram-less-spad-lidar.html",
-          "author": null,
-          "description": "Tontini et al. from  FBK and University of Trento recently published an article titled \"Histogram-less LiDAR through SPAD response linearization\" in the IEEE Sensors journal.\n\nOpen access link: https://ieeexplore.ieee.org/document/10375298\nAbstract:  We present a new method to acquire the 3D information from a SPAD-based direct-Time-of-Flight (d-ToF) imaging system which does not require the construction of a histogram of timestamps and can withstand high flux operation regime. The proposed acquisition scheme emulates the behavior of a SPAD detector with no distortion due to dead time, and extracts the TOF information by a simple average operation on the photon timestamps ensuring ease of integration in a dedicated sensor and scalability to large arrays. The method is validated through a comprehensive mathematical analysis, whose predictions are in agreement with a numerical Monte Carlo model of the problem. Finally, we show the validity of the predictions in a real d-ToF measurement setup under challenging background conditions well beyond the typical pile-up limit of 5% detection rate up to a distance of 3.8m.",
-          "link": "http://image-sensors-world.blogspot.com/2024/01/histogram-less-spad-lidar.html",
-          "publishedOn": "2024-01-14T18:00:00.001Z",
-          "wordCount": 3849,
-          "title": "Histogram-less SPAD LiDAR",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikR7UDUdvx9hil3KEWbkrZ95ZKIoE31QirSwCfaMOX1JrzhaQhhXaOKC5fqGlKjxfXxmetMzbn1WwW2QhqRUikp-YLrmjWe5Iu3h1WUT5bYd1W0tIPlbzIfKjbUBwdu1mkrYkfV6ahoDRqNASTZByESOPoCCwFaDYhQlAejC4YrbufqpN-SuRp/w1200-h630-p-k-no-nu/Capture1.PNG"
         }
       ]
     },
@@ -5785,6 +5795,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356641000.html",
+          "author": null,
+          "description": "ダイハツ工業は、国の認証取得の不正問題で、奥平総一郎社長が3月1日付けで退任すると発表しました。後任の社長にはトヨタ自動車の井上雅宏中南米本部・本部長が就任します。ダイハツは、松林淳会長も職を退くことになり、経営体制を刷新します。今回の問題では、一時、国内のすべての自動車工場で生産を停止する事態となり、親会社のトヨタ自動車ともに小型車事業などグループ内の事業の見直しも進めることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356641000.html",
+          "publishedOn": "2024-02-13T06:10:32.000Z",
+          "wordCount": 796,
+          "title": "ダイハツ 奥平社長と松林会長が退任へ 認証取得の不正問題受け",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356641_2402131503_0213151034_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356661000.html",
           "author": null,
@@ -5814,6 +5834,16 @@
           "wordCount": 676,
           "title": "自民 政治資金問題アンケート結果 現職議員82人に不記載など",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356491_2402131301_0213130220_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356561000.html",
+          "author": null,
+          "description": "能登半島地震で被害を受けた、石川県の高齢者世帯などを対象に、追加で最大300万円程度を支給する政府の支援策をめぐり、対象を富山県にも広げるよう求める意見が出ていることについて、武見厚生労働大臣は、県単位での被害規模が異なるとして、対象地域の拡大に慎重な考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356561000.html",
+          "publishedOn": "2024-02-13T03:39:35.000Z",
+          "wordCount": 644,
+          "title": "政府 被災世帯への支援策 “対象地域拡大は慎重に”武見厚労相",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356561_2402131202_0213123913_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356591000.html",
@@ -23587,6 +23617,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=68384",
+          "author": "299",
+          "description": "保護された子猫たちがケージのなかで元気よく鳴いています。ケージから外に出してもらいたいのか、もしくはお腹が空いているのでごはんが食べたくて騒いでいるのかのどちらかでしょう。 こうして見る限り子猫たちは、どの子も元気いっぱ...\n巣立っていった子猫に1年ぶりに会いにいったら美猫さんに成長していて感動 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68384",
+          "publishedOn": "2024-02-13T06:00:07.000Z",
+          "wordCount": 1399,
+          "title": "巣立っていった子猫に1年ぶりに会いにいったら美猫さんに成長していて感動",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68384.jpg"
+        },
+        {
           "id": "https://2-9-9.com/?p=68379",
           "author": "299",
           "description": "椅子の上でチョロチョロと動き回っている子猫のシルバーのキジトラちゃんの名前はコロちゃんです。なぜか落ち着かない様子で、チラチラと一点を見つめています。 どうやら兄弟猫のウリちゃんがひとり残されて寂しそうにしていたので、コ...\n兄弟で部屋中をかけまわって遊ぶ子猫たちのパワーに圧倒されます first appeared on 肉球ドットコム（299.com）.",
@@ -27115,16 +27155,6 @@
           "wordCount": 1633,
           "title": "抱っこしてニャ～と甘えに来る子猫達",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66544.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66592",
-          "author": "299",
-          "description": "今回ご紹介するのは独特な寝相で眠る子猫ちゃんです。 いくらなんでもその体勢で眠るのは苦しいでしょ？とツッコミを入れたくなること間違いなしの寝姿をご覧ください。 石の上で野良の三毛子猫ちゃんが眠っていました。 気持ち良さそ...\n野良子猫の寝相が可愛すぎる first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66592",
-          "publishedOn": "2024-01-14T18:00:48.000Z",
-          "wordCount": 1624,
-          "title": "野良子猫の寝相が可愛すぎる",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66592.jpeg"
         }
       ]
     },
@@ -32654,6 +32684,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtceiniicYEsbAVuWy-Bi0Q",
       "siteUrl": "https://www.youtube.com/channel/UCtceiniicYEsbAVuWy-Bi0Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9KWE0iMvu9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9KWE0iMvu9M",
+          "publishedOn": "2024-02-13T06:00:15.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』の新情報をお届け「スマートウォーク」#87",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CknCwTuruNM",
           "author": null,
