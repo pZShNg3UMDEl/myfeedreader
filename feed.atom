@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T15:35:38.969Z</updated>
+    <updated>2024-02-13T15:50:30.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米議会上院 ウクライナ支援の予算案可決も 成立は不透明な状況]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240214/k10014357531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240214/k10014357531000.html"/>
+        <updated>2024-02-13T15:43:16.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ議会上院はこれまで与野党の対立で宙に浮いていたウクライナへの軍事支援の予算について、13日、緊急の予算案を可決しました。ただ、野党・共和党の下院議長はこの予算案に否定的な考えを示していて、予算案が成立するかは依然、不透明な状況です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソフトバンクとエヌビディア AI新技術実用化の業界団体設立へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240214/k10014357151000.html</id>
@@ -37700,16 +37710,6 @@ Link]]></summary>
         <summary type="html"><![CDATA[1: 2024/01/03(水) 16:50:18.037 ID:qSWDmpRur 可愛いポケモン […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮の弾道ミサイル“中距離と推定 詳細は分析中” 官房長官]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321261000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321261000.html"/>
-        <updated>2024-01-15T03:47:23.000Z</updated>
-        <summary type="html"><![CDATA[14日、北朝鮮から発射された弾道ミサイルについて、林官房長官は、中距離弾道ミサイルと推定する一方、極超音速兵器かどうかは分析中だとしたうえで、今回の対応を含め、日米韓3か国で即時に情報を共有するしくみが運用されていることを明らかにしました。14日の弾道ミサイル発射について、北朝鮮は、従来の液体燃料式より迅速に発射できる固体燃料式の中距離弾道ミサイルの発射実験だったと発表するとともに、極超音速で滑空する弾頭が装着されたと主張しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
