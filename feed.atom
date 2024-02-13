@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T07:22:13.270Z</updated>
+    <updated>2024-02-13T07:35:22.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[季節外れの暖かさ スキー場 今週末にも営業休止か 新潟 上越]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356771000.html"/>
+        <updated>2024-02-13T07:25:04.000Z</updated>
+        <summary type="html"><![CDATA[この冬、降雪量が少ない影響で新潟県上越市では雪不足となっているスキー場もあり、管理する市は13日からの季節外れの暖かさでさらに雪が減った場合、早ければ今週末にも営業を休止する可能性があるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電動スクーターが合体、オート三輪に。「Surge S32」インドのメーカーが発売へ]]></title>
         <id>https://gadget.phileweb.com/?p=68691</id>
