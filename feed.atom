@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T20:27:57.063Z</updated>
+    <updated>2024-02-13T20:38:02.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[きょうも季節外れの暖かさ 雪どけによる雪崩など十分注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240214/k10014357521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240214/k10014357521000.html"/>
+        <updated>2024-02-13T20:30:07.000Z</updated>
+        <summary type="html"><![CDATA[暖かい空気が流れ込み、14日も全国的に季節外れの暖かさが続く予想です。15日も平年と比べて気温がかなり高くなる見込みで、積雪が多い地域では雪どけによる雪崩などに十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ベビーシッター利用割引券 前年比1.8倍 約70万枚発行へ 新年度]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240214/k10014357241000.html</id>
