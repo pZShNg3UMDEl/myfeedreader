@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T04:28:20.055Z</updated>
+    <updated>2024-02-13T04:38:38.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -37377,17 +37377,6 @@ Open access link: https://ieeexplore.ieee.org/document/10375298
 Abstract:  We present a new method to acquire the 3D information from a SPAD-based direct-Time-of-Flight (d-ToF) imaging system which does not require the construction of a histogram of timestamps and can withstand high flux operation regime. The proposed acquisition scheme emulates the behavior of a SPAD detector with no distortion due to dead time, and extracts the TOF information by a simple average operation on the photon timestamps ensuring ease of integration in a dedicated sensor and scalability to large arrays. The method is validated through a comprehensive mathematical analysis, whose predictions are in agreement with a numerical Monte Carlo model of the problem. Finally, we show the validity of the predictions in a real d-ToF measurement setup under challenging background conditions well beyond the typical pile-up limit of 5% detection rate up to a distance of 3.8m.]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子猫にお湯をかけてみた]]></title>
-        <id>https://2-9-9.com/?p=66584</id>
-        <link href="https://2-9-9.com/archives/66584"/>
-        <updated>2024-01-14T16:30:35.000Z</updated>
-        <summary type="html"><![CDATA[キッチンの流し台をお風呂に見立てて子猫ちゃんにお湯をかけてみました。 猫は水を嫌い性質がありますし、果たして子猫ちゃんは素直に従ってくれるのでしょうか？ それではご覧ください。 飼い主さんはキッチンの流し台で子猫ちゃんを...
-子猫にお湯をかけてみた first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
         </author>
     </entry>
 </feed>
