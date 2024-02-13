@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T11:23:20.383Z</updated>
+    <updated>2024-02-13T11:35:28.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】豚ロース生姜焼き弁当【コンビニ弁当新商品】]]></title>
+        <id>https://foodfighter.jp/?p=235945</id>
+        <link href="https://foodfighter.jp/711sej-shogayaki-bento-2024"/>
+        <updated>2024-02-13T11:19:15.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「豚ロース生姜焼き弁当」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[足立成和信用金庫と東栄信用金庫 2025年の合併目指し最終交渉]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240213/k10014357211000.html</id>
@@ -37687,16 +37697,6 @@ You...]]></summary>
         <summary type="html"><![CDATA[日本航空電子工業は、8A通電対応の電源端子を搭載したFPCコネクター「WP86SD」シリーズを発表した。従来の2列端子を4列に分岐させたQuad-Row配列を採用し、嵌合ピッチを0.25mmとすることで、コネクターの外形サイズを小型化した。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジル版の“紅白歌合戦” 締めは八代亜紀さんの歌で追悼も]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321101000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321101000.html"/>
-        <updated>2024-01-14T23:35:08.000Z</updated>
-        <summary type="html"><![CDATA[世界最大の日系人社会がある南米のブラジルで、ブラジル版の紅白歌合戦が開かれました。歌合戦の締めくくりには、去年12月に亡くなった八代亜紀さんの歌が披露され、別れを惜しんでいました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
