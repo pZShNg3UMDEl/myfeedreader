@@ -2729,21 +2729,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120373/",
-          "author": null,
-          "description": "「エクスペンダブルズ」シリーズの最新作「エクスペンダブルズ ニューブラッド」（公開中）のスペシャル映像が、このほど公開された。テレビアニメ「ダンベル何キロ持てる？」のオープニングテーマ「お願いマ...",
-          "link": "https://anime.eiga.com/news/120373/",
-          "publishedOn": "2024-01-14T12:00:00.000Z",
-          "wordCount": 847,
-          "title": "【筋肉つながり】“エクスペ仕様”の「お願いマッスル」歌詞テロップで「ダンベル何キロ持てる？」「エクスペンダブルズ」コラボ映像披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2752,6 +2737,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98096",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/12(月) 12:33:47.48 ID:bOuireuL0 あの時代にフル3 […]",
+          "link": "https://switchsoku.com/ds/98096",
+          "publishedOn": "2024-02-13T00:00:56.000Z",
+          "wordCount": 10016,
+          "title": "ニンテンドー64とかいうオーパーツゲーム機",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/11/NINTENDO64.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=98092",
           "author": "SWITCH速報",
@@ -5011,16 +5006,6 @@
           "wordCount": 9992,
           "title": "なんかもう普通に『スマブラ』新作が出そうな雰囲気だな",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/10/sumabra-sakurai.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97086",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/14(日) 09:00:46.814 ID:G+7hflnE0 マスターソード […]",
-          "link": "https://switchsoku.com/soft/zelda/97086",
-          "publishedOn": "2024-01-14T12:00:58.000Z",
-          "wordCount": 9993,
-          "title": "ゼルダBotWとTotKクリアしたから『時オカ」始めたけど流石にグラちょっとキツいな",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/06/tokioka.jpg"
         }
       ]
     },
@@ -5515,16 +5500,6 @@
           "wordCount": 4396,
           "title": "お昼を食べたら運動しよう",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9391",
-          "author": "watanabe@logipara.com",
-          "description": "さて、本日紹介するゲームは「DREDGE」です。 Steamで「圧倒的好評」を誇るこちらのゲーム。 ベースは「釣り」となっています。タイミングに合わせてボタンを押すことで、魚を釣っていくゲームです。 魚を釣り、換金し、そ […]",
-          "link": "https://logipara.com/game/dredge",
-          "publishedOn": "2024-01-14T12:52:35.000Z",
-          "wordCount": 4398,
-          "title": "ゲームレビュー：クトゥルフ的世界で釣りをしよう！「DREDGE」",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/01/DREDGE-2024_01_05-14_53_11-1024x576.jpg"
         }
       ]
     },
@@ -5800,6 +5775,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356321000.html",
+          "author": null,
+          "description": "アメリカのオースティン国防長官は入院のため、今週予定していたベルギー訪問を取りやめ、欧米などがウクライナへの軍事支援について話し合う会合にはオンラインで参加する見通しとなりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356321000.html",
+          "publishedOn": "2024-02-13T00:48:17.000Z",
+          "wordCount": 662,
+          "title": "アメリカ国防長官 ベルギー訪問取りやめ 会合はオンライン参加",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356321_2402130825_0213090125_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356341000.html",
+          "author": null,
+          "description": "13日の東京株式市場、日経平均株価は、一時700円以上値上がりし、3万7600円台をつけました。これは取り引き時間中としてはバブル期の1990年2月以来34年ぶりの水準で、先週金曜日に続いて高値を更新しました。このところアメリカと日本で株価が堅調なことから、取り引き開始直後から幅広い銘柄に買い注文が集まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356341000.html",
+          "publishedOn": "2024-02-13T00:23:23.000Z",
+          "wordCount": 693,
+          "title": "株価 一時700円以上値上がり 3万7600円台 1990年2月以来の水準",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356341_2402130922_0213092325_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356141000.html",
+          "author": null,
+          "description": "企業の間で取り引きされるモノの価格を示す1月の企業物価指数は、前の年の同じ月と比べた伸び率が0.2％となりました。伸び率が0％台は3か月連続で、これまでのエネルギーや原材料の高騰を受けた価格転嫁の動きが一服しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356141000.html",
+          "publishedOn": "2024-02-13T00:05:50.000Z",
+          "wordCount": 578,
+          "title": "1月の企業物価指数 伸び率0.2％ 0％台は3か月連続",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356141_2402130857_0213090552_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356281000.html",
           "author": null,
@@ -21739,16 +21744,6 @@
           "wordCount": 668,
           "title": "アイスランドで再び噴火 住民は事前に避難も 溶岩が町に迫る",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240114/K10014320991_2401142125_0114215814_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240114/k10014321021000.html",
-          "author": null,
-          "description": "石川県は、能登半島地震で亡くなった人の氏名や年齢などについて、遺族の同意が得られた人に限り、15日以降公表することになりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240114/k10014321021000.html",
-          "publishedOn": "2024-01-14T12:17:12.000Z",
-          "wordCount": 503,
-          "title": "石川県 遺族の同意得て 地震で亡くなった人の氏名など公表へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240114/K10014321021_2401142114_0114211714_01_02.jpg"
         }
       ]
     },
@@ -21757,6 +21752,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=235873",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、朝食メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。 […]",
+          "link": "https://foodfighter.jp/matsunoya-morning-sasamikatsu",
+          "publishedOn": "2024-02-13T00:06:37.000Z",
+          "wordCount": 1937,
+          "title": "【松のや】得朝ささみかつコロッケ定食（納豆）【モーニング・朝食メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/86bde39efead722bce9061e82bf7623f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=235851",
           "author": "foodfighter",
@@ -23155,6 +23160,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/13/news054.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、長距離IoT（モノのインターネット）通信向けのSiP（System in Package）モジュール「STM32WL5MOC」を発表した。LoRaWANやSigfoxネットワーク接続の認証を取得していて、LoRa変調やGMSK、GFSK、BPSKなどの変調方式に対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/13/news054.html",
+          "publishedOn": "2024-02-13T00:00:00.000Z",
+          "wordCount": 2636,
+          "title": "2種のRF出力パワーを選択可能な、長距離IoT通信向けSiPモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/13/cover_news054.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/09/news070.html",
           "author": null,
           "description": "スイスビットは、5年間で最大1.5DWPDの耐久性を備えた、高性能PCIe SSD「N3202」シリーズを発表した。同社独自の電源損失保護機能「powersafe」と高度なセキュリティ機能を搭載する。",
@@ -23431,6 +23446,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68410",
+          "author": "299",
+          "description": "子猫がダンボールの箱の中に入ってのんびりと毛づくろいをしています。 この子猫は、生まれた時からずっとこのお家にいるかのように慣れきっていますが、実際にはまだ保護されてやってきて5日目なのです。 もうすっかり家族の一員にな...\n整理箱のなかでまったりしていたらそのまま眠ってしまった子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68410",
+          "publishedOn": "2024-02-13T00:00:10.000Z",
+          "wordCount": 1398,
+          "title": "整理箱のなかでまったりしていたらそのまま眠ってしまった子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68410.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68370",
           "author": "299",
@@ -28736,6 +28761,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2033040.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：a：2024/02/12(月) 15:18:24.86 ID:o/h35BTp0.net\n\n\n\n\n\n\n\n\n【独自】ドミノピザ店員「鼻でもほじって付けちゃうんじゃないの」ってそれピザ生地じゃないの？ハチミツに精液混入が大変話題になっていますが、食べ物に鼻くそ混入ってネタでしたでは済まないです。今後、...",
+          "link": "https://itainews.com/archives/2033040.html",
+          "publishedOn": "2024-02-13T00:01:16.000Z",
+          "wordCount": 2773,
+          "title": "【動画】ドミ〇ピザでバイトテロか？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/a/2a06e584.png"
+        },
+        {
           "id": "https://itainews.com/archives/2033030.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。：2024/02/12(月) 10:03:39.43 ID:UCjiE62g0●.net\n\n\n\n\n\n\n\n【中国】人口の70％にあたる10億人が月約280万ドル（4万円弱）未満で生活する貧困層とのデータを経済学者が発表　中国当局が24時間体制で検閲し隠蔽工作 https://t.co/xYZjllCdFT...",
@@ -32174,16 +32209,6 @@
           "wordCount": 2497,
           "title": "リベラル「家ごと全て失った方にホテルや旅館を勧める首相って、どんだけ社会性人間性が欠落してるの」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/b/cb305ea8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032188.html",
-          "author": "damono3856",
-          "description": "1 名前：首都圏の虎 ★：2024/01/14(日) 09:58:15.59 ID:CHP49e8H9.net\n\n\n\n\n\n\n\n中国、激しく反発　台湾統一に手詰まり感―総統選 https://t.co/BTebELH63R— 時事ドットコム（時事通信ニュース） (@jijicom) January 13, 2024  \n\n\n\n\n\n\n【台北時事】中国の習近平政権は、...",
-          "link": "https://itainews.com/archives/2032188.html",
-          "publishedOn": "2024-01-14T12:03:06.000Z",
-          "wordCount": 2665,
-          "title": "中国、激しく反発　台湾統一に手詰まり感　総統選",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/f/af30e3c2-s.png"
         }
       ]
     },
@@ -32192,6 +32217,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40738",
+          "author": "comomo",
+          "description": "職業柄、PCやスマホを駆使していて肩こりに日々悩まされているももこ＠あつらぼです。 腰、肩、首の痛みやこり、股関節・膝関節・肩関節・顎の痛み、自律神経の乱れ(めまい、寝付きの悪さ)などにお悩みの方はたくさんいらっしゃいますよね。 そんな方に…",
+          "link": "https://atsugi-lab.com/openreport-kinmaqseitai202312/",
+          "publishedOn": "2024-02-13T00:30:54.000Z",
+          "wordCount": 1209,
+          "title": "【初回2,980円♪】「KINMAQ整体院 本厚木院」は全員が理学療法士資格保有者★筋膜×整体で根本改善を促す！［厚木市旭町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/kinmaq-atsugi202312.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=40910",
           "author": "comomo",
