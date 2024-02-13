@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T05:26:53.680Z</updated>
+    <updated>2024-02-13T05:38:13.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -102,6 +102,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356551000.html"/>
         <updated>2024-02-13T03:28:43.000Z</updated>
         <summary type="html"><![CDATA[盛山文部科学大臣は前回の衆議院選挙の際、旧統一教会の関連団体から推薦状を受け取ったかどうかについて、「覚えていないと明確に申し上げているつもりだ」と重ねて説明しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島の水道復旧支援へ群馬 高崎市の職員など被災地へ出発]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356501000.html"/>
+        <updated>2024-02-13T03:27:00.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で、現在もおよそ1万戸が断水している石川県輪島市の水道復旧を支援するため、群馬県高崎市の職員などが、13日朝、被災地に向けて出発しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
