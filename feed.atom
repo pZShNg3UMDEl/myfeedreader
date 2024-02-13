@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T09:36:44.272Z</updated>
+    <updated>2024-02-13T09:50:31.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全国的に季節外れの気温 札幌で2月中旬として55年ぶり10度超に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356901000.html"/>
+        <updated>2024-02-13T09:46:46.000Z</updated>
+        <summary type="html"><![CDATA[13日は全国的に暖かい空気が流れ込み3月から4月並みの季節外れの気温となり、北海道では札幌市で2月中旬として55年ぶりに10度を超えるなど記録的な暖かさとなりました。15日にかけて平年と比べて気温がかなり高くなる見込みで、積雪が多い地域では雪解けによるなだれなどに十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォロワー3億人の中国メディア界のドン「メッシの人間性は最低最悪。サッカーがなければただのゴミ」]]></title>
         <id>https://itainews.com/archives/2033047.html</id>
