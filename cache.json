@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120575/",
+          "author": null,
+          "description": "テレビアニメ「先輩はおとこのこ」に梅田修一朗、関根明良、内田雄馬の出演が決定した。第1弾キービジュアルも公開されている。 ぽむ氏が「LINEマンガ」で2019～21年に連載していた原作は、 閲覧...",
+          "link": "https://anime.eiga.com/news/120575/",
+          "publishedOn": "2024-02-13T10:00:00.000Z",
+          "wordCount": 824,
+          "title": "「先輩はおとこのこ」に梅田修一朗、関根明良、内田雄馬が出演　第1弾キービジュアル、ボイス入り映像も公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120574/",
           "author": null,
           "description": "ラブコメ漫画「ニートくノ一となぜか同棲はじめました」（KADOKAWA刊）のテレビアニメ化が決定した。矢野妃菜喜と石毛翔弥が主演を務め、千葉繁がナレーションを担当。ティザーPV、ティザービジュア...",
@@ -2752,6 +2767,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98110",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/13(火) 08:04:04.229 ID:orFN2Wdwr 時オカ ☆☆☆ […]",
+          "link": "https://switchsoku.com/soft/zelda/98110",
+          "publishedOn": "2024-02-13T10:00:03.000Z",
+          "wordCount": 9999,
+          "title": "ゼルダの伝説シリーズってどれがいいの？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/02/xzelda-breath-of-the-wild-monolith-soft-2.pagespeed.ic_.lYzomxPF5J.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=98106",
           "author": "SWITCH速報",
@@ -5820,6 +5845,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356441000.html",
+          "author": null,
+          "description": "NHKの世論調査によりますと、岸田内閣を「支持する」と答えた人は、1月の調査より1ポイント下がって25％だったのに対し、「支持しない」と答えた人は2ポイント上がって58％でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356441000.html",
+          "publishedOn": "2024-02-13T10:00:09.000Z",
+          "wordCount": 826,
+          "title": "岸田内閣「支持」25％「不支持」58％ 政治資金問題への評価は",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356441_2402131150_0213170108_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356901000.html",
           "author": null,
@@ -21909,26 +21944,6 @@
           "wordCount": 688,
           "title": "ブラジル版の“紅白歌合戦” 締めは八代亜紀さんの歌で追悼も",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321101_2401150816_0115082110_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014321081000.html",
-          "author": null,
-          "description": "スキージャンプ男子のワールドカップがポーランドで行われ、日本のエース、小林陵侑選手が2回目にこの日最長不倒の大ジャンプを見せて、逆転勝ちで今シーズン初優勝を果たしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014321081000.html",
-          "publishedOn": "2024-01-14T22:11:31.000Z",
-          "wordCount": 417,
-          "title": "小林陵侑 スキージャンプW杯個人今季初優勝 1回目5位から逆転",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321081_2401150708_0115071133_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014320731000.html",
-          "author": null,
-          "description": "ウクライナが提唱する和平案についての協議が、14日、スイスのダボスで開かれ、共同議長を務めたスイスのカシス外相は、和平案の実現に向けた今後の議論にはロシアを参加させる必要があるという認識を示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014320731000.html",
-          "publishedOn": "2024-01-14T22:02:22.000Z",
-          "wordCount": 629,
-          "title": "ウクライナ提唱の和平案 スイス外相“実現にはロシア参加を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014320731_2401150658_0115070223_01_02.jpg"
         }
       ]
     },
@@ -27180,16 +27195,6 @@
           "wordCount": 1623,
           "title": "耳元でヒヨコが鳴いても怒らず、優しく接する子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66588.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66548",
-          "author": "299",
-          "description": "今回ご紹介するのは仲良しな子猫ちゃん達です。 仲睦まじくワチャワチャする様子がとっても愛らしいのでご覧ください。 最初は毛布の中に潜む子猫コロちゃんの様子が映し出されます。 猫は狭くて暗いところが好きですし、毛布の中って...\nまったりワチャワチャする子猫達が可愛すぎる件 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66548",
-          "publishedOn": "2024-01-14T22:00:28.000Z",
-          "wordCount": 1621,
-          "title": "まったりワチャワチャする子猫達が可愛すぎる件",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66548.jpeg"
         }
       ]
     },
@@ -29015,6 +29020,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033048.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(やわらか銀行) [US]：2024/02/12(月) 18:52:22.15 ID:z61brk1Y0●.net\n\n\n\n\n\n\n\n\n\n#野党共闘 「期待したが、全くの幻想だった」…中北浩爾・中央大教授が語った「共産党の多難な今後」https://t.co/a4RiBAqP9o東京新聞 TOKYO Web— 東京新聞編...",
+          "link": "https://itainews.com/archives/2033048.html",
+          "publishedOn": "2024-02-13T10:01:10.000Z",
+          "wordCount": 2390,
+          "title": "【疑問】「消費税廃止します！靖国も参拝します！」←これで支持率爆増なのになぜ野党はパヨるの？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/1/31803143-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033047.html",
           "author": "yonepo665sfr",
