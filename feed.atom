@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T19:20:38.366Z</updated>
+    <updated>2024-02-13T19:35:40.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[沖縄 南城 バレンタインデーと春節に合わせて鍾乳洞を飾りつけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240214/k10014357291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240214/k10014357291000.html"/>
+        <updated>2024-02-13T19:22:59.000Z</updated>
+        <summary type="html"><![CDATA[14日のバレンタインデーと、中華圏の春節の大型連休に合わせて、沖縄県南城市の観光施設では、鍾乳洞をピンク色にライトアップしたり旧正月の飾りつけをしたりして観光客を迎えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マンション1室に男女2人の遺体 部屋に住む夫婦か 相模原 南区]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240214/k10014357571000.html</id>
@@ -37481,26 +37491,6 @@ Link]]></summary>
         <summary type="html"><![CDATA[1: 2024/01/15(月) 13:03:23.48 ID:PtKuQTv+0 スマブラが任天堂 […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アサヒ飲料　濃いくち白桃＆カルピス【新作ドリンク】]]></title>
-        <id>https://foodfighter.jp/?p=233014</id>
-        <link href="https://foodfighter.jp/asahiinryo-calpis-koikuchihakuto"/>
-        <updated>2024-01-15T07:27:27.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、アサヒ飲料の新商品「濃いくち白桃＆カルピス」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無理なら無理と教えて… 転校か 再開待つか 小学生の親たちは]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240115/k10014321331000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240115/k10014321331000.html"/>
-        <updated>2024-01-15T07:21:32.000Z</updated>
-        <summary type="html"><![CDATA[「家族の拠点をどこに置けば…」「“無理なら無理”とはっきり伝えて」学校が始まらない。めどすら立たない。集団避難や転校を考え始める小・中学生の親たちも。発災から2週間、能登半島で暮らす親子たちの戸惑いが見えてきました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
