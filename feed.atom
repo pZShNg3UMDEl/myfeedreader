@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T03:14:33.925Z</updated>
+    <updated>2024-02-13T03:25:26.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 能登町 住宅修理費の一部を行政が負担 申請受け付け開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356521000.html"/>
+        <updated>2024-02-13T03:17:42.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害を受けた住宅について、修理費用の一部を行政が負担する「応急修理制度」の申請の受け付けが、13日から石川県能登町で始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野党4党の国対委員長会談 政倫審に安倍派幹部ら出席要求で一致]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240213/k10014356531000.html</id>
@@ -61,6 +71,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356471000.html"/>
         <updated>2024-02-13T02:56:59.000Z</updated>
         <summary type="html"><![CDATA[名古屋市教育委員会が教員などの団体から、毎年、校長に推薦する教員の名簿とともに金品を受け取っていた問題で、文部科学省は名古屋市教育委員会に対し事実関係を調査し、適切に対応するよう指導しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル 人質救出の映像公開 圧力強化での救出をアピールか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356451000.html"/>
+        <updated>2024-02-13T02:48:18.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍はガザ地区南部のラファで人質2人を救出する際の映像を公開しました。イスラエル政府としてはラファへの地上作戦を行う構えを示す中、イスラム組織ハマスへの軍事的圧力を強めることが人質の解放につながるとアピールするねらいもあるとみられています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
