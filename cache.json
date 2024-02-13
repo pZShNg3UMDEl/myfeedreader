@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120560/",
+          "author": null,
+          "description": "宮世琉弥と原菜乃華が主演し、人気コミックを実写映画化する「恋わずらいのエリー」の新たな場面写真が披露された。写真には、宮世扮する主人公オミくんをはじめ、西村拓哉、藤本洸大、綱啓永、小関裕太ら演じ...",
+          "link": "https://anime.eiga.com/news/120560/",
+          "publishedOn": "2024-02-13T03:00:00.000Z",
+          "wordCount": 767,
+          "title": "【あなたは誰推し？】「恋わずらいのエリー」宮世琉弥、西村拓哉、藤本洸大、綱啓永、小関裕太らをとらえた新場面写真",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120549/",
           "author": null,
           "description": "ドゥニ・ビルヌーブ監督によるSF超大作続編「デューン 砂の惑星PART2」の吹き替えキャスト11名が発表され、ポール役（演：ティモシ―・シャラメ）の入野自由をはじめ、内田真礼、皆川純子、大塚明夫...",
@@ -2708,21 +2723,6 @@
           "publishedOn": "2024-01-15T03:00:00.000Z",
           "wordCount": 813,
           "title": "デビュー40周年の吉川晃司、「映画ドラえもん」最新作で声優初挑戦　石丸幹二もシリーズ初参戦",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120376/",
-          "author": null,
-          "description": "「ONE PIECE」で知られる漫画家・尾田栄一郎氏の初期短編をアニメ化する「MONSTERS 一百三情飛龍侍極」の主要キャストが発表され、主人公リューマ役を細谷佳正、フレア役を花澤香菜、シラノ...",
-          "link": "https://anime.eiga.com/news/120376/",
-          "publishedOn": "2024-01-14T15:00:00.000Z",
-          "wordCount": 831,
-          "title": "尾田栄一郎原作アニメ「MONSTERS」細谷佳正、花澤香菜、東地宏樹らキャスト発表　1月22日から世界同時配信",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -5775,6 +5775,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356531000.html",
+          "author": null,
+          "description": "立憲民主党など野党4党の国会対策委員長が会談し、自民党の派閥の政治資金パーティーをめぐる問題について実態を解明するため、安倍派や二階派の幹部らが政治倫理審査会に出席して弁明するよう求めることで一致しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356531000.html",
+          "publishedOn": "2024-02-13T03:09:37.000Z",
+          "wordCount": 491,
+          "title": "野党4党の国対委員長会談 政倫審に安倍派幹部ら出席要求で一致",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356531_2402131155_0213120702_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356541000.html",
+          "author": null,
+          "description": "13日は全国的に暖かい空気が流れ込んで気温が上がり、季節外れの暖かさとなっています。このあとさらに気温が上がると予想され、積雪が多い地域では雪解けによる雪崩などに十分注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356541000.html",
+          "publishedOn": "2024-02-13T02:59:35.000Z",
+          "wordCount": 670,
+          "title": "季節外れの暖かさに さらに気温上がる予想 雪崩などに注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356541_2402131155_0213115937_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356471000.html",
+          "author": null,
+          "description": "名古屋市教育委員会が教員などの団体から、毎年、校長に推薦する教員の名簿とともに金品を受け取っていた問題で、文部科学省は名古屋市教育委員会に対し事実関係を調査し、適切に対応するよう指導しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014356471000.html",
+          "publishedOn": "2024-02-13T02:56:59.000Z",
+          "wordCount": 575,
+          "title": "名古屋市教育委の金品問題 事実関係を調査するよう指導 文科省",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014356471_2402131147_0213115648_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014356401000.html",
           "author": null,
@@ -21764,16 +21794,6 @@
           "wordCount": 700,
           "title": "愛知 男性の遺体見つかった住宅に“探さないで”のメモ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014321061_2401150034_0115005412_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014320701000.html",
-          "author": null,
-          "description": "世界の政財界のリーダーが集まる、通称「ダボス会議」が15日からスイスで始まります。ウクライナ侵攻や中東情勢に加え、世界経済の行方やAIの活用のあり方など、重要な課題について議論が交わされます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014320701000.html",
-          "publishedOn": "2024-01-14T15:03:31.000Z",
-          "wordCount": 766,
-          "title": "ダボス会議 15日から 世界の政財界のリーダーら2800人余参加へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014320701_2401142132_0115000333_01_02.jpg"
         }
       ]
     },
@@ -28820,6 +28840,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033043.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：おっさん友の会 ★：2024/02/12(月) 16:02:40.08 ID:QV3PHkBU9.net\n\n\n\n\n\n\n\n\n水野美紀、新幹線内で３度の悪夢を告白「ちゃんと社員教育した方がいいと思いますけど！」と怒りＭＡＸ/芸能/デイリースポーツ online https://t.co/LMTwJbDcaq #DailySports— デイリース...",
+          "link": "https://itainews.com/archives/2033043.html",
+          "publishedOn": "2024-02-13T03:01:32.000Z",
+          "wordCount": 2399,
+          "title": "【芸能】｢ちゃんと社員教育を｣水野美紀、テイクアウトにお箸付け忘れ…新幹線内で食事出来なく怒りＭＡＸ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46f7e764-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033040.html",
           "author": "yonepo665sfr",
