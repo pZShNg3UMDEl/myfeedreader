@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T05:12:21.357Z</updated>
+    <updated>2024-02-13T05:26:53.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[衆院政倫審 野党が開催申し入れ“安倍派 二階派幹部の出席を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356661000.html"/>
+        <updated>2024-02-13T05:20:39.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題を受けて、衆議院政治倫理審査会の野党側の委員らが、審査会の田中会長と面会し、安倍派や二階派の幹部らに出席を促し、開催するよう申し入れました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小室圭さん＆眞子さん夫妻、行方不明に]]></title>
         <id>https://itainews.com/archives/2033049.html</id>
@@ -72,6 +82,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356491000.html"/>
         <updated>2024-02-13T03:59:13.000Z</updated>
         <summary type="html"><![CDATA[自民党は派閥の政治資金パーティーをめぐる問題を受けて、すべての所属議員を対象にアンケートを行った結果、現職の国会議員82人に派閥のパーティー券収入の収支報告書への不記載や不正確な記載があったと野党に伝えました。いずれも収支報告書の訂正などによって、これまでに党が把握していた議員で、先週、聴き取りも終えているとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニューヨーク 地下鉄の駅で銃撃 1人死亡 5人けが 容疑者は逃走]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356591000.html"/>
+        <updated>2024-02-13T03:36:34.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ ニューヨークの地下鉄の駅で、12日、銃撃事件があり、1人が死亡、5人がけがをし、警察が逃げた容疑者の行方を捜査しています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
