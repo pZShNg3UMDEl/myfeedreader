@@ -5337,6 +5337,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9526",
+          "author": "watanabe@logipara.com",
+          "description": "原因にまったく心当たりのない腹痛ほど怖いもの、なくない？",
+          "link": "https://logipara.com/diary-text/2024-02-14",
+          "publishedOn": "2024-02-13T13:42:40.000Z",
+          "wordCount": 4391,
+          "title": "不調",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9519",
           "author": "watanabe@logipara.com",
           "description": "私ワタナベが住んでいる街は、 「なぜかどの居酒屋に行っても『昭和ヒットソングの有線』がかかる」 という呪いにかかっていることでお馴染みの土地なんですが。 最近、テレビでも、昭和ソングばっかりやってません？ テレビ局、大丈 […]",
@@ -5890,6 +5900,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014357441000.html",
+          "author": null,
+          "description": "アメリカの先月の消費者物価指数が発表され、前の年の同じ月と比べて3.1％の上昇となりました。上昇率は2か月ぶりに前の月を下回りましたが、市場予想をわずかに上回りました。市場ではFRB＝連邦準備制度理事会が次回3月かその次の5月の会合で利下げを始めるという見方が出ていて、今後、発表される物価や雇用などの経済指標への注目が高まりそうです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014357441000.html",
+          "publishedOn": "2024-02-13T13:40:41.000Z",
+          "wordCount": 846,
+          "title": "アメリカ 1月の消費者物価指数 前年同月比で3.1％上昇",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014357441_2402132239_0213224043_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240213/k10014357431000.html",
+          "author": null,
+          "description": "13日のニューヨーク外国為替市場では円安が進み、円相場は去年11月以来、およそ3か月ぶりに一時、1ドル＝150円台まで値下がりしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240213/k10014357431000.html",
+          "publishedOn": "2024-02-13T13:36:31.000Z",
+          "wordCount": 816,
+          "title": "NY市場 円安加速 1ドル＝150円台まで値下がり およそ3か月ぶり",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240213/K10014357431_2402132234_0213223907_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240213/k10014357401000.html",
           "author": null,

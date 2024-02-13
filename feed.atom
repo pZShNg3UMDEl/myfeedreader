@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T13:36:43.731Z</updated>
+    <updated>2024-02-13T13:50:30.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不調]]></title>
+        <id>https://logipara.com/?p=9526</id>
+        <link href="https://logipara.com/diary-text/2024-02-14"/>
+        <updated>2024-02-13T13:42:40.000Z</updated>
+        <summary type="html"><![CDATA[原因にまったく心当たりのない腹痛ほど怖いもの、なくない？]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカ 1月の消費者物価指数 前年同月比で3.1％上昇]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014357441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014357441000.html"/>
+        <updated>2024-02-13T13:40:41.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの先月の消費者物価指数が発表され、前の年の同じ月と比べて3.1％の上昇となりました。上昇率は2か月ぶりに前の月を下回りましたが、市場予想をわずかに上回りました。市場ではFRB＝連邦準備制度理事会が次回3月かその次の5月の会合で利下げを始めるという見方が出ていて、今後、発表される物価や雇用などの経済指標への注目が高まりそうです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NY市場 円安加速 1ドル＝150円台まで値下がり およそ3か月ぶり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014357431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014357431000.html"/>
+        <updated>2024-02-13T13:36:31.000Z</updated>
+        <summary type="html"><![CDATA[13日のニューヨーク外国為替市場では円安が進み、円相場は去年11月以来、およそ3か月ぶりに一時、1ドル＝150円台まで値下がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佐賀 神埼市長を逮捕 ふるさと納税PR業務の入札情報教えたか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240213/k10014357401000.html</id>
