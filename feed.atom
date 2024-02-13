@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T10:29:15.579Z</updated>
+    <updated>2024-02-13T10:39:20.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政党支持率「支持政党ない」44％ “政党離れ”も NHK世論調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240213/k10014356481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240213/k10014356481000.html"/>
+        <updated>2024-02-13T10:25:31.000Z</updated>
+        <summary type="html"><![CDATA[2月の各党の支持率です。「自民党」が30.5％、「立憲民主党」が6.7％、「日本維新の会」が3.1％、「公明党」が3.2％、「共産党」が2.1％、「国民民主党」が1.3％、「れいわ新選組」が1.1％、「社民党」が0.2％、「参政党」が0.7％、「みんなでつくる党」が0.1％、「特に支持している政党はない」が44.0％でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タスク管理ツール「Trello」、ボードが読み込めない障害発生中]]></title>
         <id>https://gadget.phileweb.com/?p=68731</id>
