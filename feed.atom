@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T20:13:20.917Z</updated>
+    <updated>2024-02-14T20:24:10.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[競泳 世界選手権 男子200mバタフライ 本多灯が金メダル]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014358831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014358831000.html"/>
+        <updated>2024-02-14T20:11:53.000Z</updated>
+        <summary type="html"><![CDATA[中東のカタールで行われている水泳の世界選手権、競泳の男子200メートルバタフライで本多灯選手が金メダルを獲得しました。本多選手は世界選手権で自身初の金メダルです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インドネシア大統領選 プラボウォ氏が事実上の勝利宣言]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240215/k10014358801000.html</id>
@@ -37377,26 +37387,6 @@ for deblurring, augmented resolution, and slow-motion reconst…]]></summary>
         <summary type="html"><![CDATA[舞台「刀剣乱舞」の舞台「刀剣乱舞」の第1作を脚本原案とした新作テレビアニメのタイトルが「刀剣乱舞 廻 ‐虚伝 燃ゆる本能寺‐」に決定し、4月から放送を開始することが分かった。あわせて、ティザーP...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト、生成AI支援機能の個人向け有料プラン「Copilot Pro」を提供開始]]></title>
-        <id>https://gadget.phileweb.com/?p=65954</id>
-        <link href="https://gadget.phileweb.com/post-65954/"/>
-        <updated>2024-01-16T08:23:01.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフトは、生成AIを活用した支援機能「Copilot Pro」を個人ユーザー向けに月額3,200円で提供すると発表した。 同社が個人向けに無料で提供している「Copilot」の上位プラン。無料プランでは、生成AIによるチャットや画像生成といった基本的な機能のみの提供にとどまっていたが、Cop […]]]></summary>
-        <author>
-            <name>編集部：松永達矢</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[時速15kmで水上を浮上走行するリカンベント型電動アシスト水中翼バイク「E-Jetcycle」]]></title>
-        <id>https://gadget.phileweb.com/?p=65939</id>
-        <link href="https://gadget.phileweb.com/post-65939/"/>
-        <updated>2024-01-16T08:19:45.000Z</updated>
-        <summary type="html"><![CDATA[2022年に、リカンベント型の足こぎ式水中翼バイクを発表していたフランスのJetcycleが、新たに電動アシストを備えたバージョンを開発した。 この電動水中翼バイク「E-Jetcycle」は、ライダーの脚への負担を軽減する電動アシスト機構を備え、さらにコクピット左右に船体を安定させるサイドフロートが […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
