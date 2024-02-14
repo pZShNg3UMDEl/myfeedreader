@@ -2708,6 +2708,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98133",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/14(水) 05:41:13.33 ID:3WxpLWtNd 2/22に何かが […]",
+          "link": "https://switchsoku.com/konami/98133",
+          "publishedOn": "2024-02-14T02:00:58.000Z",
+          "wordCount": 10060,
+          "title": "ときメモが30周年記念で復活か？カウントダウン開始",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/08/tokimemo.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=98125",
           "author": "SWITCH速報",
           "description": "1: 2024/02/13(火) 12:44:13.62 ID:fBIAi5+T0 なかなかないよな […]",
@@ -4986,16 +4996,6 @@
           "wordCount": 10228,
           "title": "スクエニ「大型タイトルとインディーの二極化が進んでいる。その中間のタイトルを作り過ぎた」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/06/square-enix.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97119",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/15(月) 18:38:06.58 ID:VTPwoaB60 https:// […]",
-          "link": "https://switchsoku.com/square-enix/97119",
-          "publishedOn": "2024-01-15T14:00:23.000Z",
-          "wordCount": 10038,
-          "title": "スクエニ社長「ダイの大冒険に関しては厳しい声を頂戴しており、社内でも課題認識を持っている」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/08/DQ-DAINODAIBOUKEN.webp"
         }
       ]
     },
@@ -5755,6 +5755,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357701000.html",
+          "author": null,
+          "description": "東京 台東区に住む夫婦が4歳の次女に対し、車の不凍液に含まれる有害な化学物質を摂取させて殺害したとして逮捕されたことが捜査関係者への取材でわかりました。6年前に亡くなった40代の親族も死亡した状況に不審な点があるということで、警視庁は関連についても捜査することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357701000.html",
+          "publishedOn": "2024-02-14T01:48:50.000Z",
+          "wordCount": 591,
+          "title": "4歳次女中毒死させた疑いで夫婦逮捕 別の親族死亡でも関連捜査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357701_2402141004_0214104852_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357731000.html",
           "author": null,
@@ -21744,36 +21754,6 @@
           "wordCount": 557,
           "title": "テニス 大坂なおみ 復帰後 初の全豪オープン 初戦で敗れる",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322431_2401152259_0115225944_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322451000.html",
-          "author": null,
-          "description": "自民党の杉田水脈衆議院議員は、15日、山口市で行われた新年の記者会見で、過去のブログなどでの投稿が去年、人権侵犯と認定されたことについて、自身の言い分を説明する機会が与えられず、遺憾で理不尽だと主張しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322451000.html",
-          "publishedOn": "2024-01-15T14:14:39.000Z",
-          "wordCount": 826,
-          "title": "杉田水脈議員 人権侵犯の認定 “説明の機会なく遺憾で理不尽”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322451_2401152242_0115225538_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322171000.html",
-          "author": null,
-          "description": "ことし7月の新たな紙幣の発行で銀行のATMは、発行と同時に旧紙幣と新紙幣の両方に対応することになります。メーカーでは工場をフル稼働して、急ピッチで準備を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322171000.html",
-          "publishedOn": "2024-01-15T14:10:14.000Z",
-          "wordCount": 716,
-          "title": "新紙幣7月発行を前に ATMの製造工場 フル稼働",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322171_2401151938_0115230946_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322241000.html",
-          "author": null,
-          "description": "UNRWA＝国連パレスチナ難民救済事業機関のラザリーニ事務局長は14日、エジプトとの境界にあるガザ地区南部のラファ検問所を訪れ、人道支援物資の搬入状況を視察しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322241000.html",
-          "publishedOn": "2024-01-15T14:04:58.000Z",
-          "wordCount": 513,
-          "title": "国連機関トップ ガザ地区訪問 冬を乗り切る支援と停戦訴え",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322241_2401151945_0115230419_01_02.jpg"
         }
       ]
     },
@@ -23486,6 +23466,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68438",
+          "author": "299",
+          "description": "今回ご紹介するのは犬の散歩についていこうとした猫ちゃんです。 犬を散歩へ連れて行く時は、どこへいくの？一緒に行きたい！という感じで大はしゃぎ。 でもお家から離れた場所で移動すると戻ってきました。 不安そうに帰ってくる姿が...\n愛犬の散歩についていこうとしたけど、すぐに戻ってくる猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68438",
+          "publishedOn": "2024-02-14T02:00:46.000Z",
+          "wordCount": 1405,
+          "title": "愛犬の散歩についていこうとしたけど、すぐに戻ってくる猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68438.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68470",
           "author": "299",
@@ -32229,16 +32219,6 @@
           "wordCount": 2326,
           "title": "NHK「ちょっと自衛隊ヘリで荷物運んでくんない？ＴＶ見れないと困るでしょ？」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/1/c142c9e1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032213.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/01/15(月) 12:17:17.75 ID:tp1CVsvG0●.net\n\n\n\n\n\n\n\n安楽死が合法の国で起こっていること…｢生活保護｣より｢安楽死｣の申請のほうが簡単というカナダの事情 合法化からわずか5年で安楽死は4万人超 https://t.co/6xXh2ago0n— PRESIDEN...",
-          "link": "https://itainews.com/archives/2032213.html",
-          "publishedOn": "2024-01-15T14:01:56.000Z",
-          "wordCount": 2510,
-          "title": "安楽死望むならカナダ行けよ　合法化から5年のカナダ、安楽死者数が4万人超え 生活保護より申請が簡単",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/1/81a0c813-s.png"
         }
       ]
     },
