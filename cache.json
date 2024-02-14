@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120578/",
+          "author": null,
+          "description": "2月11日に放送されたテレビアニメ「七つの大罪 黙示録の四騎士」の第17話「リオネス王」に登場したトリスタン隊に所属する聖騎士役を、種崎敦美（崎はたつさきが正式表記）、仲村宗悟、斉藤壮馬が務めて...",
+          "link": "https://anime.eiga.com/news/120578/",
+          "publishedOn": "2024-02-14T03:00:00.000Z",
+          "wordCount": 804,
+          "title": "「七つの大罪 黙示録の四騎士」トリスタン隊の聖騎士役に種崎敦美、仲村宗悟、斉藤壮馬",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120577/",
           "author": null,
           "description": "全8話の新作テレビアニメ「刀剣乱舞 廻 虚伝 燃ゆる本能寺」に、既に発表されていた12振りの刀剣男士に加えて、さらに30振りの刀剣男士が登場することが明らかになった。公式サイトと公式Xで、2月1...",
@@ -5755,6 +5770,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357791000.html",
+          "author": null,
+          "description": "国会は自民党の派閥の政治資金パーティーをめぐる問題を受けて衆議院予算委員会で集中審議が行われました。立憲民主党が自民党のアンケート調査は不十分だとして、政治倫理審査会を開いて関係議員を出席させるよう求めたのに対し、岸田総理大臣は関係議員がさまざまな手段で十分な説明責任を果たすよう党として促していく考えを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357791000.html",
+          "publishedOn": "2024-02-14T03:13:29.000Z",
+          "wordCount": 652,
+          "title": "衆院予算委 政治資金問題 首相“説明責任十分果たすよう促す”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357791_2402141139_0214114552_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357801000.html",
+          "author": null,
+          "description": "東京 千代田区が発注した工事の入札をめぐる官製談合事件で逮捕された元区議会議員らが、ほかの3件の工事でも入札情報を漏らしていたとして、警視庁が再逮捕する方針を固めたことが、捜査関係者への取材でわかりました。複数の業者で任意団体をつくり、議員に働きかけていたとみられ、警視庁は不正が常態化していたとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357801000.html",
+          "publishedOn": "2024-02-14T03:04:46.000Z",
+          "wordCount": 517,
+          "title": "官製談合事件で元千代田区議ら再逮捕へ 別の3件でも漏えいか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357801_2402141137_0214115217_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357701000.html",
           "author": null,
@@ -21714,26 +21749,6 @@
           "wordCount": 646,
           "title": "クレー射撃協会 パリ五輪の選手強化の支援金 不適切使用か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322491_2401160027_0116002846_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322131000.html",
-          "author": null,
-          "description": "1日に石川県能登地方で震度7の揺れを観測した地震により、断水の影響が続いています。給水の最新状況について随時更新でまとめます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322131000.html",
-          "publishedOn": "2024-01-15T15:02:23.000Z",
-          "wordCount": 1016,
-          "title": "【ライフライン 16日】石川県内の給水 いつ どこで",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322131_2401151944_0115204236_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322461000.html",
-          "author": null,
-          "description": "ビッグモーターによる保険金の不正請求問題で、金融庁は、損害保険ジャパンと親会社のSOMPOホールディングスに対し、月内にも保険業法に基づいて業務改善命令を出す方向で調整を進めることにしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322461000.html",
-          "publishedOn": "2024-01-15T14:59:40.000Z",
-          "wordCount": 720,
-          "title": "保険金不正請求 損保ジャパンと親会社に業務改善命令へ 金融庁",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322461_2401152357_0115235858_01_02.jpg"
         }
       ]
     },
@@ -28780,6 +28795,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033070.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/02/13(火) 18:58:11.14 ID:qxnfqsMD0.net\n\n\n\n\n\n\n\n\n「性自認」女子中高受け入れ検討「慎重に」「いやや」SNS疑問の声殺到https://t.co/Wu8j8K5Q7lＸのインプレッションが１日で１５００万回超え。大半は「何かあってからでは取り返しが...",
+          "link": "https://itainews.com/archives/2033070.html",
+          "publishedOn": "2024-02-14T03:01:00.000Z",
+          "wordCount": 2411,
+          "title": "ちんぽ女子の入校「いやや」女子校中学生・高校生が拒否反応",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/9/a905f83f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033058.html",
           "author": "damono3856",
