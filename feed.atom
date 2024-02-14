@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T19:20:34.360Z</updated>
+    <updated>2024-02-14T19:35:37.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去年10月～12月のGDP きょう発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014358471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014358471000.html"/>
+        <updated>2024-02-14T19:31:22.000Z</updated>
+        <summary type="html"><![CDATA[去年10月から12月までのGDP＝国内総生産が15日発表されます。民間の予測では、成長率は2期ぶりにプラスとなるものの、GDPの半分以上を占める個人消費は物価高を背景にほぼ横ばいにとどまるという見通しとなっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扇風機の回転にあわせて顔もクルクルまわっちゃう猫さん]]></title>
         <id>https://2-9-9.com/?p=68537</id>
@@ -37389,15 +37399,6 @@ Kindleで購入済みのコンテンツが一部出て来ない。購入履歴�
 子猫が抱き枕にしているのは子犬でした！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新宿SP】久々登場コットンにコンビ内格差？【有吉の壁】【オープニング先行】]]></title>
-        <id>https://www.youtube.com/watch?v=MAPexsFUkkI</id>
-        <link href="https://www.youtube.com/watch?v=MAPexsFUkkI"/>
-        <updated>2024-01-16T07:24:58.000Z</updated>
-        <author>
-            <name>有吉の壁【公式】壁チャンネル</name>
         </author>
     </entry>
 </feed>
