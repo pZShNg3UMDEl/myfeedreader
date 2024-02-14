@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T13:24:23.593Z</updated>
+    <updated>2024-02-14T13:35:29.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インドネシア大統領選 開票続く プラボウォ氏 勝利に自信示す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240214/k10014357761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240214/k10014357761000.html"/>
+        <updated>2024-02-14T13:31:36.000Z</updated>
+        <summary type="html"><![CDATA[有権者が2億人を超え、「世界最大の直接選挙」とも言われるインドネシアの大統領選挙は、開票作業が続いていますが、複数の民間の調査機関や地元メディアはジョコ大統領の後継を自任するプラボウォ氏が大幅にリードしていると伝えています。インドネシアが「グローバルサウス」の一角として国際社会で存在感を高める中、10年ぶりに交代する次の大統領を選ぶ有権者の判断が注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「３５０万円払ったら逃がしたるわ」　退職申し出た従業員を監禁し殴る蹴る 容疑で建設会社社長ら逮捕]]></title>
         <id>https://itainews.com/archives/2033078.html</id>
