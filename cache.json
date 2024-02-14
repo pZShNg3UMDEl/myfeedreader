@@ -2744,21 +2744,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/eiga_ranking/120399/",
-          "author": null,
-          "description": "1月12日～14日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「劇場版 SPY×FAMILY CODE: White」が週末3日間で動員22万7000人、興収3億1700...",
-          "link": "https://anime.eiga.com/news/column/eiga_ranking/120399/",
-          "publishedOn": "2024-01-16T10:00:00.000Z",
-          "wordCount": 853,
-          "title": "【週末アニメ映画ランキング】「劇場版 SPY×FAMILY」V4で興収48億円突破、「鬼太郎誕生　ゲゲゲの謎」は6位に再浮上",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5066,16 +5051,6 @@
           "wordCount": 10324,
           "title": "10時間ぐらいでクリアできて良い感じに満足できるゲームおしえて",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/03/gnosia.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97141",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/16(火) 12:17:40.04 ID:UJ0+upyU0 1.マリオカート […]",
-          "link": "https://switchsoku.com/soft/97141",
-          "publishedOn": "2024-01-16T10:00:48.000Z",
-          "wordCount": 10032,
-          "title": "SwitchのTOP10が2000万越えで埋まる模様",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/05/hq720.jpg"
         }
       ]
     },
@@ -5855,6 +5830,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358681000.html",
+          "author": null,
+          "description": "能登半島地震では多くの建物が倒壊するなど、甚大な被害となったことを受けた専門家による国の委員会の初会合が開かれ、住宅の建築年代や耐震基準と被害との関連などについて検証することになりました。委員会ではことしの秋ごろに結果をとりまとめることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014358681000.html",
+          "publishedOn": "2024-02-14T21:54:15.000Z",
+          "wordCount": 657,
+          "title": "能登半島地震 住宅の耐震基準と被害との関連を検証へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014358681_2402142208_0215065417_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358571000.html",
           "author": null,
@@ -21924,26 +21909,6 @@
           "wordCount": 642,
           "title": "中日 ドラフト1位 草加勝投手 右ひじ内側側副じん帯損傷と診断",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322871_2401161444_0116192600_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322611000.html",
-          "author": null,
-          "description": "「もうだめかな、と思いながらもがいているうちに、すーっと波が引いて」珠洲市で津波にのまれながら一命をとりとめた男性のことばです。地震から2週間あまり。依然、強い余震も続く大変な状況の中で取材にこたえてくださったみなさんの声をまとめました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322611000.html",
-          "publishedOn": "2024-01-16T10:10:13.000Z",
-          "wordCount": 1932,
-          "title": "津波にのまれ一命とりとめ「申し訳ない」【被災地の声 16日】",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322611_2401161801_0116180310_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014323461000.html",
-          "author": null,
-          "description": "新千歳空港を運営する北海道エアポートによりますと、16日午後5時半ごろ、新千歳空港で大韓航空とキャセイパシフィック航空の旅客機どうしが接触したという連絡があったということです。けが人の有無など、当時の詳しい状況などは確認中だとしています。また、キャセイパシフィック航空によりますと、当時、機体は地上にあり、乗客も乗っていたということです。警察によりますと、これまでにけがをした人はいないということです。火災などの発生はなく、消防も活動していないということです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014323461000.html",
-          "publishedOn": "2024-01-16T09:57:48.000Z",
-          "wordCount": 939,
-          "title": "【速報中】北海道 新千歳空港 “旅客機どうしが接触”の連絡",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014323461_2401161842_0116185041_01_02.jpg"
         }
       ]
     },
@@ -23636,6 +23601,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68494",
+          "author": "299",
+          "description": "美しいゴールデンカラーの子猫は耳が反っていてとてもチャーミングな顔つきです。名前はさつき。 とても女の子っぽい名前をもらっていますね。とにかく甘えん坊さんなのが、この子猫のさつきのキャラのようです。 このころは、このお家...\nお父さん猫と初対面の子猫の可愛いシャーが可愛すぎる first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68494",
+          "publishedOn": "2024-02-14T22:00:31.000Z",
+          "wordCount": 1399,
+          "title": "お父さん猫と初対面の子猫の可愛いシャーが可愛すぎる",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68494.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68490",
           "author": "299",
@@ -32419,16 +32394,6 @@
           "wordCount": 2344,
           "title": "ヤフーニュースアクセス1位「NHKアナのぷるぷるボディけしからん」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/3/6355adc4-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032241.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：少考さん ★：2024/01/15(月) 17:42:49.81 ID:uHaFkOKK9.net\n\n\n\n\n\n\n\n\n商品名「何をおっしゃっているのか理解できません」　Amazonで見かけるナゾ商品　その正体とは？https://t.co/BMHYxfVRpR— ITmedia NEWS (@itmedia_news) January 15, 2024 \n\n\n\n\n\n\n\n\n\n商品名「何...",
-          "link": "https://itainews.com/archives/2032241.html",
-          "publishedOn": "2024-01-16T10:01:35.000Z",
-          "wordCount": 2374,
-          "title": "商品名「何をおっしゃっているのか理解できません」　Amazonで見かけるナゾ商品　その正体とは？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/7779944f-s.png"
         }
       ]
     },
