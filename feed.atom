@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T20:24:10.504Z</updated>
+    <updated>2024-02-14T20:36:15.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[相模原 50代夫婦死亡 父親に複数の刺し傷 15歳長男強い殺意か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014358641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014358641000.html"/>
+        <updated>2024-02-14T20:22:31.000Z</updated>
+        <summary type="html"><![CDATA[相模原市のマンションに住む50代の夫婦が死亡し、15歳の長男が父親を殺害した疑いで逮捕された事件で、父親に複数の刺し傷があったことが、警察への取材で分かりました。警察は親子の間に何らかのトラブルがあり、長男に強い殺意があったとみて、詳しいいきさつを調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[競泳 世界選手権 男子200mバタフライ 本多灯が金メダル]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240215/k10014358831000.html</id>
