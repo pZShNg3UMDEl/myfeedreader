@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T22:12:07.233Z</updated>
+    <updated>2024-02-14T22:27:00.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 日本海で新型地対艦ミサイル発射実験を14日実施と発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014358901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014358901000.html"/>
+        <updated>2024-02-14T22:16:25.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮は、日本海で新型の地対艦ミサイルの発射実験を14日午前、実施したと15日付けの朝鮮労働党機関紙「労働新聞」を通じて発表しました。また、発射実験に立ち会ったキム・ジョンウン総書記は、朝鮮半島西側の黄海で「敵が艦船を頻繁に侵犯させている」として海上の境界線に近い韓国のヨンピョン島とペンニョン島の北側の水域で、軍事的態勢を強化する重要な指示を下したとしています。韓国軍は、14日、北朝鮮東部にあるウォンサン北東の日本海上で、北朝鮮が発射した巡航ミサイル数発を確認したと明らかにしていて、発表はこのミサイルを指すとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お父さん猫と初対面の子猫の可愛いシャーが可愛すぎる]]></title>
         <id>https://2-9-9.com/?p=68494</id>
@@ -37379,26 +37389,6 @@ for deblurring, augmented resolution, and slow-motion reconst…]]></summary>
         <summary type="html"><![CDATA[阪神・淡路大震災から1月17日で29年になるのを前に、神戸市の公園では、16日夕方から犠牲者を追悼するつどいが始まっています。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中日 ドラフト1位 草加勝投手 右ひじ内側側副じん帯損傷と診断]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322871000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322871000.html"/>
-        <updated>2024-01-16T10:25:58.000Z</updated>
-        <summary type="html"><![CDATA[プロ野球 中日のドラフト1位ルーキー草加勝投手が、右ひじに違和感を訴え病院で検査した結果、ひじのじん帯を痛めていたことがわかりました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【松屋】チキンマサラカレー【店舗限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=233168</id>
-        <link href="https://foodfighter.jp/matsuya-chicken-masala-curry"/>
-        <updated>2024-01-16T10:18:24.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
