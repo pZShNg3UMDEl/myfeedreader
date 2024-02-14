@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T13:35:29.432Z</updated>
+    <updated>2024-02-14T13:50:26.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日々感謝しよう]]></title>
+        <id>https://logipara.com/?p=9532</id>
+        <link href="https://logipara.com/diary-text/2024-02-15"/>
+        <updated>2024-02-14T13:37:03.000Z</updated>
+        <summary type="html"><![CDATA[この歳になって思いますけど、何に対する感謝の気持ちって、とても大事なんですよね。 神仏でも良いですし、両親でもパートナーでもお子さんでも良いですし、友人知人同級生でも良いですし、うちの母ちゃんマジリスペクツでも良いんです […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インドネシア大統領選 開票続く プラボウォ氏 勝利に自信示す]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240214/k10014357761000.html</id>
@@ -37595,16 +37605,6 @@ Kindleで購入済みのコンテンツが一部出て来ない。購入履歴�
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米大統領選 共和党候補選び初戦 トランプ氏勝利確実 ABCテレビ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322631000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322631000.html"/>
-        <updated>2024-01-16T01:37:34.000Z</updated>
-        <summary type="html"><![CDATA[ことし秋のアメリカ大統領選挙に向けた野党・共和党の候補者選びの初戦、中西部アイオワ州の党員集会で、アメリカのABCテレビはトランプ前大統領が勝利を確実にしたと伝えました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
