@@ -5490,16 +5490,6 @@
           "wordCount": 4404,
           "title": "ミニストップのコーヒー",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/01/image-4.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=9401",
-          "author": "watanabe@logipara.com",
-          "description": "お昼を食べるじゃないですか。 んで眠くなるじゃないですか。 ワタナベさんのそういうところ、可愛いじゃないですか。(照) 　 昼食後に眠くなるのって、糖質の取得で血糖値が急激に変動するから、なんですって。 つまり健康に悪い […]",
-          "link": "https://logipara.com/diary-text/2024-01-16",
-          "publishedOn": "2024-01-15T13:21:23.000Z",
-          "wordCount": 4396,
-          "title": "お昼を食べたら運動しよう",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -5765,6 +5755,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357731000.html",
+          "author": null,
+          "description": "14日午前10時32分ごろ石川県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。各地の震度は震度4が石川県穴水町で、震度3が七尾市と輪島市、志賀町でした。このほか、震度2や1の揺れを石川県、富山県、福井県、岐阜県、新潟県で観測しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357731000.html",
+          "publishedOn": "2024-02-14T01:44:25.000Z",
+          "wordCount": 413,
+          "title": "【地震 速報】石川県穴水町で震度4の地震",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357731_2402141038_0214104004_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357681000.html",
+          "author": null,
+          "description": "医療機関に支払われる診療報酬について、中医協＝中央社会保険医療協議会は、医療従事者の賃上げのため「初診料」や「再診料」を引き上げるなどとしたことし6月からの改定案を厚生労働大臣に答申しました。医療機関に支払われる診療報酬について、厚生労働省はことし6月から、人件費などに充てる「本体」部分を0.88％引き上げる方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357681000.html",
+          "publishedOn": "2024-02-14T01:40:36.000Z",
+          "wordCount": 760,
+          "title": "「初診料」など診療報酬引き上げへ 中医協が厚労相に答申",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357681_2402140957_0214104038_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357691000.html",
+          "author": null,
+          "description": "去年4月に行われた東京の江東区長選挙をめぐり、公職選挙法違反の買収などの罪に問われている柿沢未途前法務副大臣の初公判が開かれ、柿沢元議員は「争いません」などと述べ、起訴された内容を認めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357691000.html",
+          "publishedOn": "2024-02-14T01:12:32.000Z",
+          "wordCount": 733,
+          "title": "柿沢前副大臣 初公判で起訴内容認める 江東区長選めぐる事件",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357691_2402140955_0214101234_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357661000.html",
           "author": null,
@@ -21754,36 +21774,6 @@
           "wordCount": 513,
           "title": "国連機関トップ ガザ地区訪問 冬を乗り切る支援と停戦訴え",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322241_2401151945_0115230419_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322121000.html",
-          "author": null,
-          "description": "岸田総理大臣は、自民党の「政治刷新本部」の最高顧問を務める麻生副総裁や菅前総理大臣らと個別に会談し、派閥のあり方などをめぐって意見を交わしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322121000.html",
-          "publishedOn": "2024-01-15T13:12:43.000Z",
-          "wordCount": 879,
-          "title": "岸田首相 麻生副総裁や菅前首相らと会談 派閥のあり方意見交換",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322121_2401151937_0115194007_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322351000.html",
-          "author": null,
-          "description": "ウクライナが提唱する和平案について欧米や新興国などが話し合うためスイスのダボスで14日開かれた協議では、議長声明の発表が見送られ、背景には、ロシアとの関係も重視する国々の強い反対があったことがわかりました。多くの関係国の同意を得ながら和平に向けた道筋を探る難しさが、改めて浮き彫りになりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322351000.html",
-          "publishedOn": "2024-01-15T13:05:47.000Z",
-          "wordCount": 647,
-          "title": "ウクライナ提唱の和平案を話し合う協議 議長声明を見送り",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322351_2401152102_0115220518_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240115/k10014322101000.html",
-          "author": null,
-          "description": "北朝鮮のチェ・ソニ外相は、首都モスクワに到着し、ロシアへの公式訪問を始めました。両国の軍事的な結び付きに欧米などが警戒する中、16日にラブロフ外相と会談しさらなる連携強化を確認する見通しです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240115/k10014322101000.html",
-          "publishedOn": "2024-01-15T13:04:01.000Z",
-          "wordCount": 787,
-          "title": "北朝鮮外相 モスクワに到着 ロシア外相と16日に会談へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240115/K10014322101_2401151934_0115193531_01_02.jpg"
         }
       ]
     },
@@ -21792,6 +21782,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=236036",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
+          "link": "https://foodfighter.jp/sukiya-champon-udon2024",
+          "publishedOn": "2024-02-14T01:41:21.000Z",
+          "wordCount": 1933,
+          "title": "【すき家】海鮮ちゃんぽんうどん【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/5080bd0ad90f06be6f36aa3f917072cc.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236015",
           "author": "foodfighter",
@@ -27025,16 +27025,6 @@
           "wordCount": 1624,
           "title": "赤ちゃんが好きすぎる猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66579.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66573",
-          "author": "299",
-          "description": "今回ご紹介するのは姿の見当たらない猫ちゃんを探す柴犬です。 飼い主さんに訴える姿や心配そうに探し回る様子が可愛らしいのでご覧ください。 飼い主さんを不安そうな面持ちで見つめているのが柴犬リキちゃん。 様子が変なんですけど...\n猫が一匹いなくったワン・・と探す柴犬 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66573",
-          "publishedOn": "2024-01-15T13:00:48.000Z",
-          "wordCount": 1626,
-          "title": "猫が一匹いなくったワン・・と探す柴犬",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66573.jpeg"
         }
       ]
     },
@@ -32249,16 +32239,6 @@
           "wordCount": 2510,
           "title": "安楽死望むならカナダ行けよ　合法化から5年のカナダ、安楽死者数が4万人超え 生活保護より申請が簡単",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/1/81a0c813-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032210.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：Ailuropoda melanoleuca ★：2024/01/15(月) 11:30:15.98 ID:uKPQCJkO9.net\n\n\n\n\n\n\n\n\n\n『週刊文春』完売、松本人志の記事掲載号編集長「“スクープの力”は実に大きい」🔻コメント全文https://t.co/p2O7Prs7hT#週刊文春 #文藝春秋— ORICON NEWS（オリコンニュース） ...",
-          "link": "https://itainews.com/archives/2032210.html",
-          "publishedOn": "2024-01-15T13:01:46.000Z",
-          "wordCount": 2573,
-          "title": "『週刊文春』完売、松本人志「俺の子ども産めや！」の記事掲載号 編集長「“スクープの力”は実に大きい」【コメント全文】",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/6/e69c3b89-s.png"
         }
       ]
     },
