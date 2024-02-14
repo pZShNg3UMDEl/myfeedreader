@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T17:25:29.979Z</updated>
+    <updated>2024-02-14T17:36:04.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Talk on digital camera misunderstandings and HDR]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/02/talk-on-digital-camera.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/02/talk-on-digital-camera.html"/>
+        <updated>2024-02-14T17:34:00.006Z</updated>
+        <summary type="html"><![CDATA[Wayne Prentice presented a talk titled "Digital Camera Myths, Mis-statements and Misunderstandings" at the NY chapter meeting of IS&T (Society for imaging Science and Tech.) on 17 Jan. 2024.
+Abstract: The digital camera system is deceptively complex.  
+Understanding camera operation/design requires some knowledge of the 
+parts:  photometry, radiometry, optics, sensor physics, sensor design, 
+signal processing, image processing, color science, statistics, human 
+perception, and image/video encoding. With all these parts, it is easy 
+to miss something. This talk was inspired by interactions with 
+co-workers and clients.  It has been my experience that some subtle, yet
+ important points are often missed and can lead to suboptimal product 
+and design decisions that could be avoided. The goal o…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダンボール箱があれば必ず中に入る猫のまるちゃん]]></title>
         <id>https://2-9-9.com/?p=68528</id>
@@ -37487,16 +37506,6 @@ Kindleで購入済みのコンテンツが一部出て来ない。購入履歴�
         <summary type="html"><![CDATA[欧州連合（EU）が「デジタル市場法（DMA）」が発効したことで、アップルはiPhone上でApp Store以外のサードパーティ製アプリストアや、サイドロード（正規ストア以外からのアプリのインストール）を認める必要に迫られている。 そんななか、アップルがまもなくApp Storeを「EU向け」と「米 […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春闘 “企業に継続的な賃上げ強く呼びかけ” 経団連が基本方針]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240116/k10014322641000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240116/k10014322641000.html"/>
-        <updated>2024-01-16T05:33:31.000Z</updated>
-        <summary type="html"><![CDATA[ことしの春闘で、企業の経営側の指針となる経団連の基本方針がまとまり、「去年以上の意気込みと決意をもって積極的な検討と実施を求めたい」として、各企業に継続的な賃上げを強く呼びかけています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
