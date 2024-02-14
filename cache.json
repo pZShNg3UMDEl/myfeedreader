@@ -5791,6 +5791,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357991000.html",
+          "author": null,
+          "description": "日本がアメリカの巡航ミサイル「トマホーク」を取得することを受けて、来月下旬からアメリカ軍が自衛隊に対して教育や訓練を行うことになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014357991000.html",
+          "publishedOn": "2024-02-14T06:00:37.000Z",
+          "wordCount": 464,
+          "title": "「トマホーク」取得へ 来月下旬から米軍が自衛隊に訓練",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014357991_2402141449_0214150039_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357971000.html",
           "author": null,
           "description": "少子化対策のため公的医療保険を通じて集める「支援金制度」の加入者1人当たりの拠出額について、加藤こども政策担当大臣は、制度の運用開始後、初年度の2026年度は月平均で300円弱、2027年度は400円弱になるという試算を明らかにしました。",
@@ -27114,6 +27124,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=68794",
+          "author": "Munenori Taniguchi",
+          "description": "カリフォルニア州当局は、旧正月を祝う集団が暴徒化してWaymoの自動運転無人タクシーを襲撃、放火した事件について、週内で複数発生している自動運転車を標的とした抗議活動の最新のものかどうか、確認作業を進めている。 サンフランシスコ消防局によると、事件は土曜の夜に市内のチャイナタウン地区で発生し、集団が […]",
+          "link": "https://gadget.phileweb.com/post-68794/",
+          "publishedOn": "2024-02-14T06:31:35.000Z",
+          "wordCount": 797,
+          "title": "Waymoのロボタクシーを暴徒が襲撃。反自動運転車グループの関与も含め調査中",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/marleyPug_Shutterstock.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=68774",
+          "author": "多根清史",
+          "description": "公式にはWindows 11はWindows 10よりもシステム要件が厳しいが、様々な手口で要件チェックを回避でき、古いハードウェアでもインストールが可能だ。マイクロソフトが公式にサポートしていなくとも、Windows 10を起動できる64ビットPCであれば、Windows 11はほとんど問題なく動 […]",
+          "link": "https://gadget.phileweb.com/post-68774/",
+          "publishedOn": "2024-02-14T06:21:54.000Z",
+          "wordCount": 846,
+          "title": "Windows 11 バージョン24H2、一部の古いPCでは動かなくなる可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_2127486443.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=68758",
           "author": "Munenori Taniguchi",
