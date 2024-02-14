@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T09:13:18.730Z</updated>
+    <updated>2024-02-14T09:25:24.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メディア・芸能関係者アンケート結果公表 ジャニーズ問題受け]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240214/k10014358281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240214/k10014358281000.html"/>
+        <updated>2024-02-14T09:11:44.000Z</updated>
+        <summary type="html"><![CDATA[ジャニー喜多川氏の性加害問題の背景として「メディアの沈黙」が指摘される中、社会調査を行う団体が、メディアや芸能業界の関係者に行ったアンケート結果を14日、公表しました。特定の芸能事務所以外からも出演や取り引きの禁止、報道に対する「圧力」があったことなどがうかがえるとして、調査した団体は業界をあげて横断的な調査を行うよう求めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【なか卯】海鮮アボカド丼【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=236060</id>
