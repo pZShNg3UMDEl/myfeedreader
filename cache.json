@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120582/",
+          "author": null,
+          "description": "テレビアニメ「この世界は不完全すぎる」の放送が7月からスタートすることが決まった。当初は春から放送予定としていたが2月10日、公式サイトで7月放送開始と告知された。 同作は、左藤真通氏による漫画...",
+          "link": "https://anime.eiga.com/news/120582/",
+          "publishedOn": "2024-02-14T12:00:00.000Z",
+          "wordCount": 794,
+          "title": "「この世界は不完全すぎる」春予定から7月に放送延期",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120587/",
           "author": null,
           "description": "アニメ「村井の恋」の主要キャストとメインスタッフが発表され、高梨謙吾、日笠陽子、島崎信長の出演がきまった。また、同作が今年秋にディズニープラスで見放題配信されるほか、テレビ放送されることも明らか...",
@@ -2783,6 +2798,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98148",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/14(水) 10:17:13.10 ID:NUdHFD5Y0 ゲームボーイアド […]",
+          "link": "https://switchsoku.com/ds/98148",
+          "publishedOn": "2024-02-14T12:00:03.000Z",
+          "wordCount": 10021,
+          "title": "【今日は何の日？】ゲームボーイアドバンスSPが発売された日",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/gameboy-ad-sp.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98146",
           "author": "SWITCH速報",
           "description": "1: 2024/02/14(水) 09:41:57.55 ID:EzATH0+/0St.V 『Hi- […]",
@@ -5101,16 +5126,6 @@
           "wordCount": 10080,
           "title": "Switchの人生ゲーム‥PS5のほとんどのソフトを抜き去ってしまう",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/08/zinseigame.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97122",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/15(月) 18:26:05.55 ID:HxO/4xD00 https:// […]",
-          "link": "https://switchsoku.com/square-enix/97122",
-          "publishedOn": "2024-01-16T00:00:41.000Z",
-          "wordCount": 10228,
-          "title": "スクエニ「大型タイトルとインディーの二極化が進んでいる。その中間のタイトルを作り過ぎた」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/06/square-enix.jpg"
         }
       ]
     },
@@ -5870,6 +5885,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014358521000.html",
+          "author": null,
+          "description": "キリンホールディングスは、9年ぶりとなる社長交代の人事を発表し、磯崎功典社長が代表権のある会長に就任することを決めました。会長職が復活するのは8年ぶりとなります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014358521000.html",
+          "publishedOn": "2024-02-14T12:13:02.000Z",
+          "wordCount": 449,
+          "title": "キリンHD 9年ぶり社長交代の人事発表 磯崎社長は会長に就任へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014358521_2402142026_0214211304_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014358631000.html",
+          "author": null,
+          "description": "「ダイハツ工業」の労働組合は、ことしの春闘で基本給の底上げにあたるベア＝ベースアップの要求を見送ることを明らかにしました。ダイハツの労働組合がベアの要求を見送るのは11年ぶりで、会社による国の認証取得の不正問題を踏まえ、信頼回復に向けた取り組みを優先した形です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014358631000.html",
+          "publishedOn": "2024-02-14T12:10:34.000Z",
+          "wordCount": 584,
+          "title": "ダイハツ工業の労働組合 春闘でベア要求見送り 信頼回復を優先",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014358631_2402142101_0214211036_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014358611000.html",
+          "author": null,
+          "description": "自民党の二階元幹事長の資金管理団体が収支報告書を訂正し、書籍代金として3472万円の支出を記載したことについて、二階氏の事務所は14日夜、コメントを出しました。二階氏が取り組む政策を紹介する書籍を購入したなどとしていて、1冊2090円の書籍、5000冊購入したのが最も多く1045万円を支出したとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014358611000.html",
+          "publishedOn": "2024-02-14T12:08:20.000Z",
+          "wordCount": 496,
+          "title": "自民 二階氏 書籍代3472万円支出 自らの政策紹介本5000冊など",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014358611_2402142045_0214210822_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357931000.html",
           "author": null,
@@ -21929,26 +21974,6 @@
           "wordCount": 717,
           "title": "東京 帝国劇場 来年2月に休館へ 老朽化による建て替えのため",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322581_2401160935_0116094007_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322481000.html",
-          "author": null,
-          "description": "政府の地震調査委員会は、宮城県沖を震源とするマグニチュード7クラスの大地震について、30年以内に発生する確率を「70％から90％」に引き上げました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322481000.html",
-          "publishedOn": "2024-01-16T00:09:32.000Z",
-          "wordCount": 712,
-          "title": "宮城県沖地震の発生確率「70％から90％」に引き上げ 調査委",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322481_2401160813_0116090658_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014322571000.html",
-          "author": null,
-          "description": "北朝鮮のキム・ジョンウン（金正恩）総書記は、最高人民会議で行った演説で、韓国を「第1の敵対国」とみなすよう、憲法の改正を指示しました。また、会議では韓国との窓口機関の廃止も決定し、韓国を統一の対象ではないとする政策を実行していく姿勢を鮮明にしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014322571000.html",
-          "publishedOn": "2024-01-15T23:52:27.000Z",
-          "wordCount": 740,
-          "title": "北朝鮮 キム総書記 憲法改正を指示“韓国を第1の敵対国”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014322571_2401160859_0116091054_01_02.jpg"
         }
       ]
     },
@@ -23366,16 +23391,6 @@
           "wordCount": 1907,
           "title": "【すき家】黒だれ白髪ねぎ牛丼・大盛り【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/ff2062293f57966c92e3eb4684ba6be0.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=233086",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「Suage監修 海老香るスープカレー 赤米入り」を世界一詳しく調査しました。   公式You […]",
-          "link": "https://foodfighter.jp/711sej-suage-soup-curry-ebi",
-          "publishedOn": "2024-01-16T00:18:21.000Z",
-          "wordCount": 1867,
-          "title": "【セブンイレブン】Suage監修 海老香るスープカレー 赤米入り【北海道グルメフェア・新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/632b8b3e45e7113644a8462c7b1b851e.jpg"
         }
       ]
     },
@@ -23653,16 +23668,6 @@
           "wordCount": 2655,
           "title": "逆回復時間は15ナノ秒、トレンチMOS構造採用の100V耐圧SBD",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/16/cover_news169.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/16/news064.html",
-          "author": null,
-          "description": "ローデ・シュワルツ・ジャパンは、110G～170GHzのDバンドで、精密なパワーレベル測定ができるサーマルパワーセンサー「R&S NRP170TWG（N）」を発売した。接続の安定性に優れ、－20dBm以下の低いレベルでもパワー測定値を安定して出力する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/16/news064.html",
-          "publishedOn": "2024-01-16T00:00:00.000Z",
-          "wordCount": 2657,
-          "title": "最大500点/秒の測定が可能、Dバンド対応のサーマルパワーセンサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/16/cover_news064.jpg"
         }
       ]
     },
@@ -27200,16 +27205,6 @@
           "wordCount": 1626,
           "title": "子猫に囲まれ、幸せそうに眠る母猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66616.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66650",
-          "author": "299",
-          "description": "キジトラの子猫が膝の上に乗ってくつろいでいますが、飼い主さんは子猫の寝床のダンボールのなかに戻そうと試みています。 いったんは、静かんいダンボールの寝床のなかに落ち着いたように見える子猫でしたが、しばらくするとすぐにダン...\nダンボールの寝床より膝の上のほうがいいのにゃ！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66650",
-          "publishedOn": "2024-01-16T00:00:32.000Z",
-          "wordCount": 1616,
-          "title": "ダンボールの寝床より膝の上のほうがいいのにゃ！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66650.jpeg"
         }
       ]
     },
@@ -29065,6 +29060,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033086.html",
+          "author": "damono3856",
+          "description": "1 名前：もん様：2024/02/14(水) 09:03:06.89 ID:qq+J2/IM0●.net\n\n\n\n\n\n\n\n【独自】食用コオロギの会社が破産…その真相とは 経済ジャーナリストが分析「SDGsというきれい事だけではビジネスはできない。ベンチャー投資ブームが終わった」https://t.co/DbGHZ9gV6a— 佐倉...",
+          "link": "https://itainews.com/archives/2033086.html",
+          "publishedOn": "2024-02-14T12:04:18.000Z",
+          "wordCount": 2446,
+          "title": "ブームっぽいから昆虫食会社やってみるもすぐ倒産",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/7/d79ed731-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033076.html",
           "author": "yonepo665sfr",
