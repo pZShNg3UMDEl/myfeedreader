@@ -5791,6 +5791,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240214/k10014358081000.html",
+          "author": null,
+          "description": "１４日午後３時２９分ごろ地震がありました。この地震による津波の心配はありません。震源地は京都府南部で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．３と推定されます。各市町村の震度は以下のとおりです。▼震度４が、京都市伏見区。▼震度３が、京都市北区 京都市上京区 京都市左京区 京都市中京区 京都市下京区 京都市右京区 京都市山科区 京都市西京区 京都府亀岡市 京都府向日市 京都府南丹市 京都府大山崎町 京都府久御山町 京都府京丹波町 大阪府高槻市 大阪府島本町 大阪府能勢町 兵庫県三田市",
+          "link": "http://www3.nhk.or.jp/news/html/20240214/k10014358081000.html",
+          "publishedOn": "2024-02-14T06:35:16.000Z",
+          "wordCount": 253,
+          "title": "【地震 速報】京都市伏見区で震度4 津波の心配なし M4.3",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240214/K10014358081_2402141533_0214153518_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240214/k10014357991000.html",
           "author": null,
           "description": "日本がアメリカの巡航ミサイル「トマホーク」を取得することを受けて、来月下旬からアメリカ軍が自衛隊に対して教育や訓練を行うことになりました。",
@@ -27124,6 +27134,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=68816",
+          "author": "多根清史",
+          "description": "過去の任天堂による名作ゲームは次々と復刻されているが、絶対に復活が望めないものがある。スーパーファミコン向け周辺機器「サテラビュー」専用ソフトの『BS F-ZERO GRAND PRIX』および『BS F-ZERO GRAND PRIX 2』である。それぞれ、1996年と1997年に配信された。 サ […]",
+          "link": "https://gadget.phileweb.com/post-68816/",
+          "publishedOn": "2024-02-14T06:39:22.000Z",
+          "wordCount": 793,
+          "title": "幻のサテラビュー用『BS F-ZERO GRAND PRIX』2作を有志が忠実再現",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/【ニンテンドークラシックミニ　スーパーファミコン】F-ZERO-0-1-screenshot.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=68794",
           "author": "Munenori Taniguchi",
