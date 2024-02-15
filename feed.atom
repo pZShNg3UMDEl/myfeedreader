@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T10:14:09.124Z</updated>
+    <updated>2024-02-15T10:29:58.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[輪島の大規模火災 電気系統ショートなどで出火か 総務省消防庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014359781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014359781000.html"/>
+        <updated>2024-02-15T10:11:47.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で起きた石川県輪島市の大規模な火災について、総務省消防庁の消防研究センターは、地震で住宅の電気系統がショートするなどして出火した可能性があると発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春闘 電機大手各社の労働組合 月額1万3000円の賃上げ要求]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014359771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014359771000.html"/>
+        <updated>2024-02-15T10:08:55.000Z</updated>
+        <summary type="html"><![CDATA[ことしの春闘で、大手電機メーカー各社の労働組合は、ベースアップとして月額1万3000円の賃上げを求める要求書をそれぞれ経営側に提出しました。1998年以降で最も高い水準で、どの程度まで賃上げが実現するかが焦点となります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【松屋】あんかけ玉子牛めし・大盛り【店舗限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=236172</id>
