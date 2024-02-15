@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120583/",
+          "author": null,
+          "description": "4月スタートのテレビアニメ「花野井くんと恋の病」のオープニングテーマが、「Sexy Zone」の新曲「君のせい」に決定した。同グループは「Sexy Zoneがアニメの主題歌を担当するのはすごく久...",
+          "link": "https://anime.eiga.com/news/120583/",
+          "publishedOn": "2024-02-15T03:00:00.000Z",
+          "wordCount": 844,
+          "title": "Sexy Zoneが「花野井くんと恋の病」オープニングテーマ担当　楽曲使用PVも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120582/",
           "author": null,
           "description": "テレビアニメ「この世界は不完全すぎる」の放送が7月からスタートすることが決まった。当初は春から放送予定としていたが2月10日、公式サイトで7月放送開始と告知された。 同作は、左藤真通氏による漫画...",
@@ -5785,6 +5800,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359021000.html",
+          "author": null,
+          "description": "先月、就航した航空会社のトキエアが利用者向けにホームページで掲載した案内文の内容について、一部の表現が、障害のある人に一律で付き添いを求めていると誤解を招くおそれがあると国土交通省が指摘していたことがわかりました。これを受けて会社は内容を変更し、差別する意図はなかったなどとコメントしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014359021000.html",
+          "publishedOn": "2024-02-15T03:07:20.000Z",
+          "wordCount": 537,
+          "title": "“障害ある人に一律で付き添い 誤解のおそれ”国交省が指摘",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014359021_2402151112_0215114711_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359041000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる事件で、政治資金規正法違反の罪で罰金と公民権停止の略式命令を受けた谷川弥一元衆議院議員や岸田派の元会計責任者の有罪が確定しました。一連の事件で有罪が確定したのは初めてです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014359041000.html",
+          "publishedOn": "2024-02-15T02:58:56.000Z",
+          "wordCount": 580,
+          "title": "政治資金事件 谷川元衆院議員や岸田派元会計責任者の有罪確定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014359041_2402151138_0215115747_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358951000.html",
+          "author": null,
+          "description": "能登半島の北部につながる「のと鉄道」は、地震の発生から1か月半ぶりに一部で運転を再開し、利用した学生からは喜びの声が聞かれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014358951000.html",
+          "publishedOn": "2024-02-15T02:52:11.000Z",
+          "wordCount": 636,
+          "title": "のと鉄道 一部で運転再開 地震発生から1か月半ぶり 石川",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014358951_2402151138_0215114235_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359011000.html",
           "author": null,
@@ -21914,16 +21959,6 @@
           "wordCount": 683,
           "title": "阪神・淡路大震災からきょうで29年 教訓などをどう生かすか",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323261_2401161841_0117040009_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014323571000.html",
-          "author": null,
-          "description": "政治資金パーティーをめぐる問題を受けて自民党の派閥改革が議論される中、最大派閥の安倍派は、19日にも議員総会を開く方向で調整に入りました。派内では、中堅・若手を中心に幹部の辞任や派閥の解散を求める意見が出ていて、今後の対応について協議が行われる見通しです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014323571000.html",
-          "publishedOn": "2024-01-16T15:04:37.000Z",
-          "wordCount": 707,
-          "title": "自民 安倍派 19日にも議員総会開催で調整 派閥改革議論の中",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323571_2401162248_0116225057_01_02.jpg"
         }
       ]
     },
@@ -28960,6 +28995,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033098.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/02/14(水) 18:00:50.29 ID:UpVFLxjE0.net\n\n\n\n\n\n\n\n\n\n\n【独自】岸田首相韓国訪問へ　大谷翔平開幕戦の3月20日に尹錫悦大統領と首脳会談実施検討　北朝鮮問題などについて協議か #FNNプライムオンライン https://t.co/1UoB7uvNwH— FNNプ...",
+          "link": "https://itainews.com/archives/2033098.html",
+          "publishedOn": "2024-02-15T03:01:47.000Z",
+          "wordCount": 2470,
+          "title": "増税クソメガネ、大谷翔平に会うため電撃訪韓へｗｗｗ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/d/bd77c79b-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033088.html",
           "author": "damono3856",
