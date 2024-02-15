@@ -2699,21 +2699,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120397/",
-          "author": null,
-          "description": "米ピクサー・アニメーション・スタジオが、2024年後半にリストラを計画していることがわかった。 米TechCrunchによる第一報では、全従業員の最大20％に影響する可能性があるとされていた。し...",
-          "link": "https://anime.eiga.com/news/120397/",
-          "publishedOn": "2024-01-16T13:00:00.000Z",
-          "wordCount": 787,
-          "title": "ピクサー、24年後半にリストラ計画　削減人数含む詳細は不明",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5801,6 +5786,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358731000.html",
+          "author": null,
+          "description": "石川県内で15日に予定されている給水支援の情報です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014358731000.html",
+          "publishedOn": "2024-02-15T01:42:42.000Z",
+          "wordCount": 1175,
+          "title": "【石川 給水・入浴情報】輪島・珠洲などで実施（15日予定）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014358731_2402150017_0215103627_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358911000.html",
           "author": null,
           "description": "大リーグ、メッツの千賀滉大投手が14日、フロリダ州でキャンプの初日を迎え、大リーグ2年目のシーズンに向けて「自分のレベルをさらに上げられるようにしたい」と意気込みを話しました。",
@@ -5809,6 +5804,16 @@
           "wordCount": 610,
           "title": "メッツ 千賀滉大「自分のレベル さらに上げられるように」",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014358911_2402150940_0215095333_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358931000.html",
+          "author": null,
+          "description": "15日の東京株式市場、日経平均株価は一時、400円以上値上がりし、3万8100円台をつけました。取り引き時間中としてはバブル期の1990年1月以来、およそ34年ぶりの高値を更新しています。14日のニューヨーク市場で主要な株価指数がそろって上昇したことを受けて、半導体関連などの銘柄に買い注文が集まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014358931000.html",
+          "publishedOn": "2024-02-15T00:50:43.000Z",
+          "wordCount": 630,
+          "title": "株価 一時400円以上値上がりし3万8100円台 およそ34年ぶり高値",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014358931_2402150937_0215095021_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358841000.html",
@@ -21869,26 +21874,6 @@
           "wordCount": 707,
           "title": "自民 安倍派 19日にも議員総会開催で調整 派閥改革議論の中",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323571_2401162248_0116225057_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014323721000.html",
-          "author": null,
-          "description": "石川県輪島市の坂口茂市長は、今回の地震で少なくとも5つの地区の128人が孤立状態になっていることについて、17日からの3日間で、ほぼ解消できるという見通しを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014323721000.html",
-          "publishedOn": "2024-01-16T13:38:08.000Z",
-          "wordCount": 609,
-          "title": "石川 輪島市長“17日からの3日間で孤立状態ほぼ解消の見通し”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014323721_2401162149_0116221549_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014323791000.html",
-          "author": null,
-          "description": "中国の李強首相はスイスで開かれている世界の政財界のリーダーが集まる通称「ダボス会議」で演説し、中国の去年の経済成長率がプラス5.2％前後になり、プラス5％前後とした政府の目標を達成するという見通しを明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014323791000.html",
-          "publishedOn": "2024-01-16T13:36:45.000Z",
-          "wordCount": 720,
-          "title": "中国首相“去年の経済成長率プラス5.2％前後” ダボス会議で",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014323791_2401162222_0116223257_01_02.jpg"
         }
       ]
     },
@@ -27130,16 +27115,6 @@
           "wordCount": 1387,
           "title": "可愛いおんにゃのこの子猫を保護！ちゅーるのおかげで警戒心もとれてきました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66642.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66638",
-          "author": "299",
-          "description": "飼い主さんの手のひらを枕にしてうっとりとした表情でまったりしているのはこてつくんです。 飼い主さんの手枕に顔を載せていると、手の温もりも感じられるので、とろとろにとろけそうになってしまうようです。あまりに心地よいので、目...\nママの手枕は最高にゃ〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66638",
-          "publishedOn": "2024-01-16T13:00:21.000Z",
-          "wordCount": 1386,
-          "title": "ママの手枕は最高にゃ〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66638.jpeg"
         }
       ]
     },
@@ -32354,16 +32329,6 @@
           "wordCount": 2633,
           "title": "れ信「山本太郎を総理にしないのなら瓦礫の下に埋まってろ」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/6/76529030-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032246.html",
-          "author": "damono3856",
-          "description": "1 名前：冬月記者 ★：2024/01/16(火) 00:42:29.03 ID:ScpzLe419.net\n\n\n\n\n\n\n\n有吉弘行さんが当事者にXの苦言した「いきなり盗撮されてSNSに即アップされた」番組収録の模様を盗撮され苦言　さらにSNSにも拡散されていた(スポニチアネックス)#Yahooニュース　#有吉弘行htt...",
-          "link": "https://itainews.com/archives/2032246.html",
-          "publishedOn": "2024-01-16T13:03:37.000Z",
-          "wordCount": 2537,
-          "title": "【芸能】有吉弘行、一般人に番組収録の模様を盗撮され苦言 「礼に始まり礼に終わる。とかないのね。いきなり盗撮、即アップ」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/4/f487eaec-s.png"
         }
       ]
     },
