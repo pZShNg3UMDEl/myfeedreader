@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T13:14:03.531Z</updated>
+    <updated>2024-02-15T13:24:37.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[漫画家 芦原妃名子さん死亡受け 日本テレビ特別調査チーム設置]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014360211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014360211000.html"/>
+        <updated>2024-02-15T13:18:46.000Z</updated>
+        <summary type="html"><![CDATA[テレビドラマにもなった人気漫画、『セクシー田中さん』の作者で漫画家の芦原妃名子さんが、ドラマの脚本をめぐり、制作側と見解の違いが生じていたことを1月、明かした後、死亡したことを受け、日本テレビは外部の有識者に協力を依頼したうえで特別調査チームを社内に設置し、調査を進めることを明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エベレスト、登山者の排泄物持ち帰りを義務化　「山が臭い始めた」]]></title>
         <id>https://itainews.com/archives/2033108.html</id>
