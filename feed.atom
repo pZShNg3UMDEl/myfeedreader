@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T13:24:37.085Z</updated>
+    <updated>2024-02-15T13:36:11.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人の心]]></title>
+        <id>https://logipara.com/?p=9534</id>
+        <link href="https://logipara.com/diary-text/2024-02-16"/>
+        <updated>2024-02-15T13:25:09.000Z</updated>
+        <summary type="html"><![CDATA[知り合いが 「ディープフェイクでお金を稼ぐ方法」 というサークルに参加しているの見つけ、私の魂が何かを叫んでいる]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫画家 芦原妃名子さん死亡受け 日本テレビ特別調査チーム設置]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240215/k10014360211000.html</id>
@@ -37887,16 +37897,6 @@ ENHYPENジェイク＆歌手チョン・ソミ、有名コーヒーを飲んで�
         <link href="http://www3.nhk.or.jp/news/html/20240117/k10014324011000.html"/>
         <updated>2024-01-17T01:43:55.000Z</updated>
         <summary type="html"><![CDATA[フランスのマクロン大統領は16日、記者会見を行い、ウクライナに巡航ミサイルの供与など軍事支援を行うことを明らかにしたうえで、来月、ウクライナを訪問し、2国間の安全保障協定を締結したいという考えを示しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ガザ地区 “停戦と人質解放が唯一の道” 仲介のカタール首相]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240117/k10014323911000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240117/k10014323911000.html"/>
-        <updated>2024-01-17T01:35:05.000Z</updated>
-        <summary type="html"><![CDATA[パレスチナのガザ地区で続くイスラエル軍とイスラム組織ハマスの戦闘について、双方を仲介するカタールの首相は、解決に向けた唯一の道は停戦と引き換えに人質を解放することだという見方を示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
