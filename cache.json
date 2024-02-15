@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120590/",
+          "author": null,
+          "description": "人気アニメーション映画のシリーズ最新作「映画ドラえもん のび太の地球交響楽（シンフォニー）」の完成披露試写会が2月11日、東京・内幸町のイイノホールで行われた。ドラえもんをはじめのび太、しずか、...",
+          "link": "https://anime.eiga.com/news/120590/",
+          "publishedOn": "2024-02-15T12:00:00.000Z",
+          "wordCount": 824,
+          "title": "芳根京子、しずかちゃんとピアノの連弾をリクエスト　“フラれた”ジャイアンとスネ夫はしょんぼり",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/animehack_editors/120563/",
           "author": null,
           "description": "アニメ「鬼滅の刃」シリーズが、テレビアニメ第1期の劇場先行上映版「鬼滅の刃 兄妹の絆」で2019年3月にスタートしてから丸5年が経とうとしている。 19年にテレビアニメ第1期「竈門炭治郎 立志編...",
@@ -2798,6 +2813,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98189",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/15(木) 15:24:36.79 ID:Jb35bJW/d 1と3求められて […]",
+          "link": "https://switchsoku.com/switch/98189",
+          "publishedOn": "2024-02-15T12:00:48.000Z",
+          "wordCount": 10099,
+          "title": "【朗報】ゼノブレイド2 無双の噂があるらしい！？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/04/xenoblade2-0000.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=98186",
           "author": "SWITCH速報",
           "description": "新しいマニューバー「ガエンFF」の情報が公開。 サブはトラップ、スペシャルはメガホンレーザー5.1c […]",
@@ -5106,16 +5131,6 @@
           "wordCount": 10155,
           "title": "ポケモンBDSP→アルセウス→SV‥この間たったの1年という狂気",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/02/pokemon-legends-aruseusu.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97157",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/16(火) 23:37:15.36 ID:/NGb/uQk0 ◇スイッチに足り […]",
-          "link": "https://switchsoku.com/switch/97157",
-          "publishedOn": "2024-01-17T00:00:22.000Z",
-          "wordCount": 10191,
-          "title": "「スイッチ後継機」にユーザーが望むこと",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/nintendo-switch2.webp"
         }
       ]
     },
@@ -5885,6 +5900,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014360051000.html",
+          "author": null,
+          "description": "北朝鮮が国歌の歌詞を一部変更し、朝鮮半島全体を指す「三千里」という単語を削除したことが確認されました。韓国を平和統一の対象とみなさない政策に転換したことを踏まえたものとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014360051000.html",
+          "publishedOn": "2024-02-15T11:50:33.000Z",
+          "wordCount": 517,
+          "title": "北朝鮮 国歌の歌詞一部変更 朝鮮半島全体指す「三千里」削除",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014360051_2402152028_0215205036_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359961000.html",
           "author": null,
@@ -22294,16 +22319,6 @@
           "wordCount": 666,
           "title": "ガザ地区 “停戦と人質解放が唯一の道” 仲介のカタール首相",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323911_2401170859_0117091213_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014323921000.html",
-          "author": null,
-          "description": "アメリカ軍は16日、紅海を航行する船舶への攻撃を繰り返すイエメンの反政府勢力、フーシ派を攻撃し、ミサイルを破壊したと発表し、さらなる緊張の高まりが懸念されています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014323921000.html",
-          "publishedOn": "2024-01-17T00:15:58.000Z",
-          "wordCount": 717,
-          "title": "米軍“フーシ派を攻撃 ミサイル破壊”と発表 緊張の高まり懸念",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323921_2401170839_0117091600_01_02.jpg"
         }
       ]
     },
@@ -23998,16 +24013,6 @@
           "wordCount": 2655,
           "title": "姿勢角と自己位置を検知する小型6軸慣性力センサー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/18/cover_news074.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/16/news169.html",
-          "author": null,
-          "description": "ロームは、100V耐圧のSBD「YQ」シリーズの量産を開始した。独自のトレンチMOS構造を採用し、順方向電圧と逆方向電流を同時に低減していて、逆回復時間は15ナノ秒を達成している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/16/news169.html",
-          "publishedOn": "2024-01-17T00:00:00.000Z",
-          "wordCount": 2655,
-          "title": "逆回復時間は15ナノ秒、トレンチMOS構造採用の100V耐圧SBD",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/16/cover_news169.jpg"
         }
       ]
     },
@@ -27545,16 +27550,6 @@
           "wordCount": 1609,
           "title": "赤ちゃん猫を心配そうに見つめる先住猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66677.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66711",
-          "author": "299",
-          "description": "子猫のむつが座ったままの姿でゆらゆらと舟をこぎはじめました。必死に襲いかかってくる睡魔に抵抗しようとして、きちんと前足を揃えたお座りのポーズを崩そうとしません。 なんとか足をふんばっているものの、頭はゆらゆらしていて時折...\nユーラユーラと立ち寝する子猫むつが可愛い〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66711",
-          "publishedOn": "2024-01-17T00:00:49.000Z",
-          "wordCount": 1609,
-          "title": "ユーラユーラと立ち寝する子猫むつが可愛い〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66711.jpeg"
         }
       ]
     },
@@ -29420,6 +29415,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033111.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2024/02/15(木) 09:36:22.57 ID:Huq0WKp+9.net\n\n\n\n\n\n\n\nマッサージで「きわどい部分を触られた」と複数部員ら　高知高校女子サッカー部監督を逮捕 https://t.co/rP6lhk1uHO 容疑者は私立高知中学高校の女子サッカー部監督。複数の部員らがマッ...",
+          "link": "https://itainews.com/archives/2033111.html",
+          "publishedOn": "2024-02-15T12:03:47.000Z",
+          "wordCount": 2394,
+          "title": "マッサージで「きわどい部分を触られた」と複数部員ら　高知高校女子サッカー部監督を逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/ab4d40fd-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033107.html",
           "author": "damono3856",
@@ -32879,16 +32884,6 @@
           "wordCount": 2525,
           "title": "松本人志「事実無根や！戦うで！」文春「はい告発者追加ね」松本「…」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/9/e9c1464d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032254.html",
-          "author": "yonepo665sfr",
-          "description": "1 ： 【末吉】 (ジパング) [US]：2024/01/16(火) 12:45:26.96 ID:UtnfAqK20●.net\n\n\n\n\n\n\n\n\n松村祥史防災担当相は閣議後会見で、能登半島地震の被災地の避難所を訪れた際、マスクを着けていなかったとの指摘に対し、「少し配慮不足だった。関係者や被災者に心配や不安を与...",
-          "link": "https://itainews.com/archives/2032254.html",
-          "publishedOn": "2024-01-17T00:01:00.000Z",
-          "wordCount": 3345,
-          "title": "【悲報】大臣がノーマスクで視察→マスク派どもが批判→大臣謝罪",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/7/c7960271-s.png"
         }
       ]
     },
