@@ -2714,21 +2714,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120402/",
-          "author": null,
-          "description": "テレビアニメ「義妹生活」の放送が、7月からスタートすることが決定した。あわせて、主人公の浅村悠太、義理の妹として悠太と暮らすことになる綾瀬沙季のキャラクター設定も披露されている。 同作は、シリー...",
-          "link": "https://anime.eiga.com/news/120402/",
-          "publishedOn": "2024-01-16T12:00:00.000Z",
-          "wordCount": 865,
-          "title": "「義妹生活」7月放送開始　主人公＆義妹のキャラクター設定を披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2737,6 +2722,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98164",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/14(水) 22:48:20.03 ID:kNa4qBRj0 https:// […]",
+          "link": "https://switchsoku.com/soft/mario_odyssey/98164",
+          "publishedOn": "2024-02-15T00:00:49.000Z",
+          "wordCount": 10040,
+          "title": "『マリオvs.ドンキーコング』メタスコア77点",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/mario-donkey.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98160",
           "author": "SWITCH速報",
@@ -5026,16 +5021,6 @@
           "wordCount": 10021,
           "title": "失敗作の烙印を押されていた『マリオ+ラビッツ2』ジワ売れして300万本売れていた",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/06/mario-rabits-galaxy.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97144",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/15(月) 13:27:00.54 ID:Zdj8yTZ5d 出来ればSwit […]",
-          "link": "https://switchsoku.com/soft/97144",
-          "publishedOn": "2024-01-16T12:00:01.000Z",
-          "wordCount": 10324,
-          "title": "10時間ぐらいでクリアできて良い感じに満足できるゲームおしえて",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/03/gnosia.jpg"
         }
       ]
     },
@@ -5815,6 +5800,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358911000.html",
+          "author": null,
+          "description": "大リーグ、メッツの千賀滉大投手が14日、フロリダ州でキャンプの初日を迎え、大リーグ2年目のシーズンに向けて「自分のレベルをさらに上げられるようにしたい」と意気込みを話しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014358911000.html",
+          "publishedOn": "2024-02-15T00:54:03.000Z",
+          "wordCount": 610,
+          "title": "メッツ 千賀滉大「自分のレベル さらに上げられるように」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014358911_2402150940_0215095333_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014358841000.html",
           "author": null,
@@ -21894,16 +21889,6 @@
           "wordCount": 720,
           "title": "中国首相“去年の経済成長率プラス5.2％前後” ダボス会議で",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014323791_2401162222_0116223257_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240116/k10014323211000.html",
-          "author": null,
-          "description": "自民党は、すべての所属議員を対象に16日「政治刷新本部」の会合を開きました。派閥について、出席者から国民から疑念を持たれているなどとして解消すべきだという意見が出された一方、人材育成などの観点から必要だという指摘が出されました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240116/k10014323211000.html",
-          "publishedOn": "2024-01-16T12:25:25.000Z",
-          "wordCount": 821,
-          "title": "自民 政治刷新本部 全議員対象に会合 派閥については両論",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240116/K10014323211_2401161945_0116195147_01_02.jpg"
         }
       ]
     },
@@ -23320,6 +23305,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/14/news163.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、3相モータードライバー「STSPIN32G4」をベースにした、エッジAI機能付きのモータードライバーリファレンス設計「EVLSPIN32G4-ACT」を発表した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/14/news163.html",
+          "publishedOn": "2024-02-15T00:00:00.000Z",
+          "wordCount": 2627,
+          "title": "AI機能付きモータードライバーリファレンス設計",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/14/cover_news163.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/14/news053.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、IRレシーバーモジュール「TSOP18xx」「TSOP58xx」「TSSP5xx」シリーズのアップグレードを発表した。プリアンプリファイア回路、フォトディテクター、IRフィルターを搭載する。",
@@ -23596,6 +23591,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68532",
+          "author": "299",
+          "description": "ママ猫が子猫を優しく毛づくろいしています。子猫はママ猫に全身を舐められて夢見心地になっています。優しいママ猫のことをじっと見つめる子猫の表情からはママ猫への愛が感じられます。 ママ猫とこうやって過ごす時間が子猫にとっても...\nママ猫に毛づくろいしてもらってハッピーな子猫たち first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68532",
+          "publishedOn": "2024-02-15T00:00:46.000Z",
+          "wordCount": 1400,
+          "title": "ママ猫に毛づくろいしてもらってハッピーな子猫たち",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68532.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68494",
           "author": "299",
@@ -28755,16 +28760,6 @@
           "wordCount": 2581,
           "title": "ひろゆき@hirox246の「数字詐欺」を完全論破ァ！！",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/cdb9c787ea22bf5cf0013645f9a07908d32af5fd.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/n6b2b0dbdb6dc",
-          "author": null,
-          "description": "前回\n\n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/n6b2b0dbdb6dc",
-          "publishedOn": "2024-01-16T12:04:49.000Z",
-          "wordCount": 2577,
-          "title": "新橋九段裁判④被告書面",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/90b08cb886af2c02d2e5e7c2251a8b8b1975de39.png"
         }
       ]
     },
