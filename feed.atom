@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T10:40:09.874Z</updated>
+    <updated>2024-02-15T10:50:16.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自衛隊制服組トップの吉田圭秀統合幕僚長 過労で入院]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240215/k10014359861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240215/k10014359861000.html"/>
+        <updated>2024-02-15T10:38:13.000Z</updated>
+        <summary type="html"><![CDATA[防衛省は、自衛隊制服組トップの吉田圭秀統合幕僚長が過労による体調不良のため15日、都内の病院に入院したと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「劇場版ハイキュー!!」日向が高く高く飛ぶ――公開直前PVが完成　熱量最高潮「ゴミ捨て場の決戦」の模様を収録]]></title>
         <id>https://anime.eiga.com/news/120602/</id>
@@ -37802,16 +37812,6 @@ ENHYPENジェイク＆歌手チョン・ソミ、有名コーヒーを飲んで�
         <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 今回はラーメン店の開店情報をお届けー♪ 厚木市下川入に、「肉中華れんげ」が昨年12月27日からプレオープンされています。 まずは場所からご案内いたします。 ラーメンとチャーシューの店「肉中華れんげ」場所は…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スターバックス】ホワイトオペラフラペチーノ【期間限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=233216</id>
-        <link href="https://foodfighter.jp/starbucks-opera-white"/>
-        <updated>2024-01-16T22:43:12.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「ホワイトオペラフラペチーノ」を世界一詳しく調査しました。   公式Yo […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
