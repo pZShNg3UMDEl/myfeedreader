@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120602/",
+          "author": null,
+          "description": "劇場アニメ「劇場版ハイキュー!! ゴミ捨て場の決戦」の公開直前PVが披露された。 烏野高校と音駒高校が激突する「ゴミ捨て場の決戦」が全国の舞台で実現する今作。公開直前PVは、春高の開会直前に影山...",
+          "link": "https://anime.eiga.com/news/120602/",
+          "publishedOn": "2024-02-15T10:30:00.000Z",
+          "wordCount": 797,
+          "title": "「劇場版ハイキュー!!」日向が高く高く飛ぶ――公開直前PVが完成　熱量最高潮「ゴミ捨て場の決戦」の模様を収録",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/animehacktv/120494/",
           "author": null,
           "description": "放送中のテレビアニメ「異世界でもふもふなでなでするためにがんばってます。」（通称「もふなで」）は、人間以外の動物に好かれる能力を与えられて異世界に転生した公爵家の3女、ネフェルティマ・オスフェ（...",
@@ -5855,6 +5870,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359801000.html",
+          "author": null,
+          "description": "おととし、北海道 知床半島沖で沈没した観光船の運航会社の桂田精一社長が、沈没事故の前の年に、船員に交付しなければならない雇用契約書を交付していなかったとして、船員法違反の罪で15日に略式起訴されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014359801000.html",
+          "publishedOn": "2024-02-15T10:29:52.000Z",
+          "wordCount": 332,
+          "title": "知床観光船事故 運航会社社長 船員との契約書不交付で略式起訴",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014359801_2402151849_0215192955_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359781000.html",
           "author": null,
