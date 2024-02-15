@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T19:36:25.045Z</updated>
+    <updated>2024-02-15T19:50:28.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被災の水族館から移動のペンギン 富山市の動物園で元気な姿]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014359431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014359431000.html"/>
+        <updated>2024-02-15T19:43:31.000Z</updated>
+        <summary type="html"><![CDATA[富山市の動物園では、能登半島地震で被害を受けた水族館からやってきたペンギンが元気な姿を見せています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミルクをたっぷり飲んでから甘えるのが子猫のルーティーンです]]></title>
         <id>https://2-9-9.com/?p=68595</id>
@@ -37513,26 +37523,6 @@ ENHYPENジェイク＆歌手チョン・ソミ、有名コーヒーを飲んで�
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャン […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベルキン、世界初「Qi2」認証ワイヤレス充電器を国内投入。1/26から順次発売]]></title>
-        <id>https://gadget.phileweb.com/?p=66080</id>
-        <link href="https://gadget.phileweb.com/post-66080/"/>
-        <updated>2024-01-17T07:46:35.000Z</updated>
-        <summary type="html"><![CDATA[ベルキンは、ワイヤレス充電の新規格「Qi2」の公式認証を世界で初めて取得した充電器を1月17日から販売開始する。家電量販店では1月17日から予約開始、1月26日から順次発売するとしている。ラインナップは以下の通り（価格は税込）。 ・「Belkin Qi2 2-in-1 ワイヤレス充電パッド」9,99 […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、App Store「外部決済」を米国で許可。ただし手数料は徴収]]></title>
-        <id>https://gadget.phileweb.com/?p=66062</id>
-        <link href="https://gadget.phileweb.com/post-66062/"/>
-        <updated>2024-01-17T07:43:54.000Z</updated>
-        <summary type="html"><![CDATA[アップルは、最高裁判所がApp Storeの手数料に関するEpic Gamesとの独占禁止法紛争の心理請求を却下するという結果を受け、訴訟の大部分でEpicの要求を下した。 しかし裁判所は、Appleが開発者からApp Strore経由以外での支払い方法をユーザーに案内することを禁じるという行為につ […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
