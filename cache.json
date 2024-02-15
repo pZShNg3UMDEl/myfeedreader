@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120595/",
+          "author": null,
+          "description": "「彼女、お借りします」（略称「かのかり」）で知られる宮島礼吏氏による漫画「紫雲寺（しうんじ）家の子供たち」のテレビアニメ化が決定した。宮島氏が描いたお祝いイラストが披露されている。 「ヤングアニ...",
+          "link": "https://anime.eiga.com/news/120595/",
+          "publishedOn": "2024-02-15T09:00:00.000Z",
+          "wordCount": 773,
+          "title": "「かのかり」宮島礼吏の最新作「紫雲寺家の子供たち」TVアニメ化決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120430/",
           "author": null,
           "description": "日本テレビ系「金曜ロードショー」で2月16日に「ペット」、2月23日に「SING シング」が放送される。「ミニオンズ」を生み出し、オリジナル長編作品「FLY! フライ！」の日本公開を3月15日に...",
@@ -5815,6 +5830,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359601000.html",
+          "author": null,
+          "description": "3年前、兵庫県稲美町で自宅に火をつけて小学生の兄弟を殺害したとして殺人と放火の罪に問われた53歳の伯父に対し、神戸地方裁判所姫路支部は懲役30年を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014359601000.html",
+          "publishedOn": "2024-02-15T09:03:12.000Z",
+          "wordCount": 470,
+          "title": "兵庫 小学生兄弟放火殺人 伯父に懲役30年の判決 神戸地裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014359601_2402151758_0215180314_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359551000.html",
+          "author": null,
+          "description": "都内に住む夫婦が4歳の次女に有害な化学物質などを摂取させて殺害したとして逮捕された事件で、次女の体内から検出された向精神薬を母親がふだんから服用していたとみられることが、捜査関係者などへの取材でわかりました。警視庁は自身で購入したものを摂取させた疑いがあるとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240215/k10014359551000.html",
+          "publishedOn": "2024-02-15T09:00:40.000Z",
+          "wordCount": 480,
+          "title": "4歳次女中毒死事件 検出の向精神薬 母親がふだんから服用か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240215/K10014359551_2402151720_0215180042_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240215/k10014359581000.html",
           "author": null,
@@ -22144,26 +22179,6 @@
           "wordCount": 511,
           "title": "政府 巨大IT企業を規制する新たな法律を制定する方向で検討",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323591_2401162031_0116215147_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014323891000.html",
-          "author": null,
-          "description": "最大震度7を観測した能登半島地震で、被災地では16日も震度5弱の揺れを観測する地震が発生するなど活発な地震活動が続いています。一方、厳しい冷え込みも続いていて、低体温症に注意し、寒さを感じるときには毛布などで体を暖めたり定期的に体を動かしたりして体温が下がらないよう対策を続けてください。",
-          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014323891000.html",
-          "publishedOn": "2024-01-16T21:14:25.000Z",
-          "wordCount": 749,
-          "title": "能登半島地震の被災地 厳しい冷え込み続く 低体温症に注意を",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323891_2401170602_0117061427_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014323831000.html",
-          "author": null,
-          "description": "能登半島地震に関連し、SNS上で偽情報が広がったことを受けて、政府は、今後、同様の事態を防ぐため、有識者による新たな作業チームを設置し、抜本的な対策を検討することになりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014323831000.html",
-          "publishedOn": "2024-01-16T21:08:06.000Z",
-          "wordCount": 547,
-          "title": "能登半島地震 SNSで偽情報 政府 有識者チーム設置し対策検討へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014323831_2401162258_0116225905_01_02.jpg"
         }
       ]
     },
@@ -29270,6 +29285,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033102.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：おっさん友の会 ★：2024/02/14(水) 10:04:52.86 ID:FApQrJvk9.net\n\n\n\n\n\n\n\n\n\n\nスマホ没収、夜の行進40km…“地獄の社員研修”がハードすぎる。「時代錯誤」の声に担当者は https://t.co/oy61s8sRfb #SPA!— 週刊SPA!・日刊SPA! (@weekly_SPA) February 13, 2024 \n\n\n\n...",
+          "link": "https://itainews.com/archives/2033102.html",
+          "publishedOn": "2024-02-15T09:01:40.000Z",
+          "wordCount": 2373,
+          "title": "大手企業も採用…夜の行進40kmなど“地獄の社員研修”、時代錯誤の声に担当者は｢強メンタルを手に入れられる｣",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/a/8a13a531-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033114.html",
           "author": "damono3856",
