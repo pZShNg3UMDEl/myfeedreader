@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T05:37:36.219Z</updated>
+    <updated>2024-02-16T05:50:10.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北陸新幹線 金沢～敦賀 開業まで1か月「1番列車」切符に喜ぶ姿]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014360831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014360831000.html"/>
+        <updated>2024-02-16T05:28:01.000Z</updated>
+        <summary type="html"><![CDATA[北陸新幹線の金沢・敦賀間の開業まで、ちょうど1か月となる中、16日から開業日の切符の販売が始まり、JR福井駅では「1番列車」の切符を手に入れた人たちの喜ぶ姿が見られました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポケモンカードなど盗んだ疑いで5人逮捕 販売価格で1億円余]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240216/k10014360821000.html</id>
