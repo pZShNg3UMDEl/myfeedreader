@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120609/",
+          "author": null,
+          "description": "テレビアニメ「デート・ア・ライブ V」の放送が4月にスタートすることが決定し、オープニング主題歌を富田美憂、エンディング主題歌を声優ユニット「sweet ARMS」が担当することが明らかになった...",
+          "link": "https://anime.eiga.com/news/120609/",
+          "publishedOn": "2024-02-16T12:00:00.000Z",
+          "wordCount": 873,
+          "title": "「デート・ア・ライブ V」4月放送開始、最新PV公開　主題歌は富田美憂＆「sweet ARMS」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120612/",
           "author": null,
           "description": "アニメ「黒執事」の新シリーズ「寄宿学校編」が4月13日から放送されることが決まり、「寄宿学校編」の主要キャラクター「P4」を渡部俊樹、榎木淳弥、武内駿輔、橘龍丸が演じることが発表された。P4が登...",
@@ -2798,6 +2813,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98229",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/16(金) 19:36:07.69 ID:qWtfzzVfd はやすぎる ここ […]",
+          "link": "https://switchsoku.com/soft/splatoon3/98229",
+          "publishedOn": "2024-02-16T12:00:34.000Z",
+          "wordCount": 10027,
+          "title": "『スプラトゥーン3 サーモンラン』もう最後の追加ステージ",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/10/splatoon3-salmonrun.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98226",
           "author": "SWITCH速報",
           "description": "92: 2024/02/12(月) 02:25:36.05 ID:5Qevdoq60 デッドセルズ全 […]",
@@ -5096,16 +5121,6 @@
           "wordCount": 10028,
           "title": "Switchドラゴンクエストモンスターズ3、100万本突破！！",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/06/dqm3.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97206",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/17(水) 20:43:04.56 ID:OaP/dgQx0 不思議のダンジョ […]",
-          "link": "https://switchsoku.com/soft/97206",
-          "publishedOn": "2024-01-18T00:00:58.000Z",
-          "wordCount": 10129,
-          "title": "『風来のシレン6』容量1.6GB",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/siren6.webp"
         }
       ]
     },
@@ -5856,6 +5871,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014361561000.html",
+          "author": null,
+          "description": "京都大学の学生寮「吉田寮」のうち、築100年を超える古い建物に住む寮生に大学が明け渡しを求めた裁判の判決で、京都地方裁判所は、大学の訴えを一部退け、14人について入居の継続を認めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014361561000.html",
+          "publishedOn": "2024-02-16T11:59:24.000Z",
+          "wordCount": 687,
+          "title": "京都大学「吉田寮」裁判 14人の入居継続を認める判決 京都地裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014361561_2402162038_0216205926_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240216/k10014361581000.html",
           "author": null,
           "description": "ロシアでプーチン政権を批判する急先ぽうとして知られ、北極圏にある刑務所に収監されていた反体制派の指導者、アレクセイ・ナワリヌイ氏が死亡したと国営のロシア通信社が当局の情報として伝えました。16日に死亡したとしていますが、詳しい原因などは明らかになっていません。",
@@ -5894,6 +5919,26 @@
           "wordCount": 480,
           "title": "ニューヨーク市 IT各社を提訴 “SNSが若者の精神面に悪影響”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014361211_2402161743_0216180252_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014361361000.html",
+          "author": null,
+          "description": "能登半島地震のあと、富山県黒部市の宇奈月温泉にある旅館では、宿泊予約のおよそ8割がキャンセルになりました。しかし、観光業への支援策を受けて予約が相次いでいるということで、旅館からは支援策に期待する声が聞かれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014361361000.html",
+          "publishedOn": "2024-02-16T10:26:00.000Z",
+          "wordCount": 647,
+          "title": "富山 宇奈月温泉の旅館 国や県の観光業支援策受け 予約相次ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014361361_2402161837_0216192603_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014361231000.html",
+          "author": null,
+          "description": "能登半島地震で大きな揺れを観測した石川県では、2月11日までの1週間で、1医療機関当たりのインフルエンザの患者の数が21人と、前の週から5.93人増えました。新型コロナの患者の数は県全体では減っていますが、能登中部では44人と高い水準となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014361231000.html",
+          "publishedOn": "2024-02-16T10:12:36.000Z",
+          "wordCount": 691,
+          "title": "石川 インフル患者数 前週から増 コロナは減も能登中部 高水準",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014361231_2402161806_0216191238_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360721000.html",
@@ -24078,16 +24123,6 @@
           "wordCount": 2648,
           "title": "クロックとは　ーーマイコンにクロックが必要な理由",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/16/cover_news016.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/18/news074.html",
-          "author": null,
-          "description": "村田製作所は、姿勢角と自己位置を高精度に検知可能な小型6軸慣性力センサー「SCH16T-K01」を開発した。過酷な環境条件下でも、機械動特性や位置検知において高い性能が求められる用途に適している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/18/news074.html",
-          "publishedOn": "2024-01-18T00:00:00.000Z",
-          "wordCount": 2655,
-          "title": "姿勢角と自己位置を検知する小型6軸慣性力センサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/18/cover_news074.jpg"
         }
       ]
     },
@@ -27625,16 +27660,6 @@
           "wordCount": 1631,
           "title": "子猫のことが気になって追跡してしまう先住猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66741.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66775",
-          "author": "299",
-          "description": "お父さんが床に手をついていると子猫にとってはちょうど良いキャットツリーのようになります。子猫のむぎはお父さんの膝の上に登って腕の間をすりぬけたりして楽しそうに冒険をしています。 高さもちょうど良いので怪我することなく安心...\nお父さんのジャングルジムで楽しく遊ぶ子猫が可愛い first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66775",
-          "publishedOn": "2024-01-18T00:00:42.000Z",
-          "wordCount": 1625,
-          "title": "お父さんのジャングルジムで楽しく遊ぶ子猫が可愛い",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66775.jpeg"
         }
       ]
     },
