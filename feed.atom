@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T11:20:11.680Z</updated>
+    <updated>2024-02-16T11:36:35.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【松屋】コチジャンダレ鶏飯【店舗限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=236294</id>
+        <link href="https://foodfighter.jp/matsuya-gochujang-torimeshi"/>
+        <updated>2024-02-16T11:22:41.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【企業】バンダイナムコ、開発中だった5タイトル以上を開発中止…通期業績予想も下方修正]]></title>
         <id>https://itainews.com/archives/2033139.html</id>
@@ -155,6 +165,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240216/k10014361341000.html"/>
         <updated>2024-02-16T09:38:19.000Z</updated>
         <summary type="html"><![CDATA[警察によりますと、16日午後3時すぎ、新潟県新発田市の市道で横断歩道を渡っていた小学生3人が車にはねられ、このうち2人が病院に搬送されました。警察は車を運転していた88歳の女の容疑者を過失運転傷害の疑いでその場で逮捕しました。警察が事故の原因を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR西日本など大手6社 インフラの老朽化 共同で自治体を支援]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014361051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014361051000.html"/>
+        <updated>2024-02-16T09:32:59.000Z</updated>
+        <summary type="html"><![CDATA[橋や水道などのインフラの老朽化が全国各地で課題となるなか、JR西日本やNTTグループ、メガバンクなど大手6社が共同で自治体を支援する、新たな事業を始めることを正式に発表しました。2030年までに100を超える自治体で事業展開を目指すとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
