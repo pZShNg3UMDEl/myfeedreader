@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T03:25:53.522Z</updated>
+    <updated>2024-02-16T03:36:50.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[19歳死亡事故 ブレーキ痕跡なく踏み間違えの可能性 福島]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014360671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014360671000.html"/>
+        <updated>2024-02-16T03:32:23.000Z</updated>
+        <summary type="html"><![CDATA[15日、福島県鏡石町の駅前のロータリーで19歳の男女2人が軽乗用車にはねられ、男子大学生が死亡、もう1人が意識不明の重体になっている事故で、現場にブレーキをかけた痕跡がないことが警察への取材で分かりました。警察は、72歳のドライバーがアクセルとブレーキを踏み間違えた可能性があるとみて調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、開発環境Xcodeに生成AIコーディング＆テスト機能を導入か]]></title>
         <id>https://gadget.phileweb.com/?p=69104</id>
@@ -14,6 +24,26 @@
         <summary type="html"><![CDATA[アップルは生成AI機能を開発中であり、次期「iOS 18」や音声アシスタントSiriの強化版などに組み込むと噂されている。その成果の1つとして、開発環境XcodeのコーディングとテストをAIにより効率化するアップデートが「完成に近づいている」と米Bloombergが報じている。 アップルの内情に詳し […]]]></summary>
         <author>
             <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盛山文科相 “選挙支援の指摘 教団側から揺さぶりも”と認識]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014360591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014360591000.html"/>
+        <updated>2024-02-16T03:22:58.000Z</updated>
+        <summary type="html"><![CDATA[盛山文部科学大臣は、前回の衆議院選挙で旧統一教会側から選挙の支援を受けたなどと指摘が出ていることについて、解散命令請求を行った岸田政権に対し、教団側が揺さぶりをかけていることも考えられるという認識を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衆院 政倫審の幹事懇談会 野党側は関係議員の出席 求める方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014360641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014360641000.html"/>
+        <updated>2024-02-16T03:21:11.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題を受けて、16日午後、衆議院政治倫理審査会の幹事懇談会が開かれます。野党側は、安倍派と二階派の関係議員を審査会に出席させるよう求める方針で、還付金などが確認された議員全員を対象とする案も出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -37415,16 +37445,6 @@ https://ne...]]></summary>
         <updated>2024-01-17T15:44:44.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NY市場 円安進む 一時1ドル148円台まで値下がり 約1か月半ぶり]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325131000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325131000.html"/>
-        <updated>2024-01-17T15:26:51.000Z</updated>
-        <summary type="html"><![CDATA[17日のニューヨーク外国為替市場では円安が進み、円相場は一時、1ドル＝148円台まで値下がりしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
