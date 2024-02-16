@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120584/",
+          "author": null,
+          "description": "声優・アーティストとして活動する保住有哉が30歳を迎えたことを記念して、写真集が3月14日に発売される。 30代に入って初となる撮り下ろしグラビアの舞台となったのは、保住のルーツでもある長野県。...",
+          "link": "https://anime.eiga.com/news/120584/",
+          "publishedOn": "2024-02-16T03:00:00.000Z",
+          "wordCount": 842,
+          "title": "保住有哉、30歳の節目に写真集発売「ちなみに…入浴シーン多めです」　真冬の積雪地帯での神秘的カットも",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120572/",
           "author": null,
           "description": "2016年のディズニーアニメ「モアナと伝説の海」の続編「モアナ2（原題）」が、2024年11月27日に全米公開されることがわかった。ウォルト・ディズニーのロバート・アイガーCEOが株主総会直前に...",
@@ -5775,6 +5790,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360651000.html",
+          "author": null,
+          "description": "トラックドライバーの時間外労働の規制強化で輸送力不足が懸念される物流の2024年問題が課題となる中、岸田総理大臣は、物流業界の経営トップらと意見交換を行い、人手不足の解消に向け、適正な価格転嫁などを通じて、トラックドライバーの賃金が10％前後引き上げられることに期待を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360651000.html",
+          "publishedOn": "2024-02-16T03:08:13.000Z",
+          "wordCount": 729,
+          "title": "岸田首相“トラックドライバーの賃金10％前後引き上げに期待”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360651_2402161159_0216120815_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360601000.html",
+          "author": null,
+          "description": "相模原市のマンションに住む50代の夫婦が死亡し、高校生の長男が父親を殺害した疑いで逮捕された事件で、警察が調べたところ、2人とも刃物で複数回刺されて死亡したことが分かりました。室内からは血のついた刃物も見つかったということで、警察が詳しいいきさつを調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360601000.html",
+          "publishedOn": "2024-02-16T02:59:41.000Z",
+          "wordCount": 540,
+          "title": "夫婦とも刃物で複数回刺され死亡 室内から刃物も 相模原",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360601_2402161141_0216115943_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360531000.html",
+          "author": null,
+          "description": "北朝鮮のキム・ジョンウン（金正恩）総書記の妹、キム・ヨジョン（金与正）氏が、岸田総理大臣のピョンヤン訪問の可能性に言及したことについて、林官房長官は、「留意する」とした一方、拉致問題は解決済みとする主張は全く受け入れられないという認識を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360531000.html",
+          "publishedOn": "2024-02-16T02:52:03.000Z",
+          "wordCount": 503,
+          "title": "林官房長官 “キム・ヨジョン氏談話 拉致解決済み受け入れず”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360531_2402161115_0216115116_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360571000.html",
+          "author": null,
+          "description": "都内に住む夫婦が、4歳の次女に有害な化学物質を摂取させて殺害したとして逮捕された事件で、意識のない状態で病院に搬送された次女について、母親が「寝ていると思ったのでそのままにしておいた」と逮捕前に説明していたことが捜査関係者への取材でわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360571000.html",
+          "publishedOn": "2024-02-16T02:46:06.000Z",
+          "wordCount": 719,
+          "title": "4歳次女中毒死「寝ていると思いそのままに」母親逮捕前に説明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360571_2402161127_0216114608_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360511000.html",
           "author": null,
@@ -23431,16 +23486,6 @@
           "wordCount": 1952,
           "title": "【マクドナルド】キャラメルミルクティーフラッペ【マックカフェ・新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/0c42c2852cfd7db8e00741ca916cb334.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=233326",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なトッピングで好みの組み合わせを見つけることができる超有名人気カレー専門チェーン「カレーハウスCo […]",
-          "link": "https://foodfighter.jp/ichibanya-grand-mother-curry",
-          "publishedOn": "2024-01-17T14:57:12.000Z",
-          "wordCount": 1914,
-          "title": "【CoCo壱番屋（ココイチ）】グランド・マザー・カレー【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/cd8df5cf27c046faab90c5b1462f8ad8.jpg"
         }
       ]
     },
@@ -29100,6 +29145,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033127.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：ﾊﾟﾇｧｷ：2024/02/15(木) 12:27:53.64 ID:+wp3nHkq0●.net\n\n\n\n\n\n\n\n\n\n顔の『脂肪吸引』受けた患者が死亡…出血で窒息おそれ認識しながら適切措置を怠ったか　医師を書類送検 https://t.co/1g12UFEtUw #MBSニュース #ニュース— MBSニュース (@mbs_news) February 15, 20...",
+          "link": "https://itainews.com/archives/2033127.html",
+          "publishedOn": "2024-02-16T03:01:46.000Z",
+          "wordCount": 2413,
+          "title": "男性(48)「頬の脂肪吸引してもらったぞ。これで俺もイケメ、あれ、おかしいな、息が、、でき、、」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/7/47a55560-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033115.html",
           "author": "damono3856",
