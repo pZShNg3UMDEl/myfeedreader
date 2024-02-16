@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T02:18:33.622Z</updated>
+    <updated>2024-02-16T02:35:33.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“ラファ地上作戦 イスラエルと住民保護計画協議”米政府高官]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014360511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014360511000.html"/>
+        <updated>2024-02-16T02:16:44.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ政府の高官はイスラエル軍がガザ地区南部ラファで地上作戦を行う構えをみせていることについて、住民を保護する計画がなければ大惨事になると懸念を示し、イスラエル側と協議を続けていると明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファミ通「MSがHi-Fi Rush、Pentiment、Sea of Thieves、GroundedのPS/Switchへの展開を発表」]]></title>
         <id>https://switchsoku.com/?p=98201</id>
@@ -35,6 +45,16 @@
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「さくらシフォンケーキ」を世界一詳しく調査しました。   公式YouTu […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「中堅企業」支援などの改正案 閣議決定 国内投資拡大に向け]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014360491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014360491000.html"/>
+        <updated>2024-02-16T01:47:45.000Z</updated>
+        <summary type="html"><![CDATA[国内への投資の拡大や持続的な賃上げの実現に向けて、政府は、中小企業より規模が大きい企業を新たに「中堅企業」と位置づけ、成長を支援することなどを盛り込んだ産業競争力強化法などの改正案を16日の閣議で決定しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
