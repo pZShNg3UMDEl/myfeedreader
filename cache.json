@@ -5594,6 +5594,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html",
+          "author": null,
+          "description": "Semiconductor Engineering published an article on dealing with noise in CMOS image sensors: https://semiengineering.com/dealing-with-noise-in-image-sensors/\nDealing With Noise In Image Sensors\nThe expanding use and importance of image sensors in safety-critical applications such as automotive and medical devices has transformed noise from an annoyance into a life-threatening problem that requires a real-time solution.\nIn consumer cameras, noise typically results in grainy images, often associated with poor lighting, the speed at which an image is captured, or a faulty sensor. Typically, that image can be cleaned up afterward, such as reducing glare in a selfie. But in cars, glare in an ADAS image system can affect how quickly the brakes are applied. And in vehicles or medical devices, syst…",
+          "link": "http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html",
+          "publishedOn": "2024-02-16T17:28:00.001Z",
+          "wordCount": 6618,
+          "title": "Semiconductor Engineering article about noise in CMOS image sensors",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXtBUpo-ZfWFuNXfmwT4tLoNVtzIUyISrsFSfSUYFuG8WwSHl9nJ_O6eHKWkNSkAcALHQAzLoVqVPhX9xYYVi7NqcWpuIVZdC_RrHb-C6lgrgwq77ihZJtAiuz_Xr0McDa6-5IKThfH4sPnBLv-Cn8dk8JnW-ZpJ8XgQtDhMq3iwOvEikAwrQ=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/02/talk-on-digital-camera.html",
           "author": null,
           "description": "Wayne Prentice presented a talk titled \"Digital Camera Myths, Mis-statements and Misunderstandings\" at the NY chapter meeting of IS&T (Society for imaging Science and Tech.) on 17 Jan. 2024.\nAbstract: The digital camera system is deceptively complex.  \nUnderstanding camera operation/design requires some knowledge of the \nparts:  photometry, radiometry, optics, sensor physics, sensor design, \nsignal processing, image processing, color science, statistics, human \nperception, and image/video encoding. With all these parts, it is easy \nto miss something. This talk was inspired by interactions with \nco-workers and clients.  It has been my experience that some subtle, yet\n important points are often missed and can lead to suboptimal product \nand design decisions that could be avoided. The goal o…",
@@ -22249,16 +22259,6 @@
           "wordCount": 1206,
           "title": "「野球殿堂」に谷繁元信氏 黒田博樹氏など3人が新たに選出",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014324991_2401181434_0118152337_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014325521000.html",
-          "author": null,
-          "description": "3年前、甲府市で一方的に好意を寄せていた女性が暮らす住宅に侵入し、女性の両親を殺害して住宅を全焼させたなどとして殺人や放火などの罪に問われている当時19歳の被告に対する判決の言い渡しが甲府地方裁判所で始まりました。裁判長は冒頭で結論にあたる主文を述べず、判決の理由を先に読み上げています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014325521000.html",
-          "publishedOn": "2024-01-18T05:29:21.000Z",
-          "wordCount": 735,
-          "title": "【速報中】甲府 夫婦殺人放火事件判決 主文は最後の見通し",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014325521_2401181407_0118142854_01_02.jpg"
         }
       ]
     },

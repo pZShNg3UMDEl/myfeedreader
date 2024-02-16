@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T17:24:05.496Z</updated>
+    <updated>2024-02-16T17:35:22.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Semiconductor Engineering article about noise in CMOS image sensors]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html"/>
+        <updated>2024-02-16T17:28:00.001Z</updated>
+        <summary type="html"><![CDATA[Semiconductor Engineering published an article on dealing with noise in CMOS image sensors: https://semiengineering.com/dealing-with-noise-in-image-sensors/
+Dealing With Noise In Image Sensors
+The expanding use and importance of image sensors in safety-critical applications such as automotive and medical devices has transformed noise from an annoyance into a life-threatening problem that requires a real-time solution.
+In consumer cameras, noise typically results in grainy images, often associated with poor lighting, the speed at which an image is captured, or a faulty sensor. Typically, that image can be cleaned up afterward, such as reducing glare in a selfie. But in cars, glare in an ADAS image system can affect how quickly the brakes are applied. And in vehicles or medical devices, syst…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[しっぽで子猫を遊ばせる猫]]></title>
         <id>https://2-9-9.com/?p=68651</id>
@@ -37716,16 +37729,6 @@ https://ne...]]></summary>
         <summary type="html"><![CDATA[1: 2024/01/14(日) 15:53:15.99 ID:KTxIs 2Dゲームには2Dゲーム […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報中】甲府 夫婦殺人放火事件判決 主文は最後の見通し]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325521000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325521000.html"/>
-        <updated>2024-01-18T05:29:21.000Z</updated>
-        <summary type="html"><![CDATA[3年前、甲府市で一方的に好意を寄せていた女性が暮らす住宅に侵入し、女性の両親を殺害して住宅を全焼させたなどとして殺人や放火などの罪に問われている当時19歳の被告に対する判決の言い渡しが甲府地方裁判所で始まりました。裁判長は冒頭で結論にあたる主文を述べず、判決の理由を先に読み上げています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
