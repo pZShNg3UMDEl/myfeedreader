@@ -2729,21 +2729,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120398/",
-          "author": null,
-          "description": "米製作者組合が1月12日（現地時間）、第35回PGA賞のノミネート作品を発表した。 映画部門では、ゴールデングローブ賞に輝いた「オッペンハイマー」と「哀れなるもの」や、ナショナル・ボード・オブ・...",
-          "link": "https://anime.eiga.com/news/120398/",
-          "publishedOn": "2024-01-17T13:00:00.000Z",
-          "wordCount": 892,
-          "title": "米製作者組合賞ノミネート発表　「君たちはどう生きるか」がアニメ映画部門の候補に",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5535,16 +5520,6 @@
           "wordCount": 4391,
           "title": "睡魔が強すぎる",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9410",
-          "author": "watanabe@logipara.com",
-          "description": "...",
-          "link": "https://logipara.com/diary-text/2024-01-18",
-          "publishedOn": "2024-01-17T13:18:47.000Z",
-          "wordCount": 4390,
-          "title": "判読お願いします",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/01/PXL_20240117_113715390-1024x576.jpg"
         }
       ]
     },
@@ -5800,6 +5775,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360461000.html",
+          "author": null,
+          "description": "能登半島地震への対応をめぐり、岸田総理大臣は、復旧・復興の加速化に向けて3度目となる今年度予算の予備費の使用を調整する考えを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360461000.html",
+          "publishedOn": "2024-02-16T01:23:54.000Z",
+          "wordCount": 484,
+          "title": "岸田首相 能登半島地震の復旧・復興で3度目の予備費使用調整へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360461_2402160947_0216095910_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360471000.html",
+          "author": null,
+          "description": "マイナンバーカードの交付を受けるための申請が、自治体の窓口だけでなく、郵便局でもできるよう法律が改正されたことを受けて、今月21日から全国で初めて、宮崎県都城市の郵便局で受け付けが始まることになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360471000.html",
+          "publishedOn": "2024-02-16T01:18:56.000Z",
+          "wordCount": 454,
+          "title": "マイナンバーカード郵便局で交付申請 宮崎 都城で21日から開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360471_2402160944_0216101521_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360431000.html",
+          "author": null,
+          "description": "少子化対策の強化に向けて、政府は16日の閣議で、児童手当や育児休業給付の拡充などを盛り込んだ子ども・子育て支援法などの改正案を決定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360431000.html",
+          "publishedOn": "2024-02-16T01:04:23.000Z",
+          "wordCount": 327,
+          "title": "「子ども・子育て支援法」などの改正案 閣議決定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360431_2402160915_0216100406_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360411000.html",
           "author": null,
@@ -22029,16 +22034,6 @@
           "wordCount": 705,
           "title": "JR中央線快速 運転見合せ 東京駅～高尾駅 人身事故の影響",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014325071_2401172339_0117234121_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240117/k10014325041000.html",
-          "author": null,
-          "description": "北陸電力は、石川県志賀町にある志賀原子力発電所で17日、試験運転中だった非常用ディーゼル発電機1台が自動停止するトラブルがあったと発表しました。志賀原発では、地震の影響で外部からの電気を受ける系統が一部使えなくなっていますが、北陸電力はほかにも複数の非常用発電機があることなどから、安全上重要な設備の電源は確保されているとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240117/k10014325041000.html",
-          "publishedOn": "2024-01-17T13:30:37.000Z",
-          "wordCount": 1028,
-          "title": "志賀原発 非常用発電機1台が自動停止するトラブル 試験運転中",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240117/K10014325041_2401172219_0117222608_01_02.jpg"
         }
       ]
     },
@@ -27270,16 +27265,6 @@
           "wordCount": 1624,
           "title": "シュシュの首輪をつけてもらってプリンセスのような子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66702.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66698",
-          "author": "299",
-          "description": "一心不乱に子猫をグルーミングをしてあげる母猫さんがいます。 落ち着きのない子猫がジタバタと暴れてもお構いなし！ 「ガシッ」両手でホールドして「べローンべローン」と力強く全身を舐めてあげます！ 一匹目の作業が終わりに近づく...\n子猫たちに豪快なグルーミングをしてあげる母猫さん！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66698",
-          "publishedOn": "2024-01-17T13:00:07.000Z",
-          "wordCount": 1630,
-          "title": "子猫たちに豪快なグルーミングをしてあげる母猫さん！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66698.jpeg"
         }
       ]
     },
@@ -32474,16 +32459,6 @@
           "wordCount": 2392,
           "title": "読売テレビ社長「ダウンタウンDX」は「対応を検討」も「松本さんと女性側が番組内で直接対話するならば、ぜひ放送したい」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/5/75e7c83d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032282.html",
-          "author": "damono3856",
-          "description": "1 名前：うんこ：2024/01/17(水) 11:36:56.25 ID:9Pwc/yz50●.net\n\n\n\n\n\n\n\n米国籍客暴れ、全日空機引き返す　CA負傷、かみつき疑いで逮捕 | 2024/1/17 - 共同通信 https://t.co/zDgAronadx— しじみ (@Shijimijp) January 17, 2024  \n\n\n\n\n\n\n太平洋上を飛行中の羽田発米シ...",
-          "link": "https://itainews.com/archives/2032282.html",
-          "publishedOn": "2024-01-17T13:05:16.000Z",
-          "wordCount": 2357,
-          "title": "ANA機で乗客が暴れる　スチュワーデスに噛みつき怪我を負わせる",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/e/3e2eea50-s.png"
         }
       ]
     },
@@ -32492,6 +32467,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41133",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ 今回は大人も子供も気になる、本厚木ミロード内の開店情報です♪ 2月15日（木）にカプセルトイ専門店「＃C-pla（シープラ）本厚木ミロード店」がオープンしましたー！ まずは場所からご案内します。 カプセル…",
+          "link": "https://atsugi-lab.com/open-cpla-hmylord202402/",
+          "publishedOn": "2024-02-16T01:12:52.000Z",
+          "wordCount": 1151,
+          "title": "【2月15日開店】本厚木ミロード1・7Fに、カプセルトイ専門店「＃C-pla（シープラ）」がオープン！その場で撮影できるフォトブースも☆",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/cpla202402.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=40931",
           "author": "fumie",
