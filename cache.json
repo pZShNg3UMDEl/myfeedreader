@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120608/",
+          "author": null,
+          "description": "「劇場版ハイキュー!! ゴミ捨て場の決戦」の上映が2月16日からスタートし、直前の15日深夜に全国6都市12会場で最速上映が実施された。東京・TOHOシネマズ新宿で行われた舞台挨拶には、日向翔陽...",
+          "link": "https://anime.eiga.com/news/120608/",
+          "publishedOn": "2024-02-16T09:00:00.000Z",
+          "wordCount": 852,
+          "title": "「劇場版ハイキュー!! ゴミ捨て場の決戦」最速上映に村瀬歩、石川界人、梶裕貴、中村悠一が集結　原作者・古舘氏もメッセージ寄せる",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120584/",
           "author": null,
           "description": "声優・アーティストとして活動する保住有哉が30歳を迎えたことを記念して、写真集が3月14日に発売される。 30代に入って初となる撮り下ろしグラビアの舞台となったのは、保住のルーツでもある長野県。...",
@@ -5801,6 +5816,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360921000.html",
+          "author": null,
+          "description": "去年、初号機が打ち上げに失敗した日本の新たな主力ロケット「H3」の2号機の打ち上げを17日に控え、鹿児島県の種子島宇宙センターでは16日、機体が発射地点に移されました。★「H3」ロケットの打ち上げの模様は、こちらの記事の中で「ライブ配信」でお伝えする予定です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360921000.html",
+          "publishedOn": "2024-02-16T08:57:33.000Z",
+          "wordCount": 525,
+          "title": "「H3」ロケット2号機 あす打ち上げへ【ライブ配信予定】",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360921_2402161641_0216172513_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360711000.html",
+          "author": null,
+          "description": "北陸新幹線の金沢・敦賀間の開業まで16日で1か月です。観光客の増加に期待を寄せつつ、石川県内の宿泊施設では、悩ましい問題に直面しています。能登半島地震の2次避難所になっている宿泊施設では、被災者と観光客の受け入れをどう両立するのか、難しい判断に迫られています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014360711000.html",
+          "publishedOn": "2024-02-16T08:56:42.000Z",
+          "wordCount": 1298,
+          "title": "北陸新幹線 金沢～敦賀の開業迫る 宿泊施設が直面する問題とは",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360711_2402161502_0216160801_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014361181000.html",
+          "author": null,
+          "description": "青森県八戸市で、5歳の長女に浴槽で水を浴びせて放置し低体温症で死亡させたとして、母親と交際相手が逮捕された事件で、2人は警察の調べに対し、水を浴びせたのはしつけの一環だったという趣旨の供述をしていることが、捜査関係者への取材で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014361181000.html",
+          "publishedOn": "2024-02-16T08:51:44.000Z",
+          "wordCount": 602,
+          "title": "青森 八戸 5歳児死亡 母親と交際相手“水浴びせたのはしつけ”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014361181_2402161736_0216175146_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240216/k10014360981000.html",
           "author": null,
           "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、衆議院政治倫理審査会の幹事懇談会が開かれ、野党側が還付金などが確認された安倍派と二階派の議員全員を審査会に出席させるよう求めたのに対し、自民党は審査会への出席は本人の意思によるものだとして、持ち帰って検討する考えを示しました。",
@@ -5809,6 +5854,16 @@
           "wordCount": 655,
           "title": "野党側 還付金など確認された議員全員 審査会に出席求める",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014360981_2402161625_0216174327_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240216/k10014361081000.html",
+          "author": null,
+          "description": "能登半島地震の津波の影響で海底に堆積した岩や土砂などについて、金沢大学の研究チームによる潜水調査が16日、能登町で行われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240216/k10014361081000.html",
+          "publishedOn": "2024-02-16T08:33:40.000Z",
+          "wordCount": 775,
+          "title": "能登半島地震の津波で海底に堆積した岩など潜水調査 能登町",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240216/K10014361081_2402161703_0216171918_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240216/k10014361101000.html",
@@ -29345,6 +29400,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033130.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/02/15(木) 12:12:20.81 ID:OVMtDekl0.net \n\n\n\n\n\n\n\n\n\n楽天、全株主に「月30GBの楽天モバイルeSIM」1年分を提供--株主優待を改定 https://t.co/es6spRTOyf— CNET Japan (@cnet_japan) February 14, 2024 \n\n\n\n\n\n\n\n\n\n楽天、全株主に「月30...",
+          "link": "https://itainews.com/archives/2033130.html",
+          "publishedOn": "2024-02-16T09:01:07.000Z",
+          "wordCount": 2423,
+          "title": "【速報】楽天モバイル、楽天に7万3100円を預けると、音声通話+データ30GB/月が1年間無料",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/9/b98502d0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033132.html",
           "author": "yonepo665sfr",
