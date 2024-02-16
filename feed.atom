@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T22:11:55.902Z</updated>
+    <updated>2024-02-16T22:26:29.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブリーダー調査 出生日の記録ないなど法令違反半数確認 環境省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240217/k10014361531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240217/k10014361531000.html"/>
+        <updated>2024-02-16T22:12:35.000Z</updated>
+        <summary type="html"><![CDATA[環境省が都道府県などに依頼して、全国およそ1400の犬や猫を繁殖させて販売するブリーダーを調査したところ、犬などの生まれた日付の記録がないなどの法令違反が半数で確認され、環境省は対策を検討するとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前明石市長・泉房穂、部品の保証期間過ぎたエレベーター「止まったら修理すればいい。今はそのままで」]]></title>
         <id>https://itainews.com/archives/2033150.html</id>
@@ -37480,36 +37490,6 @@ MYDAILY 2024年01月...]]></summary>
         <summary type="html"><![CDATA[「みなさん、生き生きしていますし、やりがいがあったかな」断水が続く七尾市で、銭湯を再開させた店主のことばです。地震から18日目。まだまだ大変な状況の中、本当に久しぶりにお風呂に入ったり、あたたかい炊き出しを食べたりという声も届いています。「被災地の声」をまとめました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【松屋】和風ねぎ納豆カレー【店舗限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=233386</id>
-        <link href="https://foodfighter.jp/matsuya-negi-natto-curry"/>
-        <updated>2024-01-18T10:24:40.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柿沢前法務副大臣保釈 保釈金は600万円 公選法違反の罪で起訴]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325871000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325871000.html"/>
-        <updated>2024-01-18T10:20:47.000Z</updated>
-        <summary type="html"><![CDATA[去年4月に行われた東京の江東区長選挙をめぐり、公職選挙法違反の買収などの罪で起訴された柿沢未途前法務副大臣が18日に保釈されました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HPは“AI PC”を強化、PCは「パーソナルコンパニオン」に。新ノートPC「Spectre x360」発表]]></title>
-        <id>https://gadget.phileweb.com/?p=66309</id>
-        <link href="https://gadget.phileweb.com/post-66309/"/>
-        <updated>2024-01-18T10:15:17.000Z</updated>
-        <summary type="html"><![CDATA[日本HPは、ノートPC「Spectre x360 14」および「Spectre x360 16」、またゲーミングノートPC「OMEN Transcend 14」を1月18日に発売する。価格はSpectre x360 14が279,400円から、Spectre x360 16が339,900円から、O […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
         </author>
     </entry>
 </feed>
