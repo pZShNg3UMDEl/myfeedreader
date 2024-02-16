@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T21:10:53.377Z</updated>
+    <updated>2024-02-16T21:20:51.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍 ガザ地区病院での作戦継続 “戦闘員約70人拘束”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240217/k10014361621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240217/k10014361621000.html"/>
+        <updated>2024-02-16T21:13:40.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍は、イスラム組織ハマスの戦闘員が活動しているなどとして、ガザ地区南部ハンユニスにある病院での作戦を16日も続け、戦闘員およそ70人を拘束したとしています。ガザ地区の保健当局は、この作戦で病院の患者5人が死亡したとしていて、住民の犠牲も増え続けています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「日・ウクライナ経済復興推進会議」共同声明案 明らかに]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240217/k10014361501000.html</id>
@@ -37483,26 +37493,6 @@ https://ne...]]></summary>
         <summary type="html"><![CDATA[クモの糸は、自然界で最も丈夫で強い素材のひとつと言われている。柔軟性もあるのでカーボンファイバーなら折れてしまうような状況でも壊れず、またチタンなどと比べても安価だ。 Spidey Tekと称する企業のCEOを務めるロベルト・ヴェロッツィ氏と、ユタ州立大学のランディ・ルイス教授は、化学的に合成した蜘 […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輪島の避難所に女性職員派遣 ニーズに合わせ男性から変更]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325701000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325701000.html"/>
-        <updated>2024-01-18T09:16:03.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震で被災した石川県輪島市の避難所からの要望を受け、岐阜県池田町は当初予定していた男性ではなく女性の職員2人を派遣することになり辞令の交付式が行われました。女性の被災者などは男性に相談しにくい悩みを抱えているケースがあり、積極的な声かけをしていくとしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京 足立区の住宅床下から遺体か “50代夫婦所在不明”と通報]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240118/k10014325901000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014325901000.html"/>
-        <updated>2024-01-18T09:13:03.000Z</updated>
-        <summary type="html"><![CDATA[16日の夜、東京・足立区に住む50代の夫婦の行方がわからなくなったと親族から通報があり、警視庁が18日午後、自宅を調べたところ、床下から遺体とみられるものが見つかったことが捜査関係者への取材でわかりました。警視庁が詳しい状況を調べています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
