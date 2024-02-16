@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T09:22:51.752Z</updated>
+    <updated>2024-02-16T09:35:36.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国立劇場 入札不調 実演家ら危機感訴え“文化の存続に関わる”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014361111000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014361111000.html"/>
+        <updated>2024-02-16T09:17:04.000Z</updated>
+        <summary type="html"><![CDATA[建て替えのために去年閉場した東京の国立劇場が、入札の不調などで再開時期の見通しが立たなくなっていることについて、伝統芸能の実演家たちが会見を開き、劇場の空白期間が長引けば文化の存続に関わると危機感を訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海外投資家が日本の株式買った額 先週まで6週連続で買い越し]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240216/k10014361191000.html</id>
@@ -37776,16 +37786,6 @@ https://ne...]]></summary>
 赤ちゃんと猫のラブラブっぷりが微笑ましすぎる first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民 派閥 政治資金パーティー取りやめ検討 人事調整も行わず]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240118/k10014324821000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240118/k10014324821000.html"/>
-        <updated>2024-01-17T21:34:47.000Z</updated>
-        <summary type="html"><![CDATA[自民党は派閥のあり方について、政治資金パーティーを取りやめるとともに閣僚の推薦といった人事の調整を行わないことを徹底し、政策を研さんする組織として明確化する方向で検討しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
