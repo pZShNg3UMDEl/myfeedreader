@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T10:13:42.932Z</updated>
+    <updated>2024-02-16T10:30:27.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「危険」判定でも自宅に戻りたい 避難生活長引く中で何が？]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240216/k10014360721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240216/k10014360721000.html"/>
+        <updated>2024-02-16T10:11:14.000Z</updated>
+        <summary type="html"><![CDATA[「避難を続けることで、子どもたちの足を引っ張っているのではないか…」石川県輪島市の高校で避難生活を送る男性は、そう話しました。能登半島地震の被災地では、先の暮らしを見通すのが難しいなか、避難所から被災した自宅に戻ろうとする人が増えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【福島】19歳死亡事故 72歳運転の車一時停止せずロータリー進入か]]></title>
         <id>https://itainews.com/archives/2033134.html</id>
