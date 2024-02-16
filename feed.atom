@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T21:20:51.203Z</updated>
+    <updated>2024-02-16T21:35:54.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 キャンプで3回目のフリー打撃 半分がフェンス越え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240217/k10014361781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240217/k10014361781000.html"/>
+        <updated>2024-02-16T21:32:30.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手がアリゾナ州で行われているキャンプで3回目となるフリーバッティングを行いました。26スイング中、半分にあたる13本がフェンスを越えるなど持ち前のパワーを存分に発揮し、チームメートたちを驚かせていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエル軍 ガザ地区病院での作戦継続 “戦闘員約70人拘束”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240217/k10014361621000.html</id>
@@ -37483,16 +37493,6 @@ https://ne...]]></summary>
         <summary type="html"><![CDATA[「コミックDAYS」で連載中の漫画「笑顔のたえない職場です。」が2025年にテレビアニメ化されることが決定した。24年放送の「アクロトリップ」を手がける新進アニメスタジオであるVoil（ボイル）...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カーボンシャシーを“クモの糸で強化”したスーパーカー「Velozzi Hypercar」]]></title>
-        <id>https://gadget.phileweb.com/?p=66267</id>
-        <link href="https://gadget.phileweb.com/post-66267/"/>
-        <updated>2024-01-18T09:34:42.000Z</updated>
-        <summary type="html"><![CDATA[クモの糸は、自然界で最も丈夫で強い素材のひとつと言われている。柔軟性もあるのでカーボンファイバーなら折れてしまうような状況でも壊れず、またチタンなどと比べても安価だ。 Spidey Tekと称する企業のCEOを務めるロベルト・ヴェロッツィ氏と、ユタ州立大学のランディ・ルイス教授は、化学的に合成した蜘 […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
