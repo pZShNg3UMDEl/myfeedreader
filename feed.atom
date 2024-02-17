@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T21:35:26.303Z</updated>
+    <updated>2024-02-17T21:50:16.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[400年ほど前の日本で作られた「書見台」ポルトガルで見つかる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240218/k10014362331000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240218/k10014362331000.html"/>
+        <updated>2024-02-17T21:33:50.000Z</updated>
+        <summary type="html"><![CDATA[400年ほどの前の日本で作られた南蛮漆器の1つで聖書を読むための「書見台」がこのほどポルトガルで見つかりました。十字架などの装飾を剥ぎ取ったと見られる跡があり、キリスト教の弾圧を恐れた当時の人たちの心情がうかがえる貴重な資料として注目されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山形済生病院 保健所が去年立ち入り検査 医師以外が皮膚縫合で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240218/k10014362501000.html</id>
