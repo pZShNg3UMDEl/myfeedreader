@@ -2714,21 +2714,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120363/",
-          "author": null,
-          "description": "ワーナー・ブラザースとレジェンダリー・ピクチャーズ、東宝が提携し、「GODZILLA ゴジラ」（2014）から展開してきた、ハリウッド版「ゴジラ」シリーズと「キングコング：髑髏島の巨神」（17）...",
-          "link": "https://anime.eiga.com/news/120363/",
-          "publishedOn": "2024-01-18T12:00:00.000Z",
-          "wordCount": 856,
-          "title": "ピンク色に染まる新たな形態のゴジラ　「ゴジラ×コング　新たなる帝国」　世界初公開シーン含む日本版予告＆ポスター公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2737,6 +2722,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98240",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/16(金) 23:06:47.78 ID:KAwU5RqXd きたね NEXT […]",
+          "link": "https://switchsoku.com/direct/98240",
+          "publishedOn": "2024-02-17T00:00:55.000Z",
+          "wordCount": 10162,
+          "title": "100%リーカーPyoro「来週」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/NintedoDirect.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98237",
           "author": "SWITCH速報",
@@ -5006,16 +5001,6 @@
           "wordCount": 10053,
           "title": "アケアカ『SUPER魂斗羅 エイリアンの逆襲』1月18日配信",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/a7f7ef6e842fd73d7549a433658ffa007685331bdfbf33300d7908ec2a9ac652.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97226",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/18(木) 15:08:00.53 ID:Qw/2Jx6Sd メトロイドドレッ […]",
-          "link": "https://switchsoku.com/soft/97226",
-          "publishedOn": "2024-01-18T12:30:05.000Z",
-          "wordCount": 10069,
-          "title": "『プリンス･オブ･ペルシャ』の新作‥神ゲーだった",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/prince.webp"
         }
       ]
     },
@@ -5765,6 +5750,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361851000.html",
+          "author": null,
+          "description": "北朝鮮は、国営通信の論評を通じて、アメリカと韓国に対し、連日、朝鮮半島上空に偵察機を飛行させ、戦争の危機を高めているとして非難しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240217/k10014361851000.html",
+          "publishedOn": "2024-02-17T00:49:46.000Z",
+          "wordCount": 730,
+          "title": "北朝鮮 米韓を非難 “連日 偵察機を飛行させている”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240217/K10014361851_2402170848_0217084836_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361701000.html",
+          "author": null,
+          "description": "17日予定されている給水支援の情報です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240217/k10014361701000.html",
+          "publishedOn": "2024-02-17T00:41:43.000Z",
+          "wordCount": 1045,
+          "title": "【石川 給水 情報】輪島・珠洲などで実施（17日予定）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240217/K10014361701_2402162328_0217013534_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361551000.html",
           "author": null,
@@ -22124,46 +22129,6 @@
           "wordCount": 646,
           "title": "戦時下で生きる人々の証言 ウクライナ人の詩人が都内で朗読会",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014326371_2401182056_0118234252_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014326491000.html",
-          "author": null,
-          "description": "自民党の派閥の政治資金パーティーをめぐる問題で、二階派「志帥会」がおととしまでの3年間に記載していないパーティー収入が1億3600万円あまりあったなどとして政治資金収支報告書を訂正しました。二階派では、この3年間を含むおととしまでの5年間で2億円を超えるパーティー収入を派閥の政治資金収支報告書に記載していなかった疑いがあり、東京地検特捜部が捜査を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014326491000.html",
-          "publishedOn": "2024-01-18T12:53:47.000Z",
-          "wordCount": 599,
-          "title": "自民 二階派 政治資金収支報告書訂正 パーティー収入3年分など",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014326491_2401182152_0118215349_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014325311000.html",
-          "author": null,
-          "description": "日本国内での医薬品の販売許可がない海外の会社から個人向けの輸出と称して千葉県内の客などに薬を販売したとして、医薬品販売会社の代表取締役など2人が逮捕されました。調べに対し、このうち1人は容疑を否認しているということです",
-          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014325311000.html",
-          "publishedOn": "2024-01-18T12:38:21.000Z",
-          "wordCount": 677,
-          "title": "“輸出”と称し無許可で薬販売か 医薬品販売会社の2人を逮捕",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014325311_2401181127_0118113214_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014325791000.html",
-          "author": null,
-          "description": "水戸市にある水戸京成百貨店の当時の社長が従業員の勤務データを改ざんするなどして、新型コロナの影響を受けた企業などに支給される国の「雇用調整助成金」など1億3000万円余りをだまし取ったとして詐欺の疑いで逮捕されました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014325791000.html",
-          "publishedOn": "2024-01-18T12:23:43.000Z",
-          "wordCount": 845,
-          "title": "水戸京成百貨店元社長逮捕 「雇用調整助成金」1億円超詐取疑い",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014325791_2401181706_0118173145_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240118/k10014326411000.html",
-          "author": null,
-          "description": "17日未明、宮崎県都城市の住宅で、この家に住む女子高校生の次女が男に背中を刺されてけがをしました。関係者によりますと、住宅からは高校の制服などの衣類がなくなり、次女は「見たことのない若い男だと思う」と話していて、警察は殺人未遂事件として、逃げた男の行方を捜査しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240118/k10014326411000.html",
-          "publishedOn": "2024-01-18T12:06:12.000Z",
-          "wordCount": 472,
-          "title": "住宅で女子高校生が男に刺されけが 制服などなくなる 宮崎",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240118/K10014326411_2401182112_0118211437_01_02.jpg"
         }
       ]
     },
@@ -22172,6 +22137,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=236337",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝食メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/nakau-breakfast-medama-udon",
+          "publishedOn": "2024-02-16T23:55:36.000Z",
+          "wordCount": 1933,
+          "title": "【なか卯】目玉焼き朝食・温小うどん変更【朝ごはん】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/5a8c96bcb01c2f92047d1b6764ef7209.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236318",
           "author": "foodfighter",
@@ -23856,6 +23831,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68655",
+          "author": "299",
+          "description": "可愛らしい子猫ちゃんの為にベッドを新調してみました。 最初はこれ何ニャ？とおっかなびっくりな様子でベッドを眺めていたのですが、その寝心地の良さに気付いてからはすっかり虜に。 幸せそうにベッドで横たわる姿が愛らしいのでご覧...\n子猫にベッドをあげてみた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68655",
+          "publishedOn": "2024-02-17T00:00:02.000Z",
+          "wordCount": 1407,
+          "title": "子猫にベッドをあげてみた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68655.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68616",
           "author": "299",
@@ -32547,6 +32532,26 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40969",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです♪ 今回はイベント情報ですー★ 厚木市まちなか活性化プロジェクト（あつぎにぎわいアドベンチャー隊）主催で 「よしもとお笑いライブ」が3月16日に開催予定です♪ 「よしもとお笑いライブ」【3月16日14:00～…",
+          "link": "https://atsugi-lab.com/event-yoshimotolive202403/",
+          "publishedOn": "2024-02-17T00:19:13.000Z",
+          "wordCount": 1135,
+          "title": "【イベント】ひょっこりはんやネルソンズ、デニスも！「よしもとお笑いライブ」3月16日にアミューあつぎ内で開催予定。［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/yoshimoto-owarai202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41091",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ 写真付きの情報提供、誠にありがとうございます！！ 今回は地域の方にとても嬉しい、スーパーマーケットのオープン情報が入ってまいりました♡ 厚木市下川入に「ベルク」（または系列店）の店舗建設工事が始まるみたい…",
+          "link": "https://atsugi-lab.com/news-belc-shimokawairi2024/",
+          "publishedOn": "2024-02-17T00:04:36.000Z",
+          "wordCount": 1122,
+          "title": "【令和7年3月完成予定】下川入にスーパーマーケット「ベルク」（または系列店）ができるみたい！シンセー八億パチンコ館跡地です［厚木市下川入］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/belc-shimokawairi202402.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41133",
           "author": "fumie",
