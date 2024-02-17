@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T09:21:52.967Z</updated>
+    <updated>2024-02-17T09:35:23.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東日本大震災で亡くなった高校生について報告会 4割が自宅で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240217/k10014362141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240217/k10014362141000.html"/>
+        <updated>2024-02-17T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[東日本大震災で亡くなった高校生について、教員だった男性が学校などに聞き取りをした結果をまとめ、17日、仙台市で報告会が開かれました。宮城県では4割の生徒が自宅で亡くなっていたことを教訓に、学校以外の場所にいた際に地震や津波から避難する方法を学校や家庭で話し合ってほしいと訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18日以降 再び気温上昇の予想 雪崩や土砂災害に十分注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240217/k10014362171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240217/k10014362171000.html"/>
+        <updated>2024-02-17T09:24:55.000Z</updated>
+        <summary type="html"><![CDATA[暖かい空気が流れ込むため、18日以降、再び全国的に気温がかなり高くなると予想されています。積雪多い地域では雪崩や雪どけによる土砂災害に十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福山雅治さんもパレードに参加 長崎ランタンフェスティバル]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240217/k10014362121000.html</id>
