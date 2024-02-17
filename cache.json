@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120606/",
+          "author": null,
+          "description": "「月刊LaLa」（白泉社刊）で連載中の少女漫画「転生悪女の黒歴史」のテレビアニメ化が決定した。 同作は、累計発行部数170万部を突破する人気作。社会人の女性・佐藤コノハは、中学時代に書いた“黒歴...",
+          "link": "https://anime.eiga.com/news/120606/",
+          "publishedOn": "2024-02-17T01:00:00.000Z",
+          "wordCount": 767,
+          "title": "「転生悪女の黒歴史」TVアニメ化決定　中学時代に書いた自作小説の世界に転生",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120609/",
           "author": null,
           "description": "テレビアニメ「デート・ア・ライブ V」の放送が4月にスタートすることが決定し、オープニング主題歌を富田美憂、エンディング主題歌を声優ユニット「sweet ARMS」が担当することが明らかになった...",
@@ -5197,6 +5212,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9536",
+          "author": "watanabe@logipara.com",
+          "description": "アニメを見ていると、よく 「テスト近いし、○○の家で勉強会しよ（はぁと）」 みたいな展開ありますけど、あれ現実にあります？？みなさん、勉強会ってしたことあります？？私はないですよ？？あれフィクションですよね？？そんな甘酸 […]",
+          "link": "https://logipara.com/diary-text/2024-02-17",
+          "publishedOn": "2024-02-17T01:26:01.000Z",
+          "wordCount": 4402,
+          "title": "勉強会",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9534",
           "author": "watanabe@logipara.com",
           "description": "知り合いが 「ディープフェイクでお金を稼ぐ方法」 というサークルに参加しているの見つけ、私の魂が何かを叫んでいる",
@@ -5475,16 +5500,6 @@
           "wordCount": 4398,
           "title": "教養",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9414",
-          "author": "watanabe@logipara.com",
-          "description": "30代を過ぎたあたりから、徹夜なんてとんでもない、0時を超えたら閉店、という身体になりましたが、40代も後半になってくると、20時にもう眠い(赤子！)",
-          "link": "https://logipara.com/diary-text/2024-01-19",
-          "publishedOn": "2024-01-18T12:57:55.000Z",
-          "wordCount": 4391,
-          "title": "睡魔が強すぎる",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -5750,6 +5765,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361471000.html",
+          "author": null,
+          "description": "大リーグの大谷翔平選手からグローブを贈られたのをきっかけに、野球になじみがない子どもたちにも野球を楽しんでもらおうというイベントが栃木県日光市の小学校で行われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240217/k10014361471000.html",
+          "publishedOn": "2024-02-17T01:41:26.000Z",
+          "wordCount": 460,
+          "title": "“大谷グローブ”きっかけに子どもたちが野球を楽しむイベント",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240217/K10014361471_2402162048_0216232925_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361881000.html",
+          "author": null,
+          "description": "アメリカのIT大手など20社は、AIによる偽の動画や音声がことし世界各地で行われる選挙に悪影響を及ぼさないよう、連携して取り組む協定を結びました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240217/k10014361881000.html",
+          "publishedOn": "2024-02-17T01:34:54.000Z",
+          "wordCount": 703,
+          "title": "米IT大手など20社が協定 選挙でのAI偽動画や音声対策へ連携",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240217/K10014361881_2402171027_0217103415_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361901000.html",
+          "author": null,
+          "description": "17日朝、広島県尾道市の山陽自動車道で、能登半島地震の被災地支援に向かっていた宮崎県警察本部のバスが横転しました。バスの運転手を含めて警察官10人にけがはありませんでしたが、この事故で広島県内の山陽自動車道の上り線の一部が通行止めとなっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240217/k10014361901000.html",
+          "publishedOn": "2024-02-17T01:32:25.000Z",
+          "wordCount": 669,
+          "title": "被災地支援に向かう警察のバスが横転 山陽道で通行止めも 広島",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240217/K10014361901_2402171016_0217103227_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361891000.html",
+          "author": null,
+          "description": "ウクライナ軍の新たな総司令官に就任したシルスキー氏は17日、ロシア軍が攻撃を強めている東部アウディーイウカから部隊を撤退させるとSNSで発表しました。ロシア軍による包囲と兵士の犠牲を避けるためだとしています。シルスキー総司令官は14日、アウディーイウカなどの前線を視察したと明らかにし「極めて困難な状況になっている」と指摘した上で徹底抗戦する構えを示していました。アウディーイウカはウクライナ側が重要な防衛拠点としていて、ロシア軍が東部ドネツク州の全域掌握をねらって、去年10月ごろから多くの部隊を投入し、攻勢を強めていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240217/k10014361891000.html",
+          "publishedOn": "2024-02-17T01:06:32.000Z",
+          "wordCount": 599,
+          "title": "ウクライナ軍 東部アウディーイウカ撤退へ ロシアが攻勢強める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240217/K10014361891_2402171004_0217100513_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240217/k10014361851000.html",
           "author": null,
@@ -27370,16 +27425,6 @@
           "wordCount": 1628,
           "title": "雪が降りしきるなかじっとうずくまる妊娠中の猫さん",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66766.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66762",
-          "author": "299",
-          "description": "白猫さんにぴったりと体を寄せて甘えているキジトラの子猫。この子猫は白猫さんの子供ではありません。つい最近、保護されてこのお家にやってきたのです。 ちょうど先住猫の白猫さんが、この子猫のお世話係を買って出てくれたようで、幸...\n先住猫に遊んでもらいたくてちょっかいをだす子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66762",
-          "publishedOn": "2024-01-18T13:00:08.000Z",
-          "wordCount": 1624,
-          "title": "先住猫に遊んでもらいたくてちょっかいをだす子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66762.jpeg"
         }
       ]
     },
@@ -32514,16 +32559,6 @@
           "wordCount": 2541,
           "title": "挨拶をするように胸をもまれる…全裸で楽屋に…松本だけじゃない芸人の性加害“免罪符”失効で大炎上の可能性",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/a/5a7167c8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032304.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：：2024/01/17(水) 19:04:28.71 ID:MtwRckCi0●.net \n\n\n\n\n\n\n\n\n\nＳＮＳで“資産分配”偽り特殊詐欺に使う口座集めたか２人逮捕｜NHK 関西のニュース - https://t.co/5SqbW9VsL0 https://t.co/sxVaW3x79u— norinaka (@norinaka) January 17, 2024 \n\n\n\n\n\n\n\nＳＮＳで“資...",
-          "link": "https://itainews.com/archives/2032304.html",
-          "publishedOn": "2024-01-18T13:01:36.000Z",
-          "wordCount": 2415,
-          "title": "「お金くばるよ！キャッシュカードと暗証番号送って！」→フォロワー17万人",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/9/890ab33a-s.png"
         }
       ]
     },
