@@ -5846,6 +5846,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362461000.html",
+          "author": null,
+          "description": "石川県内で18日に予定されている給水支援の情報です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240218/k10014362461000.html",
+          "publishedOn": "2024-02-17T20:43:32.000Z",
+          "wordCount": 891,
+          "title": "【石川 給水支援情報】輪島・珠洲などで実施（18日予定）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240218/K10014362461_2402180005_0218043221_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362371000.html",
           "author": null,
           "description": "岸田総理大臣の偽画像などがSNSで相次いで広がっています。写真が合成されたものや、実際の映像を切り貼りして異なる文脈で使ったものもあり、専門家は生成AIなどで加工が簡単になっているため、政治に関するフェイクも増えているとして注意を呼びかけています。",
@@ -22184,16 +22194,6 @@
           "wordCount": 504,
           "title": "食べログ “評価訴訟” 2審は店側の訴え退ける判決 東京高裁",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014327471_2401191721_0119180448_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240119/k10014327381000.html",
-          "author": null,
-          "description": "日本商工会議所の小林会頭は19日の記者会見で、ことしの春闘での中小企業の賃上げに向けて、人件費の増加分などを含めた価格転嫁を進めるには、大企業の経営トップが中小企業との価格交渉を率先して行う姿勢が重要だという考えを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240119/k10014327381000.html",
-          "publishedOn": "2024-01-19T08:48:09.000Z",
-          "wordCount": 471,
-          "title": "日商 小林会頭“賃上げへ 大企業トップが率先して価格交渉を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014327381_2401191644_0119174812_01_02.jpg"
         }
       ]
     },

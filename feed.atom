@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T20:35:34.562Z</updated>
+    <updated>2024-02-17T20:50:17.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【石川 給水支援情報】輪島・珠洲などで実施（18日予定）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240218/k10014362461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240218/k10014362461000.html"/>
+        <updated>2024-02-17T20:43:32.000Z</updated>
+        <summary type="html"><![CDATA[石川県内で18日に予定されている給水支援の情報です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸田首相の偽画像などがSNSで相次ぎ拡散 注意を呼びかけ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240218/k10014362371000.html</id>
@@ -37487,16 +37497,6 @@ ACジャパンの「聞こえてきたのは男性の声ですか？女性の声
         <summary type="html"><![CDATA[漫画「魔王軍最強の魔術師は人間だった」（双葉社刊）のテレビアニメ化が決定した。福山潤、立花日菜、伊藤静、石見舞菜香、和氣あず未が出演し、2024年内に放送を開始する。ティザービジュアルやティザー...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日商 小林会頭“賃上げへ 大企業トップが率先して価格交渉を”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240119/k10014327381000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014327381000.html"/>
-        <updated>2024-01-19T08:48:09.000Z</updated>
-        <summary type="html"><![CDATA[日本商工会議所の小林会頭は19日の記者会見で、ことしの春闘での中小企業の賃上げに向けて、人件費の増加分などを含めた価格転嫁を進めるには、大企業の経営トップが中小企業との価格交渉を率先して行う姿勢が重要だという考えを示しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
