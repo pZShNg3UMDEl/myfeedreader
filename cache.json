@@ -5831,6 +5831,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362491000.html",
+          "author": null,
+          "description": "マッチングアプリで知り合った女性に性的暴行をしたとして逮捕、起訴された中国四国管区警察学校の警視正が17日夜、広島県警の留置施設で意識のない状態で見つかり、搬送先の病院で死亡が確認されました。警察は自殺を図ったとみています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240218/k10014362491000.html",
+          "publishedOn": "2024-02-17T21:12:18.000Z",
+          "wordCount": 728,
+          "title": "女性に性的暴行したとして逮捕・起訴 警察学校の警視正が死亡",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240218/K10014362491_2402180608_0218061220_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362341000.html",
           "author": null,
           "description": "暖かい空気が流れ込むため18日は全国的に気温がかなり高くなり、春の暖かさが予想されています。一方、積雪の多い地域では雪崩や雪どけによる土砂災害などに十分注意が必要です。",
@@ -22159,16 +22169,6 @@
           "wordCount": 566,
           "title": "円相場一時148円台後半に値下がり 米で早期利下げの見方後退で",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014327651_2401191812_0119182350_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240119/k10014326671000.html",
-          "author": null,
-          "description": "19日の東京株式市場、日経平均株価は一時、600円以上値上がりし終値として33年11か月ぶりの高値を更新しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240119/k10014326671000.html",
-          "publishedOn": "2024-01-19T09:11:49.000Z",
-          "wordCount": 641,
-          "title": "日経平均株価 一時600円以上値上がり 33年11か月ぶり高値更新",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014326671_2401191526_0119180410_01_02.jpg"
         }
       ]
     },
