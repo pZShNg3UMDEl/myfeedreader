@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T11:20:32.024Z</updated>
+    <updated>2024-02-17T11:35:38.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[食べられなかったおせち 見つからない重箱の3段目は…]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240217/k10014362031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240217/k10014362031000.html"/>
+        <updated>2024-02-17T11:24:29.000Z</updated>
+        <summary type="html"><![CDATA[「おせち作ったの、夕方帰ってくるまで食べんとってや」あの日、女性は父にそう声をかけて出勤しましたが、一緒に食べることはできませんでした。倒壊した自宅からは、おせちが入っていた重箱が見つかりました。しかし、3段のうち1段だけは見つかりません。見つからない3段目は、きっと…。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニメイト、「ネトゲ戦記」（著：暇空茜）の販売＆予約停止]]></title>
         <id>https://itainews.com/archives/2033165.html</id>
