@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T20:50:17.308Z</updated>
+    <updated>2024-02-17T21:10:53.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全国的に気温かなり上昇 春の暖かさに 雪崩など十分注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240218/k10014362341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240218/k10014362341000.html"/>
+        <updated>2024-02-17T21:04:06.000Z</updated>
+        <summary type="html"><![CDATA[暖かい空気が流れ込むため18日は全国的に気温がかなり高くなり、春の暖かさが予想されています。一方、積雪の多い地域では雪崩や雪どけによる土砂災害などに十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【石川 給水支援情報】輪島・珠洲などで実施（18日予定）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240218/k10014362461000.html</id>
@@ -37449,54 +37459,6 @@ ACジャパンの「聞こえてきたのは男性の声ですか？女性の声
         <summary type="html"><![CDATA[19日の東京株式市場、日経平均株価は一時、600円以上値上がりし終値として33年11か月ぶりの高値を更新しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海外の薬を日本でも 小児がん患者らに未承認治療薬の臨床研究]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240119/k10014327441000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014327441000.html"/>
-        <updated>2024-01-19T09:10:42.000Z</updated>
-        <summary type="html"><![CDATA[国立がん研究センターは、子どもや若い世代のがん患者に対し、国内で未承認の治療薬を投与する臨床研究を1月から始めました。海外で使われている薬が、国内で使えるようになるまでに時間がかかる「ドラッグ・ラグ」の解消につながると期待されています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[食べログ “評価訴訟” 2審は店側の訴え退ける判決 東京高裁]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240119/k10014327471000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014327471000.html"/>
-        <updated>2024-01-19T09:04:44.000Z</updated>
-        <summary type="html"><![CDATA[大手グルメサイト「食べログ」が飲食店の評価の点数を算出するシステムを一方的に変更したことで、売り上げが大幅に減ったとして、都内の焼き肉チェーンの運営会社が、「食べログ」側に賠償を求めた裁判で、2審の東京高等裁判所は、1審とは逆に、店側の訴えを退ける判決を言い渡しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「お賽銭3000円も入れたから今年は良いことあるわい」と笑った妻、30分後に地震で死亡、初詣は無意味]]></title>
-        <id>https://itainews.com/archives/2032332.html</id>
-        <link href="https://itainews.com/archives/2032332.html"/>
-        <updated>2024-01-19T09:04:38.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：名無しさん＠涙目です。(茸) [RU]：2024/01/19(金) 08:53:26.65 ID:zSBG7vcp0.net
-
-
-
-
-
-
-
-「今年は良いことあるわい」と笑った妻　初詣30分後、柱の下敷きにhttps://t.co/3RsWqX8m5D「初詣の後『お賽銭で3000円も入れたから、今年は良いことあるわい』なんて大笑...]]></summary>
-        <author>
-            <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「魔王軍最強の魔術師は人間だった」24年にTVアニメ化　福山潤、立花日菜、伊藤静、石見舞菜香、和氣あず未が出演]]></title>
-        <id>https://anime.eiga.com/news/120426/</id>
-        <link href="https://anime.eiga.com/news/120426/"/>
-        <updated>2024-01-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[漫画「魔王軍最強の魔術師は人間だった」（双葉社刊）のテレビアニメ化が決定した。福山潤、立花日菜、伊藤静、石見舞菜香、和氣あず未が出演し、2024年内に放送を開始する。ティザービジュアルやティザー...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
