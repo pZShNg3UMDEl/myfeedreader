@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T08:26:54.277Z</updated>
+    <updated>2024-02-17T08:37:09.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カプコン「逆転裁判123 成歩堂セレクション」累計300万本突破！]]></title>
+        <id>https://switchsoku.com/?p=98253</id>
+        <link href="https://switchsoku.com/gyakutensaiban/98253"/>
+        <updated>2024-02-17T08:30:28.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/02/17(土) 10:13:42.56 ID:SwLxy3tf0 https:// […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マニラ市街戦の遺族らが講演 “記憶を風化させてはならない”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240217/k10014362111000.html</id>
@@ -37660,16 +37670,6 @@ ACジャパンの「聞こえてきたのは男性の声ですか？女性の声
         <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326361000.html"/>
         <updated>2024-01-18T20:43:59.000Z</updated>
         <summary type="html"><![CDATA[最大震度7を観測した能登半島地震の被災地では19日はいったん天気が回復するものの、日中はあまり気温が上がらない見込みです。引き続き低体温症に注意して、家族や周りに体調を崩している人がいないか声をかけあうなど、対策を心がけてください。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOC ロシア選手など条件付きで五輪出場を認めるも詳細明かさず]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240119/k10014326441000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326441000.html"/>
-        <updated>2024-01-18T20:32:28.000Z</updated>
-        <summary type="html"><![CDATA[この夏に開催されるパリオリンピックに、ウクライナへの軍事侵攻を続けるロシアと、その同盟国ベラルーシの選手の出場を条件付きで認めると、IOC＝国際オリンピック委員会が発表したあと、初めての理事会が韓国で開かれました。その後の記者会見でIOCは、今後、どのような手続きを取るかなど具体的なことは明らかにしませんでした。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
