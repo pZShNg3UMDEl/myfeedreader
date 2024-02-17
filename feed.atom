@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T21:21:06.492Z</updated>
+    <updated>2024-02-17T21:35:26.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山形済生病院 保健所が去年立ち入り検査 医師以外が皮膚縫合で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240218/k10014362501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240218/k10014362501000.html"/>
+        <updated>2024-02-17T21:28:58.000Z</updated>
+        <summary type="html"><![CDATA[山形市にある山形済生病院でおととしまでの1年余りにわたり、医師以外の医療従事者が手術中に患者の皮膚の一部を縫合していたことについて、病院が去年、山形市保健所の立ち入り検査を受けていたことが関係者への取材でわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女性に性的暴行したとして逮捕・起訴 警察学校の警視正が死亡]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240218/k10014362491000.html</id>
@@ -37437,26 +37447,6 @@ ACジャパンの「聞こえてきたのは男性の声ですか？女性の声
         <link href="http://www3.nhk.or.jp/news/html/20240119/k10014326841000.html"/>
         <updated>2024-01-19T09:53:06.000Z</updated>
         <summary type="html"><![CDATA[令和6年能登半島地震の発生から3週間近くとなりました。石川県内では被害の把握やライフラインの復旧は進んでいるのか。被災地の現状を県の発表などをもとに時系列に読み解きます。（最新の数字は、いずれも19日午後2時時点のものです）]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マクドナルド】マカロン いちごミルクバター【マックカフェ・新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=233470</id>
-        <link href="https://foodfighter.jp/mccafe-macaron-strawberry-milk"/>
-        <updated>2024-01-19T09:24:36.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[円相場一時148円台後半に値下がり 米で早期利下げの見方後退で]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240119/k10014327651000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240119/k10014327651000.html"/>
-        <updated>2024-01-19T09:23:47.000Z</updated>
-        <summary type="html"><![CDATA[19日の東京外国為替市場は、アメリカでことしの早い時期に利下げが行われるとの見方が後退したことで、円相場は一時、1ドル＝148円台後半まで値下がりしました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
