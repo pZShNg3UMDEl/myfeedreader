@@ -5776,6 +5776,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362561000.html",
+          "author": null,
+          "description": "17日、長野県山ノ内町のスキー場で、6歳の女の子がスキーをしている最中に建物に衝突し、頭の骨を折るなどして意識不明の重体になっており、警察が詳しい状況を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240218/k10014362561000.html",
+          "publishedOn": "2024-02-18T01:44:31.000Z",
+          "wordCount": 749,
+          "title": "スキー中の6歳女児が重体 後ろ向きに建物衝突 長野",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240218/K10014362561_2402181022_0218104433_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362541000.html",
           "author": null,
           "description": "タイの司法当局は、去年8月に15年ぶりに帰国し汚職の罪などで禁錮刑となったあと入院していたタクシン元首相を18日に仮釈放しました。タイの政界に強い影響力を持つタクシン氏の今後の動向が注目されます。",
@@ -5784,6 +5794,16 @@
           "wordCount": 697,
           "title": "タイ タクシン元首相が仮釈放 高齢や病気など考慮 反発の声も",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240218/K10014362541_2402180855_0218085915_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362511000.html",
+          "author": null,
+          "description": "ロシアでプーチン政権を批判する急先ぽうとして知られ、刑務所に収監されていたナワリヌイ氏が16日に死亡したことを受けて各地で追悼する動きが続き、ロシアの人権団体は17日までの2日間に追悼に来ていた人など400人以上が拘束されたとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240218/k10014362511000.html",
+          "publishedOn": "2024-02-17T22:46:50.000Z",
+          "wordCount": 755,
+          "title": "ナワリヌイ氏死亡 広報担当者“殺害された” 各地で追悼の動き",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240218/K10014362511_2402180718_0218072056_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362331000.html",
@@ -21984,36 +22004,6 @@
           "wordCount": 623,
           "title": "東海道新幹線 運転再開",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014328131_2401192306_0119230908_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240119/k10014328111000.html",
-          "author": null,
-          "description": "カタールで行われているサッカーのアジアカップで日本は1次リーグの第2戦でイラクに1対2で敗れました。日本は、去年6月から続いていた国際Aマッチの連勝記録が10で止まりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240119/k10014328111000.html",
-          "publishedOn": "2024-01-19T13:53:03.000Z",
-          "wordCount": 599,
-          "title": "サッカーアジア杯 1次リーグ第2戦 日本はイラクに敗れる",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014328111_2401192245_0119225305_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240119/k10014328091000.html",
-          "author": null,
-          "description": "能登半島地震により、石川県内では断水の影響が続いています。給水の最新状況について、随時更新でまとめています。※目次から各自治体の状況に飛ぶことができます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240119/k10014328091000.html",
-          "publishedOn": "2024-01-19T13:30:49.000Z",
-          "wordCount": 645,
-          "title": "【ライフライン 20日】石川県内の給水 いつ どこで",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014328091_2401192229_0119223051_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240119/k10014327851000.html",
-          "author": null,
-          "description": "大相撲初場所は19日から中盤戦の6日目。大関 霧島は平幕の豪ノ山を退けて1敗を守りました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240119/k10014327851000.html",
-          "publishedOn": "2024-01-19T13:05:25.000Z",
-          "wordCount": 625,
-          "title": "大相撲初場所6日目 大関 霧島が平幕 豪ノ山を退け1敗守る",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240119/K10014327851_2401191952_0119220527_01_02.jpg"
         }
       ]
     },
@@ -32339,16 +32329,6 @@
           "wordCount": 2451,
           "title": "私人逮捕系「お巡りさん盗撮犯捕まえましたっ！」警察「お前に逮捕状出てるでw」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/77885a3e-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032336.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2024/01/19(金) 10:06:27.39 ID:XwX5zdhq9.net\n\n\n\n\n\n\n\n印刷した写真使い3秒で突破…マイナ保険証の顔認証システムに穴　「なりすまし」の恐れhttps://t.co/ObjAiF2LJk他人のマイナ保険証を不正利用する「なりすまし受診」への懸念が高まっている。...",
-          "link": "https://itainews.com/archives/2032336.html",
-          "publishedOn": "2024-01-19T13:04:57.000Z",
-          "wordCount": 2473,
-          "title": "印刷した写真使って3秒で突破…マイナ保険証の顔認証システムに穴　「なりすまし」の恐れ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/8/48ced073-s.png"
         }
       ]
     },
