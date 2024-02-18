@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120604/",
+          "author": null,
+          "description": "テレビアニメ「女神のカフェテラス（第2期）」の放送が7月からスタートすることが決まり、ティザーPVとティザービジュアルが公開された。 PVでは、喫茶店「Familia」で働くウェイトレス姿の5人...",
+          "link": "https://anime.eiga.com/news/120604/",
+          "publishedOn": "2024-02-18T10:00:00.000Z",
+          "wordCount": 830,
+          "title": "「女神のカフェテラス」第2期、7月放送開始　5人の“女神”が出迎えるティザーPV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120593/",
           "author": null,
           "description": "3月15日から新潟市で開催される、第2回新潟国際アニメーション映画祭のイベント上映ラインナップが決定、湯浅政明監督の短編特集と湯浅監督の映画祭来場が発表され、さらに「犬王」の応援上映も開催される...",
@@ -2767,6 +2782,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98298",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/18(日) 10:58:06.26 ID:ot46FPbb0 大手ゲームメーカ […]",
+          "link": "https://switchsoku.com/gossip/98298",
+          "publishedOn": "2024-02-18T10:00:55.000Z",
+          "wordCount": 10123,
+          "title": "Yahoo「大手ゲームメーカー7社で分かれた明暗｡『桃鉄』コナミは過去最高」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/momotetu-world.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98294",
           "author": "SWITCH速報",
@@ -5815,6 +5840,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240218/k10014363001000.html",
+          "author": null,
+          "description": "警察と消防によりますと、18日午後6時過ぎ、福岡県北九州市若松区で通行人から「産業廃棄物の施設から黒煙が発生している」と119番通報がありました。現場付近は工場が建ち並ぶ地域で、警察と消防によりますとけが人の情報はいまのところないということです。NHKが北九州市八幡東区に設置したカメラの映像では、炎と黒煙が上がっているのが確認できます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240218/k10014363001000.html",
+          "publishedOn": "2024-02-18T09:55:56.000Z",
+          "wordCount": 231,
+          "title": "【速報】北九州市若松区で火災 「産業廃棄物の施設から黒煙」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240218/K10014363001_2402181905_0218190623_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240218/k10014362841000.html",
           "author": null,
@@ -22054,26 +22089,6 @@
           "wordCount": 670,
           "title": "ロシア中部で大規模なデモ ウクライナへの軍事侵攻以降まれ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328171_2401200833_0120083422_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328231000.html",
-          "author": null,
-          "description": "19日のニューヨーク株式市場はAI関連の需要を背景とした企業業績の先行きへの期待から買い注文が増え、ダウ平均株価は400ドル近く値上がりし、史上最高値を更新しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328231000.html",
-          "publishedOn": "2024-01-19T22:05:35.000Z",
-          "wordCount": 591,
-          "title": "NYダウ平均株価 史上最高値を更新 前日比400ドル近く値上がり",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328231_2401200703_0120070537_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328221000.html",
-          "author": null,
-          "description": "本州の南を進む低気圧の影響で関東甲信では、20日午後から雪や雨が降り始め、20日夜から21日にかけて山沿いを中心に大雪となるところがある見込みです。気象庁は交通への影響や路面の凍結に十分注意するよう呼びかけています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328221000.html",
-          "publishedOn": "2024-01-19T22:00:46.000Z",
-          "wordCount": 480,
-          "title": "関東甲信 午後から雪や雨 山沿いで大雪 平地でも積雪の見込み",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328221_2401200659_0120070048_01_02.jpg"
         }
       ]
     },
@@ -27295,16 +27310,6 @@
           "wordCount": 1633,
           "title": "猫の尻尾を帽子替わりにする猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66903.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66865",
-          "author": "299",
-          "description": "今回ご紹介するのは旅行に置いて行かれてお怒りモードになっている猫ちゃんです。 いつもの帰宅や帰宅時間が遅い時の反応も紹介してくれているので、比較してお楽しみください。 最初は飼い主さんが普通に帰宅した時の反応です。 玄関...\n旅行に置いていかれ、拗ねる猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66865",
-          "publishedOn": "2024-01-19T22:00:46.000Z",
-          "wordCount": 1641,
-          "title": "旅行に置いていかれ、拗ねる猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66865.jpeg"
         }
       ]
     },
@@ -29000,6 +29005,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033181.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：首都圏の虎 ★：2024/02/17(土) 19:02:33.89 ID:qm7MGr949.net\n\n\n\n\n\n\n\n\n\n【「なにこれギャグ」「いいと思う」岡山県の少子化対策で「同窓会に補助金」に賛否】https://t.co/ecf0aG1xOp #同窓会 #対策 #少子化 #岡山県 #自治体 #女性自身［@jisinjp］— 女性自身【公...",
+          "link": "https://itainews.com/archives/2033181.html",
+          "publishedOn": "2024-02-18T10:01:29.000Z",
+          "wordCount": 2429,
+          "title": "「なにこれギャグ」「いいと思う」岡山県の少子化対策で「同窓会に補助金」に賛否",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/e/aef18742-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033180.html",
           "author": "yonepo665sfr",
