@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-18T22:38:43.928Z</updated>
+    <updated>2024-02-18T22:50:31.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガザ地区南部ハンユニスの病院 8人死亡 イスラエル軍が突入]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240219/k10014363121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240219/k10014363121000.html"/>
+        <updated>2024-02-18T22:44:06.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍が突入し、その後も軍事作戦を続けているガザ地区南部ハンユニスの病院では作戦の影響で8人が死亡したほか、およそ200人の患者が取り残されていると見られ、WHO＝世界保健機関は一刻も早い患者の転院が必要だと訴えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[競泳 世界選手権 瀬戸大也が銅メダル 400メートル個人メドレー]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240219/k10014363181000.html</id>
