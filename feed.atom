@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-18T19:20:15.231Z</updated>
+    <updated>2024-02-18T19:35:37.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用済みロケットなど「宇宙ごみ」撮影する衛星 打ち上げ成功]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240219/k10014363081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240219/k10014363081000.html"/>
+        <updated>2024-02-18T19:31:14.000Z</updated>
+        <summary type="html"><![CDATA[宇宙空間を漂う使われなくなった人工衛星やロケットなどの「宇宙ごみ」の除去に向けて、日本の民間企業が開発した「宇宙ごみ」を撮影する衛星が18日夜、ニュージーランドから打ち上げられました。衛星は予定の軌道に投入され、打ち上げは成功しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政治資金 自民 政倫審開催に応じる方向で回答へ 攻防激化も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240219/k10014363041000.html</id>
@@ -37202,26 +37212,6 @@ ATM補充中に1000万円着服疑い　セコム三重の元社員逮捕https:/
         <link href="http://www3.nhk.or.jp/news/html/20240120/k10014328301000.html"/>
         <updated>2024-01-20T07:54:13.000Z</updated>
         <summary type="html"><![CDATA[20日は、二十四節気のうち1年で最も寒いころとされる「大寒」です。山口県防府市の春日神社では、ふんどしや白装束姿で冷たい水につかって1年の無病息災を願う「大寒みそぎ」が行われました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【被害状況 20日】石川県で232人死亡 14人は災害関連死か]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240120/k10014328181000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240120/k10014328181000.html"/>
-        <updated>2024-01-20T07:29:24.000Z</updated>
-        <summary type="html"><![CDATA[石川県によりますと、県内であわせて232人の死亡が確認されています。このうち「災害関連死」の疑いはあわせて14人となっています。また、重軽傷者は県内全体で1169人にのぼっています。各地の被害について、随時更新でお伝えしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川県 能登半島地震の死者名を新たに公表 遺族同意の10人]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240120/k10014328481000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240120/k10014328481000.html"/>
-        <updated>2024-01-20T07:21:16.000Z</updated>
-        <summary type="html"><![CDATA[石川県は、能登半島地震で亡くなった方のうち、遺族の同意が得られた10人の氏名や年齢などを20日新たに公表しました。内訳は珠洲市が5人、金沢市が3人、輪島市と能登町がそれぞれ1人で、男性が7人、女性が3人です。年代別で見ると10代未満が1人、20代が1人、40代が1人、60代が1人、70代が3人、80代が2人、90代が1人で、死因はいずれも家屋倒壊でした。石川県内では20日午後2時の時点で、232人の死亡が確認されていて、このうち氏名などが公表されたのは今回で合わせて103人となりました。103人の死因の内訳は家屋倒壊が91人、土砂災害が8人、津波が1人、非公表が3人となっています。県はほかの亡くなった方についても、遺族の同意が得られれば、随時、公表するとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
