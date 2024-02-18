@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-18T23:36:28.523Z</updated>
+    <updated>2024-02-18T23:50:17.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[男子ゴルフ 松山英樹 アメリカツアー９勝目 2年ぶりの優勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240219/k10014363211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240219/k10014363211000.html"/>
+        <updated>2024-02-18T23:35:58.000Z</updated>
+        <summary type="html"><![CDATA[男子ゴルフのアメリカツアーの大会で18日、松山英樹選手が2年ぶりのツアー通算9勝目を挙げました。大会はカリフォルニア州で18日、最終ラウンドが行われ、首位と6打差の7位から出た松山選手はスコアを9つ伸ばして通算17アンダーで逆転優勝しました。アメリカツアーの優勝は2年ぶりで通算9勝目です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大リーグ 菊池雄星 2回目のブルペン入り チェンジアップ磨く]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240219/k10014363191000.html</id>
