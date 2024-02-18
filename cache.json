@@ -5851,6 +5851,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240219/k10014363131000.html",
+          "author": null,
+          "description": "19日に石川県内で予定されている給水支援の情報です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240219/k10014363131000.html",
+          "publishedOn": "2024-02-18T15:41:35.000Z",
+          "wordCount": 1046,
+          "title": "【石川 給水情報】輪島・珠洲などで実施（19日予定）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240219/K10014363131_2402182247_0218225551_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240218/k10014363031000.html",
           "author": null,
           "description": "18日午前、茨城県古河市と、隣り合っている栃木県野木町に相次いでイノシシが現れ2人が軽いけがをしました。警察は、地元の猟友会と協力して付近のパトロールを強化し、見つけた場合は近づかないよう呼びかけています。",
@@ -22099,16 +22109,6 @@
           "wordCount": 946,
           "title": "冬のユース五輪 井上暖乃美が銅メダル 日本勢初 20日の結果は",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328391_2401201302_0120135013_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240120/k10014328361000.html",
-          "author": null,
-          "description": "能登半島地震で被災した子どもたちに遊びの場を提供し、心のケアにつなげようという催しが石川県七尾市で開かれました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240120/k10014328361000.html",
-          "publishedOn": "2024-01-20T03:49:58.000Z",
-          "wordCount": 732,
-          "title": "“被災した子どもの心のケアを” 遊び場を提供する催し 石川",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240120/K10014328361_2401201241_0120125000_01_03.jpg"
         }
       ]
     },
