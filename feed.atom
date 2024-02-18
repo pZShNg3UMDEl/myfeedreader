@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-18T03:25:27.052Z</updated>
+    <updated>2024-02-18T03:36:23.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「蘇民祭」1000年以上とされる歴史に幕 担い手不足で 岩手]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240218/k10014362621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240218/k10014362621000.html"/>
+        <updated>2024-02-18T03:34:18.000Z</updated>
+        <summary type="html"><![CDATA[岩手県奥州市の寺で1000年以上続くとされる祭、「蘇民祭」は担い手不足から17日夜が最後の開催となり、惜しまれながら歴史に幕を閉じました]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 下水管復旧見通し立たず 9割超で被害 石川 珠洲]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240218/k10014362681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240218/k10014362681000.html"/>
+        <updated>2024-02-18T03:28:11.000Z</updated>
+        <summary type="html"><![CDATA[広い範囲で断水が続いている石川県珠洲市では、下水管も大きな被害を受け、トイレなどが使えない状況が続いていて、市が被害の状況確認や復旧作業を急いでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本のGDPがドイツに抜かれ世界4位に　さらに来年インドに抜かれ5位に転落する予定　どうして…]]></title>
         <id>https://itainews.com/archives/2033178.html</id>
