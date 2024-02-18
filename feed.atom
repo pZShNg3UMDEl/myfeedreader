@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-18T23:12:04.317Z</updated>
+    <updated>2024-02-18T23:22:50.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スピードスケート 高木美帆 1500メートルで金メダル 2冠達成]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240219/k10014363201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240219/k10014363201000.html"/>
+        <updated>2024-02-18T23:13:15.000Z</updated>
+        <summary type="html"><![CDATA[カナダで開かれたスピードスケートの世界距離別選手権、女子1500メートルで、この種目の世界記録を持つ高木美帆選手が1分52秒29のタイムで、金メダルを獲得しました。高木選手は前日の女子1000メートルとあわせ2冠達成です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカ軍 フーシ派の支配地域で攻撃と発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240219/k10014363141000.html</id>
