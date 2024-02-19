@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120618/",
+          "author": null,
+          "description": "「劇場版ハイキュー!! ゴミ捨て場の決戦」が2月16日に公開を迎え、初日3日間での興行収入が22.3億円、動員は152万人を記録。週末動員ランキングでは1位を獲得し、さらに2024年公開作品でN...",
+          "link": "https://anime.eiga.com/news/120618/",
+          "publishedOn": "2024-02-19T08:30:00.000Z",
+          "wordCount": 793,
+          "title": "「劇場版ハイキュー!!　ゴミ捨て場の決戦」初日3日間で興収22.3億円、動員152万人突破の“特大ヒットスタート”",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120581/",
           "author": null,
           "description": "小玉ユキ氏による人気漫画「坂道のアポロン」の初となる朗読劇化が決定した。3月5～10日に、東京・草月ホールで上演される。 同作は、2007～12年に「月刊フラワーズ」（小学館刊）で連載された青春...",
@@ -5800,6 +5815,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240219/k10014363821000.html",
+          "author": null,
+          "description": "100円ショップの「ダイソー」を展開する大創産業の創業者、矢野博丈氏が2月12日、心不全のため亡くなりました。80歳でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240219/k10014363821000.html",
+          "publishedOn": "2024-02-19T08:24:14.000Z",
+          "wordCount": 717,
+          "title": "矢野博丈氏死去 80歳「ダイソー」展開する大創産業の創業者",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240219/K10014363821_2402191723_0219172416_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240219/k10014363731000.html",
           "author": null,
@@ -22289,16 +22314,6 @@
           "wordCount": 781,
           "title": "能登半島地震の被災地は広い範囲で雨 土砂災害のおそれ 警戒を",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240121/K10014328871_2401210536_0121053834_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240121/k10014328851000.html",
-          "author": null,
-          "description": "北朝鮮外務省は、国連安保理で、弾道ミサイルの発射を受けて緊急会合が開かれたことについて談話を発表しアメリカなどに対する「正当な防衛力の強化が罵倒されている」と反発しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240121/k10014328851000.html",
-          "publishedOn": "2024-01-20T20:27:32.000Z",
-          "wordCount": 782,
-          "title": "“正当だ” 弾道ミサイル発射受けた安保理会合に北朝鮮が反発",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240121/K10014328851_2401210431_0121043137_01_02.jpg"
         }
       ]
     },
