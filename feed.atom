@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T07:24:14.090Z</updated>
+    <updated>2024-02-19T07:35:31.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被災した事業者のワンストップ型支援センター設置 石川 輪島]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240219/k10014363691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240219/k10014363691000.html"/>
+        <updated>2024-02-19T07:27:53.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した事業者が、経営相談や補助金などを申請できるワンストップ型の支援センターが石川県輪島市に設置されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女川原発2号機 “再稼働はことし9月ごろに” 東北電力]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240219/k10014363681000.html</id>
