@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T04:35:12.744Z</updated>
+    <updated>2024-02-19T04:50:17.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[火星そっくりの環境で一年間生活。NASAが志願者募集中]]></title>
+        <id>https://gadget.phileweb.com/?p=69213</id>
+        <link href="https://gadget.phileweb.com/post-69213/"/>
+        <updated>2024-02-19T04:43:52.000Z</updated>
+        <summary type="html"><![CDATA[NASAは、将来の火星有人探査計画のため、向こう1年間の火星環境シミュレーションへの参加者を募集している。 このミッションはCrew Health and Performance Exploration Analog（CHAPEA）と呼ばれる3つのシミュレーション計画のふたつ目で、2025年春に開始 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北九州市 産廃処理施設の火災 約13時間後にほぼ消し止められる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240219/k10014363441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240219/k10014363441000.html"/>
+        <updated>2024-02-19T04:41:47.000Z</updated>
+        <summary type="html"><![CDATA[18日夕方、福岡県北九州市若松区にある産業廃棄物の処理を行う会社で発生した火災は、19日朝、通報からおよそ13時間後にほぼ消し止められました。警察によりますとけが人の情報はないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南海トラフ巨大地震での津波を想定 大阪 梅田のビルで避難訓練]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240219/k10014363321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240219/k10014363321000.html"/>
+        <updated>2024-02-19T04:38:42.000Z</updated>
+        <summary type="html"><![CDATA[南海トラフ巨大地震が発生し、大阪 梅田にも津波が押し寄せる危険性が高まっていることを想定した避難訓練が19日、JR大阪駅につながるビルで行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京 渋谷 ビルに50代男性運転の乗用車が突っ込む]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240219/k10014363411000.html</id>
