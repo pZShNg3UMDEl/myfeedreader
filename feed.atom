@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T20:23:40.772Z</updated>
+    <updated>2024-02-19T20:35:46.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“ナワリヌイ氏遺体14日間引き渡せず”真相究明求める声高まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014364341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014364341000.html"/>
+        <updated>2024-02-19T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[刑務所で死亡したロシアの反体制派の指導者、ナワリヌイ氏について、支援団体はロシア当局が14日間、遺体を引き渡せないと親族に通告したと明らかにしました。一方、市民からは遺族に遺体を返還するよう求める意見が6万件以上寄せられるなど、真相究明を求める声が高まっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナ復興へ 政府 企業の現地活動後押し 安全確保が課題]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240220/k10014364151000.html</id>
@@ -37439,16 +37449,6 @@ Link]]></summary>
         <summary type="html"><![CDATA[韓国で開かれているユースオリンピックのスケートショートトラック男子1000メートルで、16歳の鬼田来人選手が銅メダルを獲得しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】えびの旨み えび味噌ラーメン【北海道グルメフェア・新作コンビニ弁当】]]></title>
-        <id>https://foodfighter.jp/?p=233561</id>
-        <link href="https://foodfighter.jp/711sej-ebi-miso-ramen"/>
-        <updated>2024-01-21T08:24:04.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「えびの旨み えび味噌ラーメン」を世界一詳しく調査しました。   公式YouTubeチャンネル […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
