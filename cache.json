@@ -5337,6 +5337,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9543",
+          "author": "watanabe@logipara.com",
+          "description": "本日紹介するゲームは「偽夢」です。 以前紹介した有名ゲーム「8番出口」と同じ、ウォーキングシミュレーターと呼ばれるジャンルのゲームです。 目が覚めると、あなたは暗い一室に閉じ込められています。 時刻は午前1時。外への扉は […]",
+          "link": "https://logipara.com/game/falsedream",
+          "publishedOn": "2024-02-19T13:23:47.000Z",
+          "wordCount": 4413,
+          "title": "ゲームレビュー：閉じ込められた夢の中から脱出せよ　「偽夢」",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/02/FalseDream-2024_02_15-23_21_07.jpg"
+        },
+        {
           "id": "https://logipara.com/?p=9541",
           "author": "watanabe@logipara.com",
           "description": "原因不明の腹痛に苛まれて、部屋でお腹をかかえてゴロンゴロン転がって、でも腹痛からゆっくりと回復していくその途中の感じ、割と嫌いじゃないぜ……(トイレでうずくまりながら) そして回復して、「よーし水分補給だ！！」と強めの炭 […]",
@@ -5900,6 +5910,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240219/k10014364291000.html",
+          "author": null,
+          "description": "育成就労制度が新たに導入されれば永住許可を得る外国人の増加が見込まれるとして、出入国在留管理庁は、故意に税金の未納や滞納を繰り返すなどした場合、資格を取り消せるように在留資格制度を見直す方針を固めました。今の国会に関連する法案を提出する見通しです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240219/k10014364291000.html",
+          "publishedOn": "2024-02-19T13:12:39.000Z",
+          "wordCount": 705,
+          "title": "故意に税金未納や滞納繰り返した場合 国が永住許可取り消しへ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240219/K10014364291_2402192155_0219215717_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240219/k10014364261000.html",
           "author": null,
