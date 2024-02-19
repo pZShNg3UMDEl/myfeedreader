@@ -23480,6 +23480,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/19/news012.html",
+          "author": null,
+          "description": "半導体製造の歩留まり向上に貢献する、ベベル成膜技術とベベルエッチング技術について解説する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/19/news012.html",
+          "publishedOn": "2024-02-19T02:00:00.000Z",
+          "wordCount": 2613,
+          "title": "先端半導体製造の歩留まり向上に効く「ベベル成膜」とは",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/19/cover_news012.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/19/news056.html",
           "author": null,
           "description": "リテルヒューズは、光絶縁型光発電ドライバー「FDA117」を発表した。最大15.3Vの電圧と60μAの電流でフローティング電源を生成し、標準的なMOSFETやIGBTデバイスを直接駆動できる。",
@@ -27329,6 +27339,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=69194",
+          "author": "多根清史",
+          "description": "ここ数年のフラッグシップiPhoneは、高価なProモデルだけでなく標準モデルもカメラの改良に力が注がれている。昨年秋に発売されたiPhone 15シリーズでも、全モデルのメインカメラが48MPに統一されて注目を集めていた。 次期「iPhone 16」シリーズでも、背面カメラ周りのデザインが変更され […]",
+          "link": "https://gadget.phileweb.com/post-69194/",
+          "publishedOn": "2024-02-19T02:31:51.000Z",
+          "wordCount": 808,
+          "title": "iPhone 16初の“実物パーツ写真”がリーク。「カメラ2つ縦並び」確定か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/スクリーンショット-2024-02-18-110648.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=69178",
           "author": "編集部：平山洸太",
