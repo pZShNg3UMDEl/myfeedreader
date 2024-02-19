@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T22:38:08.216Z</updated>
+    <updated>2024-02-19T22:50:45.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -35,6 +35,16 @@
 ひよこたちと共に first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東証上場企業の株式時価総額 約3年半ぶり中国上海市場を上回る]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014364191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014364191000.html"/>
+        <updated>2024-02-19T21:50:07.000Z</updated>
+        <summary type="html"><![CDATA[東京証券取引所に上場する企業の株式の時価総額がおよそ3年半ぶりに中国の上海証券取引所を上回ったことが分かりました。中国経済の減速などを受け、日本市場へと資金を振り向ける動きが出たものとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
