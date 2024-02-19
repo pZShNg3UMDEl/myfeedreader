@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T22:12:21.463Z</updated>
+    <updated>2024-02-19T22:27:38.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 石川県が「被災者データベース」構築し支援へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014364251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014364251000.html"/>
+        <updated>2024-02-19T22:12:52.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震を受けて、石川県は自治体と共有するための被災者のデータベースを新たに構築することになりました。避難先や配慮が必要な点などを把握することで、個別の事情に応じた見回りなどの支援につなげていきたい考えです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地方自治法改正案まとまる“緊急時に国が自治体へ指示行える”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240220/k10014364161000.html</id>
@@ -37381,26 +37391,6 @@ Link]]></summary>
         <summary type="html"><![CDATA[テレビアニメ「ヴィンランド・サガ SEASON2」全24話が、講談社が運営するYouTubeチャンネル「フル☆アニメTV」で2月1日まで無料配信されている。 同作は「アフタヌーン」で幸村誠氏が連...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川県 馳知事 県内6市町の水道の復旧時期 見通し明らかに]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240121/k10014329281000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240121/k10014329281000.html"/>
-        <updated>2024-01-21T10:17:47.000Z</updated>
-        <summary type="html"><![CDATA[石川県の馳知事は、ほぼ全域で断水が続いている県内6つの市と町の水道の復旧時期について、輪島市や珠洲市などでは早くても2月末から、七尾市の中心部などでは4月以降になるという見通しを明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年1月14日から1月20日】]]></title>
-        <id>https://foodfighter.jp/?p=233582</id>
-        <link href="https://foodfighter.jp/bento-ranking-2024-0121"/>
-        <updated>2024-01-21T10:17:04.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年1月14日から1月20日までに実食調査したチェーン店の最新コンビニ弁当（全5種類）を美味しい・おすすめ順にランキング […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
