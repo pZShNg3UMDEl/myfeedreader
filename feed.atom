@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T06:35:45.154Z</updated>
+    <updated>2024-02-20T06:50:13.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岐阜 大垣駅前のホテルで “屋上に黒煙” の通報]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014364891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014364891000.html"/>
+        <updated>2024-02-20T06:41:36.000Z</updated>
+        <summary type="html"><![CDATA[消防によりますと、20日午後2時半ごろ、岐阜県大垣市の大垣駅前にあるホテルの屋上に黒煙が見えるという通報が複数、寄せられたということです。消防が、消火活動や宿泊客の避難誘導を進めています。警察によりますと、けがをした人がいるという情報は今のところ入っていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクロソフト、「Xbox Series S」強化型を検討。しかし“モデル増えすぎ”の懸念から開発中止か]]></title>
         <id>https://gadget.phileweb.com/?p=69409</id>
