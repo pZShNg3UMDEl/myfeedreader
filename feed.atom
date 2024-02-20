@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T14:11:59.412Z</updated>
+    <updated>2024-02-20T14:27:01.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[法政大アメフト部 大学の検査で3人の部員から大麻の陽性反応]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014365661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014365661000.html"/>
+        <updated>2024-02-20T14:24:21.000Z</updated>
+        <summary type="html"><![CDATA[アメリカンフットボールの強豪、法政大学の部員が「大麻を使用している」という情報が寄せられ、大学が検査を行ったところ、3人の部員から陽性反応が出たことがわかりました。その後、大学が警察に相談し、警察が改めて検査を行ったところ、3人全員が陰性を示したということで大学が詳しい経緯を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch後継機は｢フルHD｣と｢4K｣どちらをターゲットにしたハードになるのか？]]></title>
         <id>https://switchsoku.com/?p=98381</id>
