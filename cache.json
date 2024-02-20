@@ -5901,6 +5901,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014365721000.html",
+          "author": null,
+          "description": "サッカーの元日本代表で2010年のワールドカップなどで活躍した松井大輔選手が自身のSNSで現役引退を発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014365721000.html",
+          "publishedOn": "2024-02-20T15:13:32.000Z",
+          "wordCount": 723,
+          "title": "サッカー 松井大輔が現役引退発表 元日本代表 W杯などで活躍",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014365721_2402210008_0221001010_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240220/k10014365661000.html",
           "author": null,
           "description": "アメリカンフットボールの強豪、法政大学の部員が「大麻を使用している」という情報が寄せられ、大学が検査を行ったところ、3人の部員から陽性反応が出たことがわかりました。その後、大学が警察に相談し、警察が改めて検査を行ったところ、3人全員が陰性を示したということで大学が詳しい経緯を調べています。",
@@ -22649,26 +22659,6 @@
           "wordCount": 527,
           "title": "北海道 網走市で「流氷接岸初日」発表 去年より19日早い観測",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329811_2401221314_0122132822_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329761000.html",
-          "author": null,
-          "description": "石川県珠洲市の避難所になっている中学校が22日、地震の後、初めて授業を再開しました。これで、市内の小中学校はすべて再開したことになります。",
-          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329761000.html",
-          "publishedOn": "2024-01-22T03:19:51.000Z",
-          "wordCount": 755,
-          "title": "珠洲 避難所の中学校が授業再開 市内すべての小中学校が再開に",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329761_2401221209_0122121953_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329681000.html",
-          "author": null,
-          "description": "イスラエルのネタニヤフ首相がイスラム組織ハマスの壊滅まで戦闘を続ける構えを見せる中、国内では強硬な姿勢に対して批判の声も出ています。一方、アメリカの有力紙は、ハマスは今後、何か月も戦えるというアメリカの情報機関の分析を報じています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329681000.html",
-          "publishedOn": "2024-01-22T03:17:16.000Z",
-          "wordCount": 652,
-          "title": "イスラエル首相“ハマス壊滅まで戦闘”強硬姿勢に国内で批判も",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329681_2401221206_0122121215_01_02.jpg"
         }
       ]
     },

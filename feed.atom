@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T15:12:11.841Z</updated>
+    <updated>2024-02-20T15:23:11.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サッカー 松井大輔が現役引退発表 元日本代表 W杯などで活躍]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240221/k10014365721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240221/k10014365721000.html"/>
+        <updated>2024-02-20T15:13:32.000Z</updated>
+        <summary type="html"><![CDATA[サッカーの元日本代表で2010年のワールドカップなどで活躍した松井大輔選手が自身のSNSで現役引退を発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電池切れののぼるくんが、ゆずくんに邪魔されてお昼寝できません]]></title>
         <id>https://2-9-9.com/?p=68852</id>
@@ -37807,26 +37817,6 @@ Photodetectors that are sensitive in the shortwave-infrared (SWIR) range (1–2�
         <summary type="html"><![CDATA[1: 2024/01/22(月) 10:47:50.07 ID:YQb+H4oo0 https:// […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珠洲 避難所の中学校が授業再開 市内すべての小中学校が再開に]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329761000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329761000.html"/>
-        <updated>2024-01-22T03:19:51.000Z</updated>
-        <summary type="html"><![CDATA[石川県珠洲市の避難所になっている中学校が22日、地震の後、初めて授業を再開しました。これで、市内の小中学校はすべて再開したことになります。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イスラエル首相“ハマス壊滅まで戦闘”強硬姿勢に国内で批判も]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240122/k10014329681000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240122/k10014329681000.html"/>
-        <updated>2024-01-22T03:17:16.000Z</updated>
-        <summary type="html"><![CDATA[イスラエルのネタニヤフ首相がイスラム組織ハマスの壊滅まで戦闘を続ける構えを見せる中、国内では強硬な姿勢に対して批判の声も出ています。一方、アメリカの有力紙は、ハマスは今後、何か月も戦えるというアメリカの情報機関の分析を報じています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
