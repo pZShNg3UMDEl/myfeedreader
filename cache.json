@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/120636/",
+          "author": null,
+          "description": "2月16日～18日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、16日公開の新作「劇場版ハイキュー!! ゴミ捨て場の決戦」が首位スタートを切った。バレーボールにかける高校生...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/120636/",
+          "publishedOn": "2024-02-20T10:00:00.000Z",
+          "wordCount": 875,
+          "title": "【週末アニメ映画ランキング】「劇場版ハイキュー!!　ゴミ捨て場の決戦」が今年ナンバーワンのスタート",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120631/",
           "author": null,
           "description": "ファンタジーコメディ小説「嘆きの亡霊は引退したい ～最弱ハンターによる最強パーティ育成術～」（マイクロマガジン社刊）が、「嘆きの亡霊は引退したい」のタイトルで、2024年内にテレビアニメ化される...",
@@ -2813,6 +2828,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98367",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/20(火) 17:00:47.90 ID:VNyDtrsw0 2月27日（火） […]",
+          "link": "https://switchsoku.com/soft/pokemon/98367",
+          "publishedOn": "2024-02-20T10:00:24.000Z",
+          "wordCount": 10073,
+          "title": "2月27日23時から「Pokémon Presents」配信決定！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-presents-2-27.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98358",
           "author": "SWITCH速報",
           "description": "1: 2024/02/20(火) 10:04:02.41 ID:FurelG7H0 今回 &nbsp […]",
@@ -5110,6 +5135,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iK5ZNUddR3I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iK5ZNUddR3I",
+          "publishedOn": "2024-02-20T10:00:35.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】適当に回ることにしました。オートでゆっくりやりましょう！無課金勇者のゾンビ錬金百式！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-533Bzb17Gc",
           "author": null,
           "description": "",
@@ -5840,6 +5875,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240220/k10014365111000.html",
+          "author": null,
+          "description": "主に子どもが感染し、発熱やのどの痛みなどの症状が出る「溶連菌感染症」の一種の患者数が年明け以降高い水準が続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240220/k10014365111000.html",
+          "publishedOn": "2024-02-20T10:07:51.000Z",
+          "wordCount": 564,
+          "title": "子ども感染「溶連菌感染症」の一種の患者数 年明け以降 高水準",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240220/K10014365111_2402201749_0220180705_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240220/k10014364621000.html",
+          "author": null,
+          "description": "「本当に2月!?」東京都内は20日も季節を疑ってしまうような暖かさでした。今シーズンは暖冬傾向とされ、スキー場や農作物、冬の風物詩など影響が広がっています。平年に比べて積雪量が大幅に少ないところも目立っていますが、専門家は雪が少なくても雪崩に警戒するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240220/k10014364621000.html",
+          "publishedOn": "2024-02-20T10:00:49.000Z",
+          "wordCount": 1287,
+          "title": "季節見失う暖かさ スキー場も農家も困惑 雪少なくても雪崩警戒",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240220/K10014364621_2402201755_0220183213_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240220/k10014365221000.html",
+          "author": null,
+          "description": "能登半島地震で被災した高齢者世帯などを対象に、最大300万円を支給する追加の支援策をめぐり、厚生労働省は、現役世代のうち地震で職を失ったり、家計が急変したりして住宅再建のためのローンを組めない世帯なども新たに対象に加える方針を固めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240220/k10014365221000.html",
+          "publishedOn": "2024-02-20T09:49:50.000Z",
+          "wordCount": 607,
+          "title": "地震で被災 高齢者世帯など対象の給付金 現役世代にも 厚労省",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240220/K10014365221_2402201815_0220183658_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240220/k10014365161000.html",
+          "author": null,
+          "description": "能登半島地震の影響で、富山県を訪れる観光客の数が落ち込む中、観光業への支援を目的とした「とやま応援クーポン」の取り扱いが20日から始まりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240220/k10014365161000.html",
+          "publishedOn": "2024-02-20T09:48:33.000Z",
+          "wordCount": 539,
+          "title": "「とやま応援クーポン」 能登半島地震で落ち込む観光業を支援",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240220/K10014365161_2402201740_0220174507_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240220/k10014365231000.html",
           "author": null,
@@ -22519,26 +22594,6 @@
           "wordCount": 964,
           "title": "日経平均株価 取り引き時間中としてバブル期以来 高値水準更新",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329581_2401221002_0122100335_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329441000.html",
-          "author": null,
-          "description": "ロシア北西部の港にあるガス会社の施設で起きた火災について、ウクライナのメディアは、ウクライナの治安機関が行った無人機攻撃だったと伝えました。また、ウクライナ東部ドネツク州では、ロシア側が支配する拠点で、ウクライナ軍の攻撃で市民25人が死亡したとして、ロシア側はウクライナへの非難を強めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329441000.html",
-          "publishedOn": "2024-01-21T22:04:45.000Z",
-          "wordCount": 740,
-          "title": "“ロシアの支配拠点で市民25人死亡”ウクライナへの批判強める",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329441_2401221021_0122102832_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014329551000.html",
-          "author": null,
-          "description": "地震による交通機関や道路への影響です。（22日午前5時時点）",
-          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014329551000.html",
-          "publishedOn": "2024-01-21T21:54:46.000Z",
-          "wordCount": 1150,
-          "title": "【能登半島地震 交通影響 22日】鉄道・航空・道路（5:00）",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014329551_2401220638_0122065448_01_02.jpg"
         }
       ]
     },
@@ -22547,6 +22602,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=236666",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「CACAOCAT（カカオキャット） ひとくちチョコレートアイス」を世界一詳しく調査しました。 &nbs […]",
+          "link": "https://foodfighter.jp/711sej-cacaocat-ice",
+          "publishedOn": "2024-02-20T10:02:50.000Z",
+          "wordCount": 1889,
+          "title": "【セブンイレブン】CACAOCAT（カカオキャット） ひとくちチョコレートアイス【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/390f0ff5ade0f4b6e18d31b3296d104e.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236641",
           "author": "foodfighter",
@@ -27810,16 +27875,6 @@
           "wordCount": 1625,
           "title": "新しい家にやってきた初日から物おじせず堂々としている子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67027.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=66991",
-          "author": "299",
-          "description": "娘ちゃんが横になっていると、すかさずやってくるのが猫のレオくんです。 娘ちゃんの腕枕のうえで幸せそうにくつろぐレオくんは、相当な甘えん坊さんのようです。その甘えっぷりは赤ちゃんみたいで、そこがまた可愛いんですよね。 最初...\n娘ちゃんにべったりくっついて甘々なレオくんが愛おしい first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/66991",
-          "publishedOn": "2024-01-21T22:00:43.000Z",
-          "wordCount": 1631,
-          "title": "娘ちゃんにべったりくっついて甘々なレオくんが愛おしい",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/66991.jpeg"
         }
       ]
     },
@@ -27834,6 +27889,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=69428",
+          "author": "Munenori Taniguchi",
+          "description": "新しい研究によると、スタンフォード大学の研究者らは、特定の性別がなぜ、どのように行動するのかについて、何らかの根拠がある可能性があることを発見したと報告している。 研究者らは長年、人の性別が脳の組織や機能に与える影響について議論してきたが、これまでは性差を具体的な脳の違いに結びつけるのは難しかった。 […]",
+          "link": "https://gadget.phileweb.com/post-69428/",
+          "publishedOn": "2024-02-20T10:06:55.000Z",
+          "wordCount": 760,
+          "title": "脳スキャン画像から「性別を90%の精度で見分ける」AIの研究",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/create-jobs-51_Shutterstock.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=69409",
           "author": "多根清史",
@@ -29605,6 +29670,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033240.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。(東京都) [US]\n2024/02/20(火) 07:51:49.66ID:0e3Ou67I0?2BP(1500)\n\n\n\n\n\n\n\nアニメ「ロシデレ」放送開始が7月に延期、「楽しんでいただける作品を目指すため」https://t.co/tNab0MXBtY#ロシデレ— コミックナタリー (@comic_natalie) Febru...",
+          "link": "https://itainews.com/archives/2033240.html",
+          "publishedOn": "2024-02-20T10:05:20.000Z",
+          "wordCount": 2320,
+          "title": "【悲報】オリガルヒ出身でウクライナを否定する愛国的ロシア人女性がヒロインのTVアニメ、放送延期",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/6/36d40d23-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033235.html",
           "author": "yonepo665sfr",
