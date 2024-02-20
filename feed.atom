@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T12:23:12.420Z</updated>
+    <updated>2024-02-20T12:45:19.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[茨城県知事 転倒で頭打ち入院 定例県議会の対応は未定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014365181000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014365181000.html"/>
+        <updated>2024-02-20T12:33:11.000Z</updated>
+        <summary type="html"><![CDATA[茨城県の大井川知事が転倒して頭を打ち、今月17日から入院していて、県は当面、テレワークで公務にあたるものの、今月29日に開会する定例県議会への対応は未定だとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被災酒造会社 別の会社にコメを移して酒造り継続 石川 能登町]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014365321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014365321000.html"/>
+        <updated>2024-02-20T12:19:46.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した石川県能登町の酒造会社が、県南部の小松市の蔵にコメを移して日本酒造りを続けることになり、本格的な作業が始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿蘇山など “火山活動の高まりが見られる” 火山噴火予知連]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240220/k10014365531000.html</id>
