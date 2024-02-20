@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T09:35:44.812Z</updated>
+    <updated>2024-02-20T09:50:23.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHKに経営委員会の録音データの開示命じる判決 東京地裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014365231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014365231000.html"/>
+        <updated>2024-02-20T09:39:56.000Z</updated>
+        <summary type="html"><![CDATA[かんぽ生命の保険の不適切な販売問題を取り上げた番組に関連して、NHKの経営委員会が当時の会長を厳重注意した際の議事録などの開示をめぐる裁判で、東京地方裁判所は、NHKに録音データの開示を命じるとともに、NHKと経営委員会の委員長に賠償を命じる判決を言い渡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「なくしたくない」地域の憩いの場 “銭湯” 地震で存続の危機]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240220/k10014364811000.html</id>
