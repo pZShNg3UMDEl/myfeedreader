@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T10:38:46.762Z</updated>
+    <updated>2024-02-20T10:50:15.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[横須賀基地のPFAS 米側の情報提供不十分で市長が防衛相に要望]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014365251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014365251000.html"/>
+        <updated>2024-02-20T10:30:58.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県のアメリカ海軍横須賀基地で、有毒性が指摘されている有機フッ素化合物＝PFASの一種が、高濃度で検出された問題で、横須賀市長が、アメリカ側からの情報提供が不十分だとして、防衛大臣に改善を求める要望をしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4歳の次女中毒死 亡くなったあとは化学物質を購入した形跡なし]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240220/k10014365101000.html</id>
