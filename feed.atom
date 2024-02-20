@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T03:13:26.317Z</updated>
+    <updated>2024-02-20T03:26:18.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[都営地下鉄 すべての駅でホームドア設置完了]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014364571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014364571000.html"/>
+        <updated>2024-02-20T03:18:52.000Z</updated>
+        <summary type="html"><![CDATA[都営地下鉄の駅で整備が進められてきたホームドアについて20日、すべての駅で設置が完了しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国人観光客と分かるとボッタくる日本人が多発wwww 「サービスの質下がった」]]></title>
         <id>https://itainews.com/archives/2033230.html</id>
