@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T03:26:18.634Z</updated>
+    <updated>2024-02-20T03:36:41.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株価 一時200円以上値上がり 史上最高値に迫るも売り買い交錯]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240220/k10014364481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240220/k10014364481000.html"/>
+        <updated>2024-02-20T03:29:11.000Z</updated>
+        <summary type="html"><![CDATA[20日の東京株式市場は、中国の金融緩和の発表を受けて、日経平均株価が一時、200円以上値上がりし、取り引き時間中の史上最高値に迫りましたが、その後は利益を確定させようという売り注文が広がり、売り買いが交錯する展開となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[都営地下鉄 すべての駅でホームドア設置完了]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240220/k10014364571000.html</id>
