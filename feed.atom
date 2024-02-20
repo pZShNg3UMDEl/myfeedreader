@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T20:25:31.526Z</updated>
+    <updated>2024-02-20T20:37:27.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[浮体式の洋上風力発電  実用化に向け来年度以降実証実験へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240221/k10014365451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240221/k10014365451000.html"/>
+        <updated>2024-02-20T20:28:24.000Z</updated>
+        <summary type="html"><![CDATA[再生可能エネルギーの導入拡大が課題となる中、風車を海に浮かべる「浮体式」と呼ばれるタイプの洋上風力発電の実用化に向けた実証実験が来年度以降始まることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浜名湖 高校生遺体事件 友人宅でバイクを転倒させトラブルか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240221/k10014365601000.html</id>
