@@ -2774,21 +2774,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120353/",
-          "author": null,
-          "description": "松田龍平が主演を務め人気コミックをドラマ化した「ケンシロウによろしく」が、テレビ東京で2月21日から放送される。 本作は、動画配信サービス「DMM TV」オリジナルドラマとして制作されたもの。「...",
-          "link": "https://anime.eiga.com/news/120353/",
-          "publishedOn": "2024-01-21T12:00:00.000Z",
-          "wordCount": 803,
-          "title": "人気コミックを実写ドラマ化「ケンシロウによろしく」2月21日からテレ東で放送",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2797,6 +2782,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98345",
+          "author": "SWITCH速報",
+          "description": "ソフトメーカータイトルの情報をご紹介する「Nintendo Direct ソフトメーカーラインナップ […]",
+          "link": "https://switchsoku.com/direct/98345",
+          "publishedOn": "2024-02-19T23:50:17.000Z",
+          "wordCount": 10272,
+          "title": "「Nintendo Direct ソフトメーカーラインナップ 2024.2.21」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/GGu0z8DbMAAHLMd.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98339",
           "author": "SWITCH速報",
@@ -5046,16 +5041,6 @@
           "wordCount": 10019,
           "title": "ゲームで｢剣と盾｣｢大剣｣｢双剣｣が用意されてたらどれ選ぶ？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/mhr-sunrise-taiken.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97347",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/21(日) 00:34:00.81 ID:eOAvhIJT0 一理ある &nb […]",
-          "link": "https://switchsoku.com/soft/dragonquest/97347",
-          "publishedOn": "2024-01-21T12:00:10.000Z",
-          "wordCount": 10158,
-          "title": "ドラクエ11の過ぎ去りし時を求めない方が名作という風潮……",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/12/dq11s-002.jpg"
         }
       ]
     },
@@ -5815,6 +5800,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240220/k10014364241000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手がアリゾナ州で行われているキャンプで初めて実戦形式の打撃練習に参加し、外野のフェンスを越える大きな当たりを打つなど、実戦復帰を前に状態の良さを結果で示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240220/k10014364241000.html",
+          "publishedOn": "2024-02-20T00:13:19.000Z",
+          "wordCount": 946,
+          "title": "大谷翔平 実戦復帰へ打撃練習 フェンス越える大きな当たり",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240220/K10014364241_2402200908_0220091208_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240220/k10014364251000.html",
           "author": null,
@@ -22264,26 +22259,6 @@
           "wordCount": 658,
           "title": "石川県 馳知事 安倍派から819万円キックバック 報告書不記載",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240121/K10014329491_2401212208_0121225548_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240121/k10014329471000.html",
-          "author": null,
-          "description": "キックボクシングの神童と呼ばれ、23日のボクシング転向3試合目で初めて世界ランカーと対戦する那須川天心選手が記者会見し、「全員が満足する試合をしたい」と意気込みを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240121/k10014329471000.html",
-          "publishedOn": "2024-01-21T12:39:51.000Z",
-          "wordCount": 712,
-          "title": "那須川天心 ボクシング転向3試合目へ「全員が満足する試合を」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240121/K10014329471_2401212134_0121213706_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240121/k10014329481000.html",
-          "author": null,
-          "description": "石川県の馳知事は、現時点では控えるよう呼びかけている、被災地でのボランティア活動について、早ければ1週間以内にも受け入れられるとの見方を示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240121/k10014329481000.html",
-          "publishedOn": "2024-01-21T12:23:57.000Z",
-          "wordCount": 691,
-          "title": "“被災地でのボランティア 早ければ1週間以内にも”石川県知事",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240121/K10014329481_2401212058_0121212359_01_02.jpg"
         }
       ]
     },
@@ -22292,6 +22267,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=236619",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「盛りすぎ！ハムカツサンド」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]",
+          "link": "https://foodfighter.jp/lawson-ham-cutlet-sandwich",
+          "publishedOn": "2024-02-20T00:24:48.000Z",
+          "wordCount": 1870,
+          "title": "【ローソン】盛りすぎ！ハムカツサンド【新作サンドイッチ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/71406a4b34a1d2060e54c75224ae13c5.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236597",
           "author": "foodfighter",
@@ -23701,16 +23686,6 @@
           "wordCount": 1907,
           "title": "【CoCo壱番屋（ココイチ）】クリームコロッケカレー・スクランブルエッグ【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/78e97d7ddabf195aea8d6f7c0e88eb6b.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=233609",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年1月14日から1月20日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全5種類）を美味しい・おすすめ順 […]",
-          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0121",
-          "publishedOn": "2024-01-21T12:26:14.000Z",
-          "wordCount": 1877,
-          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年1月14日から1月20日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/8d55270b4e3eda9a587906557c50d85e.jpg"
         }
       ]
     },
@@ -23719,6 +23694,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/20/news033.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、グローバルシャッター機能を搭載したイメージセンサー「VD55G1」を発表した。2.7×2.2mmと小型で、800×700ピクセルの解像度を備えている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/20/news033.html",
+          "publishedOn": "2024-02-20T00:00:00.000Z",
+          "wordCount": 2622,
+          "title": "低消費電力のグローバルシャッター機能搭載イメージセンサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/20/cover_news033.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/19/news012.html",
           "author": null,
@@ -24016,6 +24001,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68861",
+          "author": "299",
+          "description": "降りしきる雨のなかを、赤ちゃん猫を口に咥えて必死に運んでいるお母さん猫の姿を発見しました。 かなりの大雨ですが、全身がずぶ濡れになることも全く気にも留めずひたすら赤ちゃん猫を運んでいるお母さん猫です。 赤ちゃん猫もそれな...\n大雨のなか赤ちゃん猫をくわえてより快適な場所にお引越しするお母さん猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68861",
+          "publishedOn": "2024-02-20T00:00:40.000Z",
+          "wordCount": 1399,
+          "title": "大雨のなか赤ちゃん猫をくわえてより快適な場所にお引越しするお母さん猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68861.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68819",
           "author": "299",
@@ -32669,16 +32664,6 @@
           "wordCount": 2638,
           "title": "年間「5000円」の町内会費の支払いを拒否したら「今後ゴミを捨てるな」と言われました",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/7/17c81dcb-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032388.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/01/21(日) 07:48:09.35 ID:SSHXUZgV0●.net\n\n\n\n\n\n\n\nひろゆきさん、東大生が選ぶ『総理大臣になってほしい芸能人』4位に「職業政治家に任せた結果が日本の現状」と皮肉#ひろゆき #総理大臣 #政治家#西村博之 #ザワつく金曜日https:/...",
-          "link": "https://itainews.com/archives/2032388.html",
-          "publishedOn": "2024-01-21T12:07:53.000Z",
-          "wordCount": 2788,
-          "title": "ひろゆきさん、東大生が選ぶ『総理大臣になってほしい芸能人』4位に選ばれてしまうｗｗｗ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/9/1982a644-s.png"
         }
       ]
     },
@@ -32687,6 +32672,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40881",
+          "author": "fumie",
+          "description": "新年度が近くなり、子供の新しい習い事を検討中のふみえ＠あつらぼです！ 近年、プログラミングは人気の習い事の一つとなっておりますが、 本厚木駅近くで科学・プログラミング学習教室を開講されている「KAIT未来塾」さんから、 今年も体験教室のお知…",
+          "link": "https://atsugi-lab.com/trialevent-kait-programming202403/",
+          "publishedOn": "2024-02-20T00:30:31.000Z",
+          "wordCount": 1177,
+          "title": "【3月9日・小学生向け】科学・プログラミング教室「KAIT未来塾」が今年も体験教室を開催☆［神奈川工科大学 ITエクステンションセンター］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/kait-Programming202403.png"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41126",
           "author": "comomo",
