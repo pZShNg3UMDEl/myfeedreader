@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T14:36:23.464Z</updated>
+    <updated>2024-02-21T14:50:30.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[二匹の絆]]></title>
+        <id>https://2-9-9.com/?p=68911</id>
+        <link href="https://2-9-9.com/archives/68911"/>
+        <updated>2024-02-21T14:45:10.000Z</updated>
+        <summary type="html"><![CDATA[投稿主さんに保護された子猫のミュウくん、そんなミュウくんと仲が良いのは同じく投稿主さんに保護されて育ったトワくんだそうです。 今でこそこんなにも仲の良い二匹ですが、昔はそうではなかったようで、ミュウくんをとにかく構いたい...
+二匹の絆 first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大相撲 北青鵬の“暴力行為” 宮城野親方とともに処分を協議へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240221/k10014366891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240221/k10014366891000.html"/>
+        <updated>2024-02-21T14:35:30.000Z</updated>
+        <summary type="html"><![CDATA[大相撲、幕内の北青鵬が弟弟子に暴力行為を行ったなどとして、日本相撲協会が23日に開く臨時理事会で、北青鵬と、師匠で元横綱 白鵬の宮城野親方の処分を協議することが関係者への取材で分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国外相 仏大統領と会談 関係強化一層進めることで一致]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240221/k10014366861000.html</id>
@@ -42,6 +63,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240221/k10014366881000.html"/>
         <updated>2024-02-21T13:51:19.000Z</updated>
         <summary type="html"><![CDATA[JR東日本によりますと、東京 杉並区の西荻窪駅で起きた人身事故のため、JR中央・総武線の各駅停車は三鷹駅と千葉駅の間の上下線で午後10時26分から運転を見合わせています。運転再開は午後11時20分ごろを見込んでいるということです。この影響で、中央線の快速電車も東京駅と高尾駅の間の上下線で運転を見合わせています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サッカーJFL アトレチコ鈴鹿 三浦泰年監督の辞任を発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240221/k10014366801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240221/k10014366801000.html"/>
+        <updated>2024-02-21T13:45:55.000Z</updated>
+        <summary type="html"><![CDATA[サッカーJFLのアトレチコ鈴鹿は、三浦泰年監督が辞任したと発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -37688,16 +37719,6 @@ devices for imagers dedicated to space applications" (EU citizenship required)]]
         <summary type="html"><![CDATA[この冬一番の強い寒気と冬型の気圧配置の影響で25日ごろにかけて日本海側を中心に能登半島地震の被災地でも大雪となる見込みで、すでに西日本の平地で雪が降り始めています。ふだん雪の少ない地域でも大雪となるおそれがあり、交通への影響に十分注意が必要です。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国、高出力レーザー兵器「DragonFire」による初の空中標的への発射試験に成功]]></title>
-        <id>https://gadget.phileweb.com/?p=66535</id>
-        <link href="https://gadget.phileweb.com/post-66535/"/>
-        <updated>2024-01-23T02:36:44.000Z</updated>
-        <summary type="html"><![CDATA[イギリス国防省は、英国防科学技術研究所（Dstl）が約1億ポンド(約188億円)を投じて開発してきたレーザー指向性エネルギー兵器「DragonFire」による、空中標的への高出力発射テストを実施した。 発表によると、DragonFireの射程距離は機密事項とされるものの、その精度は1kmの距離から1 […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
