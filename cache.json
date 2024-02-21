@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/konki_ranking/120637/",
+          "author": null,
+          "description": "2月第4週の2024年冬アニメ録画ランキングは、「葬送のフリーレン」が7週連続で首位となった。 2位は「薬屋のひとりごと」、3位は「ポケットモンスター 新シリーズ」。4位には「キングダム 第5シ...",
+          "link": "https://anime.eiga.com/news/column/konki_ranking/120637/",
+          "publishedOn": "2024-02-21T10:00:00.000Z",
+          "wordCount": 911,
+          "title": "【今期TVアニメランキング】「葬送のフリーレン」不動の首位　24日に「鬼滅の刃 遊郭編」特別総集編の後編放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120623/",
           "author": null,
           "description": "神谷浩史が案内人を務める朗読劇「Staging!! Vol.1『四月十一日を千二百回繰り返したと主張する男』」の開催が決定した。今年6～7月に、東京・Mixalive TOKYO Theater...",
@@ -2752,6 +2767,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98416",
+          "author": "SWITCH速報",
+          "description": "1986年2月21日に『ゼルダの伝説』が発売されて38周年となりました。 【今日は何の日？】 198 […]",
+          "link": "https://switchsoku.com/soft/zelda/98416",
+          "publishedOn": "2024-02-21T10:00:06.000Z",
+          "wordCount": 10035,
+          "title": "【今日は何の日？】ディスクシステム『ゼルダの伝説』発売38周年！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/zelda-syodai.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98413",
           "author": "SWITCH速報",
@@ -5790,6 +5815,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366511000.html",
+          "author": null,
+          "description": "中国の人権活動家で元弁護士の唐吉田氏の娘が、留学先の日本で病気のため20日亡くなりました。唐氏は病に倒れた娘に会うため日本への渡航を求めてきましたが、中国当局は出国を認めず、面会はかないませんでした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014366511000.html",
+          "publishedOn": "2024-02-21T09:52:48.000Z",
+          "wordCount": 646,
+          "title": "中国人権活動家 日本で娘が病死 渡航求めるも中国当局認めず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014366511_2402211814_0221185250_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366541000.html",
+          "author": null,
+          "description": "スペインなどのメディアは、ロシア軍のミル8型ヘリコプターのパイロットとして去年8月にウクライナ側に投降したロシア軍の元兵士について今月13日、スペイン南東部のアリカンテ近くの町にある地下駐車場で、何者かに銃で撃たれて死亡しているのが見つかったと19日、報じました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014366541000.html",
+          "publishedOn": "2024-02-21T09:48:36.000Z",
+          "wordCount": 543,
+          "title": "投降のロシア軍元兵士 “スペインで何者かに銃撃され死亡”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014366541_2402211833_0221184838_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366111000.html",
+          "author": null,
+          "description": "西日本で大型商業施設「ゆめタウン」などを展開する、広島市に本社がある「イズミ」は、サイバー攻撃を受けたため、システムに障害が発生し、一部の商品の仕入れに影響が出ています。影響は長期化する見込みで、会社ではシステムを使わずに個別に発注するなどして、できるだけ影響を抑えることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014366111000.html",
+          "publishedOn": "2024-02-21T09:44:00.000Z",
+          "wordCount": 548,
+          "title": "イズミ サイバー攻撃受け システム障害 仕入れに影響 長期化か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014366111_2402211227_0221125059_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366191000.html",
           "author": null,
@@ -22429,16 +22484,6 @@
           "wordCount": 561,
           "title": "米大統領選 共和党候補者選び ニューハンプシャー州で予備選挙",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330541_2401230746_0123075026_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330821000.html",
-          "author": null,
-          "description": "損害保険大手のSOMPOホールディングスの経営トップを務める櫻田謙悟グループCEOがことし3月末で退任する方向で調整していることが分かりました。兼務している会長職も退く見通しです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330821000.html",
-          "publishedOn": "2024-01-22T22:06:04.000Z",
-          "wordCount": 711,
-          "title": "SOMPOホールディングス 櫻田謙悟CEO ことし3月末退任で調整",
-          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
         }
       ]
     },
@@ -27720,16 +27765,6 @@
           "wordCount": 1624,
           "title": "ボーッとしていた赤ちゃん猫が膝の上にあがってきたら元気いっぱいにじゃれ始めました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67085.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67049",
-          "author": "299",
-          "description": "美しいシルバータビーの子猫の銀時くんが飼い主さんに向かって前足を出してチョイチョイしながらじゃれついてきます。 これだけでも可愛いのに、さらに横になって可愛いぽんぽこのお腹を出した姿で、もっとじゃれついてきました。後ろ足...\n子猫の甘えっぷりに飼い主さんの心もトロトロになりました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67049",
-          "publishedOn": "2024-01-22T22:00:20.000Z",
-          "wordCount": 1624,
-          "title": "子猫の甘えっぷりに飼い主さんの心もトロトロになりました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67049.jpeg"
         }
       ]
     },
@@ -29545,6 +29580,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033264.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：おっさん友の会 ★：2024/02/20(火) 16:21:26.07 ID:dJrncqW99.net\n\n\n\n\n\n\n\n\n\n「男性ウケ」しない趣味 VS「女性ウケ」しない趣味ランキング…理由は“お金が掛かる”“興味ない” https://t.co/wZRvmoVGgW— LASISA編集部 (@LASISA_jp) February 20, 2024 \n\n\n\n\n\n\n\n\nネ...",
+          "link": "https://itainews.com/archives/2033264.html",
+          "publishedOn": "2024-02-21T10:01:35.000Z",
+          "wordCount": 2434,
+          "title": "パチンコ・スロ・麻雀・酒…女性が考える「マイナスの印象がある男性の趣味」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/730a7e4d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033263.html",
           "author": "yonepo665sfr",
