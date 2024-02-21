@@ -2714,21 +2714,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120439/",
-          "author": null,
-          "description": "3月15日から新潟市で開催される第2回新潟国際アニメーション映画祭の長編コンペティション部門のノミネート作品が決定した。日本からは塚原重義監督「クラユカバ」、岡田麿里監督「アリスとテレスのまぼろ...",
-          "link": "https://anime.eiga.com/news/120439/",
-          "publishedOn": "2024-01-22T12:00:00.000Z",
-          "wordCount": 741,
-          "title": "第2回新潟国際アニメーション映画祭、コンペ部門ノミネート発表　日本作品は「クラユカバ」「アリスとテレスのまぼろし工場」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2737,6 +2722,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98391",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/20(火) 21:24:26.75 ID:885YVJMld 2月14日　36 […]",
+          "link": "https://switchsoku.com/soft/98391",
+          "publishedOn": "2024-02-21T00:00:23.000Z",
+          "wordCount": 10092,
+          "title": "『メイド･オブ･ザ･デッド』がSwitchのDLランキングでジワジワ上昇中",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/maid-of-the-dead.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98381",
           "author": "SWITCH速報",
@@ -4996,16 +4991,6 @@
           "wordCount": 9958,
           "title": "Switchの画面を約1.8倍に拡張する11.6型モバイルディスプレイ発売",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/switch-11.6-moniter.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97372",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/22(月) 00:33:16.62 ID:b8K4ICCe0 Q. なぜ今まで […]",
-          "link": "https://switchsoku.com/square-enix/97372",
-          "publishedOn": "2024-01-22T12:10:13.000Z",
-          "wordCount": 10085,
-          "title": "スクエニ、大量のタイトルを開発しまくったことを反省",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/06/square-enix.jpg"
         }
       ]
     },
@@ -5490,16 +5475,6 @@
           "wordCount": 4411,
           "title": "ハッピーバースデーろじぱら(と思っていた)",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9427",
-          "author": "watanabe@logipara.com",
-          "description": "今年に入ってから日本株、ぐいぐい上がってる。すごく好調。好調すぎる。 なんでしょうね、株が上がっているのは良いことなんですが、少々、釈然としない。 　 新NISAにつられて株を始めた人が、軒並み儲かっている。 いいんです […]",
-          "link": "https://logipara.com/investment/2024-01-23",
-          "publishedOn": "2024-01-22T12:10:26.000Z",
-          "wordCount": 4419,
-          "title": "日本株あがってます(もってません)",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -5765,6 +5740,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014365811000.html",
+          "author": null,
+          "description": "アメリカの起業家、イーロン・マスク氏は、自身のベンチャー企業が開発した小型の機器を脳に埋め込んだ患者が、考えるだけでマウスを動かせるようになったと明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014365811000.html",
+          "publishedOn": "2024-02-21T00:22:50.000Z",
+          "wordCount": 643,
+          "title": "脳に機器埋め込んだ患者“考えるだけでマウス操作を”マスク氏",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014365811_2402210855_0221091431_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014365461000.html",
+          "author": null,
+          "description": "ロシアのプーチン大統領は激戦となっていたウクライナ東部のアウディーイウカを掌握し、重要な戦果だと強調した上で「この成功を発展させる必要がある」と述べ、軍事侵攻を推し進める姿勢を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014365461000.html",
+          "publishedOn": "2024-02-21T00:09:13.000Z",
+          "wordCount": 447,
+          "title": "プーチン大統領 “アウディーイウカ掌握 重要な戦果”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014365461_2402210812_0221085849_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014365831000.html",
+          "author": null,
+          "description": "財務省が発表した1月の貿易統計によりますと、輸出から輸入を差し引いた貿易収支は1兆7583億円の赤字となりました。貿易収支が赤字となるのは2か月ぶりです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014365831000.html",
+          "publishedOn": "2024-02-21T00:02:27.000Z",
+          "wordCount": 741,
+          "title": "1月の貿易収支 1兆7583億円の赤字 2か月ぶりの赤字に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014365831_2402210856_0221090229_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240221/k10014365581000.html",
           "author": null,
@@ -22304,26 +22309,6 @@
           "wordCount": 871,
           "title": "【Q＆A】過去には1か月後に離れた場所で大きな地震 注意点は？",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014330681_2401222219_0122222022_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014330451000.html",
-          "author": null,
-          "description": "パレスチナのガザ地区で軍事作戦を進めるイスラエルは南部ハンユニスへの攻撃をさらに拡大していて、政権高官はイスラム組織ハマスの中枢に迫っていると主張しています。イスラエルのネタニヤフ首相が強硬な姿勢を崩さない中、アメリカや関係国は停戦を目指して外交的な動きを活発化させていると報じられています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014330451000.html",
-          "publishedOn": "2024-01-22T12:53:25.000Z",
-          "wordCount": 484,
-          "title": "イスラエル ガザ地区南部へ攻撃拡大 関係国は停戦目指す動きも",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014330451_2401222011_0122215327_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240122/k10014330631000.html",
-          "author": null,
-          "description": "中国による日本産の水産物の輸入停止で大きな影響を受けているホタテについて、ベトナムを中国に代わる新たな加工拠点として検討しようと、北海道などの日本企業が現地を視察しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240122/k10014330631000.html",
-          "publishedOn": "2024-01-22T12:02:29.000Z",
-          "wordCount": 543,
-          "title": "中国が輸入停止のホタテ ベトナムを新加工拠点として検討へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240122/K10014330631_2401222059_0122210231_01_02.jpg"
         }
       ]
     },
@@ -22332,6 +22317,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=236752",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「Ｗガラ醤油あんの天津風豆腐」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
+          "link": "https://foodfighter.jp/711sej-tianjin-tofu",
+          "publishedOn": "2024-02-21T00:28:07.000Z",
+          "wordCount": 1878,
+          "title": "【セブンイレブン】Ｗガラ醤油あんの天津風豆腐【新作コンビニ惣菜】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/6053982d6c8a257b17404288f6e4ac86.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236728",
           "author": "foodfighter",
@@ -23741,16 +23736,6 @@
           "wordCount": 1835,
           "title": "【ローソン】濃厚生 ショコラシュー（シュークリーム）【新作スイーツ】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/e52a5f3b40a9311b3c371b8d96506d01.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=233708",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「白バラコーヒーミルクバー 8本入り」を世界一詳しく調査しました。   公式YouTubeチャ […]",
-          "link": "https://foodfighter.jp/711sej-shirobara-coffee-ice-cream",
-          "publishedOn": "2024-01-22T12:05:28.000Z",
-          "wordCount": 1838,
-          "title": "【セブンイレブン】白バラコーヒーミルクバー 8本入り【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/18044f892093e773b6725fd240f4debc.jpg"
         }
       ]
     },
@@ -23759,6 +23744,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/21/news021.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、可視光の感度が向上した、高速シリコンPINフォトダイオード「VEMD2704」を発表した。350～1100nmのスペクトル範囲により、可視光や近赤外放射線を検出できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/21/news021.html",
+          "publishedOn": "2024-02-21T00:00:00.000Z",
+          "wordCount": 2618,
+          "title": "可視光感度が向上した、高速シリコンPINフォトダイオード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/21/cover_news021.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/20/news033.html",
           "author": null,
@@ -24056,6 +24051,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68919",
+          "author": "299",
+          "description": "今回ご紹介する動画で保護されたのは、まだ自分で排泄もできない小さい赤ちゃん猫のブランカちゃんです。 保護主さんにミルクを貰い、愛情いっぱいでお世話をされているブランカちゃん。そんなブランカちゃんの様子をまずは先住猫の中で...\n押せ押せな赤ちゃん猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68919",
+          "publishedOn": "2024-02-21T00:00:41.000Z",
+          "wordCount": 1398,
+          "title": "押せ押せな赤ちゃん猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68919.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68881",
           "author": "299",
@@ -29194,6 +29199,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UeHSZRqUN-4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UeHSZRqUN-4",
+          "publishedOn": "2024-02-20T23:50:04.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁ライブ】MC有吉初参戦！一夜限りの壁祭り【3月24日まで視聴チケット販売中】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0_VFfqU6JbA",
           "author": null,
           "description": "",
@@ -32719,16 +32734,6 @@
           "wordCount": 2482,
           "title": "中学生の娘の裸に風呂の水滴ついていないかチェック。お前らはスク水から滴った水でコーヒー飲めるよな",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/0/50cbfc3c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032417.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/01/22(月) 11:37:40.99 ID:a7FzdUAE0●.net\n\n\n\n\n\n\n\n\n\n\nマンション一室で女性死亡、男性搬送　住人は女性と面識なし　福岡https://t.co/3WyzfZojkR21日夜、福岡市博多区のマンション一室で、住人から「息子と女性が倒れている。息子はう...",
-          "link": "https://itainews.com/archives/2032417.html",
-          "publishedOn": "2024-01-22T12:01:23.000Z",
-          "wordCount": 2468,
-          "title": "マンションの一室で20代の息子と40代の女が倒れてるのを親が発見　40代の女は誰？状態",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/6/062c1487-s.png"
         }
       ]
     },
