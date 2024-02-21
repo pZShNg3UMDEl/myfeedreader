@@ -2774,21 +2774,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120444/",
-          "author": null,
-          "description": "「PUI PUI モルカー」の新作長編映画が2024年に公開されることが決定した。新作はパペットアニメではなくCGアニメーションとなり、東宝の新レーベル「TOHO NEXT」が配給する。 あわせ...",
-          "link": "https://anime.eiga.com/news/120444/",
-          "publishedOn": "2024-01-23T03:00:00.000Z",
-          "wordCount": 805,
-          "title": "「PUI PUI モルカー」CGアニメで長編映画化、24年公開　まんきゅうが監督、見里朝希が総監修",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2797,6 +2782,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98439",
+          "author": "SWITCH速報",
+          "description": "Nintendo Direct ソフトメーカーラインナップ 2024.2.21にて、『ガンダムブレイ […]",
+          "link": "https://switchsoku.com/soft/bandainamco/98439",
+          "publishedOn": "2024-02-21T14:50:04.000Z",
+          "wordCount": 9422,
+          "title": "『ガンダムブレイカー4』2024年 発売決定！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/gundam-breaker-4.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98425",
           "author": "SWITCH速報",
@@ -5845,6 +5840,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014366841000.html",
+          "author": null,
+          "description": "日本で投資の勧誘をしていたシンガポールの会社の幹部4人が、無登録で投資に関する業務を行っていたとして金融商品取引法違反の疑いで逮捕されました。これまでの捜査で、会社が集めた金は全国のおよそ2万6000人から1350億円に上るとみられ、警察が詳しい資金の流れなどを調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014366841000.html",
+          "publishedOn": "2024-02-21T15:10:30.000Z",
+          "wordCount": 815,
+          "title": "無登録で投資業務行った疑いで会社幹部4人逮捕 1350億円集金か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014366841_2402220004_0222001031_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366891000.html",
           "author": null,
@@ -22474,56 +22479,6 @@
           "wordCount": 542,
           "title": "夫婦遺体遺棄事件 防犯カメラに容疑者 血の付いた衣服を所持か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330911_2401231145_0123122019_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330981000.html",
-          "author": null,
-          "description": "能登半島地震の対応をめぐり、岸田総理大臣は、被災地でボランティアの協力が必要になるとして、受け入れ先の環境整備を指示しました。また能登空港の復旧が進み、今週27日から民間機の運航が再開されるとして、被災地支援に活用するよう求めました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330981000.html",
-          "publishedOn": "2024-01-23T03:10:28.000Z",
-          "wordCount": 611,
-          "title": "岸田首相 “被災地のボランティア受け入れ環境整備を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330981_2401231159_0123120952_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330841000.html",
-          "author": null,
-          "description": "23日の東京株式市場、日経平均株価は取り引き開始直後から買い注文が広がって、3万6900円台まで値上がりし、取り引き時間中としてバブル期の1990年2月以来の高値水準を更新しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330841000.html",
-          "publishedOn": "2024-01-23T03:08:13.000Z",
-          "wordCount": 633,
-          "title": "株価 3万6900円台まで値上がり バブル期以来の高値水準を更新",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330841_2401231156_0123120739_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330961000.html",
-          "author": null,
-          "description": "秋のアメリカ大統領選挙に向けた野党・共和党の候補者選びの第2戦、東部ニューハンプシャー州の予備選挙の投票が日本時間の23日夜に始まります。トランプ前大統領とヘイリー元国連大使が争う構図で、双方は、投票日前日も集会を開き支持を訴えました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330961000.html",
-          "publishedOn": "2024-01-23T03:03:43.000Z",
-          "wordCount": 596,
-          "title": "米大統領選 共和党予備選ニューハンプシャー州で23日 投票開始",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330961_2401231152_0123120328_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330941000.html",
-          "author": null,
-          "description": "日銀の金融政策決定会合は23日が2日目で、まもなく当面の運営方針を公表します。金融緩和策の転換のタイミングに市場の関心が集まる中、政策の方向性をどう示すのかが焦点となります。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330941000.html",
-          "publishedOn": "2024-01-23T03:00:29.000Z",
-          "wordCount": 684,
-          "title": "日銀 金融政策決定会合2日目 当面の運営方針 まもなく公表へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330941_2401231144_0123120031_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014330951000.html",
-          "author": null,
-          "description": "この冬一番の強い寒気と冬型の気圧配置の影響で25日ごろにかけて日本海側を中心に能登半島地震の被災地でも大雪となる見込みで、すでに西日本の平地で雪が降り始めています。ふだん雪の少ない地域でも大雪となるおそれがあり、交通への影響に十分注意が必要です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014330951000.html",
-          "publishedOn": "2024-01-23T02:57:45.000Z",
-          "wordCount": 936,
-          "title": "25日にかけ日本海側中心に被災地でも大雪の見込み 十分注意を",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330951_2401231220_0123122327_01_03.jpg"
         }
       ]
     },
@@ -27800,6 +27755,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=69666",
+          "author": "編集部：松永達矢",
+          "description": "UGREENは、Thunderbolt 4ポートの搭載で8K映像出力に対応する13-in-1 ドッキングステーション「Revodok Max 213」を 2月22日に発売する。価格は56,990円（税込）。発売を記念してAmazonでは、3月6日まで期間限定で、クーポン適用で最大20％オフの45,5 […]",
+          "link": "https://gadget.phileweb.com/post-69666/",
+          "publishedOn": "2024-02-21T15:00:00.000Z",
+          "wordCount": 780,
+          "title": "UGREEN、8K映像出力に対応する13-in-1 ドッキングステーション「Revodok Max 213」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/001-1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=69603",
           "author": "編集部：伴 修二郎",
           "description": "Amazonは、同社初となるスマートホーム用コントロールパネル「Echo Hub」を、2月22日より国内販売を開始する。価格は25,980円（税込）。 8インチのタッチディスプレイを備えた、壁掛け式のAlexa搭載スマートホーム用コントロールパネル。Echoシリーズ内の位置づけとして、主に「多数のス […]",
@@ -29198,16 +29163,6 @@
           "wordCount": 769,
           "title": "国産ゲーム『パルワールド』、3日で売上500万本突破。Steam同時接続数は『サイバーパンク2077』抜く",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/『パルワールド-_-Palworld』ゲームプレビュー-ローンチトレーラー-0-6-screenshot.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=66564",
-          "author": "多根清史",
-          "description": "アップルは先週末、米国で空間コンピュータ「Apple Vision Pro」の予約受付を開始した。基本価格は3499ドル（ストレージ256GB）、日本円で約52万円もの製品である。 その高価さにもかかわらず、週末には16万～18万台ものVision Proが売れたと著名アナリストが主張している。 ア […]",
-          "link": "https://gadget.phileweb.com/post-66564/",
-          "publishedOn": "2024-01-23T03:07:07.000Z",
-          "wordCount": 838,
-          "title": "アップル、「Apple Vision Pro」18万台を販売済み？しかし需要が先細りする可能性",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2319392383.jpg"
         }
       ]
     },
@@ -33009,16 +32964,6 @@
           "wordCount": 2358,
           "title": "【学童保育】トイレにカメラ…8～10歳の児童ら盗撮か　職員逮捕「性的欲求満たすためでなく…トイレ汚れる様子知りたかった」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/9/f9039fd8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032430.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(東京都) [US]：2024/01/22(月) 11:17:50.19 ID:gLn/8jYV0●.net\n\n\n\n\n\n\n\n\n\n「感染者が立ち寄った店」知事のひと言で客は消えた…老舗ラーメン店主の絶望　行政のコロナ対応は本当に妥当だった？　今考えたい感染症対策 | 2024/1/22 - 47NEWS h...",
-          "link": "https://itainews.com/archives/2032430.html",
-          "publishedOn": "2024-01-23T03:01:12.000Z",
-          "wordCount": 2450,
-          "title": "徳島知事「ラーメン屋にコロナが立ち寄りした」お前ら「コロナ軒」「ラーメン、コロナ抜きで」客消える",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/a/9a610eed-s.png"
         }
       ]
     },
