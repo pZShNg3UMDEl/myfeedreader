@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T03:36:01.600Z</updated>
+    <updated>2024-02-21T03:50:35.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[G7交通相 紅海周辺での船舶攻撃 フーシ派強く非難する閣僚宣言]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240221/k10014366051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240221/k10014366051000.html"/>
+        <updated>2024-02-21T03:36:16.000Z</updated>
+        <summary type="html"><![CDATA[G7＝主要7か国の交通担当の閣僚による臨時の会合が開かれ、紅海周辺で船舶への攻撃を繰り返すイエメンの反政府勢力フーシ派を強く非難する閣僚宣言をとりまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福島第一原発 汚染水トラブル 経産相が東京電力社長に指導]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240221/k10014365991000.html</id>
@@ -37386,18 +37396,6 @@ devices for imagers dedicated to space applications" (EU citizenship required)]]
         <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる事件を受けて、自民党の「政治刷新本部」が検討を進めている中間とりまとめの案が明らかになりました。派閥については「カネと人事から完全に決別する」として、政治資金パーティーの開催を禁止するとともに事務所を閉鎖するなどとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper on non-toxic quantum dot SWIR sensors in Nature Photonics]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/01/paper-on-non-toxic-quantum-dot-swir.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/01/paper-on-non-toxic-quantum-dot-swir.html"/>
-        <updated>2024-01-22T15:39:00.003Z</updated>
-        <summary type="html"><![CDATA[In a paper titled "Silver telluride colloidal quantum dot infrared photodetectors and image sensors" Wang et al. from  ICFO, ICREA, and Qurv Technologies (Spain) write:
-
-Photodetectors that are sensitive in the shortwave-infrared (SWIR) range (1–2 µm) are of great interest for applications such as machine vision, autonomous driving and three-dimensional, night and adverse weather imaging, among others. Currently available technologies in the SWIR range rely on costly epitaxial semiconductors that are not monolithically integrated with complementary metal–oxide–semiconductor electronics. Solution-processed quantum dots can address this challenge by enabling low-cost manufacturing and simple monolithic integration on silicon in a back-end-of-line process. So far, colloidal quantum dot materi…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>

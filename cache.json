@@ -5737,16 +5737,6 @@
           "wordCount": 3815,
           "title": "Two Job Postings from Employers in France",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/01/paper-on-non-toxic-quantum-dot-swir.html",
-          "author": null,
-          "description": "In a paper titled \"Silver telluride colloidal quantum dot infrared photodetectors and image sensors\" Wang et al. from  ICFO, ICREA, and Qurv Technologies (Spain) write:\n\nPhotodetectors that are sensitive in the shortwave-infrared (SWIR) range (1–2 µm) are of great interest for applications such as machine vision, autonomous driving and three-dimensional, night and adverse weather imaging, among others. Currently available technologies in the SWIR range rely on costly epitaxial semiconductors that are not monolithically integrated with complementary metal–oxide–semiconductor electronics. Solution-processed quantum dots can address this challenge by enabling low-cost manufacturing and simple monolithic integration on silicon in a back-end-of-line process. So far, colloidal quantum dot materi…",
-          "link": "http://image-sensors-world.blogspot.com/2024/01/paper-on-non-toxic-quantum-dot-swir.html",
-          "publishedOn": "2024-01-22T15:39:00.003Z",
-          "wordCount": 4954,
-          "title": "Paper on non-toxic quantum dot SWIR sensors in Nature Photonics",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXREyK34ud_aAq__Mi5p_WozeF3JWB39_jn10RANwwg6i2eL_NIXg__Tr169Il2VnaNFM7sJQWf1h4LqB4HUhSj_ozgMndOuo5W5CRet1OtIunVaQ=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -5755,6 +5745,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366051000.html",
+          "author": null,
+          "description": "G7＝主要7か国の交通担当の閣僚による臨時の会合が開かれ、紅海周辺で船舶への攻撃を繰り返すイエメンの反政府勢力フーシ派を強く非難する閣僚宣言をとりまとめました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014366051000.html",
+          "publishedOn": "2024-02-21T03:36:16.000Z",
+          "wordCount": 497,
+          "title": "G7交通相 紅海周辺での船舶攻撃 フーシ派強く非難する閣僚宣言",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014366051_2402211215_0221122725_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240221/k10014365991000.html",
           "author": null,
