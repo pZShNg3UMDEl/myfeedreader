@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T16:50:36.395Z</updated>
+    <updated>2024-02-21T17:11:07.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Computational Imaging Photon by Photon]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/02/computational-imaging-photon-by-photon.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/02/computational-imaging-photon-by-photon.html"/>
+        <updated>2024-02-21T17:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Arizona Optical Sciences Colloquium: Andreas Velten, "Computational Imaging Photon by Photon"
+
+
+Abstract
+Our cameras usually measure light as an analog flux that varies as a function of space and time. This approximation ignores the quantum nature of light which is actually made of discrete photons each of which is collected at a sensor pixel at an instant in time. Single photon cameras have pixels that can detect photons and the timing of their arrival resulting in cameras with unprecedented capabilities. Concepts like motion blur, exposure time, and dynamic range that are essential to conventional cameras do not really apply to single photon sensors. In this presentation I will cover computational imaging capabilities enabled by single photon cameras and their applications.
+
+
+The extreme…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英外務省 ナワリヌイ氏収監のロシアの刑務所幹部に制裁と発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240222/k10014366981000.html</id>
@@ -37589,26 +37606,6 @@ devices for imagers dedicated to space applications" (EU citizenship required)]]
         <summary type="html"><![CDATA[能登半島地震を受けて、台湾当局が民間に寄付を呼びかけ25億円余りが集まったことについて、林官房長官は「友情の証しだ」と述べ、謝意を表すとともに、被災者支援に有効に活用するため、関係機関で調整を行っていく考えを示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学童保育】トイレにカメラ…8～10歳の児童ら盗撮か　職員逮捕「性的欲求満たすためでなく…トイレ汚れる様子知りたかった」]]></title>
-        <id>https://itainews.com/archives/2032434.html</id>
-        <link href="https://itainews.com/archives/2032434.html"/>
-        <updated>2024-01-23T05:01:25.000Z</updated>
-        <summary type="html"><![CDATA[1 ：煮卵 ★：2024/01/22(月) 16:31:31.00 ID:jYuWkPJp9.net
-
-
-
-
-
-
-
-
-
-学童保育のトイレにカメラ…8～10歳の児童ら盗撮か　施設の職員逮捕「性的欲求満たすためでなく…トイレ汚れる様子知りたかった」（MBSニュース） https://t.co/s1eVNx9xrh— sana (@sana89389807) J...]]></summary>
-        <author>
-            <name>yonepo665sfr</name>
         </author>
     </entry>
 </feed>
