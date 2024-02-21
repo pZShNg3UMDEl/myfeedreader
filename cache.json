@@ -2729,21 +2729,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/120414/",
-          "author": null,
-          "description": "「機動戦士ガンダムSEED」シリーズの新作映画「機動戦士ガンダムSEED FREEDOM」が1月26日に公開されます。シリーズの振り返りとして「機動戦士ガンダムSEED」の作品展開と、当時どこが...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/120414/",
-          "publishedOn": "2024-01-23T09:30:00.000Z",
-          "wordCount": 831,
-          "title": "【新作映画公開記念】「機動戦士ガンダムSEED」は何が新しかったのか　作品展開を紹介",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5785,6 +5770,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367091000.html",
+          "author": null,
+          "description": "大相撲、幕内の北青鵬が弟弟子に暴力行為を行ったなどとして、日本相撲協会のコンプライアンス委員会が、北青鵬については引退勧告、師匠で元横綱・白鵬の宮城野親方については2階級降格などとする処分案をまとめたことが関係者への取材でわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014367091000.html",
+          "publishedOn": "2024-02-21T21:34:37.000Z",
+          "wordCount": 736,
+          "title": "北青鵬 “暴力”で引退勧告 宮城野親方は降格の処分案まとめる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014367091_2402220632_0222063439_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240222/k10014366681000.html",
           "author": null,
@@ -22364,16 +22359,6 @@
           "wordCount": 928,
           "title": "能登に駆けつけたのは600キロ以上離れた宮城の酒蔵だった",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014330991_2401231826_0123183545_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331511000.html",
-          "author": null,
-          "description": "去年、岐阜市にある陸上自衛隊の射撃場で、隊員3人を小銃で銃撃し2人を殺害したなどとして逮捕された当時の自衛官候補生について、検察が精神鑑定の結果などから刑事責任能力を問えると判断したことが、関係者への取材でわかりました。当時の候補生は23日に家庭裁判所に送られ、今後、刑事処分が相当かどうか判断されます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014331511000.html",
-          "publishedOn": "2024-01-23T09:27:51.000Z",
-          "wordCount": 575,
-          "title": "陸自訓練中に銃撃 3人殺傷事件 刑事責任能力問えると判断 検察",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331511_2401231809_0123182713_01_02.jpg"
         }
       ]
     },
@@ -29381,16 +29366,6 @@
           "publishedOn": "2024-01-24T10:54:00.000Z",
           "wordCount": null,
           "title": "【壁ライブ】ブレイクアーティストLIVE 2月15日【第2弾アーティスト】【有吉の壁】【有明アリーナ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l44MO7hP8oM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l44MO7hP8oM",
-          "publishedOn": "2024-01-23T09:30:21.000Z",
-          "wordCount": null,
-          "title": "【お家芸】ジャンポケおたけ、実家のもんじゃ屋騒動再び【有吉の壁】【オープニング先行】",
           "imageUrl": null
         }
       ]
