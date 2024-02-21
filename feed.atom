@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T17:11:07.671Z</updated>
+    <updated>2024-02-21T17:28:29.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国政府 漁船転覆で「台湾側に非」責任者の処罰求める談話]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014366971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014366971000.html"/>
+        <updated>2024-02-21T17:19:37.000Z</updated>
+        <summary type="html"><![CDATA[中国に近い台湾の離島、金門島の沿岸で起きた中国漁船の転覆事故を受けて、中国政府は21日夜、台湾当局に対し、事故の真相を明らかにし、責任者の処罰を求める談話を出しました。中国としては「台湾側に非がある」という主張を重ね、民進党政権への圧力を正当化するねらいがあるとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Computational Imaging Photon by Photon]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/02/computational-imaging-photon-by-photon.html</id>
@@ -37596,16 +37606,6 @@ devices for imagers dedicated to space applications" (EU citizenship required)]]
         <summary type="html"><![CDATA[今なおNintendo Switchはソフトの売上は好調ながらも、発売から8年目を迎えたことでハードウェアの限界も見え始め、後継モデルの登場も現実味を増してきた。ゲーム開発者カンファレンスGDCの調査でも、250人以上の開発者が「スイッチ後継モデル」向けタイトルに携わっていると回答している。 スイッ […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾 民間から25億円余寄付 支援に謝意“友情の証し”官房長官]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240123/k10014331101000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014331101000.html"/>
-        <updated>2024-01-23T05:18:56.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震を受けて、台湾当局が民間に寄付を呼びかけ25億円余りが集まったことについて、林官房長官は「友情の証しだ」と述べ、謝意を表すとともに、被災者支援に有効に活用するため、関係機関で調整を行っていく考えを示しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
