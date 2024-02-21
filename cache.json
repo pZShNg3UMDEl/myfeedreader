@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120648/",
+          "author": null,
+          "description": "女子競輪を題材にしたテレビアニメ「リンカイ！」の放送が4月9日からはじまることが決定し、制作スタッフと主題歌の詳細が発表された。ティザー映像とメインビジュアルも公開されている。 同作は、女子競輪...",
+          "link": "https://anime.eiga.com/news/120648/",
+          "publishedOn": "2024-02-21T12:00:00.000Z",
+          "wordCount": 983,
+          "title": "競輪アニメ「リンカイ！」4月9日放送開始、ティザー映像公開　トムス・エンタテインメント制作、石山タカ明が監督",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120647/",
           "author": null,
           "description": "テレビアニメ「転生したらスライムだった件」の第3期に水瀬いのり、野島健児、千葉翔也らが出演し、エンディング主題歌を来栖りんが担当することが分かった。PV第1弾も公開されている。 放送スケジュール...",
@@ -2783,6 +2798,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98425",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/20(火) 14:34:12.83 ID:qihJEcQW0 2月21日（水） […]",
+          "link": "https://switchsoku.com/direct/98425",
+          "publishedOn": "2024-02-21T12:11:32.000Z",
+          "wordCount": 10156,
+          "title": "Nintendo Direct ソフトメーカーラインナップ 2024.2.21 待機",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/nintndo-direct-2-21.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98416",
           "author": "SWITCH速報",
           "description": "1986年2月21日に『ゼルダの伝説』が発売されて38周年となりました。 【今日は何の日？】 198 […]",
@@ -5081,16 +5106,6 @@
           "wordCount": 10029,
           "title": "ヒャダ、ヒャダイン、ヒャダルコ、マヒャド←こいつだけなんか多いよな",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/10/dq-hyado.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97381",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/23(火) 05:50:08.38 ID:k0a3jLrn0 普通に売れるだろ […]",
-          "link": "https://switchsoku.com/switch/97381",
-          "publishedOn": "2024-01-23T00:00:42.000Z",
-          "wordCount": 10145,
-          "title": "Switch次世代機は据え置き専用モデルと携帯モデルを出すべきだよな",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/01/el-table.webp"
         }
       ]
     },
@@ -5286,6 +5301,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=9558",
+          "author": "watanabe@logipara.com",
+          "description": "♪捜し物はナンですか～ 　 　 ♪見つけにくいモンですか～ 　 　 　 「…………………モン？？」",
+          "link": "https://logipara.com/diary-text/2024-02-22",
+          "publishedOn": "2024-02-21T12:19:49.000Z",
+          "wordCount": 4395,
+          "title": "ずっと探している",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/02/image-2-scaled.jpg"
+        },
         {
           "id": "https://logipara.com/?p=9553",
           "author": "watanabe@logipara.com",
@@ -5830,6 +5855,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366471000.html",
+          "author": null,
+          "description": "岡山県で観光農園などを運営していた「西山ファーム」による海外向けの果物などの販売事業をめぐる投資詐欺事件で、国際手配されていた元副社長とみられる男がインドネシアの入国管理局に身柄を拘束されていたことがわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014366471000.html",
+          "publishedOn": "2024-02-21T12:11:23.000Z",
+          "wordCount": 703,
+          "title": "投資詐欺事件で国際手配の元副社長か インドネシアで身柄拘束",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014366471_2402212054_0221211125_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366391000.html",
+          "author": null,
+          "description": "4年前、東京 町田市の小学校に通っていた女の子が同級生からいじめを受けたとされる遺書を残して自殺したことについて、有識者による調査委員会は、複数のいじめがあったことを認定した一方、「原因は複合的で特定できない」などとする報告書を答申しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240221/k10014366391000.html",
+          "publishedOn": "2024-02-21T12:04:17.000Z",
+          "wordCount": 772,
+          "title": "東京 町田 女児自殺 いじめ認定も“原因特定できず”と報告書",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240221/K10014366391_2402211656_0221183200_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240221/k10014366601000.html",
           "author": null,
@@ -23906,16 +23951,6 @@
           "wordCount": 1892,
           "title": "【松屋】カットステーキのハッシュドビーフ・ライス大盛り【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/bf276f3803cb647fb2d6405bd71f6ee2.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=233753",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、森永製菓の新商品「ザ・クレープ 重ねあずき」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]",
-          "link": "https://foodfighter.jp/morinaga-crepe-ice-kasaneazuki",
-          "publishedOn": "2024-01-23T00:11:58.000Z",
-          "wordCount": 1845,
-          "title": "森永製菓 ザ・クレープ 重ねあずき【新作アイス・コンビニ限定】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/0f420b2e9175918c686e05db01f36d03.jpg"
         }
       ]
     },
@@ -24213,16 +24248,6 @@
           "wordCount": 2659,
           "title": "電磁気学入門（7）降圧コンバーターの設計事例や損失計算",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/23/cover_news028.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/23/news062.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、最新世代の8×8マルチゾーン対応ToF測距センサー「VL53L8CX」を発表した。従来品に比べて、測距性能の向上、周辺光耐性の向上、低消費電力化などを図った。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/23/news062.html",
-          "publishedOn": "2024-01-23T00:00:00.000Z",
-          "wordCount": 2651,
-          "title": "新世代のVCSEL採用、8×8マルチゾーン対応ToF測距センサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/23/cover_news062.jpg"
         }
       ]
     },
@@ -27760,16 +27785,6 @@
           "wordCount": 1625,
           "title": "お留守番をしていた子猫が飼い主さんにベタベタに甘えて帰宅を歓迎します",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67053.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67085",
-          "author": "299",
-          "description": "ソファの上に2匹の可愛い赤ちゃん猫が座っています。黒猫と茶白の2匹は、ゴロちゃんとマルちゃんの兄弟です。カメラを向けていると目をまんまるにしてじっとこちらを見ています。 耳も、やっと立ってきたぐらいなのでまだ生後1ヶ月に...\nボーッとしていた赤ちゃん猫が膝の上にあがってきたら元気いっぱいにじゃれ始めました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67085",
-          "publishedOn": "2024-01-23T00:00:29.000Z",
-          "wordCount": 1624,
-          "title": "ボーッとしていた赤ちゃん猫が膝の上にあがってきたら元気いっぱいにじゃれ始めました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67085.jpeg"
         }
       ]
     },
@@ -29585,6 +29600,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033271.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2024/02/21(水) 08:24:53.77 ID:e2z62A3d9.net\n\n\n\n\n\n\n\n1年たっても注文ゼロ…ドローン配送、買い物弱者支援目指すも中止へhttps://t.co/80u3KuCNSj2022年度から3カ年度で計約1億円の補助をする予定でしたが、千葉県勝浦市は最終年度だった24年度予算...",
+          "link": "https://itainews.com/archives/2033271.html",
+          "publishedOn": "2024-02-21T12:02:52.000Z",
+          "wordCount": 2451,
+          "title": "1年たっても注文ゼロ…ドローン配送、買い物弱者支援目指すも中止へ(勝浦市)",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/f/2ff104f8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033265.html",
           "author": "yonepo665sfr",
@@ -32984,16 +33009,6 @@
           "wordCount": 2450,
           "title": "徳島知事「ラーメン屋にコロナが立ち寄りした」お前ら「コロナ軒」「ラーメン、コロナ抜きで」客消える",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/a/9a610eed-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032426.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：草井満子：2024/01/22(月) 15:05:54.32 ID:idBha+dB0●.net\n\n\n\n\n\n\n\n\n\n【独自】虎ノ門ヒルズ ステーションタワー 4F「つるりつるり 蕎麦と炉端」で暴行未遂事件！？オーダーが通っておらず2度訪ねた所、裏から輩が現れ「おい、中は入れ」と多目的トイレに連れ込もうと...",
-          "link": "https://itainews.com/archives/2032426.html",
-          "publishedOn": "2024-01-23T00:01:29.000Z",
-          "wordCount": 2982,
-          "title": "【港区こわい】虎ノ門ヒルズの蕎麦屋で暴行未遂事件",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/5/a507fb3d.png"
         }
       ]
     },
