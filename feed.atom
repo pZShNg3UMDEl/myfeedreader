@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T23:24:36.978Z</updated>
+    <updated>2024-02-21T23:36:47.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【サイゼリヤ】ペンネアラビアータ（全粒粉）【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=236843</id>
+        <link href="https://foodfighter.jp/saizeriya-penne-arrabbiata"/>
+        <updated>2024-02-21T23:33:16.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、毎日の暮らしの豊かさを食を通して提案しているイタリアンワイン&カフェレストランチェーン「サイゼ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大谷翔平 キャンプで【一問一答】調整は順調？後輩にエールも]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240222/k10014367101000.html</id>
@@ -22,6 +32,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367061000.html"/>
         <updated>2024-02-21T23:00:17.000Z</updated>
         <summary type="html"><![CDATA[イスラエル軍は、イスラム組織ハマスの最後の拠点があるとするガザ地区南部のラファなどに対し21日も空爆を行っていて、住民の犠牲が後を絶たない状況が続いています。イスラエル軍がラファへの地上作戦を行う構えを示す中、被害がさらに拡大することが懸念されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「山本山のおばあちゃん」越冬で飛来のオオワシにファン集う]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014366741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014366741000.html"/>
+        <updated>2024-02-21T22:36:51.000Z</updated>
+        <summary type="html"><![CDATA[冬を越すために滋賀県長浜市に飛来している雌のオオワシがまもなく繁殖地に向かうのを前に、連日、熱心な野鳥ファンが訪れています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -37362,16 +37382,6 @@ devices for imagers dedicated to space applications" (EU citizenship required)]]
         <summary type="html"><![CDATA[公開中の劇場アニメ「鬼太郎誕生 ゲゲゲの謎」の第5弾入場特典として、ビジュアルカード（1種）が1月27日から配布される。特典カードの絵柄は、キャラクターデザイン・谷田部透湖が新たに描き下ろしたイ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【大阪王将】ふわとろあんかけ肉ミンチ！！出てこいやー天津飯【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=233817</id>
-        <link href="https://foodfighter.jp/osaka-ohsho-tianjin-rice-detekoi"/>
-        <updated>2024-01-23T11:26:19.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、お店で手巻きした食感と風味豊かな味わいの元祖焼き餃子が人気のチェーン店「大阪王将」へ進撃しました。  […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
