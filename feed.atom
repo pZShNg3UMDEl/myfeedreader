@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T07:21:57.203Z</updated>
+    <updated>2024-02-21T07:35:34.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「おやじは俺がみとらにゃならん」そのために帰ってきたのに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240221/k10014365671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240221/k10014365671000.html"/>
+        <updated>2024-02-21T07:13:47.000Z</updated>
+        <summary type="html"><![CDATA[倒壊した自宅から見つかったアルバムの中の、父の写真。「おふくろが亡くなった時に、おやじから帰ってきて欲しいと頼まれて」それから20年、ずっと父と2人で暮らしてきました。「おやじは俺がみとらにゃなと思ってたんですけど、こういうことになってしまって…」]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウィル・スミス、AI生成の「スパゲティを食べる動画」を自らパロディ化]]></title>
         <id>https://gadget.phileweb.com/?p=69488</id>
@@ -37564,16 +37574,6 @@ devices for imagers dedicated to space applications" (EU citizenship required)]]
 授乳後にパパの膝に移動したママ猫を子猫たちが追いかけてきて結局くつろげず… first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYダウ平均株価 一時3万8000ドル超に 取り引き時間中として初]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240123/k10014330761000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240123/k10014330761000.html"/>
-        <updated>2024-01-22T19:22:03.000Z</updated>
-        <summary type="html"><![CDATA[週明け22日のニューヨーク株式市場は、アメリカの半導体やIT関連企業の決算発表が本格化するのを前に、企業業績への期待感から買い注文が増え、ダウ平均株価は一時、取り引き時間中として初めて3万8000ドルを超えました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
