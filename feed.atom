@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T11:10:49.719Z</updated>
+    <updated>2024-02-22T11:20:54.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「上げ馬神事」馬がけがしないよう 壁撤去など対策とり実施へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014367861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367861000.html"/>
+        <updated>2024-02-22T11:16:24.000Z</updated>
+        <summary type="html"><![CDATA[馬が急な坂を駆け上がる、三重県の多度大社の「上げ馬神事」は、動物虐待だとの批判を受け、馬がけがをしないよう坂の最後で乗り越える高さ2メートル近くある壁を撤去するなどの対策をとったうえで、実施することが決まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【画像】Uber Eats、“ロボットでの配送サービス”を日本で展開へ　3月から都内で提供開始]]></title>
         <id>https://itainews.com/archives/2033293.html</id>
@@ -54,6 +64,16 @@ Uber Eats、“ロボットでの配送サービス”を日本で展開へ　3�
         <summary type="html"><![CDATA[3DCGアニメ「こねこのチー」シリーズの第3期「こねこのチー ポンポンらー夏休み」の製作が決定した。チー役のこおろぎさとみらキャストが続投し、第1、2期と同じく草野公紀が監督を務める。 「こねこ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ガザでは病気がまん延 飢きんも迫る」国連機関など共同声明]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014368001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014368001000.html"/>
+        <updated>2024-02-22T10:54:47.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍が激しい攻撃を続けるガザ地区で人道支援などにあたってきた国連機関やNGOは「ガザでは病気がまん延し、飢きんも迫っている」として強い危機感を示す緊急の共同声明を出し、一刻も早い停戦の実現を訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
