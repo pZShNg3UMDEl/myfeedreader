@@ -5702,16 +5702,6 @@
           "wordCount": 4505,
           "title": "Hokuyo solid-state LiDAR uses Lumotive's beamsteering technology",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUwXPAizXQBWps2nQC7UdcUQDrhld6v0bU6Fb-gT5MlxWdoSuOxXqhfWgf878yDdlysT1LeGDyorYSkKAP_dwCwYq3OHz_UCfNVVR-ijGuCB7WGiz596cH6XJj5EA=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/01/two-job-postings-from-employers-in.html",
-          "author": null,
-          "description": "CEA Leti\nCMOS Imagers Senior Expert             Grenoble, France            Link\n\n\nISAE SUPAERO\n\n\nPostdoctoral Position                        Toulouse, France            Link\n\"Characterization of avalanche effects and radiation robustness evaluation of charge transfer \ndevices for imagers dedicated to space applications\" (EU citizenship required)",
-          "link": "http://image-sensors-world.blogspot.com/2024/01/two-job-postings-from-employers-in.html",
-          "publishedOn": "2024-01-23T15:30:00.001Z",
-          "wordCount": 3815,
-          "title": "Two Job Postings from Employers in France",
-          "imageUrl": null
         }
       ]
     },
@@ -5720,6 +5710,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367181000.html",
+          "author": null,
+          "description": "22日の東京株式市場、日経平均株価は値上がりし、バブル期の1989年12月29日につけた取り引き時間中の史上最高値を更新しました。日経平均株価は、バブルの絶頂期にピークをつけてから再びこの水準に回復するまでに34年2か月かかりましたが、日本経済がバブル崩壊後、失われた30年と呼ばれた低迷期を本格的に脱することができるかが焦点となります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014367181000.html",
+          "publishedOn": "2024-02-22T03:31:06.000Z",
+          "wordCount": 723,
+          "title": "日経平均株価 史上最高値を更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014367181_2402221233_0222123426_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367161000.html",
           "author": null,
@@ -22329,16 +22329,6 @@
           "wordCount": 673,
           "title": "JR北陸本線 特急列車が異音と停電で一時運転見合わせ 福井",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332171_2401240043_0124004410_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014331921000.html",
-          "author": null,
-          "description": "この冬1番の強い寒気と冬型の気圧配置の影響で、25日にかけて日本海側を中心に大雪となる見込みで、能登半島地震の被災地では雪が強まっています。ふだん雪の少ない西日本や東海などでも大雪となるおそれがあります。交通への影響に十分注意し、安全な場所で過ごすようにしてください。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014331921000.html",
-          "publishedOn": "2024-01-23T15:29:41.000Z",
-          "wordCount": 542,
-          "title": "能登地震の被災地 雪が強まる 日本海側を中心に大雪の見込み",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014331921_2401232246_0124002943_01_02.jpg"
         }
       ]
     },
