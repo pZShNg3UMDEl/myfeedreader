@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T04:14:30.758Z</updated>
+    <updated>2024-02-22T04:27:49.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニュージーランド地震13年 現地で遺族出席し追悼式典]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014367291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367291000.html"/>
+        <updated>2024-02-22T04:17:48.000Z</updated>
+        <summary type="html"><![CDATA[日本人28人を含む185人が死亡したニュージーランド南部の地震から22日で13年となり、現地では日本からも遺族が出席して追悼式典が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソードアートオンラインの最新ゲームが2024年発売！]]></title>
         <id>https://switchsoku.com/?p=98451</id>
