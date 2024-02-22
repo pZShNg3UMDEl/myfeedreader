@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T10:28:30.699Z</updated>
+    <updated>2024-02-22T10:38:35.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367901000.html"/>
         <updated>2024-02-22T10:16:31.000Z</updated>
         <summary type="html"><![CDATA[第170回芥川賞と直木賞の贈呈式が、22日、東京都内で行われ、受賞した3人の作家が喜びを語りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川県 1人5万円配分の義援金 申請受け付けを26日から開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014367911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367911000.html"/>
+        <updated>2024-02-22T10:13:48.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の義援金の1人5万円の配分について、石川県は、被災者からの申請の受け付けを今月26日からオンラインなどで始めると発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
