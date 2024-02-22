@@ -2774,21 +2774,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120450/",
-          "author": null,
-          "description": "「機動戦士ガンダムSEED FREEDOM」が1月26日に公開されることを記念して、メインキャラクターのキラ・ヤマトを特集した「機動戦士ガンダムSEED キラ・ヤマトぴあ」が1月22日に発売され...",
-          "link": "https://anime.eiga.com/news/120450/",
-          "publishedOn": "2024-01-24T03:00:00.000Z",
-          "wordCount": 808,
-          "title": "劇場版「ガンダムSEED」公開記念「キラ・ヤマトぴあ」発売中　キラ尽くしの中面ページが限定公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5840,6 +5825,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014367841000.html",
+          "author": null,
+          "description": "天皇陛下は、23日に64歳の誕生日を迎えられました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014367841000.html",
+          "publishedOn": "2024-02-22T15:00:56.000Z",
+          "wordCount": 781,
+          "title": "天皇陛下 64歳の誕生日",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014367841_2402221807_0223000018_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014368131000.html",
+          "author": null,
+          "description": "ロシアによるウクライナへの軍事侵攻から2年になるのを前に、NHKがSNSで拡散されたウクライナに関する日本語での投稿を分析したところ、G7広島サミットが開かれた去年5月ごろからロシアを支持する内容のまとめサイトなどの記事が拡散する割合が増えていることが分かりました。中には偽情報もあり、専門家は当初より関心が低下する中で、ウクライナ支援への負担が注目されるようになっていることが背景にあるとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014368131000.html",
+          "publishedOn": "2024-02-22T14:50:05.000Z",
+          "wordCount": 826,
+          "title": "軍事侵攻2年 ロシア支持サイトなどの記事 拡散割合増える",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014368131_2402222348_0222234944_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240222/k10014368181000.html",
           "author": null,
@@ -22609,36 +22614,6 @@
           "wordCount": 659,
           "title": "谷川弥一氏が議員辞職 政治資金事件で略式起訴 長崎3区補選へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332581_2401241204_0124122057_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332471000.html",
-          "author": null,
-          "description": "新宿 歌舞伎町のホストクラブの従業員が飲食代金の回収のため、客の女性に路上で売春の客待ちをさせたとして、強要の疑いで警視庁に逮捕されました。従業員はスマートフォンのGPSアプリを使って、女性の位置情報を監視していたとみられています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332471000.html",
-          "publishedOn": "2024-01-24T03:10:35.000Z",
-          "wordCount": 522,
-          "title": "歌舞伎町の元ホスト逮捕 女性客に売春強要か GPSで監視も",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332471_2401241140_0124121037_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332501000.html",
-          "author": null,
-          "description": "石川県珠洲市のデイサービスの事業所では、およそ3週間ぶりに利用者の受け入れを再開しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332501000.html",
-          "publishedOn": "2024-01-24T02:58:58.000Z",
-          "wordCount": 663,
-          "title": "珠洲 デイサービス事業所受け入れ再開 陸自の医師らが体調確認",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332501_2401241149_0124115901_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332551000.html",
-          "author": null,
-          "description": "能登半島地震への対応などをめぐり衆議院予算委員会で集中審議が行われ、立憲民主党の泉代表が住宅に被害を受けた世帯への支援金の上限を引き上げるよう求めたのに対し、岸田総理大臣は実情に合わせて追加的な支援を検討していく考えを示しました。また、被災地の支援のため、26日にも今年度予算の予備費から1500億円規模の支出を決定する考えを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332551000.html",
-          "publishedOn": "2024-01-24T02:58:08.000Z",
-          "wordCount": 701,
-          "title": "岸田首相 地震の被災地支援で1500億円規模の支出へ 衆院予算委",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332551_2401241153_0124115811_01_02.jpg"
         }
       ]
     },
@@ -33104,16 +33079,6 @@
           "wordCount": 2419,
           "title": "元・安倍派幹部　西村康稔　JR明石駅前で『私はやってない潔白だ』のビラ配布で、地元有権者失笑",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8efd4441-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032458.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/01/23(火) 16:40:35.79 ID:s+bnJGE50●.net\n\n\n\n\n\n\n\n\n\n\n「生理痛の痛みってどのくらい？」生理痛体験研修を通して生理について考える https://t.co/6jT3Sq4FXs— RKK NEWS DIG Powered by JNN (@rkkhodo) January 23, 2024 \n\n\n\n\n\n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2032458.html",
-          "publishedOn": "2024-01-24T03:01:49.000Z",
-          "wordCount": 2553,
-          "title": "女子学生「男さんでも生理の痛みがわかる機械を発明しました。えい！」ビリビリ！男さん「ぎゃああ！」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/5/656a6102-s.png"
         }
       ]
     },
