@@ -2,16 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T06:35:23.789Z</updated>
+    <updated>2024-02-22T06:50:27.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ほっともっと】シビれる辛さ！四川麻婆豆腐弁当・から揚げ付き・ライス大盛り【期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=236886</id>
+        <link href="https://foodfighter.jp/hottomotto-mapo-tofu-bento"/>
+        <updated>2024-02-22T06:36:58.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Motto）」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生活保護費の引き下げ 取り消す判決 津地裁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240222/k10014367561000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367561000.html"/>
         <updated>2024-02-22T06:22:05.000Z</updated>
         <summary type="html"><![CDATA[生活保護費が2013年から段階的に引き下げられたことについて、三重県の受給者が最低限度の生活を保障した憲法に違反するなどと訴えた裁判で、津地方裁判所は、国の対応は違法だとして引き下げを取り消す判決を言い渡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ公費支援 3月末で終了 4月からは通常の医療体制へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014367551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367551000.html"/>
+        <updated>2024-02-22T06:18:49.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナへの対応をめぐり、武見厚生労働大臣は、患者や医療機関への公費支援を予定どおり来月末で終了し、4月からは通常の医療体制に移行する方針を示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
