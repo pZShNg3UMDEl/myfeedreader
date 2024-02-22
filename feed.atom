@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T23:15:38.957Z</updated>
+    <updated>2024-02-22T23:35:23.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「アルテミス計画」の一環 宇宙飛行士の居住施設 報道陣に公開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240223/k10014368391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240223/k10014368391000.html"/>
+        <updated>2024-02-22T23:33:18.000Z</updated>
+        <summary type="html"><![CDATA[人類を再び月に送る「アルテミス計画」の一環として来年末にも打ち上げが予定されている宇宙飛行士のための居住施設が、報道陣に公開されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニメ「ちいかわ」パジャマパーティーズは諸星すみれ、長縄まりあ、内山茉莉、篠原侑　楽曲配信スタート]]></title>
         <id>https://anime.eiga.com/news/120659/</id>
@@ -37383,16 +37393,6 @@ While spinning mechanical LiDAR sensors hav…]]></summary>
         <summary type="html"><![CDATA[テレビアニメ「Lv2からチートだった元勇者候補のまったり異世界ライフ」の放送が、4月からAT-X、TOKYO MX、サンテレビ、KBS京都、BS11でスタートすることが決定し、山根綺、日野まり、...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chromeに3つの生成AI機能追加へ。タブが簡単にまとめられる「Tag groups」など]]></title>
-        <id>https://gadget.phileweb.com/?p=66810</id>
-        <link href="https://gadget.phileweb.com/post-66810/"/>
-        <updated>2024-01-24T11:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Googleは、同社のウェブブラウザー「Google Chrome」において、3つの生成AI機能を新たに追加したことをアナウンスした。バージョンM121から利用でき、今後数日以内に米国から順次試すことができるようになるとしている。なお実験版のため、企業アカウントと教育アカウントでは使えないとのこと。 […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
         </author>
     </entry>
 </feed>
