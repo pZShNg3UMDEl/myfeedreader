@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T20:36:30.030Z</updated>
+    <updated>2024-02-22T20:50:12.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「北陸応援割」3月16日から開始 富山 福井 新潟が発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240223/k10014368081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240223/k10014368081000.html"/>
+        <updated>2024-02-22T20:35:43.000Z</updated>
+        <summary type="html"><![CDATA[富山県、福井県、新潟県は、能登半島地震の影響を受けた観光事業者を支援するため観光客の宿泊代などを補助する「北陸応援割」を来月16日から始めると発表しました。いずれも4月26日までの宿泊分を補助の対象にするということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G20外相会合閉幕 ロシアの軍事侵攻で各国間に意見の隔たり]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240223/k10014368261000.html</id>
