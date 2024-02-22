@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T03:13:39.979Z</updated>
+    <updated>2024-02-22T03:24:32.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ 反転攻勢の成果あがらず 守勢に回る状況も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014367161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367161000.html"/>
+        <updated>2024-02-22T03:14:32.000Z</updated>
+        <summary type="html"><![CDATA[注目されたウクライナの反転攻勢は思ったような成果があげられず、逆に兵士の犠牲をいとわないロシア側の攻撃で東部の拠点を奪われるなど守勢に回る状況も出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政治資金問題 自民 松野氏ら5人 衆院政倫審に審査を申し出]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240222/k10014367331000.html</id>
