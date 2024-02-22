@@ -2719,21 +2719,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/konki_ranking/120453/",
-          "author": null,
-          "description": "1月第4週の2024年冬アニメ録画ランキングは、「葬送のフリーレン」が3週連続で首位となった。2位の「薬屋のひとりごと」（70ポイント）までが頭ひとつ抜けていて、3位の「ポケットモンスター 新シ...",
-          "link": "https://anime.eiga.com/news/column/konki_ranking/120453/",
-          "publishedOn": "2024-01-24T10:00:00.000Z",
-          "wordCount": 830,
-          "title": "【今期TVアニメランキング】「葬送のフリーレン」3連続首位　2位は「薬屋のひとりごと」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5016,16 +5001,6 @@
           "wordCount": 10108,
           "title": "『スマブラ』にパワプロ･十三機兵･HADESが参戦",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/GEft4ZoacAAUOEv.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97436",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/24(水) 13:30:52.59 ID:LZFVWjri0 【請求項1】 属 […]",
-          "link": "https://switchsoku.com/gossip/97436",
-          "publishedOn": "2024-01-24T10:00:37.000Z",
-          "wordCount": 10127,
-          "title": "㈱ポケモン「タイプ相性による処理があるゲーム」の特許取得",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/11/pokemon-zokusei.jpg"
         }
       ]
     },
@@ -5765,6 +5740,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368151000.html",
+          "author": null,
+          "description": "ウクライナ国内で行われている世論調査では、侵攻を続けるロシアに対して7割以上の人が「領土を譲歩すべきではない」と答え、依然として多くの人が政府の徹底抗戦の方針を支持する考えを示した形です。ただ、最新の調査では最も高かった時と比べると13ポイント下がりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368151000.html",
+          "publishedOn": "2024-02-22T22:04:17.000Z",
+          "wordCount": 883,
+          "title": "ウクライナ世論調査“ロシアに領土を譲歩すべきではない”7割",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368151_2402222311_0223070320_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368091000.html",
           "author": null,
@@ -22494,26 +22479,6 @@
           "wordCount": 1558,
           "title": "技能実習生「会社も被害、戻れない…」【被災地の声 24日】",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332571_2401241901_0124190243_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014333391000.html",
-          "author": null,
-          "description": "能登半島地震への対応などをめぐり、参議院予算委員会で集中審議が行われ、岸田総理大臣はさまざまな情報提供を行って2次避難を進め、災害関連死を防ぐよう努めたいと強調しました。一方、立憲民主党が初動の遅れを指摘したのに対しては、自衛隊は直ちに救命救助にあたっているなどと反論しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014333391000.html",
-          "publishedOn": "2024-01-24T10:07:40.000Z",
-          "wordCount": 811,
-          "title": "参院予算委 能登半島地震への対応など集中審議",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014333391_2401241849_0124190555_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014333111000.html",
-          "author": null,
-          "description": "中小企業社長「原材料の値上げ分は販売価格に転嫁をせざるをえません。一方で人件費をどれだけ盛り込んでいいのかは…」人手不足などを背景に賃上げの動きが広がる一方で、中小企業からは人件費を含んだ価格転嫁は難しいという声があがっています。賃金と物価が安定的に上昇する経済の好循環を生み出すカギとされる中小企業の賃上げはどうすれば進むのか、専門家に詳しく聞きました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014333111000.html",
-          "publishedOn": "2024-01-24T09:57:11.000Z",
-          "wordCount": 895,
-          "title": "中小企業社長を悩ませる「人件費の価格転嫁」デフレ脱却なるか",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014333111_2401241607_0124185714_01_02.jpg"
         }
       ]
     },
@@ -23921,16 +23886,6 @@
           "wordCount": 1876,
           "title": "【マクドナルド】チキンマックマフィン【朝マックメニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/2daebc88da124cf05858fb8841d1c289.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=233940",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTubeチャン […]",
-          "link": "https://foodfighter.jp/yoshinoya-cheese-karubi-don",
-          "publishedOn": "2024-01-24T10:05:06.000Z",
-          "wordCount": 1888,
-          "title": "【吉野家】チーズ牛カルビ丼・アタマの大盛り【定番メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/bddbb4704980cee7d1fe6faddae61e37.jpg"
         }
       ]
     },
@@ -24216,6 +24171,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69019",
+          "author": "299",
+          "description": "お母さんが青い色の得体の知れないものを広げて置いています。そこへ猫を呼び寄せてみるとすぐさま好奇心の旺盛な猫達が集まってきました。 まずはおでこを持ち上げてその青いものに足を通そうとしますが失敗。豆大福もこれは何？と匂い...\n爪切りが嫌いな猫さんのためのお助けグッズが凄すぎた！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69019",
+          "publishedOn": "2024-02-22T22:00:26.000Z",
+          "wordCount": 1399,
+          "title": "爪切りが嫌いな猫さんのためのお助けグッズが凄すぎた！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69019.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=69015",
           "author": "299",
@@ -29325,16 +29290,6 @@
           "wordCount": 2959,
           "title": "週刊金曜日さんからまたまた取材を受けました",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/1085a1f817668d827602cf5439029a345b3e6b2a.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/n155d01af76e5",
-          "author": null,
-          "description": "ひ「どうも、認知プロファイリング探偵暇空茜です」\nな「助手のなるこです」\n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/n155d01af76e5",
-          "publishedOn": "2024-01-24T10:05:02.000Z",
-          "wordCount": 2652,
-          "title": "中川卓の弁護ミス！？谷家幸子さん遅れてごめんなさい",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/95408436ecb0b51e5b7109ec25a86948f115fc5c.png"
         }
       ]
     },
@@ -32859,16 +32814,6 @@
           "wordCount": 2347,
           "title": "赤信号で飛び出した女子中学生をはね、死亡事故の72歳に無罪判決",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/e/6e41f42a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032464.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(大阪府) [AU]：2024/01/23(火) 18:26:44.93 ID:VXPD1LjJ0●.net\n\n\n\n\n\n\n\n\n\n\n【横浜】業務用パソコンでソリティアなど６４時間、市職員を停職２カ月https://t.co/57fKiOFC7U市の聞き取りに対し、「業務でインターネットを使う時間が増え、順守...",
-          "link": "https://itainews.com/archives/2032464.html",
-          "publishedOn": "2024-01-24T10:01:18.000Z",
-          "wordCount": 2498,
-          "title": "環境創造局総務部係長「役所のPCでソリティアすると叱られるので階段を昇降してた。8時間」横浜市",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/0/e038ff15-s.png"
         }
       ]
     },
