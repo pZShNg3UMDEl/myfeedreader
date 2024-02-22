@@ -2684,21 +2684,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120448/",
-          "author": null,
-          "description": "公開中の劇場アニメ「鬼太郎誕生 ゲゲゲの謎」の第5弾入場特典として、ビジュアルカード（1種）が1月27日から配布される。特典カードの絵柄は、キャラクターデザイン・谷田部透湖が新たに描き下ろしたイ...",
-          "link": "https://anime.eiga.com/news/120448/",
-          "publishedOn": "2024-01-23T12:00:00.000Z",
-          "wordCount": 780,
-          "title": "【まだまだ勢い止まらず興収23.4億円突破】「鬼太郎誕生」第5弾入場特典が1月27日から配布開始",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2707,6 +2692,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98443",
+          "author": "SWITCH速報",
+          "description": "Nintendo Direct ソフトメーカーラインナップ 2024.2.21にて、『北海道連鎖殺人 […]",
+          "link": "https://switchsoku.com/soft/98443",
+          "publishedOn": "2024-02-22T00:00:19.000Z",
+          "wordCount": 10152,
+          "title": "『オホーツクに消ゆ』発売でおっさん狂喜乱舞",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/ohotukunikiyu.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98439",
           "author": "SWITCH速報",
@@ -5445,16 +5440,6 @@
           "wordCount": 4434,
           "title": "病院にて",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9432",
-          "author": "watanabe@logipara.com",
-          "description": "みなさん！1月23日は何の日かご存知ですか！？ そう！当該サイト「ろじっくぱらだいす」がこの世に生まれた日なんですーーーーー！！！ 　 　 　 　 ……と思っていたら、1/23じゃなくて1/20(3日前)だったときのサイ […]",
-          "link": "https://logipara.com/diary-text/2024-01-24",
-          "publishedOn": "2024-01-23T12:33:10.000Z",
-          "wordCount": 4411,
-          "title": "ハッピーバースデーろじぱら(と思っていた)",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -5720,6 +5705,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367121000.html",
+          "author": null,
+          "description": "22日の東京株式市場、注目されていたアメリカの大手半導体メーカーの決算が好調な内容だったことを受けて日経平均株価は500円以上、値上がりし、バブル期の1989年12月29日につけた取り引き時間中の史上最高値3万8957円に迫っています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014367121000.html",
+          "publishedOn": "2024-02-22T00:28:26.000Z",
+          "wordCount": 699,
+          "title": "【リアルタイム】日経平均株価500円超値上がり 史上最高値迫る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014367121_2402220907_0222090843_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367101000.html",
           "author": null,
@@ -22299,36 +22294,6 @@
           "wordCount": 540,
           "title": "金沢駅と石川の被災地結ぶ特急バス 25日から一部運行再開へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331631_2401232221_0123223020_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014332081000.html",
-          "author": null,
-          "description": "この冬一番の強い寒気と冬型の気圧配置の影響で、25日ごろにかけて日本海側を中心に大雪となる見込みで、能登半島地震の被災地では雪が強まっています。ふだん雪の少ない西日本や東海などでも大雪となるおそれがあります。今後の雪の見通しと注意点について、斉田季実治 気象予報士の解説です。1月23日「ニュースウオッチ9」で放送しました。※動画は2分16秒 データ放送ではご覧になれません。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014332081000.html",
-          "publishedOn": "2024-01-23T12:39:05.000Z",
-          "wordCount": 500,
-          "title": "【気象予報士解説】北海道から九州にかけ大雪のおそれ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014332081_2401232121_0123213123_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014332001000.html",
-          "author": null,
-          "description": "日本郵便は、能登半島地震の影響で石川県内の珠洲市や輪島市など合わせて4つの市と町で見合わせていた手紙やはがきなどの郵便物の引き渡し業務について、24日から一部の郵便局の窓口で再開すると発表しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014332001000.html",
-          "publishedOn": "2024-01-23T12:33:07.000Z",
-          "wordCount": 543,
-          "title": "日本郵便 石川県内4市町の郵便物引き渡し 24日から一部で再開",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014332001_2401232131_0123213253_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240123/k10014331781000.html",
-          "author": null,
-          "description": "元死刑囚6人の死刑執行について情報公開請求した文書のほとんどが開示されないのは刑が適正に執行されたのか検証することができないなどと主張し、大学教授などが国に開示を求める訴えを大阪地方裁判所に起こしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240123/k10014331781000.html",
-          "publishedOn": "2024-01-23T12:10:02.000Z",
-          "wordCount": 681,
-          "title": "死刑執行に関する文書 国に開示求め提訴 大学教授ら",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240123/K10014331781_2401232059_0123210841_01_02.jpg"
         }
       ]
     },
@@ -23755,6 +23720,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/22/news070.html",
+          "author": null,
+          "description": "ネクスペリアは、CFPパッケージを用いたプレーナー型ショットキーダイオードシリーズの提供を開始した。11種の産業用製品および11種の車載用製品をラインアップにそろえている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/22/news070.html",
+          "publishedOn": "2024-02-22T00:00:00.000Z",
+          "wordCount": 2604,
+          "title": "より小型なCFPパッケージを採用したショットキーダイオード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/22/cover_news070.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/21/news021.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、可視光の感度が向上した、高速シリコンPINフォトダイオード「VEMD2704」を発表した。350～1100nmのスペクトル範囲により、可視光や近赤外放射線を検出できる。",
@@ -24041,6 +24016,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=68990",
+          "author": "299",
+          "description": "今回ご紹介するのは先住猫に可愛がってもらう子猫ちゃんです。 先住猫は子猫ちゃんを気に入ってるのか、前足で子猫ちゃんをしっかと掴んでギュっとハグ。 仲良く過ごす様子が微笑ましいのでご覧ください。 先住猫のむーくんが寝転がっ...\n先住猫に愛でられる子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/68990",
+          "publishedOn": "2024-02-22T00:00:43.000Z",
+          "wordCount": 1410,
+          "title": "先住猫に愛でられる子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68990.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=68950",
           "author": "299",
@@ -32704,16 +32689,6 @@
           "wordCount": 2349,
           "title": "日本列島、ガチで呪われた土地だった…",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/a/4a9c74a1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032446.html",
-          "author": "damono3856",
-          "description": "1 名前：草井満子(茸) [DE]：2024/01/23(火) 11:16:46.51 ID:MxyjV+V10●.net\n\n\n\n\n\n\n\n【TSRデータインサイト】 2023年（1-12月） 「ラーメン店の倒産動向」調査 https://t.co/HBI1X3Db6o #休廃業 #倒産動向 #東京商工リサーチ pic.twitter.com/WF89knntx5— TSR_NEWS (@T...",
-          "link": "https://itainews.com/archives/2032446.html",
-          "publishedOn": "2024-01-23T12:05:42.000Z",
-          "wordCount": 2772,
-          "title": "ラーメン屋が潰れまくり中　2023年は過去最多",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/f/afe9fe79-s.png"
         }
       ]
     },
@@ -32722,6 +32697,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40973",
+          "author": "comomo",
+          "description": "息子がeスポーツにどハマりしているももこ＠あつらぼです♪ 今回はそんな小学生も大興奮となりそうなイベント情報！ 「あつぎeスポーツ交流会」が3月23日に厚木シティプラザで開催予定です♪ 「あつぎeスポーツ交流会」【3月23日10:00～17…",
+          "link": "https://atsugi-lab.com/event-atsugi-esports202403/",
+          "publishedOn": "2024-02-22T00:30:25.000Z",
+          "wordCount": 1206,
+          "title": "【飛車ちゅうプロ登壇！】「あつぎeスポーツ交流会」3月23日開催♪ぷよぷよeスポーツ等、コンテンツ盛りだくさんなイベント☆［参加無料］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/esports202402-1.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41213",
           "author": "fumie",
