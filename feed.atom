@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T14:13:49.091Z</updated>
+    <updated>2024-02-22T14:29:12.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マンション修繕積立金の目安 毎月の徴収額に下限 国交省素案]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014368181000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014368181000.html"/>
+        <updated>2024-02-22T14:15:04.000Z</updated>
+        <summary type="html"><![CDATA[マンションの修繕積立金が不足するケースが相次いでいることを受けて、国土交通省がまとめた、積立金の徴収額の目安に関する素案が明らかになりました。毎月の徴収額に下限を設け、当初から計画的な積み立てを求める方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[70年前の「島田事件」 再審で無罪の赤堀政夫さん死去 94歳]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240222/k10014368231000.html</id>
@@ -37809,26 +37819,6 @@ While spinning mechanical LiDAR sensors hav…]]></summary>
         <summary type="html"><![CDATA[回は歯を削ったりする歯科用ハンドピースコントローラーの不具合調査を報告する。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千代田区議会議員と区の元職員逮捕 入札に関する情報漏えいか]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240124/k10014332431000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240124/k10014332431000.html"/>
-        <updated>2024-01-24T02:25:59.000Z</updated>
-        <summary type="html"><![CDATA[東京 千代田区の区議会議員と区の元職員が、区立の小学校と幼稚園の改築工事の入札に関する情報を業者に漏らしたとして、官製談合防止法違反の疑いで警視庁に逮捕されました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マクドナルド】マックチキン【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=233866</id>
-        <link href="https://foodfighter.jp/mcdonalds-mcchicken"/>
-        <updated>2024-01-24T02:23:57.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouTube […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
