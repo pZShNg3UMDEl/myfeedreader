@@ -5826,6 +5826,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368301000.html",
+          "author": null,
+          "description": "韓国で行われている卓球、団体の世界選手権は男女ともに準々決勝が行われ、女子はルーマニアに勝ってベスト4進出を決め、5大会連続のメダルを確定させました。一方、男子は中国に敗れ、2大会連続のメダル獲得はなりませんでした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368301000.html",
+          "publishedOn": "2024-02-22T15:17:28.000Z",
+          "wordCount": 795,
+          "title": "卓球団体世界選手権 女子 ベスト4進出 5大会連続メダル確定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368301_2402230004_0223001537_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014367941000.html",
+          "author": null,
+          "description": "サッカーJ1が23日、開幕します。連覇をねらうヴィッセル神戸や横浜F・マリノスなど実績のあるチームによる優勝争いに加え、初めてJ1に臨むFC町田ゼルビアや、16年ぶりにJ1に復帰した東京ヴェルディなど昇格組の戦いぶりも注目です。NHKでは広島市の新しいスタジアムで23日午後2時から行われるサンフレッチェ広島と浦和レッズの開幕戦を、総合テレビで中継でお伝えし、NHKプラスで同時配信します。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014367941000.html",
+          "publishedOn": "2024-02-22T15:12:41.000Z",
+          "wordCount": 1004,
+          "title": "サッカーJ1 きょう開幕 今季は2チーム増の20チームで優勝争い",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014367941_2402221940_0222195353_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240223/k10014367841000.html",
           "author": null,
           "description": "天皇陛下は、23日に64歳の誕生日を迎えられました。",
@@ -22604,16 +22624,6 @@
           "wordCount": 564,
           "title": "自民 末松信介 参院予算委員長が辞任意向 政治資金問題で",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332621_2401241309_0124131048_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332581000.html",
-          "author": null,
-          "description": "自民党安倍派の政治資金パーティーをめぐる事件で、政治資金規正法違反の虚偽記載の罪で略式起訴され自民党を離党した谷川弥一 衆議院議員が24日、議員を辞職しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332581000.html",
-          "publishedOn": "2024-01-24T03:20:55.000Z",
-          "wordCount": 659,
-          "title": "谷川弥一氏が議員辞職 政治資金事件で略式起訴 長崎3区補選へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332581_2401241204_0124122057_01_02.jpg"
         }
       ]
     },
@@ -22622,6 +22632,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=236926",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「カスタードホイップドーナツ」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
+          "link": "https://foodfighter.jp/711sej-custard-whip-donut",
+          "publishedOn": "2024-02-22T15:06:31.000Z",
+          "wordCount": 1870,
+          "title": "【セブンイレブン】カスタードホイップドーナツ【新作スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/cb05a5e3cd18f8beb7b2879fe9455744.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236905",
           "author": "foodfighter",
