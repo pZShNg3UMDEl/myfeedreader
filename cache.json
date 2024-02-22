@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120653/",
+          "author": null,
+          "description": "「月刊コミックガーデン」「MAGCOMI」で連載中の漫画「ニャイト・オブ・ザ・リビングキャット」が、2025年にテレビアニメ化されることが発表された。あわせて、ティザーPVとティザービジュアルが...",
+          "link": "https://anime.eiga.com/news/120653/",
+          "publishedOn": "2024-02-22T09:30:00.000Z",
+          "wordCount": 821,
+          "title": "「ニャイト・オブ・ザ・リビングキャット」25年にTVアニメ化決定　猫に支配された世界が舞台",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120656/",
           "author": null,
           "description": "4月6日からABCテレビ・テレビ朝日系列全国24局ネットの「ANiMAZiNG!!!」枠で放送を開始するテレビアニメ「となりの妖怪さん」に、田村睦心、三上哲ら総勢12人の出演が決定し、主題歌の詳...",
@@ -5755,6 +5770,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367731000.html",
+          "author": null,
+          "description": "能登半島地震の発生から1か月間で、全国の消費生活センターなどに寄せられた災害に関する消費者相談は350件余りにのぼり、消費者庁は、住宅の修理サービスなど、悪質商法によるトラブルに注意を呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014367731000.html",
+          "publishedOn": "2024-02-22T09:07:25.000Z",
+          "wordCount": 551,
+          "title": "能登半島地震に関する消費者相談350件余 悪質商法に注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014367731_2402221745_0222180727_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367541000.html",
           "author": null,
@@ -22494,26 +22519,6 @@
           "wordCount": 735,
           "title": "春闘が事実上スタート 賃上げの勢い維持やデフレ完全脱却 焦点",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014331841_2401232118_0123223859_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332241000.html",
-          "author": null,
-          "description": "23日の外国為替市場では日銀の植田総裁の発言が金融緩和策の修正に前向きだと受け止められ、東京市場で一時、円高が進みましたが、ニューヨーク市場では一転して円安方向に振れ、一時、1ドル＝148円台後半まで値下がりしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332241000.html",
-          "publishedOn": "2024-01-23T21:32:28.000Z",
-          "wordCount": 600,
-          "title": "円相場 NY市場は一転し円安方向に 一時148円台後半に値下がり",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332241_2401240631_0124063230_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332271000.html",
-          "author": null,
-          "description": "気象庁は24日午前6時すぎに福井県と滋賀県に「顕著な大雪に関する気象情報」を相次いで発表しました。午前6時までの6時間に滋賀県長浜市余呉では37センチ、福井県敦賀市では30センチの顕著な降雪を観測しました。この強い雪は24日夜にかけて続く見込みで、気象庁は福井県の嶺南東部と滋賀県の湖北では短時間の大雪に伴って大規模な交通障害が発生する危険性が高まっているとして大雪に厳重に警戒するよう呼びかけています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332271000.html",
-          "publishedOn": "2024-01-23T21:30:05.000Z",
-          "wordCount": 445,
-          "title": "滋賀県 福井県に「顕著な大雪に関する情報」厳重に警戒を",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332271_2401240617_0124062211_01_02.jpg"
         }
       ]
     },
