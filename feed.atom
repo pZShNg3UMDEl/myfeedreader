@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T21:36:16.124Z</updated>
+    <updated>2024-02-22T21:50:13.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[衆院 政治倫理審査会 28日・29日開催へ 公開かどうか協議続く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240223/k10014368091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240223/k10014368091000.html"/>
+        <updated>2024-02-22T21:36:36.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題を受けた衆議院政治倫理審査会は、来週28日と29日に松野 前官房長官ら5人が出席して開かれる見通しとなりました。5人が非公開での開催を希望しているのに対し、野党側は公開を求めていて、与野党の協議が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナワリヌイ氏の母親 “遺体と対面も秘密裏の埋葬 脅迫された”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240223/k10014368351000.html</id>
