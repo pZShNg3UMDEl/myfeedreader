@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T07:12:29.368Z</updated>
+    <updated>2024-02-22T07:22:25.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -132,6 +132,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367371000.html"/>
         <updated>2024-02-22T06:00:15.000Z</updated>
         <summary type="html"><![CDATA[東京 渋谷の繁華街で指定薬物の「THCH」の成分が含まれた違法なリキッドを車で移動販売していたとして、20代の4人が医薬品医療機器法違反の疑いで逮捕されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鈴木財務相 政治資金問題 “納税は議員が判断すべき”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240222/k10014367521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240222/k10014367521000.html"/>
+        <updated>2024-02-22T05:57:13.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、鈴木財務大臣は収支報告書に記載されていなかった収入のうち、政治活動に使わなかった残額を個人の所得として納税を行うかは、政治責任を果たすという観点で議員が判断すべきだという認識を示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
