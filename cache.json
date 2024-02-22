@@ -5721,6 +5721,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367501000.html",
+          "author": null,
+          "description": "立憲民主党の泉代表は、有権者に日本酒を渡したことが分かった梅谷守衆議院議員について党で事実確認を進めているとしたうえで、梅谷氏本人が必要に応じて説明すべきだという考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014367501000.html",
+          "publishedOn": "2024-02-22T05:19:07.000Z",
+          "wordCount": 522,
+          "title": "立民 泉代表 日本酒渡した梅谷議員“本人が必要に応じ説明を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014367501_2402221333_0222141909_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367191000.html",
+          "author": null,
+          "description": "豊田自動織機が排出ガスの性能試験で不正を行っていた問題で、国土交通省はフォークリフトなどに搭載する3種類のエンジンで悪質な不正行為が確認されたなどとして、これらの大量生産に必要な型式指定を取り消すと明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014367191000.html",
+          "publishedOn": "2024-02-22T05:13:25.000Z",
+          "wordCount": 830,
+          "title": "国交省 豊田自動織機のエンジン3種 型式指定取り消し明らかに",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014367191_2402221052_0222130410_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240222/k10014367461000.html",
           "author": null,
           "description": "派閥の政治資金パーティーをめぐる問題を受けた衆議院政治倫理審査会について、自民党と立憲民主党は来週28日と29日の2日間の日程で開催する方向で調整を進めることを確認しました。",
@@ -22379,16 +22399,6 @@
           "wordCount": 363,
           "title": "福井県に「顕著な大雪に関する情報」厳重に警戒を",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332231_2401240400_0124040136_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332221000.html",
-          "author": null,
-          "description": "雪による東海北陸地方の交通への影響です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332221000.html",
-          "publishedOn": "2024-01-23T17:16:34.000Z",
-          "wordCount": 885,
-          "title": "雪による鉄道や道路の影響は（24日1:00）",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332221_2401240206_0124020908_01_02.jpg"
         }
       ]
     },
