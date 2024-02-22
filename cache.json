@@ -2798,6 +2798,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98487",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/22(木) 10:06:22.90 ID:FmzGF9Vi0 Nintendo […]",
+          "link": "https://switchsoku.com/soft/level5/98487",
+          "publishedOn": "2024-02-22T14:00:31.000Z",
+          "wordCount": 10050,
+          "title": "レベルファイブ日野「ファンタジーライフｉの発売日が夏から10月に延期した理由は調整の結果によるもの」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/fantasylife-i.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98479",
           "author": "SWITCH速報",
           "description": "3月8日発売の『ユニコーンオーバーロード』の体験版が配信開始となっています。 1: 2024/02/ […]",
@@ -5091,16 +5101,6 @@
           "wordCount": 10128,
           "title": "【噂】SEGA、Switch2 向けに20本のタイトルを用意か！？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/02/sega.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97419",
-          "author": "SWITCH速報",
-          "description": "『スプラトゥーン3』の更新データVer.6.1.0が1月25日(木)10時より配信。 ホップソナー： […]",
-          "link": "https://switchsoku.com/soft/splatoon3/97419",
-          "publishedOn": "2024-01-24T02:00:22.000Z",
-          "wordCount": 10069,
-          "title": "『スプラトゥーン3』更新データVer.6.1.0‥ホップソナー・アメフラシ強化",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/04/splatoon3-9-9.jpg"
         }
       ]
     },
@@ -5840,6 +5840,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014368231000.html",
+          "author": null,
+          "description": "70年前に静岡県島田市で当時6歳の女の子が殺害されたいわゆる「島田事件」で、死刑が確定したあと再審＝やり直しの裁判で無罪となった赤堀政夫さんが22日午後、名古屋市内で亡くなりました。94歳でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014368231000.html",
+          "publishedOn": "2024-02-22T14:09:29.000Z",
+          "wordCount": 726,
+          "title": "70年前の「島田事件」 再審で無罪の赤堀政夫さん死去 94歳",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014368231_2402222256_0222230831_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014368211000.html",
+          "author": null,
+          "description": "新型コロナウイルスによる肺炎で亡くなったコメディアンの志村けんさんに「コロナをうつした」などというインターネット上のうその書き込みで名誉を傷つけられたとして、大阪・北新地のクラブのママが、投稿した2人に損害賠償を求めた裁判で、大阪地方裁判所は2人にそれぞれ12万円の支払いを命じました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014368211000.html",
+          "publishedOn": "2024-02-22T13:48:37.000Z",
+          "wordCount": 548,
+          "title": "”志村けんさんにコロナうつした” うその書き込み 賠償命じる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014368211_2402222222_0222224839_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240222/k10014368221000.html",
+          "author": null,
+          "description": "パリオリンピックに出場するバスケットボール男子の日本代表が、ことし最初の公式戦となるアジアカップ予選の1次ラウンド初戦でグアムに77対56で勝ちました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240222/k10014368221000.html",
+          "publishedOn": "2024-02-22T13:31:14.000Z",
+          "wordCount": 789,
+          "title": "バスケ男子日本代表 ことし最初の公式戦でグアムに勝利",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240222/K10014368221_2402222202_0222222111_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240222/k10014368141000.html",
           "author": null,
@@ -22609,26 +22639,6 @@
           "wordCount": 567,
           "title": "千代田区議会議員と区の元職員逮捕 入札に関する情報漏えいか",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332431_2401241102_0124112601_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332331000.html",
-          "author": null,
-          "description": "去年1年間の貿易統計で、輸出から輸入を差し引いた貿易収支は、9兆円余りの赤字となりました。赤字となるのは3年連続で赤字額は過去最大だったおととしに比べ、縮小しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332331000.html",
-          "publishedOn": "2024-01-24T02:10:35.000Z",
-          "wordCount": 683,
-          "title": "去年の貿易収支 9兆円余の赤字 金額縮小も赤字は3年連続",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332331_2401240938_0124093913_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240124/k10014332371000.html",
-          "author": null,
-          "description": "秋のアメリカ大統領選挙に向けた野党・共和党の候補者選びの第2戦、東部ニューハンプシャー州の予備選挙で、アメリカの主要メディアはトランプ前大統領が勝利を確実にしたと伝えました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240124/k10014332371000.html",
-          "publishedOn": "2024-01-24T02:06:43.000Z",
-          "wordCount": 381,
-          "title": "ニューハンプシャー州予備選 トランプ氏勝利確実 主要メディア",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240124/K10014332371_2401241017_0124102059_01_02.jpg"
         }
       ]
     },
@@ -27890,16 +27900,6 @@
           "wordCount": 1633,
           "title": "地震から子猫を守る先住猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67117.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67113",
-          "author": "299",
-          "description": "今回ご紹介するのはワンちゃんのお腹に身体を倒し、気持ち良さそうにしている猫ちゃんです。 ワンちゃんのお腹って柔らかいですし、猫ちゃんからすると寝心地が良いんでしょうね。 幸せそうにしている姿が可愛らしいのでご覧ください。...\n寝ている犬のお腹にもたれてくつろぐ猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67113",
-          "publishedOn": "2024-01-24T02:00:23.000Z",
-          "wordCount": 1636,
-          "title": "寝ている犬のお腹にもたれてくつろぐ猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67113.jpeg"
         }
       ]
     },
@@ -29735,6 +29735,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033305.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/02/22(木) 12:50:34.11 ID:s3xBlo4z0●.net\n\n\n\n\n\n\n\n「君の名は。」プロデューサーを児童ポルノ禁止法違反容疑で逮捕　裸の自撮り要求かhttps://t.co/300uaLqku6捜査関係者によると、容疑者はプロデューサーとして、映画「君の名は...",
+          "link": "https://itainews.com/archives/2033305.html",
+          "publishedOn": "2024-02-22T14:05:00.000Z",
+          "wordCount": 2334,
+          "title": "【君の体は。】 「君の名は。」プロデューサーを児童ポルノ禁止法違反容疑で逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/f/af3e80a9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033302.html",
           "author": "damono3856",
