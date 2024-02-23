@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T09:22:30.488Z</updated>
+    <updated>2024-02-23T09:35:31.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「富士山の日」標高にちなみ3776個のおにぎりがふるまわれる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240223/k10014368781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240223/k10014368781000.html"/>
+        <updated>2024-02-23T09:22:25.000Z</updated>
+        <summary type="html"><![CDATA[2月23日は、語呂合わせで「富士山の日」です。ふもとでは富士山の標高にちなみ、3776個のおにぎりがふるまわれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柏崎刈羽原発の避難計画に 県内自治体から実効性問う声 相次ぐ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240223/k10014368791000.html</id>
@@ -37675,16 +37685,6 @@ https://approach.yahoo.co.jp/r/QUyH...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333801000.html"/>
         <updated>2024-01-24T21:35:49.000Z</updated>
         <summary type="html"><![CDATA[ことし4月から始まる医師の働き方改革を前に、厚生労働省は大学病院に勤務する医師について、新薬の勉強など本来業務と直接関連のある「研さん」は労働時間に該当するという考え方を示しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシア国防省“軍用機が撃墜された” 捕虜など74人全員死亡か]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333831000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333831000.html"/>
-        <updated>2024-01-24T21:22:33.000Z</updated>
-        <summary type="html"><![CDATA[ロシア国防省は、ウクライナと国境を接するロシア西部の州で、捕虜となっていたウクライナ軍の兵士など合わせて74人を乗せたロシア軍の軍用機がウクライナ側に撃墜されたと発表し非難を強めています。これに対し、ウクライナ当局は、軍用機の墜落への関与については明言を避けています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
