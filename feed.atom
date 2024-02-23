@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T23:35:52.876Z</updated>
+    <updated>2024-02-23T23:50:18.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[確定申告の季節になりました]]></title>
+        <id>https://logipara.com/?p=9564</id>
+        <link href="https://logipara.com/diary-text/2024-02-24"/>
+        <updated>2024-02-23T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[今日は確定申告をすると決めたおじさん「今日は確定申告をします」 　 3連休という貴重な休日なのに、なぜ私は、ほぼ仕事のような事務作業をしなければならないのでしょうか。 しかも今年は「インボイス」などという全社会人から呪い […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 キャンプ3回目の実戦形式の打撃練習は見逃し三振]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240224/k10014369161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240224/k10014369161000.html"/>
+        <updated>2024-02-23T23:35:30.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手がアリゾナ州で行われているキャンプで3回目の実戦形式の打撃練習を行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYダウ 2日連続で史上最高値更新「S＆P500」株価指数も更新]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240224/k10014369171000.html</id>
