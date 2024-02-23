@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T22:26:14.450Z</updated>
+    <updated>2024-02-23T22:36:37.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -33,6 +33,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240224/k10014369151000.html"/>
         <updated>2024-02-23T21:44:50.000Z</updated>
         <summary type="html"><![CDATA[ウクライナ空軍のオレシチュク司令官は23日、ロシア軍のA50早期警戒管制機を撃墜したとSNSで発表し、上空で何らかの物体が炎を上げる映像を投稿しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金沢で将棋「棋王戦」第2局 倒壊家屋で発見の駒と盤を使用へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240224/k10014369041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240224/k10014369041000.html"/>
+        <updated>2024-02-23T21:30:09.000Z</updated>
+        <summary type="html"><![CDATA[将棋の八大タイトルの1つ、「棋王戦」の第2局が、24日に金沢市で行われます。連覇を目指す藤井聡太八冠（21）は、23日に能登半島地震の被災者にお見舞いのことばを述べたうえで、「被災地のかたに楽しんでもらえるような将棋を見せられるよう全力を尽くしたい」と意気込みを語りました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
