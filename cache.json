@@ -5741,6 +5741,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368701000.html",
+          "author": null,
+          "description": "スペイン東部で14階建ての集合住宅が全焼する火事があり、現地当局は4人が死亡したと発表しました。現地メディアなどは、ほかに19人と連絡が取れなくなっているとも伝えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368701000.html",
+          "publishedOn": "2024-02-23T07:25:45.000Z",
+          "wordCount": 501,
+          "title": "スペイン 14階建ての集合住宅全焼 4人死亡 19人と連絡取れず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368701_2402231611_0223162547_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368661000.html",
           "author": null,
           "description": "能登半島地震で海底が隆起するなどして船が出港できなくなり、漁業に携わる人たちは苦境に追い込まれていて、輪島市の漁師の中にはアルバイトで生計を立てざるを得ない人が出ています。災害ごみを回収するアルバイトをしている漁師は「もう一度、漁に行きたい」と胸の内を明かしました。",
@@ -22609,16 +22619,6 @@
           "wordCount": 405,
           "title": "名神高速 関ヶ原IC付近の立往生 すべて解消 発生から約19時間",
           "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333561000.html",
-          "author": null,
-          "description": "能登半島地震の震源域に近い富山湾の海底を海上保安庁が調査した結果、斜面の一部が深さ40メートルにわたって崩壊していたことがわかりました。富山市では大地震の発生からわずか3分後に津波が押し寄せていて、専門家は「海底で地すべりが起きて津波が押し寄せたことを裏付ける重要な調査結果だ」と指摘しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333561000.html",
-          "publishedOn": "2024-01-24T19:26:44.000Z",
-          "wordCount": 584,
-          "title": "富山湾の海底 斜面の一部 深さ40mにわたり崩壊 海保の調査",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333561_2401242215_0124221929_01_02.jpg"
         }
       ]
     },
@@ -22664,6 +22664,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=236967",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「サーティワンアイスクリーム（31アイスクリーム）」の新商品「濃い抹茶シェイク」を世界一詳しく調査しました。   公 […]",
+          "link": "https://foodfighter.jp/31ice-matcha-shake",
+          "publishedOn": "2024-02-23T07:08:05.000Z",
+          "wordCount": 1904,
+          "title": "【サーティワンアイスクリーム】濃い抹茶シェイク【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/651a45e7a5278bd1dcf061d0e61d257c.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236948",
           "author": "foodfighter",
