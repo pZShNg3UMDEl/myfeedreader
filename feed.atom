@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T03:13:11.605Z</updated>
+    <updated>2024-02-23T03:24:41.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天皇陛下 64歳の誕生日祝う一般参賀]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240223/k10014368521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240223/k10014368521000.html"/>
+        <updated>2024-02-23T03:12:29.000Z</updated>
+        <summary type="html"><![CDATA[天皇誕生日の23日、皇居で、天皇陛下の64歳の誕生日を祝う一般参賀が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカに戻り「俺は今、刑務所にいるのか？」日本との違いに絶望 アメリカはまるで石器時代だ]]></title>
         <id>https://itainews.com/archives/2033315.html</id>
