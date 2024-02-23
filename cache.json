@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/120660/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、大ヒット公開中の「機動戦...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/120660/",
+          "publishedOn": "2024-02-23T09:00:00.000Z",
+          "wordCount": 1097,
+          "title": "【入場特典リスト2月最新版】「鬼滅の刃」「ガンダムSEED」に豪華な新特典登場　「鬼滅」は初の入場特典映像も実施",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120642/",
           "author": null,
           "description": "「映画おしりたんてい」シリーズ2作目の長編作品「映画おしりたんてい さらば愛しき相棒（おしり）よ」の公開記念ひな祭りイベントが2月21日、東京・新宿バルト9で行われ、ゲストキャラクターであるスイ...",
@@ -2727,6 +2742,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98508",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/21(水) 16:39:35.30 ID:mLmBZDAF0 任天堂、バンダイ […]",
+          "link": "https://switchsoku.com/nintendo/98508",
+          "publishedOn": "2024-02-23T09:00:54.000Z",
+          "wordCount": 10055,
+          "title": "任天堂が｢モノリスソフト｣｢Next Level Games社｣の次に買収しそうな会社",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/09/Luigi-Mansion-3.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=98504",
           "author": "SWITCH速報",
@@ -5740,6 +5765,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368791000.html",
+          "author": null,
+          "description": "再稼働をめぐる議論が続く東京電力柏崎刈羽原子力発電所について、事故が起きた場合を想定した避難計画などの説明会が新潟県で開かれ、県内の自治体からは、能登半島地震を受け、地震などとの複合災害の際の実効性を問う声が相次ぎました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368791000.html",
+          "publishedOn": "2024-02-23T09:10:16.000Z",
+          "wordCount": 415,
+          "title": "柏崎刈羽原発の避難計画に 県内自治体から実効性問う声 相次ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368791_2402231803_0223181018_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368571000.html",
+          "author": null,
+          "description": "ロシアによるウクライナへの軍事侵攻が始まってから24日で2年。日本にはいまもウクライナからおよそ2100人が避難しています。日本での生活が長期化する中、避難者の多くは就職に関する悩みを抱えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368571000.html",
+          "publishedOn": "2024-02-23T09:06:24.000Z",
+          "wordCount": 1000,
+          "title": "軍事侵攻2年 ウクライナから日本への避難者 多くが就職に悩み",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368571_2402231740_0223174604_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368741000.html",
+          "author": null,
+          "description": "プロ野球は23日から沖縄でオープン戦が始まり、昨シーズン、日本一に輝いた阪神と阿部慎之助新監督率いる巨人との「伝統の一戦」で幕を開け、巨人が9対4で勝ちました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368741000.html",
+          "publishedOn": "2024-02-23T09:00:46.000Z",
+          "wordCount": 746,
+          "title": "プロ野球 オープン戦が開幕 “伝統の一戦”で巨人が阪神に勝利",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368741_2402231758_0223180017_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368771000.html",
           "author": null,
@@ -22609,16 +22664,6 @@
           "wordCount": 545,
           "title": "ロシア国防省“軍用機が撃墜された” 捕虜など74人全員死亡か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333831_2401250621_0125062235_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333521000.html",
-          "author": null,
-          "description": "全国のがん拠点病院などでがんと診断された人のデータをもとに国立がん研究センターが小児や10代後半から30代の「AYA世代」と呼ばれる患者の10年後の生存率を初めて集計し、公表しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333521000.html",
-          "publishedOn": "2024-01-24T20:57:25.000Z",
-          "wordCount": 1107,
-          "title": "小児・「AYA世代」 がん患者 10年後の生存率 初公表",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333521_2401250550_0125055116_01_03.jpg"
         }
       ]
     },
@@ -29279,6 +29324,16 @@
       "siteUrl": "https://note.com/hima_kuuhaku",
       "articles": [
         {
+          "id": "https://note.com/hima_kuuhaku/n/n5f82f10ee6e8",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n5f82f10ee6e8",
+          "publishedOn": "2024-02-23T09:03:10.000Z",
+          "wordCount": 2401,
+          "title": "ライブ用ネギPickup",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c4bd0c7dd0b6a4c813d25f35490a85043e18bc52.png"
+        },
+        {
           "id": "https://note.com/hima_kuuhaku/n/n18ee68c7806e",
           "author": null,
           "description": "力王 10 (ビジネスジャンプコミックス)amzn.to 51円(2024年02月12日 01:21時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
@@ -29642,6 +29697,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033319.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：うんち(茸) [MX]：2024/02/22(木) 17:44:24.99 ID:hx17skv70.net \n\n\n\n\n\n\n\n\n\n【もう2度と言わないで】「うどん“で”いいよ」→妻が5年間も抱えていたモヤモヤに、共感の声続出「麺類は簡単じゃない」「悪気はなく、本当に分かってない」 https://t.co/jsaQ2SYlT3 ⬇...",
+          "link": "https://itainews.com/archives/2033319.html",
+          "publishedOn": "2024-02-23T09:01:45.000Z",
+          "wordCount": 2543,
+          "title": "クソ夫「うどん“で”いいよ」妻「は！？麺類は簡単じゃねーんだよ！2度と言うな」クソ「了解w」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/b/db368880-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033323.html",
           "author": "damono3856",
