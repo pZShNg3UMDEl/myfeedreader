@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T20:37:52.796Z</updated>
+    <updated>2024-02-23T20:50:30.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾TSMC 熊本の半導体工場完成 第2工場も政府補助で建設へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240224/k10014369011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240224/k10014369011000.html"/>
+        <updated>2024-02-23T20:21:10.000Z</updated>
+        <summary type="html"><![CDATA[半導体の受託生産で世界最大手、台湾のTSMCが日本で初めて建設した工場が熊本県で完成し、ことしの年末までに本格稼働します。会社は第2工場の建設も予定していて、政府は巨額の支援で重要性が高まる半導体産業の誘致を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大相撲】元横綱白鵬の宮城野親方　２階級降格で平年寄に「師匠としての素養、自覚が大きく欠如」異例の処分案も発表]]></title>
         <id>https://itainews.com/archives/2033329.html</id>
