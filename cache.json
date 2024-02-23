@@ -2779,21 +2779,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120461/",
-          "author": null,
-          "description": "漫画「殿と犬」のアニメ化が決定し、原作者の西田理英氏による描き下ろしティザービジュアルが披露された。 「COMIC ポラリス」で連載中の同作は、没落して貧乏長屋暮らしをおくる元武士の殿が、偶然出...",
-          "link": "https://anime.eiga.com/news/120461/",
-          "publishedOn": "2024-01-25T03:00:00.000Z",
-          "wordCount": 760,
-          "title": "「殿と犬」アニメ化決定　コーギーと元武士の“主従暮らし”をコミカルに描く",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2802,6 +2787,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98523",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/21(水) 23:53:38.46 ID:cPe/pv+D0 面白いんかな？  […]",
+          "link": "https://switchsoku.com/soft/megaten/98523",
+          "publishedOn": "2024-02-23T15:00:55.000Z",
+          "wordCount": 10125,
+          "title": "完全版『真・女神転生V Vengeance』 2024年6月21日発売",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/megamitenseiVV.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98517",
           "author": "SWITCH速報",
@@ -5825,6 +5820,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240224/k10014369071000.html",
+          "author": null,
+          "description": "アメリカのバイデン大統領は23日、ロシアがウクライナに軍事侵攻を開始して、2月24日で2年になるのにあわせて声明を発表し、ロシアの500を超える団体や個人に新たな制裁を科すと明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240224/k10014369071000.html",
+          "publishedOn": "2024-02-23T15:03:02.000Z",
+          "wordCount": 625,
+          "title": "バイデン大統領 ロシアの500超の団体や個人へ新たな制裁を発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240224/K10014369071_2402232115_0224000305_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240223/k10014369101000.html",
           "author": null,
@@ -22704,26 +22709,6 @@
           "wordCount": 488,
           "title": "自民 森山派が解散を決定  党内6派閥のうち4つが解散へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014334041_2401251219_0125121954_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014334021000.html",
-          "author": null,
-          "description": "能登半島地震の影響で運休となっていた、金沢市と被災した地域を結ぶバスの運行が25日から一部で再開しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014334021000.html",
-          "publishedOn": "2024-01-25T02:59:45.000Z",
-          "wordCount": 635,
-          "title": "金沢と被災地域結ぶ北陸鉄道の特急バス 一部で運行再開",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014334021_2401251150_0125115947_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333901000.html",
-          "author": null,
-          "description": "北朝鮮は、新型の戦略巡航ミサイル「プルファサル」の初めての発射実験を、24日に行ったと発表しました。北朝鮮は、日本や韓国にあるアメリカ軍の基地などをたたくため巡航ミサイルの性能の向上を図っています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333901000.html",
-          "publishedOn": "2024-01-25T02:53:38.000Z",
-          "wordCount": 583,
-          "title": "北朝鮮 新型戦略巡航ミサイル「プルファサル」発射実験を実施",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333901_2401250826_0125092921_01_02.jpg"
         }
       ]
     },
@@ -22769,6 +22754,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=237011",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年2月17日から2月23日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキ […]",
+          "link": "https://foodfighter.jp/ranking-2024-0224",
+          "publishedOn": "2024-02-23T15:02:15.000Z",
+          "wordCount": 1865,
+          "title": "【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年2月17日から2月23日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/33ba53064b8e4ddfe3eff022b01d43ce.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=236991",
           "author": "foodfighter",
@@ -24178,16 +24173,6 @@
           "wordCount": 1891,
           "title": "【松屋】牛めし豚汁セット【冬の豚汁祭り・お得なセットメニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/b11f5d230313999bc4493b9258337697.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=233981",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「麺たっぷり 背脂醤油まぜそば」を世界一詳しく調査しました。   公式YouTubeチャンネル […]",
-          "link": "https://foodfighter.jp/711sej-seabura-mazesoba",
-          "publishedOn": "2024-01-25T03:00:55.000Z",
-          "wordCount": 1843,
-          "title": "【セブンイレブン】麺たっぷり 背脂醤油まぜそば【新作中華麺】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/65fb3f127e4d8034c4642daba93aca02.jpg"
         }
       ]
     },
@@ -29345,16 +29330,6 @@
           "wordCount": 752,
           "title": "テスラ、2025年後半にも「2.5万ドルの安価な新型EV」発売を目指す",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2022/06/1dda943d479e3bce49abe1190fbd0dd3.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=66827",
-          "author": "多根清史",
-          "description": "アップルの次期フラッグシップ機のうち、最上位モデル「iPhone 16 Pro Max」に関しては、様々な噂が伝えられてきた。画面サイズが6.9インチとなり「iPhone史上最大」になることや、望遠レンズがさらに強化されるという具合だ。 それらに続き、より大幅に進化したメインカメラセンサーを搭載し、 […]",
-          "link": "https://gadget.phileweb.com/post-66827/",
-          "publishedOn": "2024-01-25T02:59:54.000Z",
-          "wordCount": 797,
-          "title": "iPhone 16 Pro Max、メインカメラ大幅強化で「画像フラグシップ」になる可能性",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2374219029.jpg"
         }
       ]
     },
@@ -33116,16 +33091,6 @@
           "wordCount": 2343,
           "title": "使い捨てアルカリ電池を再充電。エコで経済的な充電器を産経デジタルが伝える。8800円",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/d/6dce8e11-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032486.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：Ailuropoda melanoleuca ★：2024/01/24(水) 18:46:28.71 ID:gWRiw3z49.net\n\n\n\n\n\n\n\n\n\n“大谷ブローブ”子どもたちに届かず…市役所展示で物議 「勝手に展示するな」「市長の私物のように感じる」批判殺到　大分・別府市 https://t.co/TbeYsX9uXX— OBSニュース（大分...",
-          "link": "https://itainews.com/archives/2032486.html",
-          "publishedOn": "2024-01-25T03:01:14.000Z",
-          "wordCount": 2325,
-          "title": "\"大谷グローブ\"子どもたちに届かず…市役所展示で物議 ｢勝手に展示するな｣｢市長の私物のように感じる｣批判殺到 大分・別府市",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/8/88ba232b-s.png"
         }
       ]
     },
