@@ -5741,6 +5741,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368771000.html",
+          "author": null,
+          "description": "中国東部の高架道路で23日朝、凍結が原因とみられる大規模な追突事故がありました。地元のメディアはおよそ100台の車が巻き込まれたと伝えていて、現場の映像にはほぼ垂直に押し上げられている車も映っていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368771000.html",
+          "publishedOn": "2024-02-23T08:46:17.000Z",
+          "wordCount": 569,
+          "title": "中国東部の高架道路で約100台の車巻き込む追突事故 凍結原因か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368771_2402231730_0223174619_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368761000.html",
+          "author": null,
+          "description": "ロシアのウクライナ侵攻が2年となる中、ヨーロッパではシンクタンクによる世論調査で、ウクライナが勝利して終結すると考えている人は、10％にとどまることがわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240223/k10014368761000.html",
+          "publishedOn": "2024-02-23T08:43:40.000Z",
+          "wordCount": 633,
+          "title": "軍事侵攻2年 “ウクライナ勝利し終結”が10％ 欧州の世論調査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240223/K10014368761_2402231737_0223174342_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240223/k10014368721000.html",
           "author": null,
           "description": "韓国軍は、米韓の空軍が23日、共同訓練を行ったと発表しました。北朝鮮が巡航ミサイルの発射を異例の頻度で繰り返す中、最新鋭のステルス戦闘機も参加して、巡航ミサイルを迎撃するための対応などを確認したとしています。",
@@ -22599,16 +22619,6 @@
           "wordCount": 1107,
           "title": "小児・「AYA世代」 がん患者 10年後の生存率 初公表",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333521_2401250550_0125055116_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html",
-          "author": null,
-          "description": "中国内陸部・江西省にある雑居ビルで24日に火災が起き、これまでに39人が死亡しました。警察当局は、ビルで行われていた工事中に火花が引火した可能性があるとして、詳しい原因を調べています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html",
-          "publishedOn": "2024-01-24T20:36:27.000Z",
-          "wordCount": 591,
-          "title": "中国 江西省の雑居ビルで火災 少なくとも39人死亡 9人けが",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014333741_2401250535_0125053629_01_02.jpg"
         }
       ]
     },

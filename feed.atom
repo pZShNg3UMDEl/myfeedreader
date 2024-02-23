@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T08:35:26.068Z</updated>
+    <updated>2024-02-23T08:50:38.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国東部の高架道路で約100台の車巻き込む追突事故 凍結原因か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240223/k10014368771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240223/k10014368771000.html"/>
+        <updated>2024-02-23T08:46:17.000Z</updated>
+        <summary type="html"><![CDATA[中国東部の高架道路で23日朝、凍結が原因とみられる大規模な追突事故がありました。地元のメディアはおよそ100台の車が巻き込まれたと伝えていて、現場の映像にはほぼ垂直に押し上げられている車も映っていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軍事侵攻2年 “ウクライナ勝利し終結”が10％ 欧州の世論調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240223/k10014368761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240223/k10014368761000.html"/>
+        <updated>2024-02-23T08:43:40.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのウクライナ侵攻が2年となる中、ヨーロッパではシンクタンクによる世論調査で、ウクライナが勝利して終結すると考えている人は、10％にとどまることがわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米韓の空軍が共同訓練 北朝鮮の巡航ミサイル対応など確認]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240223/k10014368721000.html</id>
@@ -37595,16 +37615,6 @@ https://approach.yahoo.co.jp/r/QUyH...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333521000.html"/>
         <updated>2024-01-24T20:57:25.000Z</updated>
         <summary type="html"><![CDATA[全国のがん拠点病院などでがんと診断された人のデータをもとに国立がん研究センターが小児や10代後半から30代の「AYA世代」と呼ばれる患者の10年後の生存率を初めて集計し、公表しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国 江西省の雑居ビルで火災 少なくとも39人死亡 9人けが]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240125/k10014333741000.html"/>
-        <updated>2024-01-24T20:36:27.000Z</updated>
-        <summary type="html"><![CDATA[中国内陸部・江西省にある雑居ビルで24日に火災が起き、これまでに39人が死亡しました。警察当局は、ビルで行われていた工事中に火花が引火した可能性があるとして、詳しい原因を調べています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
