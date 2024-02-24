@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T21:10:31.138Z</updated>
+    <updated>2024-02-24T21:20:27.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルで人質の解放求める抗議デモ 一部が警察と衝突]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014369821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014369821000.html"/>
+        <updated>2024-02-24T21:17:05.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルでは、ガザ地区でのイスラム組織ハマスとの衝突で人質の解放が進まないことに不満をもつ市民が激しい抗議デモを行い、警察が出動して鎮圧にあたる事態となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免疫不全の感染者支援 新型コロナ診療で指針案を新たに作成へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240225/k10014369651000.html</id>
@@ -36505,16 +36515,6 @@ The SWIR capabilities of the Acuros GO make it valuable…]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240126/k10014336221000.html"/>
         <updated>2024-01-26T09:24:55.000Z</updated>
         <summary type="html"><![CDATA[インターネットを通じたNHKの番組などの提供について、総務省の作業部会は、地上波テレビ放送に加え、ラジオ・衛星・国際放送の番組なども原則必須業務化すべきとし、衛星放送は実施環境が整うまで、当面見送ることが適当だとする報告書案をまとめました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動車メーカーなど6社 計36車種 約48万台のリコール届け出]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240126/k10014336261000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014336261000.html"/>
-        <updated>2024-01-26T09:13:56.000Z</updated>
-        <summary type="html"><![CDATA[自動車メーカーなど6社は、燃料ポンプの不具合でエンジンが止まるおそれがあるとして、あわせて36車種、およそ48万台のリコールを国土交通省に届け出ました。燃料ポンプは自動車部品メーカーのデンソーが製造したもので、同じ不具合でのリコールは国内で、合わせておよそ430万台となりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
