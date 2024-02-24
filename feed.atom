@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T09:35:26.062Z</updated>
+    <updated>2024-02-24T09:50:26.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「棋王戦」第2局 藤井八冠が伊藤七段に勝利 藤井八冠の1勝に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240224/k10014369481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240224/k10014369481000.html"/>
+        <updated>2024-02-24T09:48:31.000Z</updated>
+        <summary type="html"><![CDATA[将棋の八大タイトルの1つ、「棋王戦」五番勝負の第2局が金沢市で行われ、連覇を目指す藤井聡太八冠（21）が、挑戦者の伊藤匠七段（21）に勝ちました。富山県で行われた第1局は互いの「玉」が詰む見込みがなくなる「持将棋（じしょうぎ）」となり、規定によって引き分けとなったため、これで藤井八冠の1勝となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニソン歌手　「靖国神社なんて廃社すれば良い」]]></title>
         <id>https://itainews.com/archives/2033343.html</id>
@@ -36910,16 +36920,6 @@ The SWIR capabilities of the Acuros GO make it valuable…]]></summary>
 アヒル一家にベッドを占領されてしまう猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[発達障害の通級指導 都内4割以上の自治体で数か月程度の遅れ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335021000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335021000.html"/>
-        <updated>2024-01-25T21:47:27.000Z</updated>
-        <summary type="html"><![CDATA[発達障害の子どもが、学校で学習や生活の困難を克服する方法を学ぶ「通級指導」が、検査体制の問題などにより、東京都内の4割以上の自治体で、利用に数か月程度の遅れが生じていることが分かりました。子どものなかには、不登校になるケースもあり、専門家は「支援の充実を急ぐべきだ」としています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
