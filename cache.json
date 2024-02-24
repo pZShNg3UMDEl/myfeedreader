@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120616/",
+          "author": null,
+          "description": "声優、アイドルとして活躍する芹澤優の最新写真集のタイトルが「Miss Me（私を恋しいと思って）」に決まり、表紙カット（通常版とAmazon版）が公開された。同時発売の「芹澤優カレンダー2024...",
+          "link": "https://anime.eiga.com/news/120616/",
+          "publishedOn": "2024-02-24T12:00:00.000Z",
+          "wordCount": 947,
+          "title": "芹澤優史上、最も大人っぽい表情　ぬれ髪、ランジェリー姿の写真集＆カレンダー表紙が公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120629/",
           "author": null,
           "description": "SFロボットアニメ「超時空要塞マクロス」が、タカラトミーのダイキャスト製ミニカーブランド「トミカ」の大人向けシリーズ「トミカプレミアムunlimited」と初コラボレーションし、4月中旬に3アイ...",
@@ -2773,6 +2788,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98555",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/24(土) 06:12:26.12 ID:bwlm1OQh0 キングダムカムデ […]",
+          "link": "https://switchsoku.com/soft/98555",
+          "publishedOn": "2024-02-24T12:00:55.000Z",
+          "wordCount": 10066,
+          "title": "Swich版『キングダムカム・デリバランス ロイヤルエディション』2月22日発売‥ウィッチャー3を移植したSaber Interactive､またSwitchの本気を引き出す！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/6043972be6d5d0342181c34706add8343ddd78961d46e8a5453146a50390240f.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98547",
           "author": "SWITCH速報",
           "description": "1: 2024/02/24(土) 03:32:49.25 ID:o7APveXP0 魔法のSSDとは […]",
@@ -5056,16 +5081,6 @@
           "wordCount": 10047,
           "title": "Switchで『超魔界村』やったんだけどさ",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/tyou-makaimura.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97502",
-          "author": "SWITCH速報",
-          "description": "2024年1月25日、『逆転裁判456 王泥喜セレクション』が Nintendo Switchで発売 […]",
-          "link": "https://switchsoku.com/gyakutensaiban/97502",
-          "publishedOn": "2024-01-26T00:00:24.000Z",
-          "wordCount": 10070,
-          "title": "『逆転裁判456 王泥喜セレクション』が Nintendo Switchで発売",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/gyakuten-456.webp"
         }
       ]
     },
@@ -5251,6 +5266,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=9566",
+          "author": "watanabe@logipara.com",
+          "description": "夜： 「そう……やる……確定申告はやる……。やるが、まだ『いつ終わるか』は指定していない。つまり……。我々がその気になれば、10年、20年後ということも……可能だろう……ということ……！」 　 　 　 ※確定申告 […]",
+          "link": "https://logipara.com/diary-text/2024-02-25",
+          "publishedOn": "2024-02-24T11:55:57.000Z",
+          "wordCount": 4407,
+          "title": "確定申告をがんばった記録",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/02/image-2.png"
+        },
         {
           "id": "https://logipara.com/?p=9564",
           "author": "watanabe@logipara.com",
@@ -22484,26 +22509,6 @@
           "wordCount": 557,
           "title": "米FTC 生成AI主要5社に投資や提携の情報提供 命令",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335331_2401261015_0126102703_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014335291000.html",
-          "author": null,
-          "description": "東京23区の今月の消費者物価指数は、速報値で、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より1.6％の上昇となりました。上昇率は、先月から0.5ポイント下がり、おととし5月以来の1％台となりました。このうち「生鮮食品を除く食料」は去年の同じ月より5.7％上昇しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014335291000.html",
-          "publishedOn": "2024-01-26T00:13:03.000Z",
-          "wordCount": 801,
-          "title": "東京23区の消費者物価指数 前年同月比1.6％上昇",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014335291_2401260902_0126090421_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014334951000.html",
-          "author": null,
-          "description": "能登半島地震の被災者を支援するため、石川県が受け付けている義援金は24日の時点で100億円を上回りました。県は被災した人たちにできるだけ早く届けられるよう調整するとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014334951000.html",
-          "publishedOn": "2024-01-26T00:07:38.000Z",
-          "wordCount": 509,
-          "title": "能登半島地震 被災者支援の義援金 100億円を上回る",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014334951_2401252212_0125221351_01_02.jpg"
         }
       ]
     },
@@ -23958,16 +23963,6 @@
           "wordCount": 1838,
           "title": "【ミニストップ】プレミアムほうじ茶ショコラソフト【新作コールドスイーツ】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/0a1f1d11556cd9b6b1176ecdc830231d.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=234081",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ほうれん草とベーコンのバター醤油パスタ」を世界一詳しく調査しました。   公式YouTube […]",
-          "link": "https://foodfighter.jp/711sej-spinach-bacon-pasta-2024",
-          "publishedOn": "2024-01-25T23:52:31.000Z",
-          "wordCount": 1838,
-          "title": "【セブンイレブン】ほうれん草とベーコンのバター醤油パスタ【新作コンビニパスタ】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/a7c4d9c2eeec7cbe65e9b0798a73c4eb.jpg"
         }
       ]
     },
@@ -24225,16 +24220,6 @@
           "wordCount": 2681,
           "title": "10μm未満の高精度測定を実現、高外部磁場耐性のリニア型TMR位置センサー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/29/cover_news036.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/26/news074.html",
-          "author": null,
-          "description": "アンリツは、同社が開発、製造する高精度帯域制御装置「PureFlow」シリーズの新製品「PureFlow AS1」を、販売代理店となるSCSKから発売した。ドメインフィルター機能やSNI識別機能、アクティブモニター機能を追加している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/26/news074.html",
-          "publishedOn": "2024-01-26T00:00:00.000Z",
-          "wordCount": 2665,
-          "title": "クラウド通信環境に適した高精度帯域制御装置",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/26/cover_news074.jpg"
         }
       ]
     },
@@ -27772,16 +27757,6 @@
           "wordCount": 1636,
           "title": "アメショー子猫の寝落ちっぷりが可愛すぎる件",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67245.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67280",
-          "author": "299",
-          "description": "保護されて24日めの子猫のマロンちゃんが抱っこされてじっとしています。おてんばなマロンちゃんですが飼い主さんに抱っこされると、すぐにおとなしくなります。 キラキラしているマロンちゃんの目に吸い込まれそうになりますね〜。優...\n抱っこしてトントンされるとすぐに夢のなかへ〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67280",
-          "publishedOn": "2024-01-26T00:00:10.000Z",
-          "wordCount": 1624,
-          "title": "抱っこしてトントンされるとすぐに夢のなかへ〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67280.jpeg"
         }
       ]
     },
@@ -29427,6 +29402,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033355.html",
+          "author": "damono3856",
+          "description": "1 名前：Ikhtiandr ★：2024/02/24(土) 12:22:02.02 ID:AHTBVXDU9.net\n\n\n\n\n\n\n\nサンリオピューロランドに「テロ予告メール」　24日は臨時休館に #FNNプライムオンライン https://t.co/NkoXYIlxnw— FNNプライムオンライン (@FNN_News) February 24, 2024  \n\n\n\n\n\n\n東京・多...",
+          "link": "https://itainews.com/archives/2033355.html",
+          "publishedOn": "2024-02-24T12:06:49.000Z",
+          "wordCount": 2341,
+          "title": "【事件】サンリオピューロランドに「テロ予告メール」　24日は臨時休館に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/d/1d338a02-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033347.html",
           "author": "yonepo665sfr",
@@ -33033,16 +33018,6 @@
           "wordCount": 1146,
           "title": "【開店】厚木一番街のキニナル工事は「スギドラッグ」で確定！2月22日（木）オープンみたい。ドラッグストア激戦区が実現…！［厚木市中町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/sugid-202401.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=40544",
-          "author": "fumie",
-          "description": "こんにちは、ふみえ＠あつらぼです。 今回は愛甲石田エリアの閉店情報が入ってまいりました…。 愛甲石田駅すぐ近くの「京都ラーメン森井　愛甲石田店」が1月31日（水）をもって閉店してしまうそうです。 まずは場所からご案内いたします。 「京都ラー…",
-          "link": "https://atsugi-lab.com/close-ramenmorii202401/",
-          "publishedOn": "2024-01-26T00:18:29.000Z",
-          "wordCount": 1155,
-          "title": "【悲報】愛甲石田駅すぐ近く「京都ラーメン森井　愛甲石田店」が1月31日をもって閉店→2月になにか動きがある模様！？［厚木市愛甲］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/01/aiko-morii202401-1.jpg"
         }
       ]
     },
