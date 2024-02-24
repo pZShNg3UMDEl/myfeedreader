@@ -5811,6 +5811,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240225/k10014369811000.html",
+          "author": null,
+          "description": "ロシアのプーチン政権への批判を続け刑務所で死亡した反体制派の指導者ナワリヌイ氏をめぐり、24日、支援団体は、これまで当局側が拒んできた母親への遺体の引き渡しが行われたと明らかにしました。今月16日に発表されたナワリヌイ氏の死亡をめぐってはプーチン政権が関与したのではないかという疑惑が指摘されていますが、遺体の引き渡しによって遺族側による検証につながるのかは不透明です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240225/k10014369811000.html",
+          "publishedOn": "2024-02-24T17:22:31.000Z",
+          "wordCount": 433,
+          "title": "ナワリヌイ氏の遺体 母親に引き渡し 支援団体が明らかに",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240225/K10014369811_2402250220_0225022233_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240225/k10014369761000.html",
           "author": null,
           "description": "サッカー女子のパリオリンピックアジア最終予選の第1戦が24日、サウジアラビアのジッダで行われ、日本代表「なでしこジャパン」は北朝鮮に0対0で引き分けました。最終予選はホームアンドアウェー方式で2試合を戦い、合計得点の多いチームがパリオリンピックの出場権を獲得します。第2戦は28日、東京・国立競技場で行われます。",
@@ -28850,26 +28860,6 @@
           "wordCount": 755,
           "title": "SwitchBot、スマートリモコン「ハブミニ」にMatter対応モデル登場",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/hubmini1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=66957",
-          "author": "Munenori Taniguchi",
-          "description": "ソニーは、PlayStation 5のシステムソフトウェアアップデート（24.01-08.60.00）により、Cronus Zenと呼ばれるコンバーター製品の使用を無効化した。 コンバーターとは、本来なら認証されたコントローラーしか使用できないところに、別のゲーム機のコントローラーや、PCのマウス／ […]",
-          "link": "https://gadget.phileweb.com/post-66957/",
-          "publishedOn": "2024-01-26T05:16:53.000Z",
-          "wordCount": 786,
-          "title": "PS5、システムアップデートで不正ツール「Cronus Zen」を排除",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/mwiii.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=67004",
-          "author": "多根清史",
-          "description": "米マイクロソフトが、Xbox事業と傘下のアクティビジョン・ブリザードを含めて、ゲーム部門の人員を約1900人レイオフすることが明らかになった。米Bloombergほか複数の海外メディアが、Xboxトップのフィル・スペンサー氏による内部メモを入手したと報じている。 この人員削減は、同社ゲーム部門全体（ […]",
-          "link": "https://gadget.phileweb.com/post-67004/",
-          "publishedOn": "2024-01-26T05:13:49.000Z",
-          "wordCount": 862,
-          "title": "マイクロソフト、ゲーム部門を約1900人解雇。パッケージゲーム販売部署も閉鎖の可能性",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/shutterstock_2108556695.jpg"
         }
       ]
     },

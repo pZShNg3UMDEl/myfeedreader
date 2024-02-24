@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T17:12:35.844Z</updated>
+    <updated>2024-02-24T17:28:24.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナワリヌイ氏の遺体 母親に引き渡し 支援団体が明らかに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014369811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014369811000.html"/>
+        <updated>2024-02-24T17:22:31.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのプーチン政権への批判を続け刑務所で死亡した反体制派の指導者ナワリヌイ氏をめぐり、24日、支援団体は、これまで当局側が拒んできた母親への遺体の引き渡しが行われたと明らかにしました。今月16日に発表されたナワリヌイ氏の死亡をめぐってはプーチン政権が関与したのではないかという疑惑が指摘されていますが、遺体の引き渡しによって遺族側による検証につながるのかは不透明です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年2月18日から2月24日】]]></title>
         <id>https://foodfighter.jp/?p=237096</id>
@@ -36724,26 +36734,6 @@ The SWIR capabilities of the Acuros GO make it valuable…]]></summary>
         <summary type="html"><![CDATA[「京都アニメーション」のスタジオに放火し、社員36人を殺害したなどとして死刑判決が言い渡された青葉真司被告の弁護士が26日、判決を不服として控訴しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS5、システムアップデートで不正ツール「Cronus Zen」を排除]]></title>
-        <id>https://gadget.phileweb.com/?p=66957</id>
-        <link href="https://gadget.phileweb.com/post-66957/"/>
-        <updated>2024-01-26T05:16:53.000Z</updated>
-        <summary type="html"><![CDATA[ソニーは、PlayStation 5のシステムソフトウェアアップデート（24.01-08.60.00）により、Cronus Zenと呼ばれるコンバーター製品の使用を無効化した。 コンバーターとは、本来なら認証されたコントローラーしか使用できないところに、別のゲーム機のコントローラーや、PCのマウス／ […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト、ゲーム部門を約1900人解雇。パッケージゲーム販売部署も閉鎖の可能性]]></title>
-        <id>https://gadget.phileweb.com/?p=67004</id>
-        <link href="https://gadget.phileweb.com/post-67004/"/>
-        <updated>2024-01-26T05:13:49.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロソフトが、Xbox事業と傘下のアクティビジョン・ブリザードを含めて、ゲーム部門の人員を約1900人レイオフすることが明らかになった。米Bloombergほか複数の海外メディアが、Xboxトップのフィル・スペンサー氏による内部メモを入手したと報じている。 この人員削減は、同社ゲーム部門全体（ […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
