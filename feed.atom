@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T03:15:27.697Z</updated>
+    <updated>2024-02-24T03:36:23.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 南京の高層マンションで火災 15人死亡 44人けが]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240224/k10014369311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240224/k10014369311000.html"/>
+        <updated>2024-02-24T03:34:23.000Z</updated>
+        <summary type="html"><![CDATA[中国江蘇省の南京にある高層マンションで23日、火事があり、地元当局によりますとこれまでに15人が死亡し、44人がけがをしました。当局は、マンションにある電動自転車の置き場から出火したとみて、火事の詳しい原因を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北青鵬、引退　後輩力士の睾丸に張り手、殺虫剤バーナーで焼く、丸太状の棒で尻を撲る]]></title>
         <id>https://itainews.com/archives/2033341.html</id>
