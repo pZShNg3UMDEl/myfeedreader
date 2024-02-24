@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T20:12:04.446Z</updated>
+    <updated>2024-02-24T20:22:06.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 被災した飲食店など 避難者に“温かい料理”提供]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014369801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014369801000.html"/>
+        <updated>2024-02-24T20:15:16.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で避難している人たちに食べてもらおうと、みずからも被災した石川県珠洲市の飲食店の人などが、金沢市で、コロッケなどの温かい料理を提供して交流を深めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“絶滅おそれ高い”中国固有のオオサンショウウオ 日本で発見]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240225/k10014369561000.html</id>
@@ -36524,16 +36534,6 @@ The SWIR capabilities of the Acuros GO make it valuable…]]></summary>
         <summary type="html"><![CDATA[SB C&Sは、TCL COMMUNICATION TECHNOLOGY HOLDINGS（TCL）のAndroidタブレット「TCL TAB 10 Gen 2」を、本日1月26日に発売した。価格はオープンだが、市場では税込24,800円前後での実売が予想される。 独自の高画質技術「NXTV […]]]></summary>
         <author>
             <name>編集部：伴 修二郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[２次避難先 食事提供なく 避難所戻る人も【被災地の声 26日】]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240126/k10014335581000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014335581000.html"/>
-        <updated>2024-01-26T08:14:35.000Z</updated>
-        <summary type="html"><![CDATA[「いつまで避難生活が続くかわからないので…今は2次避難を断念せざるをえないという心境です」断水が続く能登町で、避難所に身を寄せている男性の話です。「食事の提供を受けられる施設がない」と聞いて、2次避難所への移動を断念するしかなかったと言います。NHKのニュースポストには「いったん2次避難したもののサポートがなく、もとの避難所に戻ることにした」という情報も寄せられています。「被災地の声」です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
