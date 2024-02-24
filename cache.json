@@ -4966,16 +4966,6 @@
           "wordCount": 10070,
           "title": "『逆転裁判456 王泥喜セレクション』が Nintendo Switchで発売",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/gyakuten-456.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97498",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/25(木) 12:08:59.29 ID:2jbPy5dT0 #ファミコン国民 […]",
-          "link": "https://switchsoku.com/ds/97498",
-          "publishedOn": "2024-01-25T14:00:41.000Z",
-          "wordCount": 10014,
-          "title": "ファミコン国民投票 第28回テーマ「中」といえば？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/07/fc-touhytou.webp"
         }
       ]
     },
@@ -5706,6 +5696,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240224/k10014369241000.html",
+          "author": null,
+          "description": "上川外務大臣は訪問先のパナマで、中南米諸国と連携を強化するための外交指針「中南米外交イニシアティブ」を発表し、経済に加え海洋政策やジェンダーなどの分野でも協力を深めていく考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240224/k10014369241000.html",
+          "publishedOn": "2024-02-24T01:59:05.000Z",
+          "wordCount": 525,
+          "title": "上川外相「中南米外交イニシアティブ」を発表 連携強化の指針",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240224/K10014369241_2402241043_0224105907_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240224/k10014369231000.html",
+          "author": null,
+          "description": "アメリカ大統領選挙に向けた野党・共和党の候補者選びは4つ目の州となる南部サウスカロライナ州で24日、予備選挙が行われます。トランプ前大統領をヘイリー元国連大使が追う展開となっていて、投票日前日、双方が集会を開き、支持を訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240224/k10014369231000.html",
+          "publishedOn": "2024-02-24T01:56:13.000Z",
+          "wordCount": 708,
+          "title": "米共和党 24日に予備選挙 トランプ氏をヘイリー氏が追う展開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240224/K10014369231_2402241048_0224105615_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240224/k10014369211000.html",
           "author": null,
           "description": "ロシアによるウクライナへの軍事侵攻が始まって2年となるのを前に、国連の安全保障理事会ではウクライナを支援する欧米とロシアとの間で再び非難の応酬が繰り広げられました。一方で食料価格の高騰などの影響を受けるアフリカ各国からは交渉による速やかな事態の打開を求める意見も出され、各国の立場の違いも表面化しました。",
@@ -5714,6 +5724,16 @@
           "wordCount": 790,
           "title": "軍事侵攻2年 国連安保理 欧米とロシア 再び非難の応酬",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240224/K10014369211_2402241010_0224103229_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240224/k10014369181000.html",
+          "author": null,
+          "description": "アメリカの半導体大手、エヌビディアの株価が上昇し、企業の価値を示す時価総額が、一時、初めて2兆ドル、日本円で300兆円を超えました。生成AIの利用の急速な拡大が背景にあり、時価総額が2兆ドルを超えるのはアメリカの株式市場ではIT大手のアップルとマイクロソフトに次いで3番目です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240224/k10014369181000.html",
+          "publishedOn": "2024-02-24T00:41:35.000Z",
+          "wordCount": 596,
+          "title": "米エヌビディア 株価上昇し時価総額が一時2兆ドル超に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240224/K10014369181_2402240941_0224094137_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240224/k10014369161000.html",
@@ -22394,16 +22414,6 @@
           "wordCount": 199,
           "title": "NHK福島放送局記者を諭旨免職 飲酒運転で事故",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014334811_2401251950_0125195116_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240125/k10014335161000.html",
-          "author": null,
-          "description": "自民党の派閥の政治資金パーティーをめぐり、池田佳隆 衆議院議員が逮捕された事件で、東京地検特捜部の調べに対し池田議員の一部の秘書が「議員の指示で事務所のパソコンをドライバーなどの工具で壊した」などと話していることが関係者への取材で新たにわかりました。特捜部は勾留期限の26日、政治資金規正法違反の虚偽記載の罪で池田議員らを起訴するものとみられます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240125/k10014335161000.html",
-          "publishedOn": "2024-01-25T14:03:29.000Z",
-          "wordCount": 617,
-          "title": "ドライバーでPC破壊か 池田佳隆衆院議員らを26日に起訴へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240125/K10014335161_2401252254_0125225444_01_02.jpg"
         }
       ]
     },
@@ -24143,6 +24153,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69088",
+          "author": "299",
+          "description": "赤ちゃん猫たちがカーペットの上でモゾモゾと動いています。あたりの様子に興味があるようでしきりに匂いを嗅いでいるようです。 手をそっと差し伸べてあげると、われ先にとゆらゆらしながらも力強い足取りで近づいてきます。 あっとい...\nおなかがすいた赤ちゃん猫たちが保護主さんの指をチュウチュウ吸っています first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69088",
+          "publishedOn": "2024-02-24T02:00:20.000Z",
+          "wordCount": 1401,
+          "title": "おなかがすいた赤ちゃん猫たちが保護主さんの指をチュウチュウ吸っています",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69088.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69126",
           "author": "299",
@@ -32616,16 +32636,6 @@
           "wordCount": 2343,
           "title": "【闇深】松本人志、敏腕弁護士にオファーを次々断られる「勝算が無い」　吉本が文春へリーク",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/d/3db0e358-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032499.html",
-          "author": "damono3856",
-          "description": "1 名前：ニョキニョキ ★：2024/01/25(木) 09:25:57.38 ID:FBXnLDVD9.net\n\n\n\n\n\n\n\n「佐々木、覚えてろ！」殺害された組長の妻が法廷で絶叫　秋葉原刺殺事件で懲役７年の判決｜東スポWEB https://t.co/mxb1EnQzvI— 田村雄太郎 (@yutaro_tamura) January 25, 2024  \n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2032499.html",
-          "publishedOn": "2024-01-25T14:01:12.000Z",
-          "wordCount": 2346,
-          "title": "【秋葉原刺殺事件】ポケモンか親友か。注目の判決は懲役７年　「佐々木、覚えてろ！」殺害された組長の妻が法廷で絶叫",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/e/fec74732-s.png"
         }
       ]
     },
