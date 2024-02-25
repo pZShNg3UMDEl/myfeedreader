@@ -5701,6 +5701,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240225/k10014370021000.html",
+          "author": null,
+          "description": "低気圧や寒気の影響で、関東甲信の広い範囲で雨や雪が降っています。26日の明け方にかけて山沿いを中心に大雪となる見込みで、気象庁は積雪や路面の凍結による交通への影響などに注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240225/k10014370021000.html",
+          "publishedOn": "2024-02-25T03:22:38.000Z",
+          "wordCount": 606,
+          "title": "関東甲信で雨や雪 あすにかけ山沿い中心に大雪の見込み 注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240225/K10014370021_2402251154_0225121436_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240225/k10014370031000.html",
           "author": null,
           "description": "パリオリンピックの男子マラソン代表をかけた選考レースの1つ、大阪マラソンは、国学院大の3年生、平林清澄選手が速報タイムで初マラソンの日本選手最高記録を更新する2時間6分18秒のタイムで優勝を果たしました。一方、この大会で、代表内定の条件となる設定記録を突破した選手はいませんでした。",
@@ -22089,16 +22099,6 @@
           "wordCount": 787,
           "title": "石川県 ボランティアを被災地に派遣へ 家財の片付けなど",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014336481_2401261930_0126193753_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014336321000.html",
-          "author": null,
-          "description": "国土交通省は、ことし3月に開業予定の北陸新幹線の金沢・敦賀間で鉄道施設を検査した結果、安全性が確認されたとして、26日、JR西日本に営業を許可する合格書を交付しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014336321000.html",
-          "publishedOn": "2024-01-26T15:22:08.000Z",
-          "wordCount": 524,
-          "title": "北陸新幹線 3月開業予定の鉄道施設 安全確認で営業許可 国交省",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014336321_2401261743_0126174932_01_02.jpg"
         }
       ]
     },
@@ -32259,6 +32259,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41326",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 写真付きの情報提供頂きました！ありがとうございます♡ 2022年6月に惜しまれつつ閉店してしまった「ホームストア ヤマシタ」跡地に、 「薬CREATE（クリエイト）出店予定地」という看板が出現したそうです…",
+          "link": "https://atsugi-lab.com/news-create-shimoechi202402/",
+          "publishedOn": "2024-02-25T03:23:36.000Z",
+          "wordCount": 1119,
+          "title": "【出店予定】ホームストア ヤマシタ跡地に、ドラッグストア「CREATE（クリエイト）」が出店予定みたいー！［厚木市上依知］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/news-create2024.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41110",
           "author": "fumie",

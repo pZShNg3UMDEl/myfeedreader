@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T03:13:17.683Z</updated>
+    <updated>2024-02-25T03:25:38.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【出店予定】ホームストア ヤマシタ跡地に、ドラッグストア「CREATE（クリエイト）」が出店予定みたいー！［厚木市上依知］]]></title>
+        <id>https://atsugi-lab.com/?p=41326</id>
+        <link href="https://atsugi-lab.com/news-create-shimoechi202402/"/>
+        <updated>2024-02-25T03:23:36.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 写真付きの情報提供頂きました！ありがとうございます♡ 2022年6月に惜しまれつつ閉店してしまった「ホームストア ヤマシタ」跡地に、 「薬CREATE（クリエイト）出店予定地」という看板が出現したそうです…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関東甲信で雨や雪 あすにかけ山沿い中心に大雪の見込み 注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014370021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014370021000.html"/>
+        <updated>2024-02-25T03:22:38.000Z</updated>
+        <summary type="html"><![CDATA[低気圧や寒気の影響で、関東甲信の広い範囲で雨や雪が降っています。26日の明け方にかけて山沿いを中心に大雪となる見込みで、気象庁は積雪や路面の凍結による交通への影響などに注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪マラソン 国学院大の平林が初マラソン日本最高記録で優勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240225/k10014370031000.html</id>
@@ -36357,16 +36377,6 @@ The SWIR capabilities of the Acuros GO make it valuable…]]></summary>
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年1月20日から1月26日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキ […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北陸新幹線 3月開業予定の鉄道施設 安全確認で営業許可 国交省]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240127/k10014336321000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014336321000.html"/>
-        <updated>2024-01-26T15:22:08.000Z</updated>
-        <summary type="html"><![CDATA[国土交通省は、ことし3月に開業予定の北陸新幹線の金沢・敦賀間で鉄道施設を検査した結果、安全性が確認されたとして、26日、JR西日本に営業を許可する合格書を交付しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
