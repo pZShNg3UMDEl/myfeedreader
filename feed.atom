@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T21:35:34.063Z</updated>
+    <updated>2024-02-25T21:50:19.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震8週間 1万人超が避難所で暮らす 支援継続が課題に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370491000.html"/>
+        <updated>2024-02-25T21:36:06.000Z</updated>
+        <summary type="html"><![CDATA[最大で震度7の揺れを観測した能登半島地震から26日で8週間です。今も1万人を超える人たちが避難所で暮らしていて、支援をどう継続していくかが課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【すき家】塩さばたまかけ朝食・ごはんミニ【朝食メニュー】]]></title>
         <id>https://foodfighter.jp/?p=237168</id>
