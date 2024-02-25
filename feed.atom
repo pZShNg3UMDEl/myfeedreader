@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T11:36:14.464Z</updated>
+    <updated>2024-02-25T11:50:13.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スポーツクライミング スピード 安川潤が連覇 ジャパンカップ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014370371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014370371000.html"/>
+        <updated>2024-02-25T11:31:51.000Z</updated>
+        <summary type="html"><![CDATA[高さ15メートルの壁を登る速さを競うスポーツクライミング、スピードの日本一を決めるジャパンカップが佐賀県で行われ、男子はパリオリンピック出場を目指す20歳の安川潤選手が大会2連覇を果たし、女子は18歳の竹内亜衣選手が初優勝しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JR山手線 全線で運転再開]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240225/k10014370511000.html</id>
