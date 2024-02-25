@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T02:25:05.418Z</updated>
+    <updated>2024-02-25T02:37:15.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全国172の国公立大学で2次試験 前期日程始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014369971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014369971000.html"/>
+        <updated>2024-02-25T02:25:02.000Z</updated>
+        <summary type="html"><![CDATA[国公立大学の2次試験の前期日程が25日から始まり、全国172の大学で受験生が試験に臨んでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[桃鉄ゲーム監督「ゲームしかやっていない人は、正直に言うと、実際にはあまり使えないことが多いです」]]></title>
         <id>https://switchsoku.com/?p=98572</id>
@@ -25,6 +35,16 @@
 ぴょこぴょこ走る子犬の後ろ姿にキュン first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国民年金の最終納付率 80％台後半まで引き上げを 日本年金機構]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014369951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014369951000.html"/>
+        <updated>2024-02-25T01:59:37.000Z</updated>
+        <summary type="html"><![CDATA[自営業者などが加入する国民年金の保険料の「最終納付率」が昨年度、初めて80％を超えたことを受け、日本年金機構は来年度からの5年間で、これを80％台後半まで引き上げることを目指すなどとした中期計画をまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
