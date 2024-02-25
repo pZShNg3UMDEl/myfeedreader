@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T22:27:09.917Z</updated>
+    <updated>2024-02-25T22:37:17.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370551000.html"/>
         <updated>2024-02-25T22:10:11.000Z</updated>
         <summary type="html"><![CDATA[ロシアによるウクライナへの軍事侵攻から2年がたち、都内では25日、ウクライナを支援するチャリティーコンサートが開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都 北野天満宮 菅原道真をしのぶ「梅花祭」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370261000.html"/>
+        <updated>2024-02-25T22:07:33.000Z</updated>
+        <summary type="html"><![CDATA[学問の神様として知られる菅原道真をまつる京都の北野天満宮で、道真をしのぶ「梅花祭」が行われました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
