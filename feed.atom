@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T19:35:20.971Z</updated>
+    <updated>2024-02-25T19:50:16.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宝塚歌劇団 運営の親会社 角和夫会長が理事退任で最終調整]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370501000.html"/>
+        <updated>2024-02-25T19:34:35.000Z</updated>
+        <summary type="html"><![CDATA[宝塚歌劇団に所属する25歳の劇団員が死亡した問題をめぐって、歌劇団を運営する阪急電鉄の親会社「阪急阪神ホールディングス」の角和夫 会長が歌劇団の理事を退任する方向で最終的な調整を進めていることが関係者への取材で分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【石川 給水・入浴支援情報】輪島などで実施（26日の予定）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370541000.html"/>
+        <updated>2024-02-25T19:33:39.000Z</updated>
+        <summary type="html"><![CDATA[石川県内で26日予定されている給水支援の情報です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[郷土芸能の団体が一堂に「全国虎舞フェスティバル」岩手 釜石]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014370171000.html</id>
