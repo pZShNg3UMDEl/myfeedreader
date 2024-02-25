@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T12:43:50.311Z</updated>
+    <updated>2024-02-25T12:55:08.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“世界最大”プロジェクションマッピング 東京都庁に投影]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014370531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014370531000.html"/>
+        <updated>2024-02-25T12:48:35.000Z</updated>
+        <summary type="html"><![CDATA[東京都庁の建物に、日本の文化や観光名所をイメージした映像を投影する“世界最大”のプロジェクションマッピングが、25日夜から始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「神戸ブギ」を演奏 音楽家 服部良一さんの幻の作品 大阪]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240225/k10014370521000.html</id>
@@ -36627,26 +36637,6 @@ NHKネット配信で受信料徴収へ、NHKは受益者...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337031000.html"/>
         <updated>2024-01-27T01:09:40.000Z</updated>
         <summary type="html"><![CDATA[国と東京都は、保有する東京メトロの株式について来年度中にも売却を始める方向で調整を進めています。東京メトロの株式は▽国が53.4％、▽東京都が46.6％を保有していますが、売却して完全民営化する方針が決まっています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拒食症 “症状の重さ関係する脳の部位をつきとめた” 発表注目]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240127/k10014336711000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014336711000.html"/>
-        <updated>2024-01-27T00:53:57.000Z</updated>
-        <summary type="html"><![CDATA[太ることをおそれ食事を極端に制限してしまういわゆる拒食症について、国立精神・神経医療研究センターなどのグループが多くの患者の脳の画像を詳しく調べたところ、症状の重さに関係する脳の部位をつきとめたと発表し、拒食症をより正確に診断する技術につながるとして注目を集めています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輪島の土砂災害現場 「流れ盤」が地震の揺れで崩壊か]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240127/k10014336681000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014336681000.html"/>
-        <updated>2024-01-27T00:49:38.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震で複数の住宅が巻き込まれた石川県の輪島市市ノ瀬町の土砂災害の現場を専門家が調査した結果、地震の揺れで崩壊しやすい斜面と平行に地層が重なる地形だったことが分かりました。専門家は「地震では崖崩れだけでなく、規模の大きな土砂災害に注意が必要だ」と呼びかけています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
