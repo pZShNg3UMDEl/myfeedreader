@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T12:21:22.045Z</updated>
+    <updated>2024-02-25T12:43:50.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「神戸ブギ」を演奏 音楽家 服部良一さんの幻の作品 大阪]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240225/k10014370521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240225/k10014370521000.html"/>
+        <updated>2024-02-25T12:27:25.000Z</updated>
+        <summary type="html"><![CDATA[昭和を代表する音楽家、服部良一さんの幻の作品とされてきて、去年、遺品の中から楽譜が見つかった「神戸ブギ」を披露する演奏会が大阪市で開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【画像あり】　レトローゲーム屋さん　火災により全焼・・]]></title>
         <id>https://itainews.com/archives/2033383.html</id>
@@ -36639,26 +36649,6 @@ NHKネット配信で受信料徴収へ、NHKは受益者...]]></summary>
         <summary type="html"><![CDATA[能登半島地震で複数の住宅が巻き込まれた石川県の輪島市市ノ瀬町の土砂災害の現場を専門家が調査した結果、地震の揺れで崩壊しやすい斜面と平行に地層が重なる地形だったことが分かりました。専門家は「地震では崖崩れだけでなく、規模の大きな土砂災害に注意が必要だ」と呼びかけています。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学入学共通テスト きょうから追試験 金沢大学でも実施]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240127/k10014336701000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014336701000.html"/>
-        <updated>2024-01-27T00:37:07.000Z</updated>
-        <summary type="html"><![CDATA[「大学入学共通テスト」の追試験が27日から始まり、東京や京都など5つの会場に加え、能登半島地震を受けた特例措置として、石川県の金沢大学でも実施されます。大学入学共通テストの追試験は、今月13日と14日の本試験をインフルエンザや新型コロナの感染などで受けられなかった1629人を対象に、27日と28日に行われます。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【吉野家】W定食（牛皿・ねぎ塩牛カルビ定食）【定番メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=234175</id>
-        <link href="https://foodfighter.jp/yoshinoya-wteishoku-negishio"/>
-        <updated>2024-01-27T00:34:58.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTubeチャン […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
