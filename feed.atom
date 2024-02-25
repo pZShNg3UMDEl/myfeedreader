@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T23:12:37.330Z</updated>
+    <updated>2024-02-25T23:23:22.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370481000.html"/>
         <updated>2024-02-25T23:08:37.000Z</updated>
         <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手は25日、キャンプに入って4回目となる実戦形式の打撃練習を行い、日本時間の28日にも出場するとみられているオープン戦に備えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随時更新26日】戦闘の休止と人質の解放などを巡り交渉続く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370621000.html"/>
+        <updated>2024-02-25T23:01:14.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの間では、戦闘休止などを巡って交渉が続けられています。※イスラエルやパレスチナに関する日本時間2月26日の動きを随時、更新してお伝えします。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -36377,16 +36387,6 @@ AK氏のこれには『著作権侵害ダー！！！！』って言われてな
         <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337481000.html"/>
         <updated>2024-01-27T11:24:43.000Z</updated>
         <summary type="html"><![CDATA[派閥を存続させることにしている自民党麻生派の会長を務める麻生副総裁は講演で、政策集団としての派閥の役割を強化し、信頼回復を図る考えを強調しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[センバツ高校野球 日本航空石川は大会前の合宿を徳島で調整]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337471000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337471000.html"/>
-        <updated>2024-01-27T11:18:35.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県輪島市に学校がある日本航空石川高校が、センバツ高校野球への出場が決まったことを受けて、大会前の合宿を徳島県阿南市で行うため調整を進めていることがわかりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
