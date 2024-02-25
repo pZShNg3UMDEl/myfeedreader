@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T20:35:33.700Z</updated>
+    <updated>2024-02-25T20:50:13.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル首相 “交渉合意できても” 地上作戦 踏み切る考え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370461000.html"/>
+        <updated>2024-02-25T20:38:23.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの間では、戦闘休止などを巡って交渉が続けられています。ただ、ネタニヤフ首相は、交渉で合意できたとしてもハマスを壊滅するため、ガザ地区南部のラファへの地上作戦については、あくまでも踏み切る考えを強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベラルーシで議会選挙 ルカシェンコ大統領 7選へ立候補の考え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370451000.html"/>
+        <updated>2024-02-25T20:27:39.000Z</updated>
+        <summary type="html"><![CDATA[ロシアと同盟関係にあるベラルーシでは25日、国や地方の議会選挙が行われました。自身も投票に訪れたルカシェンコ大統領は、来年予定される大統領選挙に触れ、7期目に向けて立候補する考えを明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカー女子 北朝鮮代表が来日 パリ五輪最終予選で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014370651000.html</id>
@@ -36408,16 +36428,6 @@ AK氏のこれには『著作権侵害ダー！！！！』って言われてな
         <summary type="html"><![CDATA[永野芽郁と高橋文哉が初共演を果たし、山本崇一朗氏の大人気コミックを実写映画化する「映画 からかい上手の高木さん」の特報映像とティザービジュアルが、このほど公開された。本編映像の解禁は初となる。 ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曽我ひとみさん講演 “拉致被害者の帰国に力を貸して” 埼玉]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337381000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337381000.html"/>
-        <updated>2024-01-27T08:37:16.000Z</updated>
-        <summary type="html"><![CDATA[北朝鮮による拉致問題について知ってもらおうと、拉致被害者の曽我ひとみさんの講演が埼玉県川口市で行われ、被害者全員が日本に帰るまで力を貸してほしいと訴えました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
