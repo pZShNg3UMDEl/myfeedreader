@@ -5061,16 +5061,6 @@
           "wordCount": 10099,
           "title": "『風来のシレン6』面白すぎる",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/siren6.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97552",
-          "author": "SWITCH速報",
-          "description": "2: 2024/01/27(土) 11:31:43.31 ID:qNJ5aYfR0 ええんか？&#x […]",
-          "link": "https://switchsoku.com/soft/dragonquest/97552",
-          "publishedOn": "2024-01-27T05:00:56.000Z",
-          "wordCount": 10072,
-          "title": "ドラクエ3のHD2Dリメイク‥発表から3年近く経っても追加情報一切なし",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/dq3-re-4.webp"
         }
       ]
     },
@@ -5800,6 +5790,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370601000.html",
+          "author": null,
+          "description": "スノーボードのワールドカップは25日、ポーランドで女子パラレル大回転の今シーズン最終戦が行われ、去年の世界選手権で日本選手として初めて、この種目で金メダルを獲得した20歳の三木つばき選手が優勝しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370601000.html",
+          "publishedOn": "2024-02-25T16:00:06.000Z",
+          "wordCount": 720,
+          "title": "スノボ ワールドカップ 三木つばき 優勝 女子パラレル大回転",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370601_2402260051_0226010008_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370591000.html",
           "author": null,
@@ -22069,16 +22069,6 @@
           "wordCount": 1420,
           "title": "「最後まで頑張った息子が本当に誇り」【被災地の声 27日】",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014336881_2401271306_0127130739_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337231000.html",
-          "author": null,
-          "description": "パリオリンピック、レスリング女子68キロ級の代表内定をかけたプレーオフが都内で行われ、尾崎野乃香選手が石井亜海選手に勝って初めてのオリンピック代表に内定しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337231000.html",
-          "publishedOn": "2024-01-27T04:57:54.000Z",
-          "wordCount": 784,
-          "title": "レスリング女子68キロ級 尾崎野乃香がパリ五輪代表内定",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337231_2401271328_0127133136_01_02.jpg"
         }
       ]
     },
