@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120666/",
+          "author": null,
+          "description": "「月刊ビッグガンガン」ほかで2004～19年に連載された漫画「Übel Blatt（ユーベルブラット）」のテレビアニメ化が決定した。 同作は、仲間の裏切りで武勲を奪われた青年剣士が、妖精の肉を食...",
+          "link": "https://anime.eiga.com/news/120666/",
+          "publishedOn": "2024-02-26T10:30:00.000Z",
+          "wordCount": 813,
+          "title": "「ユーベルブラット」TVアニメ化決定　かつての仲間に復讐するダークファンタジー",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120665/",
           "author": null,
           "description": "テレビアニメ「ザ・ファブル」に、梶裕貴、石井康嗣、岩崎諒太、三野雄大、一条和矢らの出演が決定した。あわせて、ティザーPVや放送日時も公開されている。 原作は、「ヤングマガジン」（講談社刊）で、第...",
@@ -5795,6 +5810,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371321000.html",
+          "author": null,
+          "description": "能登半島地震で被災し、旅館やホテルに2次避難している人たちについて、石川県加賀市にある温泉地の旅館経営者などでつくる協議会は、4月以降も受け入れを続ける方針を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371321000.html",
+          "publishedOn": "2024-02-26T10:43:15.000Z",
+          "wordCount": 589,
+          "title": "旅館などに2次避難 4月以降も受け入れの方針 加賀温泉郷協議会",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371321_2402261803_0226191641_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371311000.html",
+          "author": null,
+          "description": "2019年、横浜市の高校生2人が学校の海外交流プログラムで訪れていたオーストラリアの湖で溺れて死亡した事故で、現地の裁判所は26日、引率していた教員に罰金およそ540万円の有罪判決を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371311000.html",
+          "publishedOn": "2024-02-26T10:28:19.000Z",
+          "wordCount": 486,
+          "title": "豪で高校生2人溺死 引率教員に罰金約540万円の有罪判決",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371311_2402261817_0226192821_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371341000.html",
           "author": null,
@@ -22314,16 +22349,6 @@
           "wordCount": 842,
           "title": "AEDで救命された人が7000人超に「その場でいかに早く使うか」",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337901_2401280750_0128081051_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014336861000.html",
-          "author": null,
-          "description": "能登半島地震で震度7の揺れを観測した石川県志賀町で、大地震を引き起こした活断層とは異なる断層が確認されました。2つの断層はほぼ同時にずれ動いたとみられ、調査した専門家は「見つかった断層はおよそ20キロ離れているが、大地震に付随して活動したとみられ、今後の防災を考えるうえで非常に重要な発見だ」と指摘しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014336861000.html",
-          "publishedOn": "2024-01-27T22:44:29.000Z",
-          "wordCount": 690,
-          "title": "石川 志賀町で大地震引き起こした活断層とは異なる断層確認",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014336861_2401271843_0128074430_01_02.jpg"
         }
       ]
     },
