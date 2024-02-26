@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120617/",
+          "author": null,
+          "description": "ディズニー・アニメーションと、アフリカ系エンタテインメント企業・クガリが初めてコラボレーションしたオリジナルアニメシリーズ「イワジュ」の予告とキービジュアルがお披露目された。近未来のナイジェリア...",
+          "link": "https://anime.eiga.com/news/120617/",
+          "publishedOn": "2024-02-26T03:00:00.000Z",
+          "wordCount": 787,
+          "title": "舞台は近未来のナイジェリア　ディズニーアニメ×アフリカのエンタメ企業が初タッグを組んだアニメ、世界観に胸が高鳴る予告",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120645/",
           "author": null,
           "description": "アニメ業界で最も権威ある賞の一つ、第51回アニー賞授賞式が行われ、「スパイダーマン アクロス・ザ・スパイダーバース」が最優秀長編映画賞を含む7冠に輝いた。前作「スパイダーマン スパイダーバース」...",
@@ -4966,21 +4981,6 @@
           "wordCount": 10105,
           "title": "Switch『風来のシレン6』大手通販で軒並み完売に",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/siren6-switch.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97573",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/26(金) 18:29:15.97 ID:32Kvo18y0 なお必殺技 ht […]",
-          "link": "https://switchsoku.com/soft/97573",
-          "publishedOn": "2024-01-27T15:00:43.000Z",
-          "wordCount": 10256,
-          "title": "【悲報】アバッキオ「えっワイもジョジョの格ゲーに参加できるんですか？！」",
-          "enclosure": {
-            "url": "https://video.twimg.com/ext_tw_video/1695998249684090880/pu/vid/1280x720/DlX0Q9wQh9oIPGco.mp4",
-            "length": "4143502",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/03/jojo-asbr.jpg"
         }
       ]
     },
@@ -5720,6 +5720,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370851000.html",
+          "author": null,
+          "description": "地震で多くの建物に被害が出た石川県珠洲市では、今後、さらに倒壊して2次被害を引き起こすおそれのある建物を緊急で解体する作業が26日から始まりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370851000.html",
+          "publishedOn": "2024-02-26T03:07:09.000Z",
+          "wordCount": 253,
+          "title": "緊急で建物を解体する作業が始まる 珠洲市 能登半島地震",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370851_2402261202_0226120308_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370881000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、衆議院政治倫理審査会は、26日の幹事会で28日と翌29日に開くことを正式に決める見通しです。野党側が公開を求めていることを踏まえ、自民党内からは議員の傍聴を認める案が出ていて調整が行われるものとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370881000.html",
+          "publishedOn": "2024-02-26T02:58:25.000Z",
+          "wordCount": 464,
+          "title": "衆議院 政治倫理審査会 28日と29日開催 幹事会で正式決定へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370881_2402261155_0226115827_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370821000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスの間で戦闘休止などをめぐる交渉が続けられるなか、地元メディアは、26日にもイスラエルの代表団が仲介役のカタールを訪れる予定だと報じ、今後、どのような協議が行われるかが焦点となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370821000.html",
+          "publishedOn": "2024-02-26T02:54:09.000Z",
+          "wordCount": 664,
+          "title": "イスラエル代表団がカタール訪問へ 戦闘休止めぐり交渉協議か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370821_2402261146_0226114929_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370781000.html",
+          "author": null,
+          "description": "ダイハツ工業は、国の認証取得の不正問題で稼働を停止していた大分県にある工場で、主力の軽乗用車など10車種の生産を再開しました。ただ、生産再開の規模は、めどがたっている車種も含めてダイハツの国内生産全体の4割にとどまり、取引先などへの影響の長期化が懸念されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370781000.html",
+          "publishedOn": "2024-02-26T02:52:14.000Z",
+          "wordCount": 700,
+          "title": "ダイハツ 大分工場で生産再開 主力の軽乗用車など10車種",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370781_2402261116_0226111655_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370791000.html",
           "author": null,
@@ -27282,6 +27322,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=69806",
+          "author": "多根清史",
+          "description": "アップルは2022年発売のiPhone 14 Proモデルに、iPhone X以来のノッチ（画面上部の切り欠き）に代えて「ダイナミックアイランド」を導入した。システム通知や音楽・ポッドキャストのミニプレイヤー、Uber Eatsの配達状況を表示したりと、すでに日常生活のなかで馴染まれている。 この領 […]",
+          "link": "https://gadget.phileweb.com/post-69806/",
+          "publishedOn": "2024-02-26T02:58:05.000Z",
+          "wordCount": 767,
+          "title": "iPhoneの「ダイナミックアイランド」には様々な没デザインがあった",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_2204973889.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=69789",
           "author": "Munenori Taniguchi",
           "description": "レノボは、世界初をうたう透明なディスプレイを持つノートPC「ThinkBook Transparent Display Laptop Concept」をスペイン・バルセロナで開催されるMobile World Congress（MWC）で発表した。 SF映画などではたまに透明なディスプレイを持つデバ […]",
@@ -28852,6 +28902,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033391.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(愛媛県) [ﾆﾀﾞ]：2024/02/25(日) 14:50:34.67 ID:MPCFrqXb0●.net\n\n\n\n\n\n\n\n\n\n\n山本太郎と支持者達で「現金よこせ！」「現金よこせ！」「現金現金！」「現金現金！」って大騒ぎしてるけど、そんな暇があるなら普通に働けばええやんけ…pic.twitt...",
+          "link": "https://itainews.com/archives/2033391.html",
+          "publishedOn": "2024-02-26T03:01:16.000Z",
+          "wordCount": 2376,
+          "title": "【動画】山本太郎「現金よこせ！」支持者「現金よこせ！」山本太郎「現金現金！」支持者「現金現金！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/8/b8649f57.png"
+        },
         {
           "id": "https://itainews.com/archives/2033384.html",
           "author": "damono3856",
