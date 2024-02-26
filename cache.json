@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120665/",
+          "author": null,
+          "description": "テレビアニメ「ザ・ファブル」に、梶裕貴、石井康嗣、岩崎諒太、三野雄大、一条和矢らの出演が決定した。あわせて、ティザーPVや放送日時も公開されている。 原作は、「ヤングマガジン」（講談社刊）で、第...",
+          "link": "https://anime.eiga.com/news/120665/",
+          "publishedOn": "2024-02-26T10:00:00.000Z",
+          "wordCount": 881,
+          "title": "「ザ・ファブル」追加キャストに梶裕貴、石井康嗣、一条和矢ら　キャラクターボイス収録のティザーPV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120664/",
           "author": null,
           "description": "テレビアニメ化企画が進行していた「鬼人幻燈抄」の放送が今夏に決定した。八代拓、上田麗奈、早見沙織の出演が明らかとなったほか、ティザーPVおよびビジュアル、メインスタッフも公開されている。 中西モ...",
@@ -2742,6 +2757,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98620",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/26(月) 09:46:51.63 ID:5HL/jEKS0 まず携帯してゲー […]",
+          "link": "https://switchsoku.com/switch/98620",
+          "publishedOn": "2024-02-26T10:00:14.000Z",
+          "wordCount": 10115,
+          "title": "もう3年くらいSwitchの携帯モード使ってないんだが",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/01/img02.png"
+        },
         {
           "id": "https://switchsoku.com/?p=98615",
           "author": "SWITCH速報",
@@ -5770,6 +5795,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371381000.html",
+          "author": null,
+          "description": "石川県は能登半島地震の被災地で活動してもらうボランティアの宿泊拠点を穴水町に設け、26日から運用を始めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371381000.html",
+          "publishedOn": "2024-02-26T10:06:38.000Z",
+          "wordCount": 599,
+          "title": "石川県 被災地のボランティア宿泊拠点を穴水町に設置 運用開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371381_2402261833_0226190640_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371291000.html",
+          "author": null,
+          "description": "新型コロナウイルスの全国の感染状況は、2月18日までの1週間では1つの医療機関当たりの平均の患者数が10.10人で、前の週の0.73倍となっています。厚生労働省は「このまま減少傾向が続く可能性があり、ピークは過ぎたと考えられる。例年、春先は感染が落ち着くが、感染は繰り返し拡大するので引き続き感染対策を続けてほしい」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371291000.html",
+          "publishedOn": "2024-02-26T09:55:21.000Z",
+          "wordCount": 683,
+          "title": "新型コロナ患者数 2週連続減少 “感染は繰り返し拡大 対策を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371291_2402261817_0226185339_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371331000.html",
           "author": null,
@@ -22269,16 +22314,6 @@
           "wordCount": 770,
           "title": "大相撲初場所 千秋楽見どころ 2敗トップの照ノ富士 霧島と対戦",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337641_2401272042_0128072148_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014337801000.html",
-          "author": null,
-          "description": "ロシアのプーチン大統領は、第2次世界大戦でナチス・ドイツとの激戦地となったサンクトペテルブルクの近郊を訪れ、一方的にウクライナをナチズムに重ねて進めてきた軍事侵攻を継続する姿勢を改めて強調しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014337801000.html",
-          "publishedOn": "2024-01-27T22:08:44.000Z",
-          "wordCount": 522,
-          "title": "プーチン大統領 第2次大戦の激戦地でウクライナ侵攻継続を強調",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337801_2401280426_0128070846_01_02.jpg"
         }
       ]
     },
@@ -27557,16 +27592,6 @@
           "wordCount": 1625,
           "title": "暖かい手のひらのベッドが大好きな赤ちゃん猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67407.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67368",
-          "author": "299",
-          "description": "深夜の時間帯にソファにゆったり腰掛けてテレビを見ているパパのベストのなかにすっぽり入り込んで一緒にテレビ鑑賞をしている子猫です。 しばらくは画面をじっと見つめてテレビを楽しんでいた様子だった子猫ですが、だんだん飽きてきて...\nパパと深夜のテレビを楽しむ子猫のまったりタイム first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67368",
-          "publishedOn": "2024-01-27T22:00:57.000Z",
-          "wordCount": 1625,
-          "title": "パパと深夜のテレビを楽しむ子猫のまったりタイム",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67368.jpeg"
         }
       ]
     },
@@ -29232,6 +29257,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033399.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/02/26(月) 06:02:51.46 ID:8ORSH/Ug0●.net \n\n\n\n\n\n\n\n乗客同士トラブルか…新横浜で新幹線遅らせる　容疑で逮捕の女「でっちあげ」と否認 https://t.co/CaxciFu1Dy— 佐藤龍二 (@GeqQv) February 25, 2024  \n\n\n\n\n\n\n乗客とトラブルか...",
+          "link": "https://itainews.com/archives/2033399.html",
+          "publishedOn": "2024-02-26T10:04:19.000Z",
+          "wordCount": 2354,
+          "title": "私は悪くない。新幹線車内で通話しトラブルを起こした名古屋人。遅延行為で逮捕。",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/4/b428ce17-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033394.html",
           "author": "yonepo665sfr",
