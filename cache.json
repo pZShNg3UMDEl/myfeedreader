@@ -5756,6 +5756,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371251000.html",
+          "author": null,
+          "description": "先月、日本初の月面着陸に成功し、調査を行ったあとに「休眠状態」に入っていた無人探査機「SLIM」について、JAXA＝宇宙航空研究開発機構は月の夜の低温を乗り越えて通信を再び確立したと明らかにしました。今後、搭載した特殊なカメラなどの運用が可能と判断できれば新たなデータを取得したいとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371251000.html",
+          "publishedOn": "2024-02-26T08:45:15.000Z",
+          "wordCount": 723,
+          "title": "月無人探査機「SLIM」が通信を再び確立 月の夜の低温乗り越え",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371251_2402261725_0226173039_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371171000.html",
           "author": null,
           "description": "ことしの春闘で、高い水準の賃上げによる早期の決着が自動車メーカーなどで相次ぐなか、ファミリーレストラン大手の「すかいらーくホールディングス」が、ベースアップを含む6％余りの賃上げを行うことで労働組合側と合意し、外食業界にも動きが広がっています。",
@@ -22224,16 +22234,6 @@
           "wordCount": 560,
           "title": "JR高崎線 東京～高崎間で運転見合わせ 人身事故の影響",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337861_2401280601_0128060205_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014337681000.html",
-          "author": null,
-          "description": "1970年代に起きた連続企業爆破事件の1つに関わったとして指名手配された「東アジア反日武装戦線」のメンバー、桐島聡容疑者（70）とみられ、神奈川県内の病院に入院している人物が、入院の際に健康保険証などの本人証明書を提示していなかったことが捜査関係者への取材で分かりました。警視庁は、DNA鑑定などで確認を急ぐとともに詳しい生活の実態などを調べています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014337681000.html",
-          "publishedOn": "2024-01-27T20:38:18.000Z",
-          "wordCount": 665,
-          "title": "桐島聡容疑者を名乗る人物 入院時に本人証明書を提示せず",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337681_2401272028_0128053820_01_02.jpg"
         }
       ]
     },
@@ -27536,6 +27536,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=69934",
+          "author": "編集部：平山洸太",
+          "description": "韓サムスン電子は、スマートリング「Samsung Galaxy Ring」を発表。今年後半に発売することをアナウンスした。 同社ウェアラブル端末のポートフォリオに、今後スマートリングが加わる格好。リング形状について同社は、「24時間365日の快適な装着を可能にする、最小のかたち」だと紹介する。 また […]",
+          "link": "https://gadget.phileweb.com/post-69934/",
+          "publishedOn": "2024-02-26T08:47:26.000Z",
+          "wordCount": 755,
+          "title": "韓サムスン、スマートリング「Galaxy Ring」発表。今年後半に発売",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/gring.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=69902",
           "author": "編集部：平山洸太",
