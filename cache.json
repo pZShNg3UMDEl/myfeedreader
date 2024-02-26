@@ -5721,6 +5721,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370791000.html",
+          "author": null,
+          "description": "JR成田線は千葉県我孫子市内の線路に車が転落した影響で、午前10時15分ごろから我孫子駅と湖北駅の上下線で運転を見合わせています。運転再開の見通しは立っていないということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370791000.html",
+          "publishedOn": "2024-02-26T02:26:03.000Z",
+          "wordCount": 649,
+          "title": "JR成田線 我孫子～湖北 上下線で運転見合わせ 線路に車が転落",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370791_2402261119_0226112605_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370761000.html",
           "author": null,
           "description": "大リーグ、ドジャースは大谷翔平選手のオープン戦初出場が27日、日本時間の28日に行われるホワイトソックス戦になると発表しました。",
@@ -21979,26 +21989,6 @@
           "wordCount": 672,
           "title": "90代父親の遺体が白骨化 「放置した」同居の息子を逮捕 神奈川",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337841_2401280409_0128041525_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240126/k10014334591000.html",
-          "author": null,
-          "description": "「確度は少しずつ高まっている」金融政策の正常化を示唆するものと市場で受け止められた、日銀によるこの表現。その確度がさらに高まり、出口に向かうかどうかの判断材料として日銀が注目するのが、「サービス価格」の上昇の行方です。総裁みずから「注目のポイント」と指摘した、その真意は？（経済部記者 西園興起）",
-          "link": "http://www3.nhk.or.jp/news/html/20240126/k10014334591000.html",
-          "publishedOn": "2024-01-27T14:25:18.000Z",
-          "wordCount": 1001,
-          "title": "変わるか価格転嫁の“決まり方”【経済コラム】",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240126/K10014334591_2401261519_0126164859_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337831000.html",
-          "author": null,
-          "description": "1月17日、宮崎県都城市の住宅でこの家に住む女子高校生が背中を刺されてけがをした事件で、警察は現場の近くに住む26歳の男の容疑者を殺人未遂などの疑いで逮捕しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337831000.html",
-          "publishedOn": "2024-01-27T14:22:52.000Z",
-          "wordCount": 715,
-          "title": "宮崎 女子高校生刺傷事件 近くに住む男を殺人未遂疑いで逮捕",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337831_2401272318_0127232254_01_02.jpg"
         }
       ]
     },
@@ -23461,6 +23451,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/26/news025.html",
+          "author": null,
+          "description": "今回はいままで前提にしてきたチョークの電流連続性が途切れた場合のコンバーターの振る舞いについて図式を基に検討します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/26/news025.html",
+          "publishedOn": "2024-02-26T02:00:00.000Z",
+          "wordCount": 2627,
+          "title": "ステップダウン形DC/DCコンバーターの設計（4）",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/26/l_tt240226_DCDC2_Z001.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/26/news063.html",
           "author": null,
@@ -27291,6 +27291,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=69789",
+          "author": "Munenori Taniguchi",
+          "description": "レノボは、世界初をうたう透明なディスプレイを持つノートPC「ThinkBook Transparent Display Laptop Concept」をスペイン・バルセロナで開催されるMobile World Congress（MWC）で発表した。 SF映画などではたまに透明なディスプレイを持つデバ […]",
+          "link": "https://gadget.phileweb.com/post-69789/",
+          "publishedOn": "2024-02-26T02:32:06.000Z",
+          "wordCount": 762,
+          "title": "レノボ、透明microLEDディスプレイの試作ノートPCをお披露目",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/0416.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=69766",
           "author": "多根清史",

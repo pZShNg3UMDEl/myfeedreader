@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T02:22:12.352Z</updated>
+    <updated>2024-02-26T02:37:24.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レノボ、透明microLEDディスプレイの試作ノートPCをお披露目]]></title>
+        <id>https://gadget.phileweb.com/?p=69789</id>
+        <link href="https://gadget.phileweb.com/post-69789/"/>
+        <updated>2024-02-26T02:32:06.000Z</updated>
+        <summary type="html"><![CDATA[レノボは、世界初をうたう透明なディスプレイを持つノートPC「ThinkBook Transparent Display Laptop Concept」をスペイン・バルセロナで開催されるMobile World Congress（MWC）で発表した。 SF映画などではたまに透明なディスプレイを持つデバ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR成田線 我孫子～湖北 上下線で運転見合わせ 線路に車が転落]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370791000.html"/>
+        <updated>2024-02-26T02:26:03.000Z</updated>
+        <summary type="html"><![CDATA[JR成田線は千葉県我孫子市内の線路に車が転落した影響で、午前10時15分ごろから我孫子駅と湖北駅の上下線で運転を見合わせています。運転再開の見通しは立っていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次期iPad Pro、有機EL化の影響で予想以上の大幅値上げに？]]></title>
         <id>https://gadget.phileweb.com/?p=69766</id>
@@ -45,6 +65,16 @@
 お互い初対面の父猫と子猫がすぐにうちとけて寄り添う姿に感動！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステップダウン形DC/DCコンバーターの設計（4）]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2402/26/news025.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2402/26/news025.html"/>
+        <updated>2024-02-26T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はいままで前提にしてきたチョークの電流連続性が途切れた場合のコンバーターの振る舞いについて図式を基に検討します。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -36284,26 +36314,6 @@ AK氏のこれには『著作権侵害ダー！！！！』って言われてな
 先住のワンコと仲良しになれる方法を子猫たちに伝授するママ猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[変わるか価格転嫁の“決まり方”【経済コラム】]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240126/k10014334591000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240126/k10014334591000.html"/>
-        <updated>2024-01-27T14:25:18.000Z</updated>
-        <summary type="html"><![CDATA[「確度は少しずつ高まっている」金融政策の正常化を示唆するものと市場で受け止められた、日銀によるこの表現。その確度がさらに高まり、出口に向かうかどうかの判断材料として日銀が注目するのが、「サービス価格」の上昇の行方です。総裁みずから「注目のポイント」と指摘した、その真意は？（経済部記者 西園興起）]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宮崎 女子高校生刺傷事件 近くに住む男を殺人未遂疑いで逮捕]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240127/k10014337831000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240127/k10014337831000.html"/>
-        <updated>2024-01-27T14:22:52.000Z</updated>
-        <summary type="html"><![CDATA[1月17日、宮崎県都城市の住宅でこの家に住む女子高校生が背中を刺されてけがをした事件で、警察は現場の近くに住む26歳の男の容疑者を殺人未遂などの疑いで逮捕しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
