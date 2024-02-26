@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T23:36:32.593Z</updated>
+    <updated>2024-02-26T23:50:27.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1月の消費者物価指数 前年同月比で2.0％上昇 5か月連続の2％台]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014371811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371811000.html"/>
+        <updated>2024-02-26T23:38:48.000Z</updated>
+        <summary type="html"><![CDATA[家庭で消費するモノやサービスの値動きをみる先月1月の消費者物価指数は天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2.0％上昇しました。上昇率は去年12月の2.3％から0.3ポイント下がり、5か月連続で2％台となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム なめらか食感のひとくちカヌレアイス【新作アイス】]]></title>
         <id>https://foodfighter.jp/?p=237278</id>
