@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T04:15:37.053Z</updated>
+    <updated>2024-02-26T04:35:14.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＪＲ成田線運転再開 我孫子駅と湖北駅の上下線]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370991000.html"/>
+        <updated>2024-02-26T04:22:30.000Z</updated>
+        <summary type="html"><![CDATA[JR成田線は、千葉県我孫子市内の線路に車が転落した影響で我孫子駅と湖北駅の上下線で運転を見合わせていましたが、午後0時52分に運転を再開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワンコもニャンコも焼き芋が大好物！]]></title>
         <id>https://2-9-9.com/?p=69219</id>
@@ -36435,17 +36445,6 @@ AK氏のこれには『著作権侵害ダー！！！！』って言われてな
         <summary type="html"><![CDATA[1: 2024/01/27(土) 21:54:09.66 ID:eBpZ5OVc0 アマゾン、ノジマ […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡のなかの自分を必死に攻撃する子猫]]></title>
-        <id>https://2-9-9.com/?p=67403</id>
-        <link href="https://2-9-9.com/archives/67403"/>
-        <updated>2024-01-27T16:30:39.000Z</updated>
-        <summary type="html"><![CDATA[子猫が背中を丸めて攻撃しようとしています。なんとその相手は鏡のなかの自分の姿でした。 子猫あるあるで、鏡の中の自分を認識できずに、こうやって敵を攻撃したりすることはよくあることなのです。 子猫は一旦鏡の前から去ってみて、...
-鏡のなかの自分を必死に攻撃する子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
         </author>
     </entry>
 </feed>
