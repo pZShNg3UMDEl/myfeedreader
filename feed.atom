@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T06:17:38.460Z</updated>
+    <updated>2024-02-26T06:36:23.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】広島県 愛媛県で震度4 津波の心配なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014371111000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014371111000.html"/>
+        <updated>2024-02-26T06:32:41.000Z</updated>
+        <summary type="html"><![CDATA[２６日午後３時２４分ごろ地震がありました。この地震による津波の心配はありません。震源地は愛媛県南予で震源の深さは５０キロ、地震の規模を示すマグニチュードは５．１と推定されます。各市町村の震度は以下のとおりです。▼震度４が、広島県呉市、広島県府中町、愛媛県松山市、愛媛県今治市、愛媛県西条市、愛媛県伊予市、愛媛県松前町、愛媛県伊方町。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮メディア サッカー女子日本戦 「重要ニュース」で報じる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014371081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014371081000.html"/>
+        <updated>2024-02-26T06:22:30.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮の国営メディアは26日、サッカー女子のパリオリンピックアジア最終予選の日本と北朝鮮の第1戦の結果を、「重要ニュース」として初めて伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本人の賃金が上がらない理由、「使えない不要なゴミ正社員を即解雇できないから」だった…]]></title>
         <id>https://itainews.com/archives/2033393.html</id>
