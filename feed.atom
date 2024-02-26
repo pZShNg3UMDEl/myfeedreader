@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T09:14:09.925Z</updated>
+    <updated>2024-02-26T09:25:42.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経団連 十倉会長“株高持続には成長と分配の好循環が重要”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014371301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014371301000.html"/>
+        <updated>2024-02-26T09:19:42.000Z</updated>
+        <summary type="html"><![CDATA[日経平均株価が34年ぶりに史上最高値を更新したことについて、経団連の十倉会長は26日の記者会見で、投資家が景気の減速傾向が続く中国から日本に資金を移していることが背景にあるという見方を示したうえで、株高を持続させるためにも成長と分配の好循環を実現することが重要だと強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[衆院政倫審 公開是非で折り合いつかず 与野党で引き続き協議へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014371271000.html</id>
