@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T21:35:38.081Z</updated>
+    <updated>2024-02-26T21:50:13.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[遮断機が下りないトラブル 昨年度までの5年間で少なくとも48件]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014371521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371521000.html"/>
+        <updated>2024-02-26T21:38:55.000Z</updated>
+        <summary type="html"><![CDATA[列車が踏切に近づいても遮断機が下りないトラブルが各地で起きていて、鉄道会社が、運輸局に届け出た件数は昨年度までの5年間で少なくとも48件に上ることがNHKが行った情報公開請求でわかりました。専門家は「大きな事故につながる可能性があり対策を講じなければ、今後増えるおそれもある」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東北の太平洋側や関東沿岸部中心に風強まる 高波暴風に警戒を]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240227/k10014371731000.html</id>
@@ -36664,16 +36674,6 @@ Link]]></summary>
         <summary type="html"><![CDATA[「Ado」の新曲「ショコラカタブラ」を起用した、ロッテのアニメーションテレビCMが、1月22日から放送・配信されている。 同CMは、ロッテのチョコレート事業60周年プロモーションの一環として制作...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イノシシにかまれ4人けが このうち1人重傷か 埼玉 本庄]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338351000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338351000.html"/>
-        <updated>2024-01-28T09:47:05.000Z</updated>
-        <summary type="html"><![CDATA[28日午前、埼玉県本庄市にイノシシが現れ、畑などにいた男女4人が次々にかまれるなどして、このうち1人が重傷とみられます。これまでのところ捕獲されておらず警察は見かけても近づかないよう呼びかけています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
