@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T23:13:19.544Z</updated>
+    <updated>2024-02-26T23:24:33.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム なめらか食感のひとくちカヌレアイス【新作アイス】]]></title>
+        <id>https://foodfighter.jp/?p=237278</id>
+        <link href="https://foodfighter.jp/711sej-canele-ice-hitokuchi"/>
+        <updated>2024-02-26T23:03:05.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム なめらか食感のひとくちカヌレアイス」を世界一詳しく調査しました。   公式 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソフトバンクと米エヌビディア 新団体設立を正式発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240227/k10014371501000.html</id>
@@ -36625,26 +36635,6 @@ Link]]></summary>
         <summary type="html"><![CDATA[4月からTBS系28局で全国同時放送されるテレビアニメ「花野井くんと恋の病」に、久保ユリカ、坂本真綾、木村良平、逢坂良太の出演が決定した。 原作は、森野萌氏が「月刊デザート」（講談社刊）で連載中...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イスラエルとハマス 戦闘休止合意草案近く協議の報道も不透明]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338431000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338431000.html"/>
-        <updated>2024-01-28T11:24:13.000Z</updated>
-        <summary type="html"><![CDATA[イスラエル軍とイスラム組織ハマスの戦闘が続く中、カタールなどの仲介で、人質の解放や戦闘の休止に向けた交渉も進められています。およそ2か月間、戦闘を休止する合意の草案が近く協議されるという報道がある一方で、交渉には時間がかかるとの見方もあり、事態の打開につながるかは不透明な情勢です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 内灘町 液状化きっかけに低い土地に土が流れ込んだか]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338371000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338371000.html"/>
-        <updated>2024-01-28T11:17:11.000Z</updated>
-        <summary type="html"><![CDATA[今回の地震で液状化の被害を受けた石川県内灘町について地盤工学の専門家が現地調査を行ったところ、一部の地域では地盤の液状化をきっかけに土が低い土地に流れ込む現象が起きていたことが新たに分かりました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
