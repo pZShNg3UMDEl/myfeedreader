@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T21:23:19.782Z</updated>
+    <updated>2024-02-26T21:35:38.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -52,6 +52,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371151000.html"/>
         <updated>2024-02-26T20:48:56.000Z</updated>
         <summary type="html"><![CDATA[江戸時代の町並みが残る岡山市北区の足守地区では、ひな人形が軒下などに飾られています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“頭を使った”ゲームで競う 青森「ツル多はげます会」が開く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014371141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371141000.html"/>
+        <updated>2024-02-26T20:47:07.000Z</updated>
+        <summary type="html"><![CDATA[髪の毛が少ない人たちが頭を使ったゲームで競いあう催しが、青森県鶴田町で開かれました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
