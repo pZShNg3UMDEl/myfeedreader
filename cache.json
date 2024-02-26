@@ -2689,21 +2689,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120466/",
-          "author": null,
-          "description": "今年47回を迎える日本アカデミー賞の授賞式に先立ち、正賞15部門各優秀賞および新人俳優賞が発表された。山崎貴監督の「ゴジラ－1.0」が優秀作品賞、優秀監督賞、優秀主演男優賞（神木隆之介）、優秀主...",
-          "link": "https://anime.eiga.com/news/120466/",
-          "publishedOn": "2024-01-27T12:00:00.000Z",
-          "wordCount": 942,
-          "title": "第47回日本アカデミー賞優秀賞発表「ゴジラ－1.0」が最多12部門　授賞式収益の一部を能登半島地震の義援金として寄付",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2712,6 +2697,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98604",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/25(日) 13:52:26.54 ID:9IZiv0dhd ニンテンドーDS […]",
+          "link": "https://switchsoku.com/gossip/98604",
+          "publishedOn": "2024-02-26T00:00:36.000Z",
+          "wordCount": 10107,
+          "title": "なぜ日本では携帯機が圧倒的に売れるのか？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/nds3ds.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98600",
           "author": "SWITCH速報",
@@ -5182,6 +5177,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9570",
+          "author": "watanabe@logipara.com",
+          "description": "昨晩は呑みまして、そのまま寝たのですが、案の定眠りが浅かったようで、しっかり夢を見ました。 「トイレで大きい方をしたら、とんでもない量を出してしまい便器が詰まり、しかもトイレがひとつしかない居酒屋だったので待ち行列ができ […]",
+          "link": "https://logipara.com/diary-text/2024-02-26",
+          "publishedOn": "2024-02-26T00:41:36.000Z",
+          "wordCount": 4372,
+          "title": "運はついたのかもしれない",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9566",
           "author": "watanabe@logipara.com",
           "description": "夜： 「そう……やる……確定申告はやる……。やるが、まだ『いつ終わるか』は指定していない。つまり……。我々がその気になれば、10年、20年後ということも……可能だろう……ということ……！」 　 　 　 ※確定申告 […]",
@@ -5725,6 +5730,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370711000.html",
+          "author": null,
+          "description": "サッカーのフランス1部リーグ、モナコの南野拓実選手は25日、アウェーで行われたランス戦にフル出場し、2対2の同点で迎えた試合終了間際に決勝ゴールをあげてチームを勝利に導きました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370711000.html",
+          "publishedOn": "2024-02-26T00:31:57.000Z",
+          "wordCount": 735,
+          "title": "サッカー 南野拓実 決勝ゴール アウェー戦で 仏1部 モナコ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370711_2402260924_0226093159_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370701000.html",
+          "author": null,
+          "description": "アメリカのNSC＝国家安全保障会議の高官も務めたロシア政治の専門家は、欧米によるウクライナへの軍事支援の継続が問われている現状が第2次世界大戦の際の状況と類似しているとした上で「わたしたちは歴史的な瞬間にいる」と指摘し、アメリカなどはいまこそ支援すべきだと訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370701000.html",
+          "publishedOn": "2024-02-26T00:05:33.000Z",
+          "wordCount": 608,
+          "title": "米専門家 ウクライナ侵攻現状“歴史的な瞬間 いまこそ支援を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370691000.html",
           "author": null,
@@ -21974,46 +21999,6 @@
           "wordCount": 546,
           "title": "石川県  90人以上が車中泊 避難所以外の避難者に登録呼びかけ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337591_2401272003_0127221356_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337551000.html",
-          "author": null,
-          "description": "ガザ地区で人道状況の悪化が深刻化するなか現地で活動する国連のスタッフが去年10月のハマスによる奇襲攻撃に関与していた疑いが浮上し、今後の支援活動への影響が懸念されています。一方、ハマスと連携するイエメンの反政府勢力が紅海付近を航行する民間の石油タンカーをミサイルで攻撃し、中東地域の広い範囲で緊張が続いています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337551000.html",
-          "publishedOn": "2024-01-27T12:39:36.000Z",
-          "wordCount": 750,
-          "title": "国連スタッフがハマスのイスラエル奇襲関与か UNRWAが調査開始",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337551_2401271949_0127213938_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337631000.html",
-          "author": null,
-          "description": "韓国で開かれているユースオリンピックのフィギュアスケート、男子シングルは27日、前半のショートプログラムが行われ今シーズン、ジュニアのグランプリファイナルを制した15歳の中田璃士選手はミスが重なり、13位と出遅れました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337631000.html",
-          "publishedOn": "2024-01-27T12:26:49.000Z",
-          "wordCount": 535,
-          "title": "フィギュア ユース五輪 男子シングル 中田璃士はショート13位",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337631_2401272006_0127212652_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337521000.html",
-          "author": null,
-          "description": "石川県の馳知事は2月から高齢者が多い金沢市の1.5次避難所で、インフルエンザの予防接種を行う方針を明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337521000.html",
-          "publishedOn": "2024-01-27T12:12:57.000Z",
-          "wordCount": 761,
-          "title": "金沢の1.5次避難所 高齢者にインフルエンザの予防接種実施へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337521_2401271825_0127211259_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240127/k10014337491000.html",
-          "author": null,
-          "description": "27日午前、北海道網走市で、乗用車と軽自動車が正面衝突し、軽自動車に乗っていた高齢の男女2人が死亡しました。現場は、片側1車線の直線道路で、一部が凍結していたということで警察が事故の詳しい原因を調べています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240127/k10014337491000.html",
-          "publishedOn": "2024-01-27T11:51:10.000Z",
-          "wordCount": 675,
-          "title": "北海道 乗用車と軽自動車が正面衝突 2人死亡 道路は一部凍結",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240127/K10014337491_2401272039_0127205112_01_02.jpg"
         }
       ]
     },
@@ -23487,6 +23472,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/26/news063.html",
+          "author": null,
+          "description": "ピカリング エレクトロニクスは、小型SIPリードリレーの「104」シリーズに、5kVスタンドオフ電圧の製品を追加した。小型ながら信頼性が高く、最大1.5Vのスイッチング電圧を備える。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/26/news063.html",
+          "publishedOn": "2024-02-26T00:00:00.000Z",
+          "wordCount": 2610,
+          "title": "5kVスタンドオフ機能付き小型SIPリードリレー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/26/cover_news063.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/22/news070.html",
           "author": null,
           "description": "ネクスペリアは、CFPパッケージを用いたプレーナー型ショットキーダイオードシリーズの提供を開始した。11種の産業用製品および11種の車載用製品をラインアップにそろえている。",
@@ -23743,6 +23738,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69252",
+          "author": "299",
+          "description": "カーペットの上であおむけになって爆睡中の子猫を発見しました！両手両足を大の字にパッカーンと開いて見事なヘソ天ポーズになっています。 あまりの爆睡っぷりに飼い主さんたちも、そーっと子猫のそばに近づいて可愛さを堪能し始めまし...\nひとたび眠りに落ちたら何をされても絶対目覚めない子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69252",
+          "publishedOn": "2024-02-26T00:00:07.000Z",
+          "wordCount": 1401,
+          "title": "ひとたび眠りに落ちたら何をされても絶対目覚めない子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69252.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69211",
           "author": "299",
@@ -28652,16 +28657,6 @@
           "wordCount": 2611,
           "title": "原告のりこえねっと裁判②原告被告準備書面",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ca24183d491d55400ab7581df206a742b319457f.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/nd51316427d64",
-          "author": null,
-          "description": "ひ「どうも、認知プロファイリング探偵暇空茜です」\nな「助手のなるこです」\n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/nd51316427d64",
-          "publishedOn": "2024-01-27T12:04:25.000Z",
-          "wordCount": 2568,
-          "title": "伊藤和子弁護士⑥別訴（原告伊藤和子）",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/dac7f132fe42d156fd55a8b2a7fa2d7b8052ad83.png"
         }
       ]
     },
@@ -32166,16 +32161,6 @@
           "wordCount": 2355,
           "title": "【熊本】コロナ感染の部員に「せき込み君」　暴言70種の教諭、停職２カ月に",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/9/49a6d174-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032559.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：フォーエバー ★：2024/01/26(金) 18:16:36.19 ID:0ALD+5Y79.net\n\n\n\n\n\n\n\n\n\n\n【「他事務所の芸人を出せないというお達しが」中川家が“吉本鎖国”騒動に言及…Xでは若手芸人が相次いで不穏投稿】https://t.co/Tfl8OeHA4J #お笑い芸人 #ラジオ #中川家 #劇場 #吉本興業...",
-          "link": "https://itainews.com/archives/2032559.html",
-          "publishedOn": "2024-01-27T12:01:27.000Z",
-          "wordCount": 2332,
-          "title": "「他事務所の芸人を出せないというお達しが」中川家が“吉本鎖国”騒動に言及…Xでは若手芸人が相次いで不穏投稿",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/2/b247ee36.png"
         }
       ]
     },
