@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T22:12:51.953Z</updated>
+    <updated>2024-02-26T22:27:54.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア軍 東部拠点に続き さらに西の集落も掌握 攻勢強める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014371681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371681000.html"/>
+        <updated>2024-02-26T22:16:57.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナに侵攻するロシア軍は東部の拠点アウディーイウカに続いて、さらに西にある集落も掌握したと発表し、攻勢を強めているものとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東名あおり運転犯、またカチンときてしまう。裁判官に「俺が出るまで待っておけよ」と吐き捨て退廷]]></title>
         <id>https://itainews.com/archives/2033410.html</id>
@@ -36644,16 +36654,6 @@ Link]]></summary>
         <summary type="html"><![CDATA[3月15日から新潟市で開催される第2回新潟国際アニメーション映画祭のレトロスペクティブ部門で、高畑勲監督の特集が開催される。スタジオジブリ作品のほか、長編デビュー作「太陽の王子 ホルスの大冒険」...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安倍派座長 塩谷元文科相 234万円未記載で陳謝 議員辞職は否定]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240128/k10014338441000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014338441000.html"/>
-        <updated>2024-01-28T10:23:35.000Z</updated>
-        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる事件を受けて、解散を決めた安倍派の座長を務める塩谷元文部科学大臣は、派閥から5年間で230万円余りのキックバックを受け、収支報告書に記載していなかったことを明らかにし、陳謝しました。一方、議員辞職や離党については否定しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
