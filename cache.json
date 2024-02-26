@@ -5821,6 +5821,16 @@
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370711_2402260924_0226093159_01_02.jpg"
         },
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370611000.html",
+          "author": null,
+          "description": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる26日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナとは7時間、ロシアのモスクワとは6時間の時差があります）",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370611000.html",
+          "publishedOn": "2024-02-26T00:20:55.000Z",
+          "wordCount": 725,
+          "title": "【随時更新】ロシア ウクライナに軍事侵攻（2月26日の動き）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370611_2402260157_0226070403_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370701000.html",
           "author": null,
           "description": "アメリカのNSC＝国家安全保障会議の高官も務めたロシア政治の専門家は、欧米によるウクライナへの軍事支援の継続が問われている現状が第2次世界大戦の際の状況と類似しているとした上で「わたしたちは歴史的な瞬間にいる」と指摘し、アメリカなどはいまこそ支援すべきだと訴えました。",
@@ -27321,6 +27331,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=69833",
+          "author": "Munenori Taniguchi",
+          "description": "マイクロソフトは、Arm64デバイスおよびWindows 10システム用の写真アプリに、AIを使用して不要なオブジェクトをきれいに消し去る「生成消去（Generative Erase)」機能を追加した。 これはAdobe Photoshopなどでは「生成塗りつぶし」と呼ばれる機能。Windows P […]",
+          "link": "https://gadget.phileweb.com/post-69833/",
+          "publishedOn": "2024-02-26T03:17:32.000Z",
+          "wordCount": 769,
+          "title": "Windows 10用「フォト」アプリにAI編集機能が追加へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/01.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=69806",
           "author": "多根清史",

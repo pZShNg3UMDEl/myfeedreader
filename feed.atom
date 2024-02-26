@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T03:14:25.883Z</updated>
+    <updated>2024-02-26T03:25:53.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 10用「フォト」アプリにAI編集機能が追加へ]]></title>
+        <id>https://gadget.phileweb.com/?p=69833</id>
+        <link href="https://gadget.phileweb.com/post-69833/"/>
+        <updated>2024-02-26T03:17:32.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、Arm64デバイスおよびWindows 10システム用の写真アプリに、AIを使用して不要なオブジェクトをきれいに消し去る「生成消去（Generative Erase)」機能を追加した。 これはAdobe Photoshopなどでは「生成塗りつぶし」と呼ばれる機能。Windows P […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[緊急で建物を解体する作業が始まる 珠洲市 能登半島地震]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014370851000.html</id>
@@ -214,6 +224,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370711000.html"/>
         <updated>2024-02-26T00:31:57.000Z</updated>
         <summary type="html"><![CDATA[サッカーのフランス1部リーグ、モナコの南野拓実選手は25日、アウェーで行われたランス戦にフル出場し、2対2の同点で迎えた試合終了間際に決勝ゴールをあげてチームを勝利に導きました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（2月26日の動き）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014370611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014370611000.html"/>
+        <updated>2024-02-26T00:20:55.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる26日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナとは7時間、ロシアのモスクワとは6時間の時差があります）]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
