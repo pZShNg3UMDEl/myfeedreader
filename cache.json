@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120673/",
+          "author": null,
+          "description": "テレビアニメ「僕のヒーローアカデミア」第7期のオープニングテーマを、ソロプロジェクト「TK from 凛として時雨」が担当することがわかった。 これまで、ロックバンド「凛として時雨」として「PS...",
+          "link": "https://anime.eiga.com/news/120673/",
+          "publishedOn": "2024-02-26T11:00:00.000Z",
+          "wordCount": 850,
+          "title": "「ヒロアカ」7期オープニングテーマは「TK from 凛として時雨」が担当",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120666/",
           "author": null,
           "description": "「月刊ビッグガンガン」ほかで2004～19年に連載された漫画「Übel Blatt（ユーベルブラット）」のテレビアニメ化が決定した。 同作は、仲間の裏切りで武勲を奪われた青年剣士が、妖精の肉を食...",
@@ -2743,21 +2758,6 @@
           "publishedOn": "2024-01-28T03:00:00.000Z",
           "wordCount": 854,
           "title": "大泉洋がゲスト声優参加　「名探偵コナン 100万ドルの五稜星」北海道警の刑事役「私が全員捕まえます（笑）」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120478/",
-          "author": null,
-          "description": "テレビアニメ「ちびまる子ちゃん」の山田くん（山田笑太）の新たな声優を、本井えみが務めることが決定した。2月4日放送の「『まる子、落とし物を探す』の巻」から、本井が演じる山田くんが登場する。 まる...",
-          "link": "https://anime.eiga.com/news/120478/",
-          "publishedOn": "2024-01-27T23:00:00.000Z",
-          "wordCount": 833,
-          "title": "「ちびまる子ちゃん」山田くん役の後任は本井えみ　城ヶ崎さん役と兼任",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -5810,6 +5810,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371471000.html",
+          "author": null,
+          "description": "名古屋市教育委員会が、教員などでつくる団体から校長に推薦する教員の名簿とともに金品を受け取っていた問題で、教員の人事を担当する教職員課だけでなく、別の部署も金品を受け取っていたことが確認されました。市は、調査チームで実態を詳しく調べることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371471000.html",
+          "publishedOn": "2024-02-26T11:01:44.000Z",
+          "wordCount": 499,
+          "title": "名古屋市教委 別部署でも金品の受け取り確認 実態調査へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371471_2402261912_0226200146_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371461000.html",
+          "author": null,
+          "description": "福岡県のみやま市教育委員会によりますと26日午後0時半すぎ、みやま市の小学校で1年生の7歳の男子児童が給食をのどに詰まらせ病院に救急搬送されましたがその後、亡くなったということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371461000.html",
+          "publishedOn": "2024-02-26T10:53:11.000Z",
+          "wordCount": 568,
+          "title": "福岡 みやま市 小学校で男子児童が給食詰まらせ死亡",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371461_2402261925_0226195313_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371411000.html",
+          "author": null,
+          "description": "ロシア国防省は、ゲラシモフ参謀総長がウクライナの前線を視察したと26日発表し、現地の兵士を激励して攻勢を強める構えです。一方、ウクライナ軍のシルスキー総司令官も前線の指揮所を訪れ、兵士の被害を抑えることに重点を置きながら防衛を続ける姿勢を強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371411000.html",
+          "publishedOn": "2024-02-26T10:48:21.000Z",
+          "wordCount": 620,
+          "title": "ロシア 攻勢強める一方 ウクライナ軍“兵士の被害抑え防衛”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371411_2402261912_0226194823_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371321000.html",
           "author": null,
@@ -22395,6 +22425,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=237233",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「天下一品監修 こってりラーメン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進 […]",
+          "link": "https://foodfighter.jp/lawson-tenkaippin-ramen",
+          "publishedOn": "2024-02-26T10:59:01.000Z",
+          "wordCount": 1840,
+          "title": "【ローソン】天下一品監修 こってりラーメン【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/b9a0d77c7c9daa1f78492b7907d78a24.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=237210",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店、スーパーの最新グルメを紹介しています。   今回は、カップヌードルの新商品「カップヌードル シーフードヌードル ぶっこみ飯」を世界一詳しく調査しました。    […]",
@@ -24098,6 +24138,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69235",
+          "author": "299",
+          "description": "子猫のもっちが砂の上でひとりヘンテコなダンスを踊っています。もっちは普段は家の中にいますが、決まった時間になるとお外に出してもらえるので自由に外遊びを楽しむことができます。 この日も外遊び時間に他の猫さんにちょっかいを出...\n可愛い子猫のもっちがヘンテコなダンスを踊っているわけとは？ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69235",
+          "publishedOn": "2024-02-26T11:00:18.000Z",
+          "wordCount": 1397,
+          "title": "可愛い子猫のもっちがヘンテコなダンスを踊っているわけとは？",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69235.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69230",
           "author": "299",
@@ -29292,6 +29342,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033400.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/02/26(月) 06:09:26.62 ID:8ORSH/Ug0●.net\n\n\n\n\n\n\n\n\nスマホで20代女性のスカート内を撮影 女性は“短パン” 警察は“性的姿態等撮影未遂”の現行犯で32歳無職の男を逮捕 #SmartNews https://t.co/gFJDtNg4ZO— 旋風寺舞人 (@re001002) ...",
+          "link": "https://itainews.com/archives/2033400.html",
+          "publishedOn": "2024-02-26T11:01:14.000Z",
+          "wordCount": 2374,
+          "title": "ちゃんと短パンを履いたスカート女性を盗撮したのに、逮捕。",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/e/6e5d0cc1-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033399.html",
           "author": "damono3856",
