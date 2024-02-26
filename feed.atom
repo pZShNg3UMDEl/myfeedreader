@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T11:20:26.786Z</updated>
+    <updated>2024-02-26T11:35:37.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルとハマスの休戦交渉 カタールで追加協議か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014371451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014371451000.html"/>
+        <updated>2024-02-26T11:27:30.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの戦闘休止と人質解放をめぐる交渉は、フランスのパリでイスラエルと関係国による協議が行われたのに続き、カタールで追加の協議が行われるものとみられます。イスラエルの代表団も26日からカタールを訪れると報じられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政治資金問題 政倫審 首相“最良の方法とられること期待”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014371441000.html</id>
@@ -36919,16 +36929,6 @@ AK氏のこれには『著作権侵害ダー！！！！』って言われてな
 暖かい手のひらのベッドが大好きな赤ちゃん猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出版物の推定販売額 電子は好調も紙大きく落ち込み 前年下回る]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240128/k10014336241000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014336241000.html"/>
-        <updated>2024-01-27T23:34:47.000Z</updated>
-        <summary type="html"><![CDATA[去年1年間の出版物の推定販売額は、電子コミックの売り上げが好調だったものの、紙の書籍の落ち込みが大きく、紙と電子を合わせた全体では、2年連続で前の年を下回りました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
