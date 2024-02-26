@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T20:13:51.586Z</updated>
+    <updated>2024-02-26T20:26:36.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スウェーデン NATO加盟決定 32か国へ拡大 安全保障一段と強化]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014371701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371701000.html"/>
+        <updated>2024-02-26T20:15:56.000Z</updated>
+        <summary type="html"><![CDATA[北欧スウェーデンのNATO＝北大西洋条約機構への加盟について、ハンガリーの議会が承認しました。これですべての加盟国が承認したことになり、NATOはロシアによる軍事侵攻後、32か国へと拡大し、安全保障が一段と強化されることになります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[税を納めない在留資格を持つ外国人、永住許可取り消しになる模様]]></title>
         <id>https://itainews.com/archives/2033404.html</id>
