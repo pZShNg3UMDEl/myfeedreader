@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T05:37:26.740Z</updated>
+    <updated>2024-02-26T05:50:27.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全国の民間空港に米軍用機が着陸 去年453回 過去10年で最多]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014371031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014371031000.html"/>
+        <updated>2024-02-26T05:37:39.000Z</updated>
+        <summary type="html"><![CDATA[去年、全国の民間空港にアメリカの軍用機が着陸した回数は450回を超え、過去10年で最も多くなったことが、国土交通省への取材でわかりました。南西諸島でのアメリカ軍の訓練などが活発化する中、特に鹿児島県の離島の空港への飛来が全体の4割以上を占めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米大統領選 “ヘイリー氏の大口献金団体が資金提供停止”報道]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014371051000.html</id>
