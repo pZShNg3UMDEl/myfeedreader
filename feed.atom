@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T22:38:10.342Z</updated>
+    <updated>2024-02-26T22:50:31.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンクと米エヌビディア 新団体設立を正式発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014371501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371501000.html"/>
+        <updated>2024-02-26T22:45:11.000Z</updated>
+        <summary type="html"><![CDATA[携帯大手のソフトバンクとアメリカの半導体大手エヌビディアは、AIの膨大なデータの処理に携帯電話の基地局を活用しようと、新たな業界団体を設立することを正式に発表しました。団体にはアメリカのAWSや韓国のサムスン電子など11社が参加し、世界標準化を目指します。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桐島聡容疑者本人と特定 書類送検へ 警視庁 DNA鑑定の結果]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014371761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014371761000.html"/>
+        <updated>2024-02-26T22:41:08.000Z</updated>
+        <summary type="html"><![CDATA[1970年代に起きた連続企業爆破事件に関わったとして指名手配された「東アジア反日武装戦線」のメンバー、桐島聡容疑者（70）と名乗り、先月、入院先の神奈川県内の病院で死亡した人物について、警視庁が容疑者本人と特定したことが捜査関係者への取材でわかりました。警視庁は、27日にも容疑者死亡のまま書類送検する方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア軍 東部拠点に続き さらに西の集落も掌握 攻勢強める]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240227/k10014371681000.html</id>
