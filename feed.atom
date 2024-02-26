@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T05:27:11.910Z</updated>
+    <updated>2024-02-26T05:37:26.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米大統領選 “ヘイリー氏の大口献金団体が資金提供停止”報道]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014371051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014371051000.html"/>
+        <updated>2024-02-26T05:29:09.000Z</updated>
+        <summary type="html"><![CDATA[秋のアメリカ大統領選挙に向けた野党 共和党の候補者選びで、トランプ前大統領と争うヘイリー元国連大使について、大口の献金団体が資金の提供を停止することが明らかになったと、アメリカの主要メディアが報じました。ヘイリー氏は選挙戦を続けると表明したばかりですが、大きな痛手になるとみられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山梨 11年前の強盗傷害事件 指名手配の容疑者の情報提供が急増]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014371021000.html</id>
