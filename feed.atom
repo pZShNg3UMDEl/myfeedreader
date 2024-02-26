@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T11:09:55.594Z</updated>
+    <updated>2024-02-26T11:20:26.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政治資金問題 政倫審 首相“最良の方法とられること期待”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240226/k10014371441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240226/k10014371441000.html"/>
+        <updated>2024-02-26T11:10:49.000Z</updated>
+        <summary type="html"><![CDATA[国会は衆議院予算委員会で集中審議が行われ、立憲民主党は、自民党の派閥の政治資金パーティーをめぐる問題を受けた政治倫理審査会を公開で開催するよう重ねて求めました。これに対し岸田総理大臣は「説明責任を尽くす観点から最良の方法がとられることを期待する」と述べました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名古屋市教委 別部署でも金品の受け取り確認 実態調査へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240226/k10014371471000.html</id>
@@ -36917,16 +36927,6 @@ AK氏のこれには『著作権侵害ダー！！！！』って言われてな
         <link href="http://www3.nhk.or.jp/news/html/20240128/k10014336241000.html"/>
         <updated>2024-01-27T23:34:47.000Z</updated>
         <summary type="html"><![CDATA[去年1年間の出版物の推定販売額は、電子コミックの売り上げが好調だったものの、紙の書籍の落ち込みが大きく、紙と電子を合わせた全体では、2年連続で前の年を下回りました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AEDで救命された人が7000人超に「その場でいかに早く使うか」]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240128/k10014337901000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240128/k10014337901000.html"/>
-        <updated>2024-01-27T23:10:49.000Z</updated>
-        <summary type="html"><![CDATA[心筋梗塞など心臓の異常で心停止になった人に電気ショックを与える医療機器「AED」が一般の人も使えるようになってことしで20年になります。AEDによって救命された人はこれまでに7000人を超えることが医師などでつくる団体のまとめで分かりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
