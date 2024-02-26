@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120649/",
+          "author": null,
+          "description": "アニメ情報番組「徳井青空のアニメハックTV」第32回が、3月3日午後8時からアニメハック公式YouTubeチャンネルで生配信される。 今回のゲストは、4月9日からスタートする女子競輪アニメ「リン...",
+          "link": "https://anime.eiga.com/news/120649/",
+          "publishedOn": "2024-02-26T08:00:00.000Z",
+          "wordCount": 845,
+          "title": "「徳井青空のアニメハックTV」3月3日ゲストは「リンカイ！」川村海乃＆葵あずさ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120617/",
           "author": null,
           "description": "ディズニー・アニメーションと、アフリカ系エンタテインメント企業・クガリが初めてコラボレーションしたオリジナルアニメシリーズ「イワジュ」の予告とキービジュアルがお披露目された。近未来のナイジェリア...",
@@ -2712,6 +2727,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98615",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/26(月) 13:42:08.88 ID:vSRVJGDy0 ／ ニンテンドー […]",
+          "link": "https://switchsoku.com/nintendo/98615",
+          "publishedOn": "2024-02-26T08:00:31.000Z",
+          "wordCount": 9952,
+          "title": "ニンテンドーミュージアムのスタッフ募集中",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/GHPJ4OCboAA9whb.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98612",
           "author": "SWITCH速報",
@@ -5730,6 +5755,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014370951000.html",
+          "author": null,
+          "description": "サッカーの元日本代表で、歴代3位の50得点をマークしている岡崎慎司選手（37）が、今シーズンかぎりで現役を引退することになりました。これは、岡崎選手が所属するベルギー1部リーグのシントトロイデンが26日、公式ホームページで発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014370951000.html",
+          "publishedOn": "2024-02-26T07:58:06.000Z",
+          "wordCount": 687,
+          "title": "岡崎慎司 現役引退へ「体がボロボロ」日本代表歴代3位の50得点",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014370951_2402261531_0226165808_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371181000.html",
+          "author": null,
+          "description": "歌手で俳優の杉良太郎さんと歌手の伍代夏子さん夫婦が、能登半島地震で被害を受けた石川県七尾市を訪れ、被災した人たちに、うどんなどの炊き出しを行いました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240226/k10014371181000.html",
+          "publishedOn": "2024-02-26T07:51:55.000Z",
+          "wordCount": 639,
+          "title": "杉良太郎さん 伍代夏子さん夫婦ら 被災地で炊き出し 石川 七尾",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240226/K10014371181_2402261633_0226163825_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240226/k10014371131000.html",
           "author": null,
@@ -22179,26 +22224,6 @@
           "wordCount": 688,
           "title": "防衛装備品輸出ルール見直し 自公の実務者協議 再開めど立たず",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337671_2401272233_0128053342_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014337811000.html",
-          "author": null,
-          "description": "ガザ地区で人道状況の悪化が深刻化するなか現地で活動する国連のスタッフが去年10月のハマスによる奇襲攻撃に関与していた疑いが浮上し、今後の支援活動への影響が懸念されています。※イスラエルやパレスチナに関する日本時間1月28日の動きを、随時更新してお伝えします。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014337811000.html",
-          "publishedOn": "2024-01-27T20:11:17.000Z",
-          "wordCount": 578,
-          "title": "【随時更新】ハマス奇襲に国連機関の車や施設使用と報道(28日)",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337811_2401272225_0128051119_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014337651000.html",
-          "author": null,
-          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受け、日本維新の会は、企業・団体献金を禁止する一方、個人献金を促進するため税制上の優遇措置を拡大することなどを盛り込んだ政治改革の原案をまとめました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014337651000.html",
-          "publishedOn": "2024-01-27T19:59:21.000Z",
-          "wordCount": 663,
-          "title": "維新 企業・団体献金禁止 個人献金促進の政治改革原案まとめる",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014337651_2401272053_0128045923_01_02.jpg"
         }
       ]
     },
@@ -23948,6 +23973,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69230",
+          "author": "299",
+          "description": "黒猫とキジトラの子猫は保護されたばかりの兄弟猫です。どちらもまだ恐怖心でいっぱいで余裕も全くない状態です。でもごはんは一応食べてくれたので安心です。 ですがちょっとお部屋を覗くと、すかさずシャーシャー威嚇してきます。 ま...\n保護したての子猫兄弟がようやくごはんを食べてくれました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69230",
+          "publishedOn": "2024-02-26T08:00:42.000Z",
+          "wordCount": 1398,
+          "title": "保護したての子猫兄弟がようやくごはんを食べてくれました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69230.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69226",
           "author": "299",
@@ -27477,16 +27512,6 @@
           "wordCount": 1625,
           "title": "パパと深夜のテレビを楽しむ子猫のまったりタイム",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67368.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67364",
-          "author": "299",
-          "description": "ベッドの中の赤ちゃん猫が、ぼんやりとした顔で上半身を起こしています。どうやら相当なおねむの様子です。 ベッドの上のブランケットに顔を埋めて寝ようとしていたのですが、お母さん猫がやってきて赤ちゃん猫のそばをうろうろするので...\nお昼寝しようとしてもママが気になって眠れない子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67364",
-          "publishedOn": "2024-01-27T20:00:10.000Z",
-          "wordCount": 1627,
-          "title": "お昼寝しようとしてもママが気になって眠れない子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67364.jpeg"
         }
       ]
     },
@@ -27501,6 +27526,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=69902",
+          "author": "編集部：平山洸太",
+          "description": "XREALは、同社ARグラス「XREAL Airシリーズ」のアクセサリーとして、「XREAL Hub」を4月10日以降に発売する。価格は5,980円（税込）。 XREAL Airシリーズをゲーム機などのデバイスに接続しながら、デバイスへの給電を行えるようになるアクセサリー。給電はUSB PD（USB […]",
+          "link": "https://gadget.phileweb.com/post-69902/",
+          "publishedOn": "2024-02-26T08:02:25.000Z",
+          "wordCount": 790,
+          "title": "XREAL、ARグラスを使いながら端末を充電できるアダプター「XREAL Hub」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/DSC_6841.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=69869",
           "author": "多根清史",
@@ -29122,6 +29157,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033397.html",
+          "author": "yonepo665sfr",
+          "description": "1 ： ：2024/02/25(日) 20:33:35.54 \n\n\n\n\n\n\n\n\n\nヨドバシってこんなものも売ってるのか…初めて見た…てか、値段高いな…笑 pic.twitter.com/t3SX1Q3fQk— たこ (@kenzenahitotako) February 25, 2024",
+          "link": "https://itainews.com/archives/2033397.html",
+          "publishedOn": "2024-02-26T08:01:39.000Z",
+          "wordCount": 2487,
+          "title": "【炎上】ヨドバシカメラさん、とんでもない商品を売ってしまうｗｗｗｗｗｗ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/970e10de-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033390.html",
           "author": "yonepo665sfr",
@@ -32441,16 +32486,6 @@
           "wordCount": 2365,
           "title": "吉本芸人プラスマイナス岩橋が番組制作会社社長・林敏博のパワハラ告発！吉本興業崩壊へ。",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/a/3a150581-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032568.html",
-          "author": "damono3856",
-          "description": "1 名前：フォーエバー ★：2024/01/27(土) 12:49:22.15 ID:1hO2u2UE9.net\n\n\n\n\n\n\n\n【「帰りますって言えたはず」人気女性シンガー　松本人志報道で性被害告発女性への“持論”が波紋】https://t.co/chGWEfVJS5 #MINMI #松本人志 #女性自身［@jisinjp］— 女性自身【公式・...",
-          "link": "https://itainews.com/archives/2032568.html",
-          "publishedOn": "2024-01-27T20:03:25.000Z",
-          "wordCount": 2324,
-          "title": "「帰りますって言えたはず」人気女性シンガー　松本人志報道で性被害告発女性への“持論”が波紋",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/5/05785dbe-s.png"
         }
       ]
     },
