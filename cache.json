@@ -2818,6 +2818,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98679",
+          "author": "SWITCH速報",
+          "description": "Pokémon Presents 2024.2.27にて、『ポケモンレジェンズZ-A（ゼットエー）』 […]",
+          "link": "https://switchsoku.com/soft/pokemon/98679",
+          "publishedOn": "2024-02-27T14:30:20.000Z",
+          "wordCount": 10111,
+          "title": "『ポケモンレジェンズZ-A』2025年発売！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-z-a.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98662",
           "author": "SWITCH速報",
           "description": "1: 2024/02/27(火) 22:54:02.99 ID:i/ICBmOT0 この後23時から […]",
@@ -23878,16 +23888,6 @@
           "wordCount": 1902,
           "title": "【マクドナルド】サイドサラダ・低カロリー玉ねぎドレッシング【サイドメニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/aa7f7c435bc1bd0f80497e81222138e4.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=234384",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「ルージュホワイトオペラフラペチーノ」を世界一詳しく調査しました。    […]",
-          "link": "https://foodfighter.jp/starbucks-rougeopera-white",
-          "publishedOn": "2024-01-29T02:34:19.000Z",
-          "wordCount": 1907,
-          "title": "【スターバックス】ルージュホワイトオペラフラペチーノ【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/f5ff08e869b0d45a6cdb7fbd71b6f6eb.jpg"
         }
       ]
     },
@@ -24165,16 +24165,6 @@
           "wordCount": 2648,
           "title": "LPDDR5Xベースの低消費電力メモリモジュール",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/30/cover_news078.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/23/news180.html",
-          "author": null,
-          "description": "今回は前回説明しきれなかったチョークの要求特性について説明し、続いて今回の目標であるリップル電圧を図式解法で導けるかを検討します。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/23/news180.html",
-          "publishedOn": "2024-01-29T02:30:00.000Z",
-          "wordCount": 2618,
-          "title": "ステップダウン形DC/DCコンバーターの設計（3）",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/23/l_tt240126_2S_001.jpg"
         }
       ]
     },
