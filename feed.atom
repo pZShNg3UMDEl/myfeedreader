@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T07:24:25.736Z</updated>
+    <updated>2024-02-27T07:37:04.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[富山湾でベニズワイガニの個体数 大幅減 地震が影響の可能性も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014372211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014372211000.html"/>
+        <updated>2024-02-27T07:29:19.000Z</updated>
+        <summary type="html"><![CDATA[2月に石川県能登町の沖合の富山湾で行われたベニズワイガニの個体数を調べる調査で、カニの数が例年の2割以下にまで大幅に減っていることが、富山県水産研究所への取材でわかりました。研究所は、能登半島地震による影響の可能性もあるとみて状況を注視するとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IAEA事務局長 3月訪日 福島第一原発で処理水の放出状況確認へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240227/k10014372121000.html</id>
