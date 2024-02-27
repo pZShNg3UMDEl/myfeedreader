@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T09:23:55.372Z</updated>
+    <updated>2024-02-27T09:36:36.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[児童の水筒の中身入れ替えられた問題で保護者説明会 東京 杉並]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014372491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014372491000.html"/>
+        <updated>2024-02-27T09:28:10.000Z</updated>
+        <summary type="html"><![CDATA[今月19日、東京 杉並区の小学校の児童が下校後に持ち帰った水筒のお茶を飲もうとしたところ、中身が塩素のようなにおいのする液体に入れ替えられていた問題で、学校は保護者を集めた説明会を開いて、これまでに把握している経緯などを説明しているものと見られます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮設住宅 来月末までの着工数4600戸に引き上げ 石川 馳知事]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240227/k10014372451000.html</id>
