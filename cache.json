@@ -2734,21 +2734,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120457/",
-          "author": null,
-          "description": "4月からTBS系28局で全国同時放送されるテレビアニメ「花野井くんと恋の病」に、久保ユリカ、坂本真綾、木村良平、逢坂良太の出演が決定した。 原作は、森野萌氏が「月刊デザート」（講談社刊）で連載中...",
-          "link": "https://anime.eiga.com/news/120457/",
-          "publishedOn": "2024-01-28T12:00:00.000Z",
-          "wordCount": 895,
-          "title": "「花野井くんと恋の病」に久保ユリカ、坂本真綾、木村良平、逢坂良太が出演決定　親友、クラスメイト役に",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5016,16 +5001,6 @@
           "wordCount": 10099,
           "title": "『ポケモン』ナンバリング面白さランキングってこうだろ",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/pokemonm-nimber.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97601",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/27(土) 12:27:58.863 ID:4YdFcCFW0 マリカ７ &n […]",
-          "link": "https://switchsoku.com/ds/97601",
-          "publishedOn": "2024-01-28T12:00:11.000Z",
-          "wordCount": 10065,
-          "title": "Swichに移植してほしい3DSのゲーム",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/3ds.webp"
         }
       ]
     },
@@ -5765,6 +5740,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371771000.html",
+          "author": null,
+          "description": "今月、民間企業としては世界で初めて月面着陸に成功したアメリカの着陸船について、NASA＝アメリカ航空宇宙局は、この着陸船を月の上空から撮影した画像を公開しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371771000.html",
+          "publishedOn": "2024-02-26T23:40:25.000Z",
+          "wordCount": 798,
+          "title": "世界初の米民間月着陸船 NASAが月上空から撮影した画像を公開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371771_2402270807_0227084027_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371811000.html",
           "author": null,
@@ -22154,56 +22139,6 @@
           "wordCount": 681,
           "title": "名画「モナリザ」に環境活動家がスープかける騒ぎ 絵画は無事",
           "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338681000.html",
-          "author": null,
-          "description": "能登半島地震で被災した人のための仮設住宅について、石川県珠洲市は最も早いところで2月5日に完成するという見通しを明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338681000.html",
-          "publishedOn": "2024-01-28T12:47:18.000Z",
-          "wordCount": 612,
-          "title": "石川 珠洲 「仮設住宅」が2月5日にも完成する見通し",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338681_2401282130_0128214720_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338461000.html",
-          "author": null,
-          "description": "愛媛県今治市の住宅でピアノ教師の64歳の女性が殺害された事件で、女性の次女に暴行を加えた疑いで逮捕された容疑者が、事件当日、女性の自宅近くを訪れたことを認める供述をしていることが警察への取材で分かりました。暴行事件は女性が殺害された事件と近接した時間帯に起きていて、警察は容疑者が女性が死亡したいきさつを知っているとみて捜査しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338461000.html",
-          "publishedOn": "2024-01-28T12:36:45.000Z",
-          "wordCount": 642,
-          "title": "愛媛 今治 女性殺害事件 容疑者 女性の自宅近く訪れたと供述",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338461_2401282003_0128213647_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338491000.html",
-          "author": null,
-          "description": "卓球・日本一を決める全日本選手権は28日、男女シングルスの決勝が行われ、男子は張本智和選手が6年ぶり2回目、女子は早田ひな選手が2大会連続3回目の優勝を果たしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338491000.html",
-          "publishedOn": "2024-01-28T12:24:07.000Z",
-          "wordCount": 934,
-          "title": "卓球 全日本選手権 張本智和と早田ひなが優勝 男女シングルス",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338491_2401281945_0128203333_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338451000.html",
-          "author": null,
-          "description": "ロシアのプーチン大統領は28日、ロシア第2の都市サンクトペテルブルクを訪れているベラルーシのルカシェンコ大統領と会談する予定で、欧米と対抗していくうえで連携強化を打ち出す方針です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338451000.html",
-          "publishedOn": "2024-01-28T12:16:21.000Z",
-          "wordCount": 604,
-          "title": "プーチン大統領 ベラルーシ大統領と会談へ 対欧米連携強化へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338451_2401281921_0128211623_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240128/k10014338471000.html",
-          "author": null,
-          "description": "能登半島地震では揺れによる建物の倒壊だけでなく火災も相次ぎ、専門家の調査で火災の発生率が東日本大震災を上回っていたことが分かりました。専門家は今後発生すると指摘されている巨大地震や津波に伴う津波火災の想定を避難などの計画に早急に盛り込む必要があるとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240128/k10014338471000.html",
-          "publishedOn": "2024-01-28T12:01:47.000Z",
-          "wordCount": 736,
-          "title": "能登半島地震の火災発生率 東日本大震災を上回る 専門家が報告",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240128/K10014338471_2401282047_0128205008_01_03.jpg"
         }
       ]
     },
@@ -23677,6 +23612,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/27/news071.html",
+          "author": null,
+          "description": "コンガテックは、x86ベースのCOMに、ハイパーバイザーを標準搭載する。システム統合のためのリアルタイムな仮想化を大幅に簡素化できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/27/news071.html",
+          "publishedOn": "2024-02-27T00:00:00.000Z",
+          "wordCount": 2630,
+          "title": "x86ベースのCOMにハイパーバイザーを標準搭載、コンガテック",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/27/cover_news071.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/26/news025.html",
           "author": null,
           "description": "今回はいままで前提にしてきたチョークの電流連続性が途切れた場合のコンバーターの振る舞いについて図式を基に検討します。",
@@ -23953,6 +23898,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69315",
+          "author": "299",
+          "description": "今回ご紹介するのは飼い主ママさんがお風呂から出てくるのを出待ちする猫ちゃんです。 ママさんがお風呂から出てくるのを今か今かとソファーで待つ猫ちゃん。 撫でてニャ～とすり寄る姿がとっても可愛らしいのでご覧ください。 ママさ...\nママさんがお風呂から出てくるのを出待ちして甘える猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69315",
+          "publishedOn": "2024-02-27T00:00:43.000Z",
+          "wordCount": 1404,
+          "title": "ママさんがお風呂から出てくるのを出待ちして甘える猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69315.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69275",
           "author": "299",
@@ -27507,6 +27462,36 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=69916",
+          "author": "編集部：平山洸太",
+          "description": "シャオミ・ジャパンは、スマートウォッチ「Xiaomi Smart Band 8 Pro」を2月27日に発売する。8,980円（税込）での実売が予想され、カラーはブラックとライトグレーを用意。 1.74インチの有機ELを搭載し、60Hzのリフレッシュレートによる表示に対応するスマートウォッチ。ディスプ […]",
+          "link": "https://gadget.phileweb.com/post-69916/",
+          "publishedOn": "2024-02-27T00:00:00.000Z",
+          "wordCount": 784,
+          "title": "シャオミ、画面を1.74インチに拡大したスマートウォッチ「Xiaomi Smart Band 8 Pro」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/xiaomi_8pro.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=69942",
+          "author": "編集部：平山洸太",
+          "description": "シャオミ・ジャパンは、同社Redmiブランドのスマートウォッチ「Redmi Watch 4」を2月27日に発売する。税込11,980円前後での実売が予想される。カラーはオブシディアンブラックとシルバーグレー。なお発売を記念した早割キャンペーンも展開し、3月5日までは税込10,980円前後で購入できる […]",
+          "link": "https://gadget.phileweb.com/post-69942/",
+          "publishedOn": "2024-02-27T00:00:00.000Z",
+          "wordCount": 761,
+          "title": "最大20日間バッテリー持続のスマートウォッチ、シャオミ「Redmi Watch 4」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/redmi2.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=69945",
+          "author": "編集部：平山洸太",
+          "description": "シャオミ・ジャパンは、ファッション性を追求したスマートウォッチ「Xiaomi Watch S3」を2月27日に発売する。18,980円（税込）での実売が予想される。カラーはシルバーとブラック。発売記念として、3月5日まではキャンペーン価格の17,980円（税込）で販売する。 「従来の腕時計を身につけ […]",
+          "link": "https://gadget.phileweb.com/post-69945/",
+          "publishedOn": "2024-02-27T00:00:00.000Z",
+          "wordCount": 765,
+          "title": "シャオミ、ベゼル交換でファッション性を高めたスマートウォッチ「Xiaomi Watch S3」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/s3_1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=70001",
           "author": "編集部：平山洸太",
           "description": "携帯電話メーカーHuman Mobile Devices（HMD）は、玩具メーカーのマテル社と提携し、携帯電話「Barbie Flip Phone」を2024年夏に発売すると発表した。 具体的な発売日や価格、そして外観デザインについても不明。ただしスマートフォンではなく、旧来の “フリップフォン”  […]",
@@ -28962,16 +28947,6 @@
           "wordCount": 2595,
           "title": "千尋訴訟③中川卓の完璧な準備書面2",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a0a46a244a128883cd6bd170b77795671027fc5a.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/ndd290f549def",
-          "author": null,
-          "description": "前回\n\n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/ndd290f549def",
-          "publishedOn": "2024-01-28T12:06:19.000Z",
-          "wordCount": 2611,
-          "title": "原告のりこえねっと裁判②原告被告準備書面",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ca24183d491d55400ab7581df206a742b319457f.png"
         }
       ]
     },
@@ -29147,6 +29122,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033411.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：もん様：2024/02/26(月) 20:42:42.14 ID:A+t4FFiM0●.net \n\n\n\n\n\n\n\n\n給食詰まらせ、小1男子児童が死亡　福岡・みやま市立小https://t.co/ZBkcUr6xMb— 毎日新聞 (@mainichi) February 26, 2024 \n\n\n\n\n\n\n\n\n給食詰まらせ、小1男子児童が死亡　ウズラの卵か　福岡・みやま...",
+          "link": "https://itainews.com/archives/2033411.html",
+          "publishedOn": "2024-02-27T00:01:22.000Z",
+          "wordCount": 2621,
+          "title": "うずらの卵で小学校1年生亡くなる",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/5/55fa71b4-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033410.html",
           "author": "yonepo665sfr",
@@ -32456,16 +32441,6 @@
           "wordCount": 2364,
           "title": "音喜多駿『朝生は今の若い子興味持たない』 田原『何をー！』 音喜多『それｗそうゆうとこ』",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/9/59a1aacc-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032591.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(ジパング) [CN]\n2024/01/28(日) 11:55:05.14ID:s08CWEh/0\n\n\n\n\n\n\n\nドイツ人がレストランで「無料でも」お茶や水の提供を断るなぜ、サービスを受けるのが当たり前になった日本人（東洋経済オンライン） https://t.co/OxZ2fxwsdl— 巻機山プ...",
-          "link": "https://itainews.com/archives/2032591.html",
-          "publishedOn": "2024-01-28T12:06:58.000Z",
-          "wordCount": 2372,
-          "title": "ドイツ人、日本料理店の無料の水にブチギレwwww「水を有料にしてその分他の食事代を値引きすべき」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/b/7bafda14-s.png"
         }
       ]
     },
@@ -32474,6 +32449,26 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41085",
+          "author": "田原",
+          "description": "こんにちは、タハラ＠あつらぼです♪ 毎回未就園児ママに大大大反響！のえいすう幼稚園オープンデー 2024年春も開催予定！ということで、今回もどどーんとご紹介させていただきます！ 対象は０～３歳のお子様とその保護者となります。 まずは場所から…",
+          "link": "https://atsugi-lab.com/event-eisu-openday-2024spring/",
+          "publishedOn": "2024-02-27T00:33:24.000Z",
+          "wordCount": 1273,
+          "title": "【0～3歳のお子様対象】園庭を走る新幹線に乗れる！英語のLANA先生も♪「えいすう幼稚園 オープンデー」【3月21日・4月13日】",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/eisu-2024spring.png"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41357",
+          "author": "fumie",
+          "description": "サックサクのフライドチキン、手が止まらなくなりますよねー！ふみえ＠あつらぼです。 今回は、湘南発の名物チキンが厚木にやってくるとの情報をキャッチしました♪ 「ROCKET CHICKEN（ロケットチキン）厚木インター店」がオープン予定とのこ…",
+          "link": "https://atsugi-lab.com/news-rocketchicken202403/",
+          "publishedOn": "2024-02-27T00:17:58.000Z",
+          "wordCount": 1158,
+          "title": "【3月中旬開店予定】湘南発！新感覚フライドチキンのお店「ROCKET CHICKEN（ロケットチキン）」がオープン予定★［厚木市岡田］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/r-chicken202403.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41169",
           "author": "comomo",
