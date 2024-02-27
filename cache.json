@@ -2743,6 +2743,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98639",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/26(月) 15:25:46.65 ID:q0EVYIu70 フリューは、新作 […]",
+          "link": "https://switchsoku.com/soft/98639",
+          "publishedOn": "2024-02-27T04:00:58.000Z",
+          "wordCount": 9989,
+          "title": "フリュー、現代渋谷が舞台のARPG『REYNATIS／レナティス』予約開始",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/renatis.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98637",
           "author": "SWITCH速報",
           "description": "1: 2024/02/26(月) 22:26:39.41 ID:aesmcRoD0 https:// […]",
@@ -4991,16 +5001,6 @@
           "wordCount": 10077,
           "title": "【噂】Switch2ではONLINEサービスにゲームキューブが追加か！？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/switch-online-plus.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97607",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/28(日) 15:14:49.77 ID:TS2v6xusd アマガミ &nb […]",
-          "link": "https://switchsoku.com/direct/97607",
-          "publishedOn": "2024-01-28T16:00:39.000Z",
-          "wordCount": 10074,
-          "title": "そろそろDirectだから発表して欲しいタイトル書いてけ",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/NintedoDirect.webp"
         }
       ]
     },
@@ -5730,6 +5730,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014372021000.html",
+          "author": null,
+          "description": "プロ野球、広島は27日午前、およそ1か月にわたったキャンプを打ち上げ、新井貴浩監督は「若い選手がアピールしてくれた。今後も高いレベルで競争してもらいたい」と開幕に向けてさらなる競争を求めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014372021000.html",
+          "publishedOn": "2024-02-27T04:04:20.000Z",
+          "wordCount": 603,
+          "title": "広島 キャンプ打ち上げ 新井監督「今後も高いレベルで競争を」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014372021_2402271251_0227130422_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371901000.html",
+          "author": null,
+          "description": "能登半島地震で被災した住宅の再建を支援するため、武見厚生労働大臣は、石川県内の6つの市と町で自宅が半壊以上の被害を受けた高齢者がいる世帯などを対象に、最大300万円を支給する新たな交付金制度を創設すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371901000.html",
+          "publishedOn": "2024-02-27T03:57:32.000Z",
+          "wordCount": 530,
+          "title": "被災住宅の再建支援 最大300万円支給 新たな交付金制度創設へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371901_2402271304_0227130520_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014372031000.html",
+          "author": null,
+          "description": "25日、札幌市のコンビニエンスストアで店員3人が刃物で刺され死傷した事件で、警察は、このうち1人に対する殺人未遂の疑いで逮捕した43歳の容疑者の自宅を捜索しました。これまでの調べに対し「複数の刃物を自宅から持ち込んだ」という趣旨の供述をしているということで、警察は事件に至ったいきさつを調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014372031000.html",
+          "publishedOn": "2024-02-27T03:48:46.000Z",
+          "wordCount": 594,
+          "title": "札幌 コンビニ3人死傷事件 容疑者の自宅を捜索",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014372031_2402271242_0227124803_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371991000.html",
           "author": null,
@@ -22229,16 +22259,6 @@
           "wordCount": 663,
           "title": "米軍“ヨルダンの拠点が無人機攻撃を受け 3人死亡25人けが”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014338801_2401290215_0129021546_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338311000.html",
-          "author": null,
-          "description": "アメリカのFRB＝連邦準備制度理事会は30日から2日間、金融政策を決める会合を開きます。市場では4会合連続で利上げを見送るという見方が大勢で、パウエル議長が会合後の記者会見で利下げを始める時期について、どのように発言するかに関心が集まっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014338311000.html",
-          "publishedOn": "2024-01-28T15:59:47.000Z",
-          "wordCount": 610,
-          "title": "米FRB 金融政策決定会合「利下げ時期」会見での議長発言に関心",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014338311_2401281704_0129005949_01_02.jpg"
         }
       ]
     },
@@ -23998,6 +24018,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69284",
+          "author": "299",
+          "description": "今回ご紹介するのは子猫ちゃん同士のバトルシーンです。 バトルといっても子猫ちゃん同士なだけあって可愛らしいものなんですけどね。 それでは微笑ましい子猫ちゃん達の戦いをご覧ください。 ソファーの上には二匹の子猫ちゃんがやり...\n子猫同士のバトルが始まった first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69284",
+          "publishedOn": "2024-02-27T04:00:04.000Z",
+          "wordCount": 1407,
+          "title": "子猫同士のバトルが始まった",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69284.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69279",
           "author": "299",
