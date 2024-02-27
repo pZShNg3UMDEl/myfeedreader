@@ -23642,6 +23642,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/22/news206.html",
+          "author": null,
+          "description": "知人の会社から事前連絡もなく、荷物が届いた。その荷物は、修理を途中で諦めたと思われる電源ユニットだった。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/22/news206.html",
+          "publishedOn": "2024-02-27T02:00:00.000Z",
+          "wordCount": 2618,
+          "title": "修理途中で投げ出された電源ユニットを修理（前編）",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/22/l_tt240227_ww_001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/27/news071.html",
           "author": null,
           "description": "コンガテックは、x86ベースのCOMに、ハイパーバイザーを標準搭載する。システム統合のためのリアルタイムな仮想化を大幅に簡素化できる。",
