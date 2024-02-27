@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T11:36:13.668Z</updated>
+    <updated>2024-02-27T11:50:40.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -153,6 +153,16 @@
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、協同乳業の新商品「のむメイトーのなめらかプリン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃 […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapidus AI半導体量産へ米スタートアップ企業と共同開発推進]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240227/k10014372461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240227/k10014372461000.html"/>
+        <updated>2024-02-27T09:31:07.000Z</updated>
+        <summary type="html"><![CDATA[先端半導体の国産化を目指す「Rapidus」は、自動運転などに欠かせないAI＝人工知能向けの半導体の量産に向けて、アメリカに本社があるスタートアップ企業と共同で、開発を推進していくことになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
