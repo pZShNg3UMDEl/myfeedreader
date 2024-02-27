@@ -5731,6 +5731,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014372051000.html",
+          "author": null,
+          "description": "ソフトバンクは、能登半島地震の影響で石川県輪島市の一部の地域で続いていた携帯電話の音声通話とデータ通信の通信障害について、27日午前11時までに応急復旧したと発表しました。これで、ソフトバンクは石川県内のすべての地域で、携帯電話の通信障害が解消されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014372051000.html",
+          "publishedOn": "2024-02-27T04:15:34.000Z",
+          "wordCount": 570,
+          "title": "ソフトバンク 石川県全域で通信障害解消",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014372051_2402271256_0227131536_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240227/k10014372021000.html",
           "author": null,
           "description": "プロ野球、広島は27日午前、およそ1か月にわたったキャンプを打ち上げ、新井貴浩監督は「若い選手がアピールしてくれた。今後も高いレベルで競争してもらいたい」と開幕に向けてさらなる競争を求めました。",
@@ -5769,6 +5779,16 @@
           "wordCount": 670,
           "title": "仏大統領 ウクライナへ地上部隊派遣 “排除されるべきでない”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371991_2402271210_0227124505_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371941000.html",
+          "author": null,
+          "description": "急速に発達している低気圧の影響で、関東では風の強い状態が続いています。海上は大しけとなっていて気象庁は高波に警戒するとともに強風に十分注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371941000.html",
+          "publishedOn": "2024-02-27T03:41:28.000Z",
+          "wordCount": 568,
+          "title": "関東で風の強い状態続く 高波に警戒 強風に十分注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371941_2402271138_0227120005_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240227/k10014372001000.html",
@@ -27557,16 +27577,6 @@
           "wordCount": 1626,
           "title": "新しいお布団をゲットした猫のじゅんちゃんが嬉しそう",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67472.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67464",
-          "author": "299",
-          "description": "グレーのショートヘアの猫さんは、大人気のロシアンブルーです。キリッとした顔つきがとても魅力でとても賢そうな子猫です。 飼い主さんの膝の上にちょこんと乗っかって甘えてくる姿は本当に可愛すぎます。飼い主さんが頭や背中を撫でて...\nロシアンの子猫の甘えっぷりにデレデレな飼い主さん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67464",
-          "publishedOn": "2024-01-28T16:30:11.000Z",
-          "wordCount": 1624,
-          "title": "ロシアンの子猫の甘えっぷりにデレデレな飼い主さん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67464.jpeg"
         }
       ]
     },
@@ -27581,6 +27591,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=70030",
+          "author": "Munenori Taniguchi",
+          "description": "造園機器メーカーのハスクバーナが、同社のロボット芝刈機「Automower NERA」の次回のファームウェアアップデートで『Doom』をプレイ可能にすると発表した。 ハスクバーナが「one hell of an update」と呼ぶ今回のアップデートへのDoomの提供は、2か月前に行われたイベントD […]",
+          "link": "https://gadget.phileweb.com/post-70030/",
+          "publishedOn": "2024-02-27T04:30:12.000Z",
+          "wordCount": 760,
+          "title": "ロボット芝刈り機に『Doom』が“メーカー公式”で搭載へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/hdom1.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=70027",
           "author": "編集部：平山洸太",
