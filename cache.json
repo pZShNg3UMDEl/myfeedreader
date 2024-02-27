@@ -2743,6 +2743,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98637",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/26(月) 22:26:39.41 ID:aesmcRoD0 https:// […]",
+          "link": "https://switchsoku.com/leak/98637",
+          "publishedOn": "2024-02-27T02:00:43.000Z",
+          "wordCount": 10098,
+          "title": "日経「Switch2は高精細な画質がウリで、大手メーカーも有力なタイトルを開発している」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/switch2-1.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98630",
           "author": "SWITCH速報",
           "description": "2024年3月12日発売の『魂斗羅 オペレーション ガルガ』の体験版が配信中 1: 2024/02 […]",
@@ -4991,16 +5001,6 @@
           "wordCount": 10074,
           "title": "そろそろDirectだから発表して欲しいタイトル書いてけ",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/NintedoDirect.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97603",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/28(日) 09:11:10.83 ID:gWF9tOTL0 赤・緑 金・銀  […]",
-          "link": "https://switchsoku.com/soft/pokemon/97603",
-          "publishedOn": "2024-01-28T14:00:08.000Z",
-          "wordCount": 10099,
-          "title": "『ポケモン』ナンバリング面白さランキングってこうだろ",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/pokemonm-nimber.webp"
         }
       ]
     },
@@ -5730,6 +5730,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371881000.html",
+          "author": null,
+          "description": "警視庁によりますと、27日午前9時40分ごろ、東京・渋谷区円山町の歩道に設置された街灯が倒れていると通行人から通報がありました。街灯は柱が根元から折れるように倒れていて、目撃者の話から強風の影響で倒れたとみられるということです。けが人はいないということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371881000.html",
+          "publishedOn": "2024-02-27T02:10:57.000Z",
+          "wordCount": 598,
+          "title": "東京 渋谷 歩道の街灯 柱が根元から折れる 強風影響か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371881_2402271055_0227111059_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371861000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスとの戦闘休止などをめぐる交渉について、アメリカのバイデン大統領は近く双方が合意し、週明けの３月4日にも戦闘休止が始まることに期待を示しました。ただ、双方の主張には依然として大きな隔たりがあるとみられ、合意に至るかどうかは不透明な状況です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371861000.html",
+          "publishedOn": "2024-02-27T02:02:48.000Z",
+          "wordCount": 686,
+          "title": "米大統領“イスラエルとハマスの戦闘休止 週明け開始に期待”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371861_2402271047_0227110104_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371751000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの投手が日本時間の29日、オープン戦に先発することになり初の実戦に向けてブルペンで調整しました。また、日本時間の28日、オープン戦に出場する大谷翔平選手は屋内の練習場で調整し去年9月以来となる実戦に備えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371751000.html",
+          "publishedOn": "2024-02-27T02:00:15.000Z",
+          "wordCount": 764,
+          "title": "山本由伸 大谷翔平 ともにオープン戦に備え調整",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371751_2402270852_0227091042_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371821000.html",
+          "author": null,
+          "description": "ロシアによるウクライナ侵攻や気候変動などを背景に、食料安全保障を強化するため、政府は、“農政の憲法”とされる「食料・農業・農村基本法」の改正案や関連法案を27日の閣議で決定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371821000.html",
+          "publishedOn": "2024-02-27T01:44:49.000Z",
+          "wordCount": 730,
+          "title": "「食料・農業・農村基本法」改正案 閣議決定 食料安全保障強化",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371821_2402270920_0227103954_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371851000.html",
+          "author": null,
+          "description": "小泉法務大臣は27日の閣議で、去年、全国の警察が携帯電話の通話を傍受したのは薬物の密売や殺人など22の事件で、合わせて70人を逮捕したことを報告しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371851000.html",
+          "publishedOn": "2024-02-27T01:29:03.000Z",
+          "wordCount": 625,
+          "title": "警察による携帯電話の通話傍受 去年1年間 22の事件で70人逮捕",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371851_2402271005_0227102835_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371771000.html",
           "author": null,
@@ -23879,6 +23929,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=69279",
+          "author": "299",
+          "description": "今回ご紹介するのはワンちゃん大好き子猫ちゃんです。 よほどワンちゃんことが好きなのか、ピッタリくっついて離れようとしません。 その強烈アプローチにワンちゃんが戸惑ってしまう程でした。 それではワンちゃんに懐く様子がとって...\n犬が好き過ぎる子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69279",
+          "publishedOn": "2024-02-27T02:00:48.000Z",
+          "wordCount": 1407,
+          "title": "犬が好き過ぎる子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69279.jpeg"
+        },
+        {
           "id": "https://2-9-9.com/?p=69315",
           "author": "299",
           "description": "今回ご紹介するのは飼い主ママさんがお風呂から出てくるのを出待ちする猫ちゃんです。 ママさんがお風呂から出てくるのを今か今かとソファーで待つ猫ちゃん。 撫でてニャ～とすり寄る姿がとっても可愛らしいのでご覧ください。 ママさ...\nママさんがお風呂から出てくるのを出待ちして甘える猫 first appeared on 肉球ドットコム（299.com）.",
@@ -32391,16 +32451,6 @@
           "wordCount": 2306,
           "title": "大学の授業中、学生が「鍋」を食べる...驚きの光景にSNS賛否両論　許可した教授が明かす「自由」めぐる深い理由",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/7/f7db76bb-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032593.html",
-          "author": "damono3856",
-          "description": "1 名前：蚤の市 ★：2024/01/28(日) 10:09:30.97 ID:XczRaLpg9.net\n\n\n\n\n\n\n\n横浜でスケボー巡るトラブル続出…人気沸騰も一部で苦情急増、月に５０件もhttps://t.co/yPNJSHHt9T神奈川県内でも専用施設やスケボー広場などにスケートボーダーが集ってにぎわいを見せる。横浜...",
-          "link": "https://itainews.com/archives/2032593.html",
-          "publishedOn": "2024-01-28T14:05:24.000Z",
-          "wordCount": 2275,
-          "title": "横浜でスケボー巡るトラブル続出…人気沸騰も一部で苦情急増、月に５０件も",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/b/7b73f3a2-s.png"
         }
       ]
     },
