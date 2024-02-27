@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T21:35:45.294Z</updated>
+    <updated>2024-02-27T21:50:33.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[G20 財務相・中央銀行総裁会議が開幕へ 日銀 植田総裁が出席]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014372651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014372651000.html"/>
+        <updated>2024-02-27T21:42:39.000Z</updated>
+        <summary type="html"><![CDATA[G20＝主要20か国の財務相・中央銀行総裁会議が日本時間の28日夜、ブラジルで開幕します。ロシアによるウクライナ侵攻の長期化など、世界経済のリスクに対し一致した姿勢を示せるかが焦点となるほか、この機会に日銀の植田総裁が金融政策に関して、どのような発信を行うかにも関心が集まっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全国のスギ人工林の約2割「重点区域」に指定 花粉症対策で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240228/k10014372641000.html</id>
