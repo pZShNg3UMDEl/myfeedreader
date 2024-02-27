@@ -2749,21 +2749,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120481/",
-          "author": null,
-          "description": "「僕のヒーローアカデミア」第7期が5月4日から放送されることが決定した。さらに、第7期の放送開始前の4月6、13、20、27日には、7期へとつながる重要な物語に新規シーンを加えた「僕のヒーローア...",
-          "link": "https://anime.eiga.com/news/120481/",
-          "publishedOn": "2024-01-29T10:00:00.000Z",
-          "wordCount": 768,
-          "title": "「ヒロアカ」7期は5月4日放送開始　4月には7期へとつながる物語「ヒロアカ Memories」を全4回放送",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5781,6 +5766,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372931000.html",
+          "author": null,
+          "description": "アメリカのバイデン大統領は、ウクライナ支援のための予算が枯渇し、新規の軍事支援が停止しているのを受けて、議会指導部と会談し、必要な予算案を速やかに承認するよう改めて求めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372931000.html",
+          "publishedOn": "2024-02-27T21:58:31.000Z",
+          "wordCount": 585,
+          "title": "バイデン大統領 ウクライナ支援の予算案 速やかな承認求める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372931_2402280652_0228065736_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372651000.html",
           "author": null,
           "description": "G20＝主要20か国の財務相・中央銀行総裁会議が日本時間の28日夜、ブラジルで開幕します。ロシアによるウクライナ侵攻の長期化など、世界経済のリスクに対し一致した姿勢を示せるかが焦点となるほか、この機会に日銀の植田総裁が金融政策に関して、どのような発信を行うかにも関心が集まっています。",
@@ -5789,6 +5784,16 @@
           "wordCount": 575,
           "title": "G20 財務相・中央銀行総裁会議が開幕へ 日銀 植田総裁が出席",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372651_2402272218_0227221923_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372681000.html",
+          "author": null,
+          "description": "ロシアでプーチン政権に批判的だった野党指導者が殺害されてから27日で9年となり、欧米の大使らが花を手向け追悼しました。ロシアでは今月、反体制派の指導者ナワリヌイ氏の死亡をめぐっても追悼の動きが起きていて、当局側は反政権の動きが広がることに警戒を強めているとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372681000.html",
+          "publishedOn": "2024-02-27T21:06:47.000Z",
+          "wordCount": 429,
+          "title": "ロシア野党指導者ネムツォフ氏殺害から9年 反政権の動き警戒か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372681_2402272236_0228060649_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372641000.html",
@@ -22179,36 +22184,6 @@
           "wordCount": 651,
           "title": "輪島 ビル倒壊現場で妻と娘の遺品を探す男性「本当に悔しい」",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014339421_2401291828_0129184912_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014339551000.html",
-          "author": null,
-          "description": "羽田空港で起きた航空機どうしの衝突炎上事故で、国の運輸安全委員会が、海上保安庁の機長への聞き取りを始めたことが分かりました。海上保安庁機は、誤って滑走路に進入したとみられていて、運輸安全委員会が当時の詳しい状況を調べています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014339551000.html",
-          "publishedOn": "2024-01-29T10:10:41.000Z",
-          "wordCount": 663,
-          "title": "羽田空港 衝突事故 国の運輸安全委 海保機長に聞き取り開始",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014339551_2401291851_0129185136_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014339491000.html",
-          "author": null,
-          "description": "能登半島地震から4週間がたち、避難生活の長期化が懸念されるなか、石川県の馳知事は、初めての仮設住宅が1月31日に輪島市で完成すると明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014339491000.html",
-          "publishedOn": "2024-01-29T09:57:07.000Z",
-          "wordCount": 697,
-          "title": "石川 初めての仮設住宅が輪島で31日に完成 知事が明らかに",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014339491_2401291834_0129184138_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014338941000.html",
-          "author": null,
-          "description": "石川県能登町は、巨大なイカのモニュメント「イカキング」が話題を集め、イカ漁が盛んです。今回の地震や津波で港でも岸壁が損傷する被害を受けましたが、地震のあと初めてスルメイカの水揚げが行われました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014338941000.html",
-          "publishedOn": "2024-01-29T09:55:04.000Z",
-          "wordCount": 1075,
-          "title": "スルメイカ漁が再開 地震であの「イカキング」は… 能登町",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014338941_2401291755_0129180844_01_02.jpg"
         }
       ]
     },
@@ -23938,6 +23913,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69339",
+          "author": "299",
+          "description": "ソファに横になって眠っている、毛の長い猫ちゃん。その隣には1匹の子猫が座っています。この子猫、かなりのいたずらっ子のようで、寝ている猫ちゃんの頭に猫パンチを何発も繰り出しています。しかも、かなりのパワーでパンチをするもの...\n【寝ている猫に猫パンチ！】頭を何度もパンチするいたずら子猫から目が離せない！おもしろ猫動画 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69339",
+          "publishedOn": "2024-02-27T22:00:13.000Z",
+          "wordCount": 1407,
+          "title": "【寝ている猫に猫パンチ！】頭を何度もパンチするいたずら子猫から目が離せない！おもしろ猫動画",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69339.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69335",
           "author": "299",
@@ -28810,16 +28795,6 @@
           "wordCount": 771,
           "title": "Zoom、Apple Vision Pro向けアプリ発表。「同じ部屋にいるような感覚」",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/use-this-for-apple-newsroom-post-1024x576-1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=67194",
-          "author": "Munenori Taniguchi",
-          "description": "軍隊や、警察機関の特殊チームは、銃撃される可能性があるような任務などでは、重い防護服を着用する必要がある。 ドイツのMehler Protectionはそのような需要を解決するため、カナダの先端技術企業Mawashi Science & Technology、フランスの国家憲兵隊治安介入部隊 […]",
-          "link": "https://gadget.phileweb.com/post-67194/",
-          "publishedOn": "2024-01-29T09:52:45.000Z",
-          "wordCount": 766,
-          "title": "まるでSFに出てきそう。防弾でも動きやすい強化装甲エクソスケルトンが開発中",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/AM17251-1.jpg"
         }
       ]
     },
@@ -32481,16 +32456,6 @@
           "wordCount": 2376,
           "title": "中国、愛国教育強化の新法施行　国旗の冒涜禁止　ネットのコメントも含め、政府に異議を唱えたら当局に",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/2/12243221-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032613.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：ごまカンパチ ★：2024/01/28(日) 19:09:50.16 ID:vef0lp7z9.net\n\n\n\n\n\n\n\n\n\n同僚教諭の胸や股間をしつこく触る　居酒屋で飲酒中「やめろ」と抵抗するも…40歳の男性教諭「大変失礼なことをした」停職２か月の懲戒処分#北海道放送 #hbcnews | @HBCnewsJNN | @HBChokkai...",
-          "link": "https://itainews.com/archives/2032613.html",
-          "publishedOn": "2024-01-29T10:01:30.000Z",
-          "wordCount": 2312,
-          "title": "【酒害】泥酔し同僚教諭の胸や股間をしつこく触る 居酒屋で飲酒中「やめろ」と抵抗するもしつこく…男性教諭に停職2か月の懲戒処分",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/f/df87bc01-s.png"
         }
       ]
     },
