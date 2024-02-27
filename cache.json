@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120667/",
+          "author": null,
+          "description": "「映画 ギヴン 柊mix」の続編タイトルが「映画 ギヴン 海へ」に決定し、今秋に公開されることが明らかになった。 「ギヴン」シリーズは、キヅナツキ氏が「シェリプラス」（新書館刊）で連載していたボ...",
+          "link": "https://anime.eiga.com/news/120667/",
+          "publishedOn": "2024-02-27T03:00:00.000Z",
+          "wordCount": 891,
+          "title": "2部作後編「映画 ギヴン 海へ」今秋に公開決定　矢野奨吾らが語る「柊mix」の見どころとは",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120634/",
           "author": null,
           "description": "ドゥニ・ビルヌーブ監督によるSF超大作続編「デューン 砂の惑星PART2」の特別映像が披露された。主人公ポール（演：ティモシー・シャラメ）の日本語吹き替え声優を担当した入野自由が、前作「DUNE...",
@@ -2713,21 +2728,6 @@
           "publishedOn": "2024-01-29T03:00:00.000Z",
           "wordCount": 799,
           "title": "「ウィッシュ」 生田絵梨花、山寺宏一らディズニー声優が歌をつなぐ　「星に願いを」歌唱特別映像",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120470/",
-          "author": null,
-          "description": "テレビアニメ「ザ・ファブル」のメインキャストが発表され、主役の佐藤明役を興津和幸、佐藤洋子役を沢城みゆき、清水岬役を花澤香菜、海老原剛士役を大塚明夫、小島賢治役を津田健次郎、ボス役を小村哲生、ジ...",
-          "link": "https://anime.eiga.com/news/120470/",
-          "publishedOn": "2024-01-28T15:00:00.000Z",
-          "wordCount": 846,
-          "title": "「ザ・ファブル」明役の興津和幸ほか沢城みゆき、花澤香菜、大塚明夫、津田健次郎ら出演　4月から2クール連続放送",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -5731,6 +5731,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371971000.html",
+          "author": null,
+          "description": "26日、福岡県みやま市の小学校で1年生の男子児童が給食をのどに詰まらせて死亡した事故を受けて、福岡市教育委員会は市立の小中学校などに対し、給食の際に児童の観察や指導を徹底するよう緊急の通知を出しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371971000.html",
+          "publishedOn": "2024-02-27T03:09:15.000Z",
+          "wordCount": 596,
+          "title": "男子児童給食詰まらせ死亡 “観察や指導の徹底を” 福岡市教委",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371971_2402271201_0227120559_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371921000.html",
+          "author": null,
+          "description": "石川県の奥能登地域では地震の影響で郵便物などの配達が休止していましたが、このうち珠洲市の一部と能登町で27日から各家庭や事業所への配達が再開されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371921000.html",
+          "publishedOn": "2024-02-27T02:56:35.000Z",
+          "wordCount": 723,
+          "title": "能登半島地震 石川 珠洲市の一部と能登町で郵便物など配達再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371921_2402271135_0227115637_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371951000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、与野党は、28日と29日衆議院政治倫理審査会を開く方向で調整していますが、野党側が公開を求めているのに対し、自民党は議員に限って傍聴を認める案を提案して折り合っておらず、午後も協議が続くものとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371951000.html",
+          "publishedOn": "2024-02-27T02:54:03.000Z",
+          "wordCount": 517,
+          "title": "衆院 政倫審 28日と29日開催の方向で調整 公開の是非 協議続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371951_2402271139_0227115405_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371871000.html",
           "author": null,
           "description": "新年度予算案の審議日程をめぐり、与党側は3月1日に衆議院予算委員会と本会議で採決したいと提案しましたが、野党側は審議時間が不十分で応じられないとして折り合わず、引き続き協議することになりました。",
@@ -5739,6 +5769,16 @@
           "wordCount": 627,
           "title": "新年度予算案 来月1日採決提案も折り合わず与野党引き続き協議",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371871_2402271038_0227114207_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371891000.html",
+          "author": null,
+          "description": "経済安全保障上、重要な情報にアクセスできる人を、国が信頼性を確認した人に限定する「セキュリティークリアランス」制度の創設に向けた法案が、27日の閣議で決定されました。信頼性の確認にあたっては本人の同意を前提に、国が、家族や犯罪歴などを調査するとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240227/k10014371891000.html",
+          "publishedOn": "2024-02-27T02:41:03.000Z",
+          "wordCount": 695,
+          "title": "セキュリティークリアランス制度 創設に向けた法案 閣議決定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240227/K10014371891_2402271130_0227114022_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240227/k10014371881000.html",
@@ -23623,16 +23663,6 @@
           "wordCount": 1908,
           "title": "【スターバックス】ルージュオペラフラペチーノ【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/e121463d5f38eeac2c9d9c3c7fa5b04c.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=234321",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、今月中に実食調査し、2024年1月29日時点で販売中のチェーン店の肉グルメ（全10種類）を美味しい・おすすめ順にラ […]",
-          "link": "https://foodfighter.jp/niku-ranking-2024-0129",
-          "publishedOn": "2024-01-28T14:56:34.000Z",
-          "wordCount": 1862,
-          "title": "【肉の日】チェーン店の美味しい・おすすめグルメランキング【2024年1月29日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/29180f8c2e0d56b220fbd049c8b30919.jpg"
         }
       ]
     },
@@ -29162,6 +29192,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033412.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：令和大日本憂国義勇隊(帝国中央都市) [US]：2024/02/26(月) 13:56:24.96 ID:FrnWj29f0.net\n\n\n\n\n\n\n\n\n\nうわあやばいやばい😇😇 pic.twitter.com/KeAzsNIceS— FIREし隊@高配当株投資家 (@FIRE_07141866) February 25, 2024",
+          "link": "https://itainews.com/archives/2033412.html",
+          "publishedOn": "2024-02-27T03:01:48.000Z",
+          "wordCount": 2438,
+          "title": "ネトウヨ「主婦から靴磨きの少年まで皆NISAやってる！俺も株を買うぞ！」オワタ＼(^o^)／",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/8/9801484d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033411.html",
           "author": "yonepo665sfr",
