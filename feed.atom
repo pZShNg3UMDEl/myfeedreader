@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T12:22:26.684Z</updated>
+    <updated>2024-02-28T12:45:29.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[春闘 大手企業では満額回答も 非正規雇用で働く人の賃上げは]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373251000.html"/>
+        <updated>2024-02-28T12:31:55.000Z</updated>
+        <summary type="html"><![CDATA[持続的な賃上げの実現が焦点となることし春闘の交渉が本格化しています。大手企業の中からは組合の要求に応じる満額の回答で決着する動きが出ていて、労働者全体の4割近くを占める非正規雇用で働く人の賃上げにつながるか注目されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名鉄犬山線にはねられ重体だった男性が死亡 助けようとしたか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240228/k10014373921000.html</id>
@@ -37095,16 +37105,6 @@ https://www.asagei.com...]]></summary>
         <summary type="html"><![CDATA[滋賀県の長浜警察署によりますと30日午前8時すぎ、長浜市の南浜漁港から南におよそ800メートルのびわ湖の沖合で、ボートが転覆しているのを漁をしていた人が発見しました。警察によりますと、ボートには釣りをしていた3人が乗っていたとみられるということで、転覆したボートの周辺で3人が発見されました。警察によりますと、2人は心肺停止で、もう1人は状態を確認中だということです。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム 白い生チョコバー【新作コンビニアイス】]]></title>
-        <id>https://foodfighter.jp/?p=234451</id>
-        <link href="https://foodfighter.jp/711sej-nama-choco-bar-ice-white"/>
-        <updated>2024-01-30T00:25:16.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 白い生チョコバー」を世界一詳しく調査しました。   公式YouTubeチャ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
