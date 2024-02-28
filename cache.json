@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120689/",
+          "author": null,
+          "description": "4月12日に同時公開される劇場アニメ「クラユカバ」と「クラメルカガリ」、各作品の予告編、メインビジュアルが公開された。 両作品は短編アニメ「甲鉄傳紀」シリーズで知られる塚原重義が原作・脚本・監督...",
+          "link": "https://anime.eiga.com/news/120689/",
+          "publishedOn": "2024-02-28T23:00:00.000Z",
+          "wordCount": 891,
+          "title": "4月12日同時公開「クラユカバ」＆「クラメルカガリ」の予告編＆メインビジュアル披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120655/",
           "author": null,
           "description": "3月15日から新潟市で開催される、第2回新潟国際アニメーション映画祭で、オープニング作品に塚原重義監督「クラメルカガリ」のワールドプレミア上映が決定した。シナリオ原案は成田良悟（「バッカーノ！」...",
@@ -2728,21 +2743,6 @@
           "publishedOn": "2024-01-30T12:00:00.000Z",
           "wordCount": 663,
           "title": "短編アニメ「ことりのロビン」を英アードマンがシリーズ化",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120493/",
-          "author": null,
-          "description": "YouTubeの「ガンダムチャンネル」で、テレビアニメ「機動戦士ガンダム SEED」と「機動戦士ガンダム SEED DESTINY」のスペシャルダイジェスト映像が公開されている。 2002年にス...",
-          "link": "https://anime.eiga.com/news/120493/",
-          "publishedOn": "2024-01-30T11:00:00.000Z",
-          "wordCount": 761,
-          "title": "西川貴教が「ガンダムSEED」の世界をレクチャー　TVシリーズを凝縮したダイジェスト映像が公開中",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -5755,6 +5755,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374041000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスの間で続く戦闘休止をめぐる交渉についてハマスのハニーヤ最高幹部は28日、交渉には柔軟な姿勢で臨んでいるとする一方、合意に至らなければ戦闘を続ける姿勢も示し、交渉がまとまるかどうかは依然として不透明です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014374041000.html",
+          "publishedOn": "2024-02-28T22:47:28.000Z",
+          "wordCount": 592,
+          "title": "ハマス “戦闘休止めぐり柔軟に交渉”も合意は依然不透明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374041_2402290726_0229074730_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374151000.html",
           "author": null,
@@ -22214,16 +22224,6 @@
           "wordCount": 529,
           "title": "養護学校の男性 元教諭から暴行訴え 市に賠償命令 名古屋地裁",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340921_2401301931_0130205503_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340871000.html",
-          "author": null,
-          "description": "国内では必要なルールが整備されていないためこれまで主に海外で行われていた第三者からの卵子提供による妊娠・出産について、NHKが、卵子提供を仲介している複数の業者に取材したところ、2020年以降、少なくとも340人が国内で卵子提供を受けていたことが分かりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014340871000.html",
-          "publishedOn": "2024-01-30T10:59:13.000Z",
-          "wordCount": 736,
-          "title": "国内の卵子提供 2020年以降で少なくとも340人「ルール作成を」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340871_2401301839_0130193322_01_02.jpg"
         }
       ]
     },
@@ -27492,16 +27492,6 @@
           "wordCount": 1624,
           "title": "大好きなお兄ちゃんにべったりな豆大福が可愛い",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67513.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67509",
-          "author": "299",
-          "description": "2匹の猫さんたちが家のそばの石の台の上で、まったりと日向ぼっこをしています。とても気持ちよさそうで、かなりリラックスしている様子です。 おばあちゃんが庭のお手入れをしています。お庭はとてもよく手入れされていて綺麗ですね。...\n猫ファミリーが雨宿りをしに来てくれた！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67509",
-          "publishedOn": "2024-01-30T11:00:16.000Z",
-          "wordCount": 1625,
-          "title": "猫ファミリーが雨宿りをしに来てくれた！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67509.jpeg"
         }
       ]
     },
@@ -32516,16 +32506,6 @@
           "wordCount": 2469,
           "title": "【格闘家】『龍が如く8』出演の朝倉未来の棒読みがすごいと話題に",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/5/15df3cb2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032645.html",
-          "author": "damono3856",
-          "description": "1 名前：あ：2024/01/30(火) 07:42:38.75 ID:IitgJvEy0.net\n\n\n\n\n\n\n\nアンチャンも分かると思うけど、私もあまり職質されない。一方黒人の人やヒスパニック系の人、特に男性はかなり職質される。同じような時間に同じようなことしててもです。これは明らかに肌の色で判断し...",
-          "link": "https://itainews.com/archives/2032645.html",
-          "publishedOn": "2024-01-30T11:05:46.000Z",
-          "wordCount": 2351,
-          "title": "元アメリカ人 （日本国籍）　「黒人への職質が多いのは皮膚の色で判断されてるとしか思えない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/6/b65db0e5-s.png"
         }
       ]
     },
