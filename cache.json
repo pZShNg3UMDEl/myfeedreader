@@ -5726,6 +5726,46 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373021000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題で、岸田総理大臣は、党総裁として説明責任を果たしたいとして、みずからが衆議院政治倫理審査会に出席する方向で調整に入りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373021000.html",
+          "publishedOn": "2024-02-28T01:31:56.000Z",
+          "wordCount": 701,
+          "title": "岸田首相 衆院政倫審 みずからが出席の方向で調整",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373021_2402281030_0228103157_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372951000.html",
+          "author": null,
+          "description": "サッカーのイングランドプレミアリーグ、ブライトンの三笘薫選手が腰のけがのため長期離脱し、今シーズン中の復帰が難しい見通しとなりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372951000.html",
+          "publishedOn": "2024-02-28T01:25:30.000Z",
+          "wordCount": 607,
+          "title": "欧州サッカー ブライトン三笘薫 腰のけがのため長期離脱へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372951_2402281017_0228102532_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372941000.html",
+          "author": null,
+          "description": "ホンダは、水素を使って発電して走る新型の燃料電池車をアメリカと日本で3年ぶりに販売すると発表しました。アメリカのGMとの共同開発で製造コストを抑えたシステムを搭載し、今後の普及につなげるねらいです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372941000.html",
+          "publishedOn": "2024-02-28T01:21:45.000Z",
+          "wordCount": 616,
+          "title": "ホンダ 新型の燃料電池車 アメリカと日本で3年ぶりに販売へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372941_2402281003_0228102707_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372851000.html",
+          "author": null,
+          "description": "日中韓3か国の学生が未来志向の協力関係を築くため、世界の課題について意見を交わし交流するプログラムが中国で始まり、10回目のことしは初めて東南アジアの学生も招いて地域を拡大して行われています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372851000.html",
+          "publishedOn": "2024-02-28T00:09:57.000Z",
+          "wordCount": 585,
+          "title": "中国で日中韓の学生交流プログラム 東南アジアからも初参加",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372851_2402280815_0228090959_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372921000.html",
           "author": null,
           "description": "ウクライナ軍は東部の拠点アウディーイウカに続き、さらにその周辺の集落からも撤退したと発表し、ロシア軍が攻勢を強めているとみられます。こうした中、ウクライナのゼレンスキー大統領はみずからが提唱する和平案について協議するため、サウジアラビアのムハンマド皇太子と会談しました。",
@@ -22124,16 +22164,6 @@
           "wordCount": 567,
           "title": "フィギュア ドーピング違反のワリエワ 4年間の資格停止処分に",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339901_2401292358_0130000007_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014339691000.html",
-          "author": null,
-          "description": "中国政府が停止している日本人が中国に短期滞在する際のビザの免除について、中国外務省は29日、「再開を真剣に検討する」としました。そのうえで日本側も訪日する中国人に対して何らかの措置をとるよう求めました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014339691000.html",
-          "publishedOn": "2024-01-29T13:16:17.000Z",
-          "wordCount": 617,
-          "title": "中国 日本人短期滞在ビザ免除“再開検討” 日本側にも措置要求",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014339691_2401292038_0129214823_01_02.jpg"
         }
       ]
     },
@@ -23596,6 +23626,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/21/news022.html",
+          "author": null,
+          "description": "マイクロプロセッサ（MPU）を使用したボードを開発するユーザーが抱えるさまざまな悩みに対し、マイクロプロセッサメーカーのエンジニアが回答していく連載「マイクロプロセッサQ＆Aハンドブック」。今回は、「マイクロプロセッサと一緒に使う部品と選び方」について紹介します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/21/news022.html",
+          "publishedOn": "2024-02-28T01:00:00.000Z",
+          "wordCount": 2616,
+          "title": "マイクロプロセッサと一緒に使う部品と選び方",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/21/cover_news022.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/28/news068.html",
           "author": null,
@@ -27422,16 +27462,6 @@
           "wordCount": 1624,
           "title": "おっぱい時間に遅刻してしまった子猫がボーゼン",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67460.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67456",
-          "author": "299",
-          "description": "家の中の猫たちは、窓から入ってくる太陽の光で日向ぼっこをするのが大好きです。太陽の日差しが移動すれば、それにつれて猫たちも移動してたっぷりの日差しを浴びようとしています。 そんな様子をタイムラプスで撮影したのが、今回の動...\n窓から差し込む太陽光にあわせて移動するニャンコたち first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67456",
-          "publishedOn": "2024-01-29T13:00:17.000Z",
-          "wordCount": 1628,
-          "title": "窓から差し込む太陽光にあわせて移動するニャンコたち",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67456.jpeg"
         }
       ]
     },
@@ -32406,16 +32436,6 @@
           "wordCount": 2321,
           "title": "【松本人志騒動】後輩芸人が憤る「吉本はハメられた」証言　「被害女性の代理人」を名乗る人物が吉本に金銭で和解持ちかけ？",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/9/99cce37a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032617.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(東京都) [EU]：2024/01/29(月) 08:45:45.58 ID:1Dkd/AVj0●.net \n\n\n\n\n\n\n\n\n\nスーパーの駐車場に停めてたら80過ぎの高齢者が運転する軽トラに後ろをぶつけられてしまった😢保険も入ってない上に独り身の年金暮らしで払う金もない、ひもじい年寄...",
-          "link": "https://itainews.com/archives/2032617.html",
-          "publishedOn": "2024-01-29T13:01:27.000Z",
-          "wordCount": 2430,
-          "title": "老車カス「修理代なんて払えん。独り身の年金暮らしで払う金もない、ひもじい年寄りから金を取る気か」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/b/8bdbd1b1-s.png"
         }
       ]
     },
