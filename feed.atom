@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T21:21:37.155Z</updated>
+    <updated>2024-02-28T21:36:26.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新京成線 新鎌ヶ谷～京成津田沼間 上下線で運転見合わせ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374161000.html"/>
+        <updated>2024-02-28T21:33:35.000Z</updated>
+        <summary type="html"><![CDATA[新京成線は午前5時33分に起きた人身事故の影響で新鎌ヶ谷駅と京成津田沼駅の間の上下線で運転を見合わせています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“再審制度のあり方 法改正含め検討” 超党派の議員連盟発足へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240229/k10014374001000.html</id>
@@ -36695,26 +36705,6 @@ https://www.asagei.com...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240130/k10014340111000.html"/>
         <updated>2024-01-30T09:46:12.000Z</updated>
         <summary type="html"><![CDATA[輪島市で室町時代から続くとされる「曳山祭（ひきやままつり）」。祭りの山車を保管していた神社の建物は地震により大きく傾き、30日は山車を引っ張り出す作業が行われました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医師が危機感示す「福祉避難所」の現状 人手不足 受け入れ困難]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014340171000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014340171000.html"/>
-        <updated>2024-01-30T09:30:56.000Z</updated>
-        <summary type="html"><![CDATA[災害のあと、支援や配慮が必要なお年寄りや障害者が避難する「福祉避難所」。石川県輪島市の一部の地域では新たな避難者の受け入れが難しい状態が続いていることがわかりました。人手の不足が主な原因で、支援にあたる医師は「災害関連死につながりかねない」と危機感を示しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創価学会 池田大作名誉会長「お別れの会」約2600人が参列]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014340691000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014340691000.html"/>
-        <updated>2024-01-30T09:25:10.000Z</updated>
-        <summary type="html"><![CDATA[去年11月に亡くなった創価学会の名誉会長、池田大作氏をしのぶ会が30日、都内のホテルで開かれました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
