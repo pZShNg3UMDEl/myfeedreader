@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T20:36:48.832Z</updated>
+    <updated>2024-02-28T20:50:33.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[武藤駐ロ大使 着任後初会見 “制裁維持すべきも交流事業拡大”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374031000.html"/>
+        <updated>2024-02-28T20:43:43.000Z</updated>
+        <summary type="html"><![CDATA[去年12月に新しいロシア大使として着任した武藤顕氏が着任後初めて会見を開き、ロシアへの制裁は欧米諸国とともに維持すべきだとしながらも、今後の日ロ関係のために相互理解を図る必要はあるとして文化交流事業を拡大させる方針を明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[防衛装備品の第三国輸出 政府・自民内で一定の歯止めかける案]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240229/k10014373951000.html</id>
@@ -36727,16 +36737,6 @@ https://www.asagei.com...]]></summary>
         <summary type="html"><![CDATA[「僕のヒーローアカデミア」劇場版最新作が「僕のヒーローアカデミア THE MOVIE ユアネクスト」のタイトルで、8月2日に全国公開されることが決定した。予告映像とティザービジュアル第2弾が公開...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去年の国内映画興行収入 上位4作品をアニメ映画が占める]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014340641000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014340641000.html"/>
-        <updated>2024-01-30T08:49:03.000Z</updated>
-        <summary type="html"><![CDATA[去年、国内で上映された映画の興行収入が発表され、漫画「SLAM DUNK」を映画化した作品を始め、上位4作品をアニメ映画が占めました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
