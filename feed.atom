@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T06:16:40.802Z</updated>
+    <updated>2024-02-28T06:36:16.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[元衆院議員を逮捕 免停中に衝突事故 2人にけがさせた疑い 茨城]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373361000.html"/>
+        <updated>2024-02-28T06:27:57.000Z</updated>
+        <summary type="html"><![CDATA[滋賀県選出の元衆議院議員が27日夜、茨城県稲敷市の県道で免許停止中に車を運転し、対向車線を走っていた車に衝突して2人にけがをさせたとして逮捕されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲報】ソニー、プレステ事業の社員900人解雇へ]]></title>
         <id>https://itainews.com/archives/2033439.html</id>
@@ -22,6 +32,16 @@
 社員900人削減　全世界で8％―ソニーGゲーム子会社https://t.co/IoRc1f4WWTソニーグループ子会社で、「プレイステーション（PS）5」などのゲーム事業を担うソニー・インタラ...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新築マンション去年の平均価格5911万円 7年連続で過去最高更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373321000.html"/>
+        <updated>2024-02-28T06:01:40.000Z</updated>
+        <summary type="html"><![CDATA[去年1年間に全国で発売された新築マンションの平均価格は東京都心で高額物件の発売が相次いだことなどから、前の年より15.4％上昇し、7年連続で過去最高を更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
