@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120678/",
+          "author": null,
+          "description": "劇場版シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」が、公開日の4月12日から、IMAX、ドルビーシネマ、MX4D、4DXでも上映されることが分かった。あわせて、ラージフォー...",
+          "link": "https://anime.eiga.com/news/120678/",
+          "publishedOn": "2024-02-28T09:00:00.000Z",
+          "wordCount": 844,
+          "title": "映画「名探偵コナン」最新作、IMAX、ドルビーシネマ、4D版が同時上映　「コナン」史上最大規模の上映館数",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120522/",
           "author": null,
           "description": "ディズニーの不朽の名作を実写映画化した大ヒット作「アラジン」が、日本テレビ系「金曜ロードショー」で、3月1日の午後9時～11時14分（放送枠20分拡大）に放送される。 ディズニーアニメ映画「アラ...",
@@ -2742,6 +2757,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98705",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/28(水) 06:45:19.42 ID:0v1jzmEy0 ここ20年ぐらい […]",
+          "link": "https://switchsoku.com/gossip/98705",
+          "publishedOn": "2024-02-28T09:00:15.000Z",
+          "wordCount": 10134,
+          "title": "ゲームの開発費の高騰は限界を迎えたりしないのか？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/11/sakurai-game-kakakui.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98703",
           "author": "SWITCH速報",
@@ -5750,6 +5775,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373621000.html",
+          "author": null,
+          "description": "脱炭素社会の実現に向けて、横浜市と日本航空は、家庭から出る使用済みの食用油を回収し、次世代の航空燃料の原料として活用する取り組みを、3月から始めることになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373621000.html",
+          "publishedOn": "2024-02-28T08:59:38.000Z",
+          "wordCount": 573,
+          "title": "使用済み食用油回収 航空燃料の原料に活用へ 横浜市と日本航空",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373621_2402281746_0228175640_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373541000.html",
+          "author": null,
+          "description": "芸術の分野で優れた業績をあげた人たちに贈られる文化庁の「芸術選奨文部科学大臣賞」に、俳優の佐藤浩市さんや漫画家の井上雄彦さんなど23人と1組が選ばれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373541000.html",
+          "publishedOn": "2024-02-28T08:55:44.000Z",
+          "wordCount": 833,
+          "title": "芸術選奨に俳優 佐藤浩市さん 漫画家 井上雄彦さんら23人と1組",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373541_2402281650_0228172901_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373571000.html",
+          "author": null,
+          "description": "東芝は、去年4月から12月まで9か月間のグループ全体の決算を発表し、出資する半導体大手、キオクシアの業績悪化で、最終的な損益が1070億円の赤字となりました。会社は経営計画の見直しをことし5月までにまとめるとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373571000.html",
+          "publishedOn": "2024-02-28T08:51:22.000Z",
+          "wordCount": 593,
+          "title": "東芝 去年4～12月のグループ決算 最終的損益が1070億円の赤字",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373571_2402281716_0228175125_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373661000.html",
           "author": null,
@@ -22389,26 +22444,6 @@
           "wordCount": 674,
           "title": "フィリピンで拘束 日本人8人 特殊詐欺関与か きょうにも逮捕へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339761_2401292159_0129220015_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339881000.html",
-          "author": null,
-          "description": "ことし3月に行われるロシアの大統領選挙をめぐり、中央選挙管理委員会はプーチン大統領が必要な有権者の署名を集めたとして大統領選挙の候補者に正式に登録しました。プーチン氏の陣営は国民からの広い支持をアピールし、公式に選挙活動を開始するとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339881000.html",
-          "publishedOn": "2024-01-29T21:09:24.000Z",
-          "wordCount": 674,
-          "title": "ロシア プーチン大統領 3月の大統領選挙 候補者に正式登録",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339881_2401292334_0130060926_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339631000.html",
-          "author": null,
-          "description": "教員の長時間労働を解消するため、福井市のすべての市立中学校では、原則、2025年度末で休日の部活動が廃止される見通しになりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339631000.html",
-          "publishedOn": "2024-01-29T20:51:11.000Z",
-          "wordCount": 498,
-          "title": "福井市の市立中学校 休日の部活動 25年度末で原則廃止の見通し",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339631_2401292034_0130055113_01_02.jpg"
         }
       ]
     },
@@ -29453,6 +29488,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2033436.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/02/27(火) 17:42:37.18 ID:I43qQJ9x0●.net\n\n\n\n\n\n\n\n\n路上に倒れ、求めたのは「ガリガリ君とメロン」　桐島容疑者の最期https://t.co/OSIZdDQGwi1月、神奈川県藤沢市の路上に倒れた桐島容疑者。介抱した夫婦に、「ソーダ味のアイスキャ...",
+          "link": "https://itainews.com/archives/2033436.html",
+          "publishedOn": "2024-02-28T09:01:49.000Z",
+          "wordCount": 2411,
+          "title": "桐島聡「おれはスーパーにいくんだ。スーパーにはガリガリ君があるんだぞう」15分後に意識不明病院搬送",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c09918f4-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2033441.html",
           "author": "damono3856",
           "description": "1 名前：うんち：2024/02/27(火) 17:50:21.64 ID:gTv1q9WG0.net\n\n\n\n\n\n\n\nNVIDIAのCEOが「AIがコードを書くのでもうプログラミングを学ぶ必要はない」と発言して議論を巻き起こすhttps://t.co/vJLPaMWl1z— GIGAZINE(ギガジン) (@gigazine) February 27, 2024  \n\n\n\n\n\n\nNVID...",
@@ -32789,6 +32834,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41401",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです♪ バーガーキングが本厚木に帰ってくる…！という熱い一報をお伝えしたのが10月末。 第一報の記事 https://atsugi-lab.com/news-burgerkingopen202401/ このときは…",
+          "link": "https://atsugi-lab.com/open-burgerkingopen202403/",
+          "publishedOn": "2024-02-28T09:06:36.000Z",
+          "wordCount": 1142,
+          "title": "【続報・開店】ついにオープン日が判明！「バーガーキング本厚木駅前店」は3月21日9:00にオープン予定！！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/burgerking202403.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41085",
           "author": "田原",
