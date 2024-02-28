@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T11:12:10.548Z</updated>
+    <updated>2024-02-28T11:23:28.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「遠くに行っちゃって寂しい…」離れた友だちと会える日は]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373431000.html"/>
+        <updated>2024-02-28T11:09:20.000Z</updated>
+        <summary type="html"><![CDATA[石川県珠洲市の沿岸部、日本海に面した大谷地区。地震で道が寸断され、一時、孤立状態となりました。再開した学校に通う児童・生徒は、地震前の23人から9人ほどに減少。残った子どもたちに、離れた友だちのことを聞いてみると…。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「FINISH」のはずが「FUNISH」に……東京マラソンTシャツに「まさかの表記ミス」]]></title>
         <id>https://itainews.com/archives/2033444.html</id>
