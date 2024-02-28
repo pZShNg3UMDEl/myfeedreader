@@ -2719,21 +2719,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120483/",
-          "author": null,
-          "description": "P.A.WORKSが手がけるオリジナルテレビアニメ「真夜中ぱんチ」が7月からスタートすることが決定した。ティザービジュアルと特報映像が公開されている。 同作は、世界最大の動画投稿サイト「NewT...",
-          "link": "https://anime.eiga.com/news/120483/",
-          "publishedOn": "2024-01-29T12:00:00.000Z",
-          "wordCount": 797,
-          "title": "P.A.WORKSのオリジナルTVアニメ最新作「真夜中ぱんチ」7月放送開始　動画配信者の活動描くガールズコメディ",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2742,6 +2727,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98688",
+          "author": "SWITCH速報",
+          "description": "Pokémon Trading Card Game Pocket スマホでポケカを楽しめる「Poké […]",
+          "link": "https://switchsoku.com/soft/pokemon/98688",
+          "publishedOn": "2024-02-28T00:00:36.000Z",
+          "wordCount": 10221,
+          "title": "ソフトより『スマホ ポケカ』が嬉しすぎる",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-trading-card.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98679",
           "author": "SWITCH速報",
@@ -4991,16 +4986,6 @@
           "wordCount": 10146,
           "title": "ニンテンドーDS/3DSの名作で打線組んだ",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/nds3ds.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97633",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/28(日) 22:06:53.87 ID:DKfIrlOP0 怖いよな &nb […]",
-          "link": "https://switchsoku.com/ds/97633",
-          "publishedOn": "2024-01-29T12:52:54.000Z",
-          "wordCount": 10104,
-          "title": "『ドンキーコング64』って全体的に不気味だったよな…",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/donkey64.webp"
         }
       ]
     },
@@ -5740,6 +5725,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372921000.html",
+          "author": null,
+          "description": "ウクライナ軍は東部の拠点アウディーイウカに続き、さらにその周辺の集落からも撤退したと発表し、ロシア軍が攻勢を強めているとみられます。こうした中、ウクライナのゼレンスキー大統領はみずからが提唱する和平案について協議するため、サウジアラビアのムハンマド皇太子と会談しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372921000.html",
+          "publishedOn": "2024-02-28T00:08:55.000Z",
+          "wordCount": 746,
+          "title": "ウクライナ軍 東部で撤退 ロシア軍が攻勢強める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372921_2402280825_0228090857_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372691000.html",
+          "author": null,
+          "description": "イスラエル軍による攻撃が続くガザ地区では、去年10月にイスラエルとイスラム組織ハマスの衝突が始まって以降の死者数が3万人に迫っています。こうした中、戦闘休止交渉の仲介役を務めるカタール政府はまだ合意が得られていないとして、働きかけを強める考えを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372691000.html",
+          "publishedOn": "2024-02-28T00:07:02.000Z",
+          "wordCount": 430,
+          "title": "死者3万人に迫る 戦闘休止の仲介役カタール “合意はまだ”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372691_2402280836_0228090704_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372701000.html",
+          "author": null,
+          "description": "世界最大級のモバイル関連の展示会がスペインで始まり、生成AIや次世代の通信規格「6G」などを主なテーマに最先端の技術が披露されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014372701000.html",
+          "publishedOn": "2024-02-27T23:57:32.000Z",
+          "wordCount": 442,
+          "title": "スペイン 世界最大級モバイル展示会 生成AIや「6G」など披露",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014372701_2402280817_0228085301_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014372931000.html",
           "author": null,
@@ -22119,26 +22134,6 @@
           "wordCount": 617,
           "title": "中国 日本人短期滞在ビザ免除“再開検討” 日本側にも措置要求",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014339691_2401292038_0129214823_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014339331000.html",
-          "author": null,
-          "description": "去年11月、鹿児島県屋久島沖でアメリカ空軍の輸送機オスプレイが墜落した事故から29日で2か月です。当時、屋久島空港に緊急着陸を試みたオスプレイは民間機が滑走路を使用していたため「待機」を求められ、上空で旋回したあと着陸する直前に墜落したとみられることなど、詳しい飛行の状況が関係者への取材などで明らかになりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014339331000.html",
-          "publishedOn": "2024-01-29T11:58:24.000Z",
-          "wordCount": 926,
-          "title": "オスプレイ墜落事故 “待機求められ旋回 着陸直前に墜落か”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014339331_2401292036_0129204118_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240129/k10014339471000.html",
-          "author": null,
-          "description": "能登半島地震による大規模な土砂災害で複数の住宅が巻き込まれた石川県の輪島市市ノ瀬町では、発生から4週間たっても安否不明になっている男性の捜索活動が行われました。帰りを待ち続ける男性の兄は「あの日から時間が止まったままで、早く顔を見せてほしい」と悲しみを募らせています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240129/k10014339471000.html",
-          "publishedOn": "2024-01-29T11:51:22.000Z",
-          "wordCount": 590,
-          "title": "石川 輪島 安否不明男性の捜索活動 男性の兄「早く顔見せて」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240129/K10014339471_2401291836_0129190520_01_02.jpg"
         }
       ]
     },
@@ -23602,6 +23597,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/28/news068.html",
+          "author": null,
+          "description": "リテルヒューズは、小型トンネル磁気抵抗効果センサー「54100」「54140」シリーズを発売する。ホール効果センサーに比べて感度に優れ、電力効率を100倍改善している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/28/news068.html",
+          "publishedOn": "2024-02-28T00:00:00.000Z",
+          "wordCount": 2616,
+          "title": "電力効率を100倍改善した、小型トンネル磁気抵抗効果センサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/28/cover_news068.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/22/news206.html",
           "author": null,
           "description": "知人の会社から事前連絡もなく、荷物が届いた。その荷物は、修理を途中で諦めたと思われる電源ユニットだった。",
@@ -23878,6 +23883,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69375",
+          "author": "299",
+          "description": "ふわふわの大きなベッドのなかで子猫がまったりくつろいでいると、ゴールデンレトリバーが血相を変えてやってきました。 実はこの大きなベッドは、このゴールデンのベッドだったのです。それを自分がいない間に子猫に占領されてしまった...\n子猫にマイベッドを占領されてパニックなゴールデン first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69375",
+          "publishedOn": "2024-02-28T00:00:57.000Z",
+          "wordCount": 1405,
+          "title": "子猫にマイベッドを占領されてパニックなゴールデン",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69375.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69339",
           "author": "299",
@@ -29093,6 +29108,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2033430.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：もん様：2024/02/27(火) 17:32:42.28 ID:CYIHxTye0●.net\n\n\n\n\n\n\n\n\n\n【速報】宝塚劇団員死亡後に発行の雑誌で上級生が“やゆ”か？「ヘアアイロン持っていこうかな」など発言　遺族側指摘 #FNNプライムオンライン https://t.co/D5Ow6lfcCq— FNNプライムオンライン (@F...",
+          "link": "https://itainews.com/archives/2033430.html",
+          "publishedOn": "2024-02-28T00:01:50.000Z",
+          "wordCount": 2478,
+          "title": "宝塚じェンぬ。「ヘアアイロン持ってこーっと笑」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/2/02a4a801-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2033426.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。(愛媛県) [ﾆﾀﾞ]\n2024/02/27(火) 13:32:05.36ID:lIYt8Vw40●\n\n\n\n\n\n\n\nタリバンは政権とった時に、音楽家を殺し楽器を破壊した。ハマスは「音楽祭」に攻撃をしかけ、観客も演奏家も無差別に殺した。「音楽の力」なんてのは同じ価値観を有する...",
@@ -32391,16 +32416,6 @@
           "wordCount": 2430,
           "title": "老車カス「修理代なんて払えん。独り身の年金暮らしで払う金もない、ひもじい年寄りから金を取る気か」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/b/8bdbd1b1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032620.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：muffin ★：2024/01/28(日) 19:59:44.54 ID:5Mg+H6Iv9.net\n\n\n\n\n\n\n\n\n\n\n後輩に中華食べたいですって言われたから練習後に中華を食べに行ったら、後輩がチャーハン大盛り頼んでたんだけど、大盛り頼んでおきながら結構な量を残したんだよね今の若い子ってこれが普通なの...",
-          "link": "https://itainews.com/archives/2032620.html",
-          "publishedOn": "2024-01-29T12:01:07.000Z",
-          "wordCount": 2575,
-          "title": "【格闘技】大沢文也、後輩と中華食べに行き困惑「チャーハン大盛り頼んで結構な量残した…今の若い子ってこれが普通なの？笑」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/4/f473cfd8-s.png"
         }
       ]
     },
