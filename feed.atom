@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T03:24:25.167Z</updated>
+    <updated>2024-02-28T03:36:03.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国の出生率 去年0.72 過去最低を更新 8年連続で前年下回る]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373011000.html"/>
+        <updated>2024-02-28T03:11:52.000Z</updated>
+        <summary type="html"><![CDATA[韓国では去年1人の女性が産む子どもの数の指標となる出生率が0.72と過去最低を更新し、少子化に歯止めがかからない状況が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【人情の街】大阪の商店街に蛮族が出現。「フォー！」「ワー！」数十名が奇声を上げながら疾走する]]></title>
         <id>https://itainews.com/archives/2033433.html</id>
@@ -36618,16 +36628,6 @@ https://www.asagei.com...]]></summary>
 公園の猫さんをナデナデしてみた first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国交省 30日から豊田自動織機へ立ち入り検査 エンジン不正確認]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339701000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339701000.html"/>
-        <updated>2024-01-29T15:28:09.000Z</updated>
-        <summary type="html"><![CDATA[「豊田自動織機」が国の排出ガスの性能試験で不正を行っていた問題で、国土交通省は、新たに、現在生産する4種類のエンジンでも不正が確認されたと会社から報告があったと明らかにしました。基準への適合が確認されるまでエンジンの出荷停止を指示し、30日から会社への立ち入り検査を行うとしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
