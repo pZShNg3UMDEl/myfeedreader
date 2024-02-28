@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T05:27:32.452Z</updated>
+    <updated>2024-02-28T05:37:48.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PCR検査事業への投資詐欺の疑いで逮捕の会社社長 不起訴に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373271000.html"/>
+        <updated>2024-02-28T05:28:43.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスのPCR検査事業への投資として投資家から現金をだまし取ったなどとして逮捕された医療関連会社の社長について、東京地方検察庁は不起訴にしました。不起訴の理由は明らかにしていません。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソニー、ゲーム部門を約900人解雇。歴史あるLondon Studioも閉鎖]]></title>
         <id>https://gadget.phileweb.com/?p=70179</id>
@@ -123,6 +133,16 @@
         <summary type="html"><![CDATA[1: 2024/02/28(水) 08:26:29.68 ID:9iFz//mC0 なお上がったのは […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登北部の医療機関 人手不足が深刻 看護師全員退職の診療所も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014372871000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014372871000.html"/>
+        <updated>2024-02-28T03:47:39.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害が大きかった石川県の能登北部にある診療所の医師などが参加した意見交換会が開かれ、看護師が全員退職した診療所もあるなど、多くの医療機関で人手不足が深刻化していると報告されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
