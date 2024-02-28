@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T03:36:03.158Z</updated>
+    <updated>2024-02-28T03:50:20.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 七尾市で初の仮設住宅が完成 入居者への説明会行われる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373151000.html"/>
+        <updated>2024-02-28T03:32:04.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県七尾市に市内では初めての仮設住宅が完成し、入居者への説明会が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国の出生率 去年0.72 過去最低を更新 8年連続で前年下回る]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240228/k10014373011000.html</id>
