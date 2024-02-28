@@ -5751,6 +5751,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373551000.html",
+          "author": null,
+          "description": "大手電力10社が発表したことし4月請求分の電気料金は、火力発電の燃料となる原油や石炭の価格が下落していることから10社中6社で値下がりします。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373551000.html",
+          "publishedOn": "2024-02-28T08:27:45.000Z",
+          "wordCount": 577,
+          "title": "4月の電気料金 大手電力10社中6社で値下がり 原油価格下落で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373551_2402281708_0228171105_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373521000.html",
+          "author": null,
+          "description": "今月下旬、神奈川県逗子市の住宅街でうさぎが放置されているのが連日見つかり、これまでに30匹以上が保護されました。警察は同じような場所で相次いで見つかっていることから、何者かが捨てた可能性もあるとみて捜査を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373521000.html",
+          "publishedOn": "2024-02-28T08:16:01.000Z",
+          "wordCount": 640,
+          "title": "住宅街でうさぎ30匹以上保護 何者かが捨てた可能性も 神奈川",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373521_2402281653_0228165758_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373501000.html",
+          "author": null,
+          "description": "石川県輪島市は、能登半島地震のあと県内の別の自治体に集団で避難してもらっていた中学生について、3月下旬までに避難を終了し、ことし4月からは元の学校で授業を再開することを決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373501000.html",
+          "publishedOn": "2024-02-28T08:12:41.000Z",
+          "wordCount": 716,
+          "title": "輪島市など 中学生の集団避難 3月中に終了 4月から元の学校で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373501_2402281657_0228170915_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373451000.html",
           "author": null,
           "description": "3000年以上前、今の中東地域で強大な勢力を誇った「ヒッタイト王国」のものと見られる粘土板を、日本の調査隊がトルコの古代遺跡からほぼ完全な状態で発掘しました。粘土板にはヒッタイト語のほか国家的な宗教儀礼で使われていたとされる言語「フリ語」も刻まれていて、発掘した研究者は「この遺跡が王国の重要な都市だったことを示唆するものだ」としています。",
@@ -22369,36 +22399,6 @@
           "wordCount": 534,
           "title": "自民 茂木派 きょう会合 解散求める声あり意見集約は難航か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339831_2401292258_0130053713_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339851000.html",
-          "author": null,
-          "description": "身寄りのない高齢者が入院や施設入所などの際に求められる「身元保証」について、日弁連＝日本弁護士連合会は家族がいなくても対応できるよう法律や体制整備などを求める意見書をまとめました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339851000.html",
-          "publishedOn": "2024-01-29T20:33:59.000Z",
-          "wordCount": 602,
-          "title": "身寄りない高齢者の「身元保証」 体制整備など求める 日弁連",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339851_2401292301_0129231912_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339791000.html",
-          "author": null,
-          "description": "豊田自動織機が生産したエンジンの認証不正問題で、トヨタ自動車は、国内の4つの自動車工場で生産ラインの停止を決めました。会社は、再開を目指して対応を急ぐ方針です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339791000.html",
-          "publishedOn": "2024-01-29T20:30:25.000Z",
-          "wordCount": 613,
-          "title": "トヨタ自動車 4つの工場で生産ライン停止 再開目指し対応急ぐ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339791_2401292239_0129224227_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339821000.html",
-          "author": null,
-          "description": "国会では30日、岸田総理大臣が施政方針演説を行い、自民党の派閥をカネと人事から決別させるなどとして、政治の信頼回復を目指す考えを強調することにしています。これに対し、野党側は、31日からの代表質問で実態解明を急ぐよう求めるなど、追及を強める方針です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339821000.html",
-          "publishedOn": "2024-01-29T20:27:45.000Z",
-          "wordCount": 657,
-          "title": "岸田首相 きょう施政方針演説 政治の信頼回復目指す考え強調へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339821_2401292258_0130052747_01_02.jpg"
         }
       ]
     },
@@ -29442,6 +29442,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033441.html",
+          "author": "damono3856",
+          "description": "1 名前：うんち：2024/02/27(火) 17:50:21.64 ID:gTv1q9WG0.net\n\n\n\n\n\n\n\nNVIDIAのCEOが「AIがコードを書くのでもうプログラミングを学ぶ必要はない」と発言して議論を巻き起こすhttps://t.co/vJLPaMWl1z— GIGAZINE(ギガジン) (@gigazine) February 27, 2024  \n\n\n\n\n\n\nNVID...",
+          "link": "https://itainews.com/archives/2033441.html",
+          "publishedOn": "2024-02-28T08:11:26.000Z",
+          "wordCount": 2494,
+          "title": "プログラマー終了へ。NVIDIA創業者「AIが書くようになるのでプログラミング学ぶ必要ない」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/d/dd5de8b5-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033432.html",
           "author": "yonepo665sfr",

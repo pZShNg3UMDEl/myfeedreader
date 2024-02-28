@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T08:16:01.684Z</updated>
+    <updated>2024-02-28T08:35:31.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4月の電気料金 大手電力10社中6社で値下がり 原油価格下落で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373551000.html"/>
+        <updated>2024-02-28T08:27:45.000Z</updated>
+        <summary type="html"><![CDATA[大手電力10社が発表したことし4月請求分の電気料金は、火力発電の燃料となる原油や石炭の価格が下落していることから10社中6社で値下がりします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住宅街でうさぎ30匹以上保護 何者かが捨てた可能性も 神奈川]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373521000.html"/>
+        <updated>2024-02-28T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[今月下旬、神奈川県逗子市の住宅街でうさぎが放置されているのが連日見つかり、これまでに30匹以上が保護されました。警察は同じような場所で相次いで見つかっていることから、何者かが捨てた可能性もあるとみて捜査を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[輪島市など 中学生の集団避難 3月中に終了 4月から元の学校で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373501000.html"/>
+        <updated>2024-02-28T08:12:41.000Z</updated>
+        <summary type="html"><![CDATA[石川県輪島市は、能登半島地震のあと県内の別の自治体に集団で避難してもらっていた中学生について、3月下旬までに避難を終了し、ことし4月からは元の学校で授業を再開することを決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任天堂がSwitchエミュレーター「Yuzu」の開発者を提訴。「著作権侵害を促進している」と主張]]></title>
         <id>https://gadget.phileweb.com/?p=70248</id>
@@ -14,6 +44,31 @@
         <summary type="html"><![CDATA[Nintendo of Americaは、Switchエミュレーターの「Yuzu」開発者Tropic Haze LLCに対し、著作権侵害による損害賠償を求める訴訟を起こした。Yuzuは2023年に発売された『ゼルダの伝説 ティアーズ オブ ザ キングダム』の著作権侵害を助長したとされている。 ニュー […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラマー終了へ。NVIDIA創業者「AIが書くようになるのでプログラミング学ぶ必要ない」]]></title>
+        <id>https://itainews.com/archives/2033441.html</id>
+        <link href="https://itainews.com/archives/2033441.html"/>
+        <updated>2024-02-28T08:11:26.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：うんち：2024/02/27(火) 17:50:21.64 ID:gTv1q9WG0.net
+
+
+
+
+
+
+
+NVIDIAのCEOが「AIがコードを書くのでもうプログラミングを学ぶ必要はない」と発言して議論を巻き起こすhttps://t.co/vJLPaMWl1z— GIGAZINE(ギガジン) (@gigazine) February 27, 2024  
+
+
+
+
+
+
+NVID...]]></summary>
+        <author>
+            <name>damono3856</name>
         </author>
     </entry>
     <entry>
@@ -36873,36 +36928,6 @@ https://www.asagei.com...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339831000.html"/>
         <updated>2024-01-29T20:37:11.000Z</updated>
         <summary type="html"><![CDATA[自民党の茂木派は、派閥のあり方をめぐって、30日に衆参両院の所属議員による会合を開きます。会長を務める茂木幹事長は、政策集団として位置づけを明確にすることを検討していますが、一部に派閥の解散を求める声もあり、意見集約は難航することも予想されます。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[身寄りない高齢者の「身元保証」 体制整備など求める 日弁連]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339851000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339851000.html"/>
-        <updated>2024-01-29T20:33:59.000Z</updated>
-        <summary type="html"><![CDATA[身寄りのない高齢者が入院や施設入所などの際に求められる「身元保証」について、日弁連＝日本弁護士連合会は家族がいなくても対応できるよう法律や体制整備などを求める意見書をまとめました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トヨタ自動車 4つの工場で生産ライン停止 再開目指し対応急ぐ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339791000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339791000.html"/>
-        <updated>2024-01-29T20:30:25.000Z</updated>
-        <summary type="html"><![CDATA[豊田自動織機が生産したエンジンの認証不正問題で、トヨタ自動車は、国内の4つの自動車工場で生産ラインの停止を決めました。会社は、再開を目指して対応を急ぐ方針です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岸田首相 きょう施政方針演説 政治の信頼回復目指す考え強調へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339821000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339821000.html"/>
-        <updated>2024-01-29T20:27:45.000Z</updated>
-        <summary type="html"><![CDATA[国会では30日、岸田総理大臣が施政方針演説を行い、自民党の派閥をカネと人事から決別させるなどとして、政治の信頼回復を目指す考えを強調することにしています。これに対し、野党側は、31日からの代表質問で実態解明を急ぐよう求めるなど、追及を強める方針です。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
