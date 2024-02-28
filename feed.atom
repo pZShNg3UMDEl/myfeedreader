@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T09:37:15.074Z</updated>
+    <updated>2024-02-28T09:50:13.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -27,11 +27,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[住みたい街ランキング 住宅情報サイトが発表 人気急上昇の街も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373281000.html"/>
+        <updated>2024-02-28T09:24:45.000Z</updated>
+        <summary type="html"><![CDATA[住宅情報サイトが調査した1都4県の「住みたい街ランキング」が28日に発表され、「横浜」が7年連続で1位となりました。一方で、住宅の価格が上昇するなか、比較的手ごろとされる街も順位を上げました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“きれいな制服で卒業式”珠洲市の高校生の制服 洗濯し届ける]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240228/k10014373651000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373651000.html"/>
         <updated>2024-02-28T09:17:21.000Z</updated>
         <summary type="html"><![CDATA[きれいになった制服で卒業式に出席してもらおうと、能登半島地震の被災地の洗濯の支援を行っているグループが、石川県珠洲市の高校生から預かった制服を洗濯して届けました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他国と開発の防衛装備品の第三国輸出  自・公 2月中結論見送り]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373671000.html"/>
+        <updated>2024-02-28T09:13:24.000Z</updated>
+        <summary type="html"><![CDATA[次期戦闘機など他国と共同開発する防衛装備品の第三国への輸出を認めるかどうかをめぐり、自民・公明両党は、国民の理解を深めるため慎重に議論を進める必要があるとして、政府が求める2月中に結論を出すのは見送り、3月も協議を続けることになりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
