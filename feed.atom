@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T11:36:05.389Z</updated>
+    <updated>2024-02-28T11:50:40.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[関東甲信 山沿い中心に29日夜から大雪か 交通影響に十分注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373681000.html"/>
+        <updated>2024-02-28T11:39:07.000Z</updated>
+        <summary type="html"><![CDATA[本州の南岸を進む低気圧の影響で、関東甲信の山沿いを中心に29日の夜から3月1日にかけて大雪となる見込みで、気象庁は積雪や路面の凍結による交通への影響に十分注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「遠くに行っちゃって寂しい…」離れた友だちと会える日は]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240228/k10014373431000.html</id>
@@ -37115,16 +37125,6 @@ https://www.asagei.com...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339781000.html"/>
         <updated>2024-01-29T23:59:09.000Z</updated>
         <summary type="html"><![CDATA[去年1年間の平均の有効求人倍率は1.31倍となり、コロナ禍からの経済活動の回復などを背景に2年連続で前の年を上回りました。ただ、コロナ禍前の令和元年と比べると低い状況が続いていて、厚生労働省は「製造業や建設業で原材料費の高騰を受けて求人の数を減らす動きがあるとみられ、注視が必要だ」としています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12月の完全失業率 2.4％ 前月比0.1ポイント改善]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339891000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339891000.html"/>
-        <updated>2024-01-29T23:45:59.000Z</updated>
-        <summary type="html"><![CDATA[総務省によりますと、先月の全国の完全失業率は2.4％で、前の月より0.1ポイント改善しました。この結果、去年1年間の平均の完全失業率は2.6％と、おととしと変わりませんでした。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
