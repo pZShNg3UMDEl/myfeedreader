@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T07:35:18.319Z</updated>
+    <updated>2024-02-28T07:50:41.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR東日本 燃料電池を使った鉄道車両 試験走行の様子を公開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240228/k10014373471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240228/k10014373471000.html"/>
+        <updated>2024-02-28T07:36:41.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本は、2030年度の実用化を目指して開発を進めている、燃料電池を使った鉄道車両の試験走行の様子を、28日、報道関係者に公開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix、「iOSアプリ経由の料金支払い」を一部地域で終了、直接契約に移行へ]]></title>
         <id>https://gadget.phileweb.com/?p=70177</id>
@@ -36913,16 +36923,6 @@ https://www.asagei.com...]]></summary>
 赤ちゃん猫を手放したくない子猿 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【随時更新】隔たり埋められるか不透明な状況続く（30日）]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240130/k10014339951000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240130/k10014339951000.html"/>
-        <updated>2024-01-29T19:46:07.000Z</updated>
-        <summary type="html"><![CDATA[イスラエル軍がガザ地区南部でイスラム組織ハマスへの攻勢を強めるなか、人質の解放と戦闘の休止に向けた交渉をめぐって進展が伝えられているものの、イスラエル・ハマス双方の隔たりを埋められるか、不透明な状況が続いています。※イスラエルやパレスチナに関する日本時間1月30日の動きを、随時更新してお伝えします。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
