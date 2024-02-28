@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120643/",
+          "author": null,
+          "description": "アヌシー国際アニメーション映画祭2023の最高賞にあたるクリスタル賞を受賞した「リンダはチキンがたべたい！」が、4月12日から公開されることが決定。あわせて、本予告とポスタービジュアルも披露され...",
+          "link": "https://anime.eiga.com/news/120643/",
+          "publishedOn": "2024-02-28T12:00:00.000Z",
+          "wordCount": 866,
+          "title": "アヌシー映画祭最高賞を受賞したアニメ「リンダはチキンがたべたい！」4月12日公開　チキンをめぐる母娘の大騒動を描く",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120690/",
           "author": null,
           "description": "「魔王学院の不適合者II ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～」の第2クール「選定審判編」の放送が4月12日から始まることが決定し、東山奈央、関俊彦、悠木碧の出演が明らかになっ...",
@@ -2764,21 +2779,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120485/",
-          "author": null,
-          "description": "放送中のアニメ「ちいかわ」の1月30日放送回に、乳酸菌の歌を歌うヒーロー「むちゃうマン」が初登場した。劇中でむちゃうマンが歌う楽曲「むちゃうマンのテーマ」は、「ドラゴンボールZ」の主題歌「CHA...",
-          "link": "https://anime.eiga.com/news/120485/",
-          "publishedOn": "2024-01-30T00:00:00.000Z",
-          "wordCount": 705,
-          "title": "アニメ「ちいかわ」むちゃうマンの歌は影山ヒロノブが担当「ノリノリで歌っちゃいました」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5076,16 +5076,6 @@
           "wordCount": 10050,
           "title": "スクエニ北瀬「FF6リメイクは作りたいが、FF7R+R2の開発の倍の時間が掛かるから無理」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/12/ff6.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97645",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/29(月) 09:34:47.13 ID:2+GRqEnnM どうして… &n […]",
-          "link": "https://switchsoku.com/soft/zelda/97645",
-          "publishedOn": "2024-01-30T00:00:34.000Z",
-          "wordCount": 9952,
-          "title": "リンクさん頑張ってるのにゲームタイトルにならない…",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/05/zelda-totk004.webp"
         }
       ]
     },
@@ -5815,6 +5805,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373921000.html",
+          "author": null,
+          "description": "2月22日、愛知県岩倉市の名鉄犬山線の踏切で2人が列車にはねられ80代の男性が死亡した事故で、意識不明の重体だった60代の男性も死亡しました。警察は80代の男性を助けようとして自分の車から降りて踏切に入り、はねられたとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373921000.html",
+          "publishedOn": "2024-02-28T12:02:42.000Z",
+          "wordCount": 530,
+          "title": "名鉄犬山線にはねられ重体だった男性が死亡 助けようとしたか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373921_2402282012_0228210243_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373681000.html",
           "author": null,
@@ -22524,16 +22524,6 @@
           "wordCount": 555,
           "title": "滋賀 びわ湖で3人乗りのボート転覆 2人が心肺停止 警察",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340051_2401301044_0130104544_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339781000.html",
-          "author": null,
-          "description": "去年1年間の平均の有効求人倍率は1.31倍となり、コロナ禍からの経済活動の回復などを背景に2年連続で前の年を上回りました。ただ、コロナ禍前の令和元年と比べると低い状況が続いていて、厚生労働省は「製造業や建設業で原材料費の高騰を受けて求人の数を減らす動きがあるとみられ、注視が必要だ」としています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339781000.html",
-          "publishedOn": "2024-01-29T23:59:09.000Z",
-          "wordCount": 752,
-          "title": "有効求人倍率 去年1年間の平均で1.31倍 2年連続で前年上回る",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339781_2401300858_0130085911_01_02.jpg"
         }
       ]
     },
@@ -24285,16 +24275,6 @@
           "wordCount": 2732,
           "title": "半導体業界　2024年の注目技術―― 電子版2024年1月号",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/30/mm220117_denshiban01_w490.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/30/news078.html",
-          "author": null,
-          "description": "マイクロンテクノロジーは、LPDDR5Xベースの低消費電力圧縮アタッチドメモリモジュール「LPCAMM2」を発表した。最大転送速度は、現行のDDR5 SODIMMの5600Mビット/秒を上回る9600Mビット/秒を達成している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/30/news078.html",
-          "publishedOn": "2024-01-30T00:00:00.000Z",
-          "wordCount": 2648,
-          "title": "LPDDR5Xベースの低消費電力メモリモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/30/cover_news078.jpg"
         }
       ]
     },
@@ -27832,16 +27812,6 @@
           "wordCount": 1625,
           "title": "赤ちゃんにしっぽをガブリとされてもひたすら我慢するニャンコさんが偉すぎる",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67492.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67527",
-          "author": "299",
-          "description": "しっぽがくの字に折れていているキジトラの子猫ちゃんがちょこまか動き回っています。 飼い主さんの膝の上に乗って甘えてきたりしていましたが、部屋の中を探検してみたいという好奇心が旺盛なので、時折飼い主さんのところから離れてい...\n部屋の探検をしたらごはんを食べてすぐに昼寝する子猫の慌ただしい1日 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67527",
-          "publishedOn": "2024-01-30T00:00:46.000Z",
-          "wordCount": 1631,
-          "title": "部屋の探検をしたらごはんを食べてすぐに昼寝する子猫の慌ただしい1日",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67527.jpeg"
         }
       ]
     },
@@ -29420,6 +29390,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=scakr5yiAtk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=scakr5yiAtk",
+          "publishedOn": "2024-02-28T12:00:59.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】ブレイクアーティストLIVE アフタートークを覗き見【MC水卜】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=k0LI_KePh0o",
           "author": null,
