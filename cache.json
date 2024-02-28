@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120522/",
+          "author": null,
+          "description": "ディズニーの不朽の名作を実写映画化した大ヒット作「アラジン」が、日本テレビ系「金曜ロードショー」で、3月1日の午後9時～11時14分（放送枠20分拡大）に放送される。 ディズニーアニメ映画「アラ...",
+          "link": "https://anime.eiga.com/news/120522/",
+          "publishedOn": "2024-02-28T03:00:00.000Z",
+          "wordCount": 899,
+          "title": "実写版「アラジン」3月1日に金曜ロードショーで放送　2019年実写映画のNo.1ヒット作",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120625/",
           "author": null,
           "description": "「映画 マイホームヒーロー」から、津田健次郎の新場面写真が公開された。本作のラスボスを怪演している。 累計発行部数370万部を超える同名人気コミックが原作で、昨年10月期にTBS系で連続ドラマを...",
@@ -5715,6 +5730,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373121000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスとの戦闘休止をめぐる交渉が仲介国を交えて続くなか、イスラエル軍はガザ地区で空爆や地上作戦を展開しています。国連はガザ地区の住民の4分の1が飢餓の一歩手前の状態に直面していると危機感を示しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373121000.html",
+          "publishedOn": "2024-02-28T02:57:56.000Z",
+          "wordCount": 735,
+          "title": "国連 “ガザ地区住民の4分の1が飢餓一歩手前の状態に直面”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373121_2402281157_0228115758_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373081000.html",
+          "author": null,
+          "description": "法務省は、不法に滞在している外国人の在留を、法務大臣の裁量で特別に認める際の基準を定めたガイドラインを設けていますが、その見直し案が明らかになりました。在留資格がなくても、親が地域社会に溶け込み、子どもが長期間教育を受けている場合は、在留を認める方向で検討するなどとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373081000.html",
+          "publishedOn": "2024-02-28T02:55:35.000Z",
+          "wordCount": 623,
+          "title": "不法滞在外国人の在留 ガイドライン見直し案まとまる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373081_2402281130_0228115537_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373111000.html",
+          "author": null,
+          "description": "福島第一原子力発電所にたまる処理水について、東京電力は28日午前、今年度最後となる4回目の海への放出を開始しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240228/k10014373111000.html",
+          "publishedOn": "2024-02-28T02:49:30.000Z",
+          "wordCount": 692,
+          "title": "福島第一原発の処理水 4回目の海への放出を開始 東京電力",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240228/K10014373111_2402281145_0228114932_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240228/k10014373051000.html",
           "author": null,
@@ -22174,16 +22219,6 @@
           "wordCount": 418,
           "title": "国交省 30日から豊田自動織機へ立ち入り検査 エンジン不正確認",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339701_2401292049_0129205852_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014339901000.html",
-          "author": null,
-          "description": "おととし冬の北京オリンピックで過去の大会でのドーピング違反が発覚した、ロシア出身でフィギュアスケート女子のカミラ・ワリエワ選手について、CAS＝スポーツ仲裁裁判所は29日、2021年12月からの4年間の資格停止処分とその間のすべての成績を失格とする裁定を下しました。ただし、ワリエワ選手には30日以内にスイス連邦最高裁判所に上訴する権利があります。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014339901000.html",
-          "publishedOn": "2024-01-29T15:00:05.000Z",
-          "wordCount": 567,
-          "title": "フィギュア ドーピング違反のワリエワ 4年間の資格停止処分に",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014339901_2401292358_0130000007_01_02.jpg"
         }
       ]
     },
@@ -29167,6 +29202,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033433.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/02/27(火) 11:50:17.37 ID:XimU4tFv0.net\n\n\n\n\n\n\n\n\n\n【独自】ナゾのランナー集団が奇声上げ商店街爆走　大音量の音楽も...商店街は困惑　責任者「許可取ってない」　｜FNNプライムオンライン https://t.co/RuUNwwBN9X— 🇷🇺A-Honecker ...",
+          "link": "https://itainews.com/archives/2033433.html",
+          "publishedOn": "2024-02-28T03:01:54.000Z",
+          "wordCount": 2373,
+          "title": "【人情の街】大阪の商店街に蛮族が出現。「フォー！」「ワー！」数十名が奇声を上げながら疾走する",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/698e793e-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033430.html",
           "author": "yonepo665sfr",
