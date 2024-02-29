@@ -2779,21 +2779,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120503/",
-          "author": null,
-          "description": "2024年放送のテレビアニメ「アクロトリップ」に伊藤美来、島崎信長、水瀬いのり、河西健吾の出演が決定し、ティザーPVとキービジュアルが公開された。 佐和田米氏による原作は、2017～23年に「り...",
-          "link": "https://anime.eiga.com/news/120503/",
-          "publishedOn": "2024-01-31T09:00:00.000Z",
-          "wordCount": 702,
-          "title": "「アクロトリップ」に伊藤美来、島崎信長、水瀬いのり、河西健吾が出演　ティザーPVとキービジュアルも公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5830,6 +5815,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375261000.html",
+          "author": null,
+          "description": "石川県で最大震度7の揺れを観測した能登半島地震の発生から3月1日で2か月です。今も1万人を超える人たちが避難所に身を寄せる中、被災者が落ち着いて生活できる住まいをいかに確保していくかが課題で、県は、水道や道路といったインフラの復旧や仮設住宅の建設などを急ぐことにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014375261000.html",
+          "publishedOn": "2024-02-29T20:53:19.000Z",
+          "wordCount": 751,
+          "title": "能登半島地震2か月 石川県 今も1万人超が避難所 住居確保課題",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014375261_2402292135_0229214208_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375371000.html",
           "author": null,
@@ -22589,26 +22584,6 @@
           "wordCount": 519,
           "title": "自民 茂木派 関口参議院議員会長ら6人が新たに退会",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014342151_2401311814_0131190433_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341551000.html",
-          "author": null,
-          "description": "能登半島地震の発災直後に石川県輪島市や珠洲市などを管轄する消防本部の指令システムに不具合が生じ、出動の指令を出す操作ができなくなっていたことがわかりました。当時、消防本部で対応できる件数を大幅に超える救助要請が殺到していて、対応にあたった職員は「指令を出せない状況が続き、緊急車両をすぐに向かわせることができなかった。道路状況も悪く、多くの命を助けたいのに何もできないことが歯がゆかった」と振り返りました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341551000.html",
-          "publishedOn": "2024-01-31T09:13:37.000Z",
-          "wordCount": 1570,
-          "title": "能登半島地震 救助要請殺到の中 消防指令システムに不具合",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341551_2401311800_0131180140_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014342021000.html",
-          "author": null,
-          "description": "中古車販売会社「ビッグモーター」の店舗前の街路樹伐採事件で、伐採を指示したとして逮捕された本社の社員は、各地の店舗を巡回点検する立場を唯一担い、現場の店舗に対して一定の影響力を持っていたことが警察などへの取材でわかりました。点検の成績などがよくなければ降格処分につながったという指摘もあり、警察は影響力を背景に伐採を指示していたとみて調べています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014342021000.html",
-          "publishedOn": "2024-01-31T08:51:35.000Z",
-          "wordCount": 657,
-          "title": "ビッグモーター 逮捕の社員 本社側の影響力を背景に伐採指示か",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014342021_2401311732_0131174018_01_02.jpg"
         }
       ]
     },
@@ -22664,6 +22639,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=237583",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの菓子パン「セブンプレミアム はみだす板チョコパンケーキ」を世界一詳しく調査しました。   公式You […]",
+          "link": "https://foodfighter.jp/711sej-chocolate-pancake-2024",
+          "publishedOn": "2024-02-29T20:59:44.000Z",
+          "wordCount": 1846,
+          "title": "【セブンイレブン】セブンプレミアム はみだす板チョコパンケーキ【新作コンビニ菓子パン】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/e17c73c5933e45451b308ae2164b0fb4.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=237581",
           "author": "foodfighter",
@@ -29240,16 +29225,6 @@
           "wordCount": 774,
           "title": "Android版Edgeブラウザ、まもなく拡張機能に対応か。Firefoxに続き",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_1787732240.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=67502",
-          "author": "Munenori Taniguchi",
-          "description": "認知症のアルツハイマー病は、アミロイドβタンパク質によって引き起こされることがわかっている。また、まれに遺伝子の欠陥が原因で発症することもある。 しかし、1月29日付けのNature Medicineに掲載された、ユニバーシティ・カレッジ・ロンドン（UCL）の研究チームによる論文では、医学的に後天的 […]",
-          "link": "https://gadget.phileweb.com/post-67502/",
-          "publishedOn": "2024-01-31T09:07:30.000Z",
-          "wordCount": 760,
-          "title": "現在は行われていない治療でアルツハイマー病に「感染」した可能性。5つの症例が報告",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/01/Atthapon-Raksthaput_Shutterstock.jpg"
         }
       ]
     },
@@ -32911,16 +32886,6 @@
           "wordCount": 2397,
           "title": "【闇深】日テレ、セクシー田中さん原作者を攻撃する投稿にｲｲﾈを付けまくり精神的に追い詰めていた…",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/741eab20-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032668.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(新日本) [TW]：2024/01/30(火) 14:52:59.66 ID:FYE669G40.net\n\n\n\n\n\n\n\n\n男子生徒にわいせつな行為の疑い 元教諭3回目の逮捕 東京https://t.co/gYiMZWwBvn #nhk_news— NHKニュース (@nhk_news) January 30, 2024 \n\n\n\n\n\n\n\n東京都内の中高一貫校...",
-          "link": "https://itainews.com/archives/2032668.html",
-          "publishedOn": "2024-01-31T09:01:21.000Z",
-          "wordCount": 2352,
-          "title": "生徒にわいせつな行為の疑い 元教諭3回目の逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/9/e9e023b5-s.png"
         }
       ]
     },
