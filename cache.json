@@ -2734,21 +2734,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120497/",
-          "author": null,
-          "description": "ストップモーション・アニメーションで知られる英アードマン・アニメーションズが、Netflixで好評を博した短編映画「ことりのロビン」を拡張し、シリーズ化することになったと米バラエティが報じている...",
-          "link": "https://anime.eiga.com/news/120497/",
-          "publishedOn": "2024-01-30T12:00:00.000Z",
-          "wordCount": 663,
-          "title": "短編アニメ「ことりのロビン」を英アードマンがシリーズ化",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2757,6 +2742,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98728",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/28(水) 13:16:18.451 ID:qbaHi6Pa0 そういうのでい […]",
+          "link": "https://switchsoku.com/soft/pokemon/98728",
+          "publishedOn": "2024-02-29T00:00:50.000Z",
+          "wordCount": 10117,
+          "title": "ポケモンレジェンズの新作、楽しみでしかない",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-z-a.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98713",
           "author": "SWITCH速報",
@@ -4996,16 +4991,6 @@
           "wordCount": 10042,
           "title": "ファルコム『空の軌跡』をリメイク制作中か！？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/soranokiseki.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97665",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/30(火) 20:09:42.26 ID:uuYtxRHI0 5: 2024/ […]",
-          "link": "https://switchsoku.com/gossip/97665",
-          "publishedOn": "2024-01-30T12:00:16.000Z",
-          "wordCount": 10100,
-          "title": "スマブラ桜井「ムービーだらけでゲーム画面を全然見せないゲームがある。これはやめましょう」",
-          "imageUrl": "https://switchsoku.com/wp-content/themes/the-thor/img/img_no_768.gif"
         }
       ]
     },
@@ -5755,6 +5740,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374201000.html",
+          "author": null,
+          "description": "29日朝早く、岡山県瀬戸内市の県道でトラックと軽乗用車が衝突する事故があり、警察によりますと軽乗用車に乗っていた2人が意識不明の重体だということです。警察は2台が正面衝突したとみて状況を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014374201000.html",
+          "publishedOn": "2024-02-29T00:52:14.000Z",
+          "wordCount": 723,
+          "title": "岡山 瀬戸内 トラックと軽乗用車が衝突 2人が意識不明の重体",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374201_2402290929_0229095216_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374141000.html",
+          "author": null,
+          "description": "アメリカ西部オレゴン州の上空で1月、ボーイング製の旅客機の窓部分のパネルが吹き飛んだ事故をうけてアメリカのFAA＝連邦航空局はボーイングに対し、90日以内に専門家による最新の調査結果などを盛り込んだ行動計画の提出を求めたことを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014374141000.html",
+          "publishedOn": "2024-02-29T00:27:01.000Z",
+          "wordCount": 699,
+          "title": "米ボーイング事故 90日以内に行動計画の提出を FAAが求める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374141_2402290909_0229092702_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374131000.html",
+          "author": null,
+          "description": "アメリカのバイデン大統領は安全保障上の懸念に対応するとして、アメリカ人の個人情報を中国などに大量に販売することを禁止する大統領令を発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014374131000.html",
+          "publishedOn": "2024-02-29T00:07:36.000Z",
+          "wordCount": 688,
+          "title": "アメリカ人の個人情報 中国などに大量販売禁止へ 大統領令発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374131_2402290852_0229090738_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374041000.html",
           "author": null,
@@ -22184,46 +22199,6 @@
           "wordCount": 705,
           "title": "輪島 珠洲 能登町 穴水町の一部の郵便局 31日から窓口業務再開",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014341251_2401302252_0130232358_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014341141000.html",
-          "author": null,
-          "description": "自民党の茂木派は、派閥のあり方をめぐって所属議員による会合を開き、カネと人事から完全に決別するとした党の中間とりまとめに沿って、新たな政策集団としての活動のしかたを検討していくことを確認しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014341141000.html",
-          "publishedOn": "2024-01-30T12:31:26.000Z",
-          "wordCount": 703,
-          "title": "自民 茂木派 “新たな政策集団としての活動のしかたを検討”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014341141_2401302112_0130211956_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340751000.html",
-          "author": null,
-          "description": "韓国で開かれているユースオリンピックのフィギュアスケート女子シングルで、日本の次世代のエースとして期待されている15歳の島田麻央選手が金メダルを獲得しました。16歳の高木謠選手も銅メダルを獲得し、日本勢2人が表彰台に上がりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014340751000.html",
-          "publishedOn": "2024-01-30T12:25:04.000Z",
-          "wordCount": 836,
-          "title": "ユース五輪　フィギュアスケートで島田麻央選手が金メダル獲得",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340751_2401301903_0130190438_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014341131000.html",
-          "author": null,
-          "description": "ISU＝国際スケート連盟は、ドーピング違反で4年間の資格停止処分を受けたロシア出身でフィギュアスケート女子のカミラ・ワリエワ選手について、おととしの北京オリンピックの競技成績を無効とすることを決めました。これにより、フィギュアスケート団体で3位だった日本のメダルは銀メダルに繰り上がることになりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014341131000.html",
-          "publishedOn": "2024-01-30T12:09:31.000Z",
-          "wordCount": 695,
-          "title": "北京五輪フィギュア団体 日本は銀メダルに ワリエワ成績無効で",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014341131_2401302104_0130210933_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240130/k10014340921000.html",
-          "author": null,
-          "description": "名古屋市の養護学校に通っていた障害のある男性が、元教諭から暴行を受けていたのに学校側が適切な対応を取らなかったと訴えた裁判で、名古屋地方裁判所は日常的な暴行を認めたうえで、「対応は遅きに失した」として名古屋市に165万円の損害賠償を命じました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240130/k10014340921000.html",
-          "publishedOn": "2024-01-30T11:55:01.000Z",
-          "wordCount": 529,
-          "title": "養護学校の男性 元教諭から暴行訴え 市に賠償命令 名古屋地裁",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240130/K10014340921_2401301931_0130205503_01_02.jpg"
         }
       ]
     },
@@ -23677,6 +23652,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2402/29/news087.html",
+          "author": null,
+          "description": "旭化成エレクトロニクスは、自動車向け電流センサー「CZ39」シリーズの量産を開始した。化合物ホール素子を用いていて、高速での応答が可能だ。SiC（炭化ケイ素）、GaN（窒化ガリウム）パワーデバイスのスイッチング周波数を向上する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2402/29/news087.html",
+          "publishedOn": "2024-02-29T00:00:00.000Z",
+          "wordCount": 2594,
+          "title": "100ナノ秒の高速応答、低発熱の自動車向け電流センサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/29/cover_news087.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2402/21/news022.html",
           "author": null,
           "description": "マイクロプロセッサ（MPU）を使用したボードを開発するユーザーが抱えるさまざまな悩みに対し、マイクロプロセッサメーカーのエンジニアが回答していく連載「マイクロプロセッサQ＆Aハンドブック」。今回は、「マイクロプロセッサと一緒に使う部品と選び方」について紹介します。",
@@ -23953,6 +23938,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69440",
+          "author": "299",
+          "description": "哺乳瓶からミルクをごくごく美味しそうに飲んでいる子猫が可愛いです。目を細めながらもしっかり哺乳瓶のほうを凝視しながら真剣にミルクを飲み干していきます。 食欲旺盛なキジトラ猫ちゃんですね。一気飲みしたからか、かなりお腹がパ...\n満腹すぎて身動きできなくなった子猫が可愛い〜 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69440",
+          "publishedOn": "2024-02-29T00:00:30.000Z",
+          "wordCount": 1398,
+          "title": "満腹すぎて身動きできなくなった子猫が可愛い〜",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69440.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69400",
           "author": "299",
@@ -29208,6 +29203,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2033455.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：ネギうどん ★：2024/02/28(水) 13:48:20.30 ID:4tVQyPIw9.net\n\n\n\n\n\n\n\n\n\n\n「ジャニー喜多川と同じ…」指原莉乃、松本人志に苦言も「13歳メンバーへのキス＆お触り動画」が大炎上https://t.co/aOFIDC1RUP— asakura (@asakiryu) February 27, 2024 \n\n\n\n\n\n\n\n\n　現在、...",
+          "link": "https://itainews.com/archives/2033455.html",
+          "publishedOn": "2024-02-29T00:01:27.000Z",
+          "wordCount": 2621,
+          "title": "【芸能】指原莉乃「13歳メンバーへのキス＆お触り動画」が拡散し大炎上 「ジャニー喜多川と同じ」の声",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/0/707e3449-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2033447.html",
           "author": "damono3856",
           "description": "1 名前：おっさん友の会 ★：2024/02/28(水) 14:17:03.71 ID:zn7DcRWb9.net\n\n\n\n\n\n\n\n【トラブル】「富士山が見えないから切った」中国資本のホテルが隣人宅のヒノキ23本を無断伐採https://t.co/BFxgB1qcX8土地の所有者がホテルを訪れ「どういうことか？」と尋ねたが、ホテ...",
@@ -32496,16 +32501,6 @@
           "wordCount": 2376,
           "title": "日テレの今期ドラマ「厨房のありす」、設定が韓国ドラマの丸パクリだと本国で炎上",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/9/097fd8bc-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032653.html",
-          "author": "damono3856",
-          "description": "1 名前：ネギうどん ★：2024/01/30(火) 12:00:46.66 ID:06rUiIi39.net\n\n\n\n\n\n\n\n朝倉未来棒読みすぎて草聞いてて恥ずかしくなるレベル😲 pic.twitter.com/96b7nC43LV— AKIRAｼﾞﾋﾄﾞﾛﾃｽﾄｽﾃﾛﾝDHT研究員 (@IobsOill2IAKlRA) January 26, 2024  \n\n\n\n\n\n\n人気ゲーム『龍が如く8』...",
-          "link": "https://itainews.com/archives/2032653.html",
-          "publishedOn": "2024-01-30T12:02:18.000Z",
-          "wordCount": 2469,
-          "title": "【格闘家】『龍が如く8』出演の朝倉未来の棒読みがすごいと話題に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/5/15df3cb2-s.png"
         }
       ]
     },
