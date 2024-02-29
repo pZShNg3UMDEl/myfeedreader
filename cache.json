@@ -2764,21 +2764,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/120502/",
-          "author": null,
-          "description": "アニメ・声優・イベント情報サイト「アニメハック」では、1月2～21日の期間中、今期アニメを対象に「【2024年冬アニメ】第1話を見て“継続視聴”を決めた作品は？」アンケートを行いました。参加者4...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/120502/",
-          "publishedOn": "2024-01-31T10:00:00.000Z",
-          "wordCount": 862,
-          "title": "アニメ好きが継続視聴を決めた冬アニメTOP10　「ダンジョン飯」は何位？【“本当に推す”今期アニメランキング】",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5036,16 +5021,6 @@
           "wordCount": 10035,
           "title": "『シレン6』の年齢層、30代が半分以上を占める模様",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/siren6-switch.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97700",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/29(月) 19:11:55.75 ID:VRi4fkAe0NIKU 普通桃鉄 […]",
-          "link": "https://switchsoku.com/soft/momoden/97700",
-          "publishedOn": "2024-01-31T10:00:06.000Z",
-          "wordCount": 10020,
-          "title": "僕､『桃鉄』のせいで友達を失う…",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/momotetu-world.webp"
         }
       ]
     },
@@ -5815,6 +5790,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375511000.html",
+          "author": null,
+          "description": "インドの去年10月から12月までのGDP＝国内総生産の伸び率は、前の年の同じ時期と比べてプラス8.4％となりました。個人消費や設備投資などが好調だったことが要因で、13四半期連続のプラス成長となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014375511000.html",
+          "publishedOn": "2024-02-29T22:09:02.000Z",
+          "wordCount": 557,
+          "title": "インド GDP 前年同期比8.4％増 13四半期連続のプラス成長",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014375511_2403010707_0301070904_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375501000.html",
+          "author": null,
+          "description": "29日のニューヨーク株式市場はアメリカのインフレへの懸念が和らいだことで買い注文が増え、IT関連銘柄の多いナスダックの株価指数がおよそ2年3か月ぶりに史上最高値を更新しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014375501000.html",
+          "publishedOn": "2024-02-29T22:04:01.000Z",
+          "wordCount": 693,
+          "title": "NY株式市場 ナスダック株価指数が史上最高値更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014375501_2403010701_0301070403_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375151000.html",
           "author": null,
@@ -22574,26 +22569,6 @@
           "wordCount": 549,
           "title": "自民 安倍派 おととしまでの3年間の収支報告書を訂正",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341881_2401311518_0131153324_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014342201000.html",
-          "author": null,
-          "description": "自民党の安倍派の政治資金パーティーをめぐる問題で、派閥に所属する小森卓郎 総務政務官と、加藤竜祥 国土交通政務官が収支報告書に記載していない収入が新たに明らかになったとして辞任しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014342201000.html",
-          "publishedOn": "2024-01-31T10:09:50.000Z",
-          "wordCount": 715,
-          "title": "政治資金問題 安倍派2人の政務官の辞任と後任を決定 政府",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014342201_2401311843_0131190829_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014342151000.html",
-          "author": null,
-          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、茂木派では、31日関口参議院議員会長ら6人が新たに退会しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014342151000.html",
-          "publishedOn": "2024-01-31T10:04:31.000Z",
-          "wordCount": 519,
-          "title": "自民 茂木派 関口参議院議員会長ら6人が新たに退会",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014342151_2401311814_0131190433_01_02.jpg"
         }
       ]
     },
@@ -24353,6 +24328,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69463",
+          "author": "299",
+          "description": "おかっぱ猫のみさおは、抱っこしてもらうのが大好きな甘えん坊ちゃんです。 お父さんがみさおのことを抱き上げても全然暴れずそのまま身を任せてきます。根っからの甘えん坊なんですね。 前向きに抱っこされていたら、こっちの方向はイ...\nお父さんの胸に飛び込む猫のみさおは抱っこ好き！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69463",
+          "publishedOn": "2024-02-29T22:00:00.000Z",
+          "wordCount": 1351,
+          "title": "お父さんの胸に飛び込む猫のみさおは抱っこ好き！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69463.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69459",
           "author": "299",
@@ -32896,16 +32881,6 @@
           "wordCount": 2350,
           "title": "サムスン、半導体赤字1兆6500億円で過去最大　23年 ［1/31］",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/e/4e020b9d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032672.html",
-          "author": "damono3856",
-          "description": "1 名前：令和大日本憂国義勇隊(地図に無い島) [IN]：2024/01/31(水) 06:52:49.21 ID:BXqpEhWY0.net\n\n\n\n\n\n\n\n日テレ公式が最終回（原作者のみの脚本）批判コメントばかりいいねしてるのヤバすぎん？脚本家は原作者に手直しされた1～8話を自分の手柄だと吹聴するし9、10話は...",
-          "link": "https://itainews.com/archives/2032672.html",
-          "publishedOn": "2024-01-31T10:05:32.000Z",
-          "wordCount": 2397,
-          "title": "【闇深】日テレ、セクシー田中さん原作者を攻撃する投稿にｲｲﾈを付けまくり精神的に追い詰めていた…",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/741eab20-s.png"
         }
       ]
     },
