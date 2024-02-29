@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T10:32:14.500Z</updated>
+    <updated>2024-02-29T10:50:32.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米 「コネクテッドカー」“中国技術に安保上の懸念” 対策へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374601000.html"/>
+        <updated>2024-02-29T10:20:25.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン政権は、インターネットにつないで通信できる車「コネクテッドカー」について、中国の技術などが使用されたものは安全保障上の懸念があるとして対策を取る方針を発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【動画】『トロン』風のハブレス電動自転車、数十年落ちのママチャリから製作]]></title>
         <id>https://gadget.phileweb.com/?p=70406</id>
@@ -54,6 +64,16 @@
         <summary type="html"><![CDATA[テレビアニメ「合コンに行ったら女がいなかった話」のメインキャストが発表され、小松未可子、武内駿輔、悠木碧、堀江瞬、東山奈央、梶原岳人の出演が決定した。メインスタッフも明らかとなっている。 原作は...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衆院予算委“新年度予算案あす採決”小野寺委員長が職権で決定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374831000.html"/>
+        <updated>2024-02-29T09:47:21.000Z</updated>
+        <summary type="html"><![CDATA[新年度予算案をめぐり、衆議院予算委員会の理事会で自民党の小野寺委員長は、3月1日に委員会で集中審議と締めくくりの質疑を行ったあと採決することを職権で決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
