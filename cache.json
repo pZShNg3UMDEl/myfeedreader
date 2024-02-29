@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120626/",
+          "author": null,
+          "description": "俳優の杉咲花が、4月スタートのカンテレ・フジテレビ系の新月10ドラマ「アンメット ある脳外科医の日記」に主演することが明らかになった。杉咲が、同局系の連続ドラマに主演するのは初めて。また、自身初...",
+          "link": "https://anime.eiga.com/news/120626/",
+          "publishedOn": "2024-02-29T12:00:00.000Z",
+          "wordCount": 892,
+          "title": "漫画「アンメット　ある脳外科医の日記」実写ドラマ化　杉咲花が初の医師役",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120668/",
           "author": null,
           "description": "テレビアニメ「ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII」が2024年に放送されることが決まり、キャラクタービジュアルが披露された。 同作は、「キノの旅」の時雨沢恵一氏...",
@@ -2803,6 +2818,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98762",
+          "author": "SWITCH速報",
+          "description": "1: 2024/02/27(火) 17:58:33.33 ID:ohS2Gzmh0 トロピカルフリー […]",
+          "link": "https://switchsoku.com/soft/98762",
+          "publishedOn": "2024-02-29T12:00:18.000Z",
+          "wordCount": 10055,
+          "title": "「ドンキーコング」ってキャラは有名だけどゲームの発展むずかしいよな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/03/donky-1.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=98756",
           "author": "SWITCH速報",
           "description": "『スプラトゥーン3』第14回フェス‥日本はお題「ポテトチップスといえば？」で開催 「うすしお」「コン […]",
@@ -5081,16 +5106,6 @@
           "wordCount": 9998,
           "title": "アメリカ東海岸版「スーパー・ニンテンドー・ワールド」2025年に開園",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/GFGDCmcXwAAMXFi.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97687",
-          "author": "SWITCH速報",
-          "description": "1: 2024/01/30(火) 21:45:32.41 ID:TUgqGk+A0 『Fate/st […]",
-          "link": "https://switchsoku.com/soft/97687",
-          "publishedOn": "2024-01-31T00:00:02.000Z",
-          "wordCount": 10114,
-          "title": "『Fate/stay night』HDリマスター版がSwitchとSteamで2024年に発売決定",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/fatestaynight.webp"
         }
       ]
     },
@@ -5851,6 +5866,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014375191000.html",
+          "author": null,
+          "description": "本州の南岸を急速に発達しながら進む低気圧の影響で、関東甲信は29日夜遅くから3月1日朝にかけて山沿いを中心に大雪となるおそれがあります。気象庁は積雪や路面の凍結による交通への影響に十分注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014375191000.html",
+          "publishedOn": "2024-02-29T12:08:17.000Z",
+          "wordCount": 587,
+          "title": "関東甲信 29日夜遅くから1日朝にかけ 山沿い中心 大雪のおそれ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014375191_2402292046_0229210819_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014375161000.html",
+          "author": null,
+          "description": "石川県七尾市では、みずから被災しながらも被災した住民の支援業務にあたっている市の職員などに対して日本赤十字社が心のケアを続けています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014375161000.html",
+          "publishedOn": "2024-02-29T11:53:17.000Z",
+          "wordCount": 543,
+          "title": "日本赤十字社 被災者支援の七尾市職員などの心のケア続ける",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014375161_2402292029_0229205319_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374941000.html",
           "author": null,
           "description": "損害保険大手4社は、企業向け保険の保険料を事前に調整していた問題を受けて社長ら経営陣の報酬減額などの処分を発表しました。対象となる役員は、親会社を含めると4社あわせて149人と、異例の大規模な処分となりました。",
@@ -5899,6 +5934,26 @@
           "wordCount": 550,
           "title": "ガザ地区 死者3万人超に 米政府 上空から支援物資投下検討か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374931_2402291858_0229190142_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374861000.html",
+          "author": null,
+          "description": "7年前、栃木県那須町で部活動での登山の訓練中に、高校生などが雪崩に巻き込まれ8人が死亡した事故で、業務上過失致死傷の罪に問われている教諭ら3人の裁判で、検察は「漫然と訓練を行っており過失は重大だ」として、禁錮4年を求刑しました。一方、弁護側は「雪崩の発生は予見できなかった」として、無罪を主張しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014374861000.html",
+          "publishedOn": "2024-02-29T10:02:56.000Z",
+          "wordCount": 617,
+          "title": "栃木 那須町 雪崩8人死亡事故 引率の教諭3人に禁錮4年を求刑",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374861_2402291841_0229185349_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374891000.html",
+          "author": null,
+          "description": "マイナ保険証の都道府県別の利用率が初めて公表され、最も高い鹿児島県でも8.4％、最も低い沖縄県では2.3％にとどまり、厚生労働省は、ことし12月の今の健康保険証の廃止に向けて、普及を急ぐことにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014374891000.html",
+          "publishedOn": "2024-02-29T10:02:19.000Z",
+          "wordCount": 594,
+          "title": "マイナ保険証利用率 最も高い県で8.4％ 保険証廃止へ普及急ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374891_2402291857_0229185945_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374831000.html",
@@ -22649,36 +22704,6 @@
           "wordCount": 510,
           "title": "中国 台湾海峡上空の民間機航路を台湾寄りに変更へ 台湾は反発",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341291_2401310913_0131093306_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341401000.html",
-          "author": null,
-          "description": "日本相撲協会は31日に臨時の理事会を開き、初場所で13勝をあげた琴ノ若の大関昇進を決めました。新大関が誕生するのは去年7月の名古屋場所後に昇進した豊昇龍以来で、千葉県出身力士では69年ぶりです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341401000.html",
-          "publishedOn": "2024-01-31T00:17:10.000Z",
-          "wordCount": 614,
-          "title": "琴ノ若 大関昇進決定 千葉県出身の力士では69年ぶり",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341401_2401310823_0131090215_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341411000.html",
-          "author": null,
-          "description": "夜の街灯など、人工の光に虫が集まる現象を解明しようと高速カメラを使って昆虫の動きを詳しく分析した研究結果が発表され、研究チームは虫が「飛んで火に入る」理由を説明できるものだとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341411000.html",
-          "publishedOn": "2024-01-31T00:08:51.000Z",
-          "wordCount": 784,
-          "title": "虫が「飛んで火に入る」理由とは 英などの研究チームが分析",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341411_2401310851_0131090853_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341241000.html",
-          "author": null,
-          "description": "日銀は、黒田前総裁のもとでいわゆる異次元緩和を始めてから3か月後の2013年7月から半年間の金融政策決定会合の議事録を公開しました。当時、アメリカの金融政策の修正をめぐる観測が金融市場に波乱を引き起こしたことから、政策委員の間で金融政策の正常化を進めるうえでのリスクが強く意識されていたことが分かりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341241000.html",
-          "publishedOn": "2024-01-30T23:52:13.000Z",
-          "wordCount": 762,
-          "title": "金融政策決定会合議事録 異次元緩和開始3か月後から半年分公開",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341241_2401302212_0131085215_01_02.jpg"
         }
       ]
     },
@@ -24430,16 +24455,6 @@
           "wordCount": 2635,
           "title": "シングルコアArm Cortex-A53採用、TSN搭載Ethernetスイッチ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/01/cover_news085.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2401/30/news084.html",
-          "author": null,
-          "description": "ネクスペリアは、デュアル出力LCDバイアス電源IC「NEX10000」「NEX10001」を発表した。NEX10000が最大80mA、NEX10001が最大220mAの出力電流を供給できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2401/30/news084.html",
-          "publishedOn": "2024-01-31T00:00:00.000Z",
-          "wordCount": 2616,
-          "title": "ディスプレイの寿命を延長するデュアル出力LCDバイアス電源IC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2401/30/cover_news084.jpg"
         }
       ]
     },
@@ -27977,16 +27992,6 @@
           "wordCount": 1628,
           "title": "お兄ちゃん猫のことが大好きでずっとくっついて歩く子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67554.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67587",
-          "author": "299",
-          "description": "マンチカンの子猫4兄妹の可愛い動画の紹介です。 目が綺麗なブルーの子猫があおむけになって寝落ち寸前になっています。目は一応開いているようですが、完全に意識はぶっ飛んでしまっているようですね。 目が時々ピクピクと動いている...\n猫じゃらしの遊びは子猫にはまだ早過ぎたみたいです first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67587",
-          "publishedOn": "2024-01-31T00:00:51.000Z",
-          "wordCount": 1637,
-          "title": "猫じゃらしの遊びは子猫にはまだ早過ぎたみたいです",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/01/67587.jpeg"
         }
       ]
     },
