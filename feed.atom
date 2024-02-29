@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T09:13:31.599Z</updated>
+    <updated>2024-02-29T09:24:20.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去年の国内宿泊者数 延べ5億9275万人 前年比31.6％増加]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374621000.html"/>
+        <updated>2024-02-29T09:08:25.000Z</updated>
+        <summary type="html"><![CDATA[観光庁によりますと、2023年1年間に国内のホテルや旅館などに宿泊した人は、速報値で延べ5億9275万人と、前の年に比べて31.6％増加しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プーチン大統領 29日夜 年次教書演説 大統領選前に実績強調か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240229/k10014374781000.html</id>
@@ -37156,16 +37166,6 @@ https://www.asagei.com...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240131/k10014341341000.html"/>
         <updated>2024-01-30T21:29:28.000Z</updated>
         <summary type="html"><![CDATA[アメリカ軍の兵士3人が死亡した攻撃に関与した可能性があるとアメリカ国防総省が指摘している親イランの武装組織、「カタイブ・ヒズボラ」は30日、SNSで声明を発表し、アメリカ軍に対する軍事作戦を停止すると明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国会 各党代表質問へ 立民は自民に政治責任果たすよう迫る構え]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240131/k10014341041000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240131/k10014341041000.html"/>
-        <updated>2024-01-30T21:19:51.000Z</updated>
-        <summary type="html"><![CDATA[国会は31日から岸田総理大臣の施政方針演説に対する各党の代表質問が始まります。自民党が岸田総理大臣に政治改革の具体的なスケジュールを示し、早急に作業に着手するよう求めるのに対し、立憲民主党は政治資金問題に関係したすべての議員を処分するなど自民党として政治責任を果たすよう迫る構えです。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
