@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T05:14:07.517Z</updated>
+    <updated>2024-02-29T05:28:11.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[月探査「アルテミス計画」訓練用の宇宙船や米海軍の船が公開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374471000.html"/>
+        <updated>2024-02-29T05:24:06.000Z</updated>
+        <summary type="html"><![CDATA[アメリカが中心となって進める国際月探査計画「アルテミス計画」で、地球に戻ってくる宇宙船を海で回収する訓練が行われ、訓練用の宇宙船や回収に使われた海軍の船が報道陣に公開されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不動産会社代表を逮捕 架空の外注費計上など約4300万円脱税か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374461000.html"/>
+        <updated>2024-02-29T05:13:30.000Z</updated>
+        <summary type="html"><![CDATA[マンション販売の仲介などを手がける都内の不動産会社の代表が、架空の外注費を計上するなどして法人税およそ4300万円を脱税したとして、東京地検特捜部に逮捕されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「希少難病」の理解を深めてもらうイベント 開催]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374241000.html"/>
+        <updated>2024-02-29T05:10:41.000Z</updated>
+        <summary type="html"><![CDATA[2月29日は「世界希少・難治性疾患の日」です。「希少難病」について理解を深めてもらおうというイベントが開かれています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STMicroelectronics announces new ToF Sensors]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/02/stmicroelectronics-announces-new-tof.html</id>
