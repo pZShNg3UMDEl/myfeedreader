@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T09:35:58.078Z</updated>
+    <updated>2024-02-29T09:50:12.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】千葉県 大網白里市で震度4 津波の心配なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374921000.html"/>
+        <updated>2024-02-29T09:43:16.000Z</updated>
+        <summary type="html"><![CDATA[２９日午後６時３５分ごろ地震がありました。この地震による津波の心配はありません。震源地は千葉県東方沖で震源の深さは２０キロ、地震の規模を示すマグニチュードは４．９と推定されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【松屋】カルビホルモン丼【店舗限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=237555</id>
+        <link href="https://foodfighter.jp/matsuya-kalbi-hormone-don"/>
+        <updated>2024-02-29T09:40:20.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去年の国内宿泊者数 延べ5億9275万人 前年比31.6％増加]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240229/k10014374621000.html</id>

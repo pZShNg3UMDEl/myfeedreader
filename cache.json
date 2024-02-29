@@ -5811,6 +5811,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374921000.html",
+          "author": null,
+          "description": "２９日午後６時３５分ごろ地震がありました。この地震による津波の心配はありません。震源地は千葉県東方沖で震源の深さは２０キロ、地震の規模を示すマグニチュードは４．９と推定されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240229/k10014374921000.html",
+          "publishedOn": "2024-02-29T09:43:16.000Z",
+          "wordCount": 225,
+          "title": "【地震速報】千葉県 大網白里市で震度4 津波の心配なし",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240229/K10014374921_2402291846_0229184636_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240229/k10014374621000.html",
           "author": null,
           "description": "観光庁によりますと、2023年1年間に国内のホテルや旅館などに宿泊した人は、速報値で延べ5億9275万人と、前の年に比べて31.6％増加しました。",
@@ -22634,6 +22644,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=237555",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]",
+          "link": "https://foodfighter.jp/matsuya-kalbi-hormone-don",
+          "publishedOn": "2024-02-29T09:40:20.000Z",
+          "wordCount": 1895,
+          "title": "【松屋】カルビホルモン丼【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/d260522be123f360f36565f57fe5c502.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=237537",
           "author": "foodfighter",
