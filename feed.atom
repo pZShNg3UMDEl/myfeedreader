@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T20:36:21.149Z</updated>
+    <updated>2024-02-29T20:50:26.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】埼玉県・千葉県で震度4 津波の心配なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014375371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014375371000.html"/>
+        <updated>2024-02-29T20:46:06.000Z</updated>
+        <summary type="html"><![CDATA[１日午前５時４３分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度４が、埼玉県南部、千葉県北東部、千葉県北西部。今後の情報に注意してください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政倫審 きょう安倍派の4人が出席 西村氏 松野氏 塩谷氏 高木氏]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240301/k10014374961000.html</id>
@@ -37038,16 +37048,6 @@ Different imaging systems and sensors are reviewed as well as lenses and aberrat
         <link href="http://www3.nhk.or.jp/news/html/20240131/k10014342021000.html"/>
         <updated>2024-01-31T08:51:35.000Z</updated>
         <summary type="html"><![CDATA[中古車販売会社「ビッグモーター」の店舗前の街路樹伐採事件で、伐採を指示したとして逮捕された本社の社員は、各地の店舗を巡回点検する立場を唯一担い、現場の店舗に対して一定の影響力を持っていたことが警察などへの取材でわかりました。点検の成績などがよくなければ降格処分につながったという指摘もあり、警察は影響力を背景に伐採を指示していたとみて調べています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加藤国交政務官 辞職願を提出 収支報告書10万円の収入不記載で]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240131/k10014342001000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240131/k10014342001000.html"/>
-        <updated>2024-01-31T08:36:28.000Z</updated>
-        <summary type="html"><![CDATA[自民党安倍派に所属する加藤竜祥国土交通政務官は、31日にコメントを発表し、自身の政治団体の収支報告書に10万円の収入を記載していなかったとして、国土交通政務官などの辞職願を提出したことを明らかにしました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
