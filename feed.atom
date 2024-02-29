@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T11:21:53.160Z</updated>
+    <updated>2024-02-29T11:41:37.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -21,6 +21,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374941000.html"/>
         <updated>2024-02-29T11:11:41.000Z</updated>
         <summary type="html"><![CDATA[損害保険大手4社は、企業向け保険の保険料を事前に調整していた問題を受けて社長ら経営陣の報酬減額などの処分を発表しました。対象となる役員は、親会社を含めると4社あわせて149人と、異例の大規模な処分となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 七尾 和倉温泉の若手グループが復興へのビジョン発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014375031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014375031000.html"/>
+        <updated>2024-02-29T11:09:46.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県七尾市の和倉温泉で、復興の形を議論してきた地元の若手グループが「街を歩きたくなるような空間作りを進め、安心安全のため高台に避難場所を作る」などとする復興に向けたビジョンを発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -80,6 +90,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374601000.html"/>
         <updated>2024-02-29T10:20:25.000Z</updated>
         <summary type="html"><![CDATA[アメリカのバイデン政権は、インターネットにつないで通信できる車「コネクテッドカー」について、中国の技術などが使用されたものは安全保障上の懸念があるとして対策を取る方針を発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガザ地区 死者3万人超に 米政府 上空から支援物資投下検討か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374931000.html"/>
+        <updated>2024-02-29T10:17:13.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍の攻撃が続くガザ地区の保健当局は、29日、過去24時間で81人が死亡し、これまでの死者が3万人を上回ったと発表しました。人道状況の悪化に歯止めがかからない中、ロイター通信などはアメリカ政府が上空から支援物資の投下を検討していると伝えました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
