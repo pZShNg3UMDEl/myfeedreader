@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T19:36:08.227Z</updated>
+    <updated>2024-02-29T19:50:15.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大学生の就職活動 きょうから本格化 企業の説明会がスタート]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014375041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014375041000.html"/>
+        <updated>2024-02-29T19:41:25.000Z</updated>
+        <summary type="html"><![CDATA[来年春に卒業する大学生の就職活動は企業による学生への説明会が1日から始まり、本格化します。人手不足の企業の中には採用が計画どおりに進んでいないケースが多いとみられ、早期に採用活動を始める動きが出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[舞台「千と千尋の神隠し」英上演前に橋本環奈さんらが意気込み]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240301/k10014375011000.html</id>
