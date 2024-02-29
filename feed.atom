@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T22:37:04.862Z</updated>
+    <updated>2024-02-29T22:50:15.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【マクドナルド】ホットケーキ ハッピーセット 星のカービィ第2弾【朝マックメニュー】]]></title>
+        <id>https://foodfighter.jp/?p=237611</id>
+        <link href="https://foodfighter.jp/mcdonalds-happy-set-pancake"/>
+        <updated>2024-02-29T22:35:42.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouTub […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“地元で暮らし続けたい”8割超 能登半島地震から2か月]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014375291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014375291000.html"/>
+        <updated>2024-02-29T22:32:20.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震から2か月となる中、NHKが専門家と共同で行っている被災者へのアンケートで、回答した人の84％が「これまで住んでいた場所や自治体で暮らし続けたい」と答えました。一方で、多くの人が再び地震が起きないかや、地域の復興、それに収入の確保などを不安に感じていて、さまざまな心配ごとを抱えながら避難生活を続けている実態が明らかになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[えん罪事件めぐる民事裁判 メーカー側が新たな証拠を提出]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240301/k10014375251000.html</id>
@@ -36976,16 +36996,6 @@ Different imaging systems and sensors are reviewed as well as lenses and aberrat
         <summary type="html"><![CDATA[1月最終週の2024年冬アニメ録画ランキングは、「葬送のフリーレン」が4週連続で首位となった。2位とのポイント差を先週からさらに広げ、完全に独走状態だ。 2位の「ポケットモンスター 新シリーズ」...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衆院本会議 政治資金問題めぐり立民が追及 首相“対応検討”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240131/k10014341731000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240131/k10014341731000.html"/>
-        <updated>2024-01-31T10:44:34.000Z</updated>
-        <summary type="html"><![CDATA[国会は、31日から衆議院本会議で、岸田総理大臣の施政方針演説に対する各党の代表質問が始まりました。立憲民主党の泉代表が、自民党の派閥の政治資金パーティーをめぐる問題に関係する議員の辞職や離党などを迫ったのに対し、岸田総理大臣は、関係者への聴き取りなどを通じて事実関係を把握した上で、対応を検討する考えを示しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>

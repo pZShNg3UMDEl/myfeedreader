@@ -5791,6 +5791,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375291000.html",
+          "author": null,
+          "description": "能登半島地震から2か月となる中、NHKが専門家と共同で行っている被災者へのアンケートで、回答した人の84％が「これまで住んでいた場所や自治体で暮らし続けたい」と答えました。一方で、多くの人が再び地震が起きないかや、地域の復興、それに収入の確保などを不安に感じていて、さまざまな心配ごとを抱えながら避難生活を続けている実態が明らかになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014375291000.html",
+          "publishedOn": "2024-02-29T22:32:20.000Z",
+          "wordCount": 610,
+          "title": "“地元で暮らし続けたい”8割超 能登半島地震から2か月",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014375291_2403010710_0301073155_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375251000.html",
           "author": null,
           "description": "横浜市の化学機械メーカーの社長ら3人が不正輸出の疑いで逮捕され、その後無実が明らかになったえん罪事件をめぐる民事裁判で、メーカー側が2審に向けて警視庁の内部メモなどとする新たな証拠を提出し、「事件をねつ造した」などと主張しました。一方、捜査機関側は捜査の違法性を否定しています。",
@@ -22559,16 +22569,6 @@
           "wordCount": 728,
           "title": "組織委元理事側 “理事に権限なし” 五輪・パラ汚職事件裁判",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014342121_2401311922_0131192352_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240131/k10014341731000.html",
-          "author": null,
-          "description": "国会は、31日から衆議院本会議で、岸田総理大臣の施政方針演説に対する各党の代表質問が始まりました。立憲民主党の泉代表が、自民党の派閥の政治資金パーティーをめぐる問題に関係する議員の辞職や離党などを迫ったのに対し、岸田総理大臣は、関係者への聴き取りなどを通じて事実関係を把握した上で、対応を検討する考えを示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240131/k10014341731000.html",
-          "publishedOn": "2024-01-31T10:44:34.000Z",
-          "wordCount": 1030,
-          "title": "衆院本会議 政治資金問題めぐり立民が追及 首相“対応検討”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240131/K10014341731_2401311811_0131182811_01_02.jpg"
         }
       ]
     },
@@ -22624,6 +22624,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=237611",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouTub […]",
+          "link": "https://foodfighter.jp/mcdonalds-happy-set-pancake",
+          "publishedOn": "2024-02-29T22:35:42.000Z",
+          "wordCount": 1906,
+          "title": "【マクドナルド】ホットケーキ ハッピーセット 星のカービィ第2弾【朝マックメニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/e628017b5346cf777559aec2fe46aeb7.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=237583",
           "author": "foodfighter",
