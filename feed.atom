@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T08:35:35.213Z</updated>
+    <updated>2024-02-29T08:50:25.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「NewsPicks」が著作権侵害 運営会社が謝罪 写真など無断使用]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374731000.html"/>
+        <updated>2024-02-29T08:43:25.000Z</updated>
+        <summary type="html"><![CDATA[スマートフォンのアプリなどで経済ニュースを配信する「NewsPicks」で新聞社やテレビ局などの記事の写真や画像、イラストを無断で使用するなどの著作権侵害があったとして、運営する会社が謝罪しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ドラクエウォーク】進化の秘法発動でも与ダメ変わらない方法!!超絶安定構成!!メガモンバルザックビーストを１年目武器＋ＳＰ防具を使ってソロフルオート攻略していく!!]]></title>
+        <id>https://www.youtube.com/watch?v=b8Wm7eP2qWM</id>
+        <link href="https://www.youtube.com/watch?v=b8Wm7eP2qWM"/>
+        <updated>2024-02-29T08:40:01.000Z</updated>
+        <author>
+            <name>YoshiZo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川 逗子 放置うさぎ新たに1匹 防犯カメラ分析など警察捜査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240229/k10014374681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240229/k10014374681000.html"/>
+        <updated>2024-02-29T08:36:04.000Z</updated>
+        <summary type="html"><![CDATA[2月20日以降、神奈川県逗子市で放置されたうさぎが30匹以上見つかっている問題で、NHKが付近を取材したところ新たに1匹が見つかりました。警察は何者かが捨てた可能性もあるとみて周辺の防犯カメラを分析するなど捜査しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NBA 八村塁 勝ち越しスリーポイントなど17得点 逆転勝利に貢献]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240229/k10014374631000.html</id>
