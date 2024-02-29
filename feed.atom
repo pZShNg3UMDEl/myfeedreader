@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T23:35:51.966Z</updated>
+    <updated>2024-02-29T23:50:30.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1月の有効求人倍率 全国平均1.27倍 3か月連続で同水準]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014375171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014375171000.html"/>
+        <updated>2024-02-29T23:43:37.000Z</updated>
+        <summary type="html"><![CDATA[ことし1月の有効求人倍率は全国平均で1.27倍となり、3か月連続で同じ水準でした。厚生労働省は「原材料高騰の影響などで一部の業種で求人が減っていて注視が必要だ」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国内で約1世紀ぶり“新属”の植物「ムジナノショクダイ」発見]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240301/k10014375181000.html</id>
@@ -36930,16 +36940,6 @@ Different imaging systems and sensors are reviewed as well as lenses and aberrat
         <link href="http://www3.nhk.or.jp/news/html/20240131/k10014342231000.html"/>
         <updated>2024-01-31T11:56:45.000Z</updated>
         <summary type="html"><![CDATA[新年度予算案を審議する衆議院予算委員会は、31日の理事懇談会で自民党が所属議員を対象に政治資金パーティーをめぐる調査を行い、結果を国会に提出する意向を示したことから、与野党は、2月5日から予算案の実質的な審議に入ることで合意しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織委元理事側 “理事に権限なし” 五輪・パラ汚職事件裁判]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240131/k10014342121000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240131/k10014342121000.html"/>
-        <updated>2024-01-31T11:44:40.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック・パラリンピックのスポンサー契約などをめぐる汚職事件で、5つの企業から総額2億円近い賄賂を受け取った罪に問われている大会組織委員会の高橋治之元理事の裁判で、弁護側は、「組織委員会の理事にスポンサー集めの権限はなかった」などとして賄賂にはあたらないと無罪を主張しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
