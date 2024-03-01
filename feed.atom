@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T22:37:30.323Z</updated>
+    <updated>2024-03-01T22:50:18.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東京 足立区 夫婦殺害事件 容疑者2人は住宅侵入し数時間潜伏か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014376791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014376791000.html"/>
+        <updated>2024-03-01T22:38:09.000Z</updated>
+        <summary type="html"><![CDATA[東京 足立区の住宅で50代の夫婦を殺害したとして、フィリピン国籍の容疑者2人が逮捕された事件で、2人は夫婦が在宅中に侵入し、数時間にわたって住宅内に潜んでいた疑いがあることが、捜査関係者への取材でわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NY株式市場 ナスダック株価指数が2日連続で史上最高値更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014376961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014376961000.html"/>
+        <updated>2024-03-01T22:30:48.000Z</updated>
+        <summary type="html"><![CDATA[1日のニューヨーク株式市場は、AIの需要拡大を背景とした半導体関連などの業績の先行きへの期待から買い注文が増え、ハイテク関連銘柄の多いナスダックの株価指数は2日連続で史上最高値を更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来春卒業の大学生 就活スタート 経営者を採点する取り組みも]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014376621000.html</id>
@@ -36841,16 +36861,6 @@ KYODO 　2024/02/01
         <summary type="html"><![CDATA[テレビアニメ総集編「攻殻機動隊 STAND ALONE COMPLEX The Laughing Man」が、講談社が運営するYouTubeチャンネル「フル☆アニメTV」にて2月3日まで無料配信...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU大統領 ウクライナへの資金支援 “全加盟国が合意” SNS投稿]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343971000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343971000.html"/>
-        <updated>2024-02-01T10:48:49.000Z</updated>
-        <summary type="html"><![CDATA[EU＝ヨーロッパ連合のミシェル大統領は、1日にベルギーで開いた首脳会議で、ウクライナへの日本円で8兆円規模の巨額の資金支援をめぐってハンガリーも含め、27すべての加盟国が合意したとSNSに投稿しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
