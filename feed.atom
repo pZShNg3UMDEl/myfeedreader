@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T20:36:32.385Z</updated>
+    <updated>2024-03-01T20:50:13.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（3月2日の動き）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014332751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014332751000.html"/>
+        <updated>2024-03-01T20:39:15.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる2日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナとは7時間、ロシアのモスクワとは6時間の時差があります）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インド 迷子で行方不明の姉弟 13年ぶりに母と再会 奇跡と話題]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014376901000.html</id>
@@ -36923,36 +36933,6 @@ KYODO 　2024/02/01
         <summary type="html"><![CDATA[裏地ろくろ氏によるライトノベル「ゾンビのあふれた世界で俺だけが襲われない」のテレビアニメ化が決定し、AT-Xで放送されることが分かった。 同作は、小説書籍版、コミカライズ版をあわせてシリーズ累計...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAIO、最大1.5万円の「新生活応援」キャッシュバックキャンペーン。5月30日まで]]></title>
-        <id>https://gadget.phileweb.com/?p=67713</id>
-        <link href="https://gadget.phileweb.com/post-67713/"/>
-        <updated>2024-02-01T08:49:19.000Z</updated>
-        <summary type="html"><![CDATA[VAIOは、同社ノートPCを対象にした「VAIO新生活応援キャッシュバックキャンペーン」を2月1日から5月30日にかけて実施する。 対象のVAIO PCを購入して申し込むことで、もらえなく5,000円から1万円のキャッシュバックが受けられるキャンペーン。さらに学生の場合、5,000円が追加でキャッシ […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キリン 「ヘルシア」ブランドなど 花王から買収を発表]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343531000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343531000.html"/>
-        <updated>2024-02-01T08:38:17.000Z</updated>
-        <summary type="html"><![CDATA[緑茶の清涼飲料として初めてトクホ＝特定保健用食品となった「ヘルシア」のブランドと製造方法の知的財産権をキリンビバレッジが花王から買収すると発表しました。飲料事業でのこうした買収方法は珍しいということです。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「徴用」裁判 “1審判決の内容に問題” 地裁でやり直しへ 韓国]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343621000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343621000.html"/>
-        <updated>2024-02-01T08:37:24.000Z</updated>
-        <summary type="html"><![CDATA[太平洋戦争中の「徴用」をめぐる問題で、日本企業に賠償を求めた韓国人やその遺族らが、1審で訴えを退けられ控訴していた裁判で、韓国の高等裁判所は「1審判決の内容には問題がある」として、地方裁判所で審理をやり直すよう命じました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
