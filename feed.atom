@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T19:35:26.401Z</updated>
+    <updated>2024-03-01T19:50:33.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「女性の健康週間」に東京 丸の内で働く女性の健康考える催し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014376721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014376721000.html"/>
+        <updated>2024-03-01T19:34:45.000Z</updated>
+        <summary type="html"><![CDATA[3月1日から8日は「女性の健康週間」です。東京 丸の内では、働く女性の健康を考える催しが開かれています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[液状化被害で「全壊」の理容室 最低限の復旧で営業 新潟 西区]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014376701000.html</id>
@@ -36964,26 +36974,6 @@ KYODO 　2024/02/01
         <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、埼玉県選出で安倍派に所属する衆議院議員の三ツ林裕己氏と大塚拓氏、柴山昌彦氏、それに中根一幸氏の4人が政治資金収支報告書を訂正しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芸能プロが「ポケモン酷似ゲームに関わるな」とお達し]]></title>
-        <id>https://switchsoku.com/?p=97721</id>
-        <link href="https://switchsoku.com/gossip/97721"/>
-        <updated>2024-02-01T07:43:23.000Z</updated>
-        <summary type="html"><![CDATA[1: 2024/02/01(木) 09:27:34.24 ID:6/lW0rr/0 ポケモン酷似ゲー […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイ・オー、4K/60Hz出力対応の携帯ゲーミングPC用ドック。PD給電や有線LANに対応]]></title>
-        <id>https://gadget.phileweb.com/?p=67652</id>
-        <link href="https://gadget.phileweb.com/post-67652/"/>
-        <updated>2024-02-01T07:39:04.000Z</updated>
-        <summary type="html"><![CDATA[アイ・オー・データ機器は、携帯ゲーミングPC用のドック「US3C-GCHD/HN」を3月下旬に発売する。価格はオープンだが、税込7,980円前後の実売が予想される。 携帯ゲーミングPCをスタンド部に立てかけ、PD給電やHDMI出力、USB周辺機器の接続などが行えるドック。スタンド部の幅は約23mm、 […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
         </author>
     </entry>
 </feed>
