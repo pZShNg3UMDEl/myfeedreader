@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T10:13:33.588Z</updated>
+    <updated>2024-03-01T10:29:19.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北海道大学で不正アクセス 2万2000人余の個人情報流出か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014376441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014376441000.html"/>
+        <updated>2024-03-01T10:12:30.000Z</updated>
+        <summary type="html"><![CDATA[北海道大学は、工学部のウェブサーバーに去年、不正アクセスがあり、過去に在籍した学生を含め2万2000人余りの氏名などの個人情報が流出した可能性があると明らかにしました。これまでに個人情報の悪用などは確認されていませんが、大学は相談窓口を設置し、不審なことがあれば連絡するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[札幌ドーム「命名権半額セールだよー！年2億5千万円の今だけ爆安価格！2/29まで！」→応募ゼロ]]></title>
         <id>https://itainews.com/archives/2033498.html</id>
@@ -37069,16 +37079,6 @@ KYODO 　2024/02/01
         <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342841000.html"/>
         <updated>2024-01-31T22:51:39.000Z</updated>
         <summary type="html"><![CDATA[3月に行われるロシアの大統領選挙に向けて、プーチン大統領を批判するナデジディン元下院議員が31日、立候補に必要な有権者の署名を提出するなど手続きを済ませました。プーチン氏に対抗する候補者になるか注目されていて、今後、政権側から立候補を認められるかが焦点となっています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナへの資金支援について協議 きょうEU首脳会議]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342771000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342771000.html"/>
-        <updated>2024-01-31T22:13:56.000Z</updated>
-        <summary type="html"><![CDATA[EU＝ヨーロッパ連合は1日、首脳会議を開いてウクライナへの資金支援について協議します。前回は反対したハンガリーが同意し、8兆円近くの巨額の資金支援で合意できるかが焦点です。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>

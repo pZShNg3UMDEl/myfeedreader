@@ -5861,6 +5861,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014376441000.html",
+          "author": null,
+          "description": "北海道大学は、工学部のウェブサーバーに去年、不正アクセスがあり、過去に在籍した学生を含め2万2000人余りの氏名などの個人情報が流出した可能性があると明らかにしました。これまでに個人情報の悪用などは確認されていませんが、大学は相談窓口を設置し、不審なことがあれば連絡するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014376441000.html",
+          "publishedOn": "2024-03-01T10:12:30.000Z",
+          "wordCount": 569,
+          "title": "北海道大学で不正アクセス 2万2000人余の個人情報流出か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014376441_2403011907_0301191140_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240301/k10014376151000.html",
           "author": null,
           "description": "「本当に信じられないですね」36歳で2度の大きな地震に遭った男性は、そう繰り返しました。そのことばには正反対の2つの意味がありました。",
@@ -22579,16 +22589,6 @@
           "wordCount": 746,
           "title": "ナデジディン氏 ロシア大統領選へ手続き 立候補認められるか",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342841_2402010748_0201074957_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342771000.html",
-          "author": null,
-          "description": "EU＝ヨーロッパ連合は1日、首脳会議を開いてウクライナへの資金支援について協議します。前回は反対したハンガリーが同意し、8兆円近くの巨額の資金支援で合意できるかが焦点です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342771000.html",
-          "publishedOn": "2024-01-31T22:13:56.000Z",
-          "wordCount": 596,
-          "title": "ウクライナへの資金支援について協議 きょうEU首脳会議",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342771_2402010713_0201071358_01_02.jpg"
         }
       ]
     },
