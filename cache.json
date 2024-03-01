@@ -5821,6 +5821,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014376261000.html",
+          "author": null,
+          "description": "NTT西日本は子会社の元派遣社員が個人情報を不正に流出させた問題の責任をとって、今月末で退任する森林正彰社長の後任に、NTT東日本の北村亮太副社長が就任する人事を発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014376261000.html",
+          "publishedOn": "2024-03-01T08:40:33.000Z",
+          "wordCount": 657,
+          "title": "NTT西日本の新社長 NTT東日本の北村亮太副社長が就任へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014376261_2403011709_0301171122_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240301/k10014376201000.html",
           "author": null,
           "description": "去年7月、次期主力ロケットの1つ、「イプシロンS」の燃焼試験中に爆発事故が起きた秋田県の能代ロケット実験場について、JAXA＝宇宙航空研究開発機構は、早ければ来年から新しい試験棟の建設工事を始める方針を決めたことが関係者への取材で分かりました。",
@@ -22579,16 +22589,6 @@
           "wordCount": 686,
           "title": "能登半島地震から1か月 今後2～3週間は最大震度5弱程度に注意",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342761_2402010546_0201055214_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342381000.html",
-          "author": null,
-          "description": "福島県いわき市の水族館、アクアマリンふくしまは、深海に生息する「コトクラゲ」という珍しい生き物を日本海で捕獲しました。考えられていたよりも広い海域に生息していることを示す重要な発見だとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342381000.html",
-          "publishedOn": "2024-01-31T20:46:59.000Z",
-          "wordCount": 370,
-          "title": "深海の珍種「コトクラゲ」日本海で捕獲 “重要な発見” 福島",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342381_2401312059_0131213934_01_02.jpg"
         }
       ]
     },
@@ -27921,6 +27921,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=70531",
+          "author": "Munenori Taniguchi",
+          "description": "中国のモバイル機器メーカーTecno Mobileは、スペイン・バルセロナで開催のMWC 2024で、ゲームコントローラー型のハンドヘルドゲーミングPC「Pocket Go」を発表した。 ハンドヘルド型のゲーミングPCといえば、Steam DeckやAYANEO、ASUS ROG AllyなどのNi […]",
+          "link": "https://gadget.phileweb.com/post-70531/",
+          "publishedOn": "2024-03-01T08:50:23.000Z",
+          "wordCount": 796,
+          "title": "ゲームパッドにWindows搭載。付属ARグラスで大画面も楽しめるPC「Pocket Go」海外発表",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/TecnoPocketGo1.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=70490",
           "author": "多根清史",
