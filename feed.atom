@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T07:12:12.121Z</updated>
+    <updated>2024-03-01T07:22:10.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震活動続く千葉県東方沖で「スロースリップ」か 国土地理院]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014376161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014376161000.html"/>
+        <updated>2024-03-01T07:13:48.000Z</updated>
+        <summary type="html"><![CDATA[地震活動が続いている千葉県東方沖で、陸側のプレートと海側のプレートの境界がゆっくりとずれ動く「スロースリップ」が起きているとみられることが国土地理院の分析でわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぶつかりおじさん、ド派手な通勤服で「被害ゼロ」になった女性の証言]]></title>
         <id>https://itainews.com/archives/2033494.html</id>
