@@ -5811,6 +5811,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375851000.html",
+          "author": null,
+          "description": "韓国のユン・ソンニョル（尹錫悦）大統領は、日本からの独立運動の記念式典での演説で「歴史が残した難しい課題をともに解決していけば、新たな韓日関係の未来を切り開いていける」と述べ、来年で日韓国交正常化から60年となるのを機に、関係をさらに発展させていく考えを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014375851000.html",
+          "publishedOn": "2024-03-01T04:49:27.000Z",
+          "wordCount": 723,
+          "title": "韓国大統領 “難題ともに解決で 新たな韓日の未来切り開ける”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014375851_2403011212_0301134930_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375861000.html",
+          "author": null,
+          "description": "3月1日から始まった春の火災予防運動にあわせて、羽田空港に隣接する商業施設で火災を想定した訓練が行われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014375861000.html",
+          "publishedOn": "2024-03-01T04:40:58.000Z",
+          "wordCount": 634,
+          "title": "春の火災予防運動 羽田空港隣接の商業施設で火災想定した訓練",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014375861_2403011221_0301122923_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240301/k10014375831000.html",
           "author": null,
           "description": "インターネット上でのひぼう中傷の書き込みをめぐり、政府は1日の閣議で、SNSなどを運営する事業者に対し迅速な対応などを求める法律の改正案を決定しました。",
@@ -27921,6 +27941,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=70484",
+          "author": "多根清史",
+          "description": "ここ数年、ゲーミングPCでは超解像技術の利用が活発化している。システム内部では低解像度で描いて負荷を減らしつつ、AIによりアップスケーリングすることで見かけは高解像度にするものだ。一方、GPUメーカーがそれぞれ独自規格を打ち出すことで、乱立していた感があった。 そんななか、マイクロソフトがNVIDI […]",
+          "link": "https://gadget.phileweb.com/post-70484/",
+          "publishedOn": "2024-03-01T05:26:03.000Z",
+          "wordCount": 777,
+          "title": "NVIDIA、AMD、インテルの“超解像技術”、Windows 11が統合へ。新API「DirectSR」発表",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_2151224461.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=70455",
+          "author": "多根清史",
+          "description": "最近にわかにNintendo Switchの後継モデル、通称「スイッチ2」の発表・発売時期に関する噂が相次いでいる。海外メディアEurogamerなど複数の情報源が2025年初頭に発売説を唱えた直後に、日経新聞が「2025年3月にも発売へ」と報じていた。 そんななか、スイッチ2の価格が399ドル～4 […]",
+          "link": "https://gadget.phileweb.com/post-70455/",
+          "publishedOn": "2024-03-01T05:15:50.000Z",
+          "wordCount": 786,
+          "title": "Switch 2、価格は「6万円以上」との試算",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_615357041.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=68984",
           "author": "野村ケンジ",
