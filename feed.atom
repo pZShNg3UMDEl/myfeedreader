@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T21:36:12.437Z</updated>
+    <updated>2024-03-01T21:50:14.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地震 復旧状況は 被害の全体像は 2か月をデータで【3月1日】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014376471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014376471000.html"/>
+        <updated>2024-03-01T21:43:08.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発生から2か月がたちました。石川県内ではライフラインの復旧は進んでいるのか。被災地の現状を県の発表などをもとに時系列に読み解きます。（最新の数字は、一部を除いて3月1日午後2時時点のものです）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随時更新】ガザ地区北部 支援物資待ちの住民100人以上が死亡]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014376871000.html</id>
@@ -36891,16 +36901,6 @@ KYODO 　2024/02/01
         <summary type="html"><![CDATA[アスクは、Synologyのパーソナルクラウドストレージ「BeeStation」を2月1日に発売する。価格はオープンだが、税込40,560円前後での実売が予想される。 本機は、4TBのHDDを搭載する家庭用のクラウドストレージで、スマートフォンやクラウドストレージサービスなどに分散した、多くのファイ […]]]></summary>
         <author>
             <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“天台宗の寺の住職から性暴力” 尼僧 僧籍取り上げを申し立て]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343761000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343761000.html"/>
-        <updated>2024-02-01T09:41:39.000Z</updated>
-        <summary type="html"><![CDATA[四国にある天台宗の寺の住職から十数年にわたり性暴力などを受けたと訴え、尼僧が住職ら2人の僧籍を取り上げるよう、天台宗に申し立てました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
