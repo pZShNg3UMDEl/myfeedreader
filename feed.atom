@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T09:27:16.267Z</updated>
+    <updated>2024-03-01T09:37:15.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[放送法改正案 政府が提出 ”ネット配信 NHKの必須業務に”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014376371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014376371000.html"/>
+        <updated>2024-03-01T09:27:15.000Z</updated>
+        <summary type="html"><![CDATA[コンテンツを視聴する形が急速に変化する中、インターネットを通じた番組などの提供をNHKの必須業務にすることなどを柱とする放送法の改正案がきょう国会に提出されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「満足度No. 1」広告 客観的裏付けなく 6社に再発防止命じる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240301/k10014376311000.html</id>
@@ -37061,16 +37071,6 @@ KYODO 　2024/02/01
         <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342411000.html"/>
         <updated>2024-01-31T21:38:06.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震の発生から2月1日で1か月となりますが、工場の稼働が停止する影響が続く半導体や電子部品メーカーは、再開を目指して復旧作業を急いでいます。ただ、ホンダと日産自動車が一部の車種で生産調整を行う影響も出ています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライドシェア 5月から三浦市で実証実験 神奈川県]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342821000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342821000.html"/>
-        <updated>2024-01-31T21:28:58.000Z</updated>
-        <summary type="html"><![CDATA[一般のドライバーが自分の車などを使って有料で人を運ぶ「ライドシェア」について、三浦市での導入を目指す神奈川県は、地元に住む人からドライバーを募り、タクシー会社が運行管理を担う仕組みでことし5月から実証実験を行うとする具体案をまとめました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
