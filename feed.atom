@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T21:12:32.961Z</updated>
+    <updated>2024-03-01T21:22:37.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[農業用ハウスの「自主避難所」 地震から2か月の今も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014375881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014375881000.html"/>
+        <updated>2024-03-01T21:06:24.000Z</updated>
+        <summary type="html"><![CDATA[ベッドの土台は、培養土が入った袋を積み上げたもの。保健師の健康相談も取りやめになりました。「それでも気心の知れた人とここにいたい」能登半島地震の発生から2か月。今も農業用ハウスという厳しい環境で避難生活を続ける人たちがいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「これはダメやなと思って…」ホテルから避難所へ戻った理由は]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014376021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014376021000.html"/>
+        <updated>2024-03-01T21:04:44.000Z</updated>
+        <summary type="html"><![CDATA[「やっぱりここでなきゃいかんなと思ってます」そう話すのは、石川県珠洲市の男性の99歳の父親です。先月、一緒に2次避難先のホテルへ行きましたが、元いた避難所へ戻ってきました。生活環境が整ったホテルではなく、段ボールのベッドを使う避難所を選んだ理由を聞きました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（3月2日の動き）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014332751000.html</id>
@@ -36859,26 +36879,6 @@ KYODO 　2024/02/01
         <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343761000.html"/>
         <updated>2024-02-01T09:41:39.000Z</updated>
         <summary type="html"><![CDATA[四国にある天台宗の寺の住職から十数年にわたり性暴力などを受けたと訴え、尼僧が住職ら2人の僧籍を取り上げるよう、天台宗に申し立てました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】旨辛キムチチャーハン【コンビニ弁当新商品】]]></title>
-        <id>https://foodfighter.jp/?p=234761</id>
-        <link href="https://foodfighter.jp/711sej-kimuchi-fried-rice-2024"/>
-        <updated>2024-02-01T09:15:22.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「旨辛キムチチャーハン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能登半島地震1か月 地震活動は依然活発 気象庁が注意呼びかけ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014343711000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343711000.html"/>
-        <updated>2024-02-01T09:13:26.000Z</updated>
-        <summary type="html"><![CDATA[石川県で震度7の激しい揺れを観測した能登半島地震から1日で1か月です。能登地方やその周辺では地震の回数は徐々に減少しているものの、依然、活動が活発な状態が続いています。気象庁は今後2週間から3週間ほどは最大震度5弱程度かそれ以上の地震に注意するよう呼びかけています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
