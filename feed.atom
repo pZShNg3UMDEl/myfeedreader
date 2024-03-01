@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T21:22:37.039Z</updated>
+    <updated>2024-03-01T21:36:12.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ガザ地区北部 支援物資待ちの住民100人以上が死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014376871000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014376871000.html"/>
+        <updated>2024-03-01T21:31:48.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区北部で支援物資を待っていた100人以上の住民がイスラエル軍の攻撃で死亡したと現地の保健当局が発表しました。ガザ地区北部では支援物資の搬入が困難な状況が続いていて、住民からは「私たちは死にかけている」など悲痛な声も聞かれ、危機的な状況となっています。※イスラエルやパレスチナに関する日本時間3月2日の動きを随時、更新してお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナワリヌイ氏葬儀 多くの支持者集まる 少なくとも50人以上拘束]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014376941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014376941000.html"/>
+        <updated>2024-03-01T21:21:38.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのプーチン政権への批判を続け、刑務所で死亡した反体制派の指導者、ナワリヌイ氏の葬儀が1日首都モスクワで営まれ、多くの支持者らが集まり、別れを告げました。当局が厳戒態勢を敷くなか「プーチンのいないロシアを」などと叫ぶ人もいて、人権団体によりますと、ロシア各地で少なくとも50人以上が拘束されたということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[農業用ハウスの「自主避難所」 地震から2か月の今も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014375881000.html</id>
