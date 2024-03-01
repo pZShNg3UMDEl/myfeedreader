@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T14:26:01.753Z</updated>
+    <updated>2024-03-01T14:36:27.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[衆院予算委 2日午前9時から 与党側予算案2日中に採決の方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014376881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014376881000.html"/>
+        <updated>2024-03-01T14:27:15.000Z</updated>
+        <summary type="html"><![CDATA[新年度予算案の審議日程をめぐり、自民党と立憲民主党は、2日午前9時から予算委員会を開き、1日の集中審議で行われなかった立憲民主党と共産党の質疑を行うことで大筋合意しました。与党側は集中審議を終えたあと、締めくくり質疑と予算案の採決を行い、その後、衆議院本会議でも採決して年度内の成立が確実になる2日中に衆議院を通過させる方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「夕焼けパンダ」7年ぶりに完全な形で出現 兵庫 明石]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240301/k10014376691000.html</id>
@@ -37213,16 +37223,6 @@ KYODO 　2024/02/01
         <link href="http://www3.nhk.or.jp/news/html/20240201/k10014343011000.html"/>
         <updated>2024-02-01T02:48:45.000Z</updated>
         <summary type="html"><![CDATA[日本製鉄がアメリカの大手鉄鋼メーカー「USスチール」の買収を決めたことについて、アメリカのトランプ前大統領は「私なら即座に阻止する」と述べ買収を認めない考えを明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春闘 経団連と連合トップ会談 人件費含めた価格転嫁実現へ一致]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014342941000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014342941000.html"/>
-        <updated>2024-02-01T02:30:23.000Z</updated>
-        <summary type="html"><![CDATA[ことしの春闘をめぐって、「経団連」と「連合」のトップによる会談が行われ、賃上げの勢いを維持するため人件費を含めた価格転嫁の実現に向けて取り組むことで一致しました。2月中旬に自動車などの労働組合が要求書を提出し、交渉は本格化します。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
