@@ -5811,6 +5811,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240301/k10014376121000.html",
+          "author": null,
+          "description": "札幌市の円山動物園で飼育されている1歳のライオン「クレイ」がオスではなくメスだったことがわかりました。園は今後、クレイが生まれた愛媛県の動物園に戻す方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240301/k10014376121000.html",
+          "publishedOn": "2024-03-01T07:17:52.000Z",
+          "wordCount": 584,
+          "title": "札幌 円山動物園の1歳“オスのライオン” 実は“メス”だった",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240301/K10014376121_2403011547_0301160431_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240301/k10014376161000.html",
           "author": null,
           "description": "地震活動が続いている千葉県東方沖で、陸側のプレートと海側のプレートの境界がゆっくりとずれ動く「スロースリップ」が起きているとみられることが国土地理院の分析でわかりました。",
@@ -22649,36 +22659,6 @@
           "wordCount": 507,
           "title": "ガザ地区 日本支援施設の被害は 衛星写真で分析した地図公開",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342351_2401312317_0131232503_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342401000.html",
-          "author": null,
-          "description": "若手アスリートが参加して韓国で開かれているユースオリンピックでは、各国の選手団が選手のメンタル面をサポートする取り組みに力を入れています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342401000.html",
-          "publishedOn": "2024-01-31T19:32:12.000Z",
-          "wordCount": 684,
-          "title": "ユース五輪 各国選手団 選手のメンタル面のサポートに力入れる",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342401_2401312359_0131235954_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342371000.html",
-          "author": null,
-          "description": "「だるまさん」シリーズなどで知られる絵本作家、かがくいひろしさんの作品の展示会が、千葉県松戸市の特別支援学校で開かれています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342371000.html",
-          "publishedOn": "2024-01-31T19:28:32.000Z",
-          "wordCount": 488,
-          "title": "絵本作家 かがくいひろしさんの展示会「だるまさん」千葉 松戸",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342371_2401312132_0131213543_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240201/k10014342741000.html",
-          "author": null,
-          "description": "アメリカ国務省の高官は31日、ブリンケン国務長官が近く中東を訪問することを明らかにしました。イスラム組織ハマスに拘束されている人質の解放と戦闘休止に向けた交渉や、ヨルダンにあるアメリカ軍の拠点が攻撃されたことをめぐり意見を交わすものとみられます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240201/k10014342741000.html",
-          "publishedOn": "2024-01-31T19:23:42.000Z",
-          "wordCount": 656,
-          "title": "米国務長官 中東訪問へ 人質解放交渉など協議",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240201/K10014342741_2402010422_0201042305_01_02.jpg"
         }
       ]
     },
