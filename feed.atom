@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T10:29:19.750Z</updated>
+    <updated>2024-03-01T10:39:36.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震2か月 地震が発生した午後4時10分に合わせ黙とう]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240301/k10014376481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240301/k10014376481000.html"/>
+        <updated>2024-03-01T10:31:38.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震から2か月の1日、石川県珠洲市の避難所で避難生活を送っている人たちは、地震が発生した午後4時10分に合わせて黙とうをささげました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「映画ドラえもん のび太と空の理想郷」3月2日夜にテレビ朝日で初放送]]></title>
+        <id>https://anime.eiga.com/news/120706/</id>
+        <link href="https://anime.eiga.com/news/120706/"/>
+        <updated>2024-03-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年に公開された「映画ドラえもん のび太と空の理想郷（ユートピア）」が、3月2日午後6時56分からテレビ朝日にてテレビ初放送される。 3月1日からスタートした最新作「映画ドラえもん のび太...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北海道大学で不正アクセス 2万2000人余の個人情報流出か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240301/k10014376441000.html</id>
