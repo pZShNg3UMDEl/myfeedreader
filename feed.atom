@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T09:35:32.084Z</updated>
+    <updated>2024-03-02T09:50:23.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[専門家“表層雪崩起きた可能性” 長野県と鳥取県で雪崩相次ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014377311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014377311000.html"/>
+        <updated>2024-03-02T09:41:52.000Z</updated>
+        <summary type="html"><![CDATA[長野県と鳥取県で雪崩が相次いだことについて、専門家は2月29日から降り続いた雪によって表面に近い層が崩れる「表層雪崩」が起きた可能性があると指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[青山剛昌に初めて長期密着した「プロフェッショナル 仕事の流儀」放送決定　「名探偵コナン」創作の秘密に迫る72分拡大版]]></title>
         <id>https://anime.eiga.com/news/120702/</id>
@@ -36960,26 +36970,6 @@ EPFL also presents a burst SPAD imager:]]></summary>
 ヤンチャ盛りの子猫達が可愛すぎる件 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハマス 戦闘休止など交渉検討重ねる ヒズボラは“抵抗続ける”]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344331000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344331000.html"/>
-        <updated>2024-02-01T21:45:48.000Z</updated>
-        <summary type="html"><![CDATA[イスラエル軍とイスラム組織ハマスの間の戦闘休止と人質解放をめぐる交渉について、ハマス側は慎重に検討を重ねているものとみられます。一方、イスラエルと戦闘を続けている隣国レバノンのイスラム教シーア派組織ヒズボラの政治部門の幹部がNHKの取材に応じ、「ガザへの攻撃が終わらないかぎり抵抗を続ける」と述べ、徹底抗戦の姿勢を強調しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[気になるAI機能は？日本発売決定前の「Galaxy S24 Ultra」に触れてみた]]></title>
-        <id>https://gadget.phileweb.com/?p=67710</id>
-        <link href="https://gadget.phileweb.com/post-67710/"/>
-        <updated>2024-02-01T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[サムスン電子が1月18日に発表した、新しいスマートフォンのフラグシップモデル「Galaxy S24」シリーズ。ハード性能の高さだけでなく、話題の「生成AI」をはじめとしたAI技術をフル活用した「Galaxy AI」で、新しい機能を実現している点が大きな特徴となっている。 同シリーズは、記事執筆時点で […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>
