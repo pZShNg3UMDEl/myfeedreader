@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T15:36:17.984Z</updated>
+    <updated>2024-03-02T15:50:24.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -178,6 +178,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240302/k10014377351000.html"/>
         <updated>2024-03-02T11:26:47.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震で7階建てのビルが倒壊して自宅が巻き込まれ、妻と19歳の娘を亡くした石川県輪島市の男性が2日、自宅を訪れ「ここに来ると気持ちは1月1日のままで、地震から2か月というけれど気持ちも何も変わらない。朝起きると妻と娘がいるんじゃないかという気がして、時間だけが過ぎていく」と話しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女性と防災について考える講演会 “女性の視点を取り入れて”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014377361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014377361000.html"/>
+        <updated>2024-03-02T11:17:06.000Z</updated>
+        <summary type="html"><![CDATA[女性と防災について考える講演会が甲府市で開かれ、東日本大震災を経験したNPOの女性が避難所での授乳スペースや生理用品の確保などに課題があったなどとして、女性の視点を取り入れる重要性を訴えました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
