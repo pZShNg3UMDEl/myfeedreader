@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120671/",
+          "author": null,
+          "description": "韓国発の漫画をテレビアニメ化する「喧嘩独学」のメインキャストが発表され、丹羽哲士、岡本信彦、ファイルーズあいらの出演が決定した。キャラクターPVも公開されている。 2020年からLINEマンガで...",
+          "link": "https://anime.eiga.com/news/120671/",
+          "publishedOn": "2024-03-02T12:00:00.000Z",
+          "wordCount": 963,
+          "title": "「喧嘩独学」主役は丹羽哲士　岡本信彦、ファイルーズあい、石川由依、武内駿輔、石川界人、青山吉能、中村悠一、杉田智和が出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120684/",
           "author": null,
           "description": "津田健次郎と浪川大輔によるクリエイティブユニット「超電導dB」の新企画となるコントアニメーション「現代誤訳」が7月から放送される。あわせて、着ぐるみ姿の2人を収めたビジュアルが公開されている。 ...",
@@ -5221,16 +5236,6 @@
           "wordCount": 10077,
           "title": "男向け『ときめきメモリアルが』完全に出なくなった件",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/08/tokimemo.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97747",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/01(木) 22:00:54.80 2位（初登場）　Switch　不思議のダン […]",
-          "link": "https://switchsoku.com/spike-chunsoft/97747",
-          "publishedOn": "2024-02-02T00:00:19.000Z",
-          "wordCount": 10106,
-          "title": "『風来のシレン6』初週販売本数 85,424本",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/siren6-switch.webp"
         }
       ]
     },
@@ -5980,6 +5985,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377371000.html",
+          "author": null,
+          "description": "ウクライナではロシア軍によるミサイルや無人機による攻撃が相次ぎ、南部のオデーサ州では3歳の子どもを含む12人が死傷しました。一方、ロシアのプーチン大統領は予備役の国民を軍事訓練に参加させるための大統領令に署名し、隠れた動員につなげる兵力増強の動きだとも指摘されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240302/k10014377371000.html",
+          "publishedOn": "2024-03-02T12:06:13.000Z",
+          "wordCount": 689,
+          "title": "ウクライナ ミサイルや無人機攻撃で3歳の子ども含む12人死傷",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240302/K10014377371_2403021903_0302193810_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377441000.html",
+          "author": null,
+          "description": "派閥の政治資金パーティーをめぐる問題で、自民党の石井参議院国会対策委員長は、野党4党の申し立てを受けて、参議院の政治倫理審査会を再来週開催することを検討していく考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240302/k10014377441000.html",
+          "publishedOn": "2024-03-02T11:44:22.000Z",
+          "wordCount": 512,
+          "title": "参院政倫審 再来週開催を検討の考え 自民 石井参院国対委員長",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240302/K10014377441_2403022030_0302204243_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377351000.html",
+          "author": null,
+          "description": "能登半島地震で7階建てのビルが倒壊して自宅が巻き込まれ、妻と19歳の娘を亡くした石川県輪島市の男性が2日、自宅を訪れ「ここに来ると気持ちは1月1日のままで、地震から2か月というけれど気持ちも何も変わらない。朝起きると妻と娘がいるんじゃないかという気がして、時間だけが過ぎていく」と話しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240302/k10014377351000.html",
+          "publishedOn": "2024-03-02T11:26:47.000Z",
+          "wordCount": 904,
+          "title": "石川 輪島 妻と娘亡くした男性「地震から2か月 何も変わらず」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240302/K10014377351_2403022013_0302201930_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377281000.html",
           "author": null,
@@ -22649,16 +22684,6 @@
           "wordCount": 745,
           "title": "死刑判決の当時19歳被告 控訴取り下げで死刑確定 甲府",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344441_2402020944_0202095349_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344411000.html",
-          "author": null,
-          "description": "ガザ地区の支援を担っているUNRWA＝国連パレスチナ難民救済事業機関は1日、声明を発表し、これまでにあわせて4億4000万ドル、日本円にしておよそ645億円の支援が停止され、2月中には活動を停止せざるを得なくなる可能性が高いとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344411000.html",
-          "publishedOn": "2024-02-01T23:56:06.000Z",
-          "wordCount": 588,
-          "title": "ガザ地区支援の国連機関UNRWA 資金支援停止受け 活動停止か",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344411_2402020826_0202085608_01_02.jpg"
         }
       ]
     },
@@ -24410,16 +24435,6 @@
           "wordCount": 2631,
           "title": "速度ゼロでフルトルク実現、センサーレスのモーター制御用組み込みソフト",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/02/cover_news194.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/02/news076.html",
-          "author": null,
-          "description": "ルネサス エレクトロニクスは、フラッシュメモリを内蔵した、低消費電力のBluetooth Low Energy対応SoC「DA14592」を発売、量産を開始した。Arm Cortex-M33とCortex-M0+の2つのCPUを搭載している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/02/news076.html",
-          "publishedOn": "2024-02-02T00:00:00.000Z",
-          "wordCount": 2650,
-          "title": "フラッシュ内蔵デュアルコアBluetooth LE SoC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/02/cover_news076.jpg"
         }
       ]
     },
@@ -27957,16 +27972,6 @@
           "wordCount": 1399,
           "title": "遊んでニャ～と甘えくる子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67675.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67708",
-          "author": "299",
-          "description": "今回ご紹介するのは子猫ちゃんラブなシェパードです。 シェパードと子猫ちゃんを顔合わせさせてみたら、一目で大ファンになってしまった様子。 デレデレっぷりが可愛らしいのでご覧ください。 ベッドの上では子猫ちゃんがコロンと寝転...\n子猫を一目見て大好きになってしまったシェパード first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67708",
-          "publishedOn": "2024-02-02T00:00:00.000Z",
-          "wordCount": 1399,
-          "title": "子猫を一目見て大好きになってしまったシェパード",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67708.jpg"
         }
       ]
     },
@@ -29592,6 +29597,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033529.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2024/03/01(金) 16:17:36.29 ID:Leq5j8ms9.net\n\n\n\n\n\n\n\nあまりのリスクに\"まともな男性\"は恋愛市場から去り問題男性が残る…｢不同意性交罪｣が引き起こす皮肉な現象 女性が能動的･主体的にグイグイ行くしかない https://t.co/j3PLPtCEQK— PRES...",
+          "link": "https://itainews.com/archives/2033529.html",
+          "publishedOn": "2024-03-02T12:04:48.000Z",
+          "wordCount": 2440,
+          "title": "【恋愛離れ】あまりのリスクに\"まともな男性\"は恋愛市場から去り問題男性が残る…｢不同意性交罪｣が引き起こす皮肉な現象",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/8/b8391427-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033524.html",
           "author": "yonepo665sfr",
