@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T02:04:19.345Z</updated>
+    <updated>2024-03-02T02:25:36.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米 バイデン大統領“ガザ地区 数日中に追加の食料や物資投下”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014377051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014377051000.html"/>
+        <updated>2024-03-02T02:07:05.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン大統領はイスラエルとイスラム組織ハマスの戦闘が続くガザ地区への支援物資が不足しているとして、数日中に上空から物資の投下を行うと表明しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハッピーセット「星のカービィ」でマック激込み→販売終了店続出‥メルカリで出品“転売ヤー”に怒りの声]]></title>
         <id>https://switchsoku.com/?p=98814</id>
@@ -36722,16 +36732,6 @@ Selected by the French Ministry of Defense, NIT, and INSP will present the culmi
 ゴミ箱傍で野ざらしになっていた赤ちゃん猫を保護してみた first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「避難した人が戻れる環境を」一時孤立の地区 撮影続けた男性]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240201/k10014344261000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240201/k10014344261000.html"/>
-        <updated>2024-02-01T14:24:34.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震で被災し、一時、孤立状態に陥った輪島市七浦地区では、暮らす人が地震前の半数以下まで減りました。地区に残っている男性は、「諦めずに、避難した人が戻ってこれるよう環境を作っていきたい」と思いを語りました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
