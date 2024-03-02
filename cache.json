@@ -2899,21 +2899,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120523/",
-          "author": null,
-          "description": "「劇場版 SPY×FAMILY CODE: White」の第3弾入場特典（入場者プレゼント）として、2月10日から「特製フレークシールセット」が全国合計30万人限定で配布される。全10種のシール...",
-          "link": "https://anime.eiga.com/news/120523/",
-          "publishedOn": "2024-02-02T08:30:00.000Z",
-          "wordCount": 732,
-          "title": "劇場版「SPY×FAMILY」第3弾入場特典は豪華シールセット　2月10日からMX4D・4DX上映スタート",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5950,6 +5935,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377471000.html",
+          "author": null,
+          "description": "パリオリンピックの代表選考の対象となるスケートボード、パークの国際大会が、UAE＝アラブ首長国連邦で開かれ、女子の準決勝では、東京オリンピック銀メダリストの開心那選手が3位に入るなど、日本勢3人が決勝に進みました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377471000.html",
+          "publishedOn": "2024-03-02T20:22:45.000Z",
+          "wordCount": 509,
+          "title": "スケートボード 女子の日本勢3人が決勝進出 パークの国際大会",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377471_2403030443_0303052247_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240303/k10014332761000.html",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T20:22:24.829Z</updated>
+    <updated>2024-03-02T20:35:30.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スケートボード 女子の日本勢3人が決勝進出 パークの国際大会]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377471000.html"/>
+        <updated>2024-03-02T20:22:45.000Z</updated>
+        <summary type="html"><![CDATA[パリオリンピックの代表選考の対象となるスケートボード、パークの国際大会が、UAE＝アラブ首長国連邦で開かれ、女子の準決勝では、東京オリンピック銀メダリストの開心那選手が3位に入るなど、日本勢3人が決勝に進みました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（3月3日の動き）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240303/k10014332761000.html</id>
@@ -36819,16 +36829,6 @@ EPFL also presents a burst SPAD imager:]]></summary>
         <summary type="html"><![CDATA[いよいよアップルの空間コンピュータ「Apple Vision Pro」が、米国では2月2日（現地時間）に発売される。それを祝うように、ティム・クックCEO自らがVision Proを被る写真がエンタメ総合情報誌Vanity Fairのサイトを飾り、本人の口から初期プロトタイプの話などが語られている。 […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[劇場版「SPY×FAMILY」第3弾入場特典は豪華シールセット　2月10日からMX4D・4DX上映スタート]]></title>
-        <id>https://anime.eiga.com/news/120523/</id>
-        <link href="https://anime.eiga.com/news/120523/"/>
-        <updated>2024-02-02T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「劇場版 SPY×FAMILY CODE: White」の第3弾入場特典（入場者プレゼント）として、2月10日から「特製フレークシールセット」が全国合計30万人限定で配布される。全10種のシール...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
