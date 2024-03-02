@@ -5398,16 +5398,6 @@
           "wordCount": null,
           "title": "【ドラクエウォーク】新春神武器が終わります!ラストジャッジ!はかいのてっきゅうを無課金勇者は全力を出し切ってでも引くべきか!?新春2024ドラゴン装備まもなく終了!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mcUgrqiYdYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mcUgrqiYdYA",
-          "publishedOn": "2024-02-02T08:00:33.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォーク】2ターンで超簡単に終わるこの方法が楽です!!ウィングデビル・強のほこらを武器2本だけ使った防具アクセ無しの裸攻略!!",
-          "imageUrl": null
         }
       ]
     },
@@ -5960,6 +5950,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377391000.html",
+          "author": null,
+          "description": "東京 足立区の住宅で50代の夫婦を殺害したとしてフィリピン国籍の容疑者2人が逮捕された事件で、夫婦の財布や携帯電話が近くの駅のコインロッカーから見つかったことが捜査関係者への取材でわかりました。警視庁は事件の発覚を遅らせるために現場から持ち去ったとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377391000.html",
+          "publishedOn": "2024-03-02T20:02:31.000Z",
+          "wordCount": 492,
+          "title": "東京 足立区 夫婦殺害事件 被害者の財布など駅ロッカーで発見",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377391_2403021925_0303050233_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377411000.html",
+          "author": null,
+          "description": "新年度予算案は、2日異例となる土曜日の審議を経て衆議院を通過し、憲法の規定により年度内に成立することになりました。4日からは、審議の舞台を参議院に移し、自民党の派閥の政治資金パーティーをめぐる問題などについて論戦が交わされます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377411000.html",
+          "publishedOn": "2024-03-02T20:00:48.000Z",
+          "wordCount": 556,
+          "title": "新年度予算案 衆院通過 年度内成立へ 4日から参院で論戦へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377411_2403022059_0302211022_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377461000.html",
           "author": null,
@@ -22479,36 +22489,6 @@
           "wordCount": 960,
           "title": "新型コロナ インフルエンザ いずれも患者数増加 対策徹底を",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344831_2402021535_0202164430_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344961000.html",
-          "author": null,
-          "description": "ラグビーリーグワンの東京サントリーサンゴリアスと、世界最高峰のリーグのひとつスーパーラグビーのブルーズが3日、初めて交流戦を行うのを前に、来日したブルーズの選手たちが前日練習に臨みました。今回の交流戦ではリーグワンの4チームとニュージーランドの2チームが対戦する試合が4試合組まれています。記事後半では今回の交流戦のねらいや、意義などを詳しくお伝えしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344961000.html",
-          "publishedOn": "2024-02-02T08:07:19.000Z",
-          "wordCount": 1183,
-          "title": "ラグビー リーグワンとニュージーランド強豪が初の交流戦へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344961_2402021627_0202163835_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344971000.html",
-          "author": null,
-          "description": "花粉を飛散させるスギの雄花の芽の数について、環境省は、今シーズンは全国的に平年並みか平年より少ない地域が多い傾向だとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344971000.html",
-          "publishedOn": "2024-02-02T07:55:41.000Z",
-          "wordCount": 543,
-          "title": "スギ花粉飛散 今季は平年並みか少ない地域が多い傾向 環境省",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344971_2402021630_0202164054_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345001000.html",
-          "author": null,
-          "description": "来年の春から放送されるNHKの連続テレビ小説「あんぱん」の出演者が発表され、漫画家のやなせたかしさんの妻の役を今田美桜さんが演じることになりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345001000.html",
-          "publishedOn": "2024-02-02T07:52:39.000Z",
-          "wordCount": 671,
-          "title": "来年春からの朝ドラ「あんぱん」 主人公の妻役に今田美桜さん",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345001_2402021637_0202164313_01_02.jpg"
         }
       ]
     },
@@ -24278,6 +24258,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69589",
+          "author": "299",
+          "description": "今回ご紹介するのは母猫を探している野良子猫ちゃんです。 一人遊びしているうちに、母猫を見失ってしまいました。 母猫と合流出来た時の嬉しそうな様子が可愛らしいのでご覧ください。 野良の子猫ちゃんが原っぱでウロウロしていまし...\n母猫を探す野良子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69589",
+          "publishedOn": "2024-03-02T20:00:38.000Z",
+          "wordCount": 1350,
+          "title": "母猫を探す野良子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69589.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69641",
           "author": "299",
@@ -27807,16 +27797,6 @@
           "wordCount": 1397,
           "title": "人懐っこすぎる保護子猫達",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67691.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67687",
-          "author": "299",
-          "description": "今回ご紹介するのは甘えん坊な黒子猫ちゃん達です。 目を大きく見開き、大好きニャ～と甘えに来る姿がとっても可愛らしいのでご覧ください。 白いラグの上には黒い子猫ちゃん達が二匹いました。 少し大きくなり、ウロウロ出来るように...\n甘えんぼうな黒子猫達が可愛すぎる件 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67687",
-          "publishedOn": "2024-02-02T08:00:29.000Z",
-          "wordCount": 1396,
-          "title": "甘えんぼうな黒子猫達が可愛すぎる件",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67687.jpg"
         }
       ]
     },
@@ -29110,16 +29090,6 @@
           "wordCount": 768,
           "title": "「Apple AI」今年後半に発表へ。ティム・クックCEOが決算報告で発言",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/11/shutterstock_1069919408.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=67834",
-          "author": "Munenori Taniguchi",
-          "description": "Metaは、2月2日にリリースしたQuest v62ソフトウェアアップデートで、アップルのVison Pro向けの空間ビデオ（立体視映像）のネイティブ再生に対応すると発表した。 同社によると、iPhone 15 Pro／15 Pro Maxで撮影され、MV-HEVCエンコードされた空間ビデオは、Me […]",
-          "link": "https://gadget.phileweb.com/post-67834/",
-          "publishedOn": "2024-02-02T08:07:03.000Z",
-          "wordCount": 845,
-          "title": "Meta Quest、Apple Vision Pro用「空間ビデオ」の再生に対応",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/metaspatialv.jpg"
         }
       ]
     },
@@ -29432,6 +29402,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033530.html",
+          "author": "damono3856",
+          "description": "1 名前：白鳥事件＠日本共産党(新日本) [IN]：2024/03/02(土) 12:40:46.70 ID:3sfr2bYg0●.net\n\n\n\n\n\n\n\nれいわ大石晃子共同代表「黙って聞いとけ」とにらんできた相手明かす 政倫審で叱責されたと主張(よろず～ニュース)#Yahooニュースhttps://t.co/4y6b7O8ts3— tokyo wi...",
+          "link": "https://itainews.com/archives/2033530.html",
+          "publishedOn": "2024-03-02T20:09:24.000Z",
+          "wordCount": 2280,
+          "title": "れいわ・大石　共産党議員から「黙って聞け！」と怒られるも、「女性だから見下された！」と被害妄想",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/3/b3fe41fd-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033527.html",
           "author": "damono3856",
@@ -32741,16 +32721,6 @@
           "wordCount": 2427,
           "title": "健全なアメリカ人『なんで日本のアニメって女の子の胸が強調されてるの？』→漢の浪漫なんだよ",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/3/53ec281b-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032727.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：香味焙煎 ★：2024/02/01(木) 13:55:33.30 ID:p8lZGOVy9.net\n\n\n\n\n\n\n\n\n\n茨城 明秀日立高校 硬式野球部で金属バットなくなる #首都圏NEWSWEB https://t.co/SWT8QhiE75 - https://t.co/SWT8QhiE75— NHK@首都圏 (@nhk_shutoken) February 1, 2024 \n\n\n\n\n\n\n\n\n高校野球の強...",
-          "link": "https://itainews.com/archives/2032727.html",
-          "publishedOn": "2024-02-02T08:01:02.000Z",
-          "wordCount": 2352,
-          "title": "【茨城】明秀日立高校 硬式野球部で金属バットなくなる",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/7/67769fda-s.png"
         }
       ]
     },
