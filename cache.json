@@ -2884,21 +2884,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/120514/",
-          "author": null,
-          "description": "「『鬼滅の刃』絆の奇跡、そして柱稽古へ」が、本日2月2日に封切られました。春からスタートする「鬼滅の刃 柱稽古編」をいち早く見ることができる同作を、グランドシネマサンシャイン池袋のIMAX上映で...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/120514/",
-          "publishedOn": "2024-02-02T09:00:00.000Z",
-          "wordCount": 768,
-          "title": "「『鬼滅の刃』絆の奇跡、そして柱稽古へ」最速レビュー　劇場で真価を発揮するufotableの映像美",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5935,6 +5920,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377201000.html",
+          "author": null,
+          "description": "自民党はことしの運動方針の原案をまとめ、派閥の政治資金パーティーをめぐる問題を受けて「解体的に出直す」として、党機能の強化や政治資金規正法の改正などの法整備を早急に進める方針を示しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377201000.html",
+          "publishedOn": "2024-03-02T20:56:05.000Z",
+          "wordCount": 708,
+          "title": "自民 運動方針原案「解体的に出直す」政治資金問題を受け",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377201_2403021511_0303055607_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377451000.html",
           "author": null,
@@ -22474,36 +22469,6 @@
           "wordCount": 798,
           "title": "【被害状況 2月2日】石川県で240人死亡",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344931_2402021758_0202180134_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345081000.html",
-          "author": null,
-          "description": "石川県では、今回の地震のあと自宅で避難生活を送る「在宅避難者」が少なくとも2800人余りにのぼっていますが、行政に名前や避難先などを登録しないまま「危険」と判定された自宅にとどまり続ける人もいます。在宅避難者は東日本大震災など過去の災害でも行政の支援を十分に受けられず問題となっていて、東北のボランティア団体の代表はいち早く状況把握を進めるべきだと訴えています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345081000.html",
-          "publishedOn": "2024-02-02T09:00:12.000Z",
-          "wordCount": 781,
-          "title": "能登半島地震「危険」判定の自宅にとどまり続ける在宅避難者も",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345081_2402021720_0202175126_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345041000.html",
-          "author": null,
-          "description": "能登半島地震で大きな被害が出た石川県輪島市と珠洲市の中心部について、専門家がAIを使って建物の被害を推定したところ、少なくとも3割が全壊したとみられることがわかりました。専門家は、被害の実態を早期に把握する際の参考にしてほしいとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345041000.html",
-          "publishedOn": "2024-02-02T08:55:20.000Z",
-          "wordCount": 609,
-          "title": "AIで推定 輪島と珠洲 中心部の建物被害 “少なくとも3割全壊”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345041_2402021705_0202171343_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344831000.html",
-          "author": null,
-          "description": "新型コロナウイルスの全国の感染状況は、先月28日までの1週間では1つの医療機関当たりの平均の患者数が14.93人で、前の週の1.22倍となっています。また、全国の医療機関から報告されたインフルエンザの患者数は、先月28日までの1週間で1医療機関当たり19.2人と前の週からやや増加しました。それぞれの詳しい状況を見ていきます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344831000.html",
-          "publishedOn": "2024-02-02T08:53:23.000Z",
-          "wordCount": 960,
-          "title": "新型コロナ インフルエンザ いずれも患者数増加 対策徹底を",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344831_2402021535_0202164430_01_02.jpg"
         }
       ]
     },
@@ -32706,16 +32671,6 @@
           "wordCount": 2280,
           "title": "【キックボクシング】24歳マサキが減量で倒れ死去、団体は今後の対策を発表　INNOVATION",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/1/31aa3105-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032726.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/02/01(木) 19:32:04.12 ID:JF8p3Qx70●.net\n\n\n\n\n\n\n\n\n\n【話題の焦点】「 #鬼滅の刃」も米国人には「なんで…」 女性の胸の谷間が日本のアニメから消滅する？ https://t.co/J2X23XhGIN #日刊ゲンダイDIGITAL— 日刊ゲンダイDIGITAL (@nik...",
-          "link": "https://itainews.com/archives/2032726.html",
-          "publishedOn": "2024-02-02T09:01:08.000Z",
-          "wordCount": 2427,
-          "title": "健全なアメリカ人『なんで日本のアニメって女の子の胸が強調されてるの？』→漢の浪漫なんだよ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/3/53ec281b-s.png"
         }
       ]
     },
