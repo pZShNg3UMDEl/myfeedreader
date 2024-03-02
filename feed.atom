@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T07:20:45.509Z</updated>
+    <updated>2024-03-02T07:35:22.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[珠洲市に3年前に移住した私が、いま写真を募集するわけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014370931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014370931000.html"/>
+        <updated>2024-03-02T07:27:59.000Z</updated>
+        <summary type="html"><![CDATA[地震から2か月。3年前に石川県珠洲市にほれ込んで移住した男性が、SNSで、ある募集をスタートさせました。“「ステキな能登の写真」を共有しませんか？”スタートから数日ですが、インターネットのクラウド上に続々と寄せられています。まずは、寄せられた写真の数々をご覧ください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸田首相“デフレ戻る見込みないと言えず”日銀総裁の発言受け]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014377221000.html</id>
