@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T16:15:05.697Z</updated>
+    <updated>2024-03-02T16:29:19.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -328,6 +328,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240302/k10014377311000.html"/>
         <updated>2024-03-02T09:41:52.000Z</updated>
         <summary type="html"><![CDATA[長野県と鳥取県で雪崩が相次いだことについて、専門家は2月29日から降り続いた雪によって表面に近い層が崩れる「表層雪崩」が起きた可能性があると指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女子ゴルフ 米ツアー 第3ラウンド 古江彩佳が単独トップに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014377301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014377301000.html"/>
+        <updated>2024-03-02T09:33:46.000Z</updated>
+        <summary type="html"><![CDATA[女子ゴルフのアメリカツアーの大会は2日、シンガポールで第3ラウンドが行われ、古江彩佳選手が通算10アンダーまでスコアを伸ばし、単独トップに立ちました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
