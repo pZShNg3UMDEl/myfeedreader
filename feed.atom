@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T20:35:30.263Z</updated>
+    <updated>2024-03-02T20:50:32.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】戦闘休止などをめぐる交渉 3日から行われる見通し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377451000.html"/>
+        <updated>2024-03-02T20:43:12.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの間の戦闘休止などをめぐる交渉についてロイター通信は3日からエジプトで行われる見通しだと伝えました。ただ、イスラエルとハマスの立場の隔たりは依然として大きく進展を見いだせるかが焦点です。※イスラエルやパレスチナに関する日本時間3月2日の動きを随時、更新してお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スケートボード 女子の日本勢3人が決勝進出 パークの国際大会]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240303/k10014377471000.html</id>
@@ -36819,16 +36829,6 @@ EPFL also presents a burst SPAD imager:]]></summary>
         <summary type="html"><![CDATA[新型コロナウイルスの全国の感染状況は、先月28日までの1週間では1つの医療機関当たりの平均の患者数が14.93人で、前の週の1.22倍となっています。また、全国の医療機関から報告されたインフルエンザの患者数は、先月28日までの1週間で1医療機関当たり19.2人と前の週からやや増加しました。それぞれの詳しい状況を見ていきます。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Vision Pro試作機が「巨大な箱」だった過去、クックCEOが振り返る]]></title>
-        <id>https://gadget.phileweb.com/?p=67800</id>
-        <link href="https://gadget.phileweb.com/post-67800/"/>
-        <updated>2024-02-02T08:41:11.000Z</updated>
-        <summary type="html"><![CDATA[いよいよアップルの空間コンピュータ「Apple Vision Pro」が、米国では2月2日（現地時間）に発売される。それを祝うように、ティム・クックCEO自らがVision Proを被る写真がエンタメ総合情報誌Vanity Fairのサイトを飾り、本人の口から初期プロトタイプの話などが語られている。 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
