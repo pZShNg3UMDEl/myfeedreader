@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T20:11:56.440Z</updated>
+    <updated>2024-03-02T20:22:24.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（3月3日の動き）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014332761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014332761000.html"/>
+        <updated>2024-03-02T20:16:43.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる3日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナとは7時間、ロシアのモスクワとは6時間の時差があります）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[れいわ・大石　共産党議員から「黙って聞け！」と怒られるも、「女性だから見下された！」と被害妄想]]></title>
         <id>https://itainews.com/archives/2033530.html</id>
@@ -36819,16 +36829,6 @@ EPFL also presents a burst SPAD imager:]]></summary>
         <summary type="html"><![CDATA[「劇場版 SPY×FAMILY CODE: White」の第3弾入場特典（入場者プレゼント）として、2月10日から「特製フレークシールセット」が全国合計30万人限定で配布される。全10種のシール...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Apple AI」今年後半に発表へ。ティム・クックCEOが決算報告で発言]]></title>
-        <id>https://gadget.phileweb.com/?p=67766</id>
-        <link href="https://gadget.phileweb.com/post-67766/"/>
-        <updated>2024-02-02T08:18:44.000Z</updated>
-        <summary type="html"><![CDATA[アップルのティム・クックCEOは、木曜日午後に行われた四半期決算の報告で、今年後半に発表用予定のAIソフトウェアの開発に取り組んでいると述べた。 決算報告では、クック氏は数回にわたってAIについて触れ「将来を見据えて、将来を形作るこれらのテクノロジーやその他のテクノロジーへの投資を継続する」「その中 […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
