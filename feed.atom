@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T10:11:57.012Z</updated>
+    <updated>2024-03-02T10:26:12.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[羽田空港衝突事故から2か月 海上保安官5人の公葬営まれる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014377341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014377341000.html"/>
+        <updated>2024-03-02T10:23:04.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港の滑走路で海上保安庁の航空機と日本航空の旅客機が衝突した事故から2か月となる2日、死亡した海上保安官5人の公葬が都内で営まれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地震で海底隆起 石川 輪島の海女 素もぐり漁できず「支援を」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014377271000.html</id>
@@ -36987,16 +36997,6 @@ EPFL also presents a burst SPAD imager:]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344311000.html"/>
         <updated>2024-02-01T22:47:53.000Z</updated>
         <summary type="html"><![CDATA[長野県宮田村で男性を拳銃で撃ってけがをさせたとして、重要指名手配されていた指定暴力団の幹部が逮捕された事件で、この幹部は潜伏先の仙台市の集合住宅で去年から暮らしていたことが捜査関係者への取材で分かりました。この部屋は法人名義で契約されていたということで、警察は逃亡中の行動を詳しく調べています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ロシア軍のミサイル艇を撃沈” ウクライナ国防省発表]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344321000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344321000.html"/>
-        <updated>2024-02-01T22:22:45.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナの当局はロシアが支配する南部クリミアでロシア軍のミサイル艇を撃沈したと発表し、東部の戦況がこう着する中、ウクライナはクリミア周辺への攻撃を強めているとみられます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
