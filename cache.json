@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120687/",
+          "author": null,
+          "description": "「劇場版ハイキュー!! ゴミ捨て場の決戦」の大ヒットを記念して、応援上映企画「集え！ゴミ捨て場の決戦応援上映！みんなで生観戦！」が、3月14日午後7時から13都道府県20劇場で一斉開催される。※...",
+          "link": "https://anime.eiga.com/news/120687/",
+          "publishedOn": "2024-03-02T03:00:00.000Z",
+          "wordCount": 865,
+          "title": "「劇場版ハイキュー!!」応援上映が3月14日に開催　会場の一体感が増すペンライト演出付き応援上映も実施",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120686/",
           "author": null,
           "description": "3月15日から開催される第2回新潟国際アニメーション映画祭の予告映像が公開された。 予告編は長編コンペティション部門に集まった29の国と地域、49作品から選ばれたノミネート作品12本の映像を用い...",
@@ -5095,6 +5110,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dRmUszfrDyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dRmUszfrDyg",
+          "publishedOn": "2024-03-02T03:00:23.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】スラミチィーーー!!神回復武器を神引きできるのか!?しんぴの水晶を絶対GETしたい無課金勇者の占い師ミネア装備ガチャ50連!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Qs2bH7EhpH4",
           "author": null,
           "description": "",
@@ -5835,6 +5860,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377031000.html",
+          "author": null,
+          "description": "新年度予算案をめぐり国会は土曜日の2日も衆議院予算委員会で審議が行われています。与党側が年度内成立が確実になる、2日中に衆議院を通過させる方針なのに対し、野党側は審議の内容などを踏まえ対応を最終判断する考えで、大詰めの調整が続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240302/k10014377031000.html",
+          "publishedOn": "2024-03-02T03:06:30.000Z",
+          "wordCount": 907,
+          "title": "新年度予算案 与野党間で大詰めの調整 土曜日のきょうも審議",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240302/K10014377031_2403021140_0302114855_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377111000.html",
+          "author": null,
+          "description": "UAE＝アラブ首長国連邦で開かれていたWTO＝世界貿易機関の閣僚会合が閣僚宣言を採択して閉幕しました。WTOは、貿易をめぐる紛争解決の制度の機能不全が続いていますが、今回の会合でも各国の意見の隔たりは埋まりませんでした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240302/k10014377111000.html",
+          "publishedOn": "2024-03-02T03:02:58.000Z",
+          "wordCount": 637,
+          "title": "WTO閣僚会合 閣僚宣言採択し閉幕 各国の意見の隔たり埋まらず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240302/K10014377111_2403021149_0302120300_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377091000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手が2度目のオープン戦に臨み、第2打席に先制のタイムリーヒットを打って2試合連続で打点をあげました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240302/k10014377091000.html",
+          "publishedOn": "2024-03-02T02:59:27.000Z",
+          "wordCount": 747,
+          "title": "大谷翔平 先制タイムリーヒットで2試合連続打点 2度目のOP戦で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240302/K10014377091_2403021126_0302115306_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240302/k10014377101000.html",
           "author": null,
@@ -22444,16 +22499,6 @@
           "wordCount": 616,
           "title": "【石川 給水支援・入浴支援】輪島市など9市町で（2日予定）",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344091_2402012348_0202023125_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014344201000.html",
-          "author": null,
-          "description": "能登半島地震で震度5強を観測した富山県氷見市では、支援を受けるために必要なり災証明書の申請がこれまでに4900件余り出されていますが、発行できたのはおよそ20％にとどまっていて、市は急ピッチで作業を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014344201000.html",
-          "publishedOn": "2024-02-01T15:01:09.000Z",
-          "wordCount": 674,
-          "title": "り災証明書の発行約20％にとどまり急ピッチで作業 富山 氷見市",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014344201_2402012123_0201212841_01_02.jpg"
         }
       ]
     },
@@ -29377,6 +29422,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033517.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：冬月記者 ★：2024/03/01(金) 12:18:06.55 ID:C3AsSUqa9.net\n\n\n\n\n\n\n\n\n宇垣美里「見てた？入れてんねん」コンビニのレジでイライラする瞬間は…「最初に全部言ってるのに」(スポニチアネックス)#Yahooニュースhttps://t.co/S6whhIFQH7— 氷雨@神様仏様岡本和真様🙇@4/...",
+          "link": "https://itainews.com/archives/2033517.html",
+          "publishedOn": "2024-03-02T03:01:02.000Z",
+          "wordCount": 2407,
+          "title": "宇垣美里、コンビニのレジでイライラする瞬間を語る 「何で払いますか？袋いりますか？って。見てた？入れてんねん。最初に言ったやん」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/745f68a6-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033514.html",
           "author": "yonepo665sfr",
