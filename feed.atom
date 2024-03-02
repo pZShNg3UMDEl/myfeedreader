@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T08:14:26.954Z</updated>
+    <updated>2024-03-02T08:26:27.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[追跡！日本のメディア名乗る不審なサイト 誰が何のために]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240302/k10014375781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240302/k10014375781000.html"/>
+        <updated>2024-03-02T08:21:21.000Z</updated>
+        <summary type="html"><![CDATA[『銀座新聞』『今日の福井』『福岡新聞』一見、地域の情報を伝えるニュースサイトのようだが、「福井」なのに福岡県のニュースが掲載されていたり、日本語に混じって英語のニュースが掲載されているなどおかしな点が。また、目についたのはなぜか暗号資産の広告。購入を促す説明や購入のためのリンクも掲載されている。そして、記載されている「編集部」の問い合わせ先は、使われていない電話番号や、実在しないメールアドレスなど、不審な点が多い。こうした「日本のニュースメディア」を名乗る不審なサイトが、少なくとも10数サイト見つかった。誰が何のために運営しているのか、追跡した。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桜ういろうさん訴訟④判決&高裁へ続く]]></title>
+        <id>https://note.com/hima_kuuhaku/n/n14c804827035</id>
+        <link href="https://note.com/hima_kuuhaku/n/n14c804827035"/>
+        <updated>2024-03-02T08:15:08.000Z</updated>
+        <summary type="html"><![CDATA[前回
+
+続きをみる]]></summary>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカーW杯2次予選 AFC 北朝鮮に視察団 試合開催できるか調査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240302/k10014377231000.html</id>
@@ -36929,16 +36951,6 @@ EPFL also presents a burst SPAD imager:]]></summary>
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定・新メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTub […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[住宅火災 焼け跡から3人が遺体で見つかる 鹿児島県南さつま市]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240202/k10014344301000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240202/k10014344301000.html"/>
-        <updated>2024-02-01T20:16:00.000Z</updated>
-        <summary type="html"><![CDATA[1日夜、鹿児島県南さつま市で住宅が全焼する火事があり、焼け跡から3人が遺体で見つかりました。警察は身元の確認を進めるとともに、火事の原因を調べています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
