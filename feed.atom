@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T21:11:09.303Z</updated>
+    <updated>2024-03-03T21:21:09.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[伊豆諸島 神津島沖 25人乗り漁船座礁 けが人なし 海保が救助へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240304/k10014378281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240304/k10014378281000.html"/>
+        <updated>2024-03-03T21:11:19.000Z</updated>
+        <summary type="html"><![CDATA[3日夜、伊豆諸島の神津島の北側で、25人が乗った鹿児島県の漁船が座礁し、海上保安本部は現場に巡視船やヘリコプターなどを出して4日朝から救助活動を行うことにしています。乗組員は船内にとどまっていてけがなどはないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旅客機や新幹線を利用 荷物を早く届ける取り組み相次ぎ始まる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240304/k10014378121000.html</id>
