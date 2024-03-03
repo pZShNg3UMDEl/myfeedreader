@@ -2824,21 +2824,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120498/",
-          "author": null,
-          "description": "かわぐちかいじ氏の大ヒットコミック「沈黙の艦隊」を原作とし、日本のAmazonスタジオが巨額の予算を投じ映像化したAmazon Originalドラマ「沈黙の艦隊 シーズン1 ～東京湾大海戦～」...",
-          "link": "https://anime.eiga.com/news/120498/",
-          "publishedOn": "2024-02-02T13:00:00.000Z",
-          "wordCount": 766,
-          "title": "Amazon Original実写ドラマ「沈黙の艦隊」本予告＆場面写真12点を一挙披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5322,6 +5307,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9584",
+          "author": "watanabe@logipara.com",
+          "description": "朝からなんか寒気がして、「これは……風邪？！」と体温を計って、しっかり平熱で、何とも言えない顔でコーヒーを飲んでます。そんな雛祭り。",
+          "link": "https://logipara.com/diary-text/2024-03-03",
+          "publishedOn": "2024-03-03T01:18:25.000Z",
+          "wordCount": 4381,
+          "title": "体調不良",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9582",
           "author": "watanabe@logipara.com",
           "description": "未来をガバガバに予想することを 「見通しの甘さ」 と言うのであれば、逆に未来をギチギチに予想することを 「見通しの辛(から)さ」 って言うのはどうですか？「いやー、弊社の先行き、見通しが辛いわ―」みたいに使えませんかね。 […]",
@@ -5865,6 +5860,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377621000.html",
+          "author": null,
+          "description": "東京 足立区の住宅で50代の夫婦を殺害したとしてフィリピン国籍の男女2人が逮捕された事件で、女の容疑者が事件の数日前に複数の包丁を購入していたことが捜査関係者への取材で分かりました。このうちの1本が使われたとみられ、警視庁は事前に凶器を準備していたとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377621000.html",
+          "publishedOn": "2024-03-03T01:46:16.000Z",
+          "wordCount": 635,
+          "title": "東京 足立区 夫婦殺害事件 女の容疑者 数日前に複数の包丁購入",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377621_2403031035_0303104524_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377611000.html",
+          "author": null,
+          "description": "2日、鳥取県の大山で雪崩に巻き込まれ、行方不明になっている2人の男性について、警察は3日朝から捜索活動を再開しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377611000.html",
+          "publishedOn": "2024-03-03T01:17:56.000Z",
+          "wordCount": 640,
+          "title": "鳥取 大山 雪崩で行方不明 2人の男性の捜索再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377611_2403031011_0303101629_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377601000.html",
+          "author": null,
+          "description": "国内最大規模の市民マラソン「東京マラソン」が3日行われ、およそ3万8000人のランナーたちが都心のコースを駆け抜けています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377601000.html",
+          "publishedOn": "2024-03-03T01:06:22.000Z",
+          "wordCount": 585,
+          "title": "「東京マラソン」約3万8000人が都心のコースを駆け抜ける",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377601_2403031026_0303102726_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377581000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手は2日、オープン戦には出場せず、キャンプ地で軽めの調整を行いました。去年、右ひじの手術を受けたため今シーズンはバッターに専念しますが、練習では投球動作を確認する様子なども見られました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377581000.html",
+          "publishedOn": "2024-03-03T01:03:49.000Z",
+          "wordCount": 594,
+          "title": "大谷翔平 オープン戦出場せず軽めの調整 投球動作の確認も",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377571000.html",
+          "author": null,
+          "description": "村山富市 元総理大臣が3日、100歳の誕生日を迎えました。村山さんはコメントを発表し「日本がどこまでも平和な国であり続けることを願っている」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377571000.html",
+          "publishedOn": "2024-03-03T01:01:18.000Z",
+          "wordCount": 626,
+          "title": "村山富市 元首相が100歳の誕生日",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377571_2403030950_0303095428_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377561000.html",
           "author": null,
@@ -22304,46 +22349,6 @@
           "wordCount": 553,
           "title": "1月の米雇用統計 就業者数は市場予想を大きく上回る",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345801_2402022249_0202225203_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345791000.html",
-          "author": null,
-          "description": "能登半島地震で全壊した住宅が富山県内では100戸を超え、県は、住宅が全壊した世帯に最大300万円の支援金を支給する「被災者生活再建支援法」を県内全域に適用することを決めました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345791000.html",
-          "publishedOn": "2024-02-02T13:43:43.000Z",
-          "wordCount": 774,
-          "title": "富山県 全壊などの被災世帯に最大300万円支援 全域で適用",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345791_2402022218_0202222527_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345591000.html",
-          "author": null,
-          "description": "プロ野球、ロッテの佐々木朗希投手が、沖縄 石垣島で行われているキャンプの2日目で初めてブルペンに入り、変化球も交えながら37球を投げ込みました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345591000.html",
-          "publishedOn": "2024-02-02T13:15:41.000Z",
-          "wordCount": 704,
-          "title": "【キャンプ】ロッテ佐々木朗希 初のブルペン入り 37球投げ込む",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345591_2402022201_0202220310_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345731000.html",
-          "author": null,
-          "description": "能登半島地震の被災者の留守宅を狙った空き巣や、被害に便乗した悪質商法などの被害を防ごうと、富山県警察本部は氷見市の住宅街に防犯カメラを設置しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345731000.html",
-          "publishedOn": "2024-02-02T13:02:31.000Z",
-          "wordCount": 790,
-          "title": "富山 住宅街に防犯カメラ設置 被災者宅の空き巣などの被害防ぐ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345731_2402022153_0202215822_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345681000.html",
-          "author": null,
-          "description": "中国の上海で行われているフィギュアスケートの四大陸選手権は2日、女子シングル後半のフリーが行われ、18歳の千葉百音選手がほぼミスのない演技で自己ベストを更新し、初優勝を果たしました。また、21歳の渡辺倫果選手が3位に入り、日本勢2人が表彰台です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345681000.html",
-          "publishedOn": "2024-02-02T13:01:05.000Z",
-          "wordCount": 923,
-          "title": "フィギュア四大陸選手権 千葉百音が初優勝 女子シングル",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345681_2402022139_0202214046_01_02.jpg"
         }
       ]
     },
@@ -27642,16 +27647,6 @@
           "wordCount": 1397,
           "title": "ウルトラマン人形を愛する猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67699.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67695",
-          "author": "299",
-          "description": "今回ご紹介するのは舌をしまい忘れた顔がちょっとおまぬけな猫ちゃんです。 オモチャ遊びが楽し過ぎたからでしょう。 しまい忘れた舌が口からビロ～ン。 その顔が可愛らしいのでご覧ください。 最初は愛猫おはぎちゃんがオモチャで遊...\n興奮のあまり、舌をしまい忘れる猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67695",
-          "publishedOn": "2024-02-02T13:00:22.000Z",
-          "wordCount": 1405,
-          "title": "興奮のあまり、舌をしまい忘れる猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67695.jpg"
         }
       ]
     },
@@ -32486,16 +32481,6 @@
           "wordCount": 2302,
           "title": "【婚活】「50代以上の独身男性」約6割が出会いを求めても、デートすらできていない…“人生100年時代”でも厳しすぎる恋愛の現実",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/7/47652b9c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032741.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(青森県) [US]：2024/02/02(金) 11:23:52.15 ID:eP+yMUtY0.net\n\n\n\n\n\n\n\n「ひるおび」弁護士『脚本家が巻き込まれた』発言に…ネット疑問の声　「セクシー田中さん」芦原妃名子さん急逝で#ひるおび #セクシー田中さん #芦原妃名子https://t....",
-          "link": "https://itainews.com/archives/2032741.html",
-          "publishedOn": "2024-02-02T13:07:22.000Z",
-          "wordCount": 2340,
-          "title": "脚本家「原作ファンもいるけど脚本家にもファンはいる、そのまま書いたら脚本家の作家性いらなくね？」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/6/e616ddf4-s.png"
         }
       ]
     },
@@ -32504,6 +32489,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41413",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ 先日、本厚木ミロード1・6Fにあった「サロン卵と私　本厚木ミロード店」の閉店をお伝えしたばかりですが… 以前の記事 ・【悲報】びっくり！本厚木ミロード1・6Fの卵料理専門店「サロン卵と私　本厚木ミロード店…",
+          "link": "https://atsugi-lab.com/open-sendaihenmi202403/",
+          "publishedOn": "2024-03-03T01:03:17.000Z",
+          "wordCount": 1153,
+          "title": "【3月19日開店】本厚木ミロード①の6Fに、仙台名物牛たん焼きの専門店「牛たん焼き 仙台辺見」がオープン予定！サロン卵と私の跡地です。",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/henmi202403.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41375",
           "author": "comomo",
