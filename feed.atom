@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T20:23:35.999Z</updated>
+    <updated>2024-03-03T20:36:16.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 第1打席 ライト前ヒット ロッキーズとのオープン戦]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240304/k10014378311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240304/k10014378311000.html"/>
+        <updated>2024-03-03T20:31:04.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手が3日、ロッキーズとのオープン戦に2番・指名打者で先発出場しました。1回の第1打席は、ノーアウト一塁の場面で打席に入り、ライト前にヒットを打ちました。このあと三塁まで進んだ大谷選手は味方の犠牲フライで2点目のホームを踏みました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マレーシア航空 10年前消息絶った機体 運輸相“捜索再開検討”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240304/k10014378201000.html</id>
@@ -36737,16 +36747,6 @@ These openings and more are on the Qurv website.]]></summary>
         <summary type="html"><![CDATA[劇場版シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」のメインビジュアルと、“月下の奇術師”怪盗キッドからの予告状がお披露目。さらに、豪華声優陣が参加する「公開直前！ SPファ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[節分 来年は1日早まり「２月2日」に 地球と太陽の動きで暦ずれ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346291000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346291000.html"/>
-        <updated>2024-02-03T08:30:38.000Z</updated>
-        <summary type="html"><![CDATA[ことしの「節分」は2月3日ですが、来年は地球と太陽の位置関係などから暦がずれる影響で1日早まり、2月2日になります。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
