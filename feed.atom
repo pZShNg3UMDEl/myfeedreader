@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T05:13:05.325Z</updated>
+    <updated>2024-03-03T05:27:21.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北海道 利尻山 “雪崩に複数人が巻き込まれた”と通報]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377771000.html"/>
+        <updated>2024-03-03T05:19:58.000Z</updated>
+        <summary type="html"><![CDATA[北海道警察本部に入った連絡によりますと、3日午後0時半すぎ、北海道北部の利尻島にある利尻山で「雪崩に複数人が巻き込まれた」と警察に通報がありました。また、利尻富士町によりますと、少なくとも3人が巻き込まれたとみられるという情報が消防から入っているということです。警察と消防が詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[朝倉未来、『龍が如く』の棒読み演技は“戦略”だったと明かす 「メインよりも話題呼んでしまった」と自画自賛]]></title>
         <id>https://itainews.com/archives/2033545.html</id>
@@ -36615,42 +36625,6 @@ NHKネット配信は「...]]></summary>
 ボール型のおもちゃに入りたかったまるちゃんでしたが諦めました first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Videos from onsemi, AI Storm, ST, EPFL]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/02/new-videos-from-onsemi-ai-storm-st-epfl.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/02/new-videos-from-onsemi-ai-storm-st-epfl.html"/>
-        <updated>2024-02-02T17:23:00.023Z</updated>
-        <summary type="html"><![CDATA[Onsemi emphasizes its internal fab capabilities:
-
-
-  
-  
-  
-
-
-At CES, AI Storm describes the analog AI approach contained in its image sensor:
- 
-
-
-
-
-
-
-Also at CES, ST presents its new 3D sensing approach:
- 
-
-
-
-
-
- 
-EPFL presents a combo of spiking neuron processor and  SPAD sensor:
-
-EPFL also presents a burst SPAD imager:]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
