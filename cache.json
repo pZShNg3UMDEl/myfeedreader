@@ -5961,6 +5961,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377941000.html",
+          "author": null,
+          "description": "サッカー女子の国内リーグ「WEリーグ」は、INAC神戸レオネッサと三菱重工浦和レッズの首位攻防戦が行われ、パリオリンピック出場を決めた日本代表「なでしこジャパン」の選手たちが活躍しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377941000.html",
+          "publishedOn": "2024-03-03T10:15:26.000Z",
+          "wordCount": 692,
+          "title": "サッカー女子 WEリーグ首位攻防戦 “なでしこ”選手たちが活躍",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377941_2403031824_0303190859_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377961000.html",
           "author": null,
           "description": "手りゅう弾で左足を失ったウクライナ軍の元兵士の男性が、3日開かれた「東京マラソン」で義足をつけて初めてのフルマラソンに挑戦しました。",
@@ -22549,16 +22559,6 @@
           "wordCount": 610,
           "title": "NYダウ 2日連続で史上最高値更新 前日比134ドル超高",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346021_2402030736_0203073648_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014345901000.html",
-          "author": null,
-          "description": "ロシアのプーチン大統領は軍需産業が集まる都市を訪れ、大量の兵器を投入してウクライナへの侵攻を続ける姿勢を改めて示しました。一方、ウクライナ側はロシアが支配する南部クリミアの飛行場への攻撃で航空機に損害を与えたとしていて、クリミア周辺への攻撃を強めているとみられます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014345901000.html",
-          "publishedOn": "2024-02-02T22:28:54.000Z",
-          "wordCount": 786,
-          "title": "プーチン大統領「兵器 何倍も増産」侵攻継続の姿勢 改めて示す",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014345901_2402030728_0203072824_01_02.jpg"
         }
       ]
     },

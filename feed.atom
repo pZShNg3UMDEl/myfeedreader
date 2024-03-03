@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T10:14:46.112Z</updated>
+    <updated>2024-03-03T10:31:46.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サッカー女子 WEリーグ首位攻防戦 “なでしこ”選手たちが活躍]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377941000.html"/>
+        <updated>2024-03-03T10:15:26.000Z</updated>
+        <summary type="html"><![CDATA[サッカー女子の国内リーグ「WEリーグ」は、INAC神戸レオネッサと三菱重工浦和レッズの首位攻防戦が行われ、パリオリンピック出場を決めた日本代表「なでしこジャパン」の選手たちが活躍しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[左足失ったウクライナ軍元兵士 義足つけて東京マラソンに挑戦]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240303/k10014377961000.html</id>
@@ -36833,16 +36843,6 @@ NHKネット配信は「...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346021000.html"/>
         <updated>2024-02-02T22:36:46.000Z</updated>
         <summary type="html"><![CDATA[2日のニューヨーク株式市場は、企業業績の先行きへの期待から買い注文が増え、ダウ平均株価は値上がりして2日連続で史上最高値を更新しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プーチン大統領「兵器 何倍も増産」侵攻継続の姿勢 改めて示す]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345901000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345901000.html"/>
-        <updated>2024-02-02T22:28:54.000Z</updated>
-        <summary type="html"><![CDATA[ロシアのプーチン大統領は軍需産業が集まる都市を訪れ、大量の兵器を投入してウクライナへの侵攻を続ける姿勢を改めて示しました。一方、ウクライナ側はロシアが支配する南部クリミアの飛行場への攻撃で航空機に損害を与えたとしていて、クリミア周辺への攻撃を強めているとみられます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
