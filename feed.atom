@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T09:22:58.628Z</updated>
+    <updated>2024-03-03T09:37:12.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[女子ゴルフ米ツアー最終R 西村優菜 畑岡奈紗 3位 古江彩佳 8位]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377981000.html"/>
+        <updated>2024-03-03T09:24:28.000Z</updated>
+        <summary type="html"><![CDATA[女子ゴルフのアメリカツアーの大会は3日、シンガポールで最終ラウンドが行われ、西村優菜選手と、畑岡奈紗選手が3位に入りました。首位から出た古江彩佳選手はスコアを落として8位でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【日高屋】Wドラゴンチキン定食【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=237845</id>
@@ -36792,16 +36802,6 @@ NHKネット配信は「...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345831000.html"/>
         <updated>2024-02-02T21:40:12.000Z</updated>
         <summary type="html"><![CDATA[石川県能登町で毎年、節分に行われている厄よけの伝統行事「アマメハギ」について、ことしは、地震の被害を受けて一部の地区で開催を見合わせることになりました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「米軍 イラクとシリア領内に報復攻撃」欧米メディア報じる]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240203/k10014346001000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346001000.html"/>
-        <updated>2024-02-02T21:32:43.000Z</updated>
-        <summary type="html"><![CDATA[CNNテレビなど複数の欧米のメディアはアメリカ政府当局者の話として「アメリカ軍がイラクとシリアの領内に報復攻撃を始めた」と伝えました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
