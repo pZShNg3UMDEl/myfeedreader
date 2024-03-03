@@ -5886,6 +5886,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377841000.html",
+          "author": null,
+          "description": "3月3日は「桃の節句」です。秋田県にかほ市の観光施設では、ひな人形とつるし飾りを展示する催しが開かれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377841000.html",
+          "publishedOn": "2024-03-03T07:47:10.000Z",
+          "wordCount": 746,
+          "title": "桃の節句 ひな人形とつるし飾りを展示する催し 秋田 にかほ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377841_2403031615_0303164045_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377821000.html",
+          "author": null,
+          "description": "能登半島地震から2か月がたちました。被害が大きかった能登半島北部では診療所のおよそ7割が再開したものの、その一部では機器が壊れ検査を行えないなど診療を制限せざるをえない厳しい状態が続いていることがNHKの取材でわかりました。今後、被災地の医療をどう立て直していくのか大きな課題となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240303/k10014377821000.html",
+          "publishedOn": "2024-03-03T07:43:32.000Z",
+          "wordCount": 760,
+          "title": "能登半島北部 診療所の約7割が再開も 立て直しに大きな課題",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240303/K10014377821_2403031527_0303163518_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240303/k10014377811000.html",
           "author": null,
           "description": "桃の節句の3日、石川県輪島市の道の駅では被災した人たちを励まそうと、地元の有志がちらしずしやひなあられなどをふるまいました。",
@@ -22444,26 +22464,6 @@
           "wordCount": 739,
           "title": "石川 珠洲市と中能登町 きょうからボランティア派遣",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014345841_2402030509_0203051013_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014345951000.html",
-          "author": null,
-          "description": "石川県内で3日に予定されている給水支援の情報です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014345951000.html",
-          "publishedOn": "2024-02-02T19:47:29.000Z",
-          "wordCount": 1016,
-          "title": "【石川 給水支援情報】輪島 珠洲 能登町など（3日）",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014345951_2402030424_0203044626_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014345961000.html",
-          "author": null,
-          "description": "2日午後7時ごろ、岩手県花巻市で住宅が焼ける火事があり、焼け跡から2人が遺体で見つかりました。警察は連絡が取れなくなっているこの家に住む90代の女性と、家を訪れていた息子とみて確認を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014345961000.html",
-          "publishedOn": "2024-02-02T19:39:51.000Z",
-          "wordCount": 720,
-          "title": "岩手 花巻で住宅火災 焼け跡から2人の遺体 90代女性と息子か",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014345961_2402030431_0203043655_01_02.jpg"
         }
       ]
     },

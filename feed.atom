@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T07:35:26.656Z</updated>
+    <updated>2024-03-03T07:50:24.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[桃の節句 ひな人形とつるし飾りを展示する催し 秋田 にかほ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377841000.html"/>
+        <updated>2024-03-03T07:47:10.000Z</updated>
+        <summary type="html"><![CDATA[3月3日は「桃の節句」です。秋田県にかほ市の観光施設では、ひな人形とつるし飾りを展示する催しが開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島北部 診療所の約7割が再開も 立て直しに大きな課題]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377821000.html"/>
+        <updated>2024-03-03T07:43:32.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震から2か月がたちました。被害が大きかった能登半島北部では診療所のおよそ7割が再開したものの、その一部では機器が壊れ検査を行えないなど診療を制限せざるをえない厳しい状態が続いていることがNHKの取材でわかりました。今後、被災地の医療をどう立て直していくのか大きな課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12歳少女が外国人と交際→外国人少年17人から数ヵ月に渡りレイプハメ撮りSNS共有され公衆便所状態]]></title>
         <id>https://itainews.com/archives/2033546.html</id>
@@ -36714,26 +36734,6 @@ NHKネット配信は「...]]></summary>
 続きをみる]]></summary>
         <author>
             <name>暇空茜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【石川 給水支援情報】輪島 珠洲 能登町など（3日）]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345951000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345951000.html"/>
-        <updated>2024-02-02T19:47:29.000Z</updated>
-        <summary type="html"><![CDATA[石川県内で3日に予定されている給水支援の情報です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岩手 花巻で住宅火災 焼け跡から2人の遺体 90代女性と息子か]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345961000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345961000.html"/>
-        <updated>2024-02-02T19:39:51.000Z</updated>
-        <summary type="html"><![CDATA[2日午後7時ごろ、岩手県花巻市で住宅が焼ける火事があり、焼け跡から2人が遺体で見つかりました。警察は連絡が取れなくなっているこの家に住む90代の女性と、家を訪れていた息子とみて確認を進めています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
