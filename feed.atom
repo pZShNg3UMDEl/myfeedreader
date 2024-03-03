@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T06:16:12.985Z</updated>
+    <updated>2024-03-03T06:35:38.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[桃の節句 道の駅でちらしずしやひなあられふるまう 石川 輪島]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377811000.html"/>
+        <updated>2024-03-03T06:28:33.000Z</updated>
+        <summary type="html"><![CDATA[桃の節句の3日、石川県輪島市の道の駅では被災した人たちを励まそうと、地元の有志がちらしずしやひなあられなどをふるまいました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参政 神谷代表 “次の衆院選 比例代表中心に6議席獲得目指す”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240303/k10014377831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240303/k10014377831000.html"/>
+        <updated>2024-03-03T06:21:33.000Z</updated>
+        <summary type="html"><![CDATA[参政党の党大会が開かれ、神谷代表は次の衆議院選挙で、比例代表を中心に6議席の獲得を目指し党勢拡大を図りたい考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【埼玉】生活保護を受給していた女性死亡後、支給停止せず着服していた市職員を免職に]]></title>
         <id>https://itainews.com/archives/2033550.html</id>
