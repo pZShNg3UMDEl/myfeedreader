@@ -2839,21 +2839,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120526/",
-          "author": null,
-          "description": "4月からNHKで放送を開始する和風ファンタジーアニメ「烏（からす）は主を選ばない」に、田村睦心と入野自由が出演することが明らかになった。PV第1弾とキービジュアルも公開されている。 同作は、阿部...",
-          "link": "https://anime.eiga.com/news/120526/",
-          "publishedOn": "2024-02-02T12:00:00.000Z",
-          "wordCount": 795,
-          "title": "「烏は主を選ばない」雪哉役に田村睦心、若宮役に入野自由　監督は「ゆるキャン△」の京極義昭",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2862,6 +2847,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98840",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/03(日) 00:52:30.34 ID:fkzSGOso0 続編出せるレベル […]",
+          "link": "https://switchsoku.com/soft/98840",
+          "publishedOn": "2024-03-03T00:00:14.000Z",
+          "wordCount": 10119,
+          "title": "Swich発売から7周年経ったのに任天堂から新規IP出なかったな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/mario.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98835",
           "author": "SWITCH速報",
@@ -5131,16 +5126,6 @@
           "wordCount": 10009,
           "title": "スパイク・チュンソフトがSwitchで大成功してる件",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/spikechunsoft.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97781",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/02(金) 19:20:20.71 ID:5tYs9VhL00202 要約任天 […]",
-          "link": "https://switchsoku.com/switch/97781",
-          "publishedOn": "2024-02-02T12:30:25.000Z",
-          "wordCount": 10144,
-          "title": "アナリスト「Switch2が現行機並みの成功を収める可能性は低い」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2lkt.webp"
         }
       ]
     },
@@ -22359,36 +22344,6 @@
           "wordCount": 923,
           "title": "フィギュア四大陸選手権 千葉百音が初優勝 女子シングル",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345681_2402022139_0202214046_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345661000.html",
-          "author": null,
-          "description": "4年前に宮城県内の県立高校で、30代の女性教諭が自殺したことについて、宮城県教育委員会は同僚の59歳の教諭が態度などを非難する内容の手紙やメモをおよそ4か月にわたって繰り返し示すなどしたパワハラが原因だったとしてこの同僚を停職3か月の懲戒処分としました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345661000.html",
-          "publishedOn": "2024-02-02T12:55:16.000Z",
-          "wordCount": 626,
-          "title": "宮城 4年前の教諭自殺 同僚のパワハラ原因 停職3か月 懲戒処分",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345661_2402022148_0202215518_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345621000.html",
-          "author": null,
-          "description": "自民党の麻生副総裁は、上川外務大臣の容姿などに触れたみずからの発言について「表現に不適切な点があったことは否めない」として撤回しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345621000.html",
-          "publishedOn": "2024-02-02T12:12:49.000Z",
-          "wordCount": 626,
-          "title": "自民 麻生副総裁 上川外相の容姿などに触れた発言を撤回",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345621_2402022107_0202211201_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240202/k10014345611000.html",
-          "author": null,
-          "description": "日本サッカー協会の田嶋幸三会長が会見し、一部報道を受けてアジアカップの日本代表からの離脱が発表されていた伊東純也選手について改めて離脱させる考えを示しました。田嶋会長は「伊東選手のコンディションを考えた上で総合的に判断した」と説明しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240202/k10014345611000.html",
-          "publishedOn": "2024-02-02T12:02:28.000Z",
-          "wordCount": 675,
-          "title": "サッカー 伊東純也 日本代表を離脱 田嶋会長「総合的に判断」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240202/K10014345611_2402022055_0202210231_01_02.jpg"
         }
       ]
     },
@@ -24148,6 +24103,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69636",
+          "author": "299",
+          "description": "こちらは海外の猫ちゃん動画。リビングに置かれたチャイルドシートには未だ生まれて間もない人間の赤ちゃんが眠っています。その隣には、長い毛が美しい大人の猫ちゃんが。赤ん坊のことが気になるのでしょう、興味津々に赤ちゃんを見つめ...\n【猫と人間の赤ちゃんの友情物語】2人の距離感が近くて微笑ましい！感動の猫動画 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69636",
+          "publishedOn": "2024-03-03T00:00:01.000Z",
+          "wordCount": 1345,
+          "title": "【猫と人間の赤ちゃんの友情物語】2人の距離感が近くて微笑ましい！感動の猫動画",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69636.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69593",
           "author": "299",
