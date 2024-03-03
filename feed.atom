@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T21:35:42.367Z</updated>
+    <updated>2024-03-03T21:50:14.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“イスラエル 代表団派遣せず 交渉不透明”イスラエルメディア]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240304/k10014378291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240304/k10014378291000.html"/>
+        <updated>2024-03-03T21:41:34.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスとの間の戦闘休止などをめぐる交渉について、ハマス側の代表団などがエジプトに到着したと伝えられる一方、イスラエルのメディアは、イスラエル側が3日は代表団を派遣しなかったと報じ、交渉が進展するのか不透明な状況が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日産自動車に勧告へ 公取委 下請け数十社に納入代金引き下げ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240304/k10014378321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240304/k10014378321000.html"/>
+        <updated>2024-03-03T21:35:17.000Z</updated>
+        <summary type="html"><![CDATA[日産自動車が、下請けの部品メーカー数十社に対し、納入時の代金を一方的に引き下げていたことが下請け法に違反するとして、公正取引委員会が近く、日産自動車に再発防止などを求める勧告を行う方針を固めたことが、関係者への取材でわかりました。違法に差し引いていた代金の総額は、およそ30億円にのぼるとみられるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊豆諸島 神津島沖 25人乗り漁船座礁 けが人なし 海保が救助へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240304/k10014378281000.html</id>
