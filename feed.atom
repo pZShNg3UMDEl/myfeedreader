@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T14:11:40.876Z</updated>
+    <updated>2024-03-03T14:25:13.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[勢いだけで生きてます]]></title>
+        <id>https://logipara.com/?p=9587</id>
+        <link href="https://logipara.com/diary-text/2024-03-04"/>
+        <updated>2024-03-03T14:24:25.000Z</updated>
+        <summary type="html"><![CDATA[ネットの海を漂っていたら 「長沢オリゴが花粉症に効く」 という、私好みの真偽不明な健康法が出てきました。 で、よくよく調べてみると、長沢オリゴとはフラクトオリゴ糖が主成分で、であればそれは確かに腸内環境に効きそうだなぁと […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お笑い芸人(34)　環七で65歳男性を軽自動車で轢き頃す　中野区]]></title>
         <id>https://itainews.com/archives/2033558.html</id>
@@ -36937,16 +36947,6 @@ NHKネット配信は「...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240203/k10014346061000.html"/>
         <updated>2024-02-03T02:26:33.000Z</updated>
         <summary type="html"><![CDATA[内閣府が行った、食品を購入する際の消費者の意識調査がまとまり、食品の相次ぐ値上げを受けて6割の人が価格の安いものに切り替えたと回答しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【随時更新】ハマス最高幹部「戦闘の完全な終結を」（2月3日）]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240203/k10014345931000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240203/k10014345931000.html"/>
-        <updated>2024-02-03T02:16:50.000Z</updated>
-        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの間の戦闘休止と人質解放をめぐる交渉について、ハマス側は引き続き対応を検討していて、双方が合意に至るかどうか、予断を許さない状況です。※イスラエルやパレスチナに関する日本時間2月3日の動きを、随時更新してお伝えします。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
