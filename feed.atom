@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T13:16:52.246Z</updated>
+    <updated>2024-03-04T13:35:49.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[昔買ったえのき茸]]></title>
+        <id>https://logipara.com/?p=9590</id>
+        <link href="https://logipara.com/diary-text/2024-03-05"/>
+        <updated>2024-03-04T13:17:53.000Z</updated>
+        <summary type="html"><![CDATA[今日は「俺のえのき茸」の話です。(無駄なアピール) 　 冷蔵庫を漁っていると、だいぶ昔に買って、ジップロックに入れておいた「えのき茸」が出てきました。 あー買ったの忘れてた！！これ買ったのいつだっけ、だいぶ前だよな……？ […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【あなたにもチェルシー、あげたい】　終売であげられなくなる。]]></title>
         <id>https://itainews.com/archives/2033582.html</id>
@@ -262,6 +272,16 @@
         <summary type="html"><![CDATA[カンパーニュは、同社が取り扱う米Energizerのポータブル電源を3月8日に発売する。容量1,102.5Whの「PPS1100W2F」、および容量551.25Whの「PPS550W1F」がラインナップ。価格はオープンだが、PPS1100W2Fは税込137,500円前後、PPS550W1Fは税込69 […]]]></summary>
         <author>
             <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（3月4日の動き）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240304/k10014332771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240304/k10014332771000.html"/>
+        <updated>2024-03-04T10:19:55.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる4日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナとは7時間、ロシアのモスクワとは6時間の時差があります）]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -37158,16 +37178,6 @@ https://video.tw%69mg.com/ext_tw_video/1753670697715662849/pu/vid/avc1...]]></su
         <summary type="html"><![CDATA[JR京浜東北線は、大森駅付近の沿線で起きた火災の影響で、午前10時半ごろから大宮駅と大船駅の間の上下線で運転を見合わせています。この影響でJR東海道線も品川駅と横浜駅の間の上下線で運転を見合わせています。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年1月28日から2月3日】]]></title>
-        <id>https://foodfighter.jp/?p=235041</id>
-        <link href="https://foodfighter.jp/sweets-icecream-ranking-2024-0204"/>
-        <updated>2024-02-04T01:27:08.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年1月28日から2月3日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全8種類）を美味しい・おすすめ順に […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
