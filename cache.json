@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120714/",
+          "author": null,
+          "description": "テレビアニメ「アイドルマスター シャイニーカラーズ 2nd season」（全12話）が、今年秋に放送されることが決定した。7月5日から全国の劇場で全3章にわけた先行上映も行われる。これにあわせ...",
+          "link": "https://anime.eiga.com/news/120714/",
+          "publishedOn": "2024-03-04T12:00:00.000Z",
+          "wordCount": 905,
+          "title": "「アイドルマスター シャイニーカラーズ 2nd season」秋放送、7月から先行上映決定　「ストレイトライト」「ノクチル」が登場",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120715/",
           "author": null,
           "description": "集英社「少年ジャンプ＋」で連載中の高校野球漫画をテレビアニメ化する「忘却バッテリー」の主題歌が発表された。オープニングテーマはロックバンド「Mrs.GREEN APPLE」の楽曲「ライラック」、...",
@@ -5201,16 +5216,6 @@
           "wordCount": 9946,
           "title": "Switchの『リングフィットアドベンチャー』買ったんやがwwywwywww",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/09/ring-fit.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97818",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/03(土) 22:08:25.27 ID:793p5vcj0 内部解像度を落と […]",
-          "link": "https://switchsoku.com/soft/97818",
-          "publishedOn": "2024-02-04T00:00:28.000Z",
-          "wordCount": 10073,
-          "title": "Switchのフルパワーを実感出来るベンチマーク的なゲームってどれ？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/04/switchtv.webp"
         }
       ]
     },
@@ -5940,6 +5945,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379091000.html",
+          "author": null,
+          "description": "岸田総理大臣は、北朝鮮に拉致された被害者の家族会と面会し「何としても自分自身の手で解決するとの思いを強く持ち、取り組んでいきたい」と述べ、日朝首脳会談の早期実現を図り、すべての被害者の帰国に全力を挙げる決意を伝えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014379091000.html",
+          "publishedOn": "2024-03-04T12:23:15.000Z",
+          "wordCount": 588,
+          "title": "岸田首相 拉致被害者家族会と面会 “自分自身の手で解決する”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014379091_2403041908_0304212318_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379131000.html",
+          "author": null,
+          "description": "この冬の全国の平均気温は過去2番目に高く、気象庁の検討会は、地球温暖化がなければ顕著な高温となる確率は非常に低かったとみられるとする評価結果をまとめました。検討会の会長は、異常な暖冬だったとしたうえで、今後も似たような暖冬となる可能性があると指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014379131000.html",
+          "publishedOn": "2024-03-04T12:05:43.000Z",
+          "wordCount": 661,
+          "title": "この冬“「異常な暖冬」今後も暖冬の可能性も” 気象庁 検討会",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014379131_2403041919_0304210544_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379201000.html",
+          "author": null,
+          "description": "自民党の茂木幹事長は、みずからの政治団体の会計処理をめぐり、野党の議員から「集めたお金を公開基準が緩い政治団体に移し替え、透明性の向上に逆行している」などと指摘されたことについて、法令に従い適切に処理していると反論しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014379201000.html",
+          "publishedOn": "2024-03-04T12:00:30.000Z",
+          "wordCount": 687,
+          "title": "自民 茂木幹事長 みずからの政治団体の会計“適切に処理”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014379201_2403042048_0304210031_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378991000.html",
+          "author": null,
+          "description": "重い先天性の病気の男の子に、両親と祖父からそれぞれ提供された肺と肝臓の一部を同時に移植する世界で初めての「生体肺肝同時移植」手術に成功したと京都大学医学部附属病院が発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378991000.html",
+          "publishedOn": "2024-03-04T11:54:20.000Z",
+          "wordCount": 653,
+          "title": "生体肺肝同時移植手術“世界初の成功”京都大学医学部附属病院",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378991_2403041853_0304191507_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379191000.html",
           "author": null,
@@ -22665,6 +22710,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=238010",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店、スーパーの最新グルメを紹介しています。   今回は、カップヌードルの新商品「日清焼そばU.F.O. 爆盛バーレル」を世界一詳しく調査しました。   公式You […]",
+          "link": "https://foodfighter.jp/ufo-bakumori",
+          "publishedOn": "2024-03-04T11:55:41.000Z",
+          "wordCount": 1864,
+          "title": "【日清食品】日清焼そばU.F.O. 爆盛バーレル【新作カップ麺】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/b2de7414e8bc298e9f7f4c20648033db.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=237993",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、明治の新商品「明治 エッセル スーパーカップ レモンのレアチーズ」を世界一詳しく調査しました。   公式YouTub […]",
@@ -27927,16 +27982,6 @@
           "wordCount": 1391,
           "title": "赤ちゃん猫の感触に溺れていたらお母さん猫があっという間に連れ去って行ってしまいました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67807.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67840",
-          "author": "299",
-          "description": "赤ちゃん猫たちへの授乳を終えたお母さん猫のポッポママが、寝床から外にでて休憩をしにいってしまいました。24時間体制の子育て中のママ猫さんもたまには気晴らしが必要ですよね。 ところが寝床の中のぽちゃくんは、まだ眠りについて...\nママ猫もたまにはひとりの時間が欲しいのにゃ〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67840",
-          "publishedOn": "2024-02-04T00:00:07.000Z",
-          "wordCount": 1391,
-          "title": "ママ猫もたまにはひとりの時間が欲しいのにゃ〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67840.jpg"
         }
       ]
     },
@@ -29562,6 +29607,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033585.html",
+          "author": "damono3856",
+          "description": "1 名前：うんち(茸) [US]：2024/03/04(月) 11:00:59.57 ID:8yo/swdW0.net\n\n\n\n\n\n\n\n／今日は #ひなまつり🎎🌸＼500円おトクに楽しめる【#ひなまつり9ピースバーレル】は本日まで💨ひなまつりの食事に #KFC はいかが❓ひな人形を眺めながら、たっぷりチキンをお楽しみくださ...",
+          "link": "https://itainews.com/archives/2033585.html",
+          "publishedOn": "2024-03-04T12:05:25.000Z",
+          "wordCount": 2470,
+          "title": "日本人、ケンタッキー1本310円に衝撃wwwwwwww「流石にもう買えない。特別な日の食べ物に」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/0/606d15ae-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033580.html",
           "author": "yonepo665sfr",
