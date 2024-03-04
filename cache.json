@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120715/",
+          "author": null,
+          "description": "集英社「少年ジャンプ＋」で連載中の高校野球漫画をテレビアニメ化する「忘却バッテリー」の主題歌が発表された。オープニングテーマはロックバンド「Mrs.GREEN APPLE」の楽曲「ライラック」、...",
+          "link": "https://anime.eiga.com/news/120715/",
+          "publishedOn": "2024-03-04T11:00:00.000Z",
+          "wordCount": 885,
+          "title": "「忘却バッテリー」オープニング曲はMrs.GREEN APPLE、エンディング曲はマカロニえんぴつ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120719/",
           "author": null,
           "description": "ディズニープラスで独占配信される鳥山明氏原作のオリジナルアニメシリーズ「SAND LAND: THE SERIES」が、「悪魔の王子編」と「天使の勇者編」の2部構成になることが発表された。「天使...",
@@ -5925,6 +5940,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379191000.html",
+          "author": null,
+          "description": "沖縄県南城市は、4日午後8時、大雨警報の発表に伴って、市内全域を対象に高齢者等避難の情報を出しました。5段階の警戒レベルのうちレベル3にあたる情報で、高齢者や体の不自由な人などに避難を始めるよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014379191000.html",
+          "publishedOn": "2024-03-04T11:42:20.000Z",
+          "wordCount": 361,
+          "title": "沖縄 南城市 市内全域に高齢者等避難の情報",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014379191_2403042037_0304204222_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379151000.html",
+          "author": null,
+          "description": "プロ野球は昨シーズンまで新型コロナの感染者や濃厚接触者が1軍の出場選手登録を抹消された場合通常の10日を待たずに再登録が可能になる特例を設けていましたが、今シーズンから新型コロナに加えてインフルエンザの感染や予防接種による体調不良を特例の対象に加える新たな感染症特例を運用することになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014379151000.html",
+          "publishedOn": "2024-03-04T11:18:04.000Z",
+          "wordCount": 640,
+          "title": "プロ野球 今季からインフルエンザも感染症特例の対象に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014379151_2403041952_0304201806_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379141000.html",
+          "author": null,
+          "description": "富士山の登山者のうち山梨県側から登る人に対し1人2000円の通行料の支払いを義務化する条例が4日、山梨県議会で可決・成立しました。環境保全や事故防止などがねらいで、条例はことし7月1日から施行されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014379141000.html",
+          "publishedOn": "2024-03-04T11:03:35.000Z",
+          "wordCount": 621,
+          "title": "富士山 山梨県側から登山 1人2000円の通行料支払い義務化へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014379141_2403041918_0304192717_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378951000.html",
+          "author": null,
+          "description": "北陸新幹線の金沢・敦賀間の開業まで2週間を切る中、開業日当日の「1番列車」の運転士と車掌が4日、福井県敦賀市で意気込みを語りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378951000.html",
+          "publishedOn": "2024-03-04T10:46:51.000Z",
+          "wordCount": 711,
+          "title": "北陸新幹線 金沢～敦賀間開業へ「1番列車」の運転士ら意気込み",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378951_2403041936_0304194624_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378941000.html",
+          "author": null,
+          "description": "四国にある天台宗の寺の住職から十数年にわたって性暴力を受けたと尼僧が訴えていることを受けて、天台宗が4日から聞き取り調査を始めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378941000.html",
+          "publishedOn": "2024-03-04T10:29:02.000Z",
+          "wordCount": 662,
+          "title": "“住職から十数年にわたり性暴力” 天台宗が聞き取り調査開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378941_2403041836_0304183829_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378871000.html",
           "author": null,
@@ -22544,36 +22609,6 @@
           "wordCount": 686,
           "title": "スノーボードW杯 ハーフパイプ 男女ともに日本勢が優勝",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346791_2402040939_0204094142_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346561000.html",
-          "author": null,
-          "description": "関東甲信地方は5日昼すぎから6日午前中にかけて山沿いや山地を中心に大雪となり東京23区を含む平地でも雪が積もる見通しです。気温が予想よりも低くなった場合は、平地でも警報級の大雪のおそれがあるため今後の情報に注意してください。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346561000.html",
-          "publishedOn": "2024-02-03T23:30:07.000Z",
-          "wordCount": 650,
-          "title": "関東甲信 5日から6日にかけ山沿い中心に大雪 東京23区で積雪も",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346561_2402040827_0204083008_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346721000.html",
-          "author": null,
-          "description": "東京・板橋区の路上で63歳の女性がはねられて死亡し、警視庁は現場から走り去った大型トラックを運転していた23歳の会社員をひき逃げなどの疑いで逮捕しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346721000.html",
-          "publishedOn": "2024-02-03T22:47:29.000Z",
-          "wordCount": 664,
-          "title": "女性がはねられ死亡 23歳会社員逮捕 ひき逃げの疑い 東京 板橋",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346721_2402040739_0204074731_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346611000.html",
-          "author": null,
-          "description": "世界の若手バレエダンサーの登竜門として知られる、スイスの「ローザンヌ国際バレエコンクール」の決勝が行われ、東京都の小林愛里さんが5位に、同じく東京都の利田太一さんが9位に、それぞれ入賞しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346611000.html",
-          "publishedOn": "2024-02-03T22:28:15.000Z",
-          "wordCount": 587,
-          "title": "ローザンヌ国際バレエコンクール  2人入賞 小林愛里さん5位",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346611_2402040726_0204072817_01_03.jpg"
         }
       ]
     },
@@ -24048,16 +24083,6 @@
           "wordCount": 1902,
           "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年1月28日から2月3日】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/01/6a0187317d76e0d9ccdbb738b0d243d2.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=235022",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「チーズソースのトマトパスタ」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
-          "link": "https://foodfighter.jp/711sej-cheese-tomato-pasta",
-          "publishedOn": "2024-02-03T22:41:58.000Z",
-          "wordCount": 1850,
-          "title": "【セブンイレブン】チーズソースのトマトパスタ【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/4140bfb40aa2f8bdffbd6ce219235155.jpg"
         }
       ]
     },
@@ -24373,6 +24398,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69683",
+          "author": "299",
+          "description": "ベッドでくつろぐ子猫にくっついているひよこがピーピーとしきりに鳴き声をあげています。子猫のすぐ耳元で鳴き続けているので、子猫もさぞかしうるさいはずです。 ところが子猫はそんなひよこに対して、うるさいにゃ！とイライラする様...\nひよこをあやす優しい子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69683",
+          "publishedOn": "2024-03-04T11:00:13.000Z",
+          "wordCount": 1341,
+          "title": "ひよこをあやす優しい子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69683.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69678",
           "author": "299",
@@ -27917,6 +27952,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=70745",
+          "author": "編集部：平山洸太",
+          "description": "カンパーニュは、同社が取り扱う米Energizerのポータブル電源を3月8日に発売する。容量1,102.5Whの「PPS1100W2F」、および容量551.25Whの「PPS550W1F」がラインナップ。価格はオープンだが、PPS1100W2Fは税込137,500円前後、PPS550W1Fは税込69 […]",
+          "link": "https://gadget.phileweb.com/post-70745/",
+          "publishedOn": "2024-03-04T10:28:38.000Z",
+          "wordCount": 750,
+          "title": "日本初、リン酸マンガン鉄リチウムイオン採用のポータブル電源。Energizerから2機種",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/ene.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=70642",
           "author": "Munenori Taniguchi",
           "description": "Spotifyが（現時点では）米国のみでオーディオブック・アクセスプランを開始した。このプランは15時間のオーディオブック再生が行え、月額9.99ドルで提供される。なお、無料プランと同じように、広告ありの音楽リスニングはもちろん可能だ。 Spotifyは既存のPremiumプラン（米国では月額10. […]",
@@ -29517,6 +29562,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033580.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Ailuropoda melanoleuca ★：2024/03/03(日) 12:52:14.63 ID:dgb39Hao9.net\n\n\n\n\n\n\n\nマクドナルド「ハッピーセット」のおまけ『星のカービィ』ぬいぐるみが『メルカリ』で大量出品も、「全く売れてない」「ただ太っただけ」転売ヤーは大爆死か : https://t.co/VxUHeaA...",
+          "link": "https://itainews.com/archives/2033580.html",
+          "publishedOn": "2024-03-04T11:01:29.000Z",
+          "wordCount": 2668,
+          "title": "マクドナルド「ハッピーセット」のカービィぬいぐるみがメルカリで大量出品も「全く売れてない」「ただ太っただけ」転売ヤーは大爆死か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/9/c9448440-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033577.html",
           "author": "yonepo665sfr",
