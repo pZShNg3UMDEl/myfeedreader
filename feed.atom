@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T19:10:39.818Z</updated>
+    <updated>2024-03-04T19:20:44.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生成AI活用 100社中86社 高度な業務などは36社 NHKアンケート]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014378981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014378981000.html"/>
+        <updated>2024-03-04T19:16:33.000Z</updated>
+        <summary type="html"><![CDATA[NHKが、国内の主な企業100社を対象に行ったアンケートで、生成AIを活用していると回答したのは86社に上りました。このうち、高度な業務や専門的な業務での利用は36社でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六甲山 暖冬影響で「天然のクーラー」に利用の氷が厚さ不足]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240305/k10014378651000.html</id>
@@ -36875,16 +36885,6 @@ BPO青少年委、“ハゲ漫才”を受け議論「何らかの話し合い�
         <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347061000.html"/>
         <updated>2024-02-04T07:21:58.000Z</updated>
         <summary type="html"><![CDATA[5万9000人以上が死亡したトルコ・シリア大地震から6日で1年となります。トルコの被災地では街の再建が進められていますが、今も多くの人たちがコンテナの仮設住宅での生活を余儀なくされているほか、人口の流出や産業の空洞化への対応も大きな課題となっていて、復興の道のりは険しいものとなっています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 能登町 「あばれ祭」の灯籠“キリコ”を守れ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347011000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347011000.html"/>
-        <updated>2024-02-04T07:11:01.000Z</updated>
-        <summary type="html"><![CDATA[石川県能登町では伝統の「あばれ祭」で使われる「キリコ」と呼ばれる灯籠を守ろうと、地震の被害を受けた倉庫から別の安全な場所に移す作業が行われました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>

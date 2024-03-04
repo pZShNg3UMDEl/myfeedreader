@@ -5956,6 +5956,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240305/k10014378981000.html",
+          "author": null,
+          "description": "NHKが、国内の主な企業100社を対象に行ったアンケートで、生成AIを活用していると回答したのは86社に上りました。このうち、高度な業務や専門的な業務での利用は36社でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240305/k10014378981000.html",
+          "publishedOn": "2024-03-04T19:16:33.000Z",
+          "wordCount": 634,
+          "title": "生成AI活用 100社中86社 高度な業務などは36社 NHKアンケート",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240305/K10014378981_2403041903_0305041635_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240305/k10014378651000.html",
           "author": null,
           "description": "神戸市の六甲山の展望台では、毎年、池に張った氷を切り出して貯蔵し、夏に「天然のクーラー」として利用していますが、この冬は暖冬の影響で十分な氷ができず、代わりにスキー場の雪を運ぶ作業が行われました。",
@@ -22494,16 +22504,6 @@
           "wordCount": 832,
           "title": "トルコ・シリア大地震から1年 今も70万人近くが仮設住宅で生活",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347061_2402041534_0204160800_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347011000.html",
-          "author": null,
-          "description": "石川県能登町では伝統の「あばれ祭」で使われる「キリコ」と呼ばれる灯籠を守ろうと、地震の被害を受けた倉庫から別の安全な場所に移す作業が行われました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347011000.html",
-          "publishedOn": "2024-02-04T07:11:01.000Z",
-          "wordCount": 722,
-          "title": "石川 能登町 「あばれ祭」の灯籠“キリコ”を守れ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347011_2402041439_0204144650_01_02.jpg"
         }
       ]
     },
