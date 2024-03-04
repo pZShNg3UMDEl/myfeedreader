@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T23:24:31.240Z</updated>
+    <updated>2024-03-04T23:37:07.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI使った「自律型兵器システム」の規制を目指す国際会議始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379161000.html"/>
+        <updated>2024-03-04T23:25:32.000Z</updated>
+        <summary type="html"><![CDATA[AI＝人工知能を使った兵器開発が各国で進むなか、AIを使って人間の関与なしに人命に関わる攻撃を判断して行う自律型の兵器システムの規制を目指す国際会議がスイスで始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東日本中心に6日にかけ雨や雪 関東甲信は山沿いで大雪の見込み]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240305/k10014379021000.html</id>
