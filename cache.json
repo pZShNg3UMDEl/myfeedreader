@@ -2848,6 +2848,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98883",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/04(月) 14:24:10.20 ID:Z0sasSRB0 バーチャファイタ […]",
+          "link": "https://switchsoku.com/soft/sega/98883",
+          "publishedOn": "2024-03-04T08:00:28.000Z",
+          "wordCount": 10064,
+          "title": "セガリーカーみどり「セガはバーチャファイター新作を全マルチで開発中」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/virtua-fighter.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98881",
           "author": "SWITCH速報",
           "description": "1: 2024/03/03(日) 14:23:52.61 ID:HhGuCoxF00303 性能が上 […]",
@@ -5885,6 +5895,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378691000.html",
+          "author": null,
+          "description": "中部エリアでのガスの大口契約で、地元のガス会社とともに談合を繰り返していたとして、公正取引委員会は、中部電力とその子会社にあわせて2600万円あまりの課徴金の納付を命じました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378691000.html",
+          "publishedOn": "2024-03-04T07:50:57.000Z",
+          "wordCount": 706,
+          "title": "公正取引委員会 談合で中部電力と子会社に計2600万円余課徴金",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378691_2403041615_0304163549_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378741000.html",
+          "author": null,
+          "description": "能登半島地震で多くの避難者が出ている石川県輪島市の住民が、地域社会が壊れて人口が流出しないよう、地区内に仮設住宅の建設を求める要望書を市に提出しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378741000.html",
+          "publishedOn": "2024-03-04T07:49:03.000Z",
+          "wordCount": 495,
+          "title": "石川 輪島 “地区内に仮設住宅建設を”住民が市に要望",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378741_2403041636_0304164136_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378591000.html",
+          "author": null,
+          "description": "名古屋市教育委員会が、校長に推薦する教員の名簿とともに金品を受け取っていた問題で、学校に教育内容を指導する教育委員会の「指導室」が、今年度、教員などでつくる10以上の団体から、現金と商品券あわせて90万円分以上を受け取っていたことがわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378591000.html",
+          "publishedOn": "2024-03-04T07:05:31.000Z",
+          "wordCount": 748,
+          "title": "名古屋市教委 指導室も今年度90万超金品授受 教員らの団体から",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378591_2403041458_0304160533_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378601000.html",
+          "author": null,
+          "description": "これまで発表の経緯が分かっていなかった文豪・芥川龍之介の「三つの指環」という作品が最初に掲載されたのは医学雑誌だったことが、専門家の調査でわかりました。専門家は、芥川をめぐる謎の1つが解明されたとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378601000.html",
+          "publishedOn": "2024-03-04T07:03:10.000Z",
+          "wordCount": 780,
+          "title": "芥川龍之介「三つの指環」初掲載は医学雑誌 謎の1つが解明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378601_2403041529_0304160137_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378611000.html",
           "author": null,
@@ -22494,16 +22544,6 @@
           "wordCount": 812,
           "title": "能登半島地震 SNSで真偽不明や誤りの情報拡散 注意深く対応を",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014345991_2402031623_0203195612_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346601000.html",
-          "author": null,
-          "description": "アメリカ軍は兵士3人が死亡した攻撃への報復措置として、イラクとシリアの領内にある、イランの軍事精鋭部隊の関連施設などを空爆し、この攻撃で少なくとも45人が死亡したとみられます。イランや空爆された国から反発の声があがるなか、アメリカがさらなる報復措置に踏み切るのか今後の対応が注目されます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346601000.html",
-          "publishedOn": "2024-02-03T20:01:11.000Z",
-          "wordCount": 653,
-          "title": "米軍が報復で空爆 イランの軍事関連施設など 45人死亡か",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346601_2402040452_0204050113_01_02.jpg"
         }
       ]
     },
@@ -22559,6 +22599,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=237976",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”お手頃価格で大きな満足。”がコンセプトのちょい飲み可能な有名人気チェーン「熱烈中華食堂　日高屋」へ進 […]",
+          "link": "https://foodfighter.jp/hidakaya-osatsu-stick",
+          "publishedOn": "2024-03-04T07:19:43.000Z",
+          "wordCount": 1906,
+          "title": "【日高屋】おさつスティック 塩バター【スイーツ・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/3458b7ae091db8252720eecd078a6138.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=237954",
           "author": "foodfighter",
@@ -24293,6 +24343,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69678",
+          "author": "299",
+          "description": "四方を海で囲まれている埋立地にはたくさんの野良猫たちが暮らしています。コンクリートの高い塀の下には子猫の姿が確認できます。 子猫はこの高い塀を前にして、なんとかこれを登って上に行こうとしています。ほぼ垂直の壁を登るのは、...\n高い壁をスルスルと登る運動神経抜群な子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69678",
+          "publishedOn": "2024-03-04T08:00:47.000Z",
+          "wordCount": 1341,
+          "title": "高い壁をスルスルと登る運動神経抜群な子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69678.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69674",
           "author": "299",
@@ -27822,16 +27882,6 @@
           "wordCount": 1392,
           "title": "可愛すぎる子猫にウットリ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67803.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67799",
-          "author": "299",
-          "description": "キジ白の赤ちゃん猫が毛布の上で気持ちよさそうにまったりしています。寝転がって手足を投げ出している姿が、もう可愛くってたまりません。 くるりんとまるまるようにして顔を少し上にあげ、目を半分ぐらい開けていますが、この段階です...\nまったり昼寝中の子猫に兄弟猫がニャンプロを仕掛けてきた！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67799",
-          "publishedOn": "2024-02-03T20:00:58.000Z",
-          "wordCount": 1392,
-          "title": "まったり昼寝中の子猫に兄弟猫がニャンプロを仕掛けてきた！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67799.jpg"
         }
       ]
     },
@@ -29447,6 +29497,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033575.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/03/03(日) 11:43:00.10 ID:Ap2MKcob0.net \n\n\n\n\n\n\n\n\n\n＜主張＞出生数最少７５万人　首相はもっと危機感持てhttps://t.co/OQlVYR8Oaz少子高齢化とそれに伴う人口減少は国の活力低下につながりかねない。社会保障制度の持続可能性にも影響...",
+          "link": "https://itainews.com/archives/2033575.html",
+          "publishedOn": "2024-03-04T08:01:54.000Z",
+          "wordCount": 2334,
+          "title": "Z世代「下級が子供産んでも上級の奴隷になるだけ。それなら産まない方がマシ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/3/23ab1682-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033573.html",
           "author": "yonepo665sfr",
