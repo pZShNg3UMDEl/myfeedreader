@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120716/",
+          "author": null,
+          "description": "小学館の漫画配信サイト「週刊コロコロコミック」で連載中の「Duel Masters LOST ～追憶の水晶～」のアニメ化が決定した。アニメーション制作を「ダンジョンに出会いを求めるのは間違ってい...",
+          "link": "https://anime.eiga.com/news/120716/",
+          "publishedOn": "2024-03-04T13:00:00.000Z",
+          "wordCount": 935,
+          "title": "「Duel Masters LOST ～追憶の水晶～」今秋にアニメ化　鵜澤正太郎、羽多野渉が出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120714/",
           "author": null,
           "description": "テレビアニメ「アイドルマスター シャイニーカラーズ 2nd season」（全12話）が、今年秋に放送されることが決定した。7月5日から全国の劇場で全3章にわけた先行上映も行われる。これにあわせ...",
@@ -2907,6 +2922,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98886",
+          "author": "SWITCH速報",
+          "description": "1: 2020/08/02(日) 19:48:08.79 ID:LrROOJD9d 405 なまえを […]",
+          "link": "https://switchsoku.com/soft/doumori/98886",
+          "publishedOn": "2024-03-04T12:50:33.000Z",
+          "wordCount": 10071,
+          "title": "識者「あつ森の花火大会やばい。爆発から音が聞こえるまで0.5秒はラグあるぞ」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/atumori-hanabi.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98883",
           "author": "SWITCH速報",
@@ -5946,6 +5971,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379171000.html",
+          "author": null,
+          "description": "「かくれてしまえばいいのです」いまのつらさに耐えられないのなら、一度隠れてしまいましょうと、自殺防止の対策に取り組むNPO法人が、オンライン上に「かくれが」をつくりました。公開から3日で30万以上のアクセスを集め、話題になっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014379171000.html",
+          "publishedOn": "2024-03-04T12:51:04.000Z",
+          "wordCount": 987,
+          "title": "つらい気持ち抱える人へ ネット上の「かくれが」話題に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014379171_2403041910_0304211943_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014379181000.html",
           "author": null,
           "description": "能登半島地震のあと2次避難を続けている輪島塗の関係者が、クラウドファンディングで集めた資金をもとに、事業再開に向け金沢市で販売と生産の拠点となる施設の準備を進めています。",
@@ -6034,6 +6069,16 @@
           "wordCount": 711,
           "title": "北陸新幹線 金沢～敦賀間開業へ「1番列車」の運転士ら意気込み",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378951_2403041936_0304194624_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378271000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスとの間の戦闘休止などをめぐる交渉について、イスラエルのメディアは、イスラエル側が3日は代表団を派遣しなかったと報じ、交渉が進展するのか不透明な状況が続いています。※イスラエルやパレスチナに関する日本時間3月3日の動きを随時、更新してお伝えします。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378271000.html",
+          "publishedOn": "2024-03-04T10:33:28.000Z",
+          "wordCount": 822,
+          "title": "【随時更新3月4日】“イスラエル代表団派遣せず” 交渉不透明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378271_2403040029_0304123325_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378941000.html",
@@ -22634,26 +22679,6 @@
           "wordCount": 729,
           "title": "JR京浜東北線と東海道線 運転見合わせ 大森駅付近の火災影響で",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346841_2402041048_0204105232_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346731000.html",
-          "author": null,
-          "description": "イギリスの北アイルランドで2年ぶりに自治政府が発足し、アイルランドとの統一を掲げるカトリック系の政党から初めて就任したオニール首相は、歴史的に対立してきたプロテスタント系の政党などと協力する姿勢を強調しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346731000.html",
-          "publishedOn": "2024-02-04T01:06:17.000Z",
-          "wordCount": 718,
-          "title": "英北アイルランド 自治政府発足 初めて統一掲げる政党から首相",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346731_2402041002_0204100620_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346711000.html",
-          "author": null,
-          "description": "地震で多くの建物被害が出た石川県珠洲市は今後、倒壊した家屋の解体や撤去が本格化すると膨大な災害廃棄物が出ることが見込まれるとして、廃棄物の受け入れ先を今の1か所から3か所程度に増やす方向で準備を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346711000.html",
-          "publishedOn": "2024-02-04T00:58:35.000Z",
-          "wordCount": 655,
-          "title": "石川 珠洲 廃棄物受け入れ先 1か所から3か所程度に増設へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346711_2402040950_0204095837_01_02.jpg"
         }
       ]
     },
@@ -24453,6 +24478,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69688",
+          "author": "299",
+          "description": "飼い主さんが子猫のおしりをポンポンしてあげています。これは子猫の排泄のお手伝いをしてあげているところです。 この子猫は、まだひとりでおしっこをすることができないので、おしりをトントンして刺激してあげることで無事に排泄する...\nヘソ天姿で爆睡する子猫が可愛い first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69688",
+          "publishedOn": "2024-03-04T13:00:30.000Z",
+          "wordCount": 1340,
+          "title": "ヘソ天姿で爆睡する子猫が可愛い",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69688.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69683",
           "author": "299",
@@ -29607,6 +29642,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033582.html",
+          "author": "yonepo665sfr",
+          "description": "1 名前：首都圏の虎 ★：名無しさん＠涙目です。(新日本) [US]2024/03/04(月) 10:40:41.05ID:kfIEit/b0●\n\n\n\n\n\n\n\n\n\n53年の歴史に幕……明治のキャンディー「チェルシー」3月に終売　「販売を終了せざるを得ない状況」で53年の歴史に幕https://t.co/vDRRzidBxw— ねとらぼ...",
+          "link": "https://itainews.com/archives/2033582.html",
+          "publishedOn": "2024-03-04T13:01:14.000Z",
+          "wordCount": 2443,
+          "title": "【あなたにもチェルシー、あげたい】　終売であげられなくなる。",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/6/86f04ebc-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033585.html",
           "author": "damono3856",
