@@ -2833,6 +2833,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98874",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/03(日) 17:53:47.15 ID:UAiGgPQa00303 「子ども […]",
+          "link": "https://switchsoku.com/soft/kirby-soft/98874",
+          "publishedOn": "2024-03-04T02:00:14.000Z",
+          "wordCount": 10012,
+          "title": "【悲報】マクドナルド「年齢制限は設けていないが、ハッピーセットは子供に楽しんで欲しい」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/GGbVA3pbIAAmC_W.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=98872",
           "author": "SWITCH速報",
           "description": "1: 2024/03/03(日) 20:59:51.45 ID:6U3juFGV00303 まあDQ […]",
@@ -5850,6 +5860,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378301000.html",
+          "author": null,
+          "description": "西アフリカのブルキナファソで、3つの村が襲撃されおよそ170人が死亡したと地元当局が発表しました。イスラム過激派によるテロや襲撃が繰り返されていて、治安の悪化が深刻になっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378301000.html",
+          "publishedOn": "2024-03-04T01:58:03.000Z",
+          "wordCount": 629,
+          "title": "西アフリカ ブルキナファソ 3つの村が襲撃され約170人死亡",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378301_2403041015_0304105805_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378131000.html",
           "author": null,
@@ -22349,26 +22369,6 @@
           "wordCount": 680,
           "title": "スキージャンプ女子W杯 高梨沙羅が2位 今シーズン初表彰台",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346661_2402032301_0203231031_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346691000.html",
-          "author": null,
-          "description": "カーリングの日本選手権は女子の準決勝が行われ、SC軽井沢クラブが中部電力に競り勝って決勝に進みました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014346691000.html",
-          "publishedOn": "2024-02-03T13:51:52.000Z",
-          "wordCount": 711,
-          "title": "カーリング日本選手権 女子 SC軽井沢クラブが決勝進出",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346691_2402032224_0203225033_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346651000.html",
-          "author": null,
-          "description": "サッカーのアジアカップで、日本は準々決勝でイランに1対2で敗れベスト4進出はなりませんでした。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014346651000.html",
-          "publishedOn": "2024-02-03T13:32:10.000Z",
-          "wordCount": 539,
-          "title": "サッカーアジア杯 準々決勝イランに敗れ日本はベスト4ならず",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346651_2402032225_0203222845_01_02.jpg"
         }
       ]
     },
@@ -23852,6 +23852,16 @@
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/04/cover_news077.jpg"
         },
         {
+          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news002.html",
+          "author": null,
+          "description": "グローバルにビジネスを展開する製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第2回では企業の強みを生かした仕組みづくりを実現するSAP BTP（SAP Business Technology Platform）について解説します。",
+          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news002.html",
+          "publishedOn": "2024-03-01T01:00:00.000Z",
+          "wordCount": 1924,
+          "title": "PR: DXの価値を最大化するクラウド拡張基盤",
+          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/07/cover_news002.jpg"
+        },
+        {
           "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news001.html",
           "author": null,
           "description": "グローバルにビジネスを展開する製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第1回は、製造業においてDXが必要とされる理由から、企業のDXを実現するIT基盤のあるべき姿を考えます。",
@@ -24138,6 +24148,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69665",
+          "author": "299",
+          "description": "子猫がすごい格好で爆睡しています。ママ猫はそっと子猫のお腹に手を当てて、あやすようにしながら寝落ちしていくのをそっと見守ってあげています。 子猫は両手両足を大の字に開いて完全なる猫のヒラキ状態になっています。それも優しい...\nママ猫と子猫のまったりタイムは癒しそのもの first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69665",
+          "publishedOn": "2024-03-04T02:00:09.000Z",
+          "wordCount": 1343,
+          "title": "ママ猫と子猫のまったりタイムは癒しそのもの",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69665.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69702",
           "author": "299",
@@ -27677,16 +27697,6 @@
           "wordCount": 1404,
           "title": "気持ちよく昼寝していたのに邪魔されてしまいます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67765.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67761",
-          "author": "299",
-          "description": "餌やりをしていた野良猫のお母さんが保護する前に出産したとの連絡が入ったので早速保護しにいくことに。捕獲機を設置すると次々と子猫たちが保護できました。 ケージの中に入れた子猫たちにごはんをあげようとすると警戒心が強いため、...\n保護した野良の子猫たちがちゅーるで心を開いてくれるように first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67761",
-          "publishedOn": "2024-02-03T13:00:33.000Z",
-          "wordCount": 1393,
-          "title": "保護した野良の子猫たちがちゅーるで心を開いてくれるように",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67761.jpg"
         }
       ]
     },
@@ -27701,6 +27711,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=70568",
+          "author": "編集部：平山洸太",
+          "description": "ASUS JAPANは、デュアルディスプレイノートPCとして「ASUS Zenbook DUO UX8406MA」を3月13日に発売する。価格は349,800円（税込）。 14インチの有機ELディスプレイを上下に2つ搭載するノートPC。ディスプレイは両方とも120Hzに対応し、解像度は3K（2,88 […]",
+          "link": "https://gadget.phileweb.com/post-70568/",
+          "publishedOn": "2024-03-04T02:00:00.000Z",
+          "wordCount": 793,
+          "title": "ASUS、2つの有機ELを搭載するノートPC「Zenbook DUO」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/DSC_6566.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=70600",
+          "author": "編集部：平山洸太",
+          "description": "ASUS JAPANは、インテル Core Ultraプロセッサーを採用する13インチノートPC「ASUS Zenbook S 13 OLED UX5304MA」を3月8日に発売する。価格は239,800円（税込）。 最薄部10.9mm／質量約1kgの薄型軽量をアピールする、13インチノートPC。基 […]",
+          "link": "https://gadget.phileweb.com/post-70600/",
+          "publishedOn": "2024-03-04T02:00:00.000Z",
+          "wordCount": 798,
+          "title": "ASUS、13インチノート「Zenbook S 13 OLED」にCore Ultraプロセッサー搭載モデル",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/DSC_6605.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=70605",
           "author": "Gadget Gate",
@@ -32521,16 +32551,6 @@
           "wordCount": 2274,
           "title": "埼玉県・川口市「国に対して不満いっぱい」「不法行為を行う外国人は法に基づき厳格に強制送還等して」国に異例の訴え",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/1/e1ec2f49-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032764.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/02/03(土) 10:11:01.44 ID:6BfUwdTW0●.net\n\n\n\n\n\n\n\n“南海電鉄入店禁止”張り紙　店主怒り「3時間ぐらいどんちゃん騒ぎ」料金めぐり警察沙汰に　取材中に「剥がしてほしい」と連絡 #FNNプライムオンライン #イット https://t.co/xQ...",
-          "link": "https://itainews.com/archives/2032764.html",
-          "publishedOn": "2024-02-03T13:05:30.000Z",
-          "wordCount": 2358,
-          "title": "南海電鉄入店禁止の居酒屋。社員11人3時間で5万6000円ひとり5090円は高いボッタクりだ！←警察沙汰",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46d09182-s.png"
         }
       ]
     },
