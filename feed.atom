@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T22:36:34.690Z</updated>
+    <updated>2024-03-04T22:50:23.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東日本中心に6日にかけ雨や雪 関東甲信は山沿いで大雪の見込み]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379021000.html"/>
+        <updated>2024-03-04T22:41:06.000Z</updated>
+        <summary type="html"><![CDATA[前線や低気圧の影響で東日本を中心に6日にかけて雨や雪が降る見込みです。能登半島地震の被災地ではこれまでに降った雨で地盤が緩んでいるところがあり、土砂災害に十分注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[参院予算委 政治資金問題 論戦続く 野党側 政倫審の開催求める]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240305/k10014378971000.html</id>
@@ -36764,16 +36774,6 @@ BPO青少年委、“ハゲ漫才”を受け議論「何らかの話し合い�
         <summary type="html"><![CDATA[テレビアニメ「豚のレバーは加熱しろ」最終回の12話が、2月5日深夜1時35分からTOKYO MXほかで順次放送されるほか、dアニメストア、ABEMAでは地上波と同日時にて最速先行配信される。Yo...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カーリング日本選手権 女子 SC軽井沢クラブが初優勝]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240204/k10014347301000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240204/k10014347301000.html"/>
-        <updated>2024-02-04T10:40:59.000Z</updated>
-        <summary type="html"><![CDATA[カーリングの日本選手権は4日、決勝が行われ、女子はSC軽井沢クラブが最終第10エンドで逆転し、北海道銀行に5対4で勝って初優勝を果たしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>

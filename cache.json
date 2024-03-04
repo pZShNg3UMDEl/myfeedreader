@@ -5916,6 +5916,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240305/k10014379021000.html",
+          "author": null,
+          "description": "前線や低気圧の影響で東日本を中心に6日にかけて雨や雪が降る見込みです。能登半島地震の被災地ではこれまでに降った雨で地盤が緩んでいるところがあり、土砂災害に十分注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240305/k10014379021000.html",
+          "publishedOn": "2024-03-04T22:41:06.000Z",
+          "wordCount": 840,
+          "title": "東日本中心に6日にかけ雨や雪 関東甲信は山沿いで大雪の見込み",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240305/K10014379021_2403050738_0305073927_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240305/k10014378971000.html",
           "author": null,
           "description": "国会は5日も参議院予算委員会で、自民党の派閥の政治資金をめぐる問題を受けた論戦が続きます。また、安倍派の下村・元政務調査会長が政治倫理審査会が開催されれば説明責任を果たしたいという考えを明らかにし、野党側は開催を求めていく方針です。",
@@ -22414,16 +22424,6 @@
           "wordCount": 666,
           "title": "京都市長選 共産支援の福山氏と自民など推薦の松井氏 競り合う",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014343701_2402041859_0204195139_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347301000.html",
-          "author": null,
-          "description": "カーリングの日本選手権は4日、決勝が行われ、女子はSC軽井沢クラブが最終第10エンドで逆転し、北海道銀行に5対4で勝って初優勝を果たしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347301000.html",
-          "publishedOn": "2024-02-04T10:40:59.000Z",
-          "wordCount": 725,
-          "title": "カーリング日本選手権 女子 SC軽井沢クラブが初優勝",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347301_2402041900_0204194101_01_02.jpg"
         }
       ]
     },
