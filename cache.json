@@ -6,6 +6,36 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120719/",
+          "author": null,
+          "description": "ディズニープラスで独占配信される鳥山明氏原作のオリジナルアニメシリーズ「SAND LAND: THE SERIES」が、「悪魔の王子編」と「天使の勇者編」の2部構成になることが発表された。「天使...",
+          "link": "https://anime.eiga.com/news/120719/",
+          "publishedOn": "2024-03-04T10:00:00.000Z",
+          "wordCount": 919,
+          "title": "「SAND LAND: THE SERIES」は劇場版再構築と新展開の2部構成に　小松未可子、村瀬歩が演じる新キャラも登場",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120713/",
+          "author": null,
+          "description": "「銀魂20周年プロジェクト」の一環として、テレビアニメ「銀魂」の人気エピソードを再編集した「銀魂オンシアター2D 一国傾城篇」が、6月21日から全国の劇場で3週間限定上映される。新規描き下ろしの...",
+          "link": "https://anime.eiga.com/news/120713/",
+          "publishedOn": "2024-03-04T09:00:00.000Z",
+          "wordCount": 860,
+          "title": "「銀魂」人気エピソードを再編集した「一国傾城篇」6月21日から公開　描き下ろしメインビジュアルお披露目",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120704/",
           "author": null,
           "description": "新海誠監督作「すずめの戸締まり」が、4月5日午後9時から日本テレビ系「金曜ロードショー」で本編ノーカットで地上波初放送されることが決定した。エンディングでは、新海監督が本作の企画書に描きこんだイ...",
@@ -5895,6 +5925,66 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378871000.html",
+          "author": null,
+          "description": "高校球界屈指の強打者で岩手県の花巻東高校の佐々木麟太郎選手が、都内で行われた進学先のアメリカ スタンフォード大学の卒業生による壮行会に出席し「辛抱しなければいけないことがあると思うが、経験を成功に導けるよう頑張りたい」と決意を述べました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378871000.html",
+          "publishedOn": "2024-03-04T10:04:17.000Z",
+          "wordCount": 707,
+          "title": "高校野球 花巻東 佐々木麟太郎 進学先 米大学の壮行会で決意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378871_2403041804_0304182943_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378531000.html",
+          "author": null,
+          "description": "能登半島地震の影響で、石川県輪島市では壊れた家財道具などの災害廃棄物が一般のごみとして出されるケースが増え、回収業者の負担が大きくなっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378531000.html",
+          "publishedOn": "2024-03-04T10:00:31.000Z",
+          "wordCount": 707,
+          "title": "石川 輪島  災害廃棄物増加で回収業者に負担 “分別を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378531_2403041818_0304183109_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378831000.html",
+          "author": null,
+          "description": "本州の南岸を進む低気圧の影響で関東甲信は、5日昼すぎから6日にかけて雨や雪が降り、山沿いを中心に大雪となる見込みです。気象庁は積雪による交通への影響や路面の凍結に十分注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378831000.html",
+          "publishedOn": "2024-03-04T09:58:06.000Z",
+          "wordCount": 565,
+          "title": "関東甲信 5日昼すぎ～6日 山沿い中心に大雪の見込み",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378831_2403041849_0304184949_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378911000.html",
+          "author": null,
+          "description": "イギリス国防省は、ウクライナへの軍事侵攻を続けるロシア側の先月の死傷者が1日当たり1000人近くにのぼり、侵攻後の2年間で最も多くなったとの見方を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378911000.html",
+          "publishedOn": "2024-03-04T09:46:46.000Z",
+          "wordCount": 642,
+          "title": "ロシア側 先月の死傷者 1日平均1000人近く 軍事侵攻後 最多か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378911_2403041822_0304184648_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378901000.html",
+          "author": null,
+          "description": "東京都教育委員会は不必要な身体接触をしないよう指導されていたにもかかわらず、漢字を教える際に女子児童を抱き締めたとして、小学校に勤める30代の男性教諭を停職6か月にするなど合わせて6人を懲戒処分としました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378901000.html",
+          "publishedOn": "2024-03-04T09:34:53.000Z",
+          "wordCount": 686,
+          "title": "女子児童抱き締めたか 小学校教諭 停職6か月の懲戒処分 都教委",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378901_2403041811_0304183455_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378761000.html",
+          "author": null,
+          "description": "去年11月、福岡県宇美町で軽乗用車が通学途中の高校生などを次々とはね、9人が重軽傷を負った事故で、持病の発作のおそれがあると知りながら運転し、意識を失って事故を起こしたとして、66歳の派遣社員が危険運転傷害の疑いで逮捕されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378761000.html",
+          "publishedOn": "2024-03-04T09:23:29.000Z",
+          "wordCount": 631,
+          "title": "福岡 9人重軽傷事故“発作おそれ知って運転か”66歳を逮捕",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378761_2403041649_0304165348_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378691000.html",
           "author": null,
@@ -22484,66 +22574,6 @@
           "wordCount": 587,
           "title": "ローザンヌ国際バレエコンクール  2人入賞 小林愛里さん5位",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346611_2402040726_0204072817_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346781000.html",
-          "author": null,
-          "description": "アメリカのオースティン国防長官は先ほど、声明を出し、アメリカ軍とイギリス軍が3日、イランが支援するイエメンの反政府勢力フーシ派の関連施設など13か所に対し、攻撃を行ったと発表しました。攻撃は、フーシ派の兵力をそぐための作戦の一環だとしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346781000.html",
-          "publishedOn": "2024-02-03T22:14:53.000Z",
-          "wordCount": 612,
-          "title": "米軍と英軍 イエメン反政府勢力フーシ派関連施設など追加攻撃",
-          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346531000.html",
-          "author": null,
-          "description": "16年ぶりに新人どうしの争いとなった京都市長選挙は4日、投票日を迎え、午前7時から投票が始まりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346531000.html",
-          "publishedOn": "2024-02-03T22:09:30.000Z",
-          "wordCount": 633,
-          "title": "京都市長選 きょう投票始まる 16年ぶり新人どうしの争いに",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346531_2402031956_0204070620_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346591000.html",
-          "author": null,
-          "description": "ロシアの首都モスクワでウクライナ侵攻に動員された兵士の妻たちが集まり、早期の帰還を訴えました。取材していた記者などが治安当局に一時拘束され、プーチン政権としては、来月の大統領選挙を前に、ウクライナ侵攻に反対する世論が広がることに神経をとがらせているとみられます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346591000.html",
-          "publishedOn": "2024-02-03T21:38:01.000Z",
-          "wordCount": 624,
-          "title": "ウクライナ侵攻に動員のロシア軍兵士の妻たち 早期帰還訴える",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346591_2402040633_0204063719_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346581000.html",
-          "author": null,
-          "description": "ガザ地区での戦闘休止と人質解放をめぐる交渉について、アメリカの有力紙は、イスラム組織ハマスの内部で、一時的な戦闘休止を受け入れる考えを示す勢力と、恒久的な停戦を求めるべきだとする勢力の間で、意見が割れていると伝えました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346581000.html",
-          "publishedOn": "2024-02-03T21:19:15.000Z",
-          "wordCount": 447,
-          "title": "“ハマス内部 一時的戦闘休止と恒久的停戦で意見割れる”米紙",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346581_2402040612_0204061917_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014346551000.html",
-          "author": null,
-          "description": "子どもが親などから虐待を受けたとして昨年度、児童相談所が相談を受けて対応した件数について、こども家庭庁などが集計方法を調査したところ、「虐待ではない」と判断したケースも含めるなど、国の記入要領に沿わない不適切な報告をしていた可能性がある自治体が20にのぼったことがわかりました。国はこれらの自治体に対して、報告件数の訂正などを求めていて、公表されている数値が減少する見通しとなりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014346551000.html",
-          "publishedOn": "2024-02-03T20:58:09.000Z",
-          "wordCount": 646,
-          "title": "児童虐待 件数を訂正見通し 虐待でないと判断したケースも報告",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346551_2402032000_0204005945_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014345991000.html",
-          "author": null,
-          "description": "先月1日に発生した能登半島地震では、SNSを中心に被害や孤立の状況を訴えたり救助を求めたりする情報が多く発信された一方、真偽不明や誤りの情報も拡散されました。中には表示回数を増やすため被災者を装ったとみられる投稿もあり、専門家は「収入を目的とした情報が増えているのが特徴で、重要な内容だとしてもすぐには投稿せず注意深く対応する必要がある」と指摘しています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014345991000.html",
-          "publishedOn": "2024-02-03T20:06:33.000Z",
-          "wordCount": 812,
-          "title": "能登半島地震 SNSで真偽不明や誤りの情報拡散 注意深く対応を",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014345991_2402031623_0203195612_01_02.jpg"
         }
       ]
     },
@@ -22599,6 +22629,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=237993",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、明治の新商品「明治 エッセル スーパーカップ レモンのレアチーズ」を世界一詳しく調査しました。   公式YouTub […]",
+          "link": "https://foodfighter.jp/super-cup-lemon-rare-cheese",
+          "publishedOn": "2024-03-04T08:28:08.000Z",
+          "wordCount": 1889,
+          "title": "明治 エッセル スーパーカップ レモンのレアチーズ【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/ab3f137163d4d1533c8f54de947c0ed4.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=237976",
           "author": "foodfighter",
@@ -24018,16 +24058,6 @@
           "wordCount": 1850,
           "title": "【セブンイレブン】チーズソースのトマトパスタ【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/4140bfb40aa2f8bdffbd6ce219235155.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=234998",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、定食メニューはいつでもご飯がセルフサービスでおかわり自由の有名人気チェーン「やよい軒」へ進撃しました […]",
-          "link": "https://foodfighter.jp/yayoiken-chicken-nanban",
-          "publishedOn": "2024-02-03T21:46:56.000Z",
-          "wordCount": 1879,
-          "title": "【やよい軒】チキン南蛮定食【定番メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/71764cb8be4c2dd98aa57dcfcd0b0723.jpg"
         }
       ]
     },
@@ -27872,16 +27902,6 @@
           "wordCount": 1391,
           "title": "ママ猫もたまにはひとりの時間が欲しいのにゃ〜",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67840.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67803",
-          "author": "299",
-          "description": "チンチラシルバーの子猫がバスケットの中に入ってじっとつぶらな瞳でこちらをじっと見つめてきています。 毛足も長くて小さい時からすでにゴージャスで洗練された雰囲気を持つ子猫は、さすがに最高に気品がありますね。 そんな子猫のた...\n可愛すぎる子猫にウットリ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67803",
-          "publishedOn": "2024-02-03T22:00:00.000Z",
-          "wordCount": 1392,
-          "title": "可愛すぎる子猫にウットリ",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67803.jpg"
         }
       ]
     },
@@ -29497,6 +29517,26 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033577.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(やわらか銀行) [NL]：2024/03/03(日) 14:32:49.42 ID:iw08YXYx0●.net\n\n\n\n\n\n\n\n\n\nSNS他人に厳しい人多くない⁉️笑— やす子 (@yasuko_sma) February 29, 2024 \n\n\n\n\n\n\n\n\n\nやす子「SNS他人に厳しい人多くない！？」に15万いいね「本当にそう」...",
+          "link": "https://itainews.com/archives/2033577.html",
+          "publishedOn": "2024-03-04T10:01:28.000Z",
+          "wordCount": 2595,
+          "title": "【正論】やす子「SNSって他人に厳しいよね」→15万いいね　お前ら言われてっぞwwwwwwwww",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/2/c2e0fc73-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2033578.html",
+          "author": "damono3856",
+          "description": "1 名前：香味焙煎 ★ ：2024/03/04(月) 00:18:50.40 ID:WyiO3B4T9.net\n\n\n\n\n\n\n\n数十㌔泳いで渡った？　家島諸島に大量のイノシシで被害急拡大 https://t.co/54XVmtNOzB 姫路市や県中播磨県民センターによると、数年前から幼稚園の園庭や高校の校庭、通学時間帯の通学路な...",
+          "link": "https://itainews.com/archives/2033578.html",
+          "publishedOn": "2024-03-04T09:02:21.000Z",
+          "wordCount": 2802,
+          "title": "数十キロ泳いで渡った？　家島諸島に大量のイノシシで被害急拡大",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/7/a7e2f437-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033575.html",
           "author": "yonepo665sfr",
@@ -32806,16 +32846,6 @@
           "wordCount": 2395,
           "title": "【サッカー】伊東純也の性加害報道でスポンサー撤退ラッシュ 『キリン』にモザイクがかかる",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/d/2d9e5478-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032771.html",
-          "author": "damono3856",
-          "description": "1 名前：おっさん友の会 ★\n2024/02/03(土) 14:17:58.72ID:Lr0QvGWg9\n\n\n\n\n\n\n\nコオロギ養殖ベンチャー、創業3年足らずで破産。地元経済界などから融資を集める反面“クラファン大爆死”など一般消費者の理解は広がらず？ https://t.co/X5CwuC8PzK— MONEY VOICE (@MONEYVO...",
-          "link": "https://itainews.com/archives/2032771.html",
-          "publishedOn": "2024-02-03T20:17:33.000Z",
-          "wordCount": 2262,
-          "title": "コオロギ養殖ベンチャー、創業3年足らずで破産…地元経済界などから融資を集める反面“クラファン大爆死”",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/2/c24df0c8-s.png"
         }
       ]
     },
