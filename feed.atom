@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T23:37:07.767Z</updated>
+    <updated>2024-03-04T23:50:34.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛媛 発砲事件 暴力団幹部を岡山県内で確保 殺人疑いで逮捕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379311000.html"/>
+        <updated>2024-03-04T23:47:42.000Z</updated>
+        <summary type="html"><![CDATA[ことし1月、愛媛県四国中央市の商業施設の敷地内にあるカフェで男性が拳銃のようなもので撃たれて殺害された事件で、警察は指名手配していた暴力団幹部を5日、岡山県内で確保し、殺人の疑いで逮捕しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京23区 2月の消費者物価指数 前年同月日2.5％↑ 上昇率拡大]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379301000.html"/>
+        <updated>2024-03-04T23:43:11.000Z</updated>
+        <summary type="html"><![CDATA[東京23区の2月の消費者物価指数は、速報値で、天候による変動が大きい生鮮食品を除いた指数が、去年の同じ月より2.5％上昇しました。上昇率は、前の月・1月の1.8％から、0.7ポイント上がり、4か月ぶりに拡大しました。これまで上昇率を押し下げてきた政府による電気代とガス代の負担軽減策が開始から1年がたち、一巡したことで、その効果がなくなり、上昇率が拡大した形です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI使った「自律型兵器システム」の規制を目指す国際会議始まる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240305/k10014379161000.html</id>
