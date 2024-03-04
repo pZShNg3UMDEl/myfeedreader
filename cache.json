@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120704/",
+          "author": null,
+          "description": "新海誠監督作「すずめの戸締まり」が、4月5日午後9時から日本テレビ系「金曜ロードショー」で本編ノーカットで地上波初放送されることが決定した。エンディングでは、新海監督が本作の企画書に描きこんだイ...",
+          "link": "https://anime.eiga.com/news/120704/",
+          "publishedOn": "2024-03-04T03:00:00.000Z",
+          "wordCount": 875,
+          "title": "「すずめの戸締まり」金曜ロードショーで4月5日に地上波初放送　新海誠監督のイラストを使用した特別映像を初公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120644/",
           "author": null,
           "description": "「怪盗グルー」シリーズの7年ぶりの最新作「DESPICABLE ME 4（原題）」が、「怪盗グルーのミニオン超変身」の邦題で7月19日から全国公開されることが決定した。日本語吹き替え版にはグルー...",
@@ -5860,6 +5875,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378411000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題で、安倍派の事務総長を務めた下村 元政務調査会長は自身のSNSなどで、今後、衆議院政治倫理審査会が開催されれば、党と相談して出席し、説明責任を果たしたいという考えを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378411000.html",
+          "publishedOn": "2024-03-04T02:35:01.000Z",
+          "wordCount": 619,
+          "title": "下村元政調会長 今後の衆院政倫審 開催されれば出席の意向",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378411_2403041127_0304113503_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378391000.html",
+          "author": null,
+          "description": "ことし秋のアメリカ大統領選挙に向けて首都ワシントンで行われた野党・共和党の予備選挙で、アメリカの主要メディアは、トランプ前大統領と争うヘイリー元国連大使が勝利を確実にしたと伝えました。予備選挙など一連の候補者選びでヘイリー氏が勝利を確実にするのは、初めてです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378391000.html",
+          "publishedOn": "2024-03-04T02:08:34.000Z",
+          "wordCount": 547,
+          "title": "米大統領選 ヘイリー氏ワシントンで勝利確実 共和党予備選挙",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378391_2403041105_0304110836_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378371000.html",
+          "author": null,
+          "description": "能登半島地震で活動するボランティアの宿泊先の確保が課題になる中、石川県珠洲市ではキャンプ場にテントを設置して、ボランティアの滞在拠点にする取り組みが始まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378371000.html",
+          "publishedOn": "2024-03-04T02:01:24.000Z",
+          "wordCount": 572,
+          "title": "ボランティアの宿泊先確保 キャンプ場にテント設置 石川 珠洲",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378371_2403041019_0304110126_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378301000.html",
           "author": null,
@@ -22359,16 +22404,6 @@
           "wordCount": 653,
           "title": "米軍が報復で空爆 イランの軍事関連施設など 45人死亡か",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014346601_2402040452_0204050113_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346661000.html",
-          "author": null,
-          "description": "スキージャンプ女子のワールドカップがドイツで行われ高梨沙羅選手が2位に入り、今シーズン初めて表彰台に上がりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014346661000.html",
-          "publishedOn": "2024-02-03T14:19:03.000Z",
-          "wordCount": 680,
-          "title": "スキージャンプ女子W杯 高梨沙羅が2位 今シーズン初表彰台",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346661_2402032301_0203231031_01_02.jpg"
         }
       ]
     },
@@ -27687,16 +27722,6 @@
           "wordCount": 1397,
           "title": "飼い主さんの遊びに戸惑う子猫が可愛い",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67836.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67765",
-          "author": "299",
-          "description": "小さな箱の中にマンチカンの子猫が入って爆睡しているようです。 箱から前足をダランと垂らした格好で頭は後ろにのけぞるようにしていて、ふにゃふにゃになった状態で深い眠りに落ちているようです。 そんな気持ちよく寝ている子猫の前...\n気持ちよく昼寝していたのに邪魔されてしまいます first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67765",
-          "publishedOn": "2024-02-03T14:45:16.000Z",
-          "wordCount": 1404,
-          "title": "気持ちよく昼寝していたのに邪魔されてしまいます",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67765.jpg"
         }
       ]
     },
@@ -27711,6 +27736,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=70622",
+          "author": "多根清史",
+          "description": "今年初め、Googleが次期スマートウォッチ「Pixel Watch 3」に2つのサイズを準備中との噂をお伝えした。現行のPixel Watch 2は41mmの1種類だが、より大きなサイズが追加されるというものだ。 そのサイズが具体的には45mmであることや、新型ワイヤレスイヤホン「Pixel Bu […]",
+          "link": "https://gadget.phileweb.com/post-70622/",
+          "publishedOn": "2024-03-04T02:49:56.000Z",
+          "wordCount": 812,
+          "title": "Pixel Watch 3、41mmと45mmの2サイズ展開か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_2247376461-1.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=70568",
           "author": "編集部：平山洸太",
@@ -29262,6 +29297,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033572.html",
+          "author": "yonepo665sfr",
+          "description": "1 名前：うんち[] 投稿日：2024/03/03(日) 09:12:36.31 ID:b1mRzD0O0.net \n\n\n\n\n\n\n\nいいか！ニセコのリッツカールトンはな！ハンバーガー9600円で、野菜サンド5600円や🥶！ pic.twitter.com/ppivcplCCB— ROE (@ROE_ROE_ROE) March 2, 2024 \n\n\n\n\n\n\n\n\nソース\nhttps://imgur...",
+          "link": "https://itainews.com/archives/2033572.html",
+          "publishedOn": "2024-03-04T03:01:42.000Z",
+          "wordCount": 2355,
+          "title": "ニセコのリッツカールトンのおにぎり2000円→日本人が高い高いと大騒ぎ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/4/a4ce19d3-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033569.html",
           "author": "yonepo665sfr",
@@ -32541,16 +32586,6 @@
           "wordCount": 2262,
           "title": "コオロギ養殖ベンチャー、創業3年足らずで破産…地元経済界などから融資を集める反面“クラファン大爆死”",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/2/c24df0c8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032770.html",
-          "author": "damono3856",
-          "description": "1 名前：お断り ★：2024/02/03(土) 12:21:12.28 ID:tPAcNcCE9.net\n\n\n\n\n\n\n\n「不満いっぱいですよ、国に対しては」（川口市長）埼玉県川口市は去年、外国人の“仮放免”をめぐり、国に異例の要望書を提出しました。“仮放免”の人の就労などを認めてほしいといった内容で...",
-          "link": "https://itainews.com/archives/2032770.html",
-          "publishedOn": "2024-02-03T14:07:54.000Z",
-          "wordCount": 2274,
-          "title": "埼玉県・川口市「国に対して不満いっぱい」「不法行為を行う外国人は法に基づき厳格に強制送還等して」国に異例の訴え",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/1/e1ec2f49-s.png"
         }
       ]
     },
