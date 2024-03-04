@@ -2824,21 +2824,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120486/",
-          "author": null,
-          "description": "テレビアニメ「出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした」に、栗坂南美、鬼頭明里、雨宮天が出演することがわかった。あわせて、本PV、キービジュアルも公開。オー...",
-          "link": "https://anime.eiga.com/news/120486/",
-          "publishedOn": "2024-02-03T12:00:00.000Z",
-          "wordCount": 766,
-          "title": "「出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした」に栗坂南美、鬼頭明里、雨宮天　主題歌収録の本PVなど公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2847,6 +2832,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98872",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/03(日) 20:59:51.45 ID:6U3juFGV00303 まあDQ […]",
+          "link": "https://switchsoku.com/soft/dragonquest/98872",
+          "publishedOn": "2024-03-04T00:00:58.000Z",
+          "wordCount": 10184,
+          "title": "Switch「今日で現役7年目なのに、まだ一度もDQナンバリング最新弾を出してもらえてません」←これ",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/04/dq12-logo-2023.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98868",
           "author": "SWITCH速報",
@@ -5116,16 +5111,6 @@
           "wordCount": 10073,
           "title": "Switchのフルパワーを実感出来るベンチマーク的なゲームってどれ？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/04/switchtv.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97807",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/02(金) 07:49:09.14 ID:ni/OhFDgp0202 細かい経 […]",
-          "link": "https://switchsoku.com/leak/97807",
-          "publishedOn": "2024-02-03T12:00:23.000Z",
-          "wordCount": 10095,
-          "title": "『Hi-Fi Rush』ガチでSwichにも登場か！？PC版のデータ解析により発見",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/hi-fi-rush-switch.webp"
         }
       ]
     },
@@ -5610,16 +5595,6 @@
           "wordCount": 4391,
           "title": "服を買う筋肉がない",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9473",
-          "author": "watanabe@logipara.com",
-          "description": "なんでも口にいれちゃう47歳児なので、目に留まる健康モノにはとりあえず手を出しています。 そんなワタナベさんが今回、無邪気に頬張ったのが 「育毛薬を頭皮に注入することでハゲを治す治療法」 値段は、お試し価格で1万円。俺た […]",
-          "link": "https://logipara.com/health/2024-02-04",
-          "publishedOn": "2024-02-03T12:56:57.000Z",
-          "wordCount": 4463,
-          "title": "頭皮に育毛剤を注入した話",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/02/PXL_20240203_063703794-scaled.jpg"
         }
       ]
     },
@@ -5875,6 +5850,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378131000.html",
+          "author": null,
+          "description": "週明けの4日の東京株式市場、日経平均株価は値上がりして4万円を突破し、取り引き時間中の史上最高値を更新しました。日経平均株価は先月22日にバブル期につけた最高値をおよそ34年ぶりに更新しましたが、その後もアメリカの株高などを背景に上昇が続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378131000.html",
+          "publishedOn": "2024-03-04T00:17:19.000Z",
+          "wordCount": 822,
+          "title": "【ライブ】日経平均株価 4万円を突破 史上最高値を更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378131_2403040903_0304090755_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378351000.html",
+          "author": null,
+          "description": "財務省の法人企業統計調査によりますと、去年10月から12月までの国内の企業の設備投資は前の年の同じ時期よりも16.4％増えました。このうち製造業は20.6％増加し、非製造業は14.2％増えました。また、国内の企業の経常利益は、前の年の同じ時期よりも13.0％増えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240304/k10014378351000.html",
+          "publishedOn": "2024-03-04T00:06:31.000Z",
+          "wordCount": 538,
+          "title": "国内企業の設備投資 去年10～12月 前年同期比16.4％増",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240304/K10014378351_2403040859_0304090612_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240304/k10014378331000.html",
           "author": null,
@@ -22374,26 +22369,6 @@
           "wordCount": 539,
           "title": "サッカーアジア杯 準々決勝イランに敗れ日本はベスト4ならず",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346651_2402032225_0203222845_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346301000.html",
-          "author": null,
-          "description": "来月開業する北陸新幹線の金沢・敦賀間で、一般向けの試乗会が行われ、一足早く、新たな区間での走行を体験しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014346301000.html",
-          "publishedOn": "2024-02-03T12:06:44.000Z",
-          "wordCount": 845,
-          "title": "北陸新幹線 一般向けの試乗会 新区間の金沢・敦賀間の走行体験",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346301_2402031656_0203172002_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240203/k10014346631000.html",
-          "author": null,
-          "description": "フィギュアスケートの四大陸選手権は3日、男子シングル後半のフリーが行われ、日本の鍵山優真選手が前半との合計が300点を超える圧倒的な強さで初優勝しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240203/k10014346631000.html",
-          "publishedOn": "2024-02-03T11:59:01.000Z",
-          "wordCount": 750,
-          "title": "フィギュア四大陸選手権 鍵山優真が圧倒的強さで初優勝",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240203/K10014346631_2402032054_0203205523_01_02.jpg"
         }
       ]
     },
@@ -23858,16 +23833,6 @@
           "wordCount": 1879,
           "title": "【やよい軒】チキン南蛮定食【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/71764cb8be4c2dd98aa57dcfcd0b0723.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=234969",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「野菜と食べる温玉ビビンバ（もち麦ごはん）」を世界一詳しく調査しました。   公式YouTub […]",
-          "link": "https://foodfighter.jp/711sej-bibinba-ontama",
-          "publishedOn": "2024-02-03T11:52:08.000Z",
-          "wordCount": 1851,
-          "title": "【セブンイレブン】野菜と食べる温玉ビビンバ（もち麦ごはん）【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/f48871444efb801b9905b1502115695a.jpg"
         }
       ]
     },
@@ -23876,6 +23841,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/04/news077.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、30Vの「NチャンネルTrenchFET Gen VパワーMOSFET」の製品として「SiSD5300DN」を発表した。ソースフリップ技術を用いた3.3×3.3mmサイズのPowerPAK1212-Fパッケージで提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/04/news077.html",
+          "publishedOn": "2024-03-04T00:00:00.000Z",
+          "wordCount": 2606,
+          "title": "オン抵抗を0.71mΩまで低減した30V NチャネルパワーMOSFET",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/04/cover_news077.jpg"
+        },
         {
           "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news001.html",
           "author": null,
@@ -24163,6 +24138,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69702",
+          "author": "299",
+          "description": "トラ猫さんが高いフェンスを物ともせずに、身軽にジャンプし乗り越えてきました。口にはトラのぬいぐるみをくわえているようです。 実はこのトラのぬいぐるみは、トラ猫さんが住んでいるお家の隣人が貸してくれたものです。 普段から親...\n猫さんの密かな楽しみ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69702",
+          "publishedOn": "2024-03-04T00:00:54.000Z",
+          "wordCount": 1343,
+          "title": "猫さんの密かな楽しみ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69702.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69661",
           "author": "299",
@@ -29248,6 +29233,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2033569.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/03/03(日) 15:08:07.29 ID:8PydT96Z0●.net\n\n\n\n\n\n\n\n\n\n「小中学校入学式の撮影カメラマン」をXで募集に批判殺到　投稿削除も不安の声　「怖い」「説明を」（スポニチアネックス）#Yahooニュース https://t.co/zAj8GlbVUs— ミャ王 (@ara...",
+          "link": "https://itainews.com/archives/2033569.html",
+          "publishedOn": "2024-03-04T00:01:58.000Z",
+          "wordCount": 2498,
+          "title": "小中学校の入学式の記念撮影にカメラオタク100人を募集、炎上",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/b/fb1b1605-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2033561.html",
           "author": "damono3856",
           "description": "1 名前：PARADISE ★：2024/03/03(日) 10:06:03.30 ID:vFa3lDFf9.net\n\n\n\n\n\n\n\n電気自動車、タイヤの減りが早すぎる。交換ペースがガソリン車の倍以上だった｜BUSINESS INSIDER https://t.co/59L8EBbpFY— 春よ、来い！ (@ic7400m) March 3, 2024  \n\n\n\n\n\n\n急加速と重さの二...",
@@ -32536,16 +32531,6 @@
           "wordCount": 2358,
           "title": "南海電鉄入店禁止の居酒屋。社員11人3時間で5万6000円ひとり5090円は高いボッタクりだ！←警察沙汰",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46d09182-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032767.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：ネギうどん ★：2024/02/02(金) 12:18:18.66 ID:CUtRr/zE9.net\n\n\n\n\n\n\n\n\n\n【芸能】小泉今日子“クイズ番組で霜降り牛肉もらう”おかしさを指摘…「バラエティくだらない」はテレビへの苦言 https://t.co/G8lexjLNXX #日刊ゲンダイDIGITAL #小泉今日子 #ジャニー喜多川...",
-          "link": "https://itainews.com/archives/2032767.html",
-          "publishedOn": "2024-02-03T12:01:24.000Z",
-          "wordCount": 2419,
-          "title": "小泉今日子　“クイズ番組で霜降り牛肉もらう” おかしさを指摘「お金持ちじゃん」 「バラエティくだらない」はTVへの苦言",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/d/bd9d57bb-s.png"
         }
       ]
     },
