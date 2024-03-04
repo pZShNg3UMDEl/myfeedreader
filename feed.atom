@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T20:24:46.572Z</updated>
+    <updated>2024-03-04T20:36:26.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パリオリンピック・パラリンピック 公式ポスター発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379071000.html"/>
+        <updated>2024-03-04T20:34:22.000Z</updated>
+        <summary type="html"><![CDATA[ことしの夏にパリで開幕するオリンピックとパラリンピックの公式ポスターが発表され、エッフェル塔を中心に、多くの競技や観客が書き込まれたカラフルなポスターがお披露目されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宮崎「かつお一本釣り漁」シーズン到来で初がつおPRイベント]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014378621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014378621000.html"/>
+        <updated>2024-03-04T20:30:40.000Z</updated>
+        <summary type="html"><![CDATA[近海での「かつお一本釣り漁」が盛んな宮崎県で、今シーズンの水揚げが本格化している初がつおをPRするイベントが始まり、宮崎市の市場でシーズンの到来を宣言しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【軍事】ロシア、中国の自国侵略に深い懸念 流出文書で明らかに]]></title>
         <id>https://itainews.com/archives/2033588.html</id>
