@@ -5956,6 +5956,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240305/k10014379041000.html",
+          "author": null,
+          "description": "中国で重要政策を決める全人代＝全国人民代表大会が5日から北京で始まります。景気の先行きに不透明感が広がる中、経済成長率の目標をどのような水準に設定するかなどが焦点です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240305/k10014379041000.html",
+          "publishedOn": "2024-03-04T19:31:31.000Z",
+          "wordCount": 468,
+          "title": "中国 きょうから全人代 経済成長率の目標水準の設定など焦点",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240305/K10014379041_2403042023_0305043134_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240305/k10014378981000.html",
           "author": null,
           "description": "NHKが、国内の主な企業100社を対象に行ったアンケートで、生成AIを活用していると回答したのは86社に上りました。このうち、高度な業務や専門的な業務での利用は36社でした。",
@@ -22474,36 +22484,6 @@
           "wordCount": 764,
           "title": "石川 能登町 被災農家がネット販売「復興しいたけ」数日で完売",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347131_2402041619_0204162225_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347051000.html",
-          "author": null,
-          "description": "スキーフリースタイル、モーグルのワールドカップは、アメリカでデュアルモーグルが行われ初めての総合優勝を目指す堀島行真選手が優勝しました。堀島選手は、ワールドカップでシーズン自己最多となる4勝目です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347051000.html",
-          "publishedOn": "2024-02-04T07:29:21.000Z",
-          "wordCount": 597,
-          "title": "スキー モーグルW杯 デュアルモーグルで堀島行真が優勝",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347051_2402041537_0204162923_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347071000.html",
-          "author": null,
-          "description": "地震の影響で断水が続く石川県輪島市で市内の美容室が営業を再開し、さっそく訪れて髪をカットした客の中には「髪を切るのは3か月ぶりですっきりしました」と話す人もいました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347071000.html",
-          "publishedOn": "2024-02-04T07:24:34.000Z",
-          "wordCount": 776,
-          "title": "断水続く石川 輪島で美容室が営業再開",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347071_2402041549_0204155412_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240204/k10014347061000.html",
-          "author": null,
-          "description": "5万9000人以上が死亡したトルコ・シリア大地震から6日で1年となります。トルコの被災地では街の再建が進められていますが、今も多くの人たちがコンテナの仮設住宅での生活を余儀なくされているほか、人口の流出や産業の空洞化への対応も大きな課題となっていて、復興の道のりは険しいものとなっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240204/k10014347061000.html",
-          "publishedOn": "2024-02-04T07:21:58.000Z",
-          "wordCount": 832,
-          "title": "トルコ・シリア大地震から1年 今も70万人近くが仮設住宅で生活",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240204/K10014347061_2402041534_0204160800_01_02.jpg"
         }
       ]
     },
