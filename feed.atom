@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T20:35:45.841Z</updated>
+    <updated>2024-03-05T20:51:21.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ドクタージェット」クラファン目標大きく下回り寄付呼びかけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380351000.html"/>
+        <updated>2024-03-05T20:35:31.000Z</updated>
+        <summary type="html"><![CDATA[小型のジェット機で重症の子どもを遠く離れた医療機関に運ぶ「ドクタージェット」の試験運航を目指すNPOは、クラウドファンディングで集まった資金が目標を大きく下回ったことを明らかにしました。試験運航は予定どおり来月から始めるということですが、搬送回数が少なくなるため、さらなる寄付を呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカ大統領選 スーパーチューズデーまもなく開票へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240306/k10014380281000.html</id>
@@ -36900,16 +36910,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <summary type="html"><![CDATA[劇場アニメ「機動戦士ガンダム SEED FREEDOM」が、1月26日から2月4日までの公開10日間で観客動員121万5558人、興行収入19億6592万2900円となる好成績を記録している。 ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 珠洲 市内で初の仮設住宅 あす完成 2月9日から入居開始へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348131000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348131000.html"/>
-        <updated>2024-02-05T08:38:39.000Z</updated>
-        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県珠洲市で6日、市内で初めての仮設住宅が完成し、今月9日から入居が始まることになりました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
