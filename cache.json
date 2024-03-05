@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120717/",
+          "author": null,
+          "description": "テレビアニメ「この素晴らしい世界に祝福を！3」が4月10日から放送されることが決まり、主題歌と第2弾PVが発表された。カズマ、アクア、めぐみん、ダクネス、クリス、アイリスのキャラクタービジュアル...",
+          "link": "https://anime.eiga.com/news/120717/",
+          "publishedOn": "2024-03-05T03:00:00.000Z",
+          "wordCount": 914,
+          "title": "「このすば」第3期OP主題歌はおなじみMachicoが担当　新キャラ登場の第2弾PV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120716/",
           "author": null,
           "description": "小学館の漫画配信サイト「週刊コロコロコミック」で連載中の「Duel Masters LOST ～追憶の水晶～」のアニメ化が決定した。アニメーション制作を「ダンジョンに出会いを求めるのは間違ってい...",
@@ -22484,16 +22499,6 @@
           "wordCount": 540,
           "title": "能登半島地震から5週間 石川 今も1万人以上が厳しい避難生活",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347341_2402042045_0205040018_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347271000.html",
-          "author": null,
-          "description": "橋や水道などのインフラの老朽化が全国各地で課題となる中、JR西日本やNTTグループ、メガバンクなど大手6社が共同で自治体を支援する新たな事業を始めることになりました。複数の自治体の連携を促し、資金調達なども支援します。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014347271000.html",
-          "publishedOn": "2024-02-04T15:00:39.000Z",
-          "wordCount": 483,
-          "title": "インフラ老朽化問題 大手6社が共同で自治体支援の新事業開始へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347271_2402041957_0204201009_01_02.jpg"
         }
       ]
     },
@@ -27857,6 +27862,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=70783",
+          "author": "編集部：平山洸太",
+          "description": "アップルは、M3チップを搭載する「MacBook Air」の新型を発表。13インチと15インチの2つのサイズをラインナップする。従来のM2チップ搭載モデルについては、値下げされて販売継続される。 なお、M2チップ搭載モデルも13インチと15インチの2サイズ展開がされていたが、このうち販売継続されるの […]",
+          "link": "https://gadget.phileweb.com/post-70783/",
+          "publishedOn": "2024-03-05T03:13:32.000Z",
+          "wordCount": 754,
+          "title": "M2搭載のMacBook Airが値下げ、最大3万円安く。15インチは販売終了",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/macbookair.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=70755",
           "author": "Munenori Taniguchi",
           "description": "アップルがSoCにM3チップを搭載する新型MacBook Airを発表した。画面サイズ13インチと15インチの2モデルが用意される。いずれもすでに予約受付を開始しており、発売日は3月8日となっている。 価格は、13インチが16万4800円（学生・教職員は14万9800円）から、15インチが19万88 […]",
@@ -29467,6 +29482,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033598.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：冬月記者 ★：2024/03/04(月) 18:32:32.52 ID:FO697SY79.net\n\n\n\n\n\n\n\n\n文芸春秋総局長、松本人志問題は「刑事事件として立件するのは不可能」「客観的な証拠はない」と発言/芸能/デイリースポーツ online https://t.co/Pnj4DSJFBW #DailySports— デイリースポーツ (@...",
+          "link": "https://itainews.com/archives/2033598.html",
+          "publishedOn": "2024-03-05T03:01:51.000Z",
+          "wordCount": 2454,
+          "title": "『週刊文春』発行元　文芸春秋・新谷総局長、松本人志問題は「刑事事件として立件するのは不可能」「客観的な証拠はない」と発言",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/8/185151c6-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033597.html",
           "author": "yonepo665sfr",
