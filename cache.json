@@ -5916,6 +5916,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380231000.html",
+          "author": null,
+          "description": "低気圧の影響で関東甲信では山沿いで大雪になっているところがあるほか、南部の平地でも一時雪が降りました。気象庁は積雪による交通への影響や路面の凍結に十分注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380231000.html",
+          "publishedOn": "2024-03-05T22:19:49.000Z",
+          "wordCount": 701,
+          "title": "関東甲信 山沿いで大雪 中央道やJR中央本線など交通に影響",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380231_2403060717_0306071951_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380521000.html",
+          "author": null,
+          "description": "5日のニューヨーク株式市場はハイテク株を中心に利益を確定するための売り注文が増え、ダウ平均株価は一時、500ドルを超える大幅な値下がりとなりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380521000.html",
+          "publishedOn": "2024-03-05T22:14:50.000Z",
+          "wordCount": 681,
+          "title": "NYダウ 一時500ドル超の大幅な値下がり",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380521_2403060659_0306070253_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380431000.html",
           "author": null,
           "description": "ロシアによるウクライナへの軍事侵攻を受けてEU＝ヨーロッパ連合は、域内の防衛産業の強化を図るため、加盟国が2030年までに新たな装備の50％を域内で調達することを目指す新たな戦略を発表しました。",
@@ -22494,36 +22514,6 @@
           "wordCount": 429,
           "title": "東京 世田谷区 杉並区 練馬区に大雪警報 23区では去年2月以来",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348361_2402051935_0205194837_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348281000.html",
-          "author": null,
-          "description": "石川県は、能登半島地震で県内外のホテルや旅館に2次避難している人たちを対象に今後の住まいや支援制度についての説明会を7日から順次、開催することを明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348281000.html",
-          "publishedOn": "2024-02-05T10:22:08.000Z",
-          "wordCount": 808,
-          "title": "石川県 2次避難者対象に説明会開催へ 今後の住まいや支援制度",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348281_2402051841_0205185816_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348001000.html",
-          "author": null,
-          "description": "犯罪被害者の遺族などに支払われている「犯罪被害者等給付金」について、警察庁は支給額を大幅に引きあげる方針を固めました。被害者が子どもだったり、収入が少なかったりするケースでは、これまで支給額が低く抑えられてきましたが、こうしたケースについて、本人や遺族への支援を拡充することにしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348001000.html",
-          "publishedOn": "2024-02-05T10:18:00.000Z",
-          "wordCount": 420,
-          "title": "「犯罪被害者等給付金」支給額を大幅に引きあげる方針 警察庁",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348001_2402051829_0205183213_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348261000.html",
-          "author": null,
-          "description": "アサヒビールの元社長でNHKの会長を務めた福地茂雄氏が先月29日、脳出血のため都内の病院で亡くなりました。89歳でした。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348261000.html",
-          "publishedOn": "2024-02-05T10:13:27.000Z",
-          "wordCount": 628,
-          "title": "NHK元会長 福地茂雄氏が死去 89歳 アサヒビール社長など歴任",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348261_2402051822_0205191329_01_02.jpg"
         }
       ]
     },

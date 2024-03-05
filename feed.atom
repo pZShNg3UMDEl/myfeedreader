@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T22:11:49.253Z</updated>
+    <updated>2024-03-05T22:27:42.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[関東甲信 山沿いで大雪 中央道やJR中央本線など交通に影響]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380231000.html"/>
+        <updated>2024-03-05T22:19:49.000Z</updated>
+        <summary type="html"><![CDATA[低気圧の影響で関東甲信では山沿いで大雪になっているところがあるほか、南部の平地でも一時雪が降りました。気象庁は積雪による交通への影響や路面の凍結に十分注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYダウ 一時500ドル超の大幅な値下がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380521000.html"/>
+        <updated>2024-03-05T22:14:50.000Z</updated>
+        <summary type="html"><![CDATA[5日のニューヨーク株式市場はハイテク株を中心に利益を確定するための売り注文が増え、ダウ平均株価は一時、500ドルを超える大幅な値下がりとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロの手にかかった猫たちはふわふわの美猫に変身！]]></title>
         <id>https://2-9-9.com/?p=69784</id>
@@ -36801,36 +36821,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <summary type="html"><![CDATA[BS12トゥエルビで毎週日曜午後7時から放送中の「日曜アニメ劇場」で、2月4日から以下の作品が放送されている（2月4日分は放送ずみ）。2月4日 「機動戦士ガンダムSEED DESTINY スペシ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川県 2次避難者対象に説明会開催へ 今後の住まいや支援制度]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348281000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348281000.html"/>
-        <updated>2024-02-05T10:22:08.000Z</updated>
-        <summary type="html"><![CDATA[石川県は、能登半島地震で県内外のホテルや旅館に2次避難している人たちを対象に今後の住まいや支援制度についての説明会を7日から順次、開催することを明らかにしました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「犯罪被害者等給付金」支給額を大幅に引きあげる方針 警察庁]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348001000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348001000.html"/>
-        <updated>2024-02-05T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[犯罪被害者の遺族などに支払われている「犯罪被害者等給付金」について、警察庁は支給額を大幅に引きあげる方針を固めました。被害者が子どもだったり、収入が少なかったりするケースでは、これまで支給額が低く抑えられてきましたが、こうしたケースについて、本人や遺族への支援を拡充することにしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHK元会長 福地茂雄氏が死去 89歳 アサヒビール社長など歴任]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348261000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348261000.html"/>
-        <updated>2024-02-05T10:13:27.000Z</updated>
-        <summary type="html"><![CDATA[アサヒビールの元社長でNHKの会長を務めた福地茂雄氏が先月29日、脳出血のため都内の病院で亡くなりました。89歳でした。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
