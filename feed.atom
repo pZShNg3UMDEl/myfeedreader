@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T22:50:26.284Z</updated>
+    <updated>2024-03-05T23:12:10.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東北新幹線 大宮-仙台の上下線 運転見合わせ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380541000.html"/>
+        <updated>2024-03-05T22:57:02.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本によりますと、東北新幹線は郡山駅で車両点検を行っている影響で、午前7時半ごろから大宮駅と仙台駅の間の上下線で運転を見合わせています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[関東甲信 山沿いで大雪 中央道やJR中央本線など交通に影響]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240306/k10014380231000.html</id>
@@ -36726,62 +36736,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <summary type="html"><![CDATA[能登半島地震による住宅の被害で自宅に住めなくなっている人たちを対象にした石川県の県営住宅などの2度目の入居の受け付けが5日から始まりました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 能登町と羽咋市で災害ボランティアの受け入れ開始へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240205/k10014348321000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014348321000.html"/>
-        <updated>2024-02-05T11:08:35.000Z</updated>
-        <summary type="html"><![CDATA[災害ボランティアについて、石川県能登町は2月8日から、また、羽咋市は2月10日から受け入れを始めることになりました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チリ森林火災、99人死亡　消息不明300人か]]></title>
-        <id>https://itainews.com/archives/2032816.html</id>
-        <link href="https://itainews.com/archives/2032816.html"/>
-        <updated>2024-02-05T11:06:52.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：蚤の市 ★：2024/02/05(月) 06:30:04.92 ID:a7PJYniV9.net
-
-
-
-
-
-
-
-チリ森林火災、99人死亡 消息不明300人か https://t.co/X603Twgiac #主要ニュース #47NEWS— 47NEWS (@47news_official) February 4, 2024  
-
-
-
-
-
-
-　【サンパウロ共同】チリ中部や南部で大規模...]]></summary>
-        <author>
-            <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お母さん猫に甘える子猫の姿が可愛すぎ]]></title>
-        <id>https://2-9-9.com/?p=67883</id>
-        <link href="https://2-9-9.com/archives/67883"/>
-        <updated>2024-02-05T11:00:58.000Z</updated>
-        <summary type="html"><![CDATA[可愛い表情のなかにもキリッとした雰囲気のある子猫がベッドの中でご機嫌な様子でひとり遊びをしています。 そこへお母さん猫が戻ってきました。まったりくつろぐお母さん猫のすぐそばで、子猫は寝転んでとてもリラックスしているようで...
-お母さん猫に甘える子猫の姿が可愛すぎ first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「沖縄で好きになった子が方言すぎてツラすぎる」主役は大塚剛央、ヒロイン役に鬼頭明里＆ファイルーズあい　ティザービジュアル公開]]></title>
-        <id>https://anime.eiga.com/news/120529/</id>
-        <link href="https://anime.eiga.com/news/120529/"/>
-        <updated>2024-02-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[空えぐみ氏による人気漫画をテレビアニメ化する「沖縄で好きになった子が方言すぎてツラすぎる」に、大塚剛央、鬼頭明里、ファイルーズあいの出演が決定した。あわせて、特報映像やティザービジュアルも公開さ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
