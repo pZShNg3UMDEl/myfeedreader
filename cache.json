@@ -2869,21 +2869,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120531/",
-          "author": null,
-          "description": "劇場アニメ「機動戦士ガンダム SEED FREEDOM」が、1月26日から2月4日までの公開10日間で観客動員121万5558人、興行収入19億6592万2900円となる好成績を記録している。 ...",
-          "link": "https://anime.eiga.com/news/120531/",
-          "publishedOn": "2024-02-05T09:00:00.000Z",
-          "wordCount": 763,
-          "title": "「機動戦士ガンダム SEED FREEDOM」公開10日間で動員121万人、興収19.6億円突破　2月9日からの入場特典はコマフィルム",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -5960,6 +5945,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380191000.html",
+          "author": null,
+          "description": "派閥の政治資金パーティーをめぐる問題の関係議員の処分について、自民党は、派閥内での役割などを踏まえながら、内容や対象範囲を慎重に判断する方針です。一方、参議院では、来週にも政治倫理審査会が開催される見通しで、出席議員などについて与野党の協議が本格化します。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380191000.html",
+          "publishedOn": "2024-03-05T21:04:39.000Z",
+          "wordCount": 452,
+          "title": "自民“議員の処分 内容や対象範囲を慎重に判断” 政治資金問題",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380191_2403052021_0305223438_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380251000.html",
+          "author": null,
+          "description": "中国で5日、始まった全人代＝全国人民代表大会で、ことしの国防費は去年と比べて7.2％多い、日本円にして34兆円余りとなることが明らかになりました。景気の先行きに不透明感が強まる中でも軍備増強を進める姿勢を鮮明にしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380251000.html",
+          "publishedOn": "2024-03-05T21:00:55.000Z",
+          "wordCount": 554,
+          "title": "中国のことしの国防費 “34兆円余“ 全人代で明らかに",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380251_2403052056_0305205929_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380451000.html",
+          "author": null,
+          "description": "ドイツ東部にあるアメリカの電気自動車メーカー、テスラの工場の近くで火事が起き工場は生産を停止しました。地元の警察は何者かによる放火とみて捜査を始めたことを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380451000.html",
+          "publishedOn": "2024-03-05T20:50:51.000Z",
+          "wordCount": 709,
+          "title": "ドイツ EVメーカーテスラの工場近くで火事 生産停止 放火か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380451_2403060500_0306050059_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380351000.html",
           "author": null,
@@ -22569,16 +22584,6 @@
           "wordCount": 623,
           "title": "“避難情報の登録を” 災害関連死防ぐため 石川県が呼びかけ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348111_2402051724_0205173340_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348171000.html",
-          "author": null,
-          "description": "アメリカで新型コロナウイルスの対応を中心的に担ったCDC＝疾病対策センターが、新たに東京都内に「東アジア・太平洋地域事務所」を開設し、NHKのインタビューに応じたCDCのトップは「多くの新型ウイルスが発生しているこの地域は、世界の安全保障にとって重要だ」と、東京に拠点を置く意義を強調しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348171000.html",
-          "publishedOn": "2024-02-05T09:10:13.000Z",
-          "wordCount": 628,
-          "title": "米CDC 東京に事務所を開設 “世界の安全保障にとって重要”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348171_2402051741_0205175013_01_02.jpg"
         }
       ]
     },
@@ -29250,16 +29255,6 @@
           "wordCount": 783,
           "title": "Apple Vision ProをiFixitが分解。修理業者には「悪夢」の複雑さ",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/AVP_TD_EDITED_62-1-1200x800-1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68001",
-          "author": "Munenori Taniguchi",
-          "description": "アップルは先週、音楽アーティストやレコード会社が空間オーディオ形式で制作した楽曲には、楽曲使用料を最大10%上積みするという、いわゆる「空間オーディオボーナス」の仕組みを導入すると発表した。 空間オーディオとは、通常の2chステレオ方式とは異なり、Dolby Atmosを適用して空間的な広がりを持っ […]",
-          "link": "https://gadget.phileweb.com/post-68001/",
-          "publishedOn": "2024-02-05T09:02:05.000Z",
-          "wordCount": 781,
-          "title": "Apple Musicの「空間オーディオボーナス」、インディーズには不評。1曲あたり約1000ドルの追加制作費など",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/01/shutterstock_1871279425.jpg"
         }
       ]
     },
@@ -32861,16 +32856,6 @@
           "wordCount": 2426,
           "title": "日本代表選手「助けて！監督とコーチから何の指示もないの！」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8ec19ccd-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032810.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/02/04(日) 19:33:42.40 ID:Ft4Virj+0●.net\n\n\n\n\n\n\n\n\n\n松本人志問題、元文春記者が“文春の内部事情”ネタバレ　OBからも「やりすぎじゃないか」の声 https://t.co/7KNuDZcwpy#今田耕司のネタバレMTG— ENCOUNT (@encountofficial) Febr...",
-          "link": "https://itainews.com/archives/2032810.html",
-          "publishedOn": "2024-02-05T09:01:55.000Z",
-          "wordCount": 2379,
-          "title": "元文春中村竜太郎「OBや編集部内から松本人志の件はやりすぎという声が出てる。逃げ道や愛嬌も無い」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/6/268c6715-s.png"
         }
       ]
     },
