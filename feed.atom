@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T15:24:05.851Z</updated>
+    <updated>2024-03-05T15:35:49.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[西武新宿線 新所沢-本川越 運転見合わせ 雪で車が踏切に立往生]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380441000.html"/>
+        <updated>2024-03-05T15:33:36.000Z</updated>
+        <summary type="html"><![CDATA[西武鉄道によりますと、西武新宿線は埼玉県所沢市の踏切内で乗用車が雪の影響で立往生しているため、5日夜の11時44分ごろから、新所沢駅と本川越駅の間の上下線で運転を見合わせているということです。鉄道会社などが現在、復旧作業にあたっているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「トケマッチ」40件以上の被害届受理 高級腕時計未返却で捜査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240306/k10014380221000.html</id>
