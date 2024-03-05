@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T03:36:42.211Z</updated>
+    <updated>2024-03-05T03:50:43.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[沖縄で竜巻など突風発生か “さらに発生のおそれ” 気象庁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379611000.html"/>
+        <updated>2024-03-05T03:47:07.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は、沖縄県本島北部で竜巻などの突風が発生したとみられるとして、さきほど午後0時28分、竜巻注意情報を発表しました。沖縄県本島北部では竜巻などの突風が今後、さらに発生するおそれがあります。竜巻などの突風は、発達した積乱雲が近づいたときに発生します。気象庁は、雷や急な風の変化、それに「ひょう」が降るなど、積乱雲が近づく兆しがある場合は突風に十分注意し、頑丈な建物などの中で安全を確保するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 “再発防止へ法改正などで責任果たす”参院予算委]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379541000.html"/>
+        <updated>2024-03-05T03:37:14.000Z</updated>
+        <summary type="html"><![CDATA[国会は参議院予算委員会で新年度予算案の審議が行われ、午前中は公明党と日本維新の会が質問しました。岸田総理大臣は自民党の派閥の政治資金パーティーをめぐる問題について再発防止のために法改正などを行うことで責任を果たしたいという考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M2搭載のMacBook Airが値下げ、最大3万円安く。15インチは販売終了]]></title>
         <id>https://gadget.phileweb.com/?p=70783</id>
