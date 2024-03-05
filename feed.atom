@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T10:31:26.800Z</updated>
+    <updated>2024-03-05T10:50:31.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政治資金問題 “関係議員 要職起用は責任踏まえ判断”岸田首相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014380121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014380121000.html"/>
+        <updated>2024-03-05T10:38:39.000Z</updated>
+        <summary type="html"><![CDATA[国会は参議院予算委員会で新年度予算案の審議が行われ、岸田総理大臣は、自民党の派閥の政治資金パーティーをめぐる問題を受けて、関係議員の要職への起用は、どのように説明責任や政治責任を果たしたかを踏まえ判断する意向を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[関東甲信 6日昼すぎにかけ山沿い中心に大雪の見込み]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240305/k10014380001000.html</id>
@@ -37146,16 +37156,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <summary type="html"><![CDATA[ガザ地区での戦闘休止や人質の解放に向けた交渉が続く中、アメリカのブリンケン国務長官は、関係国などと協議するため、4日、中東に向けて、首都ワシントン郊外の空軍基地を出発しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】ふわっと食感のチョコロールケーキ【新作スイーツ】]]></title>
-        <id>https://foodfighter.jp/?p=235092</id>
-        <link href="https://foodfighter.jp/711sej-chocolate-roll-cake-2024"/>
-        <updated>2024-02-04T22:31:35.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ふわっと食感のチョコロールケーキ」を世界一詳しく調査しました。   公式YouTubeチャン […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
