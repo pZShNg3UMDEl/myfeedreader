@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T09:23:35.077Z</updated>
+    <updated>2024-03-05T09:36:26.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米大統領選 スーパーチューズデー まもなく投票開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014380081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014380081000.html"/>
+        <updated>2024-03-05T09:24:22.000Z</updated>
+        <summary type="html"><![CDATA[秋のアメリカ大統領選挙に向けた野党・共和党の候補者選びは5日、全米の15の州で予備選挙などが一斉に行われる大きな山場、スーパーチューズデーを迎え、日本時間の5日夜、まもなく投票が始まります。これまでに行われた候補者選びで9勝1敗と大きくリードしているトランプ前大統領が、ヘイリー元国連大使をさらに引き離して党の指名獲得への流れを決定づけるのかが焦点です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊藤若冲の巻物状の大作 新たに見つかる 76歳の時の作品か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240305/k10014379941000.html</id>
@@ -37065,16 +37075,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
 おねむの子猫が電池切れして眠っている姿が可愛すぎる first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「どこにいるんや」石川 輪島 安否不明の弟の捜索 見守る兄は]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240205/k10014347461000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240205/k10014347461000.html"/>
-        <updated>2024-02-04T21:33:56.000Z</updated>
-        <summary type="html"><![CDATA[「兄弟であまりけんかはしませんでしたが、今回ばかりは『どこにいるんや』とどなってやりたいです」石川県輪島市市ノ瀬町で、安否不明が続く2歳年下の弟の捜索を見守り続けてきた男性は、悔しそうに話していました。能登半島地震から、2月5日で5週間。被災地では、いまも安否が分からない家族を待つ人がいます。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
