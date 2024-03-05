@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120727/",
+          "author": null,
+          "description": "テレビアニメ「ふしぎ駄菓子屋 銭天堂」の新作エピソードが、NHK Eテレで4月5日午後6時40分から放送されることが決定した。新ビジュアル、先行カットも公開されている。 廣嶋玲子氏（作）とjya...",
+          "link": "https://anime.eiga.com/news/120727/",
+          "publishedOn": "2024-03-05T12:00:00.000Z",
+          "wordCount": 859,
+          "title": "「ふしぎ駄菓子屋 銭天堂」新作エピソードが4月5日から放送　戦国時代の紅子も登場",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120728/",
           "author": null,
           "description": "4月12日に公開される劇場アニメ「名探偵コナン 100万ドルの五稜星（みちしるべ）」に松岡禎丞、菅生隆之、中博史、高野麻里佳、銀河万丈の出演が決定した。 同作は、青山剛昌氏原作の国民的ミステリー...",
@@ -6014,6 +6029,26 @@
           "wordCount": 488,
           "title": "米大統領選 スーパーチューズデー まもなく投票開始",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240305/K10014380081_2403051819_0305182245_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240305/k10014380011000.html",
+          "author": null,
+          "description": "去年、明確なルールがないまま一律に中止要請がされたことで混乱した埼玉県の県営プールでの水着撮影会について、県公園緑地協会は、18歳未満のモデルや参加者を入場させないなど事業者側に求める新たな許可条件をまとめ、5日、公表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240305/k10014380011000.html",
+          "publishedOn": "2024-03-05T09:23:43.000Z",
+          "wordCount": 590,
+          "title": "県営プールでの水着撮影会 事業者側への許可条件まとまる 埼玉",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240305/K10014380011_2403051745_0305180002_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240305/k10014380031000.html",
+          "author": null,
+          "description": "8年前、東京 明治神宮外苑のイベント会場で展示されていた木製のジャングルジムから火が出て5歳の男の子が死亡した火災で、過失致死傷の罪に問われ無罪を主張していた元大学生2人に対し、東京簡易裁判所はそれぞれ罰金50万円の判決を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240305/k10014380031000.html",
+          "publishedOn": "2024-03-05T09:23:02.000Z",
+          "wordCount": 474,
+          "title": "ジャングルジム火災 元大学生2人に罰金50万円の判決",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240305/K10014380031_2403051801_0305180148_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240305/k10014379961000.html",
@@ -22684,26 +22719,6 @@
           "wordCount": 839,
           "title": "NBA サンズ 渡邊雄太 スリーポイントシュートなど7得点",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347611_2402051057_0205105854_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347601000.html",
-          "author": null,
-          "description": "国会は、5日午前9時から衆議院予算委員会で岸田総理大臣とすべての閣僚が出席して、新年度予算案の実質的な審議を始める予定でしたが、自民党の派閥の政治資金パーティーをめぐる問題を受けた与野党の協議などが続いていて、委員会の開会は遅れています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014347601000.html",
-          "publishedOn": "2024-02-05T00:14:17.000Z",
-          "wordCount": 689,
-          "title": "衆院予算委 開会遅れる 政治資金問題で与野党の協議続く",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347601_2402050918_0205092007_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014347591000.html",
-          "author": null,
-          "description": "2026年にアメリカ、カナダ、メキシコの3つの国の共催で行われるサッカーワールドカップの決勝は、アメリカのニュージャージー州で7月19日に行われることが決まりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014347591000.html",
-          "publishedOn": "2024-02-04T23:52:41.000Z",
-          "wordCount": 851,
-          "title": "2026年サッカーＷ杯 決勝は7月19日 米ニュージャージー州で",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014347591_2402050844_0205085242_01_02.jpg"
         }
       ]
     },
@@ -24495,16 +24510,6 @@
           "wordCount": 1848,
           "title": "PR: 3Dプリンター活用をもっと身近に！　「3D-FABs」が選ばれる理由とは",
           "imageUrl": "https://image.itmedia.co.jp/mn/articles/2401/24/cover_news005.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/02/news194.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、同社の「STM32」上で動作する、モーター制御用ソフトウェアアルゴリズム「STM32 ZeST」を発表した。通常のセンサーレスモータードライブでは困難だった、速度ゼロでのフルトルク制御に対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/02/news194.html",
-          "publishedOn": "2024-02-05T00:00:00.000Z",
-          "wordCount": 2631,
-          "title": "速度ゼロでフルトルク実現、センサーレスのモーター制御用組み込みソフト",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/02/cover_news194.jpg"
         }
       ]
     },
@@ -28042,16 +28047,6 @@
           "wordCount": 1401,
           "title": "子猫のオスカーとカズくんは心が通じあっています",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67866.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67902",
-          "author": "299",
-          "description": "子猫たちのごはんの用意ができたようです！床の上にごはんの入ったお皿が綺麗に並べられています。 すでにお母さん猫は、ひとあし先にごはんをバクバク食べています。ようやく1匹の子猫がごはんに気づいてお皿に近づいてきました。 す...\nごはんを食べたらすぐ遊びモードになる子猫たち first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67902",
-          "publishedOn": "2024-02-05T00:00:28.000Z",
-          "wordCount": 1407,
-          "title": "ごはんを食べたらすぐ遊びモードになる子猫たち",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67902.jpg"
         }
       ]
     },
