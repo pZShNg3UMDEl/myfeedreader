@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T13:24:29.866Z</updated>
+    <updated>2024-03-05T13:35:34.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【松屋】ごろごろチキンの和風タルタル定食【店舗限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=238156</id>
+        <link href="https://foodfighter.jp/matsuya-wafu-tarutaru"/>
+        <updated>2024-03-05T13:29:02.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロ野球 山川穂高選手 移籍後 オープン戦 第1号ホームラン]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014380391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014380391000.html"/>
+        <updated>2024-03-05T13:25:43.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球のオープン戦は阪神対楽天が雨のため中止となり、3試合が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[松屋で宇宙に出会ってきた]]></title>
         <id>https://logipara.com/?p=9593</id>
