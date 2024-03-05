@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T02:18:20.940Z</updated>
+    <updated>2024-03-05T02:35:28.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ 治療薬の補助など すべての支援策 今月末で終了へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379441000.html"/>
+        <updated>2024-03-05T02:28:22.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの患者などへの支援について、厚生労働省はこれまで治療薬の公費負担など一部で継続していた支援策を今月末で終了することを正式に決めたと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“オスプレイの飛行再開 米側から連絡ない” 木原防衛相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240305/k10014379461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240305/k10014379461000.html"/>
+        <updated>2024-03-05T02:16:27.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県屋久島沖での墜落事故を受けて、アメリカ軍が輸送機オスプレイの飛行を停止していることについて、木原防衛大臣はアメリカ側から飛行再開の連絡はないとしたうえで、陸上自衛隊のオスプレイについてはアメリカの対応を踏まえて判断していく考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M3搭載MacBook Air発表。13／15インチ用意、M1から最大60%高速化]]></title>
         <id>https://gadget.phileweb.com/?p=70755</id>
