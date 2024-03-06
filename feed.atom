@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T17:12:08.378Z</updated>
+    <updated>2024-03-06T17:26:52.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPixel on the verge of IPO?]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/03/gpixel-on-verge-of-ipo.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/03/gpixel-on-verge-of-ipo.html"/>
+        <updated>2024-03-06T17:24:00.031Z</updated>
+        <summary type="html"><![CDATA[From: http://www.myzaker.com/article/65d3ce24b15ec01a56438179
+(Translated with Google Translate)
+...
+Against the backdrop of an improving market, Changchun Changguangchenxin Microelectronics Co., Ltd. (hereinafter referred to as "Changguangchenxin"), a domestic company specializing in CMOS image sensors, has recently launched its IPO application on the Shanghai Stock Exchange Science and Technology Innovation Board. to the inquiry stage.
+In this IPO, Changguang Chenxin plans to raise 1.557 billion yuan, and the funds are planned to be invested in the research and development and industrialization projects of CMOS image sensors in different directions, including the field of machine vision, scientific instruments, and professional imaging. At the same time, funds are also planned to be invested in high-end CMOS image sensor R&D center construction projects and to supplement working capital.
+However, in recent years, Changguangchenxin's net profit has turned from profit to loss during the reporting period. Moreover, as a company that wants to be listed on the Science and Technology Innovation Board, Changguangchenxin's R&D expense rate has been decreasing year by year, and the detailed list of R&D expenses has been focused on by the Shanghai Stock Exchange. 
+...]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米FRB議長「年内いずれかの時点で利下げ」時期の言及は避ける]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240307/k10014381491000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381491000.html"/>
         <updated>2024-03-06T17:00:52.000Z</updated>
         <summary type="html"><![CDATA[アメリカのFRB＝連邦準備制度理事会のパウエル議長は、6日、議会下院で証言し、政策金利がすでにピークに達しているという考えを示した上で「年内のいずれかの時点で利下げを始めることが適切になるだろう」と述べました。ただ、具体的な時期の言及は避けました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPC「ロシアとベラルーシの選手 開会式で入場行進行わず」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014381701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381701000.html"/>
+        <updated>2024-03-06T16:39:14.000Z</updated>
+        <summary type="html"><![CDATA[IPC＝国際パラリンピック委員会は、この夏のパリパラリンピックで「中立な立場の個人資格の選手」として参加を認めるロシアとベラルーシの選手について、開会式では入場行進を行わないなどのルールを発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -36921,36 +36947,6 @@ GAFA「L」を狙うローソン社長・竹増貞信氏 今後の展望明か�
         <summary type="html"><![CDATA[6日朝、北海道羅臼町の沖合でシャチおよそ10頭が流氷に囲まれて身動きがとれなくなっているのが見つかりました。流氷に覆われて近づけないということで、町は「流氷が崩れて逃げ出すのを見守るしかない」としています。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canon's twisted photodiodes improve autofocus]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/02/canons-twisted-photodiodes-improve.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/02/canons-twisted-photodiodes-improve.html"/>
-        <updated>2024-02-06T05:26:00.001Z</updated>
-        <summary type="html"><![CDATA[IEEE Spectrum has a recent article discussing a 2023 IEDM paper from Canon.
-Paper: Shirahige et al., "40-5. Cross Dual-Pixel Twisted-Photodiode Image Sensor for All-Directional Auto Focus", IEDM 2023.
-
-Spectrum article: https://spectrum.ieee.org/autofocus-canon-twisted-diode
-Diodes at Right Angles Double Autofocus Capacity: Canon twists photosensor rules to build new tech from familiar parts
-
-
-Above are images of a rotating object using Canon's twisted photodiode autofocus [middle column] and a standard dual pixel autofocus [right column]. The gray column is the raw image and the top and bottom rows were taken at different times. Courtesy: Canon
- 
-
-In 2013, Canon introduced its first dual-pixel autofocus, a technology that allows almost every pixel in a photo sensor to help focus the image…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格闘ゲームってそんなに初心者は入りにくいのか？]]></title>
-        <id>https://switchsoku.com/?p=97866</id>
-        <link href="https://switchsoku.com/gossip/97866"/>
-        <updated>2024-02-06T05:15:40.000Z</updated>
-        <summary type="html"><![CDATA[1: 2024/02/04(日) 11:48:58.01 ID:bcOVHjyj0 レバーやボタン連 […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
         </author>
     </entry>
 </feed>
