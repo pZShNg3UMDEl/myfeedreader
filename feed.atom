@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T10:30:28.006Z</updated>
+    <updated>2024-03-06T10:50:30.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[首相“キックバック 議員個人受領把握なく現時点 納税促さず”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014381291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014381291000.html"/>
+        <updated>2024-03-06T10:33:11.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、岸田総理大臣は、収支報告書に記載されていなかったキックバックなどの収入について、議員個人が受け取った例は把握できていないとして、現時点で納税を促す考えはないという認識を重ねて示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マクドナルド】チーズてりたま【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=238290</id>
@@ -36997,26 +37007,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <summary type="html"><![CDATA[先週末、アップルは空間コンピュータことApple Vision Proを米国にて発売した。消費者向けMRヘッドセットとしては高価格帯に属する3499ドル(約52万円）～であり、前例のないユーザー体験を実現しているだけに、その内側に何が潜んでいるかにも注目が集まっている。 そんな熱気のなか、修理業者i […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【石川 交通影響】鉄道 航空 バス 道路（2月6日）]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348761000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348761000.html"/>
-        <updated>2024-02-05T22:38:10.000Z</updated>
-        <summary type="html"><![CDATA[地震や雪による交通機関や道路への影響です。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トルコ・シリア大地震1年 多くの人たちがコンテナ仮設で生活]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348541000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348541000.html"/>
-        <updated>2024-02-05T22:34:03.000Z</updated>
-        <summary type="html"><![CDATA[5万9000人以上が死亡したトルコ・シリア大地震から6日で1年となります。トルコの被災地では一部で公営住宅の引き渡しが始まる一方、今も多くの人たちがコンテナの仮設住宅での生活を余儀なくされていて、人口の流出など復興に向けた課題が山積しています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
