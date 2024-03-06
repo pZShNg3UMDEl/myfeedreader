@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120736/",
+          "author": null,
+          "description": "「劇場版ハイキュー!! ゴミ捨て場の決戦」の大ヒット御礼PV「音駒編」が公開された。さらに第2弾入場特典の配布が決まり、3月9～22日の期間に「音駒高校最後の集合写真」が配布される。 大ヒット御...",
+          "link": "https://anime.eiga.com/news/120736/",
+          "publishedOn": "2024-03-06T09:00:00.000Z",
+          "wordCount": 866,
+          "title": "「劇場版ハイキュー!!」大ヒット御礼PV「音駒編」公開　第2弾入場特典は「音駒高校最後の集合写真」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120724/",
           "author": null,
           "description": "劇場アニメ「映画おしりたんてい さらば愛しき相棒（おしり）よ」でゲスト声優を務める仲里依紗のインタビュー映像が公開された。 同作は、累計発行部数1000万部を超える、トロル原作の児童書シリーズ「...",
@@ -5895,6 +5910,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014381141000.html",
+          "author": null,
+          "description": "旧統一教会の被害者救済をめぐり、盛山文部科学大臣は資産状況を把握するため教団を「指定宗教法人」に指定することを6日、宗教法人審議会に諮問し、全会一致で了承されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014381141000.html",
+          "publishedOn": "2024-03-06T09:08:11.000Z",
+          "wordCount": 758,
+          "title": "旧統一教会を「指定宗教法人」に指定 審議会 全会一致で了承",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014381141_2403061704_0306171402_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014381251000.html",
+          "author": null,
+          "description": "ビッグモーターの経営再建に向けて、大手商社の伊藤忠商事は、主要事業を引き継ぐことでビッグモーター側と契約を締結したと発表しました。会社によりますと、伊藤忠商事と子会社でエネルギー商社の「伊藤忠エネクス」、それに投資ファンドの「ジェイ・ウィル・パートナーズ」の3社が共同で、4月後半をめどに新会社を設立し、中古車の販売や自動車の整備などビッグモーターの主要事業を引き継ぎます。伊藤忠商事は発表で「事業の再建が可能であり、取り組みの意義があると判断した」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014381251000.html",
+          "publishedOn": "2024-03-06T08:54:58.000Z",
+          "wordCount": 347,
+          "title": "ビッグモーターの主要事業 伊藤忠商事が引き継ぎへ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014381251_2403061754_0306175500_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380631000.html",
           "author": null,
@@ -22454,16 +22489,6 @@
           "wordCount": 627,
           "title": "JR中央本線 運転見合わせの高尾駅と富士見駅間 昼ごろ再開へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014348741_2402060623_0206063909_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014348521000.html",
-          "author": null,
-          "description": "ロシアによるウクライナ侵攻を批判し、3月行われる大統領選挙への立候補に向けた手続きを進めているナデジディン元下院議員側は、中央選挙管理委員会から書類上の不備が見つかったと指摘されたと明らかにしました。選挙管理委員会は7日に最終判断を下すとしていて、立候補が認められない可能性もでています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014348521000.html",
-          "publishedOn": "2024-02-05T20:52:25.000Z",
-          "wordCount": 422,
-          "title": "ロシア大統領選 反戦訴える候補 立候補認められない可能性",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014348521_2402052154_0206055159_01_02.jpg"
         }
       ]
     },
@@ -27837,6 +27862,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=70944",
+          "author": "多根清史",
+          "description": "クアルコムは昨年、アップルのMac用Mシリーズチップ対抗の「Snapdragon X Elite」を発表していた。このチップを搭載するPC製品はまだ登場していないが、マイクロソフトの「Surface Pro 10」と「Surface Laptop 6」に採用され、両モデルともまもなく登場するとの噂が […]",
+          "link": "https://gadget.phileweb.com/post-70944/",
+          "publishedOn": "2024-03-06T08:55:27.000Z",
+          "wordCount": 808,
+          "title": "「Surface Pro 10」と「Surface Laptop 6」、AI強化チップ搭載で3月末に発表か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_1066104944.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=70995",
           "author": "Munenori Taniguchi",
           "description": "1か月を超えるベータテストを経て、iOS 17.4がiPhoneユーザーに向けてリリースされた。最も大きな変更は、EU圏を対象とするもので、サードパーティのアプリストアの導入やApp Storeを介しない支払いを利用したり、デフォルトブラウザーを選択することができるようになる。それ以外の国や地域にお […]",
@@ -29507,6 +29542,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033634.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/03/06(水) 05:52:30.26 ID:e1MtBPTg0.net\n\n\n\n\n\n\n\n「どこにもない」　チェルシー終売→売り切れ報告相次ぐ　メルカリでは価格約10倍の高額転売……「最悪すぎる」(ねとらぼ)#Yahooニュースhttps://t.co/nyaf6Hw8QH— AMADEUS.radio...",
+          "link": "https://itainews.com/archives/2033634.html",
+          "publishedOn": "2024-03-06T09:03:20.000Z",
+          "wordCount": 2385,
+          "title": "【どこにもない】チェルシー終売→売り切れ報告相次ぐ メルカリでは価格約10倍の高額転売……",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/a/5a2458ac-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033636.html",
           "author": "yonepo665sfr",
@@ -32824,6 +32869,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41516",
+          "author": "fumie",
+          "description": "子供用品専門店には現在進行系で日々お世話になっています…！ふみえ＠あつらぼです。 たくさんの情報提供、そして写真のご提供を頂きありがとうございますー♡ 昨年末までメガマックス厚木店があったアツギトレリス1Fですが、 先日オープンの速報をお伝…",
+          "link": "https://atsugi-lab.com/open-nishimatsuya-trellis202405/",
+          "publishedOn": "2024-03-06T09:10:35.000Z",
+          "wordCount": 1155,
+          "title": "【開店】アツギトレリス1Fに続々と新店がオープン♪「西松屋」5月2日に開店予定！サンドラッグは3月24日と判明♪［厚木市戸室］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/nishimatsuya202405.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41253",
           "author": "comomo",
