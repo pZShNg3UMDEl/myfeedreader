@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T11:21:27.808Z</updated>
+    <updated>2024-03-06T11:35:36.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米大統領選 共和党ヘイリー氏 撤退へ 米複数メディア伝える]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380641000.html"/>
+        <updated>2024-03-06T11:27:20.000Z</updated>
+        <summary type="html"><![CDATA[ことし秋のアメリカ大統領選挙に向けた野党・共和党の候補者選びでトランプ前大統領と党の指名獲得を争っていたヘイリー元国連大使が選挙戦から撤退する方針を固めたとアメリカの複数のメディアが伝えました。このあと日本時間の7日午前0時から短い演説を行う見通しだとしています。ヘイリー氏が撤退することにより、トランプ氏の党の指名獲得が確実な情勢となります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア「中国と共同で月面に原発施設構想を検討」欧米を威嚇か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014381341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014381341000.html"/>
+        <updated>2024-03-06T11:19:26.000Z</updated>
+        <summary type="html"><![CDATA[ロシア国営の宇宙開発公社は、中国と共同で月面に原子力発電施設を設置する構想を検討していると明らかにし、アメリカのシンクタンクは、両国は戦略的な協力を促進させることで、欧米側を威嚇するねらいもあると分析しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大の落合陽一准教授「クソバカデマクソ野郎死ね」「バーカ、死ね」]]></title>
         <id>https://itainews.com/archives/2033635.html</id>
@@ -37059,16 +37079,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <summary type="html"><![CDATA[去年1年間の働く人1人当たりの実質賃金は前の年と比べて2.5％減少しました。現金給与の総額は増えたものの物価上昇に追いつかず、実質賃金は2年連続でマイナスとなりました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Vision ProをiFixitが分解。修理業者には「悪夢」の複雑さ]]></title>
-        <id>https://gadget.phileweb.com/?p=67947</id>
-        <link href="https://gadget.phileweb.com/post-67947/"/>
-        <updated>2024-02-05T23:30:11.000Z</updated>
-        <summary type="html"><![CDATA[先週末、アップルは空間コンピュータことApple Vision Proを米国にて発売した。消費者向けMRヘッドセットとしては高価格帯に属する3499ドル(約52万円）～であり、前例のないユーザー体験を実現しているだけに、その内側に何が潜んでいるかにも注目が集まっている。 そんな熱気のなか、修理業者i […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
