@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T07:35:46.705Z</updated>
+    <updated>2024-03-06T07:50:27.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[復興を後押し「東北福興弁当」第12弾 8日の販売前にお披露目]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014381031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014381031000.html"/>
+        <updated>2024-03-06T07:16:21.000Z</updated>
+        <summary type="html"><![CDATA[東日本大震災の発生後から食の力で復興などを後押ししようとリニューアルされ続けている駅弁「東北福興弁当」が、8日の第12弾の販売を前に仙台市でお披露目されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福岡銀行「そのような事実はありません」　Xでデマ　100万回以上閲覧される　投稿者謝罪]]></title>
         <id>https://itainews.com/archives/2033628.html</id>
@@ -36891,16 +36901,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
 新米ママ猫の子育て奮闘の記録 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDP 去年10月～12月 “力強さに欠けた” 民間予測]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348481000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348481000.html"/>
-        <updated>2024-02-05T19:47:31.000Z</updated>
-        <summary type="html"><![CDATA[去年10月から12月までのGDP＝国内総生産が、2月15日に発表されます。民間の予測では、輸出の伸びがけん引し、全体としては2期ぶりのプラス成長になるものの、GDPの半分以上を占める個人消費は、物価高の影響で力強さに欠けたという見方が大勢を占めています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
