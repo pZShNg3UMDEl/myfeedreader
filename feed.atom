@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T03:35:32.733Z</updated>
+    <updated>2024-03-06T03:50:39.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel、3月の機能アプデ展開開始。第1世代Pixel Watchやタブレットにも新機能]]></title>
+        <id>https://gadget.phileweb.com/?p=70903</id>
+        <link href="https://gadget.phileweb.com/post-70903/"/>
+        <updated>2024-03-06T03:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Googleが約3か月ごとに提供している、Pixelデバイス向け新機能を提供するFeature Dropsの2024年3月版を公開した。今後数週間をかけて展開していく。 今回のFeature Dropsは、主にPixelスマートフォン、Pixel Watchへの機能追加だが、一部Pixel Tabl […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M3 MacBook Air初のベンチマークが登場。M2から約20%性能アップか]]></title>
         <id>https://gadget.phileweb.com/?p=70859</id>
@@ -36665,26 +36675,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348641000.html"/>
         <updated>2024-02-05T15:55:22.000Z</updated>
         <summary type="html"><![CDATA[大雪の影響で関東甲信などでは道路や交通への影響が出ています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JR中央本線 特急複数動けず 車両に泊まってもらうなど対応]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348631000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348631000.html"/>
-        <updated>2024-02-05T15:49:28.000Z</updated>
-        <summary type="html"><![CDATA[JR東日本によりますと、中央本線では、5日午後以降、倒木などが相次ぎ、高尾駅と小淵沢駅の間では終日運転を見合わせることになりました。特急「かいじ」や「あずさ」が長野県や山梨県内の駅で数時間にわたって停車を続けていて、JR東日本は車両に泊まってもらうなどの対応をとってもらうことにしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京23区と多摩 大雪警報解除]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348651000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348651000.html"/>
-        <updated>2024-02-05T15:41:17.000Z</updated>
-        <summary type="html"><![CDATA[東京23区と多摩に出されていた大雪警報はさきほど午前0時23分に解除されました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
