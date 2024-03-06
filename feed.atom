@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T05:27:25.774Z</updated>
+    <updated>2024-03-06T05:37:39.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テイラー・スウィフトさん スーパーチューズデー投票呼びかけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380861000.html"/>
+        <updated>2024-03-06T05:18:21.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの人気歌手テイラー・スウィフトさんが、アメリカ大統領選挙の候補者選びのヤマ場となる「スーパーチューズデー」にあわせてSNSで投票を呼びかけました。特定の候補者の名前はあげなかったものの、若い世代への影響力が大きいことから言動に注目が集まっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11でAndroidアプリが動くWSAが終了へ。25年3月まで]]></title>
         <id>https://gadget.phileweb.com/?p=70979</id>
