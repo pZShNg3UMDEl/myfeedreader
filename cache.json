@@ -2794,21 +2794,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120534/",
-          "author": null,
-          "description": "宮崎駿監督が初監督を務めたテレビアニメを舞台化する「未来少年コナン」のキャスト第1弾が発表された。1歳から芸能活動を始め、現在22歳となった加藤清史郎が、超人的な運動神経をもつ素直で正義感の強い...",
-          "link": "https://anime.eiga.com/news/120534/",
-          "publishedOn": "2024-02-05T12:00:00.000Z",
-          "wordCount": 938,
-          "title": "舞台「未来少年コナン」キャスト第1弾発表　コナン役は加藤清史郎、門脇麦や椎名桔平らが出演",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2817,6 +2802,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98925",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/05(火) 10:50:01.82 ID:o/5J1m+60 さあ、行きましょ […]",
+          "link": "https://switchsoku.com/nintendo/98925",
+          "publishedOn": "2024-03-06T00:00:45.000Z",
+          "wordCount": 9995,
+          "title": "任天堂「マリオDayが近づいてきています」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/05/mario.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98921",
           "author": "SWITCH速報",
@@ -5126,16 +5121,6 @@
           "wordCount": 9968,
           "title": "最近「いっせいトライアル」やってなくね？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/tryal-sakunahime.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97853",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/04(日) 14:09:38.82 ID:Fjo5sR5NM 何の脈絡もなしに […]",
-          "link": "https://switchsoku.com/soft/pokemon/97853",
-          "publishedOn": "2024-02-05T12:30:42.000Z",
-          "wordCount": 9964,
-          "title": "ポケモン公式‥とんでもない匂わせを投稿してしまう",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/pokemon-BW.webp"
         }
       ]
     },
@@ -5865,6 +5850,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380531000.html",
+          "author": null,
+          "description": "代表的な暗号資産、ビットコインの価格が5日に上昇し、一時、初めて6万9000ドルを超えて史上最高値を更新しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380531000.html",
+          "publishedOn": "2024-03-06T00:22:20.000Z",
+          "wordCount": 584,
+          "title": "ビットコイン 史上最高値更新 一時6万9000ドル超え 荒い値動き",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380531_2403060808_0306092210_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380401000.html",
+          "author": null,
+          "description": "トヨタ自動車は、南米・ブラジルでのハイブリッドシステムを搭載した新型車の生産などに向け、2030年までにおよそ3300億円を新たに投じると発表しました。ブラジル政府は環境に配慮した車を生産する企業を優遇する方針で、自動車各社による大規模な投資計画の表明が相次いでいます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380401000.html",
+          "publishedOn": "2024-03-06T00:11:50.000Z",
+          "wordCount": 406,
+          "title": "トヨタ ブラジルに約3300億円投資 環境配慮車優遇で投資相次ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380401_2403052211_0306075341_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380541000.html",
           "author": null,
@@ -22414,16 +22419,6 @@
           "wordCount": 1072,
           "title": "衆院予算委 立民“政治改革実行を” 首相“今の国会で法改正”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348301_2402051920_0205193011_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240205/k10014348441000.html",
-          "author": null,
-          "description": "経団連の十倉会長と齋藤経済産業大臣が会談し、持続的な賃上げに向けて、企業の競争力の強化につながる投資を官民連携で推進することで一致しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240205/k10014348441000.html",
-          "publishedOn": "2024-02-05T12:13:33.000Z",
-          "wordCount": 493,
-          "title": "経団連と経産相が会談 持続的な賃上げへ 官民連携で推進で一致",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240205/K10014348441_2402052048_0205210549_01_02.jpg"
         }
       ]
     },
@@ -23898,16 +23893,6 @@
           "wordCount": 1866,
           "title": "【ファミマ】丸永製菓 あいすまんじゅう きなこもち【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/c0b1baa2857e6ec8f7b3acd05ec7f748.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=235161",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「盛りすぎ！プレミアムロールケーキ」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
-          "link": "https://foodfighter.jp/lawson-premium-roll-cake-big-2024",
-          "publishedOn": "2024-02-05T11:56:46.000Z",
-          "wordCount": 1853,
-          "title": "【ローソン】盛りすぎ！プレミアムロールケーキ【新作コンビニスイーツ】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/eedb7118007282a832570dcd655b9bd2.jpg"
         }
       ]
     },
@@ -23916,6 +23901,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/06/news075.html",
+          "author": null,
+          "description": "パナソニック インダストリーは2024年2月28日、135℃保証を大容量タイプで実現した、導電性高分子ハイブリッドアルミ電解コンデンサー「ZLシリーズ」を発表した。ECUの小型化やxEV（電動車）の高性能化に貢献する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/06/news075.html",
+          "publishedOn": "2024-03-06T00:00:00.000Z",
+          "wordCount": 2605,
+          "title": "大容量で135℃を保証、導電性高分子ハイブリッドアルミ電解コンデンサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/06/cover_news075.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/05/news048.html",
           "author": null,
@@ -24213,6 +24208,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69824",
+          "author": "299",
+          "description": "主さんが実家に到着すると、ちょうど犬たちが散歩に出かける時だったようです。家の外には、猫たちがソワソワしながら集まっていました。 いつもは黒猫のあんこが犬の散歩に同行しているのですがこの日は主さんがあんこのことを確保した...\nワンコの散歩にくっついていったもっちが途中で心細くなってあっという間に帰宅 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69824",
+          "publishedOn": "2024-03-06T00:00:45.000Z",
+          "wordCount": 1340,
+          "title": "ワンコの散歩にくっついていったもっちが途中で心細くなってあっという間に帰宅",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69824.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69784",
           "author": "299",
@@ -32666,16 +32671,6 @@
           "wordCount": 2324,
           "title": "【言葉】「1時間弱って何分？」「鉛筆なめなめは気持ち悪い」日本語はムズかし過ぎ？ 誤用も多い“曖昧な表現”",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/8/f85c1f45-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032818.html",
-          "author": "yonepo665sfr",
-          "description": "1 名前：名無しさん＠涙目です。(東京都) [US]2024/02/05(月) 10:26:50.39ID:/hIioiMx0\n\n\n\n\n\n\n\n\n\n\nメニューは「おしっこ」に「痛風」…イオンモールに登場した風変りな券売機、実は健康のための新たな一手　富山・高岡市 #富山県のニュース https://t.co/7rQwF7VMGm— チ...",
-          "link": "https://itainews.com/archives/2032818.html",
-          "publishedOn": "2024-02-05T12:01:24.000Z",
-          "wordCount": 2325,
-          "title": "僕「おしっこください」店員「S、C、Kどれになさいさますか」「Yください」「Yは裏メニューなります」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/1/112377a0-s.png"
         }
       ]
     },
@@ -32684,6 +32679,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41253",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです。 春は人と会う機会がどっと増えますよね…！ 写真を撮ったりすることも多く、しわやたるみなどの悩みがより気になる時期でもあります。 そして花粉や環境の変化がある時期でもあるので、乾燥やニキビ等肌トラブルも出が…",
+          "link": "https://atsugi-lab.com/salonreport-cranelash2024/",
+          "publishedOn": "2024-03-06T00:30:49.000Z",
+          "wordCount": 1341,
+          "title": "【特典あり★】年齢に負けない自信が持てる肌に★「CRANE LASH」の蓄熱式超音波マシン＆ハーブピーリングを体験♫［厚木市妻田］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/02/cl-image2024.png"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41413",
           "author": "fumie",
