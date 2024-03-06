@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T07:13:04.372Z</updated>
+    <updated>2024-03-06T07:22:19.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -30,6 +30,16 @@
 ...]]></summary>
         <author>
             <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“アマゾンやグーグル 動画配信事業者に優越的地位か” 公取委]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014380931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380931000.html"/>
+        <updated>2024-03-06T06:55:39.000Z</updated>
+        <summary type="html"><![CDATA[インターネットに接続したテレビで動画配信サービスを楽しむ人が増える中、公正取引委員会は、基本ソフトを提供する巨大ITのアマゾンやグーグルが動画配信事業者に対し、優越的な地位にある可能性が高いなどとした報告書をまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -36909,16 +36919,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348711000.html"/>
         <updated>2024-02-05T19:23:38.000Z</updated>
         <summary type="html"><![CDATA[イギリス王室は5日、チャールズ国王ががんと診断され、治療を始めたと発表しました。75歳のチャールズ国王は、肥大した前立腺の治療のため1月26日からロンドン市内の病院に入院し29日に退院しましたが、がんはこの際に見つかったということです。がんの部位や進行の程度は明らかにしていませんが、市民の前に姿を見せての公務は当面見送るとしています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（2月6日の動き）]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014310391000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014310391000.html"/>
-        <updated>2024-02-05T19:13:48.000Z</updated>
-        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる6日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナとは7時間、ロシアのモスクワとは6時間の時差があります）]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
