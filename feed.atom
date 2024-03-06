@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T23:35:40.457Z</updated>
+    <updated>2024-03-06T23:50:24.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1月の実質賃金 前年同月比で0.6％減少 22か月連続のマイナス]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014381431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381431000.html"/>
+        <updated>2024-03-06T23:35:13.000Z</updated>
+        <summary type="html"><![CDATA[物価の上昇が続く中、ことし1月の働く人1人当たりの実質賃金は前の年の同じ月に比べて0.6％減少し、22か月連続のマイナスとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国 研修医9000人近く職場離脱 各地で手術延期や病棟閉鎖も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240307/k10014381421000.html</id>
@@ -36727,16 +36737,6 @@ X民「#タマホーム の展示場で施工不良の“釘”を見つけた�
         <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349751000.html"/>
         <updated>2024-02-06T11:54:00.000Z</updated>
         <summary type="html"><![CDATA[JR東日本によりますと、5日からの雪で列車の運行に影響が出たもののうち、要因として最も多かったのは竹や木が線路付近に倒れたことだったということです。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[松江市が市営バスの平日運行本数 2割近く減便の方針 4月から]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014349761000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349761000.html"/>
-        <updated>2024-02-06T11:48:46.000Z</updated>
-        <summary type="html"><![CDATA[運転手の不足で路線バスの減便が相次ぐ中、松江市はことし4月から市営バスの平日の運行本数を2割近く減便する方針を明らかにしました。運転手の時間外労働の規制が強化されるいわゆる「2024年問題」に対応するためだとしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
