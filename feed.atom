@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T04:38:21.924Z</updated>
+    <updated>2024-03-06T04:50:30.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -83,6 +83,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240306/k10014380731000.html"/>
         <updated>2024-03-06T03:29:33.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震で休止されていたはがきや書類などの郵便物の配達が石川県輪島市の一部と穴水町で再開されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「今日も一日 見守っててください。じゃあ、行ってきますね」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240306/k10014379851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240306/k10014379851000.html"/>
+        <updated>2024-03-06T03:06:34.000Z</updated>
+        <summary type="html"><![CDATA[「本当に無念で、残念でなりません」「2人が亡くなったことは、まだ納得できない」最初に取材させてもらったとき、こう話していました。夫と義理の母を亡くし、毎日のように泣き続けていました。一度は県外へと離れた女性。その後のことを話してくれました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
