@@ -5876,6 +5876,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380801000.html",
+          "author": null,
+          "description": "日本人として2人目のノーベル文学賞作家で、核兵器廃絶や平和についての発信も続けた大江健三郎さんが、被爆体験などの資料を集めて保存していくため、原爆投下から20年となった1965年に当時の知識人たちに協力を呼びかけた文書が残されていることが分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380801000.html",
+          "publishedOn": "2024-03-06T05:02:35.000Z",
+          "wordCount": 764,
+          "title": "大江健三郎さん 被爆体験資料保存へ 協力呼びかけ文書見つかる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380801_2403061253_0306140238_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380791000.html",
+          "author": null,
+          "description": "去年1年間の生活保護の申請件数は、前の年より7.6％増えて25万件を超え、この10年余りで最も多くなったことがわかりました。厚生労働省は「新型コロナの影響が長期化したことや、物価高騰などで貯蓄が減少していることが影響している考えられる」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014380791000.html",
+          "publishedOn": "2024-03-06T04:22:26.000Z",
+          "wordCount": 511,
+          "title": "去年の生活保護申請件数25万件超 前年比7.6％増 10年余で最多",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014380791_2403061317_0306132228_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240306/k10014380741000.html",
           "author": null,
           "description": "高級腕時計を持ち主から預かり、使いたい人にレンタルする「トケマッチ」というサービスが、ことし1月に突然終了し、多数の腕時計が持ち主に返還されないままになっていた問題で、警視庁が、サービスを運営していた会社の42歳の元代表の逮捕状を取り、指名手配したことが分かりました。元代表は預かった時計の一部を売却していたとみられ、現在は海外に出国しているということです。",
@@ -27776,6 +27796,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=70979",
+          "author": "Munenori Taniguchi",
+          "description": "マイクロソフトは、Windows 11上でAndroidアプリを実行するWindows Subsystem for Android（WSA）を来年の3月5日で終了することを開発者向けのWSA解説ページで明らかにした。 WSAは2021年のWindows 11 リリース以来提供されていた機能で、Ama […]",
+          "link": "https://gadget.phileweb.com/post-70979/",
+          "publishedOn": "2024-03-06T05:16:30.000Z",
+          "wordCount": 772,
+          "title": "Windows 11でAndroidアプリが動くWSAが終了へ。25年3月まで",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/wsa-amazon-appstoret.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=70923",
           "author": "多根清史",
