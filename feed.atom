@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T15:26:12.528Z</updated>
+    <updated>2024-03-06T15:36:54.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[野球日本代表 ヨーロッパ代表との強化試合で勝利]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014381681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381681000.html"/>
+        <updated>2024-03-06T15:24:58.000Z</updated>
+        <summary type="html"><![CDATA[野球の日本代表は6日夜、ことし11月の国際大会に向けたヨーロッパ代表との強化試合を行い、5対0で勝ちました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マクドナルド】てりたまバーガー【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=238317</id>
@@ -37029,16 +37039,6 @@ In 2013, Canon introduced its first dual-pixel autofocus, a technology that allo
         <link href="http://www3.nhk.or.jp/news/html/20240206/k10014349011000.html"/>
         <updated>2024-02-06T03:53:09.000Z</updated>
         <summary type="html"><![CDATA[衆議院千葉3区選出の松野博一前官房長官の資金管理団体は、2020年と2021年に自民党安倍派からの収入として、合わせて865万円を政治資金収支報告書に記載しておらず、5日に収支報告書を訂正しました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪 踏切で電車と乗用車が接触 通過直前に遮断機上がったか]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240206/k10014348971000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240206/k10014348971000.html"/>
-        <updated>2024-02-06T03:36:51.000Z</updated>
-        <summary type="html"><![CDATA[6日朝、大阪 西成区にある南海電鉄高野線の踏切で電車と乗用車が接触しました。南海電鉄などによりますと、乗客10人にけがはなく、電車が通過する直前に下りていた遮断機が上がったということで、南海電鉄と警察は原因を詳しく調べています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
