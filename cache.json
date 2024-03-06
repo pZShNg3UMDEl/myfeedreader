@@ -2818,6 +2818,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=98942",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/06(水) 12:15:27.81 ID:/6y1hOQF0 20 名無しさん […]",
+          "link": "https://switchsoku.com/gossip/98942",
+          "publishedOn": "2024-03-06T08:00:37.000Z",
+          "wordCount": 10103,
+          "title": "「元々ゼノブレは前座で、坂口×植松のラストストーリーが任天堂の本命だった」←これってマジなの？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/12/the-last-story.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=98939",
           "author": "SWITCH速報",
           "description": "1: 2024/03/05(火) 17:04:06.72 ID:LF0xRQq30 バーチャルコンソ […]",
@@ -5885,6 +5895,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014381081000.html",
+          "author": null,
+          "description": "奈良県生駒市の県立高校で、剣道部の顧問が日本刀の真剣を使って「居合道」の指導を行っていた際、生徒の太ももに刀の先が当たり、けがをさせていたことが関係者への取材で分かりました。けがの程度は軽いということで、学校側は「生徒や保護者の方には大変申し訳なく思っています」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014381081000.html",
+          "publishedOn": "2024-03-06T08:09:41.000Z",
+          "wordCount": 684,
+          "title": "日本刀の真剣が生徒の太ももに当たりけが 居合道指導中 奈良",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014381081_2403061651_0306170944_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240306/k10014381091000.html",
+          "author": null,
+          "description": "LINEの利用者の大規模な情報漏えい問題で運営会社のLINEヤフーは、川邊健太郎会長と出澤剛社長ら代表取締役3人が報酬の一部を自主返上すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240306/k10014381091000.html",
+          "publishedOn": "2024-03-06T07:58:19.000Z",
+          "wordCount": 632,
+          "title": "LINEヤフー情報漏えい問題 代表取締役3人が報酬の一部自主返上",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240306/K10014381091_2403061650_0306165821_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240306/k10014381031000.html",
           "author": null,
@@ -22444,36 +22474,6 @@
           "wordCount": 626,
           "title": "野党側 政治資金規正法の改正など求める方針 衆議院予算委員会",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014348501_2402052209_0205221054_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014348421000.html",
-          "author": null,
-          "description": "インフルエンザは例年、2月初めのちょうど今の時期にピークを迎えると言われています。検査は、鼻の粘膜を採取する方法が一般的ですが、今、AI＝人工知能を用いた方法が広がり始めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014348421000.html",
-          "publishedOn": "2024-02-05T20:14:15.000Z",
-          "wordCount": 593,
-          "title": "インフルエンザにAIを活用した新たな検査",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014348421_2402052110_0205214612_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014348671000.html",
-          "author": null,
-          "description": "6日、予定されている給水支援の情報です。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014348671000.html",
-          "publishedOn": "2024-02-05T20:08:48.000Z",
-          "wordCount": 939,
-          "title": "【石川 給水支援情報】輪島・珠洲など9市町で実施",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014348671_2402060447_0206045332_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014348681000.html",
-          "author": null,
-          "description": "ガザ地区での戦闘の休止や人質の解放に向けた交渉が続く中、イスラエルのネタニヤフ首相は、「戦争は完全な勝利なしにはやめない」と述べ、イスラム組織ハマスの壊滅を目指す方針を改めて強調しました。一方、アメリカのブリンケン国務長官は中東地域への訪問を始め、関係国などとの協議を通じて交渉を進展させられるか外交の動きも焦点となっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014348681000.html",
-          "publishedOn": "2024-02-05T20:02:11.000Z",
-          "wordCount": 740,
-          "title": "イスラエル首相 “完全勝利まで戦争やめず” ハマス壊滅を強調",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014348681_2402060438_0206043824_01_02.jpg"
         }
       ]
     },
@@ -22529,6 +22529,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=238266",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「森永製菓 ザ・クレープ 苺のチーズケーキ味」を世界一詳しく調査しました。   公式YouTu […]",
+          "link": "https://foodfighter.jp/711sej-crepe-ice-ichigo-cheesecake",
+          "publishedOn": "2024-03-06T08:05:28.000Z",
+          "wordCount": 1795,
+          "title": "【セブンイレブン】森永製菓 ザ・クレープ 苺のチーズケーキ味【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/acfabfa2aa588787d611efdd1157fcc4.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=238243",
           "author": "foodfighter",
@@ -24293,6 +24303,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69802",
+          "author": "299",
+          "description": "お母さん猫がかわいい子猫たちを両手でぎゅっと抱き抱えるようにしながら愛情を目一杯に伝えているようです。 子猫たちもあまりに力強くぎゅうぎゅう抱きしめられるもので、かなり戸惑っているようですね。 ママ〜あんまりきつくギュウ...\n子猫を愛し過ぎて力一杯ぎゅうぎゅうしてしまうママ猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69802",
+          "publishedOn": "2024-03-06T08:00:47.000Z",
+          "wordCount": 1340,
+          "title": "子猫を愛し過ぎて力一杯ぎゅうぎゅうしてしまうママ猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69802.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69798",
           "author": "299",
@@ -27822,16 +27842,6 @@
           "wordCount": 1398,
           "title": "お昼寝から目覚めた子猫兄弟の甘えっぷりが超絶可愛い！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67925.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67920",
-          "author": "299",
-          "description": "2日前にお母さんになったばかりのポコちゃんがお疲れの様子でボーッと突っ立っています。初めての子育ては何かと神経を使うのでどうしても疲労が溜まってしまいがちですね。 でも少しずつ要領がわかってきたようです。赤ちゃん猫たちが...\n新米ママ猫の子育て奮闘の記録 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67920",
-          "publishedOn": "2024-02-05T20:00:11.000Z",
-          "wordCount": 1399,
-          "title": "新米ママ猫の子育て奮闘の記録",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67920.jpg"
         }
       ]
     },
@@ -29517,6 +29527,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033636.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/03/05(火) 18:42:17.68 ID:cDyT1xrV0●.net\n\n\n\n\n\n\n\n\n\nSNSで話題【テクハラ】に注意？「仕事にならない」「PC覚えない方が悪いのでは…」若者から“戸惑い”の声(LASISA)https://t.co/uSF29OzIAF— 健康的におふとぅむと同化したい (ಡ...",
+          "link": "https://itainews.com/archives/2033636.html",
+          "publishedOn": "2024-03-06T08:01:39.000Z",
+          "wordCount": 2427,
+          "title": "｢パソコンが使えない｣←テクノロジーハラスメント",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/77b87103-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033628.html",
           "author": "yonepo665sfr",
@@ -32816,16 +32836,6 @@
           "wordCount": 2413,
           "title": "【サッカー】伊東純也の性加害報道に「所詮、玉蹴り遊びだろ？女性の尊厳の方が大切じゃん」戦場ジャーナリストの投稿が炎上",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/6/e6257b82-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032825.html",
-          "author": "damono3856",
-          "description": "1 名前：愛の戦士 ★：2024/02/05(月) 14:35:08.46 ID:oZErgtMR9.net\n\n\n\n\n\n\n\n【読まれています⚠️】ミュージカル直前の中止発表にファン「酷すぎる」…中止理由「準備に想定以上の時間を要した」に非難轟轟 「ジョジョの奇妙な冒険」記事はこちら🔽https://t.co/Qh0Nqly...",
-          "link": "https://itainews.com/archives/2032825.html",
-          "publishedOn": "2024-02-05T20:13:35.000Z",
-          "wordCount": 2271,
-          "title": "【JOJO】ミュージカル直前の中止発表にファン「酷すぎる」…中止理由「準備に想定以上の時間を要した」に非難轟轟　ジョジョの奇妙な冒険",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/5/254f36eb-s.png"
         }
       ]
     },
