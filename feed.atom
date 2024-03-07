@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T23:36:45.716Z</updated>
+    <updated>2024-03-07T23:50:27.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガザ地区 戦闘休止めぐる交渉が中断 ラマダン前の合意は困難か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014382791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014382791000.html"/>
+        <updated>2024-03-07T23:43:10.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスとの間の戦闘の休止などをめぐる交渉について、ハマスは7日、交渉がいったん中断されたことを明らかにしました。イスラム教の断食月ラマダンまでに合意に至るのは難しい情勢で、ラマダン中も戦闘が続けば中東全域に緊張が広がることが懸念されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キム総書記 軍の砲撃訓練を視察 韓国首都圏への攻撃想定訓練か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240308/k10014383041000.html</id>
