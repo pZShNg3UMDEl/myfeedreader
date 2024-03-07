@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T10:12:44.520Z</updated>
+    <updated>2024-03-07T10:25:07.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -80,6 +80,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240307/k10014382481000.html"/>
         <updated>2024-03-07T09:42:52.000Z</updated>
         <summary type="html"><![CDATA[日銀の植田総裁は参議院予算委員会に出席し、マイナス金利の解除など金融政策の転換の前提となる2％の物価安定目標について「実現する確度が少しずつ高まっている」という認識を改めて示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国際芸術祭負担金 名古屋市に支払い命じた判決確定 最高裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014382261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014382261000.html"/>
+        <updated>2024-03-07T09:40:30.000Z</updated>
+        <summary type="html"><![CDATA[5年前に行われた国際芸術祭「あいちトリエンナーレ」の「表現の不自由」をテーマにした展示をめぐり、名古屋市が負担金の一部の支払いを拒否したことの是非が争われた裁判で、最高裁判所は7日までに市の上告を退ける決定をし、市に3380万円余りの支払いを命じた判決が確定しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
