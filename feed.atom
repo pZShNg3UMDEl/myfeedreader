@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T07:10:46.717Z</updated>
+    <updated>2024-03-07T07:20:37.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【CoCo壱番屋（ココイチ）】ココイチベジカレー・ほうれん草・ライス350g【定番メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=238409</id>
+        <link href="https://foodfighter.jp/ichibanya-vegetable-spinach"/>
+        <updated>2024-03-07T07:10:22.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、豊富なトッピングで好みの組み合わせを見つけることができる超有名人気カレー専門チェーン「カレーハウスC […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米FDA、店頭購入できる持続血糖モニターを初承認]]></title>
         <id>https://gadget.phileweb.com/?p=71104</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[米国食品医薬品局（FDA）は、医師の処方箋なしで店頭購入できる持続血糖モニター（CGM）を初めて承認した。 承認されたのは、Dexcomの「Stelo Glucose Biosensor System」。細かい針のついたセンサーパッチを上腕部に貼り付けると、専用のスマートフォンアプリを用いて、最大1 […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東日本大震災から13年 岩手 宮城 福島 1000人アンケート]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014381831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381831000.html"/>
+        <updated>2024-03-07T07:02:36.000Z</updated>
+        <summary type="html"><![CDATA[東日本大震災と東京電力福島第一原発の事故の発生から、まもなく13年です。被災地では防潮堤などハード面の整備がおおむね完了した一方で、被災者の心のケアなど国によるソフト面の支援が継続しています。NHKは今後の支援や被災地のコミュニティーづくり、経験や教訓の伝承などについて、被災地で暮らす人たちにアンケートを行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
