@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T03:36:00.350Z</updated>
+    <updated>2024-03-07T03:50:11.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[原発事故で被害 福島 双葉町の郵便局 約13年ぶりに営業再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014381991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381991000.html"/>
+        <updated>2024-03-07T03:33:40.000Z</updated>
+        <summary type="html"><![CDATA[東京電力福島第一原発が立地し、原発事故で大きな被害を受けた福島県双葉町で、郵便局がおよそ13年ぶりに営業を再開しました。営業する郵便局が一つもなかった自治体は、全国で双葉町だけでしたが、7日で解消されたということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王毅外相「中国に対する誤った認識続いている」 米をけん制]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014381971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381971000.html"/>
+        <updated>2024-03-07T03:27:59.000Z</updated>
+        <summary type="html"><![CDATA[中国の王毅外相は記者会見で、アメリカとの関係について、「中国に対する誤った認識が続いている」と指摘したうえで、「アメリカには中国の発展を客観的かつ理性的にとらえ、両国関係が安定し、健全で持続可能な発展の軌道に乗せることを求める」と述べ、けん制しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[熊本県知事選が告示 新人4人が立候補 17日間の選挙戦に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240307/k10014381931000.html</id>
