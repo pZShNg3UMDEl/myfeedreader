@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T07:35:34.272Z</updated>
+    <updated>2024-03-07T07:50:13.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[米国食品医薬品局（FDA）は、医師の処方箋なしで店頭購入できる持続血糖モニター（CGM）を初めて承認した。 承認されたのは、Dexcomの「Stelo Glucose Biosensor System」。細かい針のついたセンサーパッチを上腕部に貼り付けると、専用のスマートフォンアプリを用いて、最大1 […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[輸入小麦売り渡し価格 4月以降0.6％引き下げ 2期連続 農水省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014382201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014382201000.html"/>
+        <updated>2024-03-07T07:03:15.000Z</updated>
+        <summary type="html"><![CDATA[政府が輸入した小麦を製粉会社などに売り渡す価格について、農林水産省は来月以降、0.6％引き下げると発表しました。売り渡し価格の引き下げは2期連続となります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
