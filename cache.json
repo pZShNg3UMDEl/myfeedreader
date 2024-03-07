@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120710/",
+          "author": null,
+          "description": "明治の黎明期を舞台にしたオリジナル時代劇「明治撃剣-1874-」（以下「明治撃剣」）。BS松竹東急で放送中だが、見た人の多くが史実を織り交ぜてのその骨太な群像ドラマに魅了されている。シリーズも残...",
+          "link": "https://anime.eiga.com/news/120710/",
+          "publishedOn": "2024-03-07T10:00:00.000Z",
+          "wordCount": 955,
+          "title": "「明治撃剣」玉村仁（監督）×戸塚直樹（シリーズ構成）　歴史ドラマ的立て付けのエンタメ時代劇という挑戦",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120750/",
           "author": null,
           "description": "テレビアニメ「死神坊ちゃんと黒メイド（第3期）」の主題歌詳細が発表され、ショートPVとメインビジュアルが公開された。放送スケジュールも明らかになっている。 同作は、2017～22年に「サンデーう...",
@@ -5911,6 +5926,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240307/k10014382441000.html",
+          "author": null,
+          "description": "大学で理工系分野を学ぶ女子学生の割合が少ないことが課題となる中、「女子枠」を導入した大学は少なくとも40大学に上り、多くがここ数年で導入していることが公益財団法人の調査で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240307/k10014382441000.html",
+          "publishedOn": "2024-03-07T09:48:22.000Z",
+          "wordCount": 548,
+          "title": "“理工系分野の「女子枠」導入 40大学に” 公益財団法人の調査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240307/K10014382441_2403071801_0307184825_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240307/k10014382481000.html",
           "author": null,
           "description": "日銀の植田総裁は参議院予算委員会に出席し、マイナス金利の解除など金融政策の転換の前提となる2％の物価安定目標について「実現する確度が少しずつ高まっている」という認識を改めて示しました。",
@@ -5969,6 +5994,16 @@
           "wordCount": 797,
           "title": "大阪 「あべのハルカス」 全面開業から10年で記念式典",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240307/K10014382031_2403071629_0307163054_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240307/k10014382211000.html",
+          "author": null,
+          "description": "去年、宇都宮市で、時速160キロを超える速度の車にはねられて死亡した男性の遺族などが7日、都内で記者会見しました。猛スピードで事故を起こしたドライバーに刑の重い危険運転致死の罪を適用してほしいとして、検察トップの検事総長にあてて要望書を出したということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240307/k10014382211000.html",
+          "publishedOn": "2024-03-07T07:46:19.000Z",
+          "wordCount": 777,
+          "title": "時速160キロ超の車の事故で死亡 遺族“危険運転致死罪適用を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240307/K10014382211_2403071615_0307164516_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240307/k10014382201000.html",
@@ -22519,26 +22554,6 @@
           "wordCount": 788,
           "title": "米国務長官「ハマスから返答あった」ガザ地区の交渉進展に期待",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014349911_2402070722_0207074608_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014349931000.html",
-          "author": null,
-          "description": "7日は「北方領土の日」です。上川外務大臣は、ロシアとの間で領土問題を解決して平和条約を締結する方針を堅持し、交流事業の早期再開を目指す考えを強調しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014349931000.html",
-          "publishedOn": "2024-02-06T22:04:36.000Z",
-          "wordCount": 338,
-          "title": "北方領土の日 領土問題解決し平和条約締結の方針堅持 上川外相",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014349931_2402062101_0206210253_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350091000.html",
-          "author": null,
-          "description": "がんと診断されたことを公表したイギリスのチャールズ国王のもとを、6日、次男のハリー王子が訪れました。公務から退き、アメリカを拠点に王室批判を続けてきたハリー王子が父親と会うのは去年5月の戴冠式（たいかんしき）以来だとして、地元メディアは大きく報じています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350091000.html",
-          "publishedOn": "2024-02-06T21:51:54.000Z",
-          "wordCount": 643,
-          "title": "がん公表のチャールズ国王をハリー王子が訪問 戴冠式以来",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350091_2402070639_0207065156_01_02.jpg"
         }
       ]
     },
@@ -22594,6 +22609,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=238438",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの菓子パン「熟成フランス あんバター」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
+          "link": "https://foodfighter.jp/711sej-french-bread-anbutter",
+          "publishedOn": "2024-03-07T09:50:25.000Z",
+          "wordCount": 1789,
+          "title": "【セブンイレブン】熟成フランス あんバター【新作コンビニ菓子パン】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/47d23408c219e08cb68579bb630e18f5.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=238409",
           "author": "foodfighter",
@@ -27907,16 +27932,6 @@
           "wordCount": 1397,
           "title": "子猫が甘えん坊モードになったので部屋の中に入って一緒に過ごしてあげました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68031.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=67990",
-          "author": "299",
-          "description": "ホワイトタイガーのような凛々しい顔立ちの子猫がぐっすり眠りこけています。このキュートな寝顔は可愛いすぎて愛おしすぎてたまらなくなりますね。 思わず頭を指先でナデナデしてしまう飼い主さんです。鼻筋から頭にかけてツーツーっと...\n可愛すぎる子猫を起こそうとしたけれど全く起きない！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/67990",
-          "publishedOn": "2024-02-06T22:00:28.000Z",
-          "wordCount": 1397,
-          "title": "可愛すぎる子猫を起こそうとしたけれど全く起きない！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67990.jpg"
         }
       ]
     },
@@ -27931,6 +27946,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=71157",
+          "author": "編集部：平山洸太",
+          "description": "ZERO ZERO ROBOTICSは、 “AI飛行カメラ” と説明する小型ドローン「HOVERAir X1 Smart」を発表。応援購入サイトのMakuakeにおいて、先行予約販売を開始した。プロジェクトは4月20日18時までの実施となり、たとえば100名限定の「超早割」は59,990円（税込）で […]",
+          "link": "https://gadget.phileweb.com/post-71157/",
+          "publishedOn": "2024-03-07T09:57:51.000Z",
+          "wordCount": 804,
+          "title": "99gの “AI飛行カメラ” 「HOVERAir X1 Smart」。5種類の飛行モード搭載",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/DSC_7020.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=71104",
           "author": "Munenori Taniguchi",
@@ -29476,6 +29501,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kXGktsXd3KI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kXGktsXd3KI",
+          "publishedOn": "2024-03-07T10:00:40.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】3月13日水曜よる７時〜▼おもしろ刑事ドラマの人選手権【予告】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zFFp0TZ50IU",
           "author": null,
           "description": "",
@@ -29632,6 +29667,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033655.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Ailuropoda melanoleuca ★：2024/03/06(水) 11:40:50.27 ID:3ik/ZAqF9.net\n\n\n\n\n\n\n\n\n「チェルシー」が無くなると言われて買いに走る人達。「カール」が無くなるときも「大好きだったのに」とか言ってる人達居たけど、君らが買わなかったから無くなるんだよ。。。>チ...",
+          "link": "https://itainews.com/archives/2033655.html",
+          "publishedOn": "2024-03-07T10:01:24.000Z",
+          "wordCount": 2325,
+          "title": "【ひろゆき】チェルシー販売終了を惜しむ声に疑問「君らが買わなかったから無くなるんだよ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/f/ef2a38f9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033659.html",
           "author": "damono3856",
