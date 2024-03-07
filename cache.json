@@ -5857,16 +5857,6 @@
           "wordCount": 3740,
           "title": "A Sony Job Opening in Switzerland",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/02/ai-chat-engines-express-their-opinions.html",
-          "author": null,
-          "description": "We asked four AI chat engines a simple question, \"Who invented CMOS Image Sensors?\" There seems to have been a lot of variety in the training sets.\n\n\n \n  \n \n\n \n  Normal\n  0\n  \n  \n  \n  \n  false\n  false\n  false\n  \n  EN-US\n  X-NONE\n  X-NONE\n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n\n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  …",
-          "link": "http://image-sensors-world.blogspot.com/2024/02/ai-chat-engines-express-their-opinions.html",
-          "publishedOn": "2024-02-06T15:14:00.001Z",
-          "wordCount": 4452,
-          "title": "AI Chat Engines Express Their Opinions on CMOS Image Sensor Origins",
-          "imageUrl": null
         }
       ]
     },
@@ -5875,6 +5865,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240307/k10014381891000.html",
+          "author": null,
+          "description": "4歳の次女や40代の姉に有害な化学物質を摂取させて殺害したとして夫婦が逮捕された事件で、姉に対して夫婦が以前から飲食物を差し入れていたとみられることがわかり、警視庁はこうした機会などを使って化学物質を混入した疑いもあるとみて調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240307/k10014381891000.html",
+          "publishedOn": "2024-03-07T03:16:52.000Z",
+          "wordCount": 608,
+          "title": "次女と姉 殺害容疑で逮捕の夫婦 姉に以前から飲食物差し入れか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240307/K10014381891_2403071210_0307121654_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240307/k10014381901000.html",
           "author": null,
@@ -27756,6 +27756,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=71058",
+          "author": "Munenori Taniguchi",
+          "description": "ウェブトラフィック分析ツール「Statcounter」が集計したデータによると、この2月の世界のデスクトップOS市場におけるLinuxのシェアが4.03%に達したことがわかった。Linuxは昨年6月に初めて3%に到達したばかりだったので、8か月ほどで4%を超えたことは、これまでに比べると驚異的な伸び […]",
+          "link": "https://gadget.phileweb.com/post-71058/",
+          "publishedOn": "2024-03-07T03:16:20.000Z",
+          "wordCount": 750,
+          "title": "デスクトップOSのシェアでLinuxが初の4%超え。3%到達からわずか8か月で驚きの増加",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/Tux.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=71050",
+          "author": "多根清史",
+          "description": "PlayStation独占タイトルだった『Ghost of Tsushima Director’s Cut』のPC版が登場する。現在「Steam」および「Epic Games Store」にて予約受付中であり、Steam版は5月17日（日本時間）発売だ。 もともと『Ghost of Ts […]",
+          "link": "https://gadget.phileweb.com/post-71050/",
+          "publishedOn": "2024-03-07T03:13:11.000Z",
+          "wordCount": 803,
+          "title": "PC版『Ghost of Tsushima Director’s Cut』5月17日発売。DLSSやウルトラワイドモニター対応",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/ph00_TSUSHIMA.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=71024",
           "author": "佐野正弘",
