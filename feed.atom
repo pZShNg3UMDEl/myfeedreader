@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T13:24:02.102Z</updated>
+    <updated>2024-03-07T13:36:28.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[野球日本代表 欧州代表に2連勝 6人の投手リレーで完全試合]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014382851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014382851000.html"/>
+        <updated>2024-03-07T13:16:21.000Z</updated>
+        <summary type="html"><![CDATA[野球の日本代表は7日夜、ことし11月の国際大会に向けたヨーロッパ代表との強化試合を行い、6人の投手リレーで一人のランナーも許さず完全試合を達成し、2対0で勝ちました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゼレンスキー大統領とギリシャ首相の記者会見が爆発、２人は無事、５人死亡]]></title>
         <id>https://itainews.com/archives/2033674.html</id>
@@ -37002,16 +37012,6 @@ JUST IN!! 新着記事⠀ /／　　　　　　　　　🗣「万引きのた�
 膝の上からジッと見つめてくる子猫に胸がキュンキュンします first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪でアイスコーヒーを“レイコー”って呼ぶのなんでなん？]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240207/k10014299521000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014299521000.html"/>
-        <updated>2024-02-07T01:33:25.000Z</updated>
-        <summary type="html"><![CDATA[「レイコーちょうだい」大阪の喫茶店で、そんな注文を聞いたことありませんか？「レイコー（冷コー）」とは、冷たいコーヒー＝アイスコーヒーのことです。でも、なんで大阪でこう呼ばれるようになったんでしょうか？そもそも、本当に通じるんでしょうか？季節外れではありますが、街に出て調べてみました。（大阪放送局 ディレクター 田隈佑紀/三田村昂記）]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
