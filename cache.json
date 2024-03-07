@@ -6,6 +6,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120748/",
+          "author": null,
+          "description": "アニメ「黒執事」の新シリーズ「寄宿学校編」のキービジュアルが公開された。物語の舞台となるウェストン校をバックに、学校に潜入したセバスチャンとシエル、4つの寮の監督生（プリーフェクト）である「P4...",
+          "link": "https://anime.eiga.com/news/120748/",
+          "publishedOn": "2024-03-07T12:00:00.000Z",
+          "wordCount": 900,
+          "title": "「黒執事 -寄宿学校編-」新キービジュアル公開　小野大輔ら登壇の先行上映会が3月24日開催決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120749/",
           "author": null,
           "description": "4月からスタートするテレビアニメ「シンカリオン チェンジ ザ ワールド」のオープニング主題歌を4人組ボーカルグループ「GReeeeN」が担当することが明らかになり、同曲を収めたメインPV第2弾が...",
@@ -5231,16 +5246,6 @@
           "wordCount": 10031,
           "title": "任天堂がパルワールドについて言及「一般論として知財の侵害になるものには適切な対応を取ることになる」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/palworld.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97896",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/06(火) 22:49:53.54 ID:O9zUaKJu0 https:// […]",
-          "link": "https://switchsoku.com/square-enix/97896",
-          "publishedOn": "2024-02-07T00:00:26.000Z",
-          "wordCount": 10081,
-          "title": "スクエニ、外注開発を減らし内製タイトル強化に方針転換へ",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/06/square-enix.jpg"
         }
       ]
     },
@@ -22569,36 +22574,6 @@
           "wordCount": 1624,
           "title": "大阪でアイスコーヒーを“レイコー”って呼ぶのなんでなん？",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014299521_2401111731_0112092105_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350221000.html",
-          "author": null,
-          "description": "アメリカの議会上院は6日、ホワイトハウスのNSC＝国家安全保障会議のキャンベル・インド太平洋調整官を国務副長官とすることを承認し、正式に就任することが決まりました。バイデン政権としては最大の競合国と位置づける中国への対抗を、引き続き重視していくものとみられます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350221000.html",
-          "publishedOn": "2024-02-07T00:14:22.000Z",
-          "wordCount": 730,
-          "title": "米議会上院 国務副長官にキャンベル氏承認 中国への対抗重視か",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350221_2402070850_0207091424_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350211000.html",
-          "author": null,
-          "description": "イスラエル軍のハガリ報道官は6日、ガザ地区でイスラム組織ハマスにとらわれている人質のうち31人が死亡したと明らかにしました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350211000.html",
-          "publishedOn": "2024-02-07T00:02:38.000Z",
-          "wordCount": 696,
-          "title": "イスラエル軍報道官「ハマスにとらわれた人質31人が死亡」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350211_2402070859_0207090240_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350131000.html",
-          "author": null,
-          "description": "ロシア法務省は、北方領土の返還運動を続ける日本の団体を、ロシアでの活動を事実上禁止する「好ましからざる団体」に指定したと発表しました。日本側への圧力を強めるねらいとみられます。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350131000.html",
-          "publishedOn": "2024-02-06T23:53:12.000Z",
-          "wordCount": 841,
-          "title": "ロシア 北方領土めぐり日本の団体を「好ましからざる団体」に",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350131_2402070818_0207085314_01_02.jpg"
         }
       ]
     },
@@ -24420,16 +24395,6 @@
           "wordCount": 2662,
           "title": "「Wi-Fi CERTIFIED 7」対応チップセット、4品種を発売",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/08/cover_news067.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/07/news059.html",
-          "author": null,
-          "description": "オンセミは、EV向けDC高速充電器とESS向けの双方向充電機能を有する、9種の「EliteSiCパワー統合モジュール（PIM）」を発表した。従来のSi（シリコン） IGBT製品に比べてサイズを最大40％、重量を最大52％低減できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/07/news059.html",
-          "publishedOn": "2024-02-07T00:00:00.000Z",
-          "wordCount": 2630,
-          "title": "EV／ESS向けの双方向充電可能なSiCパワー統合モジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/07/cover_news059.jpg"
         }
       ]
     },
@@ -27967,16 +27932,6 @@
           "wordCount": 1398,
           "title": "膝の上からジッと見つめてくる子猫に胸がキュンキュンします",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/67995.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68031",
-          "author": "299",
-          "description": "簡易子猫部屋の中には2匹の可愛い保護猫の子供たちが入っています。一緒に遊んだり毛づくろいをしたり、すっかり自立して自分なりの時間の過ごし方をしています。 でもしょせんはまだまだ子猫なので、甘えたくてしかたがないお年頃です...\n子猫が甘えん坊モードになったので部屋の中に入って一緒に過ごしてあげました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68031",
-          "publishedOn": "2024-02-07T00:00:15.000Z",
-          "wordCount": 1397,
-          "title": "子猫が甘えん坊モードになったので部屋の中に入って一緒に過ごしてあげました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68031.jpg"
         }
       ]
     },
@@ -29712,6 +29667,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033667.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：ネギうどん ★：2024/03/07(木) 09:13:04.92 ID:EyKQ+NEN9.net\n\n\n\n\n\n\n\n\n\n朝倉未来、自身の事務所に入った小5女子にメロメロ 「パパ活する人の気持ちがわかった」https://t.co/SSwil7e7Ad— ユーチュラ-YouTubeランキング (@ytranking) March 5, 2024 \n\n\n\n\n\n\n\n「朝倉...",
+          "link": "https://itainews.com/archives/2033667.html",
+          "publishedOn": "2024-03-07T12:01:43.000Z",
+          "wordCount": 2456,
+          "title": "【格闘家】朝倉未来、自身の事務所に入った小5女子にメロメロ 「パパ活する人の気持ちがわかった」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8ee1d58f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033668.html",
           "author": "damono3856",
@@ -33051,16 +33016,6 @@
           "wordCount": 2375,
           "title": "若い男性、ゲームのし過ぎでセックスレスが増加…若い女性は膣のサイズが縮小",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/5/95b15eeb-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032860.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：愛の戦士 ★：2024/02/06(火) 17:00:56.86 ID:p0xZ26eb9.net\n\n\n\n\n\n\n\n\n\n広島マツダ代表取締役会長兼CEOの松田哲也氏の昨夜のFacebook投稿です。今朝はもう検索しても見られませんが、ありえない内容。#広島 pic.twitter.com/1vAwOS2ogK— ジェンダーを考えるひろしま...",
-          "link": "https://itainews.com/archives/2032860.html",
-          "publishedOn": "2024-02-07T00:01:38.000Z",
-          "wordCount": 2660,
-          "title": "「広島マツダ」会長、松本人志の報道巡り「私は圧倒的に味方」投稿に批判　「これはひどい」「吐きそうな内容でした」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/1/f1cac728-s.png"
         }
       ]
     },
