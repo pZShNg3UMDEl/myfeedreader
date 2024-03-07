@@ -2794,21 +2794,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120539/",
-          "author": null,
-          "description": "テレビアニメ「響け！ユーフォニアム3」が4月7日から、毎週日曜日午後5時にEテレで放送されることが分かった。あわせて、黄前久美子のキャラクターPV（https://youtube.com/sho...",
-          "link": "https://anime.eiga.com/news/120539/",
-          "publishedOn": "2024-02-06T12:00:00.000Z",
-          "wordCount": 755,
-          "title": "「響け！ユーフォニアム3」4月7日午後5時からEテレで放送開始　黄前久美子のキャラPV公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -2817,6 +2802,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=98962",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/06(水) 15:57:15.95 ID:e5Zdq ワーナー、ゲームの買い切 […]",
+          "link": "https://switchsoku.com/gossip/98962",
+          "publishedOn": "2024-03-07T00:10:20.000Z",
+          "wordCount": 10058,
+          "title": "ワーナー、ゲームの買い切りソフトから撤退",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/03/hogwarts.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=98959",
           "author": "SWITCH速報",
@@ -5146,16 +5141,6 @@
           "wordCount": 10104,
           "title": "スマブラ桜井「版権モノのキャラゲーはつまらない」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/yujpU7B.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97878",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/06(火) 15:44:43.94 ID:FFypG0rL0 https:// […]",
-          "link": "https://switchsoku.com/soft/mariokart8/97878",
-          "publishedOn": "2024-02-06T12:00:47.000Z",
-          "wordCount": 10037,
-          "title": "『マリオカート8DX』累計6000万本突破！！",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/05/hq720.jpg"
         }
       ]
     },
@@ -5630,16 +5615,6 @@
           "wordCount": 4445,
           "title": "ゲームレビュー：嵐の中で街づくりを繰り返せ！「Against the Storm」",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/02/Against-the-Storm-2024_01_20-10_21_00.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=9490",
-          "author": "watanabe@logipara.com",
-          "description": "【第3類医薬品】龍角散ダイレクトスティックミント 16包 posted with AmaQuick at 2024.02.06 龍角散 ￥476 Amazon.co.jpで詳細を見る 　 龍角散ダイレクトのCMを見ている […]",
-          "link": "https://logipara.com/diary-text/2024-02-07",
-          "publishedOn": "2024-02-06T12:09:00.000Z",
-          "wordCount": 4410,
-          "title": "理屈しかない",
-          "imageUrl": "https://m.media-amazon.com/images/I/41-MMVXuGJL._SL200_.jpg"
         }
       ]
     },
@@ -5894,6 +5869,16 @@
           "wordCount": 624,
           "title": "1月の実質賃金 前年同月比で0.6％減少 22か月連続のマイナス",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240307/K10014381431_2403062014_0307083515_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240307/k10014381441000.html",
+          "author": null,
+          "description": "派閥の政治資金パーティーをめぐる問題を受けて、自民党は党則などを改正し、悪質な会計処理があった場合に会計責任者だけでなく議員本人を処分する仕組みを設け信頼回復につなげたい考えです。一方、野党側は、実態解明に向けた取り組みは不十分だと批判していて追及を続ける方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240307/k10014381441000.html",
+          "publishedOn": "2024-03-06T23:27:52.000Z",
+          "wordCount": 848,
+          "title": "自民 党則など改正へ 悪質な会計処理は議員本人処分の仕組みに",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240307/K10014381441_2403061959_0307082754_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240307/k10014381421000.html",
@@ -22314,66 +22299,6 @@
           "wordCount": 689,
           "title": "IAEA事務局長 ザポリージャ原発視察へ 両国への働きかけ続ける",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349941_2402062203_0206232414_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349981000.html",
-          "author": null,
-          "description": "香港の警察は、カナダに滞在している民主活動家の周庭氏について、6日、指名手配したことを明らかにしました。周庭氏は香港国家安全維持法に違反した疑いで4年前に逮捕され、その後保釈されていましたが、去年12月、カナダに滞在していることを明らかにしていました。香港の警察は、指定した期日に出頭せず、保釈の条件に違反したと非難し、追及に全力を挙げる方針を示していました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349981000.html",
-          "publishedOn": "2024-02-06T12:29:03.000Z",
-          "wordCount": 265,
-          "title": "香港 民主活動家の周庭氏を指名手配 香港の警察が発表",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349981_2402062123_0206212904_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349601000.html",
-          "author": null,
-          "description": "経団連の十倉会長は、能登半島地震の被災地の復興への大阪・関西万博の影響について「現時点で復旧復興に支障を来す事態は認識していない」と述べ、来年の開催に向けて予定どおり準備を進める考えを改めて示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349601000.html",
-          "publishedOn": "2024-02-06T12:13:58.000Z",
-          "wordCount": 743,
-          "title": "経団連 十倉会長 万博「復旧復興に支障来す事態 認識せず」",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349601_2402061823_0206211341_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349801000.html",
-          "author": null,
-          "description": "半導体の受託生産で世界最大手の台湾のTSMCは、日本で2番目となる半導体工場を熊本県に建設すると正式に発表しました。工場の運営会社にはソニーグループなどに加えて新たにトヨタ自動車が出資し、第1工場と合わせた投資額は日本円で2兆9600億円を超える規模となります。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349801000.html",
-          "publishedOn": "2024-02-06T12:12:42.000Z",
-          "wordCount": 450,
-          "title": "台湾TSMC 日本で2番目の半導体工場 熊本県に建設へ 正式発表",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349801_2402062011_0206211157_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349641000.html",
-          "author": null,
-          "description": "国会は、午後も衆議院予算委員会で新年度予算案の審議が行われ、岸田総理大臣は、自民党の派閥の政治資金パーティーをめぐる問題を受けて企業や団体から提供される資金に関するルールづくりを議論すべきだという認識を示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349641000.html",
-          "publishedOn": "2024-02-06T12:00:50.000Z",
-          "wordCount": 778,
-          "title": "岸田首相“企業や団体提供の資金 ルールづくり議論を”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349641_2402061906_0206192338_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349671000.html",
-          "author": null,
-          "description": "トルコとシリアで甚大な被害となった大地震の発生から6日で1年です。現地で活動を続ける日本赤十字社の職員は「復興が進んでいるとは言い難い現状が続いていて、引き続き支援をお願いしたい」と訴えています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349671000.html",
-          "publishedOn": "2024-02-06T11:57:47.000Z",
-          "wordCount": 568,
-          "title": "トルコ・シリア大地震1年 “引き続き復興支援を”日本赤十字社",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349671_2402061952_0206195835_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240206/k10014349751000.html",
-          "author": null,
-          "description": "JR東日本によりますと、5日からの雪で列車の運行に影響が出たもののうち、要因として最も多かったのは竹や木が線路付近に倒れたことだったということです。",
-          "link": "http://www3.nhk.or.jp/news/html/20240206/k10014349751000.html",
-          "publishedOn": "2024-02-06T11:54:00.000Z",
-          "wordCount": 470,
-          "title": "JR東日本 雪の運行影響の要因 “線路付近の倒竹や倒木”最多",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240206/K10014349751_2402062009_0206205341_01_02.jpg"
         }
       ]
     },
@@ -23857,6 +23782,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/07/news053.html",
+          "author": null,
+          "description": "TDKは、車載高周波回路用インダクター「MHQ1005075HA」シリーズを発表した。同社独自のセラミック材料と構造を採用し、空芯巻線インダクターと同程度の高いQ特性を備える。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/07/news053.html",
+          "publishedOn": "2024-03-07T00:00:00.000Z",
+          "wordCount": 2591,
+          "title": "高いQ特性を備えた、車載高周波回路用インダクター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/07/cover_news053.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/06/news075.html",
           "author": null,
           "description": "パナソニック インダストリーは2024年2月28日、135℃保証を大容量タイプで実現した、導電性高分子ハイブリッドアルミ電解コンデンサー「ZLシリーズ」を発表した。ECUの小型化やxEV（電動車）の高性能化に貢献する。",
@@ -24163,6 +24098,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69893",
+          "author": "299",
+          "description": "赤ちゃんを無事に出産してから3日が経ちました。お母さん猫はまだまだ産後すぐでお疲れのはずですが意外とキリリとした表情で余裕すら感じられます。 そんなお母さん猫が赤ちゃん猫を先住猫の寝床のところに運びこみ始めました。１匹、...\n馴染みの先住猫のお部屋で子育てをする母猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69893",
+          "publishedOn": "2024-03-07T00:00:49.000Z",
+          "wordCount": 1340,
+          "title": "馴染みの先住猫のお部屋で子育てをする母猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69893.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69850",
           "author": "299",
@@ -32656,16 +32601,6 @@
           "wordCount": 2403,
           "title": "「JAF到達まで待つしか無い」箱根で行き詰まったホンダ車の布チェーン車カスをご覧ください",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/1/d124ff5c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032851.html",
-          "author": "damono3856",
-          "description": "1 名前：うんち(茸) [GB]：2024/02/06(火) 12:32:46.38 ID:1dGlGyaT0.net\n\n\n\n\n\n\n\nX民「#タマホーム の展示場で施工不良の“釘”を見つけた」↓📞タマホーム「ツイート消せ😊」↓📞X民「イヤです」↓タマホーム、X民を自宅で待ち伏せしてツイ消し要求↓X民「仕方ない消す...",
-          "link": "https://itainews.com/archives/2032851.html",
-          "publishedOn": "2024-02-06T12:03:20.000Z",
-          "wordCount": 2541,
-          "title": "タマホーム社に訴えると名指しされていたこしあん氏、完全謝罪。",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/a/0a25eab9-s.png"
         }
       ]
     },
