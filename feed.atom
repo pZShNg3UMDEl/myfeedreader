@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T16:36:29.860Z</updated>
+    <updated>2024-03-07T16:50:38.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スウェーデン NATOへの加盟手続き完了 正式に32番目の加盟国に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014382921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014382921000.html"/>
+        <updated>2024-03-07T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[北欧スウェーデンのクリステション首相は7日、ワシントンを訪れてNATO＝北大西洋条約機構への加盟に関わる文書をアメリカのブリンケン国務長官に手渡しました。これによってスウェーデンの加盟手続きはすべて完了し、スウェーデンは正式にNATOの32番目の加盟国となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兄妹猫のところに新入り子猫がやってきて一緒にまったり〜]]></title>
         <id>https://2-9-9.com/?p=69953</id>
@@ -36850,16 +36860,6 @@ JUST IN!! 新着記事⠀ /／　　　　　　　　　🗣「万引きのた�
 ...]]></summary>
         <author>
             <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石川 3万7000戸余で断水続く 日常取り戻す動きも]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240207/k10014350251000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240207/k10014350251000.html"/>
-        <updated>2024-02-07T04:39:41.000Z</updated>
-        <summary type="html"><![CDATA[石川県内では、輪島市と珠洲市のほぼ全域で断水するなど、7つの市と町の3万7000戸余りで断水が続いています(6日午後2時時点)。遅いところでは復旧が4月以降になるという見通しも示されるなか、かけ湯のできる仮設の風呂が設けられるなど、少しずつ日常を取り戻そうという動きも出てきています。]]></summary>
-        <author>
-            <name>NHKニュース</name>
         </author>
     </entry>
 </feed>
