@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T03:22:15.426Z</updated>
+    <updated>2024-03-07T03:36:00.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[熊本県知事選が告示 新人4人が立候補 17日間の選挙戦に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240307/k10014381931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240307/k10014381931000.html"/>
+        <updated>2024-03-07T03:24:53.000Z</updated>
+        <summary type="html"><![CDATA[任期満了に伴う熊本県知事選挙が、7日、告示され、これまでに、自民党と公明党が推薦する元熊本県副知事や、野党4党の地方組織が自主的に支援する元熊本市長など、新人4人が立候補し、17日間の選挙戦に入りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次女と姉 殺害容疑で逮捕の夫婦 姉に以前から飲食物差し入れか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240307/k10014381891000.html</id>
