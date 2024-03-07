@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T22:27:02.213Z</updated>
+    <updated>2024-03-07T22:37:29.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高校野球 センバツ【速報予定】きょう組み合わせ抽せん]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014382631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014382631000.html"/>
+        <updated>2024-03-07T22:30:50.000Z</updated>
+        <summary type="html"><![CDATA[今月18日に甲子園球場で開幕するセンバツ高校野球の組み合わせ抽せんが8日午前9時から行われ、出場32校の1回戦の対戦相手が決まります。組み合わせ抽せんについて速報でお伝えする予定です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日暮里・舎人ライナー 全線で運転見合わせ 再開の見通し立たず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383011000.html"/>
+        <updated>2024-03-07T22:25:56.000Z</updated>
+        <summary type="html"><![CDATA[日暮里・舎人ライナーは雪の影響で午前7時ごろから全線で運転を見合わせています。運転再開の見通しは立っていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コワモテな海辺の猫さんが意外とフレンドリーでした]]></title>
         <id>https://2-9-9.com/?p=69917</id>
@@ -36481,16 +36501,6 @@ development. In this work, an SNSPD array desig…]]></summary>
         <summary type="html"><![CDATA[2月に入り、「鼻がムズムズ、目がかゆい」という声も聞こえてきました。スギやヒノキの花粉が本格的に飛び始める前に、どのように対策をすればよいのか取材しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今期TVアニメランキング】「葬送のフリーレン」5連続首位　今週「金曜ロードショー」は「かがみの孤城」]]></title>
-        <id>https://anime.eiga.com/news/column/konki_ranking/120541/</id>
-        <link href="https://anime.eiga.com/news/column/konki_ranking/120541/"/>
-        <updated>2024-02-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2月第2週の2024年冬アニメ録画ランキングは、「葬送のフリーレン」が5週連続で首位となった。 2位は先週から順位をひとつあげた「薬屋のひとりごと」。3位「ポケットモンスター 新シリーズ」、4位...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
