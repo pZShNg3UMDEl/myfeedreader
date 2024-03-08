@@ -323,6 +323,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=71162",
+          "author": "多根清史",
+          "description": "アップルが複数の折りたたみ式（折りたたみ可能な画面を持つ）デバイスに取り組んでいるとの噂は、何度となく報じられてきた。社内で研究・開発が進められていたとしても、必ずしも製品化を目指しているとは限らず、長らく検討段階に留まっている可能性もあるだろう。 そんななか、信頼性の高い著名アナリストが、同社が折 […]",
+          "link": "https://gadget.phileweb.com/post-71162/",
+          "publishedOn": "2024-03-08T01:23:07.000Z",
+          "wordCount": 785,
+          "title": "アップル、20.3インチの折りたたみディスプレイ搭載MacBookが2027年に量産開始の可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_2283139431.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=71157",
           "author": "編集部：平山洸太",
           "description": "ZERO ZERO ROBOTICSは、 “AI飛行カメラ” と説明する小型ドローン「HOVERAir X1 Smart」を発表。応援購入サイトのMakuakeにおいて、先行予約販売を開始した。プロジェクトは4月20日18時までの実施となり、たとえば100名限定の「超早割」は59,990円（税込）で […]",
@@ -1912,6 +1922,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383131000.html",
+          "author": null,
+          "description": "JR西日本によりますと山陽新幹線は山口県内で起きた人身事故の影響で小倉駅と広島駅の間の上り線と新大阪駅と徳山駅の間の下り線で運転を見合わせていましたが、午前10時30分に運転を再開しました。引き続き山陽新幹線と東海道新幹線はダイヤの乱れが続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383131000.html",
+          "publishedOn": "2024-03-08T01:37:43.000Z",
+          "wordCount": 173,
+          "title": "山陽新幹線 運転再開 山陽・東海道新幹線ダイヤ乱れ続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383131_2403080958_0308103745_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383101000.html",
+          "author": null,
+          "description": "離婚後の子どもの養育について、政府は、父と母双方が子どもの親権を持つ「共同親権」の導入を柱とした民法などの改正案を、8日の閣議で決定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383101000.html",
+          "publishedOn": "2024-03-08T01:31:21.000Z",
+          "wordCount": 647,
+          "title": "離婚後の養育 「共同親権」導入へ 民法など改正案を閣議決定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383101_2403080943_0308103123_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383141000.html",
+          "author": null,
+          "description": "日本が海外との貿易や投資でどれだけ稼いだかを示すことし1月の経常収支は、エネルギーの輸入価格の下落を背景に、12か月連続の黒字となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383141000.html",
+          "publishedOn": "2024-03-08T01:26:59.000Z",
+          "wordCount": 726,
+          "title": "1月の経常収支 12か月連続黒字 エネルギー価格下落が主要因",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383141_2403081018_0308102702_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383111000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題で、参議院政治倫理審査会は議員の弁明とそれに対する質疑を行うことを全会一致で決めました。今後、関係議員に対して出席の意向確認を行い、来週後半の審査会開催も視野に調整を進めることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383111000.html",
+          "publishedOn": "2024-03-08T01:23:09.000Z",
+          "wordCount": 593,
+          "title": "参院政倫審 議員の弁明と質疑行うこと全会一致で決定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383111_2403080954_0308102311_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383081000.html",
           "author": null,
@@ -18311,36 +18361,6 @@
           "wordCount": 374,
           "title": "福島第一原発 汚染水浄化装置 排気口から水漏れ 約5.5トン試算",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351531_2402072142_0207215824_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351471000.html",
-          "author": null,
-          "description": "ロシアとドイツを結ぶ海底パイプラインで2022年に起きた爆発について、スウェーデンの検察当局は「国民の関与を示す証拠は見つからなかった」などとして、1年以上続けてきた捜査の終了を発表しました。今後は、ドイツ当局などの捜査の行方が焦点となります。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351471000.html",
-          "publishedOn": "2024-02-07T13:06:45.000Z",
-          "wordCount": 413,
-          "title": "ノルドストリーム爆発 スウェーデン検察当局が捜査終了を発表",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351471_2402072059_0207211742_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014350641000.html",
-          "author": null,
-          "description": "北海道旭川市で「旭川冬まつり」が開幕し、呼び物の大雪像を見ようと、会場は多くの観光客や市民でにぎわっています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014350641000.html",
-          "publishedOn": "2024-02-07T13:05:06.000Z",
-          "wordCount": 654,
-          "title": "高さ20mの大雪像 「旭川冬まつり」が開幕 北海道",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014350641_2402072101_0207210835_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351521000.html",
-          "author": null,
-          "description": "能登半島地震で被災した石川県七尾市の住宅に、ブルーシートを取り付ける工事の契約を持ちかけた際、契約解除について記載した書面を交付しなかったなどとして、神戸市の会社役員など4人が逮捕されました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351521000.html",
-          "publishedOn": "2024-02-07T12:59:56.000Z",
-          "wordCount": 544,
-          "title": "被災住宅に工事契約持ちかけ 特定商取引法違反の疑いで4人逮捕",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351521_2402072152_0207215333_01_02.jpg"
         }
       ]
     },
@@ -24031,16 +24051,6 @@
           "wordCount": 4414,
           "title": "今日の豆知識",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9492",
-          "author": "watanabe@logipara.com",
-          "description": "本日紹介するゲームは「Against the Storm」。 2023年年末から本日まで、私ワタナベがドハマリしているゲームです！みんなハマれ！ このゲーム、「ローグライク系シティビルド」ゲームです。 ただのシティビルド […]",
-          "link": "https://logipara.com/game/against_the_storm",
-          "publishedOn": "2024-02-07T13:46:29.000Z",
-          "wordCount": 4445,
-          "title": "ゲームレビュー：嵐の中で街づくりを繰り返せ！「Against the Storm」",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/02/Against-the-Storm-2024_01_20-10_21_00.jpg"
         }
       ]
     },
@@ -29246,16 +29256,6 @@
           "wordCount": 2394,
           "title": "女さん「女性器のことを変な呼び方しないで！『フェムゾーン』って呼びなさい！」うっせー黙れまんこ",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/9/d95d5c11-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032878.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/02/06(火) 07:51:07.85 ID:+kd/yc9M0.net\n\n\n\n\n\n\n\n【プレスリリース / PRESS RELEASE】人はなぜワクチン反対派になるのか―コロナ禍におけるワクチンツイートの分析―Anti-vaccine rabbit hole leads to political representation: ...",
-          "link": "https://itainews.com/archives/2032878.html",
-          "publishedOn": "2024-02-07T13:04:41.000Z",
-          "wordCount": 2414,
-          "title": "反ワクチン、だいたい立憲共産れいわ参政支持との分析結果が明らかに",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/d/6d8e3dba-s.png"
         }
       ]
     },
@@ -32803,16 +32803,6 @@
           "wordCount": 1399,
           "title": "何をされても絶対起きない子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68023.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68019",
-          "author": "299",
-          "description": "今回ご紹介するのは遊んでニャ～とアピールする猫ちゃんです。 この日の飼い主さんは腰痛のため、遊んであげられません。 そんなことを知らない猫ちゃんは寂しそうに必死にアピール。 その姿がいじらしいのでご覧ください。 猫ちゃん...\n遊んでニャ～アピールが可愛い子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68019",
-          "publishedOn": "2024-02-07T13:00:10.000Z",
-          "wordCount": 1406,
-          "title": "遊んでニャ～アピールが可愛い子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68019.jpg"
         }
       ]
     },
