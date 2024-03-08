@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T05:13:24.605Z</updated>
+    <updated>2024-03-08T05:29:28.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【話題】お魚が食べたい♪小田原漁港の朝獲れ地魚を堪能できる「いけす屋 与一」のランチへ行ってみた！［厚木市中町］]]></title>
+        <id>https://atsugi-lab.com/?p=40575</id>
+        <link href="https://atsugi-lab.com/lunchreport-yoichi202401/"/>
+        <updated>2024-03-08T05:26:02.000Z</updated>
+        <summary type="html"><![CDATA[「地魚」ってとても美味しそうに聞こえるのはなぜなのでしょう？ふみえ＠あつらぼです。 今回はお魚好きにはたまらない、小田原漁港の朝獲れ地魚を堪能できるというお店、 「いけす屋 与一 本厚木店」のランチに潜入してまいりました！ ※1月訪問時のレ…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“オスプレイ飛行再開 調整行いたいと米から連絡” 木原防衛相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383491000.html"/>
+        <updated>2024-03-08T05:16:17.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県屋久島沖での墜落事故を受けてアメリカ軍が輸送機オスプレイの飛行を停止していることについて、木原防衛大臣は、アメリカ側から7日、日本国内で配備されている機体の飛行再開に向け、具体的に調整を行っていきたいという連絡があったことを明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メッツ 藤浪晋太郎 オープン戦に移籍後初の登板で三者凡退]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240308/k10014383481000.html</id>
@@ -36437,27 +36457,6 @@ https://imgur.com/vJ6nN...]]></summary>
 初めてのミルクにソワソワする子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST develops SNSPD detector array for mid-IR]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/02/nist-develops-snspd-detector-array-for.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/02/nist-develops-snspd-detector-array-for.html"/>
-        <updated>2024-02-07T17:28:00.001Z</updated>
-        <summary type="html"><![CDATA[Phys.org covered a recently published paper titled "A 64-pixel mid-infrared single-photon imager based on superconducting nanowire detectors" by a team from NIST in the journal Applied Physics Letters. 
-Abstract:
-
-A large-format mid-infrared single-photon imager with very low dark 
-count rates would enable a broad range of applications in fields like 
-astronomy and chemistry. Superconducting nanowire single-photon 
-detectors (SNSPDs) are a mature photon-counting technology as 
-demonstrated by their figures of merit such as high detection 
-efficiencies and very low dark count rates. However, scaling SNSPDs to 
-large array sizes for mid-infrared applications requires sophisticated 
-readout architectures in addition to superconducting materials 
-development. In this work, an SNSPD array desig…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
