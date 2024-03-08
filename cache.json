@@ -1943,6 +1943,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383731000.html",
+          "author": null,
+          "description": "去年開かれた自民党の若手議員らの懇親会に複数の女性ダンサーが招かれたなどと一部で報じられ、自民党の藤原崇・青年局長は出席していたにもかかわらず不適切な会合をやめさせなかった責任を取りたいとして青年局長を辞任しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383731000.html",
+          "publishedOn": "2024-03-08T09:00:35.000Z",
+          "wordCount": 713,
+          "title": "自民 藤原崇氏 青年局長を辞任 “不適切な会合やめさせず”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383731_2403081719_0308180037_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383341000.html",
+          "author": null,
+          "description": "8日朝早く、埼玉県東松山市の国道で近くに住む1歳の男の子が倒れているのが見つかり、死亡しました。警察は現場の状況などから、ひき逃げ事件とみて捜査しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383341000.html",
+          "publishedOn": "2024-03-08T08:40:01.000Z",
+          "wordCount": 695,
+          "title": "1歳男児 国道で倒れ死亡 ひき逃げで捜査 埼玉 東松山",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383341_2403081202_0308123906_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383671000.html",
           "author": null,
           "description": "東京のベンチャー企業が開発した小型ロケットの初号機が9日、和歌山県串本町から打ち上げられます。搭載した人工衛星の軌道への投入に成功すれば、民間企業単独の打ち上げとしては国内で初めてで、これまで国主導で進められてきた日本の宇宙開発に民間も加わり、国際競争力を高められるか注目されます。",
@@ -18571,26 +18591,6 @@
           "wordCount": 724,
           "title": "NYダウ平均株価 史上最高値を更新",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351671_2402080653_0208065639_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351481000.html",
-          "author": null,
-          "description": "能登半島地震の被災地で、先月1か月間に確認された空き巣など災害に便乗した犯罪は、35件にのぼることが石川県警察本部のまとめでわかりました。警察は被災地でのパトロールを通して取締りを強化することにしています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014351481000.html",
-          "publishedOn": "2024-02-07T21:09:05.000Z",
-          "wordCount": 535,
-          "title": "能登半島地震 災害に便乗した犯罪は先月35件に 石川県警",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351481_2402072100_0207211155_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351501000.html",
-          "author": null,
-          "description": "南海トラフ巨大地震に備え、死者を8割減らすなどとする目標を定めた国の基本計画について、国は、ことし春をメドに見直すとしていましたが、能登半島地震の影響で延期する方向で検討を進めていることが関係者への取材でわかりました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014351501000.html",
-          "publishedOn": "2024-02-07T20:59:07.000Z",
-          "wordCount": 514,
-          "title": "南海トラフ巨大地震 基本計画見直し 延期の方向で検討",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351501_2402080557_0208055909_01_02.jpg"
         }
       ]
     },
@@ -21173,6 +21173,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120759/",
+          "author": null,
+          "description": "4月から放送を開始するオリジナルテレビアニメ「アストロノオト」のエンディング主題歌、メインPV第2弾、メインビジュアルが公開された。放送スケジュールも発表されている。 エンディング主題歌は、メイ...",
+          "link": "https://anime.eiga.com/news/120759/",
+          "publishedOn": "2024-03-08T09:00:00.000Z",
+          "wordCount": 890,
+          "title": "「アストロノオト」ED主題歌で内田真礼と斉藤壮馬がデュエット　新PV、メインビジュアル公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120757/",
           "author": null,
@@ -26302,6 +26317,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033687.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：夜のけいちゃん ★：2024/03/07(木) 16:19:25.95 ID:m6IUQYGz9.net\n\n\n\n\n\n\n\n\n\n実家の子供部屋で学習机を使い続ける「学習机おじさん」の思い　テレワークでドン引きされても「頑丈で便利」「親も喜んでくれています」 https://t.co/lFKLLm1XlB#マネーポストWEB#ライフ...",
+          "link": "https://itainews.com/archives/2033687.html",
+          "publishedOn": "2024-03-08T09:01:49.000Z",
+          "wordCount": 2410,
+          "title": "実家の子供部屋で学習机を使い続ける「学習机おじさん」の思い　テレワークでドン引きされても「頑丈で便利」「親も喜んでくれています」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/b/8b4238c8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033692.html",
           "author": "yonepo665sfr",
