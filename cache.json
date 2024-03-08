@@ -1681,16 +1681,6 @@
           "wordCount": 790,
           "title": "アップル、縦折りiPhoneを2つ開発中？ 折りたたみiPad miniも進行中か",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_1652011261.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68330",
-          "author": "編集部：小野佳希",
-          "description": "アンカー・ジャパンは、Qi2認証を取得したマグネット式ワイヤレス充電シリーズ「Anker MagGo」4製品の予約販売を開始した。1台で3つの端末を充電できる「Anker MagGo Wireless Charging Station (Foldable 3-in-1)」などをラインナップしている。 […]",
-          "link": "https://gadget.phileweb.com/post-68330/",
-          "publishedOn": "2024-02-08T02:00:00.000Z",
-          "wordCount": 813,
-          "title": "Anker、Qi2対応の新型ワイヤレス充電器「MagGoシリーズ」4機種販売開始",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/Anker-MagGoWirelessChargingStationFoldable3-in-1.jpg"
         }
       ]
     },
@@ -1923,6 +1913,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014384151000.html",
+          "author": null,
+          "description": "アメリカの2月の雇用統計が発表され、農業分野以外の就業者は前の月より27万5000人増加し、市場予想を上回りました。一方、失業率は前の月より0.2ポイント上昇し3.9％でした。アメリカではインフレの要因となってきた人手不足などが和らいでいると指摘されていますが、中央銀行にあたるFRB＝連邦準備制度理事会の政策判断への影響が注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014384151000.html",
+          "publishedOn": "2024-03-08T13:57:32.000Z",
+          "wordCount": 634,
+          "title": "2月の米雇用統計 就業者が前月より増加 市場予想を上回る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014384151_2403082253_0308225734_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383991000.html",
           "author": null,
@@ -18712,26 +18712,6 @@
           "wordCount": 686,
           "title": "日経平均株価 一時600円以上値上がり",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351781_2402081116_0208112547_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351721000.html",
-          "author": null,
-          "description": "警察庁は去年1年間の犯罪情勢を公表し、このうち刑法犯罪の認知件数はおよそ70万3000件と、おととしを10万件以上、上回りました。ネットバンキングを狙った不正送金や、児童虐待の通告件数も過去最多となるなど、警察庁は「犯罪情勢は厳しい状況にある」としています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014351721000.html",
-          "publishedOn": "2024-02-08T02:05:36.000Z",
-          "wordCount": 581,
-          "title": "去年1年間の刑法犯罪認知件数 約70万3000件 前年比10万件超増",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351721_2402081035_0208110538_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351731000.html",
-          "author": null,
-          "description": "日本が海外との貿易や投資などでどれだけ稼いだかを示す経常収支は、去年1年間で20兆円を超える黒字となり、エネルギーの価格高騰が一服して、輸入額が減少したことで、黒字額は前の年の2倍近くに増えました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014351731000.html",
-          "publishedOn": "2024-02-08T01:56:37.000Z",
-          "wordCount": 487,
-          "title": "去年1年間の経常収支 20兆円超の黒字 前年の2倍近くに増加",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351731_2402081028_0208105639_01_02.jpg"
         }
       ]
     },
@@ -18740,6 +18720,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99028",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/08(金) 18:10:30.79 ID:D7DeHWUw0 【お知らせ】 『 […]",
+          "link": "https://switchsoku.com/soft/level5/99028",
+          "publishedOn": "2024-03-08T14:00:16.000Z",
+          "wordCount": 9989,
+          "title": "Switch『イナズマイレブン』体験版が近日配信！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/inazuma11.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99014",
           "author": "SWITCH速報",
@@ -21119,16 +21109,6 @@
           "wordCount": 10083,
           "title": "『レベルファイブ』← どこで諦めた？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/01/level-5.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97943",
-          "author": "SWITCH速報",
-          "description": "任天堂「2024年3月期第3四半期 決算説明資料」によると『Super Mario Bros. Wo […]",
-          "link": "https://switchsoku.com/soft/mario_odyssey/97943",
-          "publishedOn": "2024-02-08T02:00:34.000Z",
-          "wordCount": 10100,
-          "title": "【任天堂決算】マリオワンダー1196万本",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/mario-bros-wondwe.webp"
         }
       ]
     },
@@ -26520,16 +26500,6 @@
           "wordCount": 1843,
           "title": "【セブンイレブン】けずりチーズのせ トマトソースのオムライス【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/e1d82ab5297e25c0e39fcdd754c7ee0f.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=235448",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Motto）」へ進撃 […]",
-          "link": "https://foodfighter.jp/hottomotto-kaisen-ankake-yakisoba",
-          "publishedOn": "2024-02-08T02:04:16.000Z",
-          "wordCount": 1858,
-          "title": "【ほっともっと】海鮮中華あんかけかた焼きそば【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/4e6539a8eab2f98b6dda3e9db2c4d5b1-rotated.jpg"
         }
       ]
     },
@@ -33434,16 +33404,6 @@
           "wordCount": 1397,
           "title": "お父さん猫に毛づくろいをしてもらって幸せそうな子猫のおもち",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68062.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68057",
-          "author": "299",
-          "description": "柴犬のリキがケージの中のベッドの中に横になり、じっとお隣のケージを見つめています。そう、お隣のケージの中には気になる存在の子猫のリクがいるのです。 リクのほうもまた、お隣のリキのことが気になるようでジッと凝視しています。...\n新入り子猫のリクは先住犬猫たちの部屋にお引越ししてすぐに慣れてひと安心 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68057",
-          "publishedOn": "2024-02-08T02:00:59.000Z",
-          "wordCount": 1400,
-          "title": "新入り子猫のリクは先住犬猫たちの部屋にお引越ししてすぐに慣れてひと安心",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68057.jpg"
         }
       ]
     },
