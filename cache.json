@@ -294,16 +294,6 @@
           "wordCount": 2652,
           "title": "5年で最大1.5DWPDの耐久性を備えた高性能PCIe SSD",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/09/cover_news070.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/07/news011.html",
-          "author": null,
-          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「ダイナミック回路とスタティック回路」についてです。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/07/news011.html",
-          "publishedOn": "2024-02-08T01:00:00.000Z",
-          "wordCount": 2621,
-          "title": "ダイナミック回路とスタティック回路の内部構成と仕組み",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/07/cover_news011.jpg"
         }
       ]
     },
@@ -1915,7 +1905,18 @@
       "title": "Mr.Children Official Channel",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXteDRy5qB0IjA8WPusCJ7w",
       "siteUrl": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nyr_m3I3C_s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nyr_m3I3C_s",
+          "publishedOn": "2024-03-08T13:00:51.000Z",
+          "wordCount": null,
+          "title": "「Mr.Children tour 2024 miss you arena tour」Teaser",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "NHKニュース",
@@ -21334,6 +21335,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120720/",
+          "author": null,
+          "description": "山崎貴監督の「ゴジラ－1.0」が、3月3日までの公開122日間で観客動員392万人、興行収入60.1億円を記録。2023年に日本で公開された実写映画ランキングで第1位（※興行通信社調べ）となり、...",
+          "link": "https://anime.eiga.com/news/120720/",
+          "publishedOn": "2024-03-08T13:00:00.000Z",
+          "wordCount": 901,
+          "title": "「ゴジラ－1.0」興行収入60億円突破　山崎貴監督「ゴジラは愛されている」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120755/",
           "author": null,
           "description": "くら寿司と「ちいかわ」のコラボキャンペーンが、3月8日から全国のくら寿司でスタートした。 同キャンペーンは、各テーブルに備え付けられた皿回収ポケットに、食べ終えた皿を5枚入れるとゲームに挑戦でき...",
@@ -26514,16 +26530,6 @@
           "wordCount": 1858,
           "title": "【ほっともっと】海鮮中華あんかけかた焼きそば【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/4e6539a8eab2f98b6dda3e9db2c4d5b1-rotated.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=235425",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 抹茶モナカ」を世界一詳しく調査しました。   公式YouTubeチャンネル […]",
-          "link": "https://foodfighter.jp/711sej-matcha-monaka",
-          "publishedOn": "2024-02-08T01:01:12.000Z",
-          "wordCount": 1839,
-          "title": "【セブンイレブン】セブンプレミアム 抹茶モナカ【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/9511589de8f758a13dd519e3d4b1d379.jpg"
         }
       ]
     },
@@ -26532,6 +26538,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033693.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2024/03/08(金) 01:55:49.85 ID:i6AB/FjH9.net\n\n\n\n\n\n\n\n【女子中学生に性的暴行疑いで逮捕】川口市で、SNSで知り合った中学生に性的暴行をしたとして、トルコ国籍で自称クルド人の20歳の容疑者が逮捕されました。容疑を否認しているということです。...",
+          "link": "https://itainews.com/archives/2033693.html",
+          "publishedOn": "2024-03-08T13:05:15.000Z",
+          "wordCount": 2351,
+          "title": "【埼玉】ＳＮＳで知り合い中学生に性的暴行か トルコ国籍の容疑者逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/5/85a27dc4-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033689.html",
           "author": "damono3856",
@@ -29889,6 +29905,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69943",
+          "author": "299",
+          "description": "今回ご紹介するのは飼い主さんに遊んでもらう子猫ちゃんです。 飼い主さんにぴょーんと飛ばしてもらうのが楽しいのか、着地するとすぐに飼い主さんの元へ。 もう一回してニャ～とお願いしていくのが可愛らしいのでご覧ください。 飼い...\nもっとして！もっとしてニャ！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69943",
+          "publishedOn": "2024-03-08T13:00:40.000Z",
+          "wordCount": 1251,
+          "title": "もっとして！もっとしてニャ！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69943.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69938",
           "author": "299",
