@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T10:15:33.714Z</updated>
+    <updated>2024-03-08T10:37:13.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あなたの地域の男女格差は？ “ジェンダーギャップ”公表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383061000.html"/>
+        <updated>2024-03-08T10:29:32.000Z</updated>
+        <summary type="html"><![CDATA[国連が定めた「国際女性デー」にあわせ、大学教授らのグループが政治や経済などの分野ごとの男女比を分析した結果が公表され、特に政治の分野では女性の比率が低く、ジェンダーギャップ＝「男女間の不平等」が浮き彫りになりました。※記事の後半では「政治」「行政」「教育」「経済」の分野ごとに、上位5つと下位5つの都道府県を掲載しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長崎 南島原 住宅全焼 3人の遺体見つかる 住人3人と連絡とれず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014382961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014382961000.html"/>
+        <updated>2024-03-08T10:23:35.000Z</updated>
+        <summary type="html"><![CDATA[8日未明、長崎県南島原市で住宅1棟が全焼し、焼け跡から3人の遺体が見つかりました。火事のあと、この家に住む3人と連絡が取れなくなっていて、警察が確認を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 石川 珠洲 113世帯で10日から上下水道を再開へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383941000.html"/>
+        <updated>2024-03-08T10:17:45.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震のため石川県珠洲市では、市のほぼ全域で断水が続いていますが、泉谷満寿浩市長は、一部地域の合わせておよそ110世帯で10日から上下水道を再開すると発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪 大学生死亡 “母親に呼ばれた”少女がうそで誘い込んだか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240308/k10014383821000.html</id>
