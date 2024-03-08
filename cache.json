@@ -304,16 +304,6 @@
           "wordCount": 2621,
           "title": "ダイナミック回路とスタティック回路の内部構成と仕組み",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/07/cover_news011.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/08/news067.html",
-          "author": null,
-          "description": "メディアテックは、Wi-Fi Allianceと協業し、「Wi-Fi CERTIFIED 7」製品の第1弾を発表した。Wi-Fi 7対応チップセット「Filogic 880」「Filogic 860」「Filogic 380」「Filogic 360」を提供する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/08/news067.html",
-          "publishedOn": "2024-02-08T00:00:00.000Z",
-          "wordCount": 2662,
-          "title": "「Wi-Fi CERTIFIED 7」対応チップセット、4品種を発売",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/08/cover_news067.jpg"
         }
       ]
     },
@@ -1932,6 +1922,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014382941000.html",
+          "author": null,
+          "description": "去年11月、鹿児島県屋久島沖でアメリカ軍の輸送機オスプレイが墜落した事故を受けてアメリカ軍は、世界に配備しているオスプレイの飛行を停止する措置をとってきましたが、8日、およそ3か月ぶりにこの措置を解除すると発表しました。飛行再開の時期については、空軍や海兵隊など軍ごとの手続きにのっとって決定されるとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014382941000.html",
+          "publishedOn": "2024-03-08T12:07:22.000Z",
+          "wordCount": 742,
+          "title": "アメリカ軍 オスプレイの飛行停止措置の解除を発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014382941_2403082106_0308210724_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383871000.html",
+          "author": null,
+          "description": "関東甲信は8日朝、東京23区を含む平地でも積雪となりましたが、9日からは冬型の気圧配置の影響で長野県と関東北部の山沿いで大雪となるおそれがあります。気象庁は、積雪や路面の凍結による交通への影響に十分注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383871000.html",
+          "publishedOn": "2024-03-08T12:00:39.000Z",
+          "wordCount": 731,
+          "title": "9日から長野県と関東北部山沿いで大雪おそれ 積雪など十分注意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383871_2403082059_0308210041_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383901000.html",
           "author": null,
@@ -18710,6 +18720,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99014",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/07(木) 11:48:05.12 ID:xWTZSqR60 https:// […]",
+          "link": "https://switchsoku.com/soft/99014",
+          "publishedOn": "2024-03-08T12:00:24.000Z",
+          "wordCount": 9997,
+          "title": "『プリンセス ピーチ』新要素「カメラおじさん」登場",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/peach-hensin2.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99017",
           "author": "SWITCH速報",
           "description": "1: 2024/03/08(金) 00:13:57.00 ID:Mce5e/na0 現時点での数字で […]",
@@ -21088,16 +21108,6 @@
           "wordCount": 10100,
           "title": "【任天堂決算】マリオワンダー1196万本",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/mario-bros-wondwe.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97937",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/07(水) 19:24:31.71 ID:MGVBTDbt0 古川： Nint […]",
-          "link": "https://switchsoku.com/nintendo/97937",
-          "publishedOn": "2024-02-08T00:00:43.000Z",
-          "wordCount": 10108,
-          "title": "任天堂 古川社長「携帯機と据え置きを統合したのがSwitchの長いライフサイクルに繋がった」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/03/3ds-WiiU.jpg"
         }
       ]
     },
@@ -21293,6 +21303,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120755/",
+          "author": null,
+          "description": "くら寿司と「ちいかわ」のコラボキャンペーンが、3月8日から全国のくら寿司でスタートした。 同キャンペーンは、各テーブルに備え付けられた皿回収ポケットに、食べ終えた皿を5枚入れるとゲームに挑戦でき...",
+          "link": "https://anime.eiga.com/news/120755/",
+          "publishedOn": "2024-03-08T12:00:00.000Z",
+          "wordCount": 866,
+          "title": "くら寿司×ちいかわ、コラボキャンペーンがスタート　オリジナルグッズはちいかわたちがお寿司に変身",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/tokuten_list/120758/",
           "author": null,
@@ -33363,16 +33388,6 @@
           "wordCount": 1400,
           "title": "新入り子猫のリクは先住犬猫たちの部屋にお引越ししてすぐに慣れてひと安心",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68057.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68092",
-          "author": "299",
-          "description": "お父さんの足元でニャーニャー鳴いている可愛い子猫がお父さんの足を駆け上ってこようとしています。 お父さんの甘えたいのでしょうか。あっという間に足を登ってきました。前足や後ろ足の力は子猫といえどもなかなかパワフルで難なく上...\nお腹が空いたら足を登ってきてアピる子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68092",
-          "publishedOn": "2024-02-08T00:00:43.000Z",
-          "wordCount": 1403,
-          "title": "お腹が空いたら足を登ってきてアピる子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68092.jpg"
         }
       ]
     },
