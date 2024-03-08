@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/08/news032.html",
+          "author": null,
+          "description": "マイクロチップ・テクノロジーは、同社のDSC（デジタルシグナルコントローラー）「dsPIC」をベースとした、統合型モータードライバーファミリーを発表した。DSCや三相MOSFETゲートドライバーなどを1パッケージに統合していて、PCB（プリント基板）面積の縮小や部品点数の削減が可能となる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/08/news032.html",
+          "publishedOn": "2024-03-08T00:00:00.000Z",
+          "wordCount": 2582,
+          "title": "通信機能やコントローラーを統合したモータードライバー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/08/cover_news032.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/07/news053.html",
           "author": null,
           "description": "TDKは、車載高周波回路用インダクター「MHQ1005075HA」シリーズを発表した。同社独自のセラミック材料と構造を採用し、空芯巻線インダクターと同程度の高いQ特性を備える。",
@@ -1902,6 +1912,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383081000.html",
+          "author": null,
+          "description": "ロシアによる侵攻の当初からウクライナ軍の総司令官を務め、先月解任されたザルジニー氏が、ウクライナの駐イギリス大使に任命されることになり、ゼレンスキー大統領は「イギリスとの同盟関係はさらに強化される」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383081000.html",
+          "publishedOn": "2024-03-08T00:52:19.000Z",
+          "wordCount": 721,
+          "title": "解任のウクライナ軍総司令官 駐イギリス大使に任命へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383081_2403080903_0308095221_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240308/k10014382791000.html",
           "author": null,
@@ -18321,36 +18341,6 @@
           "wordCount": 544,
           "title": "被災住宅に工事契約持ちかけ 特定商取引法違反の疑いで4人逮捕",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351521_2402072152_0207215333_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351441000.html",
-          "author": null,
-          "description": "岡山県に住む性同一性障害の当事者が行った手術なしでの性別変更の申し立てについて、家庭裁判所が7日認める決定を出しました。去年10月に示された最高裁判所大法廷の判断に沿ったもので、2度目の申し立てで認められた当事者が喜びを語りました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351441000.html",
-          "publishedOn": "2024-02-07T12:17:20.000Z",
-          "wordCount": 467,
-          "title": "性同一性障害 2度目の性別変更申し立て 家裁が認める決定 岡山",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351441_2402072115_0207211722_01_03.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351511000.html",
-          "author": null,
-          "description": "7日午後8時59分ごろ、和歌山県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351511000.html",
-          "publishedOn": "2024-02-07T12:16:07.000Z",
-          "wordCount": 218,
-          "title": "【地震速報】和歌山県北部で震度4",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351511_2402072108_0207211806_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240207/k10014351111000.html",
-          "author": null,
-          "description": "岸田総理大臣は衆議院予算委員会で、自民党の派閥の政治資金パーティーをめぐる問題について、関係議員からの聴き取りや党所属議員へのアンケートを通じて実態を把握した上で、政治的な責任を判断する考えを、重ねて示しました。",
-          "link": "http://www3.nhk.or.jp/news/html/20240207/k10014351111000.html",
-          "publishedOn": "2024-02-07T11:57:13.000Z",
-          "wordCount": 563,
-          "title": "衆院予算委 岸田首相 政治資金“実態把握し政治的責任を判断”",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240207/K10014351111_2402071836_0207185514_01_02.jpg"
         }
       ]
     },
@@ -18359,6 +18349,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99001",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/07(木) 22:01:33.09 7位（初登場）　Switch　ゴブリンスレ […]",
+          "link": "https://switchsoku.com/soft/99001",
+          "publishedOn": "2024-03-08T00:00:34.000Z",
+          "wordCount": 10042,
+          "title": "Switch『ゴブリンスレイヤー』初週6,822本…",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/goblin-slayer-nf.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=98999",
           "author": "SWITCH速報",
@@ -20698,16 +20698,6 @@
           "wordCount": 10107,
           "title": "任天堂 社長「最近あたかも当社が公表したかのように次世代機の報道がされる」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2lkt.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97924",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/06(火) 15:44:29.73 ID:FMuEIrqv0 ハードウェアでは […]",
-          "link": "https://switchsoku.com/switch/97924",
-          "publishedOn": "2024-02-07T12:00:50.000Z",
-          "wordCount": 10141,
-          "title": "任天堂「より多くのお客様により長くSwitchを遊んでいただけるようにする」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/07/el-switch-4.jpg"
         }
       ]
     },
@@ -23661,21 +23651,6 @@
           "publishedOn": "2024-02-08T03:00:00.000Z",
           "wordCount": 763,
           "title": "「映画おしりたんてい」長編第2作の入場特典は「謎解きブック」　おしりたんていの初ロマンス（？）を写した場面カット披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120548/",
-          "author": null,
-          "description": "俳優の佐々木蔵之介が主演の「映画 マイホームヒーロー」の完成披露試写会が2月5日、東京・有楽町朝日ホールで行われた。佐々木は共演の齋藤飛鳥、「なにわ男子」の高橋恭平、宮世琉弥、津田健次郎、木村多...",
-          "link": "https://anime.eiga.com/news/120548/",
-          "publishedOn": "2024-02-07T12:00:00.000Z",
-          "wordCount": 762,
-          "title": "佐々木蔵之介、実写「マイホームヒーロー」を意味深アピール「どういう結末か見届けて」",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -29281,16 +29256,6 @@
           "wordCount": 2414,
           "title": "反ワクチン、だいたい立憲共産れいわ参政支持との分析結果が明らかに",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/d/6d8e3dba-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2032879.html",
-          "author": "damono3856",
-          "description": "1 名前：800坂 ★：2024/02/07(水) 12:25:02.77 ID:A9YlT4f19.net\n\n\n\n\n\n\n\n何が史上最強だ…。サッカー日本代表、アジア杯でワースト記録連発むしろ史上最弱クラス？【アジアカップ2023】https://t.co/DCNsZbwDsi— フットボールチャンネル⚽️ (@foot_ch) February 4, 20...",
-          "link": "https://itainews.com/archives/2032879.html",
-          "publishedOn": "2024-02-07T12:06:21.000Z",
-          "wordCount": 2466,
-          "title": "【サッカー】何が史上最強だ…。サッカー日本代表、アジア杯でワースト記録連発。むしろ史上最弱クラス？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/731ef795-s.png"
         }
       ]
     },
@@ -29299,6 +29264,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=69958",
+          "author": "299",
+          "description": "公園の遊歩道の端のアスファルトの上でまったりしている三毛猫さんを発見したので近づいてみます。ふと三毛猫さんのしっぽのほうをみると、そこには、なんと可愛い子猫が１匹立っていました。 子猫は人が急に近づいてきたので恐怖心から...\n公園の猫さんファミリーとマッタリ。たっぷり癒されました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/69958",
+          "publishedOn": "2024-03-08T00:00:22.000Z",
+          "wordCount": 1339,
+          "title": "公園の猫さんファミリーとマッタリ。たっぷり癒されました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69958.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=69917",
           "author": "299",
