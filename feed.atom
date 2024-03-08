@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T03:23:54.310Z</updated>
+    <updated>2024-03-08T03:36:07.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中東から帰国の5人 はしか感染確認 注意を呼びかけ 厚労相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383291000.html"/>
+        <updated>2024-03-08T03:21:13.000Z</updated>
+        <summary type="html"><![CDATA[先月、中東から帰国した5人が、はしかに感染しているのが相次いで確認され、武見厚生労働大臣は今後、国内で感染が広がる可能性があるとして、注意を呼びかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫画家 鳥山明さん死去 68歳 「DRAGON BALL」などで人気]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240308/k10014383361000.html</id>
