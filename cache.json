@@ -323,6 +323,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=71261",
+          "author": "Munenori Taniguchi",
+          "description": "Googleが2022年にオープンした、巨大なウミガメの甲羅のようなデザインの新社屋Bay Viewは、環境に優しく、建築分野における多数のイノベーションを宣伝している。そして、同社の最先端の研究分野である生成AIのチームに、仕事に集中できる環境を提供している。 しかし、Googleの従業員のなかに […]",
+          "link": "https://gadget.phileweb.com/post-71261/",
+          "publishedOn": "2024-03-08T08:19:05.000Z",
+          "wordCount": 754,
+          "title": "Google、新社屋で“Wi-Fi難民”大量発生。いたるところでWi-Fi通じず",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/JHVEPhoto_Shutterstock.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=71249",
           "author": "多根清史",
           "description": "先日アップルの自社ブランドEV（電気自動車）、通称「アップルカー」は開発中止になったと米Bloombergは報じた。アップルは肯定も否定もしていないが、市場は真実として扱っており、報道直後に同社の株価が急上昇する一幕もあった。 その続報としてBloombergは、アップルがいかにして毎年10億ドルを […]",
@@ -1932,6 +1942,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383671000.html",
+          "author": null,
+          "description": "東京のベンチャー企業が開発した小型ロケットの初号機が9日、和歌山県串本町から打ち上げられます。搭載した人工衛星の軌道への投入に成功すれば、民間企業単独の打ち上げとしては国内で初めてで、これまで国主導で進められてきた日本の宇宙開発に民間も加わり、国際競争力を高められるか注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383671000.html",
+          "publishedOn": "2024-03-08T08:31:41.000Z",
+          "wordCount": 690,
+          "title": "ロケットあす打ち上げ 成功すれば民間企業単独で国内初 和歌山",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383671_2403081718_0308173143_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383691000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる事件で、政治資金規正法違反の罪で起訴された安倍派の会計責任者の初公判が5月10日に開かれることになりました。一連の事件で初公判の日程が決まるのは初めてです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383691000.html",
+          "publishedOn": "2024-03-08T08:21:08.000Z",
+          "wordCount": 725,
+          "title": "自民 政治資金めぐる事件 安倍派会計責任者の初公判は5月10日",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383691_2403081650_0308172110_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383701000.html",
+          "author": null,
+          "description": "全国の税関が、去年、偽ブランド品などとして輸入を差し止めた件数は、3万件を超えて過去2番目に多くなりました。去年12月に大リーグ・大谷翔平選手の移籍先がドジャースに決まった直後にはその偽造ユニフォームが差し止められたということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240308/k10014383701000.html",
+          "publishedOn": "2024-03-08T08:16:24.000Z",
+          "wordCount": 786,
+          "title": "偽ブランド品 輸入差し止め件数 去年3万件超 大谷の偽ユニなど",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240308/K10014383701_2403081646_0308171627_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240308/k10014383601000.html",
           "author": null,
@@ -18561,16 +18601,6 @@
           "wordCount": 546,
           "title": "「ビキニ事件」から70年 現地の式典に高知の遺族が初出席へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351151_2402080538_0208053956_01_02.jpg"
-        },
-        {
-          "id": "http://www3.nhk.or.jp/news/html/20240208/k10014351301000.html",
-          "author": null,
-          "description": "少子化対策の財源確保のため、公的医療保険を通じて集める「支援金制度」をめぐり、政府は、現役世代を含む74歳以下の医療保険の加入者に対し、事業主の負担分も含め、全体の90％あまりの負担を求める方向で調整を進めています。",
-          "link": "http://www3.nhk.or.jp/news/html/20240208/k10014351301000.html",
-          "publishedOn": "2024-02-07T20:33:04.000Z",
-          "wordCount": 515,
-          "title": "少子化対策「支援金制度」現役世代含む74歳以下が9割余負担へ",
-          "imageUrl": "https://www3.nhk.or.jp/news/html/20240208/K10014351301_2402072022_0207203948_01_02.jpg"
         }
       ]
     },
