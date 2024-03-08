@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T09:36:30.547Z</updated>
+    <updated>2024-03-08T09:50:32.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“あめちゃん” “お豆さん” 食べ物に敬称つけるのなんでなん]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014379431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014379431000.html"/>
+        <updated>2024-03-08T09:37:53.000Z</updated>
+        <summary type="html"><![CDATA[「あめちゃん、食べる？」大阪などではおなじみのフレーズで、祖母が兵庫に住んでいる私（瀬川）は、このことばを聞くと、今でも心がほっこりします。しかし、あるとき、特定の食べ物に「さん」を付けて呼ぶことに気づきました。なぜ食べ物を「さん」付けで呼ぶのか。そして、なぜあめは「ちゃん」付けなのか。取材を始めて見ると、歴史的な背景とともに、時代に合わせて変化してきていることばの実情も浮かび上がってきました。（大阪放送局 記者 瀬川愛生 / ディレクター 前田彩音）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】豚肉焼うどん 国産小麦使用【新作コンビニ弁当】]]></title>
+        <id>https://foodfighter.jp/?p=238524</id>
+        <link href="https://foodfighter.jp/711sej-yakiudon"/>
+        <updated>2024-03-08T09:36:32.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「豚肉焼うどん 国産小麦使用」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ゼロゼロ融資」返済ピーク 資金繰り支援策 6月末まで延長へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240308/k10014383741000.html</id>
@@ -36701,16 +36721,6 @@ https://imgur.com/vJ6nN...]]></summary>
         <summary type="html"><![CDATA[7日のニューヨーク株式市場は、企業業績の先行きへの期待などから買い注文が増え、ダウ平均株価は値上がりし、史上最高値を更新しました。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTTドコモの通信品質が改善傾向。それでも残る不安材料とは？]]></title>
-        <id>https://gadget.phileweb.com/?p=68312</id>
-        <link href="https://gadget.phileweb.com/post-68312/"/>
-        <updated>2024-02-07T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年、都市部を中心に通信品質が大幅に低下し、問題視されてきたNTTドコモ。そうした状況に同社も対策を余儀なくされ、2023年12月までに300億円を先行投資し、将来の需要も見据えた通信品質対策を実施してきた。 そこで、2月2日に同社は記者説明会を実施。ネットワーク本部長 常務執行役員の小林宏氏 […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>
