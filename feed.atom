@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T08:39:39.399Z</updated>
+    <updated>2024-03-08T08:50:13.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383671000.html"/>
         <updated>2024-03-08T08:31:41.000Z</updated>
         <summary type="html"><![CDATA[東京のベンチャー企業が開発した小型ロケットの初号機が9日、和歌山県串本町から打ち上げられます。搭載した人工衛星の軌道への投入に成功すれば、民間企業単独の打ち上げとしては国内で初めてで、これまで国主導で進められてきた日本の宇宙開発に民間も加わり、国際競争力を高められるか注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[栗山英樹氏 レイズのオープン戦にユニフォーム姿でベンチ入り]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383661000.html"/>
+        <updated>2024-03-08T08:26:42.000Z</updated>
+        <summary type="html"><![CDATA[去年、WBC＝ワールド・ベースボール・クラシックで日本代表を率いた栗山英樹氏が、視察のため訪れた大リーグ、レイズのオープン戦をユニフォーム姿でベンチから試合を見守りました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -36629,26 +36639,6 @@ https://imgur.com/vJ6nN...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240208/k10014351501000.html"/>
         <updated>2024-02-07T20:59:07.000Z</updated>
         <summary type="html"><![CDATA[南海トラフ巨大地震に備え、死者を8割減らすなどとする目標を定めた国の基本計画について、国は、ことし春をメドに見直すとしていましたが、能登半島地震の影響で延期する方向で検討を進めていることが関係者への取材でわかりました。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮 きょう軍の創設記念日 軍事力強化の姿勢強調か]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240208/k10014351261000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014351261000.html"/>
-        <updated>2024-02-07T20:49:30.000Z</updated>
-        <summary type="html"><![CDATA[北朝鮮は、軍の創設記念日にあたる8日、4年目に入っている「国防5か年計画」に基づく、新型の弾道ミサイルや巡航ミサイルなどの開発を通じて、軍事力を強化していく姿勢を強調するとみられます。]]></summary>
-        <author>
-            <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビキニ事件」から70年 現地の式典に高知の遺族が初出席へ]]></title>
-        <id>http://www3.nhk.or.jp/news/html/20240208/k10014351151000.html</id>
-        <link href="http://www3.nhk.or.jp/news/html/20240208/k10014351151000.html"/>
-        <updated>2024-02-07T20:39:54.000Z</updated>
-        <summary type="html"><![CDATA[アメリカが太平洋で行った水爆実験で日本の漁船「第五福竜丸」や高知県の漁船も被ばくしたいわゆる「ビキニ事件」からことしで70年です。3月1日、現地のマーシャル諸島で開かれる式典に高知県の元乗組員の遺族が初めて出席し、核兵器の廃絶を訴えることになりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
