@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T02:19:34.711Z</updated>
+    <updated>2024-03-08T02:36:04.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レッドソックス 吉田正尚が初ホームラン オープン戦7試合目]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383241000.html"/>
+        <updated>2024-03-08T02:25:40.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、レッドソックスの吉田正尚選手が7日、フロリダ州フォートマイヤーズで行われたブレーブスとのオープン戦に3番・レフトで先発出場しホームランを打ちました。吉田選手はこれがオープン戦7試合目で初めてのホームランです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガザ地区 米バイデン政権 海から支援物資の搬入目指す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240308/k10014383221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240308/k10014383221000.html"/>
+        <updated>2024-03-08T02:23:38.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスとの間の戦闘が続き、深刻な食料不足に直面しているパレスチナのガザ地区をめぐり、アメリカのバイデン政権は新たに海から支援物資の搬入を目指す方針を明らかにしました。一方、戦闘の休止などを目指して続いていた交渉は中断され、今月10日ごろに始まるイスラム教の断食月、ラマダンまでに合意に至るのは難しい情勢です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[関西空港に向かう米旅客機 離陸直後に車輪落下で緊急着陸]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240308/k10014383201000.html</id>
@@ -36230,26 +36250,6 @@ development. In this work, an SNSPD array desig…]]></summary>
         <summary type="html"><![CDATA[総選挙と各地の州議会選挙の投票を8日に控えたパキスタンでは、2か所の選挙事務所周辺で相次いで爆発が発生し、これまでに合わせて24人が死亡、32人がけがをしました。現地当局は、選挙を妨害する目的のテロとみています。]]></summary>
         <author>
             <name>NHKニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【なか卯】けいらんうどん・大盛り【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=235407</id>
-        <link href="https://foodfighter.jp/nakau-keiranudon"/>
-        <updated>2024-02-07T14:32:35.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャン […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂 社長「最近あたかも当社が公表したかのように次世代機の報道がされる」]]></title>
-        <id>https://switchsoku.com/?p=97931</id>
-        <link href="https://switchsoku.com/nintendo/97931"/>
-        <updated>2024-02-07T14:30:55.000Z</updated>
-        <summary type="html"><![CDATA[1: 2024/02/07(水) 19:17:10.16 ID:MGVBTDbt0 新しいハードウェ […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
         </author>
     </entry>
 </feed>
