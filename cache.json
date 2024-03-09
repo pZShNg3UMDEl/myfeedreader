@@ -284,16 +284,6 @@
           "wordCount": 2636,
           "title": "2種のRF出力パワーを選択可能な、長距離IoT通信向けSiPモジュール",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/13/cover_news054.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/09/news070.html",
-          "author": null,
-          "description": "スイスビットは、5年間で最大1.5DWPDの耐久性を備えた、高性能PCIe SSD「N3202」シリーズを発表した。同社独自の電源損失保護機能「powersafe」と高度なセキュリティ機能を搭載する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/09/news070.html",
-          "publishedOn": "2024-02-09T00:00:00.000Z",
-          "wordCount": 2652,
-          "title": "5年で最大1.5DWPDの耐久性を備えた高性能PCIe SSD",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/09/cover_news070.jpg"
         }
       ]
     },
@@ -1864,6 +1854,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240309/k10014384881000.html",
+          "author": null,
+          "description": "中国政府は、不動産市場の低迷が続くなか、企業の合理的な資金需要を支援する一方で、深刻な債務超過に陥った企業などに対しては「相応の対価を払わせる」として、市場の原則に基づいて経営破綻させたり、再編させたりする方針を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240309/k10014384881000.html",
+          "publishedOn": "2024-03-09T12:16:45.000Z",
+          "wordCount": 477,
+          "title": "中国 深刻な債務超過の不動産企業に“相応の対価支払わせる”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240309/K10014384881_2403092041_0309211647_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240309/k10014384681000.html",
           "author": null,
           "description": "能登半島地震による断水などの影響で、石川県珠洲市内の歯科診療所は現在、すべて休診していて、道の駅に設けられた臨時の診療所に多くの被災者が訪れています。",
@@ -2080,6 +2080,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99063",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/08(金) 19:05:09.93 ID:wSp+RH5X0 https:// […]",
+          "link": "https://switchsoku.com/soft/dragonquest/99063",
+          "publishedOn": "2024-03-09T12:00:09.000Z",
+          "wordCount": 10126,
+          "title": "スクエニ｢ドラクエ12 開発は進める｣‥鳥山明さん死去を受け方針を明らかに",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/04/dq12-logo-2023.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99058",
           "author": "SWITCH速報",
@@ -4469,16 +4479,6 @@
           "wordCount": 10013,
           "title": "Switch『呪術廻戦 戦華双乱』初週25,242本",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/07/zyuzyutukaisen-souran.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=97970",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/08(木) 10:37:42.86 ID:ZppwI/vj0 https:// […]",
-          "link": "https://switchsoku.com/leak/97970",
-          "publishedOn": "2024-02-09T00:00:29.000Z",
-          "wordCount": 11177,
-          "title": "【噂】Nate/DF「来週はパートナーDirect､Switch2は3月発表、Joy-Con廃止、下位互換あり、より大型化」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch2lkt.webp"
         }
       ]
     },
@@ -4664,6 +4664,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120761/",
+          "author": null,
+          "description": "小説投稿サイト「小説家になろう」発のファンタジー小説「一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる」のテレビアニメ化が決定した。特報PV、原作関係者のアニメ...",
+          "link": "https://anime.eiga.com/news/120761/",
+          "publishedOn": "2024-03-09T12:00:00.000Z",
+          "wordCount": 834,
+          "title": "「一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる」TVアニメ化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120694/",
           "author": null,
@@ -9838,6 +9853,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033716.html",
+          "author": "damono3856",
+          "description": "1 名前：Ailuropoda melanoleuca ★：2024/03/09(土) 11:50:17.95 ID:rC9rC6Rz9.net\n\n\n\n\n\n\n\n東京マラソンで参加ランナーが死亡　転倒後に救急搬送、主催財団発表(THE ANSWER)#Yahooニュースhttps://t.co/0izkkS0u3l— Zenji (@Becutebaby) March 9, 2024  \n\n\n\n\n\n\n3/9(土)...",
+          "link": "https://itainews.com/archives/2033716.html",
+          "publishedOn": "2024-03-09T12:04:14.000Z",
+          "wordCount": 2352,
+          "title": "東京マラソンで参加ランナーが死亡　転倒後に救急搬送、主催財団発表",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/9/894cd3b5-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033711.html",
           "author": "yonepo665sfr",
@@ -16714,16 +16739,6 @@
           "wordCount": 1403,
           "title": "たった二時間ですっかり馴染んでしまった子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68120.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68155",
-          "author": "299",
-          "description": "茶トラの子猫がお父さんのあぐらのなかに心地よくおさまってぐっすりと眠っています。 お父さんは、そんな子猫をそーっと抱き上げてそのまま床の上に置きました。移動させている間も深く眠っているので動かされても全く起きません。 で...\nお父さんのあぐらの中の昼寝が大好きな子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68155",
-          "publishedOn": "2024-02-09T00:00:50.000Z",
-          "wordCount": 1398,
-          "title": "お父さんのあぐらの中の昼寝が大好きな子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68155.jpg"
         }
       ]
     },
