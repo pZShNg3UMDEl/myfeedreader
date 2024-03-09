@@ -1864,6 +1864,16 @@
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240309/K10014384881_2403092041_0309211647_01_02.jpg"
         },
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240309/k10014384731000.html",
+          "author": null,
+          "description": "ウクライナ南部のヘルソン州ではロシア軍による攻撃で集合住宅などが破壊され、少なくとも2人が死亡するなど市民の犠牲が続いています。こうした中、ロシアが占拠する南部ザポリージャ原子力発電所の安全性について、ウクライナ側は「事故に向かって進んでいる」と強い懸念を示し、ロシア側が撤退する必要性を改めて強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240309/k10014384731000.html",
+          "publishedOn": "2024-03-09T10:46:57.000Z",
+          "wordCount": 571,
+          "title": "ウクライナ“ザポリージャ原発 事故に向かっている”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240309/K10014384731_2403091945_0309194659_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240309/k10014384681000.html",
           "author": null,
           "description": "能登半島地震による断水などの影響で、石川県珠洲市内の歯科診療所は現在、すべて休診していて、道の駅に設けられた臨時の診療所に多くの被災者が訪れています。",
@@ -4664,6 +4674,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120692/",
+          "author": null,
+          "description": "「怪盗グルー」シリーズ最新作「怪盗グルーのミニオン超変身」が7月19日から公開されることを記念して、短編アニメ―ション「ミニオンの月世界」がイルミネーション最新作「FLY! フライ！」と同時上映...",
+          "link": "https://anime.eiga.com/news/120692/",
+          "publishedOn": "2024-03-09T13:00:00.000Z",
+          "wordCount": 863,
+          "title": "「怪盗グルーの月泥棒」の宿敵ベクターが主役!?　 短編アニメが「FLY! フライ！」と同時上映",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120761/",
           "author": null,
@@ -13210,6 +13235,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70011",
+          "author": "299",
+          "description": "猫さんが爪とぎボードの上に乗ったまま寝落ちしてしまったようです。体をボードの上に横たえて実に気持ちよさそうな顔をしながら寝ています。 頭はボードから落ちてしまっていてかなり体勢も崩れてきていてちょっと窮屈なんじゃないかと...\nつめとぎボードをベッドにして爆睡するニャンコ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70011",
+          "publishedOn": "2024-03-09T13:00:12.000Z",
+          "wordCount": 1217,
+          "title": "つめとぎボードをベッドにして爆睡するニャンコ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70011.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70006",
           "author": "299",
