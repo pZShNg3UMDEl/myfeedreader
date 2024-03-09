@@ -1561,16 +1561,6 @@
           "wordCount": 784,
           "title": "時期iOS 18はvisionOSのインターフェースを取り込む？「史上最大級アップデート」の一環か",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/Introducing-Apple-Vision-Pro-0-32-screenshot.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68519",
-          "author": "Munenori Taniguchi",
-          "description": "NASAの科学者らは、太陽系から137光年離れた宇宙に「スーパーアース」と呼ばれる類いの惑星TOI-715 bを発見した。 この惑星は地球の約1.5倍の大きさで、主星となる恒星からの距離は、「ハビタブルゾーン」と呼ばれる範囲に入っている。つまり、この惑星の温度環境は、水が液体で存在できる可能性がある […]",
-          "link": "https://gadget.phileweb.com/post-68519/",
-          "publishedOn": "2024-02-09T08:28:56.000Z",
-          "wordCount": 812,
-          "title": "水が液体で存在するかもしれない「スーパーアース」、地球から137光年の距離に見つかる",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/TOI-715b.jpg"
         }
       ]
     },
@@ -1814,6 +1804,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240310/k10014384801000.html",
+          "author": null,
+          "description": "「東京ブギウギ」などのヒット曲で知られ、ブギの女王と呼ばれた笠置シヅ子さんが歌う姿を戦前に収録したとみられるフィルムが発見されました。専門家は戦前の笠置さんの映像は極めて珍しく、当時の音楽のショーを知るうえで貴重な映像だとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240310/k10014384801000.html",
+          "publishedOn": "2024-03-09T20:21:12.000Z",
+          "wordCount": 416,
+          "title": "笠置シヅ子さんの戦前収録とみられる貴重なフィルム発見",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240310/K10014384801_2403091958_0310052114_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240310/k10014384931000.html",
           "author": null,
           "description": "アメリカのバイデン大統領は中央銀行にあたるFRB＝連邦準備制度理事会が決定する金利の水準について「金利はもっと下がるに違いない」と発言しました。中央銀行は独立性が重んじられる組織でことし秋の大統領選挙を前にした発言に波紋が広がっています。",
@@ -1832,6 +1832,16 @@
           "wordCount": 684,
           "title": "ミャンマー 徴兵制発表から1か月 隣国タイに出国の若者相次ぐ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240310/K10014384841_2403100508_0310051105_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240310/k10014384561000.html",
+          "author": null,
+          "description": "大相撲春場所が10日に初日を迎え、新大関の琴ノ若は、21歳の熱海富士と対戦します。",
+          "link": "http://www3.nhk.or.jp/news/html/20240310/k10014384561000.html",
+          "publishedOn": "2024-03-09T19:40:08.000Z",
+          "wordCount": 550,
+          "title": "大相撲春場所きょう初日 新大関 琴ノ若は21歳の熱海富士と対戦",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240310/K10014384561_2403091638_0310044010_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240310/k10014384911000.html",
