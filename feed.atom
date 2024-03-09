@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T10:31:03.146Z</updated>
+    <updated>2024-03-09T10:50:17.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -134,6 +134,16 @@
 h...]]></summary>
         <author>
             <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本農業賞表彰式 農業経営に意欲的に取り組んだ団体など表彰]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240309/k10014384641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240309/k10014384641000.html"/>
+        <updated>2024-03-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[農業経営に意欲的に取り組み、優れた功績をあげた農家や団体を表彰する「日本農業賞」の表彰式が東京のNHKホールで開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
