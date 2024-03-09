@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T21:23:31.796Z</updated>
+    <updated>2024-03-09T21:35:25.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エムポックス（サル痘）ワクチン“接種の7割以上 十分な抗体”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240310/k10014384821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240310/k10014384821000.html"/>
+        <updated>2024-03-09T20:37:33.000Z</updated>
+        <summary type="html"><![CDATA[「エムポックス」これまでのサル痘に対するワクチンの効果について国立国際医療研究センターは接種を受けた7割以上の人が十分な抗体を得られたとする臨床研究の結果を発表しました。研究グループは効果と安全性が確認されたとして、今後、免疫の働きが低下している人などへの効果も調べることにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[笠置シヅ子さんの戦前収録とみられる貴重なフィルム発見]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240310/k10014384801000.html</id>
