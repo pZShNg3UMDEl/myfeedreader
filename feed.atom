@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T10:13:59.835Z</updated>
+    <updated>2024-03-09T10:31:03.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[断水続く珠洲 臨時の歯科診療所に多くの被災者]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240309/k10014384681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240309/k10014384681000.html"/>
+        <updated>2024-03-09T10:02:58.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震による断水などの影響で、石川県珠洲市内の歯科診療所は現在、すべて休診していて、道の駅に設けられた臨時の診療所に多くの被災者が訪れています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女性服にもっとポケットを　SNSにアパレル業界が共鳴　きっかけは]]></title>
         <id>https://itainews.com/archives/2033709.html</id>
