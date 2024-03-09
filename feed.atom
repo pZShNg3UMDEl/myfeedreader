@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T21:35:25.678Z</updated>
+    <updated>2024-03-09T21:50:10.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[老後の公的年金の位置づけ「個人年金など組み合わせる」が最多]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240310/k10014384791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240310/k10014384791000.html"/>
+        <updated>2024-03-09T21:17:18.000Z</updated>
+        <summary type="html"><![CDATA[内閣府の世論調査によりますと、老後の生活設計での公的年金の位置づけについていずれの世代でも「公的年金を中心に個人年金などを組み合わせる」が最も多くなりました。2番目は世代で異なり、40代以上では「全面的に頼る」30代以下では「なるべく頼らず、できるだけ個人年金などを中心に考える」でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エムポックス（サル痘）ワクチン“接種の7割以上 十分な抗体”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240310/k10014384821000.html</id>
