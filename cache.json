@@ -1571,16 +1571,6 @@
           "wordCount": 812,
           "title": "水が液体で存在するかもしれない「スーパーアース」、地球から137光年の距離に見つかる",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/TOI-715b.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68497",
-          "author": "Munenori Taniguchi",
-          "description": "Googleが、AIモデル 「Bard」のブランド名を「Gemini」に変更すると発表した。 Geminiは昨年末に「同社最大かつ最も有能なAIモデル」との触れ込みで発表され、これまではBardと並行して存在していたが、Googleは様々なAIツールを「Gemini」ブランドとして統合していく方針の […]",
-          "link": "https://gadget.phileweb.com/post-68497/",
-          "publishedOn": "2024-02-09T08:16:15.000Z",
-          "wordCount": 787,
-          "title": "Google Bardが「Gemini」に名称変更。高性能AIモデル「Ultra 1.0」も提供開始へ",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/gemini.jpg"
         }
       ]
     },
@@ -1823,6 +1813,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240310/k10014384931000.html",
+          "author": null,
+          "description": "アメリカのバイデン大統領は中央銀行にあたるFRB＝連邦準備制度理事会が決定する金利の水準について「金利はもっと下がるに違いない」と発言しました。中央銀行は独立性が重んじられる組織でことし秋の大統領選挙を前にした発言に波紋が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240310/k10014384931000.html",
+          "publishedOn": "2024-03-09T20:14:28.000Z",
+          "wordCount": 666,
+          "title": "バイデン大統領“金利下がるに違いない”発言に波紋広がる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240310/K10014384931_2403100513_0310051430_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240310/k10014384841000.html",
+          "author": null,
+          "description": "ミャンマーで実権をにぎる軍が徴兵制の実施を発表して10日で1か月となりました。対象となった若者たちの間では徴兵から逃れようと隣国タイに出国するケースが相次いでいます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240310/k10014384841000.html",
+          "publishedOn": "2024-03-09T20:11:04.000Z",
+          "wordCount": 684,
+          "title": "ミャンマー 徴兵制発表から1か月 隣国タイに出国の若者相次ぐ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240310/K10014384841_2403100508_0310051105_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240310/k10014384911000.html",
           "author": null,
