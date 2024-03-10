@@ -1804,6 +1804,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240310/k10014385141000.html",
+          "author": null,
+          "description": "人が乗ったそりを犬が引いてタイムを競う、犬ぞりの大会が、10日に北海道石狩市で開かれ、犬が懸命に雪原を駆け抜ける迫力ある姿に、観客からは大きな歓声があがりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240310/k10014385141000.html",
+          "publishedOn": "2024-03-10T03:56:42.000Z",
+          "wordCount": 502,
+          "title": "北海道 石狩市で犬ぞりの大会 雪原を駆ける姿に歓声",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240310/K10014385141_2403101311_0310131236_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240310/k10014385041000.html",
           "author": null,
           "description": "石川県の馳知事は、NHKの「日曜討論」で、能登半島地震からの復旧・復興に向けて、被災者や自治体の意見を聞き取っているとしたうえで、「コミュニケーションをとりながら、荒唐無稽ではない、地に足のついたまちづくりを進めていく姿勢を大事にしたい」と述べました。",
@@ -2250,6 +2260,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99092",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/09(土) 16:55:07.07 ID:aD9YcBs50 Switchで出 […]",
+          "link": "https://switchsoku.com/ds/99092",
+          "publishedOn": "2024-03-10T04:00:23.000Z",
+          "wordCount": 10071,
+          "title": "『ラストストーリー』という出るのが10年早かった神ゲー",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/12/the-last-story.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=99083",
           "author": "SWITCH速報",
@@ -4619,16 +4639,6 @@
           "wordCount": 10207,
           "title": "任天堂の新特許に新Joy-Conデザインが見つかる",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/03/switch-joycon-new-color.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98001",
-          "author": "SWITCH速報",
-          "description": "「ゼルダの伝説 オーケストラコンサート」のアーカイブが特設サイトにて公開されています。 このあと20 […]",
-          "link": "https://switchsoku.com/soft/zelda/98001",
-          "publishedOn": "2024-02-09T16:00:37.000Z",
-          "wordCount": 10028,
-          "title": "ゼルダコンサートわずか3時間で45万再生",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/zelda-orchestra-concert.webp"
         }
       ]
     },
