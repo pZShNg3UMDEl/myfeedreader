@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T22:38:02.725Z</updated>
+    <updated>2024-03-10T22:50:23.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラマダン前日もイスラエル軍の攻撃 戦闘休止の見通し立たず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385581000.html"/>
+        <updated>2024-03-10T22:40:45.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区では11日からイスラム教の断食月、ラマダンを迎えますが、イスラエル軍による攻撃は前日の10日も続きました。戦闘休止をめぐる交渉について、ラマダン期間中の合意を目指して仲介国による働きかけが続いていると伝えられていますが、戦闘休止の見通しは依然として立っていません。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（3月11日の動き）]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240311/k10014332841000.html</id>
