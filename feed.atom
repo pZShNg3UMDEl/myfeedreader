@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T21:20:39.901Z</updated>
+    <updated>2024-03-10T21:35:28.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【大戸屋】大戸屋風チキン南蛮定食【定番メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=238692</id>
+        <link href="https://foodfighter.jp/ootoya-chicken-nanban"/>
+        <updated>2024-03-10T21:29:04.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”ちゃんとごはん。”をキャッチコピーに全国に展開している和食を中心とした外食チェーン「大戸屋」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東北沖 地震回数は減少傾向も 余震域は活発な状態続く]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240311/k10014385681000.html</id>
