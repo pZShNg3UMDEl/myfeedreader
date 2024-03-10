@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T20:36:09.799Z</updated>
+    <updated>2024-03-10T20:50:22.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[陸自ヘリ事故 調査報告書の内容判明 「ロールバック」が原因か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385531000.html"/>
+        <updated>2024-03-10T20:43:48.000Z</updated>
+        <summary type="html"><![CDATA[去年、沖縄県の宮古島沖で陸上自衛隊のヘリコプターが墜落して10人が死亡した事故の調査報告書の内容が判明しました。エンジンの出力が徐々に低下する「ロールバック」と呼ばれる現象が起きたことなどが原因としていて、近く内容が公表される見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大相撲春場所2日目 見どころ 新大関 琴ノ若は朝乃山との一番]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385551000.html"/>
+        <updated>2024-03-10T20:36:45.000Z</updated>
+        <summary type="html"><![CDATA[大相撲春場所は2日目、新大関 琴ノ若は大関経験者の朝乃山との一番です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米「シリコンバレーバンク」経営破綻から1年 日本への示唆は]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240311/k10014384991000.html</id>
