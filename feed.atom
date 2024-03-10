@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T03:13:41.526Z</updated>
+    <updated>2024-03-10T03:24:31.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領とトランプ前大統領 接戦予想の州で同時に集会]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240310/k10014385061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240310/k10014385061000.html"/>
+        <updated>2024-03-10T03:14:16.000Z</updated>
+        <summary type="html"><![CDATA[ことし秋のアメリカ大統領選挙で再び対決する見込みとなっているバイデン大統領とトランプ前大統領は、接戦が予想される州の1つ、南部ジョージア州で9日に同時に集会を開いて直接対決をスタートさせ、それぞれ相手を厳しく批判して支持を訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京大空襲から79年 慰霊の法要 “戦争を若い世代に伝えたい”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240310/k10014385101000.html</id>
