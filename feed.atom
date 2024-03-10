@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T23:36:25.326Z</updated>
+    <updated>2024-03-10T23:50:24.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「君たちはどう生きるか」アカデミー賞長編アニメーション賞に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385761000.html"/>
+        <updated>2024-03-10T23:42:30.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ映画界で最高の栄誉とされるアカデミー賞の各賞が10日、ロサンゼルスで発表され長編アニメーション賞に、宮崎駿監督の「君たちはどう生きるか」が選ばれました。日本の作品が長編アニメーション賞を受賞したのは2003年に、同じく宮崎監督の「千と千尋の神隠し」が受賞して以来です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古川聡さん 12日に地球帰還へ 宇宙ステーションでセレモニー]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240311/k10014385741000.html</id>
