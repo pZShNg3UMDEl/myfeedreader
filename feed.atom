@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T07:12:48.328Z</updated>
+    <updated>2024-03-10T07:22:58.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東日本大震災で農業用ダム決壊 犠牲の8人を追悼 福島 須賀川]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240310/k10014385241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240310/k10014385241000.html"/>
+        <updated>2024-03-10T07:14:11.000Z</updated>
+        <summary type="html"><![CDATA[東日本大震災で農業用のダムが決壊し、8人が犠牲となった福島県須賀川市で追悼式典が開かれ、遺族らが黙とうをささげました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国の専門家「箸の使い方は韓国では自由。綺麗に使うとかは日本文化の影響。」]]></title>
         <id>https://itainews.com/archives/2033729.html</id>
