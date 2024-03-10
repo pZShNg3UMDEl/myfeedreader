@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T12:20:40.825Z</updated>
+    <updated>2024-03-10T12:43:02.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“帰ることができないふるさと” 地元の踊りを受け継ぐ大学生]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240310/k10014385651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240310/k10014385651000.html"/>
+        <updated>2024-03-10T12:30:34.000Z</updated>
+        <summary type="html"><![CDATA[東日本大震災と東京電力福島第一原子力発電所の事故の発生からまもなく13年となる中、福島県浪江町から当時小学生で避難した女性が、今も帰ることができないふるさとの民俗芸能を絶やさないようにと継承する活動を続けています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年3月3日から3月9日】]]></title>
+        <id>https://foodfighter.jp/?p=238690</id>
+        <link href="https://foodfighter.jp/bento-ranking-2024-0310"/>
+        <updated>2024-03-10T12:19:28.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年3月3日から3月9日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキングしま […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電気工事士はまずドロップキックの練習をするってマジで？]]></title>
         <id>https://itainews.com/archives/2033740.html</id>
