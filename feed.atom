@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T19:20:12.945Z</updated>
+    <updated>2024-03-10T19:36:20.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アカデミー賞きょう発表 日本からは異例の3作品がノミネート]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385571000.html"/>
+        <updated>2024-03-10T19:30:50.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ映画界で最高の栄誉とされるアカデミー賞が日本時間の11日、アメリカ・ロサンゼルスで発表されます。「君たちはどう生きるか」、「PERFECT DAYS」、「ゴジラー1.0」と、日本から異例の3つの作品がノミネートされていて、受賞の行方が注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福島第一原発事故から13年“最長40年で廃炉”計画に不透明さも]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385541000.html"/>
+        <updated>2024-03-10T19:23:05.000Z</updated>
+        <summary type="html"><![CDATA[世界最悪レベルとなった、東京電力福島第一原子力発電所の事故の発生から13年。懸案となっていた処理水の放出が始まった一方、溶け落ちた「核燃料デブリ」の取り出しをはじめ、ほとんどの工程が延期を余儀なくされていて、最長40年で廃炉を終える計画は不透明さを増しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Job Postings - Week of 10 March 2024]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-10-march-2024.html</id>
