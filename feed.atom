@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T11:35:55.679Z</updated>
+    <updated>2024-03-10T11:50:15.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NATO 冷戦終結後 欧州で最大の軍事演習 ロシアの攻撃を想定か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240310/k10014385471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240310/k10014385471000.html"/>
+        <updated>2024-03-10T11:46:42.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナへの侵攻を続けるロシアを最大の脅威と位置づけるNATO＝北大西洋条約機構は、現在、東西冷戦の終結後、ヨーロッパで最大となる軍事演習を行っています。演習はロシアによる攻撃への対応を想定したとみられ、ロシアを強くけん制するねらいがあります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロボクシング 井岡一翔 大麻成分検出を受け戒告処分 JBC]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240310/k10014385451000.html</id>
