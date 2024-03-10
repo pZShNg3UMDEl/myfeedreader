@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T21:35:28.944Z</updated>
+    <updated>2024-03-10T21:50:32.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【震災13年】災害公営住宅での孤立死355人 住民の孤立が深刻化]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014384981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014384981000.html"/>
+        <updated>2024-03-10T21:36:34.000Z</updated>
+        <summary type="html"><![CDATA[13年前に発生した東日本大震災と原発事故で自宅を失った人などが入居する、岩手・宮城・福島の災害公営住宅で、誰にもみとられずに亡くなる、いわゆる「孤立死」は、去年12月末までに少なくとも合わせて355人に上ることが、NHKの取材でわかりました。今年度も去年12月までで少なくとも48人が新たに確認されていて、時間がたつなかで高齢化が進み、交流の機会も少なくなるなど、住民の孤立が深刻化しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大戸屋】大戸屋風チキン南蛮定食【定番メニュー】]]></title>
         <id>https://foodfighter.jp/?p=238692</id>
