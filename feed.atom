@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T19:36:20.038Z</updated>
+    <updated>2024-03-10T19:50:14.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[木造住宅が全焼 住人の男女3人と連絡が取れず 島根 雲南]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385731000.html"/>
+        <updated>2024-03-10T19:41:21.000Z</updated>
+        <summary type="html"><![CDATA[11日未明、島根県雲南市で火事があり、住宅1棟が全焼しました。この住宅に住む3人と連絡が取れなくなっているということで、警察が確認を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空き時間などで働く「スポットワーク」仲介サービスなど広がる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385521000.html"/>
+        <updated>2024-03-10T19:36:25.000Z</updated>
+        <summary type="html"><![CDATA[人手不足や副業の普及を背景に「スポットワーク」と呼ばれる空き時間や短時間で働くニーズが高まるなか、仲介サービスへの参入や強化の動きが企業の間で広がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アカデミー賞きょう発表 日本からは異例の3作品がノミネート]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240311/k10014385571000.html</id>
