@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T06:15:19.740Z</updated>
+    <updated>2024-03-10T06:28:16.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東日本大震災で被災した人たち“恩返しを” 輪島で炊き出し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240310/k10014385211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240310/k10014385211000.html"/>
+        <updated>2024-03-10T06:25:19.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害を受けた人たちを励まそうと、13年前の東日本大震災で被災した人たちが石川県輪島市で炊き出しを行い、サンマのつみれ汁をふるまいました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[言うほど寝転びながらゲームするか？]]></title>
         <id>https://switchsoku.com/?p=99095</id>
