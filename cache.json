@@ -1884,6 +1884,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014387211000.html",
+          "author": null,
+          "description": "先週、都内で20代の女性がはしかに感染していることが確認されました。女性は今月に大阪府で感染が確認された患者と同じ飛行機に搭乗していて、そのあと、新幹線や都内の飲食店を利用していることから、東京都は、症状が疑われる人は医療機関に相談するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014387211000.html",
+          "publishedOn": "2024-03-11T12:12:29.000Z",
+          "wordCount": 574,
+          "title": "都内で20代女性 はしか感染を確認 “医療機関に相談を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014387211_2403112030_0311211232_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014386961000.html",
+          "author": null,
+          "description": "アメリカの複数のメディアは、ウクライナへの侵攻を続けるロシア軍がおととし10月ごろ、核兵器をウクライナで使用することについて具体的に議論を行っていたとして、バイデン政権がこれに対応するため綿密に準備を進めていたと伝えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014386961000.html",
+          "publishedOn": "2024-03-11T11:57:14.000Z",
+          "wordCount": 793,
+          "title": "“ロシア軍が核兵器使用議論 バイデン政権が対応準備” 米報道",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014386961_2403111922_0311205716_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014387161000.html",
+          "author": null,
+          "description": "日本の新たな主力ロケット「H3」で、来年度・2024年度に打ち上げられる計画の地球観測衛星「だいち4号」が、11日神奈川県で報道陣に公開されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014387161000.html",
+          "publishedOn": "2024-03-11T11:50:39.000Z",
+          "wordCount": 570,
+          "title": "地球観測衛星「だいち4号」公開 来年度打ち上げの計画 神奈川",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014387161_2403111949_0311205042_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240311/k10014386901000.html",
           "author": null,
           "description": "広島県呉市にある日本製鉄の製鉄所の跡地に「複合防衛拠点」を整備したい意向を示している防衛省が11日、呉市議会で整備計画を説明しました。この中で防衛省側は「火薬庫も整備の検討対象だがメインで作ると多機能な複合防衛拠点にはならない」などと述べ、火薬庫を主要な機能として整備することには否定的な考えを示しました。",
@@ -5529,16 +5559,6 @@
           "wordCount": 10151,
           "title": "『ドラクエ12』が時間かかっている理由って結局何なの？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/04/dq12-logo-2023.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98037",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/10(土) 08:00:28.92 ID:zWrb9r9T0 携帯と据え置きの […]",
-          "link": "https://switchsoku.com/switch/98037",
-          "publishedOn": "2024-02-11T00:00:42.000Z",
-          "wordCount": 10053,
-          "title": "Swich2の新ギミックを予想しよう",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/nintendo-switch2.webp"
         }
       ]
     },
@@ -5724,6 +5744,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120773/",
+          "author": null,
+          "description": "現地時間3月10日に開催された第96回アカデミー賞（2024）授賞式で、宮﨑駿監督の「君たちはどう生きるか」が長編アニメーション賞を受賞したことを受けて、3月11日に東京・東小金井のスタジオジブ...",
+          "link": "https://anime.eiga.com/news/120773/",
+          "publishedOn": "2024-03-11T12:00:00.000Z",
+          "wordCount": 803,
+          "title": "【アカデミー賞受賞】宮﨑駿監督は引退会見を反省し「もう世間には出ない」　鈴木敏夫が喜びの声「オスカー像は3個注文」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120772/",
           "author": null,
@@ -17714,16 +17749,6 @@
           "wordCount": 1401,
           "title": "ママ猫にぎゅっと抱っこされて寝ている子猫の肉球に目がハート！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68251.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68284",
-          "author": "299",
-          "description": "お布団の上でまったりしている子猫のそばでひよこがピーピーと激しく鳴き続けています。 子猫はひよこのことをしっかり前足で抱き抱えるようにしながら一生懸命にひよこのことをなだめているように見えます。 母猫が子猫を優しくお世話...\nひよこのママ代わりをする子猫の優しさにキュン first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68284",
-          "publishedOn": "2024-02-11T00:00:54.000Z",
-          "wordCount": 1401,
-          "title": "ひよこのママ代わりをする子猫の優しさにキュン",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68284.jpg"
         }
       ]
     },
