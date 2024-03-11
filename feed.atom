@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T07:12:54.976Z</updated>
+    <updated>2024-03-11T07:23:12.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アカデミー賞 「オッペンハイマー」が作品賞など7部門を受賞]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014386451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014386451000.html"/>
+        <updated>2024-03-11T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ映画界で最高の栄誉とされるアカデミー賞が発表され、最多の13部門の候補となり注目された、原爆の開発を指揮した学者を題材にした「オッペンハイマー」は作品賞や監督賞など7部門を受賞しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥さんを何分間「お姫様抱っこ」出来る？]]></title>
         <id>https://itainews.com/archives/2033752.html</id>
