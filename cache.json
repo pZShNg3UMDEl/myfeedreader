@@ -1854,6 +1854,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014386111000.html",
+          "author": null,
+          "description": "沖縄の名護市辺野古沖で進むアメリカ軍普天間基地の移設工事の現場で、11日から工事車両が出はいりするゲートの場所が変更されたことが分かりました。これまで使用されていたゲートは移設に反対する人たちが座り込みなどを行う拠点に近く、たびたび渋滞が起きていて、名護市が国に対応を求めていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014386111000.html",
+          "publishedOn": "2024-03-11T03:30:14.000Z",
+          "wordCount": 591,
+          "title": "辺野古沖 米軍基地 移設工事の車両ゲート きょうから場所変更",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014386111_2403111151_0311115834_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240311/k10014386091000.html",
           "author": null,
           "description": "俳優志望の女性に演技指導としてわいせつな行為をしたとして映画監督が逮捕された事件で、警視庁は別の俳優に対してもわいせつな行為をした疑いがあるとして再逮捕しました。",
@@ -5374,6 +5384,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120767/",
+          "author": null,
+          "description": "第96回アカデミー賞（2024）の授賞式が3月10日（現地時間）、米ロサンゼルスのドルビーシアターで行われ、山崎貴監督作「ゴジラ－1.0」が視覚効果賞を受賞した。同賞を邦画・アジア映画が受賞した...",
+          "link": "https://anime.eiga.com/news/120767/",
+          "publishedOn": "2024-03-11T03:30:00.000Z",
+          "wordCount": 751,
+          "title": "【第96回アカデミー賞】「ゴジラ－1.0」が視覚効果賞　山崎貴はキューブリック以来55年ぶり史上2人目の受賞監督に",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120693/",
           "author": null,
