@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T22:37:53.797Z</updated>
+    <updated>2024-03-11T22:50:34.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガザ地区 断食月 ラマダン初日もイスラエル軍の攻撃続く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014387121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014387121000.html"/>
+        <updated>2024-03-11T22:45:38.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区ではイスラム教の断食月、ラマダンの初日を迎えた11日も、イスラエル軍の攻撃が続いています。住民の犠牲が絶えない中、国連のグテーレス事務総長はラマダンの開始にあわせて「この神聖な期間を平和の時とするべく呼びかける」と述べて、一刻も早く戦闘をやめるよう呼びかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブータン首相「幸福は経済と切り離して手に入れられない」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240312/k10014387091000.html</id>
