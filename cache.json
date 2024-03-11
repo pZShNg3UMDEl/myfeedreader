@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/11/news011.html",
+          "author": null,
+          "description": "ノートPCが小型化、薄型化するにつれ、オーディオ性能の向上や改善は難しくなる。そこで注目されているのが、「スマート・アンプ」と呼ばれるデバイスだ。DSP（デジタルシグナルプロセッサ）やセンサー、バッテリー電圧ブーストなどを統合したスマート・アンプは、複数の半導体メーカーが手掛けていて、ノートPCのオーディオ設計を簡素化するキーデバイスとなりそうだ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/11/news011.html",
+          "publishedOn": "2024-03-11T02:00:00.000Z",
+          "wordCount": 2583,
+          "title": "超薄型ノートPCのオーディオ設計で注目される「スマート・アンプ」",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/11/cover_news011.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html",
           "author": null,
           "description": "ノルディックセミコンダクターは、セルラーIoT（モノのインターネット）デバイス「nRF9151」を発表した。SoC（System on Chip）やRFフロントエンド、電力管理機能を統合していて、「nRF91」シリーズの従来品に比べてフットプリントが20％縮小した。",
@@ -1823,6 +1833,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014386031000.html",
+          "author": null,
+          "description": "東日本大震災から13年に合わせて、フィギュアスケーターの羽生結弦さんがふるさとの宮城県でアイスショーを行い「すべての人たちに希望や祈りが届くように滑り続けたい」と思いを語りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014386031000.html",
+          "publishedOn": "2024-03-11T02:31:06.000Z",
+          "wordCount": 446,
+          "title": "東日本大震災13年 羽生結弦さん ふるさと宮城県でアイスショー",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014386031_2403111103_0311111625_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240311/k10014385861000.html",
           "author": null,
