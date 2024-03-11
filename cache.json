@@ -1650,6 +1650,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/preprint-on-skipper-in-cmos-image-sensor.html",
+          "author": null,
+          "description": "A recent preprint on ArXiv https://arxiv.org/abs/2402.12516 titled presents a new CMOS image sensor designed to achieve sub-electron read noise and photon number resolving capability.\nSkipper-in-CMOS: Non-Destructive Readout with Sub-Electron Noise Performance for Pixel Detectors\n\nAbstract: The Skipper-in-CMOS image sensor integrates the non-destructive readout capability of Skipper Charge Coupled Devices (Skipper-CCDs) with the high conversion gain of a pinned photodiode in a CMOS imaging process, while taking advantage of in-pixel signal processing. This allows both single photon counting as well as high frame rate readout through highly parallel processing. The first results obtained from a 15 x 15 um^2 pixel cell of a Skipper-in-CMOS sensor fabricated in Tower Semiconductor's commercial 180 nm CMOS Image Sensor process are presented. Measurements confirm the expected reduction of the readout noise with the number of samples down to deep sub-electron noise of 0.15rms e-, demonstrating the charge transfer operation from the pinned photodiode and the single photon counting operation when the sensor is exposed to light. The article also discusses new testing strategies employed for its operation and characterization.",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/preprint-on-skipper-in-cmos-image-sensor.html",
+          "publishedOn": "2024-03-11T13:07:00.007Z",
+          "wordCount": 3864,
+          "title": "Preprint on \"Skipper-in-CMOS\" image sensor",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgMiEdx-h26XtvWL1arR2LMvGjiurHVlkaeXM3_8g3q7IGxsAurY4LLgADBFPNCkeSAjA2u96rxj6SP1HM_GZ6Eoe6sSdV8bNzmYDVkgzMO-GHjHzaOfB5RgRg7GIAbO_vrdJ-Dkdr9JyQq9q1JNbUxPmob-_jQcT0jSEEY_hCGcI5gtYoQ9Wy/w1200-h630-p-k-no-nu/Capture1.PNG"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-10-march-2024.html",
           "author": null,
           "description": "Qualcomm\nADAS camera Engineer\nFarnborough, UK\nLink\nOnsemi\nProduct Engineer\nMeridian, Idaho, USA\nLink\nUniversity of Warwick\nTowards Silicon Photonics Based\n  Gas Sensors\nCoventry, UK\nLink\nJohnson & Johnson\nSr. Manager Visualization\n  Hardware\nSanta Clara, CA, USA\nLink\nNASA\nDevelopment of infrared detectors and\n  focal plane arrays for space instruments\nPasadena, CA, USA\nLink\nApple\nHardware Sensing Systems Engineer\nCupertino, CA, USA\nLink\nSony\nSoftware Engineer/Researcher for\n  Image Sensors\nTokyo, Japan\nLink\nMeta\nImage Sensor Architect\nRedmond, Washington, USA\nLink\nQueen Mary University\nSilicon Detector Technician\nLondon, England, UK\nLink",
@@ -1883,6 +1893,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014387241000.html",
+          "author": null,
+          "description": "今月3日に北海道北部の利尻山でバックカントリーを滑っていたツアー客1人が雪崩に巻き込まれて死亡した事故で、雪崩はおよそ700メートルに及ぶ大規模なものだったことが日本雪氷学会の調査で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014387241000.html",
+          "publishedOn": "2024-03-11T12:52:05.000Z",
+          "wordCount": 787,
+          "title": "北海道 利尻山の雪崩 長さ約700mに及ぶ大規模なものに 学会",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014387241_2403112123_0311215206_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240311/k10014387211000.html",
           "author": null,
@@ -3160,6 +3180,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99142",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/10(日) 14:14:32.06 ID:HD62nk/9d ・初期型Swit […]",
+          "link": "https://switchsoku.com/switch/99142",
+          "publishedOn": "2024-03-11T13:00:55.000Z",
+          "wordCount": 10045,
+          "title": "皆が持ってるSwitchはどのモデルなの？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/07/el-switch-05.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=99139",
           "author": "SWITCH速報",
@@ -5754,6 +5784,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120721/",
+          "author": null,
+          "description": "米イルミネーションの最新アニメーション映画「FLY! フライ！」の本編映像の一部が披露された。イルミネーションならではの映像美＆ジェットコースター級の迫力で描かれる、カモ一家の飛行シーンを収めて...",
+          "link": "https://anime.eiga.com/news/120721/",
+          "publishedOn": "2024-03-11T13:00:00.000Z",
+          "wordCount": 849,
+          "title": "ジェットコースター級の大迫力＆スピード感　「FLY! フライ！」没入感MAXの飛行シーン公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120773/",
           "author": null,
@@ -8769,6 +8814,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9623",
+          "author": "watanabe@logipara.com",
+          "description": "ガイドが嘘しか言わないという「嘘のツアー」。 　 嘘のツアー 　 ネットでも話題騒然となったこのツアーに先日、参加してきました！ というわけで当日の様子をレポろうと思います！ 　 ※注意！ 以下、ネタバレOKとなって […]",
+          "link": "https://logipara.com/diary-text/usotour",
+          "publishedOn": "2024-03-11T13:08:15.000Z",
+          "wordCount": 4440,
+          "title": "「嘘のツアー」に行ってきたよ【微ネタバレあり】",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/03/image-1-1.jpg"
+        },
+        {
           "id": "https://logipara.com/?p=9620",
           "author": "watanabe@logipara.com",
           "description": "昨日はしこたま飲んで、でもそんなに酔わないまま寝て、起きて、今朝。 原因不明だけど、何もやる気が出ない。 まぁとにかく身体がだるい。足腰が立たない。 だが理由がわからない。 「もう疲れちゃって 全然動けなくてェ̷ […]",
@@ -11043,6 +11098,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033760.html",
+          "author": "damono3856",
+          "description": "1 名前：ごまカンパチ ★：2024/03/11(月) 09:44:23.21 ID:dRX4M0Tj9.net\n\n\n\n\n\n\n\n上級生がレモンサワーを未成年部員に強要「飲めません」と断られ平手打ち　東海大硬式野球部が活動中止 https://t.co/wysEBJDFZ3— TBS NEWS DIG Powered by JNN (@tbsnewsdig) March 9, 2...",
+          "link": "https://itainews.com/archives/2033760.html",
+          "publishedOn": "2024-03-11T13:04:51.000Z",
+          "wordCount": 2387,
+          "title": "【酒害】上級生がレモンサワーを未成年部員に強要「飲めません」と断られ平手打ち　東海大硬式野球部が活動中止",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/a/0a401659-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033758.html",
           "author": "damono3856",
