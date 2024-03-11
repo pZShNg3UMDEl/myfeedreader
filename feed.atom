@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T12:24:28.177Z</updated>
+    <updated>2024-03-11T12:47:18.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -32,6 +32,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240311/k10014386961000.html"/>
         <updated>2024-03-11T11:57:14.000Z</updated>
         <summary type="html"><![CDATA[アメリカの複数のメディアは、ウクライナへの侵攻を続けるロシア軍がおととし10月ごろ、核兵器をウクライナで使用することについて具体的に議論を行っていたとして、バイデン政権がこれに対応するため綿密に準備を進めていたと伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イカナゴ漁解禁も水揚量少なく一日で打ち切り 兵庫 播磨灘]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014386891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014386891000.html"/>
+        <updated>2024-03-11T11:53:24.000Z</updated>
+        <summary type="html"><![CDATA[瀬戸内に春の訪れを告げるイカナゴ漁が11日、兵庫県の播磨灘で解禁されましたが、水揚量が少なく、地元の漁業者らは、資源確保のため、一日で漁を打ち切ることになりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
