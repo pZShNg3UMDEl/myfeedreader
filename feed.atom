@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T07:23:12.437Z</updated>
+    <updated>2024-03-11T07:35:35.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -131,6 +131,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240311/k10014386251000.html"/>
         <updated>2024-03-11T04:27:57.000Z</updated>
         <summary type="html"><![CDATA[アメリカ海軍のイージス艦が11日、補給などを行うとして沖縄県の石垣島に初めて入港しました。地元では、抗議のために港湾労働組合が午後1時からストライキを行っていて、影響が島の物流に広がる可能性があります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「君たちはどう生きるか」「ゴジラ-1.0」アカデミー賞を受賞]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014386151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014386151000.html"/>
+        <updated>2024-03-11T04:14:47.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ映画界で最高の栄誉とされるアカデミー賞が発表され、宮崎駿監督の「君たちはどう生きるか」が長編アニメーション賞を受賞しました。また、山崎貴監督の「ゴジラ-1.0」が日本映画として初めて視覚効果賞を受賞し、日本の2つの作品が同時に受賞を果たしました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
