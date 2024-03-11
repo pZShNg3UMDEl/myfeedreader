@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T22:26:35.615Z</updated>
+    <updated>2024-03-11T22:37:53.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブータン首相「幸福は経済と切り離して手に入れられない」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014387091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014387091000.html"/>
+        <updated>2024-03-11T22:30:30.000Z</updated>
+        <summary type="html"><![CDATA[「幸せの国」として知られるヒマラヤの王国、ブータンのトブゲイ首相がNHKの単独インタビューに応じ、「幸福は経済と切り離して手に入れることはできない」と述べ、国民の精神的な豊かさを重視しながらも、厳しい状況が続く経済の立て直しに最優先で取り組む姿勢を強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島 北東側でも活断層ずれ動いたか 政府の地震調査委員会]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240312/k10014387301000.html</id>
