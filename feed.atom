@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T03:35:19.429Z</updated>
+    <updated>2024-03-11T03:50:26.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、「M3 MacBook Air」ベースモデル。M2世代より内蔵SSDアクセス速度が大幅アップ]]></title>
+        <id>https://gadget.phileweb.com/?p=71356</id>
+        <link href="https://gadget.phileweb.com/post-71356/"/>
+        <updated>2024-03-11T03:46:45.000Z</updated>
+        <summary type="html"><![CDATA[アップルは先週、Wi-Fi 6E対応やフタを閉じたときに外付けディスプレイを2台サポートした「M3 MacBook Air」を発表した。新型チップ採用によりCPUやGPU性能が向上しているのは疑いないが、ベースモデル（SSDが最低容量）は内蔵SSDへのアクセス速度が危惧されていた。 だが、実際にはめ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[辺野古沖 米軍基地 移設工事の車両ゲート きょうから場所変更]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240311/k10014386111000.html</id>
@@ -20674,16 +20684,6 @@ SUGIZO　ボランティアで能登半島地震被災地へ「はっきり言�
 カーペットをぺろぺろする柴犬リコの不思議行動を子猫が不思議そうに観察中！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年2月4日から2月10日】]]></title>
-        <id>https://foodfighter.jp/?p=235675</id>
-        <link href="https://foodfighter.jp/bento-ranking-2024-0211"/>
-        <updated>2024-02-10T15:44:10.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年2月4日から2月10日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキングし […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
