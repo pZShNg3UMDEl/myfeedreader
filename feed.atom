@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T14:36:47.527Z</updated>
+    <updated>2024-03-11T14:50:22.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ロッテの新商品「爽（そう） ソーダフロート」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISSの古川宇宙飛行士 地球に帰還する宇宙船に搭乗]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014387321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014387321000.html"/>
+        <updated>2024-03-11T14:20:11.000Z</updated>
+        <summary type="html"><![CDATA[およそ半年にわたって宇宙に滞在してきた宇宙飛行士の古川聡さんが日本時間の11日夜、宇宙船に乗り込み、このあと国際宇宙ステーションを離れます。宇宙船は12日夜、地球に帰還する予定です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -161,6 +171,16 @@ Abstract: The Skipper-in-CMOS image sensor integrates the non-destructive readou
         <link href="http://www3.nhk.or.jp/news/html/20240311/k10014386891000.html"/>
         <updated>2024-03-11T11:53:24.000Z</updated>
         <summary type="html"><![CDATA[瀬戸内に春の訪れを告げるイカナゴ漁が11日、兵庫県の播磨灘で解禁されましたが、水揚量が少なく、地元の漁業者らは、資源確保のため、一日で漁を打ち切ることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フィギュア 宇野昌磨 世界選手権3連覇へ「後悔のない演技を」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014387141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014387141000.html"/>
+        <updated>2024-03-11T11:51:26.000Z</updated>
+        <summary type="html"><![CDATA[今月、カナダで開催されるフィギュアスケートの世界選手権に向けて、男子シングルで3連覇を目指す宇野昌磨選手が練習を公開し、「自分がいちばん満足のいく後悔のない演技をしたい」と意気込みを話しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
