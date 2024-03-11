@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T20:14:50.908Z</updated>
+    <updated>2024-03-11T20:26:16.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -208,6 +208,16 @@ Abstract: The Skipper-in-CMOS image sensor integrates the non-destructive readou
         <link href="http://www3.nhk.or.jp/news/html/20240311/k10014387211000.html"/>
         <updated>2024-03-11T12:12:29.000Z</updated>
         <summary type="html"><![CDATA[先週、都内で20代の女性がはしかに感染していることが確認されました。女性は今月に大阪府で感染が確認された患者と同じ飛行機に搭乗していて、そのあと、新幹線や都内の飲食店を利用していることから、東京都は、症状が疑われる人は医療機関に相談するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民 後任の青年局長 鈴木貴子氏を起用する方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014387201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014387201000.html"/>
+        <updated>2024-03-11T12:05:52.000Z</updated>
+        <summary type="html"><![CDATA[自民党は、複数の女性ダンサーが招かれた若手議員らの懇親会に出席し、辞任した青年局長の後任に鈴木貴子元外務副大臣を起用する方針を固めました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
