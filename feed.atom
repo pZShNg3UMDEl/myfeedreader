@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T10:36:32.453Z</updated>
+    <updated>2024-03-11T10:50:27.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政党支持率 自民下落20％台に 立民 維新も伸びず NHK世論調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240311/k10014385921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240311/k10014385921000.html"/>
+        <updated>2024-03-11T10:35:47.000Z</updated>
+        <summary type="html"><![CDATA[各党の支持率です。「自民党」が28.6％、「立憲民主党」が6.8％、「日本維新の会」が3.8％、「公明党」が3.1％、「共産党」が2.8％、「国民民主党」が1.2％、「れいわ新選組」が2.5％、「社民党」が0.6％、「参政党」が0.4％、「特に支持している政党はない」が42.4％でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四谷大塚の元講師に懲役2年求刑 教え子を繰り返し盗撮]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240311/k10014386731000.html</id>
