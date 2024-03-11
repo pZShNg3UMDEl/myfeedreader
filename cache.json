@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html",
+          "author": null,
+          "description": "ノルディックセミコンダクターは、セルラーIoT（モノのインターネット）デバイス「nRF9151」を発表した。SoC（System on Chip）やRFフロントエンド、電力管理機能を統合していて、「nRF91」シリーズの従来品に比べてフットプリントが20％縮小した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html",
+          "publishedOn": "2024-03-11T00:00:00.000Z",
+          "wordCount": 2593,
+          "title": "電力管理機能を統合した、出力電力20dBmの小型セルラーIoTデバイス",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/11/cover_news019.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/08/news032.html",
           "author": null,
           "description": "マイクロチップ・テクノロジーは、同社のDSC（デジタルシグナルコントローラー）「dsPIC」をベースとした、統合型モータードライバーファミリーを発表した。DSCや三相MOSFETゲートドライバーなどを1パッケージに統合していて、PCB（プリント基板）面積の縮小や部品点数の削減が可能となる。",
@@ -1804,6 +1814,46 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014385861000.html",
+          "author": null,
+          "description": "週明けの11日の東京株式市場は外国為替市場で1ドル＝146円台まで円高が進んでいることなどを受けて、取り引き開始直後から幅広い銘柄に売り注文が広がり、日経平均株価は一時900円以上、値下がりしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014385861000.html",
+          "publishedOn": "2024-03-11T00:55:36.000Z",
+          "wordCount": 904,
+          "title": "株価 一時900円以上値下がり 半導体や輸出関連銘柄に売り注文",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014385861_2403110915_0311091944_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014385771000.html",
+          "author": null,
+          "description": "アメリカ映画界で最高の栄誉とされるアカデミー賞の各賞の発表がロサンゼルスで行われ、視覚効果賞に山崎貴監督の「ゴジラー1.0」が選ばれました。視覚効果賞を日本の作品が受賞したのは初めてです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014385771000.html",
+          "publishedOn": "2024-03-11T00:51:04.000Z",
+          "wordCount": 670,
+          "title": "「ゴジラ-1.0」アカデミー賞 視覚効果賞受賞",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014385771_2403110951_0311095240_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014385621000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手がオープン戦で初めて入った4打席目でタイムリーツーベースヒットを打ちました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014385621000.html",
+          "publishedOn": "2024-03-11T00:13:56.000Z",
+          "wordCount": 867,
+          "title": "大谷翔平 OP戦初の4打席目でタイムリー 打率は好調キープ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014385621_2403110911_0311091209_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240311/k10014385801000.html",
+          "author": null,
+          "description": "内閣府が11日に発表した去年10月から12月までのGDP＝国内総生産の改定値は、前の3か月と比べた実質の伸び率が年率換算でプラス0.4％となりました。先月15日に発表された速報値のマイナス0.4％から上方修正されました。企業の「設備投資」が、最新の統計を反映して増えたことが主な要因です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240311/k10014385801000.html",
+          "publishedOn": "2024-03-11T00:07:52.000Z",
+          "wordCount": 944,
+          "title": "10-12月のGDP改定値 伸び率 年率換算でプラス0.4％に上方修正",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240311/K10014385801_2403110907_0311090715_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240311/k10014385761000.html",
           "author": null,
           "description": "アメリカ映画界で最高の栄誉とされるアカデミー賞の各賞が10日、ロサンゼルスで発表され長編アニメーション賞に、宮崎駿監督の「君たちはどう生きるか」が選ばれました。日本の作品が長編アニメーション賞を受賞したのは2003年に、同じく宮崎監督の「千と千尋の神隠し」が受賞して以来です。",
@@ -2690,6 +2740,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99119",
+          "author": "SWITCH速報",
+          "description": "3月10日マリオの日、スーパーマリオの新たなアニメ映画が制作中であることが発表されました。 3月10 […]",
+          "link": "https://switchsoku.com/soft/mario_odyssey/99119",
+          "publishedOn": "2024-03-11T00:00:29.000Z",
+          "wordCount": 10092,
+          "title": "新作「マリオムービー」制作決定！！！！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/12/mario-movie-trailer.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99112",
           "author": "SWITCH速報",
@@ -5059,16 +5119,6 @@
           "wordCount": 10121,
           "title": "『モンハン』っていうほどゲーム業界に影響与えなかったよな",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/04/mhr-multi.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98027",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/10(土) 08:21:13.86 ID:rawKW81A0 ビアンカを裏切る […]",
-          "link": "https://switchsoku.com/soft/dragonquest/98027",
-          "publishedOn": "2024-02-10T12:00:54.000Z",
-          "wordCount": 10065,
-          "title": "『ドラクエV』初プレイ僕、一点の迷いもなくビアンカを選ぶ",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/01/bianka-flora.jpg"
         }
       ]
     },
@@ -8057,21 +8107,6 @@
           "publishedOn": "2024-02-11T03:00:00.000Z",
           "wordCount": 772,
           "title": "子どもも一緒につくれる　「魔女の宅急便」のレシピ本、3月14日発売",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120570/",
-          "author": null,
-          "description": "Netflixが2024年の配信タイトルを紹介するイベント「Next on Netflix 2024 」が2月8日、都内で開催された。鈴木亮平が主演を務める映画「シティーハンター」の配信日が4月...",
-          "link": "https://anime.eiga.com/news/120570/",
-          "publishedOn": "2024-02-10T12:00:00.000Z",
-          "wordCount": 805,
-          "title": "Netflix映画「シティーハンター」4月25日配信決定　「極悪女王」「あいの里」S2の新情報も【ラインナップ発表イベント】",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
