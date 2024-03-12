@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T04:36:19.149Z</updated>
+    <updated>2024-03-12T04:50:22.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NMB48「献血応援隊」に就任 若者の献血者減少で協力呼びかけへ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014387691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014387691000.html"/>
+        <updated>2024-03-12T04:44:43.000Z</updated>
+        <summary type="html"><![CDATA[若者の献血者数が減る中、協力を呼びかけようと、大阪を拠点に活動するアイドルグループのメンバーが「献血応援隊」に就任することになり、記念の式典が開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪 大学生転落死 少女と少年 SNSで17歳女性になりすましたか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240312/k10014387731000.html</id>
