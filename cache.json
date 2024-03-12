@@ -1894,6 +1894,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387501000.html",
+          "author": null,
+          "description": "今月1日付けで任命されたNHKの経営委員4人に12日、辞令が交付されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014387501000.html",
+          "publishedOn": "2024-03-12T02:02:53.000Z",
+          "wordCount": 561,
+          "title": "NHK経営委員4人に辞令交付 今月1日付けで任命",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014387501_2403121054_0312105628_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387491000.html",
+          "author": null,
+          "description": "イタリアで行われたボクシングのパリオリンピックの世界予選で、日本は出場した男女合わせて8つの階級全てで出場権を獲得できませんでした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014387491000.html",
+          "publishedOn": "2024-03-12T02:01:34.000Z",
+          "wordCount": 500,
+          "title": "ボクシング パリ五輪世界予選 日本 8階級全て出場権獲得できず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014387491_2403121055_0312105526_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387461000.html",
+          "author": null,
+          "description": "育児や介護と仕事の両立を支援するため、政府は12日の閣議で、子育て中の柔軟な働き方を実現するための制度の拡充や、家族の介護が必要になった従業員への支援制度の周知などを盛り込んだ育児・介護休業法などの改正案を決定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014387461000.html",
+          "publishedOn": "2024-03-12T01:56:26.000Z",
+          "wordCount": 453,
+          "title": "仕事との両立支援へ 育児・介護休業法などの改正案 閣議決定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014387461_2403121048_0312104951_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387471000.html",
           "author": null,
           "description": "北九州市の特定危険指定暴力団「工藤会」が市民を襲撃した4つの事件で、殺人などの罪に問われ1審で死刑判決を受けた組織のトップ、野村悟被告（77）に、2審の福岡高等裁判所は1審の判決を取り消し、無期懲役の判決を言い渡しました。起訴された4つの事件のうち、漁協の元組合長が射殺された事件については無罪としました。",
@@ -3400,6 +3430,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99151",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/11(月) 21:31:31.61 ID:q/0gDN0Wd やっぱかわいいキ […]",
+          "link": "https://switchsoku.com/soft/miku/99151",
+          "publishedOn": "2024-03-12T02:00:44.000Z",
+          "wordCount": 9965,
+          "title": "初音ミクのFit Boxing、ミクさんが可愛くて最高",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/miku-fitboxing.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99149",
           "author": "SWITCH速報",
@@ -5769,16 +5809,6 @@
           "wordCount": 10184,
           "title": "『ゼノブレイド4』って出るのかな？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/02/Xenoblade-series.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98063",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/11(日) 01:21:08.75 ID:utI9Ih1x0 これもう小学生買 […]",
-          "link": "https://switchsoku.com/switch/98063",
-          "publishedOn": "2024-02-11T14:00:57.000Z",
-          "wordCount": 10135,
-          "title": "Nintendo Switch 2 は、五万円くらいに値上がりするんか？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/01/el-table.webp"
         }
       ]
     },
@@ -5964,6 +5994,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120771/",
+          "author": null,
+          "description": "テレビアニメ「FAIRY TAIL 100年クエスト」の放送が、今年7月からテレビ東京系6局ネットでスタートすることが決定した。メインキャストとスタッフが発表され、ティザービジュアルと特報PVが...",
+          "link": "https://anime.eiga.com/news/120771/",
+          "publishedOn": "2024-03-12T02:00:00.000Z",
+          "wordCount": 892,
+          "title": "「FAIRY TAIL」正統続編「FAIRY TAIL 100年クエスト」7月放送開始　柿原徹也、平野綾らメインキャストが続投",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120721/",
           "author": null,
@@ -11159,6 +11204,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2033773.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Ailuropoda melanoleuca ★：2024/03/11(月) 19:15:43.60 ID:tgr9Utqh9.net\n\n\n\n\n\n\n\n\n#マドンナ が公演中に不適切な煽り　車いすの観客に「なんで座ってる！」直後に謝罪も炎上｜東スポWEB https://t.co/5as4wgflHB— 東スポ (@tospo_prores) March 11, 2024 \n\n\n\n\n\n\n2...",
+          "link": "https://itainews.com/archives/2033773.html",
+          "publishedOn": "2024-03-12T02:01:26.000Z",
+          "wordCount": 2331,
+          "title": "【米国】マドンナが公演中に不適切な煽り　車いすの観客に「なんで座ってる！」直後に謝罪も炎上",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e4851903-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2033764.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。(愛媛県) [ﾆﾀﾞ]\n2024/03/11(月) 13:03:33.78ID:GNmTr4Dn0●?PLT(13000)\n\n\n\n\n\n\n\nガザへの支援物資の空中投下、むしろ犠牲者の増加に https://t.co/oY6WPeM61Y— cnn_co_jp (@cnn_co_jp) March 11, 2024  \n\n\n\n\n\n\nガザへの支援物資の空中投下...",
@@ -14407,16 +14462,6 @@
           "wordCount": 2316,
           "title": "中国政府、海外資産の保有を禁止、ただちに精算し中国株を購入するよう命令",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/2/b2db3409-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033002.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/02/11(日) 12:12:21.66 ID:ExleokYz0.net\n\n\n\n\n\n\n\n「早く捕まって」住宅メーカーで起きた「迷惑行為」投稿に怒りの“犯人探し”本社も公式発表、警察も捜査へ#SmartFLASH #SNS #トラウマ #動画 #性被害 #逮捕https://t.co/GFqjVfVSj...",
-          "link": "https://itainews.com/archives/2033002.html",
-          "publishedOn": "2024-02-11T14:04:37.000Z",
-          "wordCount": 2325,
-          "title": "【変態速報】女子社員のハチミツに自分の白いハチミツを入れた変態さんが無事特定されるw",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/1/61b5d78f-s.png"
         }
       ]
     },
@@ -14425,6 +14470,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70098",
+          "author": "299",
+          "description": "真っ白でロングヘアの子猫の目はしょぼしょぼです。もうとても起きていられないほど睡魔が襲ってきているようですね。 一応、子猫の目は開いているのですが、どうやら目を開いたまま眠ってしまっているようです。 その証拠に頭がどんど...\n眠すぎてフラフラな子猫が可愛すぎた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70098",
+          "publishedOn": "2024-03-12T02:00:53.000Z",
+          "wordCount": 1211,
+          "title": "眠すぎてフラフラな子猫が可愛すぎた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70098.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70094",
           "author": "299",
