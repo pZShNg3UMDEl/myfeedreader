@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/12/news065.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、ポイントツーポイント近接無線トランシーバーIC「ST60A3H0」「ST60A3H1」を発表した。60GHzのVバンドで動作し、eUSB2、I2C、SPI、UART、GPIOのトンネリング機能を提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/12/news065.html",
+          "publishedOn": "2024-03-12T00:00:00.000Z",
+          "wordCount": 2588,
+          "title": "480Mbpsでデータ交換可能な近接無線トランシーバーIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/12/cover_news065.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/11/news011.html",
           "author": null,
           "description": "ノートPCが小型化、薄型化するにつれ、オーディオ性能の向上や改善は難しくなる。そこで注目されているのが、「スマート・アンプ」と呼ばれるデバイスだ。DSP（デジタルシグナルプロセッサ）やセンサー、バッテリー電圧ブーストなどを統合したスマート・アンプは、複数の半導体メーカーが手掛けていて、ノートPCのオーディオ設計を簡素化するキーデバイスとなりそうだ。",
@@ -1884,6 +1894,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387441000.html",
+          "author": null,
+          "description": "12日朝早く、前橋市で住宅が全焼する火事があり、焼け跡から2人が遺体で見つかりました。この家に住む70代と40代の親子と連絡がとれなくなっていて、警察が身元の確認を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014387441000.html",
+          "publishedOn": "2024-03-12T00:43:28.000Z",
+          "wordCount": 734,
+          "title": "前橋市で住宅火災 焼け跡から2人の遺体 親子と連絡とれず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014387441_2403120948_0312095044_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387431000.html",
+          "author": null,
+          "description": "12日の東京株式市場、日経平均株価は一時、500円以上値下がりしています。11日のニューヨーク市場で、このところ株価が大きく値上がりしていたハイテク関連の銘柄に売り注文が出たことで、東京市場でも半導体などの銘柄を中心に売り注文が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014387431000.html",
+          "publishedOn": "2024-03-12T00:21:16.000Z",
+          "wordCount": 707,
+          "title": "株価 一時500円以上値下がり 半導体などの銘柄に売り注文",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014387431_2403120917_0312091906_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387411000.html",
+          "author": null,
+          "description": "財務省などが発表した「法人企業景気予測調査」によりますと、ことし1月から今月にかけての大企業の景況感を示す指数は、マイナス0.0ポイントと、4期ぶりのマイナスとなりました。製造業がマイナス6.7ポイント、非製造業がプラス3.2ポイントとなっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014387411000.html",
+          "publishedOn": "2024-03-12T00:01:37.000Z",
+          "wordCount": 699,
+          "title": "大企業の景況感 1～3月 -0.0ポイント 4期ぶりのマイナス",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014387411_2403120846_0312090139_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387391000.html",
           "author": null,
           "description": "前線を伴った低気圧の影響で、西日本では大気の状態が非常に不安定になり、四国では激しい雨が降っています。雨の範囲はこのあと東へ広がり、東日本と東北の太平洋側ではこれから13日にかけて非常に強い風が吹き波の高い状態が続く見込みで、気象庁は暴風や高波に警戒し、土砂災害や低い土地の浸水などに十分注意するよう呼びかけています。",
@@ -3350,6 +3390,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99149",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/05(火) 13:18:12.66 ID:HULQcmaJ0 5万までなら許せ […]",
+          "link": "https://switchsoku.com/switch/99149",
+          "publishedOn": "2024-03-12T00:00:46.000Z",
+          "wordCount": 10176,
+          "title": "Swich2‥いくらまでなら許せるの？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/07/switch2-leek.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99144",
           "author": "SWITCH速報",
@@ -5719,16 +5769,6 @@
           "wordCount": 10135,
           "title": "Nintendo Switch 2 は、五万円くらいに値上がりするんか？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/01/el-table.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98059",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/11(日) 16:48:05.49 ID:enCtI0rVd ゲーム以外は動き […]",
-          "link": "https://switchsoku.com/gossip/98059",
-          "publishedOn": "2024-02-11T12:00:50.000Z",
-          "wordCount": 10082,
-          "title": "【祝】ゼノギアス26周年、移植もリマスターもリメイクもされず26年経過",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/04/xenogears.jpg"
         }
       ]
     },
@@ -8768,21 +8808,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120511/",
-          "author": null,
-          "description": "堀田茜と毎熊克哉の共演で、藤緒あい氏による人気漫画「好きなオトコと別れたい」が実写ドラマ化されることがわかった。テレビ東京で、4月3日からドラマNEXT枠（毎週水曜深夜24時30分) で放送され...",
-          "link": "https://anime.eiga.com/news/120511/",
-          "publishedOn": "2024-02-11T12:00:00.000Z",
-          "wordCount": 773,
-          "title": "漫画「好きなオトコと別れたい」堀田茜主演で実写ドラマ化、4月放送　毎熊克哉が人たらしのダメ男役に",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9156,16 +9181,6 @@
           "publishedOn": "2024-02-12T12:25:11.000Z",
           "wordCount": 4408,
           "title": "まるで成長していない……(私が) by安西監督",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9514",
-          "author": "watanabe@logipara.com",
-          "description": "歳をとると朝が早くなる、とは聞いていましたが。 　 一週間ほど前から、急に、朝5時台にｽｯと目が覚めるようになりました。 それも、 「たまーに5時台に目が覚めて、その頻度がだんだん上がっていって、気がついたら朝5時台に必 […]",
-          "link": "https://logipara.com/diary-text/2024-02-12",
-          "publishedOn": "2024-02-11T11:56:11.000Z",
-          "wordCount": 4407,
-          "title": "朝、起きる(いやらしい意味ではなく)",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
@@ -14402,16 +14417,6 @@
           "wordCount": 2329,
           "title": "衝撃…全米14州で中絶禁止以降、レイプで妊娠した女性は6万5000人",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/e/de8a99c3-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033000.html",
-          "author": "yonepo665sfr",
-          "description": "1 名前：名無しさん＠涙目です。(兵庫県) [TN]2024/02/11(日) 09:55:31.55ID:v5yEAPNC0●\n\n\n\n\n\n\n\n\n\n聞いて欲しい。凄かった。夜勤明けのつい1時間前。研修前に何かお腹に入れておこうと立ち寄った松屋。店内には私とその他中年代のおじ様方が4名。急に高齢の男性が呻きな...",
-          "link": "https://itainews.com/archives/2033000.html",
-          "publishedOn": "2024-02-11T12:01:14.000Z",
-          "wordCount": 2420,
-          "title": "牛丼店で老人倒れる　｢私、看護師｣｢僕、警察官｣",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/3/239332a1-s.png"
         }
       ]
     },
