@@ -6435,6 +6435,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120780/",
+          "author": null,
+          "description": "テレビアニメ「よふかしのうた」の第2期の製作が決定し、フジテレビのアニメ枠「ノイタミナ」ほかで放送されることが明らかになった。ティザービジュアルとビジュアル解禁PVが公開されている。 「週刊少年...",
+          "link": "https://anime.eiga.com/news/120780/",
+          "publishedOn": "2024-03-12T10:30:00.000Z",
+          "wordCount": 854,
+          "title": "「よふかしのうた」第2期製作決定、「ノイタミナ」ほかで放送　ティザービジュアル＆PV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/eiga_ranking/120774/",
           "author": null,
           "description": "3月8日～10日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、春休み向け作品が続々と公開される中、「劇場版ハイキュー!! ゴミ捨て場の決戦」が首位に返り咲いた。2月16日の...",
@@ -10256,6 +10271,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=238899",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、すべての店で粉から作る讃岐うどんが人気のチェーン「讃岐釜揚げうどん　丸亀製麺」へ進撃しました。  […]",
+          "link": "https://foodfighter.jp/marugame-goboten",
+          "publishedOn": "2024-03-12T10:06:34.000Z",
+          "wordCount": 1814,
+          "title": "【丸亀製麺】焼きたて牛すきごぼ天ぶっかけうどん【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/b6fa85c03c5696e1b182e4b5dab24621.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=238879",
           "author": "foodfighter",
