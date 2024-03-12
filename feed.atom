@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T14:36:43.497Z</updated>
+    <updated>2024-03-12T14:50:13.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県警 性的暴行事件など4つの事件 個人情報流出]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014388681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014388681000.html"/>
+        <updated>2024-03-12T14:46:55.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県警察本部は、新型コロナウイルスの患者の宿泊療養施設で起きた性的暴行事件など、4つの事件の当事者の名前を含む個人情報が外部に流出していたことを明らかにしました。警察は当事者に謝罪したということで、流出したいきさつを調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浜名湖高校生遺体事件 21歳と18歳の容疑者 殺人の疑いで再逮捕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014388701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014388701000.html"/>
+        <updated>2024-03-12T14:38:38.000Z</updated>
+        <summary type="html"><![CDATA[先月、静岡県湖西市の浜名湖で17歳の男子高校生が遺体で見つかった事件で、傷害などの疑いで逮捕された21歳と18歳の容疑者が高校生を溺死させた疑いがあるとして、警察は12日、殺人の疑いで再逮捕しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】エリックサウス＆魯珈監修 2種のスパイスカレー【新作コンビニ弁当】]]></title>
         <id>https://foodfighter.jp/?p=238927</id>
