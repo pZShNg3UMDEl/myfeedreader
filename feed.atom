@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T20:14:46.191Z</updated>
+    <updated>2024-03-12T20:25:56.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[歌手エリック・カルメンさん死去「オール・バイ・マイセルフ」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014388781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014388781000.html"/>
+        <updated>2024-03-12T20:20:05.000Z</updated>
+        <summary type="html"><![CDATA[「オール・バイ・マイセルフ」などのヒット曲で知られるアメリカの歌手、エリック・カルメンさんが亡くなりました。74歳でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「こちらから1発撃てば何百発も返ってくる」　市民ら、自衛隊ミサイル配備に抗議]]></title>
         <id>https://itainews.com/archives/2033800.html</id>
@@ -21836,16 +21846,6 @@ through a combination of focused sessions, keynote speakers, a workshop,
         <summary type="html"><![CDATA[「劇場版ハイキュー!! ゴミ捨て場の決戦」が2月16日に公開されることを記念して、1冊まるごと「ハイキュー!!」を特集した「ハイキュー!!新聞」が公開同日に発売される。 同紙は、日向翔陽役の村瀬...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ローソン】盛りすぎ！バスチー −バスク風チーズケーキ−【新作コンビニスイーツ】]]></title>
-        <id>https://foodfighter.jp/?p=235777</id>
-        <link href="https://foodfighter.jp/lawson-baschee-morisugi"/>
-        <updated>2024-02-12T08:19:19.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「盛りすぎ！バスチー −バスク風チーズケーキ−」を世界一詳しく調査しました。   公式YouTube […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
