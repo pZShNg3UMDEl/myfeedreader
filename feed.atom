@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T11:20:36.178Z</updated>
+    <updated>2024-03-12T11:36:22.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪ミナミで建物火災]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014388571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014388571000.html"/>
+        <updated>2024-03-12T11:30:30.000Z</updated>
+        <summary type="html"><![CDATA[大阪市消防局によりますと、12日午後7時20分ごろ、大阪・中央区宗右衛門町で「建物から煙が見える」と通報がありました。3階建ての建物の3階部分が30平方メートル焼けていて、消防車41台が消火活動にあたっているということです。現場は、大阪・ミナミの中心部で飲食店が入るビルなどが多く建ち並ぶ繁華街です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「喧嘩独学」オープニング曲は「MA55IVE THE RAMPAGE」、エンディング曲は「Crab 蟹 Club」 本PVも公開]]></title>
+        <id>https://anime.eiga.com/news/120778/</id>
+        <link href="https://anime.eiga.com/news/120778/"/>
+        <updated>2024-03-12T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国発の漫画をテレビアニメ化する「喧嘩独学」が4月10日から放送されることが決まり、主要キャラクターが描かれたキービジュアル、オープニング＆エンディングテーマ、本PVが発表された。 オープニング...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【米国】「かなり感じ悪い」アイアンマン俳優　アカデミー賞受賞式での人気俳優への「態度」が波紋]]></title>
         <id>https://itainews.com/archives/2033787.html</id>

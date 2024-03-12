@@ -1944,6 +1944,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014388571000.html",
+          "author": null,
+          "description": "大阪市消防局によりますと、12日午後7時20分ごろ、大阪・中央区宗右衛門町で「建物から煙が見える」と通報がありました。3階建ての建物の3階部分が30平方メートル焼けていて、消防車41台が消火活動にあたっているということです。現場は、大阪・ミナミの中心部で飲食店が入るビルなどが多く建ち並ぶ繁華街です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014388571000.html",
+          "publishedOn": "2024-03-12T11:30:30.000Z",
+          "wordCount": 205,
+          "title": "大阪ミナミで建物火災",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014388571_2403122032_0312203217_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240312/k10014388191000.html",
           "author": null,
           "description": "東京や大阪をはじめ全国で相次いではしかの感染者が確認されています。海外から帰国したり、観光で入国したりした人から感染したとみられ、専門家は「海外に行く人などはワクチンの接種歴や抗体の状況を確認して、必要に応じてワクチンの接種を検討してほしい」と呼びかけています。",
@@ -6444,6 +6454,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120778/",
+          "author": null,
+          "description": "韓国発の漫画をテレビアニメ化する「喧嘩独学」が4月10日から放送されることが決まり、主要キャラクターが描かれたキービジュアル、オープニング＆エンディングテーマ、本PVが発表された。 オープニング...",
+          "link": "https://anime.eiga.com/news/120778/",
+          "publishedOn": "2024-03-12T11:30:00.000Z",
+          "wordCount": 850,
+          "title": "「喧嘩独学」オープニング曲は「MA55IVE THE RAMPAGE」、エンディング曲は「Crab 蟹 Club」 本PVも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120781/",
           "author": null,
