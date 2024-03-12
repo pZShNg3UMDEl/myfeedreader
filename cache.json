@@ -333,6 +333,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=71533",
+          "author": "Munenori Taniguchi",
+          "description": "英国・ロンドンにあるクロムウェル病院で、脊椎を固定する外科手術においてApple Vision Proを活用したことが報道されている。 この手術では、執刀医ではなく外科助手で手術室看護師のSuvi Verho氏がVision Proを使用して、事前に用意した手術の手順に従い、適切なタイミングで必要な […]",
+          "link": "https://gadget.phileweb.com/post-71533/",
+          "publishedOn": "2024-03-12T06:43:20.000Z",
+          "wordCount": 783,
+          "title": "英国で外科手術にApple Vision Pro活用。「人的ミスを排除」できると評価",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/avp.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=71502",
           "author": "多根清史",
           "description": "OpenAIは取締役会に3人の新メンバーを選任したことを発表しつつ、昨年11月にサム・アルトマンCEOが電撃解任された（すぐに復帰）件につき、独立機関による検証結果を公表した。 また現取締役会は、アルトマン氏とグレッグ・ブロックマン社長がリーダーにふさわしいとして、アルトマン氏を取締役会に復帰させて […]",
@@ -1923,6 +1933,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387871000.html",
+          "author": null,
+          "description": "能登半島地震で被災した半世紀前から営業を続ける石川県輪島市の喫茶店が営業を再開し、避難所などから訪れた常連客や家族連れがコーヒーを飲みながらゆっくりと過ごしていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014387871000.html",
+          "publishedOn": "2024-03-12T06:42:37.000Z",
+          "wordCount": 535,
+          "title": "53年前から営業の喫茶店が営業再開 常連客ら訪れる 石川 輪島",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014387871_2403121520_0312152431_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240312/k10014387851000.html",
           "author": null,
