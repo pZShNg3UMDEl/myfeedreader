@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T22:11:52.956Z</updated>
+    <updated>2024-03-12T22:27:06.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本製鉄工場 被ばく事故 “年間限度10倍相当の放射線”と評価]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014388451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014388451000.html"/>
+        <updated>2024-03-12T22:16:50.000Z</updated>
+        <summary type="html"><![CDATA[3年前、兵庫県にある日本製鉄の工場でエックス線装置の点検中に社員2人が被ばくした事故で、原子力規制庁は1人が最大で年間限度の10倍に相当する500ミリグレイの放射線を浴びたと評価し、IAEA＝国際原子力機関に報告しました。規制庁は事故の深刻さについて、国際的な基準で「重大な異常事象」を示す「レベル3」に当たるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大谷翔平 オープン戦 第4打席でツーランホームラン]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240313/k10014388531000.html</id>
