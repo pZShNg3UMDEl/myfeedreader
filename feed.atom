@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T18:35:59.819Z</updated>
+    <updated>2024-03-12T18:50:27.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アメリカ ウクライナに新たな軍事支援表明 約440億円相当]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014388731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014388731000.html"/>
+        <updated>2024-03-12T18:42:27.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ・ホワイトハウスで安全保障政策を担当するサリバン大統領補佐官は12日、記者会見で、ロシアによる侵攻が続くウクライナに対して、砲弾など3億ドル、日本円にしておよそ440億円相当の新たな軍事支援を行うと明らかにしました。議会の与野党の対立からアメリカのウクライナ支援の予算は枯渇していますが、これまでに決定している兵器調達の予算からコスト削減によって捻出した資金を充てるとしています。アメリカがウクライナへの新たな軍事支援を決めるのは去年の年末以来、2か月半ぶりです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本ゴールドディスク大賞 ザ・ビートルズ 最多9回目の受賞]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240313/k10014388431000.html</id>
