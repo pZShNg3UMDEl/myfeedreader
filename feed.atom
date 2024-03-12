@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T09:35:26.432Z</updated>
+    <updated>2024-03-12T09:50:36.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民 下村元政務調査会長 衆院政倫審に審査申し出]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014388221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014388221000.html"/>
+        <updated>2024-03-12T09:36:29.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、安倍派の事務総長経験者の1人である下村元政務調査会長は、説明責任を果たしたいとして、衆議院政治倫理審査会に対し、審査を申し出ました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「るろうに剣心」第2期「京都動乱」は10月から連続2クール放送]]></title>
         <id>https://anime.eiga.com/news/120777/</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[テレビアニメ「るろうに剣心 －明治剣客浪漫譚－」の第2期「京都動乱（きょうとどうらん）」が、フジテレビの深夜アニメ枠「ノイタミナ」ほかで10月から連続2クール放送されることが決定した。 本作は、...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春闘 日本製鉄 労組の賃上げ要求額上回る異例の回答方針固める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014388071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014388071000.html"/>
+        <updated>2024-03-12T09:06:50.000Z</updated>
+        <summary type="html"><![CDATA[ことしの春闘で日本製鉄は、労働組合の賃上げの要求額を上回る形で異例の回答を行う方針を固めたことが分かりました。鉄鋼大手各社は、長年にわたって同じ水準の賃上げを続けてきましたが、その“横並び”が崩れる見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
