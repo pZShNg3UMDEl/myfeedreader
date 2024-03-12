@@ -333,6 +333,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=71559",
+          "author": "山本 敦",
+          "description": "ソースネクストがアスリートの支援を目的とした生成AI搭載のウェアラブルデバイス「BirdieTalk（バーディトーク）」を開発中だ。 同社は、横浜で開催されたジャパンゴルフフェア2024でプロトタイプを公開した。イベント会場で、製品の開発に携わるソースネクストの辻正鷹氏にプロダクトの特徴や目指すライ […]",
+          "link": "https://gadget.phileweb.com/post-71559/",
+          "publishedOn": "2024-03-12T21:30:00.000Z",
+          "wordCount": 785,
+          "title": "AIがキャディに！ポケトークの次をねらうゴルフ向け「バーディトーク」開発者に聞く",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/thumb.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=71526",
           "author": "編集部：平山洸太",
           "description": "モトローラ・モビリティ・ジャパンは、Androidスマートフォン「moto g24」を3月22日に発売する。同社公式ストアにおける販売価格は20,800円（税込）。カラーはマットチャコールとアイスグリーンの2色をラインナップする。 「持ちやすく上質なデザイン」を追求したという、Android 14搭 […]",
@@ -1943,6 +1953,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240313/k10014388411000.html",
+          "author": null,
+          "description": "春闘の集中回答日となる13日、政府、経済界、労働界の3者による「政労使会議」が開かれます。大手企業の賃上げの動きを、今後、賃金交渉が本格化する中小企業などにも広げる取り組みについて意見が交わされる見通しです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240313/k10014388411000.html",
+          "publishedOn": "2024-03-12T21:28:09.000Z",
+          "wordCount": 619,
+          "title": "きょう政労使会議 “賃上げ 中小に広げる取り組み”意見交換か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240313/K10014388411_2403122323_0313000520_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240313/k10014388351000.html",
           "author": null,
