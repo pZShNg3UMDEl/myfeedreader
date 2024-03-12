@@ -1944,6 +1944,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240312/k10014388641000.html",
+          "author": null,
+          "description": "アメリカの先月の消費者物価指数が発表され、前の年の同じ月と比べて3.2％の上昇となりました。上昇率は市場予想を上回りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240312/k10014388641000.html",
+          "publishedOn": "2024-03-12T13:03:02.000Z",
+          "wordCount": 197,
+          "title": "アメリカ消費者物価指数 前年同月比3.2％上昇 市場予想上回る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240312/K10014388641_2403122141_0312220245_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240312/k10014388461000.html",
           "author": null,
           "description": "NHK経営委員会の新しい委員長に野村ホールディングス名誉顧問で経団連の審議員会議長などを務めた古賀信行氏が選出されました。古賀氏は記者会見で「NHKが健全にきちんと運営されることを念頭に置きながらやっていきたい」と抱負を述べました。",
@@ -6464,6 +6474,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120753/",
+          "author": null,
+          "description": "ディズニー＆ピクサー「インサイド・ヘッド」の続編「インサイド・ヘッド2」の日本公開日が、8月1日に決定。あわせて、3月15日より順次劇場公開されるディズニー＆ピクサー3作品「私ときどきレッサーパ...",
+          "link": "https://anime.eiga.com/news/120753/",
+          "publishedOn": "2024-03-12T13:00:00.000Z",
+          "wordCount": 827,
+          "title": "「インサイド・ヘッド2」日本公開日は8月1日　ディズニー＆ピクサー“泣ける名作”3作品の先着入場者プレゼントも発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120782/",
           "author": null,
@@ -11833,6 +11858,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033790.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2024/03/12(火) 09:42:52.33 ID:fgTIbpn59.net\n\n\n\n\n\n\n\n「中国軍は見掛け倒し」　不正横行、ずさんな兵器管理―インド軍元中将インタビュー https://t.co/tam2zPeMCu— 時事ドットコム（時事通信ニュース） (@jijicom) March 11, 2024  \n\n\n\n\n\n\n　中国...",
+          "link": "https://itainews.com/archives/2033790.html",
+          "publishedOn": "2024-03-12T13:06:38.000Z",
+          "wordCount": 2390,
+          "title": "「中国軍は見掛け倒し」　不正横行、ずさんな兵器管理―インド軍元中将インタビュー",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/e/ee4635ce-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033797.html",
           "author": "damono3856",
