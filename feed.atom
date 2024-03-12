@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T07:35:45.300Z</updated>
+    <updated>2024-03-12T07:50:10.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240312/k10014387911000.html"/>
         <updated>2024-03-12T07:30:04.000Z</updated>
         <summary type="html"><![CDATA[会員制の大型スーパー「コストコ」が、店舗での食料品の値引き分を、納入業者に負担させていたことが下請け法違反にあたるとして、公正取引委員会は運営元の日本法人に対して、再発防止などを求める勧告を出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙飛行士 古川聡さん 今夜帰還へ【ライブ予定 17:30ごろ～】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014387771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014387771000.html"/>
+        <updated>2024-03-12T07:28:13.000Z</updated>
+        <summary type="html"><![CDATA[およそ半年にわたって宇宙に滞在してきた宇宙飛行士の古川聡さんが搭乗した宇宙船は日本時間の12日夜、地球に帰還する予定です。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
