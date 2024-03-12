@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T05:14:12.151Z</updated>
+    <updated>2024-03-12T05:28:08.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 外務次官がモンゴル大統領と会談 外交活動を活発化]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240312/k10014387791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240312/k10014387791000.html"/>
+        <updated>2024-03-12T05:18:14.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮の外務次官が友好国のモンゴルを訪問してフレルスフ大統領と会談し、両国の協力を強化する立場を強調しました。北朝鮮は、新型コロナウイルス対策として厳しくしていた国境管理を緩和して以降、外交活動を活発化させています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】鈴木砂羽「更新で家賃15万6千円上がるって言われたんだけど…」突然の大幅値上げに困惑「ホント困るよ」]]></title>
         <id>https://itainews.com/archives/2033776.html</id>
