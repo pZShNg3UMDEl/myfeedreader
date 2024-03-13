@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T05:39:10.146Z</updated>
+    <updated>2024-03-13T05:50:20.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bluesky、運営とユーザー個人が協力可能なモデレーションの仕組み「Ozone」を発表]]></title>
+        <id>https://gadget.phileweb.com/?p=71680</id>
+        <link href="https://gadget.phileweb.com/post-71680/"/>
+        <updated>2024-03-13T05:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Twitter代替SNSのひとつとしてユーザーの支持を集めるBlueskyは、ユーザーが開発者と協力して独自のモデレーションを実行可能なシステム「Ozone」を週内にも導入すると発表した。 Blueskyは総ユーザー数が500万人を突破した。これは2月に招待制を解除して自由に登録が可能になってからこ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch後継モデル、DLSS超解像技術を「ほとんどのゲーム」で活用？]]></title>
+        <id>https://gadget.phileweb.com/?p=71665</id>
+        <link href="https://gadget.phileweb.com/post-71665/"/>
+        <updated>2024-03-13T05:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch後継モデル、通称「スイッチ2」はNVIDIAの未発表チップ「T239」（車載用チップTegra Orinのカスタム版）を搭載し、同社の超解像技術DLSSをサポートすると噂されている。 この技術は一部タイトルに留まらず、ほとんどのゲームに使われるとの証言が届けられている。 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロジクールG、軽量マウス「PRO X SUPERLIGHT 2」のポーリングレートが4000Hzに倍増]]></title>
         <id>https://gadget.phileweb.com/?p=71702</id>
