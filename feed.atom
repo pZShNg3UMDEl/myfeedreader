@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T20:36:48.697Z</updated>
+    <updated>2024-03-13T20:50:16.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[民間小型ロケットの爆発 開発企業が機体を回収し原因究明へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390101000.html"/>
+        <updated>2024-03-13T20:34:29.000Z</updated>
+        <summary type="html"><![CDATA[13日、和歌山県串本町で打ち上げの直後に爆発した小型ロケットについて、開発した東京のベンチャー企業は今後、機体を回収するなどして当時の状況を詳しく調べることにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[参議院政倫審 きょう開催 安倍派のキックバックどう説明か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240314/k10014390141000.html</id>
