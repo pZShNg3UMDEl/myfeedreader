@@ -314,16 +314,6 @@
           "wordCount": 2622,
           "title": "消費電流が従来比で半分に、IRレシーバーモジュールをアップグレード",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/14/cover_news053.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2402/01/news001.html",
-          "author": null,
-          "description": "CASE時代を迎え、自動車業界でもAWSをはじめとするクラウドの導入ニーズが高まっている。だが、メーカー自身にも懇意のシステムインテグレーション（以下、SI）ベンダーにもAWS導入の知識が十分にあるとは限らない。そこで自動車業界のクラウド導入のベストプラクティスを豊富に持つシーイーシーが頼りになる。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2402/01/news001.html",
-          "publishedOn": "2024-02-13T01:00:00.000Z",
-          "wordCount": 1842,
-          "title": "PR: AWS導入の不安を減らす“セカンドオピニオン”　新時代を迎えた製造業の頼もしい味方",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2402/01/cover_news001.jpg"
         }
       ]
     },
@@ -2023,6 +2013,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240313/k10014390111000.html",
+          "author": null,
+          "description": "サッカーのアジアナンバー1クラブを決めるACL＝アジアチャンピオンズリーグは13日、横浜市で準々決勝の第2戦が行われ、J1の横浜F・マリノスが中国の山東に1対0で勝ち、初めてのベスト4進出を決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240313/k10014390111000.html",
+          "publishedOn": "2024-03-13T13:04:43.000Z",
+          "wordCount": 628,
+          "title": "サッカーACL 横浜F・マリノスが初のベスト4進出",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240313/K10014390111_2403132150_0313215046_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240313/k10014390031000.html",
           "author": null,
@@ -6985,6 +6985,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120722/",
+          "author": null,
+          "description": "野田サトル氏の人気漫画を山﨑賢人主演で実写映画化した「ゴールデンカムイ」（1月19日公開）の続編となるドラマシリーズ版第1弾「連続ドラマW ゴールデンカムイ 北海道刺青囚人争奪編」が、今秋、WO...",
+          "link": "https://anime.eiga.com/news/120722/",
+          "publishedOn": "2024-03-13T13:00:00.000Z",
+          "wordCount": 901,
+          "title": "実写映画「ゴールデンカムイ」続編となるドラマシリーズ第1弾「北海道刺青囚人争奪編」WOWOWで今秋放送＆配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120789/",
           "author": null,
           "description": "米アカデミー賞の長編アニメ賞を受賞した宮﨑駿監督の「君たちはどう生きるか」が、3月20日から英語吹き替え版の全国上映が行われることが分かった。 英語吹き替え版では、主人公の眞人（まひと）役をルカ...",
@@ -10089,6 +10104,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9645",
+          "author": "watanabe@logipara.com",
+          "description": "3月14日ですね。 ホワイトデーということで、バレンタインにプレゼントを貰った男子はお返しをしなければなりませんね。 とても大切な日、ですね。 だけど何でしょう、何か忘れているような。 3月14日……。 何か大切な用事が […]",
+          "link": "https://logipara.com/diary-text/2024-03-14",
+          "publishedOn": "2024-03-13T13:06:16.000Z",
+          "wordCount": 4395,
+          "title": "3月14日",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9641",
           "author": "watanabe@logipara.com",
           "description": "タイトル「レンズについた傷みてぇな雲」",
@@ -12393,6 +12418,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033819.html",
+          "author": "damono3856",
+          "description": "1 名前：どどん ★：2024/03/13(水) 09:59:12.13 ID:hl9gIRAD9.net\n\n\n\n\n\n\n\n読売新聞社員の男を逮捕、警視庁 － 駅ホームで男性を殴打した疑いhttps://t.co/SF60UKHQsn— 共同通信公式 (@kyodo_official) March 13, 2024  \n\n\n\n\n\n\n　駅のホームで男性の顔を殴打したとして...",
+          "link": "https://itainews.com/archives/2033819.html",
+          "publishedOn": "2024-03-13T13:04:56.000Z",
+          "wordCount": 2319,
+          "title": "読売新聞社員の男を逮捕、警視庁　駅ホームで男性を殴打した疑い",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/7/f770ff41-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033820.html",
           "author": "damono3856",
@@ -15710,6 +15745,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70126",
+          "author": "299",
+          "description": "今回ご紹介するのは飼い主さんの身体にピッタリくっつく猫ちゃんです。 それ自体は珍しいことではないのですが、なんと飼い主さんはサンサルテーション中。 飼い主さんの身体の上に乗り続けるのは困難なのですが、猫ちゃんは頑張ります...\nサンサルテーション中の飼い主さんに密着する猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70126",
+          "publishedOn": "2024-03-13T13:00:10.000Z",
+          "wordCount": 1222,
+          "title": "サンサルテーション中の飼い主さんに密着する猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70126.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70122",
           "author": "299",
