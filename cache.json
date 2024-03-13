@@ -324,16 +324,6 @@
           "wordCount": 1842,
           "title": "PR: AWS導入の不安を減らす“セカンドオピニオン”　新時代を迎えた製造業の頼もしい味方",
           "imageUrl": "https://image.itmedia.co.jp/mn/articles/2402/01/cover_news001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/13/news054.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、長距離IoT（モノのインターネット）通信向けのSiP（System in Package）モジュール「STM32WL5MOC」を発表した。LoRaWANやSigfoxネットワーク接続の認証を取得していて、LoRa変調やGMSK、GFSK、BPSKなどの変調方式に対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/13/news054.html",
-          "publishedOn": "2024-02-13T00:00:00.000Z",
-          "wordCount": 2636,
-          "title": "2種のRF出力パワーを選択可能な、長距離IoT通信向けSiPモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/13/cover_news054.jpg"
         }
       ]
     },
@@ -2033,6 +2023,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240313/k10014390031000.html",
+          "author": null,
+          "description": "台湾の最大野党・国民党の夏立言副主席が13日夜、中国に向かいました。中国は先月下旬にも夏氏の訪中を受け入れていて、国民党との関係も利用して台湾の民進党政権に揺さぶりをかけるねらいとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240313/k10014390031000.html",
+          "publishedOn": "2024-03-13T12:01:54.000Z",
+          "wordCount": 497,
+          "title": "台湾 最大野党副主席が再び訪中 中国が政権揺さぶりか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240313/K10014390031_2403132038_0313204900_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240313/k10014390041000.html",
           "author": null,
@@ -6779,16 +6779,6 @@
           "wordCount": 9947,
           "title": "Switchでエチなゲームを前に買ったんだが消しても残るんだな",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/11/sinobi-top.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98096",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/12(月) 12:33:47.48 ID:bOuireuL0 あの時代にフル3 […]",
-          "link": "https://switchsoku.com/ds/98096",
-          "publishedOn": "2024-02-13T00:00:56.000Z",
-          "wordCount": 10016,
-          "title": "ニンテンドー64とかいうオーパーツゲーム機",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/11/NINTENDO64.jpg"
         }
       ]
     },
@@ -6984,6 +6974,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120789/",
+          "author": null,
+          "description": "米アカデミー賞の長編アニメ賞を受賞した宮﨑駿監督の「君たちはどう生きるか」が、3月20日から英語吹き替え版の全国上映が行われることが分かった。 英語吹き替え版では、主人公の眞人（まひと）役をルカ...",
+          "link": "https://anime.eiga.com/news/120789/",
+          "publishedOn": "2024-03-13T12:00:00.000Z",
+          "wordCount": 807,
+          "title": "【米アカデミー賞受賞記念】「君たちはどう生きるか」3月20日から英語吹き替え版を全国上映",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120786/",
           "author": null,
@@ -12380,16 +12385,6 @@
           "wordCount": 1876,
           "title": "【セブンイレブン】森永製菓 白いダースのスティックアイス【新作コンビニアイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/b16aa13943d655ed0490497b584deaae.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=235873",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、朝食メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。 […]",
-          "link": "https://foodfighter.jp/matsunoya-morning-sasamikatsu",
-          "publishedOn": "2024-02-13T00:06:37.000Z",
-          "wordCount": 1937,
-          "title": "【松のや】得朝ささみかつコロッケ定食（納豆）【モーニング・朝食メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/86bde39efead722bce9061e82bf7623f.jpg"
         }
       ]
     },
@@ -12398,6 +12393,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033820.html",
+          "author": "damono3856",
+          "description": "1 名前：Ailuropoda melanoleuca ★：2024/03/13(水) 08:00:27.30 ID:9caM9SzD9.net\n\n\n\n\n\n\n\n『不適切にもほどがある』連呼された #板東英二 は「現在消息不明」　高校の同級生は「電話したけど通じない」それでも鳴門市の観光大使は継続する背景https://t.co/JType2CIhO...",
+          "link": "https://itainews.com/archives/2033820.html",
+          "publishedOn": "2024-03-13T12:05:42.000Z",
+          "wordCount": 2329,
+          "title": "『不適切にもほどがある』連呼された板東英二は「現在消息不明」同級生は「電話したけど通じない」鳴門市の観光大使は継続も",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/8/38cb9e2c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033816.html",
           "author": "damono3856",
@@ -15697,16 +15702,6 @@
           "wordCount": 2399,
           "title": "【芸能】｢ちゃんと社員教育を｣水野美紀、テイクアウトにお箸付け忘れ…新幹線内で食事出来なく怒りＭＡＸ",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46f7e764-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033040.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：a：2024/02/12(月) 15:18:24.86 ID:o/h35BTp0.net\n\n\n\n\n\n\n\n\n【独自】ドミノピザ店員「鼻でもほじって付けちゃうんじゃないの」ってそれピザ生地じゃないの？ハチミツに精液混入が大変話題になっていますが、食べ物に鼻くそ混入ってネタでしたでは済まないです。今後、...",
-          "link": "https://itainews.com/archives/2033040.html",
-          "publishedOn": "2024-02-13T00:01:16.000Z",
-          "wordCount": 2773,
-          "title": "【動画】ドミ〇ピザでバイトテロか？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/a/2a06e584.png"
         }
       ]
     },
@@ -18934,16 +18929,6 @@
           "wordCount": 1398,
           "title": "玄関ドアのポストを開けると猫さんが邪魔をして荷物をブロック！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68375.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68410",
-          "author": "299",
-          "description": "子猫がダンボールの箱の中に入ってのんびりと毛づくろいをしています。 この子猫は、生まれた時からずっとこのお家にいるかのように慣れきっていますが、実際にはまだ保護されてやってきて5日目なのです。 もうすっかり家族の一員にな...\n整理箱のなかでまったりしていたらそのまま眠ってしまった子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68410",
-          "publishedOn": "2024-02-13T00:00:10.000Z",
-          "wordCount": 1398,
-          "title": "整理箱のなかでまったりしていたらそのまま眠ってしまった子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68410.jpg"
         }
       ]
     },
