@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T16:15:34.519Z</updated>
+    <updated>2024-03-13T16:36:23.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -18,6 +18,16 @@ Press release: https://prophesee-1.reportablenews.com/pr/prophesee-s-metavision-
 February 27, 2024 – Paris, France - Prophesee SA, inventor of the most advanced neuromorphic vision systems, today announced that the progress achieved through its collaboration with Qualcomm Technologies, Inc. has now reached production stage. A live demo during Mobile World Congress Barcelona is showcasing Prophesee’s native compatibility with premium Snapdragon® mobile platforms, bringing the speed, efficiency, and quality of neuromorphic-enabled vis…]]></summary>
         <author>
             <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群馬の酒蔵が石川の地震被害の酒造会社と共同で酒造り始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014389911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014389911000.html"/>
+        <updated>2024-03-13T15:51:31.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害を受けた石川県能登町にある酒造会社を支援しようと、群馬県川場村の酒蔵が共同で酒造りを行うことになり、仕込みの作業が始まっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -22415,16 +22425,6 @@ YouTuberは1位→圏外へ「将来つきたい職業」小学生→中学生�
 ...]]></summary>
         <author>
             <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まだApple Vision Proは未完成、「理想型まで4世代かかる」との社内情報]]></title>
-        <id>https://gadget.phileweb.com/?p=68657</id>
-        <link href="https://gadget.phileweb.com/post-68657/"/>
-        <updated>2024-02-13T04:27:32.000Z</updated>
-        <summary type="html"><![CDATA[一般的に新たなカテゴリーの初代製品はバグや欠点が残っていることが避けがたく、ことアップル製品の初物買いは、リスクや未熟さも込みで楽しむものだといわれる。アップルが今月初めに米国で発売した空間コンピュータ「Apple Vision Pro」は、その究極の形だろう。 それはユーザーのみならず、アップル社 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>

@@ -1751,16 +1751,6 @@
           "wordCount": 776,
           "title": "Switch 2は「初代Switchのカートリッジも遊べる」との噂が相次ぐ",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_614366132.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68657",
-          "author": "多根清史",
-          "description": "一般的に新たなカテゴリーの初代製品はバグや欠点が残っていることが避けがたく、ことアップル製品の初物買いは、リスクや未熟さも込みで楽しむものだといわれる。アップルが今月初めに米国で発売した空間コンピュータ「Apple Vision Pro」は、その究極の形だろう。 それはユーザーのみならず、アップル社 […]",
-          "link": "https://gadget.phileweb.com/post-68657/",
-          "publishedOn": "2024-02-13T04:27:32.000Z",
-          "wordCount": 792,
-          "title": "まだApple Vision Proは未完成、「理想型まで4世代かかる」との社内情報",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_2420699011.jpg"
         }
       ]
     },
@@ -1993,6 +1983,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014389911000.html",
+          "author": null,
+          "description": "能登半島地震で被害を受けた石川県能登町にある酒造会社を支援しようと、群馬県川場村の酒蔵が共同で酒造りを行うことになり、仕込みの作業が始まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014389911000.html",
+          "publishedOn": "2024-03-13T15:51:31.000Z",
+          "wordCount": 563,
+          "title": "群馬の酒蔵が石川の地震被害の酒造会社と共同で酒造り始まる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014389911_2403132111_0313212027_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390191000.html",
           "author": null,
