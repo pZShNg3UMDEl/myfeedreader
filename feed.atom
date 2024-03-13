@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T13:36:15.354Z</updated>
+    <updated>2024-03-13T13:50:22.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPS細胞で新たな治験へ 重い心臓病の患者に細胞シート移植]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014389671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014389671000.html"/>
+        <updated>2024-03-13T13:48:13.000Z</updated>
+        <summary type="html"><![CDATA[iPS細胞から作製した心臓の筋肉の細胞をシート状にして「拡張型心筋症」という重い心臓病の患者に移植し、心機能の回復を目指す治験を大阪大学のグループが新たに行うことになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佐渡 「ホタルイカの身投げ」 浜辺で幻想的な青白い光放つ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240313/k10014390001000.html</id>
@@ -22424,26 +22434,6 @@ YouTuberは1位→圏外へ「将来つきたい職業」小学生→中学生�
         <summary type="html"><![CDATA[NECは、個人向けAndroidタブレット“LAVIE Tab”の2024年春新商品として14.5型モデル「LAVIE Tab T14」、および8.8型モデル「LAVIE Tab T9」を発売する。2月15日より出荷を開始予定で、アクセサリーを含む商品ラインナップと市場想定価格は以下の通り（価格は全 […]]]></summary>
         <author>
             <name>編集部：杉山康介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threads、トレンド一覧表示機能の導入を開始。まず米国から]]></title>
-        <id>https://gadget.phileweb.com/?p=68603</id>
-        <link href="https://gadget.phileweb.com/post-68603/"/>
-        <updated>2024-02-13T01:41:48.000Z</updated>
-        <summary type="html"><![CDATA[MetaのCEO・マーク・ザッカーバーグ氏は、Twitter風分散SNS「Threads」に、ユーザーの間で活発に議論されているトレンドトピックをまとめてリスト表示する機能をテストを展開し始めたとThreadsへの投稿で述べた。 このリストは、検索タブとFor Youフィードに表示され、トピックを選 […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト、2024年内に「Windows 12」はナシ。高度なAI統合は「Windows 11 24H2」で実現か]]></title>
-        <id>https://gadget.phileweb.com/?p=68591</id>
-        <link href="https://gadget.phileweb.com/post-68591/"/>
-        <updated>2024-02-13T01:37:38.000Z</updated>
-        <summary type="html"><![CDATA[2024年内に「Windowsの次期バージョン」（Windows 12）が登場するとの噂が相次ぎ、クアルコムCEOもそれを裏付ける発言をしていた。 しかし、マイクロソフトはWindowsの次期大型アップデートが「Windows 11 バージョン24H2」だと発表。つまり「Windows 12」は年内 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>

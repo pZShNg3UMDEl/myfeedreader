@@ -1771,26 +1771,6 @@
           "wordCount": 816,
           "title": "NEC、クリエイティブ／ゲーミング向けAndroidタブレット「LAVIE Tab T14／T9」",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/14a-1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68603",
-          "author": "Munenori Taniguchi",
-          "description": "MetaのCEO・マーク・ザッカーバーグ氏は、Twitter風分散SNS「Threads」に、ユーザーの間で活発に議論されているトレンドトピックをまとめてリスト表示する機能をテストを展開し始めたとThreadsへの投稿で述べた。 このリストは、検索タブとFor Youフィードに表示され、トピックを選 […]",
-          "link": "https://gadget.phileweb.com/post-68603/",
-          "publishedOn": "2024-02-13T01:41:48.000Z",
-          "wordCount": 756,
-          "title": "Threads、トレンド一覧表示機能の導入を開始。まず米国から",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/Threads_c.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68591",
-          "author": "多根清史",
-          "description": "2024年内に「Windowsの次期バージョン」（Windows 12）が登場するとの噂が相次ぎ、クアルコムCEOもそれを裏付ける発言をしていた。 しかし、マイクロソフトはWindowsの次期大型アップデートが「Windows 11 バージョン24H2」だと発表。つまり「Windows 12」は年内 […]",
-          "link": "https://gadget.phileweb.com/post-68591/",
-          "publishedOn": "2024-02-13T01:37:38.000Z",
-          "wordCount": 801,
-          "title": "マイクロソフト、2024年内に「Windows 12」はナシ。高度なAI統合は「Windows 11 24H2」で実現か",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_2001209357.jpg"
         }
       ]
     },
@@ -2013,6 +1993,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240313/k10014389671000.html",
+          "author": null,
+          "description": "iPS細胞から作製した心臓の筋肉の細胞をシート状にして「拡張型心筋症」という重い心臓病の患者に移植し、心機能の回復を目指す治験を大阪大学のグループが新たに行うことになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240313/k10014389671000.html",
+          "publishedOn": "2024-03-13T13:48:13.000Z",
+          "wordCount": 489,
+          "title": "iPS細胞で新たな治験へ 重い心臓病の患者に細胞シート移植",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240313/K10014389671_2403131928_0313193211_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240313/k10014390001000.html",
           "author": null,
