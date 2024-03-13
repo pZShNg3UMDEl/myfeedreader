@@ -1731,16 +1731,6 @@
           "wordCount": 802,
           "title": "マイクロソフト幹部、Apple Vision Proを飛行機内で使う素晴らしさを語る",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/Introducing-Apple-Vision-Pro-5-19-screenshot.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68731",
-          "author": "編集部：小野佳希",
-          "description": "タスク管理ツール「Trello」に障害が発生している模様だ。 2024年2月13日19時現在、当Gadget Gate編集部でも障害の発生を確認。「このボードの読み込みができません。接続を確認し、ページの更新をお試しください」と表示されるが、ページを更新しても同様のエラーメッセージが表示される状態だ […]",
-          "link": "https://gadget.phileweb.com/post-68731/",
-          "publishedOn": "2024-02-13T10:23:20.000Z",
-          "wordCount": 741,
-          "title": "タスク管理ツール「Trello」、ボードが読み込めない障害発生中",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/trello.jpg"
         }
       ]
     },
@@ -1973,6 +1963,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390281000.html",
+          "author": null,
+          "description": "日本製鉄がアメリカの大手鉄鋼メーカー「USスチール」を買収する計画をめぐってバイデン大統領が深刻な懸念を表明する方針だとイギリスのメディアが報じました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014390281000.html",
+          "publishedOn": "2024-03-13T22:15:05.000Z",
+          "wordCount": 583,
+          "title": "バイデン大統領 日本製鉄のUSスチール買収計画に懸念表明か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014390281_2403140713_0314071507_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014389961000.html",
+          "author": null,
+          "description": "ロシアのプーチン大統領は、13日に公開された国営メディアへのインタビューで、国家存続の危機にさらされれば核兵器の使用を辞さないとの立場を改めて示し、ウクライナへの支援を続ける欧米側に対して核戦力を誇示して威嚇しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014389961000.html",
+          "publishedOn": "2024-03-13T22:06:47.000Z",
+          "wordCount": 443,
+          "title": "プーチン大統領 “国家存続の危機なら核兵器使用を辞さず”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014389961_2403132215_0313221849_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240314/k10014389931000.html",
           "author": null,

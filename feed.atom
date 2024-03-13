@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T22:12:23.841Z</updated>
+    <updated>2024-03-13T22:26:41.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領 日本製鉄のUSスチール買収計画に懸念表明か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390281000.html"/>
+        <updated>2024-03-13T22:15:05.000Z</updated>
+        <summary type="html"><![CDATA[日本製鉄がアメリカの大手鉄鋼メーカー「USスチール」を買収する計画をめぐってバイデン大統領が深刻な懸念を表明する方針だとイギリスのメディアが報じました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プーチン大統領 “国家存続の危機なら核兵器使用を辞さず”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014389961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014389961000.html"/>
+        <updated>2024-03-13T22:06:47.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのプーチン大統領は、13日に公開された国営メディアへのインタビューで、国家存続の危機にさらされれば核兵器の使用を辞さないとの立場を改めて示し、ウクライナへの支援を続ける欧米側に対して核戦力を誇示して威嚇しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自公 次期戦闘機の第三国への輸出 容認で近く大筋合意の見通し]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240314/k10014389931000.html</id>
@@ -22358,16 +22378,6 @@ YouTuberは1位→圏外へ「将来つきたい職業」小学生→中学生�
         <summary type="html"><![CDATA[2月9日～11日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「機動戦士ガンダムSEED FREEDOM」が首位に返り咲いた。週末3日間で動員24万7000人、興収4億49...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タスク管理ツール「Trello」、ボードが読み込めない障害発生中]]></title>
-        <id>https://gadget.phileweb.com/?p=68731</id>
-        <link href="https://gadget.phileweb.com/post-68731/"/>
-        <updated>2024-02-13T10:23:20.000Z</updated>
-        <summary type="html"><![CDATA[タスク管理ツール「Trello」に障害が発生している模様だ。 2024年2月13日19時現在、当Gadget Gate編集部でも障害の発生を確認。「このボードの読み込みができません。接続を確認し、ページの更新をお試しください」と表示されるが、ページを更新しても同様のエラーメッセージが表示される状態だ […]]]></summary>
-        <author>
-            <name>編集部：小野佳希</name>
         </author>
     </entry>
 </feed>
