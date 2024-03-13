@@ -1964,6 +1964,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390221000.html",
+          "author": null,
+          "description": "イスラエル軍がガザ地区に連日攻撃を行うなか、13日にはラファにあるUNRWA＝国連パレスチナ難民救済事業機関の倉庫に攻撃があり少なくとも5人が死亡したと報じられています。※イスラエルやパレスチナに関する日本時間3月14日の動きを随時更新してお伝えします",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014390221000.html",
+          "publishedOn": "2024-03-13T22:38:08.000Z",
+          "wordCount": 688,
+          "title": "【随時更新】ガザ地区の国連機関施設に攻撃 5人死亡と報道",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014390221_2403140517_0314073809_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390281000.html",
           "author": null,
           "description": "日本製鉄がアメリカの大手鉄鋼メーカー「USスチール」を買収する計画をめぐってバイデン大統領が深刻な懸念を表明する方針だとイギリスのメディアが報じました。",
@@ -10133,21 +10143,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/eiga_ranking/120579/",
-          "author": null,
-          "description": "2月9日～11日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「機動戦士ガンダムSEED FREEDOM」が首位に返り咲いた。週末3日間で動員24万7000人、興収4億49...",
-          "link": "https://anime.eiga.com/news/column/eiga_ranking/120579/",
-          "publishedOn": "2024-02-13T10:45:00.000Z",
-          "wordCount": 827,
-          "title": "【週末アニメ映画ランキング】「機動戦士ガンダムSEED FREEDOM」首位返り咲き、シリーズ劇場公開作で最高興収更新",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -11041,6 +11036,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=239052",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「チキン＆チーズ ホットトルティーヤ」を世界一詳しく調査しました。    […]",
+          "link": "https://foodfighter.jp/starbucks-chicken-cheese-tortilla",
+          "publishedOn": "2024-03-13T22:49:13.000Z",
+          "wordCount": 1816,
+          "title": "【スターバックス】チキン＆チーズ ホットトルティーヤ【新作フード・期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/6beeb996ebdd757aba2f3e1eefb6e14c-rotated.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=239029",
           "author": "foodfighter",
