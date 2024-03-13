@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T06:35:57.693Z</updated>
+    <updated>2024-03-13T06:50:57.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[埼玉の葬儀場 遺体を取り違えて葬儀 火葬後に遺族が気付く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014389101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014389101000.html"/>
+        <updated>2024-03-13T06:38:38.000Z</updated>
+        <summary type="html"><![CDATA[埼玉県越谷市の葬儀場で、男性の遺体と別の女性の遺体を取り違えたまま葬儀を執り行いそのまま火葬していたことがわかりました。運営する会社はそれぞれの遺族に謝罪したということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】たまご醤油おむすび【新作コンビニおにぎり】]]></title>
+        <id>https://foodfighter.jp/?p=238994</id>
+        <link href="https://foodfighter.jp/711sej-tamago-soy-sauce-omusubi"/>
+        <updated>2024-03-13T06:31:05.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「たまご醤油おむすび」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic、「Unreal Engine 5.4」では非ゲーム開発者用料金プランを適用へ]]></title>
         <id>https://gadget.phileweb.com/?p=71712</id>
