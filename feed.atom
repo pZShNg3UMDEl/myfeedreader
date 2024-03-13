@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T13:24:08.936Z</updated>
+    <updated>2024-03-13T13:36:15.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[佐渡 「ホタルイカの身投げ」 浜辺で幻想的な青白い光放つ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014390001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014390001000.html"/>
+        <updated>2024-03-13T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[新潟県佐渡市の海岸で、産卵のために浮上したホタルイカが浜辺に打ち上げられて、幻想的な青白い光を放つ「ホタルイカの身投げ」と呼ばれる現象が見られました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナワリヌイ氏側近襲撃 “ロシア実行の可能性” リトアニア当局]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014390071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014390071000.html"/>
+        <updated>2024-03-13T13:28:11.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの刑務所で死亡した反体制派の指導者ナワリヌイ氏の側近だった男性がリトアニアで襲撃されたことについて、リトアニアの当局は、ロシアで大統領選挙が行われるのを前にロシア側がプーチン氏への反対運動を阻止するねらいで行った可能性があるという見方を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3月14日]]></title>
         <id>https://logipara.com/?p=9645</id>
