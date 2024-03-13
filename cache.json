@@ -2034,6 +2034,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240313/k10014389851000.html",
+          "author": null,
+          "description": "去年11月、鹿児島県屋久島沖で墜落した事故のあと、飛行を見合わせていた、アメリカ軍と陸上自衛隊のオスプレイについて、防衛省は、14日以降、整備などを終えた機体から、国内での飛行を段階的に再開すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240313/k10014389851000.html",
+          "publishedOn": "2024-03-13T10:54:33.000Z",
+          "wordCount": 854,
+          "title": "オスプレイ 墜落事故後の飛行再開 防衛省“14日以降段階的に”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240313/K10014389851_2403131914_0313195435_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240313/k10014389841000.html",
           "author": null,
           "description": "イスラエル軍によるガザ地区への激しい攻撃は13日にかけても続き、住民の犠牲が増え続ける一方、ヨルダン川西岸のパレスチナ暫定自治区などでもイスラエル側の作戦で死傷者が出ています。イスラム教の断食月、ラマダンの期間中も続く一連の暴力に対し、反イスラエル感情が高まっていて、さらなる事態の悪化への懸念が広がっています。",
@@ -6954,6 +6964,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120786/",
+          "author": null,
+          "description": "テレビアニメ「歴史に残る悪女になるぞ」の放送が10月から始まることが決定し、中村カンナと石川界人の出演が明らかになった。メインスタッフも発表され、PV第1弾とキービジュアルが公開されている。 小...",
+          "link": "https://anime.eiga.com/news/120786/",
+          "publishedOn": "2024-03-13T11:00:00.000Z",
+          "wordCount": 839,
+          "title": "「歴史に残る悪女になるぞ」中村カンナ＆石川界人の主演で10月放送開始　PV第1弾とキービジュアルが公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/konki_ranking/120784/",
           "author": null,
@@ -12353,6 +12378,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033816.html",
+          "author": "damono3856",
+          "description": "1 名前：ごまカンパチ ★\n2024/03/13(水) 07:52:14.96ID:R/fcof2h9\n\n\n\n\n\n\n\n前年比61%増、ロシア企業の倒産がますます止まらない...「経済戦争」ではすでに敗戦状態 ＜プーチン大統領は年次教書演説でインフラや社会福祉を強化する方針を表明するなど強気だが、倒産件数の...",
+          "link": "https://itainews.com/archives/2033816.html",
+          "publishedOn": "2024-03-13T11:03:53.000Z",
+          "wordCount": 2358,
+          "title": "【ロシア】ロシア企業の倒産が止まらない...「経済戦争」ではすでに敗戦状態",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/c/3c300ef0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033812.html",
           "author": "yonepo665sfr",
@@ -18897,6 +18932,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oZ6RGtVcT5Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oZ6RGtVcT5Q",
+          "publishedOn": "2024-03-13T10:54:00.000Z",
+          "wordCount": null,
+          "title": "【麻雀好き必見】YMJ/君に、麻ジャン。【有吉の壁】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qhl5MEokTBM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qhl5MEokTBM",
+          "publishedOn": "2024-03-13T10:54:00.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁ライブ】ブレイクアーティストライブの裏側を覗き見！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kXGktsXd3KI",
           "author": null,
