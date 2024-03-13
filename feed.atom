@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T17:26:10.264Z</updated>
+    <updated>2024-03-13T17:36:19.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 飲食店爆発の死者が7人に 警察が国営TVの現場中継を妨害]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390211000.html"/>
+        <updated>2024-03-13T17:26:35.000Z</updated>
+        <summary type="html"><![CDATA[中国の首都北京に隣接する河北省の飲食店で13日、爆発があり、これまでに7人が死亡しました。この現場から国営テレビの記者が中継リポートをした際、警察に妨害されました。習近平国家主席が安全の重視を指示するなか、地元警察が神経をとがらせているとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prophesee Qualcomm demo at Mobile World Congress]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/03/prophesee-qualcomm-demo-at-mobile-world.html</id>
