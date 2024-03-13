@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T20:22:48.758Z</updated>
+    <updated>2024-03-13T20:36:48.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[参議院政倫審 きょう開催 安倍派のキックバックどう説明か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390141000.html"/>
+        <updated>2024-03-13T20:25:35.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、参議院では14日、政治倫理審査会が開かれ、安倍派の世耕 前参議院幹事長ら3人が出席します。安倍派でパーティー収入のキックバックが続けられたいきさつなどについて、どのような説明が行われるかが焦点です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[はしかの症状軽視も… ワクチン予防否定するSNSの誤情報に注意]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240314/k10014390201000.html</id>
@@ -22397,16 +22407,6 @@ YouTuberは1位→圏外へ「将来つきたい職業」小学生→中学生�
         <summary type="html"><![CDATA[ラブコメ漫画「ニートくノ一となぜか同棲はじめました」（KADOKAWA刊）のテレビアニメ化が決定した。矢野妃菜喜と石毛翔弥が主演を務め、千葉繁がナレーションを担当。ティザーPV、ティザービジュア...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スターバックス】あらびきソーセージパイ・ドリップコーヒー（アイス）【サイズアップモーニング】]]></title>
-        <id>https://foodfighter.jp/?p=235921</id>
-        <link href="https://foodfighter.jp/starbucks-morning"/>
-        <updated>2024-02-13T08:31:53.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）のフードメニュー「あらびきソーセージパイ」を世界一詳しく調査しました。   公式 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
