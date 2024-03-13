@@ -1984,6 +1984,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240313/k10014390061000.html",
+          "author": null,
+          "description": "先月、関西空港を訪れた京都市内の30代の男性が、はしかに感染していたことがわかりました。UAE＝アラブ首長国連邦から帰国した感染者と空港で接触した可能性があるということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240313/k10014390061000.html",
+          "publishedOn": "2024-03-13T14:34:15.000Z",
+          "wordCount": 576,
+          "title": "京都市内の30代男性がはしかに感染 関西空港で感染者と接触か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240313/K10014390061_2403132101_0313211031_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240313/k10014390091000.html",
           "author": null,
           "description": "授業中に女子生徒の体を繰り返し触ったとして、鎌倉市内の中学校の男性教諭が懲戒免職処分を受けました。",
@@ -4430,6 +4440,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99198",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/13(水) 00:04:22.04 ID:7YSpq+IM0 1位　ジンオウガ […]",
+          "link": "https://switchsoku.com/soft/monsterhunter/99198",
+          "publishedOn": "2024-03-13T14:30:23.000Z",
+          "wordCount": 10111,
+          "title": "モンハン人気投票　ジンオウガ1位",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/mh-sousenkyo.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99188",
           "author": "SWITCH速報",
@@ -12440,16 +12460,6 @@
           "wordCount": 1924,
           "title": "【スターバックス】あらびきソーセージパイ・ドリップコーヒー（アイス）【サイズアップモーニング】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/637b30ed08a7088f993885f07f78e049.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=235897",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「森永製菓 白いダースのスティックアイス」を世界一詳しく調査しました。   公式YouTube […]",
-          "link": "https://foodfighter.jp/711sej-white-dars-ice-stick",
-          "publishedOn": "2024-02-13T02:35:28.000Z",
-          "wordCount": 1876,
-          "title": "【セブンイレブン】森永製菓 白いダースのスティックアイス【新作コンビニアイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/b16aa13943d655ed0490497b584deaae.jpg"
         }
       ]
     },
