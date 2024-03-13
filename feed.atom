@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T03:14:59.752Z</updated>
+    <updated>2024-03-13T03:26:00.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、iOSアプリの「ウェブ配布」解禁を発表。EUで今春後半から]]></title>
+        <id>https://gadget.phileweb.com/?p=71604</id>
+        <link href="https://gadget.phileweb.com/post-71604/"/>
+        <updated>2024-03-13T03:23:47.000Z</updated>
+        <summary type="html"><![CDATA[アップルは先週、iOS 17.4でEU域内での代替アプリストア（純正App Store以外のサードパーティー製ストア）を解禁し、ストア開発者以外のアプリを提供することも可能とした。アプリ開発者にとっては、それだけ「どこでアプリを配布するか」の自由度が高まったことになる。 それに続き、アップルはEUに […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ボーイングの内部告発者が米国で遺体で発見される。あっ‥（察し）]]></title>
         <id>https://itainews.com/archives/2033808.html</id>
