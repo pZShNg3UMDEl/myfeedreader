@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T13:50:22.618Z</updated>
+    <updated>2024-03-13T14:12:17.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EUのAI法案 ヨーロッパ議会が承認 世界初 包括規制目指す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014390121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014390121000.html"/>
+        <updated>2024-03-13T13:57:58.000Z</updated>
+        <summary type="html"><![CDATA[EU＝ヨーロッパ連合の議会は、世界で初めて包括的にAIを規制することを目指すEUのAI法案について採決を行い、賛成多数で承認しました。今後、加盟国の合意を得たうえで施行される見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPS細胞で新たな治験へ 重い心臓病の患者に細胞シート移植]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240313/k10014389671000.html</id>
@@ -22403,37 +22413,6 @@ YouTuberは1位→圏外へ「将来つきたい職業」小学生→中学生�
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「森永製菓 白いダースのスティックアイス」を世界一詳しく調査しました。   公式YouTube […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switchでエチなゲームを前に買ったんだが消しても残るんだな]]></title>
-        <id>https://switchsoku.com/?p=98098</id>
-        <link href="https://switchsoku.com/soft/98098"/>
-        <updated>2024-02-13T02:00:29.000Z</updated>
-        <summary type="html"><![CDATA[1: 2024/02/12(月) 11:40:02.798 ID:1vGyAz+90 アカウント削除 […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玄関ドアのポストを開けると猫さんが邪魔をして荷物をブロック！]]></title>
-        <id>https://2-9-9.com/?p=68375</id>
-        <link href="https://2-9-9.com/archives/68375"/>
-        <updated>2024-02-13T02:00:08.000Z</updated>
-        <summary type="html"><![CDATA[玄関のドアのポストを開けてみると、中には猫の姿が確認できました。 実は配送業者さんが荷物をポストに入れようとすると、こうやって猫が邪魔をするということを知らせてくれたようです。 そこで飼い主さんはドアの外に出てみてポスト...
-玄関ドアのポストを開けると猫さんが邪魔をして荷物をブロック！ first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEC、クリエイティブ／ゲーミング向けAndroidタブレット「LAVIE Tab T14／T9」]]></title>
-        <id>https://gadget.phileweb.com/?p=68622</id>
-        <link href="https://gadget.phileweb.com/post-68622/"/>
-        <updated>2024-02-13T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NECは、個人向けAndroidタブレット“LAVIE Tab”の2024年春新商品として14.5型モデル「LAVIE Tab T14」、および8.8型モデル「LAVIE Tab T9」を発売する。2月15日より出荷を開始予定で、アクセサリーを含む商品ラインナップと市場想定価格は以下の通り（価格は全 […]]]></summary>
-        <author>
-            <name>編集部：杉山康介</name>
         </author>
     </entry>
 </feed>
