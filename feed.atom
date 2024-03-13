@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T09:13:37.875Z</updated>
+    <updated>2024-03-13T09:24:23.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「彼が守ってくれたから」珠洲で400年 塩田の風景、絶やさない]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014387561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014387561000.html"/>
+        <updated>2024-03-13T09:05:51.000Z</updated>
+        <summary type="html"><![CDATA[地元に400年以上続く手法で塩づくりを行う職人でした。その塩にほれ込みました。「よそ者」だった私に塩づくりを教えてくれました。師であり、兄のよう。彼の遺志を継ぎ、この能登の景観を、伝統を、残していきたいと思いますー女性はそう語りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堀江貴文氏を騙る詐欺広告対策で、Facebookが堀江氏の本物の広告も削除。堀江氏「売り上げが10分の1に」と怒り爆発！]]></title>
         <id>https://itainews.com/archives/2033811.html</id>
