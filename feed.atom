@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T11:13:16.519Z</updated>
+    <updated>2024-03-13T11:23:58.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大相撲春場所 4日目 横綱 照ノ富士は明生に敗れて2敗目]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240313/k10014389881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240313/k10014389881000.html"/>
+        <updated>2024-03-13T11:15:53.000Z</updated>
+        <summary type="html"><![CDATA[大相撲春場所は4日目、10回目の優勝を目指す横綱 照ノ富士は三役経験者の明生に敗れて2敗目を喫しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ロシア】ロシア企業の倒産が止まらない...「経済戦争」ではすでに敗戦状態]]></title>
         <id>https://itainews.com/archives/2033816.html</id>
