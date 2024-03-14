@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、双方向電流センスアンプ「TSC2020」を発表した。入力コモンモード電圧は－4～＋100Vで、48Vシステムなどの高電圧で使用できる。高精度のアナログ回路により、入力オフセット電圧を±150μVに抑えた。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html",
+          "publishedOn": "2024-03-14T00:00:00.000Z",
+          "wordCount": 2582,
+          "title": "入力オフセット電圧±150μV、入力耐圧100Vの双方向電流センスアンプ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news080.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/12/news179.html",
           "author": null,
           "description": "テキサス・インスツルメンツ（TI）は、電力効率を高めた「100V窒化ガリウム（GaN）パワーステージ」と、高い電力密度を達成した「1.5W絶縁型DC-DCモジュール」の2種類の電力変換デバイス製品を発表した。",
@@ -1963,6 +1973,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390291000.html",
+          "author": null,
+          "description": "ウクライナのマリウスカ司法相は、欧米や日本も経済面などでロシアの軍事侵攻の被害を受けており、国際法上の対抗措置をとることができるとしたうえで、凍結したロシアの資産をウクライナの復興に向けて活用するよう呼びかけました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014390291000.html",
+          "publishedOn": "2024-03-14T00:37:46.000Z",
+          "wordCount": 749,
+          "title": "ウクライナ司法相“ロシアの凍結資産で支援を”欧米に呼びかけ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014390291_2403140807_0314093748_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390011000.html",
           "author": null,
@@ -4621,6 +4641,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99201",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/13(水) 20:45:37.18 ID:Ke/1boNT0 要約 ここ最近で […]",
+          "link": "https://switchsoku.com/soft/ff/99201",
+          "publishedOn": "2024-03-14T00:00:25.000Z",
+          "wordCount": 10035,
+          "title": "スクエニ、FF9リメイクをSwitchとSwitch2でも発売か！？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/02/ff9.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=99198",
           "author": "SWITCH速報",
           "description": "1: 2024/03/13(水) 00:04:22.04 ID:7YSpq+IM0 1位　ジンオウガ […]",
@@ -6979,16 +7009,6 @@
           "wordCount": 10045,
           "title": "なぜSwitchにはこれほど多くのソフトが集まったのか？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/09/20170818-52699-header1.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98112",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/13(火) 16:13:47.54 ID:BarOdy1E0 平素は、弊社製品 […]",
-          "link": "https://switchsoku.com/ds/98112",
-          "publishedOn": "2024-02-13T12:00:34.000Z",
-          "wordCount": 10004,
-          "title": "2DS・New 3DS・New 3DS LL本体‥部品在庫がなくなり次第、修理サービスを終了に",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/new-3ds-ll-1.webp"
         }
       ]
     },
@@ -10133,21 +10153,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120577/",
-          "author": null,
-          "description": "全8話の新作テレビアニメ「刀剣乱舞 廻 虚伝 燃ゆる本能寺」に、既に発表されていた12振りの刀剣男士に加えて、さらに30振りの刀剣男士が登場することが明らかになった。公式サイトと公式Xで、2月1...",
-          "link": "https://anime.eiga.com/news/120577/",
-          "publishedOn": "2024-02-13T12:00:00.000Z",
-          "wordCount": 885,
-          "title": "「刀剣乱舞」新作アニメ、30振りの刀剣男士が新たに発表　全8話で4月2日から放送開始",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -11041,6 +11046,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=239074",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「豚玉＆焼きそば」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]",
+          "link": "https://foodfighter.jp/711sej-butatama-yakisoba",
+          "publishedOn": "2024-03-14T00:48:36.000Z",
+          "wordCount": 1788,
+          "title": "【セブンイレブン】豚玉＆焼きそば【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/f7a9da816b55874950fb873f255aa8b5.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=239052",
           "author": "foodfighter",
@@ -15757,16 +15772,6 @@
           "wordCount": 2357,
           "title": "【バレンタインデー】「無理して配る必要ないかなと」進む“義理チョコ”離れ　必要なし7割超　「自分へのご褒美」は増加",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/690cc1d2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033057.html",
-          "author": "damono3856",
-          "description": "1 名前：首都圏の虎 ★：2024/02/13(火) 09:14:46.20 ID:IZ6b4vXe9.net\n\n\n\n\n\n\n\nYouTuberは1位→圏外へ「将来つきたい職業」小学生→中学生で激変！男女とも中学に入ると現実直視(よろず～ニュース)#Yahooニュースhttps://t.co/qm2AdR9meC— た か しー！（T K C🐶🥀管理...",
-          "link": "https://itainews.com/archives/2033057.html",
-          "publishedOn": "2024-02-13T12:07:00.000Z",
-          "wordCount": 2405,
-          "title": "YouTuberは1位→圏外へ「将来つきたい職業」小学生→中学生で激変！男女とも中学に入ると現実直視",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/9/c9e56d68-s.png"
         }
       ]
     },
