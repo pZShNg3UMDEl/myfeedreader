@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T15:13:11.529Z</updated>
+    <updated>2024-03-14T15:24:40.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】福島県で震度5弱の地震 津波の心配なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014391421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014391421000.html"/>
+        <updated>2024-03-14T15:22:05.000Z</updated>
+        <summary type="html"><![CDATA[１５日午前０時１４分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度５弱が、福島県中通り、福島県浜通り。▼震度４が、宮城県南部、宮城県中部、茨城県北部、栃木県北部、栃木県南部。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「没落予定の貴族だけど、暇だったから魔法を極めてみた」アニメ化決定　ティザービジュアル公開]]></title>
         <id>https://anime.eiga.com/news/120798/</id>
@@ -23015,15 +23025,6 @@ HappyValentine 💕
         <summary type="html"><![CDATA[Nvidiaは、ユーザーのPC上で動作するAIチャットボット「Chat with RTX」をリリースした。これは無料のデモアプリで、ユーザーのPC上に保存されているローカルファイルを使って学習し、ドキュメントの要約や自分のデータに関する質問をすることもできる。 Nvidiaの説明によると、ユーザーは […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ドラクエウォーク】ここで必須武器登場!?物理必中化・ＭＰ回復を持つ小悪魔セティアのロッドを無課金勇者はジェム投入して全力で引くべきか!?]]></title>
-        <id>https://www.youtube.com/watch?v=XYVS4UCqM1Y</id>
-        <link href="https://www.youtube.com/watch?v=XYVS4UCqM1Y"/>
-        <updated>2024-02-14T03:18:15.000Z</updated>
-        <author>
-            <name>YoshiZo</name>
         </author>
     </entry>
 </feed>
