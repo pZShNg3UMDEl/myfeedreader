@@ -1751,16 +1751,6 @@
           "wordCount": 750,
           "title": "dynabookが「XRグラス」開発中。デザイン公開",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/DSC_6223.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68854",
-          "author": "編集部：平山洸太",
-          "description": "Dynabookは、“AI PC”を謳う14.0型モバイルノートPC「dynabook R9」を4月下旬に発売する。価格はオープンだが、税込29万円台半ばでの実売が予想される。カラーはダークテックブルーのみ。 AIエンジン内蔵の「インテル Core Ultra 7 プロセッサー 155H」を搭載した […]",
-          "link": "https://gadget.phileweb.com/post-68854/",
-          "publishedOn": "2024-02-14T10:42:53.000Z",
-          "wordCount": 787,
-          "title": "dynabook、AI搭載のフラグシップノートPC「R9」。Copilotキーも搭載",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/DSC_6177.jpg"
         }
       ]
     },
@@ -2003,6 +1993,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391221000.html",
+          "author": null,
+          "description": "障害のある子どもたちを預かる「放課後等デイサービス」の施設で、子どもが一時的に行方不明になったケースが過去5年間で少なくとも339件に上ることがNHKが各地の自治体に行った情報公開請求で分かりました。このうち3人の子どもはその後、川で死亡していて、専門家は「施設が子どもの安全を確保できるよう、国は対策を急ぐべきだ」と指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014391221000.html",
+          "publishedOn": "2024-03-14T22:40:25.000Z",
+          "wordCount": 795,
+          "title": "“放課後等デイサービス施設で一時行方不明” 5年間で339件に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014391221_2403150739_0315073945_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391431000.html",
           "author": null,
