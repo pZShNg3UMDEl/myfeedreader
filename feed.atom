@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T04:38:37.561Z</updated>
+    <updated>2024-03-14T04:50:44.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガーシー元参議院議員に執行猶予付き有罪判決 東京地裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390371000.html"/>
+        <updated>2024-03-14T04:49:35.000Z</updated>
+        <summary type="html"><![CDATA[動画投稿サイトで芸能人などを繰り返し脅迫した罪などに問われたガーシー元参議院議員に対し、東京地方裁判所は懲役3年、執行猶予5年の有罪判決を言い渡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民間小型ロケットの爆発 消防など機体の破片などを調査 和歌山]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240314/k10014390561000.html</id>
@@ -63,6 +73,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390541000.html"/>
         <updated>2024-03-14T03:40:57.000Z</updated>
         <summary type="html"><![CDATA[金沢市の「兼六園」では冬の間、雪の重みから木の枝を守ってきた「雪吊り」を取り外す作業が始まりました。能登半島地震の影響で一時落ち込んでいた来園者数は回復しつつあるということで、担当者は、これから春の装いになっていく兼六園を見に訪れてほしいとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震の液状化 原因や実態把握へ 新潟 西区で地盤調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390511000.html"/>
+        <updated>2024-03-14T03:32:36.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で起きた液状化の原因や実態を把握しようと、被害が相次いだ新潟市西区で住宅地の地盤を調べる調査が始まりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
