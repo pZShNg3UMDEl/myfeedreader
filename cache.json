@@ -324,16 +324,6 @@
           "wordCount": 2627,
           "title": "AI機能付きモータードライバーリファレンス設計",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/14/cover_news163.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/14/news053.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、IRレシーバーモジュール「TSOP18xx」「TSOP58xx」「TSSP5xx」シリーズのアップグレードを発表した。プリアンプリファイア回路、フォトディテクター、IRフィルターを搭載する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/14/news053.html",
-          "publishedOn": "2024-02-14T00:00:00.000Z",
-          "wordCount": 2622,
-          "title": "消費電流が従来比で半分に、IRレシーバーモジュールをアップグレード",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/14/cover_news053.jpg"
         }
       ]
     },
@@ -2053,6 +2043,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014391281000.html",
+          "author": null,
+          "description": "体重が増えた陸上自衛隊の隊員に上司が1万字の反省文を書かせたことなどはパワーハラスメントで違法だとして、東京地方裁判所は国に150万円の支払いを命じる判決を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014391281000.html",
+          "publishedOn": "2024-03-14T12:04:43.000Z",
+          "wordCount": 695,
+          "title": "“体重増の陸自隊員に1万字反省文はパワハラ”国に賠償命じる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014391281_2403142024_0314210310_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014391111000.html",
+          "author": null,
+          "description": "広島県東広島市で河川や地下水などから一部が有害とされる有機フッ素化合物の「PFAS」が国の暫定目標値を超えて相次いで検出されたことから市が排出源を調査した結果、アメリカ軍の弾薬庫の敷地に由来する可能性が高いことがわかったということです。市は国を通じ、アメリカ軍に原因の究明を要請するとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014391111000.html",
+          "publishedOn": "2024-03-14T12:01:00.000Z",
+          "wordCount": 620,
+          "title": "広島 東広島で検出「PFAS」“米軍の弾薬庫由来の可能性高い”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014391111_2403142050_0314205528_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240314/k10014391041000.html",
           "author": null,
@@ -7389,16 +7399,6 @@
           "wordCount": 10060,
           "title": "ときメモが30周年記念で復活か？カウントダウン開始",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/08/tokimemo.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98125",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/13(火) 12:44:13.62 ID:fBIAi5+T0 なかなかないよな […]",
-          "link": "https://switchsoku.com/switch/98125",
-          "publishedOn": "2024-02-14T00:00:16.000Z",
-          "wordCount": 10022,
-          "title": "Switch2に搭載可能な範囲でゲーム面白くなりそうな仕組みある？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/02/hdsindou-17.jpg"
         }
       ]
     },
@@ -7584,6 +7584,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120794/",
+          "author": null,
+          "description": "テレビアニメ「生徒会役員共＊」の無料配信が、「パイ（π）の日」にちなんで、3月14日午後9時から「KING AMUSEMENT CREATIVE」の公式YouTubeチャンネルでスタートした。3...",
+          "link": "https://anime.eiga.com/news/120794/",
+          "publishedOn": "2024-03-14T12:00:00.000Z",
+          "wordCount": 804,
+          "title": "ハーレムギャグアニメ「生徒会役員共＊」無料配信開始　「パイの日」3月14日にちなんで",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120795/",
           "author": null,
@@ -11037,6 +11052,16 @@
       "feedUrl": "https://note.com/hima_kuuhaku/rss",
       "siteUrl": "https://note.com/hima_kuuhaku",
       "articles": [
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nf0cdd5921e81",
+          "author": null,
+          "description": "ざっくりまとめると\n暇空茜は同姓同名の別人が二人いるから両方開示する必要があるんだ！\nだそうです\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nf0cdd5921e81",
+          "publishedOn": "2024-03-14T12:08:25.000Z",
+          "wordCount": 2240,
+          "title": "堀口英利（代理人伊久間勇星弁護士）note開示請求異議訴訟答弁書",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2591a6db2ca0c10e5c7364d85a95235d0dba4637.png"
+        },
         {
           "id": "https://note.com/hima_kuuhaku/n/n5c69da5876c7",
           "author": null,
@@ -19454,16 +19479,6 @@
           "wordCount": 1405,
           "title": "愛犬の散歩についていこうとしたけど、すぐに戻ってくる猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68438.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68470",
-          "author": "299",
-          "description": "今回ご紹介するのは飼い主さんに甘える猫ちゃんです。 飼い主さんご夫婦が旅行で1日お家を留守にしていたからでしょう。 やっと会えたニャ！と激しく甘える様子が可愛らしいのでご覧ください。 飼い主さんが旅行から帰ってくると、愛...\n旅行から帰ってきた飼い主さんに甘え倒す猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68470",
-          "publishedOn": "2024-02-14T00:00:02.000Z",
-          "wordCount": 1403,
-          "title": "旅行から帰ってきた飼い主さんに甘え倒す猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68470.jpg"
         }
       ]
     },
