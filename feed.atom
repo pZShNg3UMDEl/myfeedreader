@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T12:24:23.976Z</updated>
+    <updated>2024-03-14T12:47:08.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鹿島建設の工事関係者“住民の様子など不適切表現で情報交換”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014391311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014391311000.html"/>
+        <updated>2024-03-14T12:10:00.000Z</updated>
+        <summary type="html"><![CDATA[東京外かく環状道路のトンネル工事で緩んだ地盤の補修作業が進む東京 調布市の住宅街で、大手ゼネコンの鹿島建設は工事関係者がグループチャットで住民の様子などを不適切な表現で報告し合っていたとして、ホームページ上で謝罪しました。鹿島建設はやりとりの内容などについて明らかにしていません。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堀口英利（代理人伊久間勇星弁護士）note開示請求異議訴訟答弁書]]></title>
         <id>https://note.com/hima_kuuhaku/n/nf0cdd5921e81</id>
