@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T07:35:31.579Z</updated>
+    <updated>2024-03-14T07:50:29.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 被災した輪島塗の箸職人が製作を再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390691000.html"/>
+        <updated>2024-03-14T07:45:43.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した輪島塗の箸の職人が地震で壊れた工房を修理して、14日から製作を再開しました。職人の男性は「地震から2か月半くらいたっているので最初はぎこちなかったですが、漆に触れたのはうれしかったです。できることを積み重ねて、輪島塗という産業を残していきたい」と話していました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静岡 人気のレストラン「さわやか」 創業者死去で全店舗休業]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390731000.html"/>
+        <updated>2024-03-14T07:40:56.000Z</updated>
+        <summary type="html"><![CDATA[ハンバーグが人気のレストランチェーンを静岡県内で運営する「さわやか」の創業者、富田重之さんが、12日、老衰のため87歳で亡くなりました。会社は14日、すべての店舗を休業し、富田さんをしのんでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファミコン国民投票 第34回「アクションゲーム」といえば？]]></title>
         <id>https://switchsoku.com/?p=99205</id>
