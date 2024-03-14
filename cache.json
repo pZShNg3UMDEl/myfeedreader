@@ -106,6 +106,16 @@
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/04/cover_news077.jpg"
         },
         {
+          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/06/news003.html",
+          "author": null,
+          "description": "グローバルにビジネス展開をする製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第4回ではクラウドERPの導入効果を最大化し、データドリブン経営を実現するデータ活用基盤について解説します。",
+          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/06/news003.html",
+          "publishedOn": "2024-03-01T01:00:00.000Z",
+          "wordCount": 1851,
+          "title": "PR: SAP IBPで実現するSCM計画業務の高度化",
+          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/06/cover_news003.jpg"
+        },
+        {
           "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news004.html",
           "author": null,
           "description": "グローバルにビジネス展開をする製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第4回ではクラウドERPの導入効果を最大化し、データドリブン経営を実現するデータ活用基盤について解説します。",
@@ -1983,6 +1993,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390421000.html",
+          "author": null,
+          "description": "警察庁の委託先のホットラインセンターが去年12月末までのおよそ3か月間に受け付けたインターネット上の「闇バイト」に関する投稿の情報は、およそ4400件に上り、その8割はセンターの要請などによって削除された一方、残りの2割は削除に至っていないということで、警察庁はサイトを管理する事業者などへの協力の要請を続けることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014390421000.html",
+          "publishedOn": "2024-03-14T01:56:51.000Z",
+          "wordCount": 620,
+          "title": "「闇バイト」の投稿情報 約3か月間で約4400件 2割が削除されず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014390421_2403141040_0314105653_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390411000.html",
+          "author": null,
+          "description": "北朝鮮のキム・ジョンウン（金正恩）総書記は、軍の戦車部隊による訓練を視察し、14日まで合同軍事演習を行っているアメリカ軍と韓国軍への対抗姿勢を示しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014390411000.html",
+          "publishedOn": "2024-03-14T01:49:24.000Z",
+          "wordCount": 675,
+          "title": "北朝鮮 キム総書記 戦車部隊の訓練視察 米韓への対抗姿勢示す",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014390411_2403141046_0314104816_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390361000.html",
           "author": null,
@@ -4661,6 +4691,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99203",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/13(水) 20:48:26.10 ID:ZJ5Q8WHId はじまったな h […]",
+          "link": "https://switchsoku.com/atlus/99203",
+          "publishedOn": "2024-03-14T02:00:59.000Z",
+          "wordCount": 9985,
+          "title": "ユニコーンオーバーロード、SwitchのDLソフトランキングでスイカゲームを上回る！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/unicorn.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99201",
           "author": "SWITCH速報",
           "description": "1: 2024/03/13(水) 20:45:37.18 ID:Ke/1boNT0 要約 ここ最近で […]",
@@ -7019,16 +7059,6 @@
           "wordCount": 10078,
           "title": "『スプラトゥーン3』エキスパンション･パス サイド･オーダー 紹介映像",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/splatoon3-sideorder.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98117",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/12(月) 19:43:56.55 ID:9RZMuzwid Wikipedi […]",
-          "link": "https://switchsoku.com/soft/98117",
-          "publishedOn": "2024-02-13T14:00:30.000Z",
-          "wordCount": 10045,
-          "title": "なぜSwitchにはこれほど多くのソフトが集まったのか？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/09/20170818-52699-header1.jpg"
         }
       ]
     },
@@ -15780,6 +15810,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70138",
+          "author": "299",
+          "description": "今回ご紹介するのは遊んでニャ！と甘える姿が可愛らしい子猫ちゃん達です。 最初はボーッとしていたり子猫ちゃん同士でワチャワチャしていました。 ところが飼い主さんが遊んでくれるとわかると、遊んでニャ！と甘えに行きます。 目を...\nアピールが可愛すぎる子猫達 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70138",
+          "publishedOn": "2024-03-14T02:00:58.000Z",
+          "wordCount": 1219,
+          "title": "アピールが可愛すぎる子猫達",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70138.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70134",
           "author": "299",
