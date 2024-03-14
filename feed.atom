@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T11:35:29.841Z</updated>
+    <updated>2024-03-14T11:50:34.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ほっともっと】海鮮天とじ丼・ライス大盛り【期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=239124</id>
+        <link href="https://foodfighter.jp/hottomotto-kaisen-tentoji"/>
+        <updated>2024-03-14T11:30:52.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Motto）」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朗報】トヨタミライドンが展示]]></title>
         <id>https://switchsoku.com/?p=99213</id>
@@ -22923,16 +22933,6 @@ HappyValentine 💕
         <summary type="html"><![CDATA[ビシェイ・インターテクノロジーは、IRレシーバーモジュール「TSOP18xx」「TSOP58xx」「TSSP5xx」シリーズのアップグレードを発表した。プリアンプリファイア回路、フォトディテクター、IRフィルターを搭載する。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム まるで完熟北海道メロン【新作アイス】]]></title>
-        <id>https://foodfighter.jp/?p=236015</id>
-        <link href="https://foodfighter.jp/711sej-marude-melon"/>
-        <updated>2024-02-13T23:39:12.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新作アイス「セブンプレミアム まるで完熟北海道メロン」を世界一詳しく調査しました。   公式YouT […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
