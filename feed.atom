@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T05:36:21.409Z</updated>
+    <updated>2024-03-14T05:50:28.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名古屋 9棟焼けた火事 クラシックカー火元か 所有者を書類送検]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240314/k10014390591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240314/k10014390591000.html"/>
+        <updated>2024-03-14T05:40:19.000Z</updated>
+        <summary type="html"><![CDATA[去年1月、名古屋市千種区で会社の作業所兼倉庫や住宅、合わせて9棟が燃えた火事は、倉庫にあった整備中のクラシックカーが火元とみられることがわかり、警察は車の60代の所有者を重過失失火の疑いで書類送検しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大相撲春場所 幕内の金峰山 きょうから休場 首を痛めたため]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240314/k10014390581000.html</id>
