@@ -343,6 +343,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=71819",
+          "author": "Munenori Taniguchi",
+          "description": "YouTubeは、テレビの視聴体験をYouTubeならではのものにするためにはどうすれば良いかという課題への取り組みについてブログ記事で報告している。 スマートTVなどの普及により、多くの家庭で最も大きなスクリーンであるテレビでのYouTubeコンテンツ視聴が増加しているとのこと。そして、具体的な視 […]",
+          "link": "https://gadget.phileweb.com/post-71819/",
+          "publishedOn": "2024-03-14T07:22:44.000Z",
+          "wordCount": 755,
+          "title": "YouTube、テレビ向け視聴画面の刷新を検討。より優れた体験の提供へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/YTTV.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=71810",
+          "author": "多根清史",
+          "description": "米下院は、ショート動画共有アプリTikTokの親会社である中国ByteDance社に、約半年以内に同アプリの売却を求め、従わない場合はアプリの使用を禁止する法案を圧倒的多数で可決した。この後、本法案は米上院で審議される予定だが、ゆくえは依然として不透明である。 この法案は、中国政府が米国にいるユーザ […]",
+          "link": "https://gadget.phileweb.com/post-71810/",
+          "publishedOn": "2024-03-14T07:15:36.000Z",
+          "wordCount": 789,
+          "title": "米下院、TikTok規制法案を可決。1億7000万人へのプッシュ通知が逆効果か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_1801971247.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=71801",
           "author": "Munenori Taniguchi",
           "description": "Spotifyは、世界11か国で音楽ストリーミングサービスにミュージックビデオのストリーミング機能を追加している。この新機能は現在のところ、まだベータ版としての提供となっている。 MVのストリーミング機能が追加されたのは英国、ドイツ、イタリア、オランダ、ポーランド、スウェーデン、ブラジル、コロンビア […]",
@@ -2013,6 +2033,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390571000.html",
+          "author": null,
+          "description": "陸上自衛隊は去年、沖縄県の宮古島沖でヘリコプターが墜落して10人が死亡した事故の調査結果を公表しました。エンジンの出力が徐々に低下する「ロールバック」と呼ばれる現象が起きるなどして墜落したとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240314/k10014390571000.html",
+          "publishedOn": "2024-03-14T07:13:23.000Z",
+          "wordCount": 787,
+          "title": "陸自ヘリ事故 調査結果を公表 「ロールバック」などで墜落",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240314/K10014390571_2403141336_0314155015_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240314/k10014390331000.html",
           "author": null,
