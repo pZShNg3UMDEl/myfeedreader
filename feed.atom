@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T05:27:47.756Z</updated>
+    <updated>2024-03-15T05:37:50.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -23091,25 +23091,6 @@ In consumer cameras, noise typically results in grainy images, often associated 
 扇風機の回転にあわせて顔もクルクルまわっちゃう猫さん first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk on digital camera misunderstandings and HDR]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/02/talk-on-digital-camera.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/02/talk-on-digital-camera.html"/>
-        <updated>2024-02-14T17:34:00.006Z</updated>
-        <summary type="html"><![CDATA[Wayne Prentice presented a talk titled "Digital Camera Myths, Mis-statements and Misunderstandings" at the NY chapter meeting of IS&T (Society for imaging Science and Tech.) on 17 Jan. 2024.
-Abstract: The digital camera system is deceptively complex.  
-Understanding camera operation/design requires some knowledge of the 
-parts:  photometry, radiometry, optics, sensor physics, sensor design, 
-signal processing, image processing, color science, statistics, human 
-perception, and image/video encoding. With all these parts, it is easy 
-to miss something. This talk was inspired by interactions with 
-co-workers and clients.  It has been my experience that some subtle, yet
- important points are often missed and can lead to suboptimal product 
-and design decisions that could be avoided. The goal o…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
