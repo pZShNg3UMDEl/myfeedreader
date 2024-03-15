@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T03:38:48.274Z</updated>
+    <updated>2024-03-15T03:50:28.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[放送記念日を前に記念式典 草刈正雄さんなど6人に放送文化賞]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014391691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014391691000.html"/>
+        <updated>2024-03-15T03:43:59.000Z</updated>
+        <summary type="html"><![CDATA[今月22日の放送記念日を前に15日、記念の式典が開かれ、俳優の草刈正雄さんなど6人に放送文化賞が贈られました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[参院予算委 立民 “政倫審の説明不十分” 政治資金問題で追及]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240315/k10014391731000.html</id>
