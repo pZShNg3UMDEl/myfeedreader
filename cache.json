@@ -344,16 +344,6 @@
           "wordCount": 2652,
           "title": "5G FR1対応デバイスの6GHz帯RF試験ソフト",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/16/cover_news073.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/14/news163.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、3相モータードライバー「STSPIN32G4」をベースにした、エッジAI機能付きのモータードライバーリファレンス設計「EVLSPIN32G4-ACT」を発表した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/14/news163.html",
-          "publishedOn": "2024-02-15T00:00:00.000Z",
-          "wordCount": 2627,
-          "title": "AI機能付きモータードライバーリファレンス設計",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/14/cover_news163.jpg"
         }
       ]
     },
@@ -2093,6 +2083,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014392651000.html",
+          "author": null,
+          "description": "はしかの感染者が東京や大阪をはじめ全国で相次ぐ中、各自治体は感染者の行動歴を公表しています。なぜ公表するのか？その基準は？そして、公表された場所に居合わせたらどうすればいいのでしょうか？",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014392651000.html",
+          "publishedOn": "2024-03-15T12:00:29.000Z",
+          "wordCount": 612,
+          "title": "はしか感染者の “行動歴” なぜ公表？公表する基準は？",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014392651_2403152054_0315205447_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014392391000.html",
+          "author": null,
+          "description": "国会は参議院予算委員会で集中審議が行われ、自民党の派閥の政治資金パーティーをめぐる問題で、岸田総理大臣は、来週行われる衆議院政治倫理審査会も踏まえ、党として関係者のさらなる聴き取りを行うか判断する考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014392391000.html",
+          "publishedOn": "2024-03-15T11:57:38.000Z",
+          "wordCount": 924,
+          "title": "参院予算委  首相 “衆院政倫審踏まえ さらなる聴き取り判断”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014392391_2403152039_0315205107_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240315/k10014392341000.html",
           "author": null,
@@ -5681,6 +5691,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99241",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/13(水) 16:30:12.51 ID:KMrVYRJ40 誰が買うんだと思 […]",
+          "link": "https://switchsoku.com/ds/99241",
+          "publishedOn": "2024-03-15T12:00:48.000Z",
+          "wordCount": 10059,
+          "title": "任天堂って一時期迷走しすぎて、脳を鍛えるトレーニングみたいな謎のゲームあったよな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/10/noutore.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99239",
           "author": "SWITCH速報",
           "description": "1: 2024/03/14(木) 14:45:16.052 ID:db7rxTJF0Pi コマンド戦 […]",
@@ -8019,16 +8039,6 @@
           "wordCount": 10054,
           "title": "日本一ソフトウェア新作『BAR ステラアビス』体験版配信開始！",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/bar-stera.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98164",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/14(水) 22:48:20.03 ID:kNa4qBRj0 https:// […]",
-          "link": "https://switchsoku.com/soft/mario_odyssey/98164",
-          "publishedOn": "2024-02-15T00:00:49.000Z",
-          "wordCount": 10040,
-          "title": "『マリオvs.ドンキーコング』メタスコア77点",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/mario-donkey.webp"
         }
       ]
     },
@@ -8214,6 +8224,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/120762/",
+          "author": null,
+          "description": "3月15日午後9時から、日本テレビ系「金曜ロードショー」にて長編アニメ「アーヤと魔女」が放送されます。 同作は、「ハウルの動く城」の原作者としても知られるダイアナ・ウィン・ジョーンズが1990年...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/120762/",
+          "publishedOn": "2024-03-15T12:00:00.000Z",
+          "wordCount": 933,
+          "title": "「アーヤと魔女」あらすじ、声優まとめ　企画者の宮崎駿監督が語った、宮崎吾朗監督長編第3作の評価",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120807/",
           "author": null,
@@ -20074,16 +20099,6 @@
           "wordCount": 1398,
           "title": "赤ちゃんを優しく見守る猫たち",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68498.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68532",
-          "author": "299",
-          "description": "ママ猫が子猫を優しく毛づくろいしています。子猫はママ猫に全身を舐められて夢見心地になっています。優しいママ猫のことをじっと見つめる子猫の表情からはママ猫への愛が感じられます。 ママ猫とこうやって過ごす時間が子猫にとっても...\nママ猫に毛づくろいしてもらってハッピーな子猫たち first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68532",
-          "publishedOn": "2024-02-15T00:00:46.000Z",
-          "wordCount": 1400,
-          "title": "ママ猫に毛づくろいしてもらってハッピーな子猫たち",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68532.jpg"
         }
       ]
     },
