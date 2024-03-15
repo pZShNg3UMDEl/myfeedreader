@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T20:35:18.937Z</updated>
+    <updated>2024-03-15T20:50:12.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[産業用ロボット大手「ファナック」約97億円の申告漏れ指摘]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392561000.html"/>
+        <updated>2024-03-15T20:38:57.000Z</updated>
+        <summary type="html"><![CDATA[産業用ロボット大手の「ファナック」が、台湾にある子会社に対して、部品を一般的な価格よりも安く販売することで、本来、日本で計上すべき利益を海外に移していたとして、東京国税局からおよそ97億円の所得の申告漏れを指摘されていたことが、関係者への取材でわかりました。「ファナック」は取材に対し、「当局と見解の相違がある」などとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米マクドナルド「心よりおわび」世界中の店舗でシステム障害]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240316/k10014392551000.html</id>
@@ -23584,16 +23594,6 @@ In consumer cameras, noise typically results in grainy images, often associated 
         <summary type="html"><![CDATA[「彼女、お借りします」（略称「かのかり」）で知られる宮島礼吏氏による漫画「紫雲寺（しうんじ）家の子供たち」のテレビアニメ化が決定した。宮島氏が描いたお祝いイラストが披露されている。 「ヤングアニ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HHKB、春をイメージした「桜」キートップを数量限定発売。Professionalシリーズ向け]]></title>
-        <id>https://gadget.phileweb.com/?p=69040</id>
-        <link href="https://gadget.phileweb.com/post-69040/"/>
-        <updated>2024-02-15T08:36:04.000Z</updated>
-        <summary type="html"><![CDATA[PFUは、同社キーボード「Happy Hacking Keyboard（HHKB） Professionalシリーズ」の交換用キートップセット「桜」を数量限定で2月15日から順次発売する。 ラインナップは刻印／無刻印に加えて、英語配列と日本語配列の全4パターンを用意。発売日については、無刻印モデルが […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
         </author>
     </entry>
 </feed>
