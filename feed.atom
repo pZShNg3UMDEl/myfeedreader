@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T10:28:02.933Z</updated>
+    <updated>2024-03-15T10:38:20.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】鹿児島 奄美北部で震度４]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014392461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014392461000.html"/>
+        <updated>2024-03-15T10:35:33.000Z</updated>
+        <summary type="html"><![CDATA[１５日午後７時３２分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度４が、奄美北部。今後の情報に注意してください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自称“頂き女子“25歳被告に懲役13年と罰金1200万円 求刑 検察]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014392321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014392321000.html"/>
+        <updated>2024-03-15T10:20:51.000Z</updated>
+        <summary type="html"><![CDATA[SNS上で「頂き女子」を自称し男性に恋愛感情を抱かせて1億5000万円余りをだまし取った罪などで起訴された25歳の被告に対し、検察は「自分が会っていたホストをナンバー1にするための身勝手な犯行だ」として懲役13年と罰金1200万円を求刑しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam、スプリングセール開始。「パルワールド」や「龍が如く８」も対象、3月22日まで]]></title>
         <id>https://gadget.phileweb.com/?p=71978</id>
