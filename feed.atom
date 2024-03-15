@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T05:37:50.376Z</updated>
+    <updated>2024-03-15T05:50:35.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[GoogleはChromeブラウザにつき、セーフ・ブラウジング標準保護モードに「リアルタイムURL保護機能」を導入したと発表した。これにより、悪意あるウェブサイトに対する保護が強化される。デスクトップとiOS版には実装済みで、3月末にAndroid版にも導入する予定だ。 セーフ・ブラウジングとは、マ […]]]></summary>
         <author>
             <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 珠洲の小学校で避難生活を送る人たちも出席し卒業式]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014391741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014391741000.html"/>
+        <updated>2024-03-15T05:15:20.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で、避難所にもなっている石川県珠洲市の小学校で卒業式が行われ、学校で避難生活を送る人たちも出席して卒業生の門出を祝いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
