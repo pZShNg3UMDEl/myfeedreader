@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T13:35:22.045Z</updated>
+    <updated>2024-03-15T13:50:40.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[理研“植物にエタノールで耐性高まる”南米の大学と共同研究へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014392691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014392691000.html"/>
+        <updated>2024-03-15T13:45:05.000Z</updated>
+        <summary type="html"><![CDATA[気候変動や食料不足への対応が世界的な課題となる中、植物に低濃度のエタノールを与えて育てると乾燥や高温に強くなることを突き止めた理化学研究所の研究グループが、農業への活用を目指して世界有数の農業国、南米・ブラジルの大学と共同研究を進めることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【警察庁まとめ】SNS起因の小学生被害　前年比25人増の139人で過去最多　児童ポルノ、不同意性交が多数]]></title>
         <id>https://itainews.com/archives/2033871.html</id>
