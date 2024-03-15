@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T11:10:30.220Z</updated>
+    <updated>2024-03-15T11:20:24.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -158,6 +158,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240315/k10014392161000.html"/>
         <updated>2024-03-15T09:57:44.000Z</updated>
         <summary type="html"><![CDATA[太平洋戦争末期の沖縄戦の混乱で行方がわからなくなっていた、琉球王国の国王の肖像画「御後絵（おごえ）」などが、アメリカ国内で見つかり、沖縄県に引き渡されました。県は、琉球・沖縄の美術史や文化史の研究で重要な手がかりになると期待を寄せています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“さよなら北陸本線” サンダーバードも金沢-敦賀間の運行終了]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014391781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014391781000.html"/>
+        <updated>2024-03-15T09:57:02.000Z</updated>
+        <summary type="html"><![CDATA[北陸新幹線の延伸に伴い、特急「サンダーバード」と「しらさぎ」は金沢と敦賀間の運行を15日で終えます。その区間の駅には、最後の運行を一目見ようと多くの鉄道ファンが集まりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
