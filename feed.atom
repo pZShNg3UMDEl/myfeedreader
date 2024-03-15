@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T03:26:42.663Z</updated>
+    <updated>2024-03-15T03:38:48.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[参院予算委 立民 “政倫審の説明不十分” 政治資金問題で追及]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014391731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014391731000.html"/>
+        <updated>2024-03-15T03:22:07.000Z</updated>
+        <summary type="html"><![CDATA[国会は参議院予算委員会で集中審議が行われ、立憲民主党は自民党の派閥の政治資金パーティーをめぐる問題について、政治倫理審査会での関係議員による説明は不十分で実態解明につながっていないと追及しました。これに対し岸田総理大臣は疑念を払拭（ふっしょく）するため、説明を尽くす必要があるという認識を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア大統領選 極東地域で投票開始 時差に合わせ順次西へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240315/k10014391671000.html</id>
