@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html",
+          "author": null,
+          "description": "ローデ・シュワルツは、5G RFとRRMコンフォーマンステスト向けソリューション「R&S TS8980S-4A」「R&S TS8980FTA-3A」を発表した。GCFとPTCRBから承認を受けた、公式の5Gコンフォーマンステストプラットフォームとなる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html",
+          "publishedOn": "2024-03-15T00:00:00.000Z",
+          "wordCount": 2615,
+          "title": "GCFとPTCRB公認、5Gコンフォーマンステストプラットフォーム",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/15/cover_news082.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html",
           "author": null,
           "description": "STマイクロエレクトロニクスは、双方向電流センスアンプ「TSC2020」を発表した。入力コモンモード電圧は－4～＋100Vで、48Vシステムなどの高電圧で使用できる。高精度のアナログ回路により、入力オフセット電圧を±150μVに抑えた。",
@@ -1983,6 +1993,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391461000.html",
+          "author": null,
+          "description": "UNDP＝国連開発計画は、世界各国の国民の豊かさを示す「人間開発指数」について最新の報告書を発表し、日本の順位は前回より下がって24位となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014391461000.html",
+          "publishedOn": "2024-03-14T23:58:15.000Z",
+          "wordCount": 622,
+          "title": "国連報告書“国民の豊かさ”日本24位 世界は格差拡大し二極化",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014391461_2403150742_0315075827_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391441000.html",
+          "author": null,
+          "description": "アメリカの民間企業、スペースXが将来、月や火星に飛行することも想定して開発中の大型宇宙船が試験飛行のため、無人で打ち上げられました。宇宙船は試験飛行の終盤に信号が途絶え、予定していた海上への着水はできませんでした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014391441000.html",
+          "publishedOn": "2024-03-14T23:57:19.000Z",
+          "wordCount": 761,
+          "title": "スペースXの大型宇宙船 試験飛行終盤に信号途絶える",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014391441_2403150441_0315085721_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391471000.html",
+          "author": null,
+          "description": "日本政府は、イスラエル軍の軍事作戦で人道状況が深刻化するガザ地区の児童や生徒の心のケアなどを行うため、ユネスコ＝国連教育科学文化機関を通じた緊急支援を行うことを決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014391471000.html",
+          "publishedOn": "2024-03-14T23:15:07.000Z",
+          "wordCount": 601,
+          "title": "日本政府 ガザ地区の児童や生徒にユネスコ通じ緊急支援",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014391471_2403150755_0315075956_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391181000.html",
           "author": null,
@@ -5231,6 +5271,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99219",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/14(木) 22:17:00.80 4位（初登場）　Switch　Fit Bo […]",
+          "link": "https://switchsoku.com/soft/miku/99219",
+          "publishedOn": "2024-03-15T00:00:53.000Z",
+          "wordCount": 9986,
+          "title": "『Fit Boxing feat. 初音ミク』初週14,128本",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/miku-fitboxing.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99215",
           "author": "SWITCH速報",
           "description": "1: 2024/03/14(木) 08:15:28.51 ID:rj+6BoGMM 昔でいうとサモン […]",
@@ -7549,16 +7599,6 @@
           "wordCount": 10047,
           "title": "『百英雄伝』村山吉隆さん‥お亡くなりになっていた",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/07/hyaku-eiyuu-den.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98148",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/14(水) 10:17:13.10 ID:NUdHFD5Y0 ゲームボーイアド […]",
-          "link": "https://switchsoku.com/ds/98148",
-          "publishedOn": "2024-02-14T12:00:03.000Z",
-          "wordCount": 10021,
-          "title": "【今日は何の日？】ゲームボーイアドバンスSPが発売された日",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/gameboy-ad-sp.webp"
         }
       ]
     },
@@ -10733,21 +10773,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120582/",
-          "author": null,
-          "description": "テレビアニメ「この世界は不完全すぎる」の放送が7月からスタートすることが決まった。当初は春から放送予定としていたが2月10日、公式サイトで7月放送開始と告知された。 同作は、左藤真通氏による漫画...",
-          "link": "https://anime.eiga.com/news/120582/",
-          "publishedOn": "2024-02-14T12:00:00.000Z",
-          "wordCount": 794,
-          "title": "「この世界は不完全すぎる」春予定から7月に放送延期",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -10823,6 +10848,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=9647",
+          "author": "watanabe@logipara.com",
+          "description": "大泉洋と行く豪華客船クルーズ YOソロー！ 　 「寝ても覚めても大泉洋」という、ある種の狂気をはらんだイベントに当選したんで行ってきます！ 出航が神戸なので、洋ちゃんに敬意を評して深夜バスか？！……と思いましたが、「 […]",
+          "link": "https://logipara.com/diary-text/2024-03-15",
+          "publishedOn": "2024-03-14T23:51:06.000Z",
+          "wordCount": 4386,
+          "title": "大泉洋と行くクルージング",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=9645",
           "author": "watanabe@logipara.com",
@@ -16357,16 +16392,6 @@
           "wordCount": 2416,
           "title": "「３５０万円払ったら逃がしたるわ」　退職申し出た従業員を監禁し殴る蹴る 容疑で建設会社社長ら逮捕",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/771cd144.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033086.html",
-          "author": "damono3856",
-          "description": "1 名前：もん様：2024/02/14(水) 09:03:06.89 ID:qq+J2/IM0●.net\n\n\n\n\n\n\n\n【独自】食用コオロギの会社が破産…その真相とは 経済ジャーナリストが分析「SDGsというきれい事だけではビジネスはできない。ベンチャー投資ブームが終わった」https://t.co/DbGHZ9gV6a— 佐倉...",
-          "link": "https://itainews.com/archives/2033086.html",
-          "publishedOn": "2024-02-14T12:04:18.000Z",
-          "wordCount": 2446,
-          "title": "ブームっぽいから昆虫食会社やってみるもすぐ倒産",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/7/d79ed731-s.png"
         }
       ]
     },
