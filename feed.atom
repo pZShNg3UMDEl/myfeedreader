@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T07:22:37.107Z</updated>
+    <updated>2024-03-15T07:37:10.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル データ通信障害が復旧]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014392021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014392021000.html"/>
+        <updated>2024-03-15T07:32:27.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは携帯電話などのデータ通信で、15日午前5時ごろから全国的に通信障害が発生し、一部のサービスが利用できなかったり、利用しにくくなったりしていましたが、午後2時45分ごろに復旧したと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本マクドナルド システム障害発生で一部店舗の営業取りやめ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014392011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014392011000.html"/>
+        <updated>2024-03-15T07:27:11.000Z</updated>
+        <summary type="html"><![CDATA[大手ハンバーガーチェーンの日本マクドナルドによりますと、システム障害が発生している影響で、一部の店舗で営業を取りやめているということです。会社では、システム障害の原因や、営業を取りやめている店舗数などについて確認を急いでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝ドラ「ブギウギ」から「虎に翼」に バトンタッチセレモニー]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014391991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014391991000.html"/>
+        <updated>2024-03-15T07:17:57.000Z</updated>
+        <summary type="html"><![CDATA[現在、放送中のNHKの連続テレビ小説「ブギウギ」に代わって、来月1日から「虎に翼」が始まるのを前に、15日、主人公のバトンタッチのセレモニーが行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【元ＳＤＮ４８】『子連れはタクシー乗り放題に』光上せあらの主張が「何様？」と再炎上 先週は子どもが触った商品「全買い取り」に不満]]></title>
         <id>https://itainews.com/archives/2033854.html</id>
