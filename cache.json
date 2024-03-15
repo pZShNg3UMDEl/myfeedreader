@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/15/news143.html",
+          "author": null,
+          "description": "「EE Times Japan×EDN Japan 統合電子版」の2024年3月号を発行しました。今号のEE Exclusive（電子版限定先行公開記事）は、『 「カスタムシリコン」の黄金時代が近づく 』です。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/15/news143.html",
+          "publishedOn": "2024-03-15T06:00:00.000Z",
+          "wordCount": 2701,
+          "title": "「カスタムシリコン」の黄金時代が近づく―― 電子版2024年3月号",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/15/mm220117_denshiban01_w490.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html",
           "author": null,
           "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「SPI通信などのノイズ対処法」についてです。",
@@ -352,6 +362,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=71895",
+          "author": "Munenori Taniguchi",
+          "description": "米Amazonは、カリフォルニア州の顧客に対して、その州で販売が規制されている商品の広告をユーザーに提示し、広告を出した販売業者に高額な広告料を請求したことを認めた。 この販売業者は、バージニア州で従業員80人を雇い、高性能なカスタム・コンピューターを組み立てている。そしてそのコンピューターをAma […]",
+          "link": "https://gadget.phileweb.com/post-71895/",
+          "publishedOn": "2024-03-15T06:29:54.000Z",
+          "wordCount": 749,
+          "title": "米Amazon、広告システムの欠陥が問題に。販売規制の州にも広告表示、その料金は請求",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2022/11/amazon_usd2.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=71934",
           "author": "編集部：平山洸太",
