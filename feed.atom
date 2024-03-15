@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T21:35:38.583Z</updated>
+    <updated>2024-03-15T21:50:20.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル 交渉団をカタールへ 戦闘休止など交渉再開の見通し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392771000.html"/>
+        <updated>2024-03-15T21:36:59.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの間の戦闘休止などに向けた交渉について、イスラエル側は15日、再び交渉団をカタールに送ることを決め、中断していた交渉が再開される見通しとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北陸新幹線の金沢・敦賀間きょう開業 「北陸応援割」も開始]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240316/k10014392841000.html</id>
