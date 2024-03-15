@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html",
+          "author": null,
+          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「SPI通信などのノイズ対処法」についてです。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html",
+          "publishedOn": "2024-03-15T02:00:00.000Z",
+          "wordCount": 2585,
+          "title": "SPI通信などのノイズ対策や、誤動作への対処法",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news040.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html",
           "author": null,
           "description": "ローデ・シュワルツは、5G RFとRRMコンフォーマンステスト向けソリューション「R&S TS8980S-4A」「R&S TS8980FTA-3A」を発表した。GCFとPTCRBから承認を受けた、公式の5Gコンフォーマンステストプラットフォームとなる。",
@@ -2013,6 +2023,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391661000.html",
+          "author": null,
+          "description": "イギリス・イタリアと共同開発を進めている次期戦闘機について、自民・公明両党は輸出先を絞るなどの歯止めを設けて第三国への輸出を容認することで合意しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014391661000.html",
+          "publishedOn": "2024-03-15T02:31:02.000Z",
+          "wordCount": 608,
+          "title": "自民・公明 次期戦闘機の第三国への輸出容認で合意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014391661_2403151127_0315113104_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391641000.html",
           "author": null,
@@ -13155,16 +13175,6 @@
           "wordCount": 1930,
           "title": "【すき家】ずわい蟹汁【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/b6e7d9673fbba00d0d3310b41d95efd1.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=236085",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「豚焼肉唐辛子マヨネーズ巻 5巻」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
-          "link": "https://foodfighter.jp/711sej-butayakinikumaki",
-          "publishedOn": "2024-02-14T14:34:05.000Z",
-          "wordCount": 1885,
-          "title": "【セブンイレブン】豚焼肉唐辛子マヨネーズ巻 5巻【新作コンビニお寿司】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/9a6e040292edba56221b169471b287de.jpg"
         }
       ]
     },
