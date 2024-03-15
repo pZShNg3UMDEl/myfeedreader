@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T04:35:28.613Z</updated>
+    <updated>2024-03-15T04:50:24.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[福井 美浜原発 運転停止認めない決定 大阪高裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014391831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014391831000.html"/>
+        <updated>2024-03-15T04:45:56.000Z</updated>
+        <summary type="html"><![CDATA[運転開始から40年を超えて再稼働した福井県の美浜原子力発電所3号機について、大阪高等裁判所は、原発に反対する住民たちが老朽化による事故の危険性などを主張して運転しないよう求めていた仮処分の申し立てを、退ける決定を出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テニス 大坂なおみ 国・地域別対抗戦に約4年ぶりに出場へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240315/k10014391801000.html</id>
