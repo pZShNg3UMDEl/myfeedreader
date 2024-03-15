@@ -1851,16 +1851,6 @@
           "wordCount": 773,
           "title": "次期iPhoneとMac、端末で「生成AI」実現の可能性。Neural Engine大幅強化か",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_2421930711.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68849",
-          "author": "佐野正弘",
-          "description": "新規参入の楽天モバイルは2023年、ローミングエリアでもデータ通信が無制限となる新料金プラン「Rakuten最強プラン」の提供を開始。法人向けの「楽天モバイル法人プラン」を提供して法人需要を本格開拓し始めたほか、さらに新しいプラチナバンドとなる700MHz帯の免許を獲得するなど、好材料をいくつか持つ […]",
-          "link": "https://gadget.phileweb.com/post-68849/",
-          "publishedOn": "2024-02-14T21:40:00.000Z",
-          "wordCount": 767,
-          "title": "“シンプルなワンプラン”の楽天モバイル、なぜ「最強家族プログラム」を導入したのか",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/P1150360.jpg"
         }
       ]
     },
@@ -2093,6 +2083,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014392261000.html",
+          "author": null,
+          "description": "総務省は、新年度・2024年度のNHKの国際放送で、邦人の生命・財産の保護にかかる事項などについて、報道と解説を行うよう要請することをNHKに通知しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014392261000.html",
+          "publishedOn": "2024-03-15T09:39:18.000Z",
+          "wordCount": 204,
+          "title": "総務省 国際放送に関する要請を行うとNHKに通知",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014392261_2403151826_0315182734_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240315/k10014392051000.html",
           "author": null,
@@ -12051,6 +12051,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=239227",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]",
+          "link": "https://foodfighter.jp/matsuya-soleil-curry",
+          "publishedOn": "2024-03-15T09:44:48.000Z",
+          "wordCount": 1843,
+          "title": "【松屋】欧風カレーソレイユ監修ロースかつカレー【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/ee13187b1be0ffa12a5fdd45ee2e937b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=239207",
           "author": "foodfighter",

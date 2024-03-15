@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T09:35:45.394Z</updated>
+    <updated>2024-03-15T09:50:21.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【松屋】欧風カレーソレイユ監修ロースかつカレー【店舗限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=239227</id>
+        <link href="https://foodfighter.jp/matsuya-soleil-curry"/>
+        <updated>2024-03-15T09:44:48.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[総務省 国際放送に関する要請を行うとNHKに通知]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240315/k10014392261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240315/k10014392261000.html"/>
+        <updated>2024-03-15T09:39:18.000Z</updated>
+        <summary type="html"><![CDATA[総務省は、新年度・2024年度のNHKの国際放送で、邦人の生命・財産の保護にかかる事項などについて、報道と解説を行うよう要請することをNHKに通知しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[春闘 連合と全労連 回答あった企業の賃上げ額などの状況を公表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240315/k10014392051000.html</id>
@@ -23370,16 +23390,6 @@ In consumer cameras, noise typically results in grainy images, often associated 
 お父さん猫と初対面の子猫の可愛いシャーが可愛すぎる first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“シンプルなワンプラン”の楽天モバイル、なぜ「最強家族プログラム」を導入したのか]]></title>
-        <id>https://gadget.phileweb.com/?p=68849</id>
-        <link href="https://gadget.phileweb.com/post-68849/"/>
-        <updated>2024-02-14T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[新規参入の楽天モバイルは2023年、ローミングエリアでもデータ通信が無制限となる新料金プラン「Rakuten最強プラン」の提供を開始。法人向けの「楽天モバイル法人プラン」を提供して法人需要を本格開拓し始めたほか、さらに新しいプラチナバンドとなる700MHz帯の免許を獲得するなど、好材料をいくつか持つ […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>
