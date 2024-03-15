@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T23:35:37.648Z</updated>
+    <updated>2024-03-15T23:50:34.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -42,6 +42,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392841000.html"/>
         <updated>2024-03-15T21:11:29.000Z</updated>
         <summary type="html"><![CDATA[北陸新幹線の金沢・敦賀間が16日開業し、まもなく、福井県の敦賀駅から東京駅に向かう最初の列車が出発します。16日から「北陸応援割」も始まり、観光需要の喚起へとつながるか注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 訪米で日米比首脳会談も調整 安全保障面の連携強化へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392531000.html"/>
+        <updated>2024-03-15T21:09:36.000Z</updated>
+        <summary type="html"><![CDATA[来月予定される岸田総理大臣のアメリカ訪問では、日米首脳会談に加え、フィリピンのマルコス大統領が参加する3か国の首脳会談も行う方向で調整が進められています。中国を念頭に、安全保障面でのさらなる連携強化を確認する見通しです。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
