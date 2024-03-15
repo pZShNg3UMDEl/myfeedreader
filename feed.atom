@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T05:13:18.229Z</updated>
+    <updated>2024-03-15T05:27:47.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome、有害サイトを「25%以上」多く阻止する仕組み導入]]></title>
+        <id>https://gadget.phileweb.com/?p=71898</id>
+        <link href="https://gadget.phileweb.com/post-71898/"/>
+        <updated>2024-03-15T05:16:05.000Z</updated>
+        <summary type="html"><![CDATA[GoogleはChromeブラウザにつき、セーフ・ブラウジング標準保護モードに「リアルタイムURL保護機能」を導入したと発表した。これにより、悪意あるウェブサイトに対する保護が強化される。デスクトップとiOS版には実装済みで、3月末にAndroid版にも導入する予定だ。 セーフ・ブラウジングとは、マ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【東京】宅配業者装って押し入り高級腕時計奪ったか　18歳と19歳の2人を逮捕　「闇バイト」に応募して事件に関わる　新宿]]></title>
         <id>https://itainews.com/archives/2033866.html</id>
