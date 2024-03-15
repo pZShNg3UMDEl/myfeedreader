@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T08:16:24.798Z</updated>
+    <updated>2024-03-15T08:37:28.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、カナダのAI企業DarwinAIを買収。「iOS上で動く生成AI」実現を後押し]]></title>
+        <id>https://gadget.phileweb.com/?p=71928</id>
+        <link href="https://gadget.phileweb.com/post-71928/"/>
+        <updated>2024-03-15T08:30:21.000Z</updated>
+        <summary type="html"><![CDATA[アップルは今年、カナダの小さな生成AI企業DarwinAIを買収した。従業員数数十人のこの会社は、AIシステムをコンパクトかつ高速化する技術を開発している。今回の買収は、iOSにライバル企業がまだ実現していない強力な機能、オンデバイスAIをもたらす可能性が考えられる。 アップルはプライバシー保護を重 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スターバックス】ピンクフルーツチアアップ【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=239207</id>
@@ -23279,16 +23289,6 @@ In consumer cameras, noise typically results in grainy images, often associated 
         <summary type="html"><![CDATA[新規参入の楽天モバイルは2023年、ローミングエリアでもデータ通信が無制限となる新料金プラン「Rakuten最強プラン」の提供を開始。法人向けの「楽天モバイル法人プラン」を提供して法人需要を本格開拓し始めたほか、さらに新しいプラチナバンドとなる700MHz帯の免許を獲得するなど、好材料をいくつか持つ […]]]></summary>
         <author>
             <name>佐野正弘</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【すき家】ずわい蟹汁【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=236110</id>
-        <link href="https://foodfighter.jp/sukiya-zuwaiganijiru"/>
-        <updated>2024-02-14T20:36:38.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
