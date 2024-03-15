@@ -2024,6 +2024,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391671000.html",
+          "author": null,
+          "description": "ロシア大統領選挙の投票が日本時間の15日から極東地域で始まり、投票は、時差に合わせて順次、西に向かって進みます。プーチン大統領としては、ウクライナ侵攻を含めたこれまでの路線への国民の信任を示すためにも圧倒的な得票で勝利したい考えと見られます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240315/k10014391671000.html",
+          "publishedOn": "2024-03-15T03:01:36.000Z",
+          "wordCount": 479,
+          "title": "ロシア大統領選 極東地域で投票開始 時差に合わせ順次西へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240315/K10014391671_2403151132_0315120138_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240315/k10014391661000.html",
           "author": null,
           "description": "イギリス・イタリアと共同開発を進めている次期戦闘機について、自民・公明両党は輸出先を絞るなどの歯止めを設けて第三国への輸出を容認することで合意しました。",
@@ -7855,6 +7865,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120770/",
+          "author": null,
+          "description": "放送中のテレビアニメ「逃走中 グレートミッション」が、3月17日放送の「新ハンター起動！波乱の新ステージ」から新たなステージに突入することをうけて、新ビジュアルと新キャストが発表された。新たな逃...",
+          "link": "https://anime.eiga.com/news/120770/",
+          "publishedOn": "2024-03-15T03:00:00.000Z",
+          "wordCount": 818,
+          "title": "アニメ「逃走中」新たな逃走者は神谷浩史＆下地紫野　3月17日放送回から新ステージ突入",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120798/",
           "author": null,
           "description": "原作・三木なずな氏、イラスト・かぼちゃ氏によるライトノベル「没落予定の貴族だけど、暇だったから魔法を極めてみた」のアニメ化が決まり、ティザービジュアルとメインスタッフが発表された。 同作は、「小...",
@@ -13183,6 +13208,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2033852.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：朝一から閉店までφ ★：2024/03/14(木) 14:33:10.05 ID:SC8eUxJr9.net\n\n\n\n\n\n\n\n\n\n島耕作の副知事就任は「議会の同意得ていない」　県議が問いただすhttps://t.co/DGvm7TsO2H人気漫画「島耕作」シリーズの島耕作が佐賀県とのコラボ企画の一環で副知事に就任したことに...",
+          "link": "https://itainews.com/archives/2033852.html",
+          "publishedOn": "2024-03-15T03:01:18.000Z",
+          "wordCount": 2328,
+          "title": "【佐賀】 島耕作の副知事就任は「議会の同意得ていない」　県議が問いただす",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/e/6e77381d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2033851.html",
           "author": "yonepo665sfr",
@@ -19735,16 +19770,6 @@
           "publishedOn": "2024-02-15T10:00:02.000Z",
           "wordCount": null,
           "title": "【有吉の壁】2月21日水曜よる７時〜▼もうすぐ５年目！厳選ネ夕を大放出壁芸人グランプリ！！【予告】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4xDnrzxjddU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4xDnrzxjddU",
-          "publishedOn": "2024-02-14T15:08:56.000Z",
-          "wordCount": null,
-          "title": "【有吉の壁LIVE】今夜7時開演！新曲予習＆KOUGU維新復習ループ配信【視聴チケット発売中】",
           "imageUrl": null
         }
       ]
