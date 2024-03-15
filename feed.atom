@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T22:38:12.882Z</updated>
+    <updated>2024-03-15T22:50:11.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -42,6 +42,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392841000.html"/>
         <updated>2024-03-15T21:11:29.000Z</updated>
         <summary type="html"><![CDATA[北陸新幹線の金沢・敦賀間が16日開業し、まもなく、福井県の敦賀駅から東京駅に向かう最初の列車が出発します。16日から「北陸応援割」も始まり、観光需要の喚起へとつながるか注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7デジタル相会合 半導体供給網で情報交換の仕組み立ち上げへ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392541000.html"/>
+        <updated>2024-03-15T21:04:04.000Z</updated>
+        <summary type="html"><![CDATA[イタリアでG7＝主要7か国の産業・技術・デジタル相会合が開かれ、重要性が増している半導体のサプライチェーン＝供給網が寸断された場合の対応策などを各国の間で情報交換する仕組みを新たに立ち上げることなどで合意しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
