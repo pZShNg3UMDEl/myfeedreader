@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T19:10:30.247Z</updated>
+    <updated>2024-03-16T19:20:27.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“世界最大”インド総選挙 来月から投票開始 6月4日に一斉開票]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393331000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393331000.html"/>
+        <updated>2024-03-16T19:14:26.000Z</updated>
+        <summary type="html"><![CDATA[有権者が10億人近くにのぼり、世界最大の選挙と言われるインドの総選挙は、4月から地域ごとに順次、投票が行われ6月4日に一斉に開票されることになりました。3期目を目指すモディ首相の与党が議席数をどれだけ伸ばせるかが焦点です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厚労省 ジェネリック使用割合 金額ベースで65％以上を目標に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393311000.html"/>
+        <updated>2024-03-16T19:08:00.000Z</updated>
+        <summary type="html"><![CDATA[厚生労働省は医療費の抑制に向けて、価格が安い後発医薬品、いわゆるジェネリックの使用割合を、金額ベースで65％以上に引き上げるとする新たな目標を決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[競泳 パリ五輪 代表選考大会 きょう開幕【1日目の見どころ】]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240317/k10014392731000.html</id>
