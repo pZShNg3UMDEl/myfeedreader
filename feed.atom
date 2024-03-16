@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T06:36:25.483Z</updated>
+    <updated>2024-03-16T06:50:12.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 キム総書記 軍のパラシュート部隊の訓練視察]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014393011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014393011000.html"/>
+        <updated>2024-03-16T06:40:16.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮のキム・ジョンウン（金正恩）総書記は、軍のパラシュート部隊による訓練を視察しました。キム総書記による軍の訓練の視察はこの2週間で4回目で、アメリカや韓国などに対抗する姿勢を改めて示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島港 仮設の桟橋設置作業 岸壁隆起で漁ができない状態]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240316/k10014393031000.html</id>
