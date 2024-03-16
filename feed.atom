@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T15:21:22.587Z</updated>
+    <updated>2024-03-16T15:35:57.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -23996,16 +23996,6 @@ In consumer cameras, noise typically results in grainy images, often associated 
         <summary type="html"><![CDATA[1: 2024/02/15(木) 06:49:16.35 ID:WC8qqVoP0 Brotato  […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、開発環境Xcodeに生成AIコーディング＆テスト機能を導入か]]></title>
-        <id>https://gadget.phileweb.com/?p=69104</id>
-        <link href="https://gadget.phileweb.com/post-69104/"/>
-        <updated>2024-02-16T03:24:08.000Z</updated>
-        <summary type="html"><![CDATA[アップルは生成AI機能を開発中であり、次期「iOS 18」や音声アシスタントSiriの強化版などに組み込むと噂されている。その成果の1つとして、開発環境XcodeのコーディングとテストをAIにより効率化するアップデートが「完成に近づいている」と米Bloombergが報じている。 アップルの内情に詳し […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
