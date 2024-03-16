@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T06:15:19.637Z</updated>
+    <updated>2024-03-16T06:36:25.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島港 仮設の桟橋設置作業 岸壁隆起で漁ができない状態]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014393031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014393031000.html"/>
+        <updated>2024-03-16T06:27:37.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で海底や岸壁が隆起したため漁ができなくなっている石川県の輪島港で、仮設の桟橋を設置する作業が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】柚子胡椒で食べる豚もやし鍋【新作コンビニ惣菜】]]></title>
         <id>https://foodfighter.jp/?p=239271</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[1: 2024/03/15(金) 08:41:01.97 ID:qynqQOCud キラーマシン & […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR京葉線 朝と夕方以降の快速が各駅停車に 再検討求める声も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392971000.html"/>
+        <updated>2024-03-16T05:32:25.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本の各線では16日、一斉にダイヤ改正が行われ、千葉市内と東京駅を結ぶ京葉線では早朝の2本を除いて朝と夕方以降の時間帯の快速が各駅停車に変更されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
