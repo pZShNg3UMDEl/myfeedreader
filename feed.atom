@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T02:26:44.882Z</updated>
+    <updated>2024-03-16T02:37:26.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マクドナルド 全国のほぼ全店舗で営業再開 スマホ注文も可能に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392951000.html"/>
+        <updated>2024-03-16T02:30:36.000Z</updated>
+        <summary type="html"><![CDATA[大手ハンバーガーチェーンの日本マクドナルドでは15日、システム障害が発生し、営業を取りやめる店舗が相次ぎましたが、会社によりますと全国のほぼすべての店舗で営業を再開したということです。スマートフォンを通じた注文や宅配サービスも利用できるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア大統領選 一方的な併合宣言地域での実施を各国非難]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240316/k10014392891000.html</id>
