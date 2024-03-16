@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T21:35:30.577Z</updated>
+    <updated>2024-03-16T21:50:22.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米東部 26歳男が義理の母親や妹など3人射殺 住宅に立てこもり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393451000.html"/>
+        <updated>2024-03-16T21:45:41.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ東部で3人が射殺され、容疑者の男が車を奪って逃走した末に住宅に立てこもる事件がありました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【地震速報】福島県で震度4 津波の心配なし]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240317/k10014393461000.html</id>
