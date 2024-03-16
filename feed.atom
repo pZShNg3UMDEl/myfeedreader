@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T02:10:39.074Z</updated>
+    <updated>2024-03-16T02:26:44.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア大統領選 一方的な併合宣言地域での実施を各国非難]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392891000.html"/>
+        <updated>2024-03-16T02:10:22.000Z</updated>
+        <summary type="html"><![CDATA[ロシアがウクライナへの軍事侵攻によって一方的に併合を宣言した地域でもロシアの大統領選挙だとする活動が行われていることについて、日本やアメリカなど55か国以上が共同声明を発表し「国際法上、何の効力も持たない」とロシアを強く非難しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USスチール買収計画否定めぐり 米高官“日米関係損なわず”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240316/k10014392871000.html</id>
