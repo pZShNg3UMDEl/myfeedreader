@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T13:13:52.729Z</updated>
+    <updated>2024-03-16T13:23:52.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -101,6 +101,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240316/k10014393231000.html"/>
         <updated>2024-03-16T11:52:27.000Z</updated>
         <summary type="html"><![CDATA[3月2日に鳥取県の大山で起きた雪崩に巻き込まれ、行方がわからなくなっている男性2人の捜索に当たっていた警察などは、16日、山の中腹で、意識不明の男性1人を発見しました。男性は行方が分からなくなっていた52歳の会社役員で、その後、死亡が確認され、警察は17日も残りの1人の行方を捜索することにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[競泳 パリ五輪代表選考大会17日開幕 池江「自分の力出したい」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014393181000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014393181000.html"/>
+        <updated>2024-03-16T11:11:02.000Z</updated>
+        <summary type="html"><![CDATA[競泳のパリオリンピックの代表選考を行う大会が、17日に開幕するのを前に会場で選手たちが練習を行い、3大会連続のオリンピック出場を目指す池江璃花子選手は、「パリに行くことを一番の目標として自分の力を出したい」と意気込みを話しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
