@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T12:24:03.967Z</updated>
+    <updated>2024-03-16T12:45:16.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平や山本由伸 ドジャース選手が韓国の試合会場で調整]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014393401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014393401000.html"/>
+        <updated>2024-03-16T12:24:39.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースとパドレスの選手たちが韓国・ソウルで行われる開幕シリーズを前に試合会場で調整を行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swich2が延期したらしいので、Swichで移植･リマスターしてほしい任天堂タイトル書いてけ]]></title>
         <id>https://switchsoku.com/?p=99262</id>
