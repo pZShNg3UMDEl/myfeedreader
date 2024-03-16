@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T09:35:24.158Z</updated>
+    <updated>2024-03-16T09:50:35.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIが詐欺師に!? チャットサービス悪用の新手口 被害も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014392991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014392991000.html"/>
+        <updated>2024-03-16T09:42:55.000Z</updated>
+        <summary type="html"><![CDATA[“親愛なる店主 20000ドルはいつ払うことができますか”支払いを促してきたのは、AIでした。個人情報を盗み取るフィッシングサイトや安く商品を買えると見せかけてお金をだましとる偽のショッピングサイトなど、さまざまな詐欺サイトが登場しています。こうした中、AIのチャットサービスを悪用した偽のショッピングサイトが相次いで見つかりました。最新の“AI詐欺”の実態を追いました。（デジタルでだまされない取材班 /記者 絹川千晴 内田知樹）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア大統領選2日目 各地の投票所で反発とみられる動き相次ぐ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240316/k10014393171000.html</id>
