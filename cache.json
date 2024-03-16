@@ -334,16 +334,6 @@
           "wordCount": 2742,
           "title": "「3D NANDの進化」に必要な要素とは ―― 電子版2024年2月号",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/16/mm220117_denshiban01_w490.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/16/news073.html",
-          "author": null,
-          "description": "アンリツは、ラジオコミュニケーションテストステーション「MT8000A」向けのソフトウェアオプションとして、「NR Licensed 6GHz Band Measurement MX800010A-014」を発売した。5G（第5世代移動通信） FR1対応デバイスにおける、6GHz帯のRF試験に対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/16/news073.html",
-          "publishedOn": "2024-02-16T00:00:00.000Z",
-          "wordCount": 2652,
-          "title": "5G FR1対応デバイスの6GHz帯RF試験ソフト",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/16/cover_news073.jpg"
         }
       ]
     },
@@ -2023,6 +2013,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240316/k10014393231000.html",
+          "author": null,
+          "description": "3月2日に鳥取県の大山で起きた雪崩に巻き込まれ、行方がわからなくなっている男性2人の捜索に当たっていた警察などは、16日、山の中腹で、意識不明の男性1人を発見しました。男性は行方が分からなくなっていた52歳の会社役員で、その後、死亡が確認され、警察は17日も残りの1人の行方を捜索することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240316/k10014393231000.html",
+          "publishedOn": "2024-03-16T11:52:27.000Z",
+          "wordCount": 633,
+          "title": "鳥取 大山で男性1人発見 死亡確認 雪崩に巻き込まれた1人",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240316/K10014393231_2403161843_0316205229_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240316/k10014393211000.html",
           "author": null,
@@ -6021,6 +6021,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99262",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/12(火) 19:16:39.95 ID:Xzo6Sazs0 はい &nbsp […]",
+          "link": "https://switchsoku.com/soft/99262",
+          "publishedOn": "2024-03-16T12:00:27.000Z",
+          "wordCount": 10078,
+          "title": "Swich2が延期したらしいので、Swichで移植･リマスターしてほしい任天堂タイトル書いてけ",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/switch2-1.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99260",
           "author": "SWITCH速報",
           "description": "1: 2024/03/15(金) 20:43:59.925 ID:a7oT1UTH0 3をクリアした […]",
@@ -8369,16 +8379,6 @@
           "wordCount": 10071,
           "title": "ファミ通「MSがHi-Fi Rush、Pentiment、Sea of Thieves、GroundedのPS/Switchへの展開を発表」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/hi-fi-rush-switch.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98198",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/15(木) 12:12:24.21 ID:6Lm8qvam0 #ファミコン国民 […]",
-          "link": "https://switchsoku.com/ds/98198",
-          "publishedOn": "2024-02-16T00:00:19.000Z",
-          "wordCount": 10021,
-          "title": "ファミコン国民投票「パッケージがよかった」といえば？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/07/fc-touhytou.webp"
         }
       ]
     },
@@ -8574,6 +8574,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120766/",
+          "author": null,
+          "description": "テレビアニメ「ダンジョンに出会いを求めるのは間違っているだろうかV」（略称「ダンまち」）の放送時期が今秋に決定し、サブタイトルが「豊穣の女神篇」となることもわかった。 世界累計発行部数1700万...",
+          "link": "https://anime.eiga.com/news/120766/",
+          "publishedOn": "2024-03-16T12:00:00.000Z",
+          "wordCount": 811,
+          "title": "「ダンジョンに出会いを求めるのは間違っているだろうか」第5期「豊穣の女神篇」が今秋放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120804/",
           "author": null,
@@ -12571,6 +12586,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=239323",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年3月9日から3月15日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全5種類）を美味しい・おすすめ順に […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0316",
+          "publishedOn": "2024-03-16T11:57:11.000Z",
+          "wordCount": 1797,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年3月9日から3月15日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/84b6b5a33f05b6762f263e67bccf591b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=239301",
           "author": "foodfighter",
@@ -20434,16 +20459,6 @@
           "wordCount": 1401,
           "title": "毛繕いを嫌がる子猫を無理やり押さえつけてバトル寸前のお母さん猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68559.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68591",
-          "author": "299",
-          "description": "ダンボール箱の寝床のなかで見事なヘソ天でお腹を上にして爆睡しているのは子育て疲れでへとへとなお母さん猫です。 お母さん猫にぴったり寄り添うようにして一緒に寝ているのが可愛いひとりっ子です。母子でぐっすりと寝ている平和な時...\n爆睡しているママ猫と子猫の姿に癒されます first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68591",
-          "publishedOn": "2024-02-16T00:00:54.000Z",
-          "wordCount": 1398,
-          "title": "爆睡しているママ猫と子猫の姿に癒されます",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68591.jpg"
         }
       ]
     },
