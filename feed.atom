@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T09:21:38.929Z</updated>
+    <updated>2024-03-16T09:35:24.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア大統領選2日目 各地の投票所で反発とみられる動き相次ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240316/k10014393171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240316/k10014393171000.html"/>
+        <updated>2024-03-16T09:27:17.000Z</updated>
+        <summary type="html"><![CDATA[ロシアでは、プーチン大統領が通算5期目を目指す大統領選挙の2日目の投票が行われています。各地の投票所では、放火や投票箱に染料を流し込むなど、選挙への反発とみられる動きが相次ぎ、最終日の17日には、反体制派が抗議の意思を示す行動を呼びかけているため、政権側は警戒を強めているものとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次の持続性の高いタンパク源はニシキヘビ　良かったなあお前ら蛇が食えるぞ]]></title>
         <id>https://itainews.com/archives/2033887.html</id>
