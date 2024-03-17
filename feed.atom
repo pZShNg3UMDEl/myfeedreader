@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T08:14:32.263Z</updated>
+    <updated>2024-03-17T08:26:19.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -45,6 +45,16 @@
         <summary type="html"><![CDATA[1: 2024/03/13(水) 10:31:32.739 ID:Gl58QgIC0 くっそ楽しいじ […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中田英寿さんら珠洲でがれき撤去 能登半島地震の復旧活動支援]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393761000.html"/>
+        <updated>2024-03-17T07:38:32.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震からの復旧活動を支援しようとサッカー元日本代表の中田英寿さんらが石川県珠洲市を訪れ、小型のショベルカーを操作するなどしてがれき撤去の作業にあたりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
