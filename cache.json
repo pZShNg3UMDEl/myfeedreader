@@ -6121,6 +6121,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99272",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/16(土) 23:35:09.84 ID:8SSh8t5K0 ユニコーンオーバ […]",
+          "link": "https://switchsoku.com/soft/99272",
+          "publishedOn": "2024-03-17T00:00:15.000Z",
+          "wordCount": 10154,
+          "title": "『トライアングルストラテジー』か『タクティクスオウガリボーン』買おうと思うけどどっちがオススメ？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/02/EugTgKnVEAsbUx-1.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=99269",
           "author": "SWITCH速報",
           "description": "1: 2024/03/16(土) 15:05:09.93 ID:e7++e82H0 レースゲームシリ […]",
@@ -8439,16 +8449,6 @@
           "wordCount": 10084,
           "title": "『プリンセスピーチ Show time!』はUnreal Engineが使用されている模様",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/princess-peacg-showtime.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98229",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/16(金) 19:36:07.69 ID:qWtfzzVfd はやすぎる ここ […]",
-          "link": "https://switchsoku.com/soft/splatoon3/98229",
-          "publishedOn": "2024-02-16T12:00:34.000Z",
-          "wordCount": 10027,
-          "title": "『スプラトゥーン3 サーモンラン』もう最後の追加ステージ",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2022/10/splatoon3-salmonrun.webp"
         }
       ]
     },
@@ -8644,6 +8644,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120814/",
+          "author": null,
+          "description": "テレビアニメ「わんだふるぷりきゅあ！」の劇場版「わんだふるぷりきゅあ！ざ・むーびー！」が、9月13日に公開されることが分かった。あわせてティザービジュアルと特報映像が披露されている。 2月4日に...",
+          "link": "https://anime.eiga.com/news/120814/",
+          "publishedOn": "2024-03-17T00:00:00.000Z",
+          "wordCount": 775,
+          "title": "映画「わんだふるぷりきゅあ！」9月13日公開　ティザービジュアル＆特報披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120723/",
           "author": null,
@@ -11657,21 +11672,6 @@
           "publishedOn": "2024-02-17T01:00:00.000Z",
           "wordCount": 767,
           "title": "「転生悪女の黒歴史」TVアニメ化決定　中学時代に書いた自作小説の世界に転生",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120609/",
-          "author": null,
-          "description": "テレビアニメ「デート・ア・ライブ V」の放送が4月にスタートすることが決定し、オープニング主題歌を富田美憂、エンディング主題歌を声優ユニット「sweet ARMS」が担当することが明らかになった...",
-          "link": "https://anime.eiga.com/news/120609/",
-          "publishedOn": "2024-02-16T12:00:00.000Z",
-          "wordCount": 873,
-          "title": "「デート・ア・ライブ V」4月放送開始、最新PV公開　主題歌は富田美憂＆「sweet ARMS」",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -20394,16 +20394,6 @@
           "wordCount": 1398,
           "title": "狭いところに隠れた子猫を必死に出て来させようとするママ猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68583.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68579",
-          "author": "299",
-          "description": "猫のまるちゃんがダンボールの上に寝そべりながら太いしっぽでタンバリンをテンポよく叩いています。 なかなかのリズム感ですね。しっぽが太めなので、タンバリンからは力強い音が出ています。 タンバリンの次はカエルの形のカスタネッ...\n楽しすぎる猫たちの演奏会 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68579",
-          "publishedOn": "2024-02-16T13:00:24.000Z",
-          "wordCount": 1404,
-          "title": "楽しすぎる猫たちの演奏会",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68579.jpg"
         }
       ]
     },
