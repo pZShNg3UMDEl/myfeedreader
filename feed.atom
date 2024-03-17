@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T03:50:19.122Z</updated>
+    <updated>2024-03-17T04:15:29.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“江戸時代前期の源氏物語”は2500万円 希少古書 販売イベント]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393601000.html"/>
+        <updated>2024-03-17T04:03:48.000Z</updated>
+        <summary type="html"><![CDATA[国内外の古書店が集まって貴重な書籍や歴史資料などを販売するイベントが東京・有楽町で開かれています。（イベントは17日午後4時までです）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch版『原神』ページが消える。開発中止か！？]]></title>
+        <id>https://switchsoku.com/?p=99284</id>
+        <link href="https://switchsoku.com/gossip/99284"/>
+        <updated>2024-03-17T04:00:03.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/03/16(土) 19:30:40.59 ID:9W5H6 https://gens […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一部で断水解消も住宅等で水漏れ 大部分は依然断水 石川 珠洲]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240317/k10014393571000.html</id>
@@ -23919,16 +23939,6 @@ In consumer cameras, noise typically results in grainy images, often associated 
 しっぽで子猫を遊ばせる猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カタログチケットの期限が近づいているんだが…]]></title>
-        <id>https://switchsoku.com/?p=98237</id>
-        <link href="https://switchsoku.com/soft/98237"/>
-        <updated>2024-02-16T16:15:11.000Z</updated>
-        <summary type="html"><![CDATA[1: 2024/02/16(金) 16:29:07.37 ID:tLD11Oyl0 何かオススメソフ […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
         </author>
     </entry>
 </feed>
