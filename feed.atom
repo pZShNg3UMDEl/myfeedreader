@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T09:21:53.133Z</updated>
+    <updated>2024-03-17T09:35:32.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア大統領選開票へ 反対派は抗議呼びかけ 政権側警戒強める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393791000.html"/>
+        <updated>2024-03-17T09:28:39.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの大統領選挙は17日、最終日の投票が始まり、日本時間の18日未明に締め切られ、開票が始まります。一方、反対派は現地時間の17日正午にあわせて抗議の意思を示すよう呼びかけていて、政権側は警戒を強めているとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【円安破綻】輸入タイヤ販売会社、「寝耳に水」の破産　急成長で綻び]]></title>
         <id>https://itainews.com/archives/2033915.html</id>
