@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T13:15:48.951Z</updated>
+    <updated>2024-03-17T13:35:31.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪の「蓬莱」豚まん一部にビニール片混入 回収など進める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393991000.html"/>
+        <updated>2024-03-17T13:15:08.000Z</updated>
+        <summary type="html"><![CDATA[大阪 浪速区にある豚まんなどの製造販売会社「蓬莱」は、16日と17日販売した豚まんの一部に、ビニール片が混入したと発表しました。会社は現在、販売した豚まんの回収やあんの廃棄を進めていて、これまでに9人の客から混入の連絡があったということですが、今のところ健康被害に関する情報はないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【北海道】「男性店員ばかり対応に不満」と供述…セイコーマート店員殺傷事件で]]></title>
         <id>https://itainews.com/archives/2033918.html</id>
@@ -24146,16 +24156,6 @@ Return to Conference List index]]></summary>
         <summary type="html"><![CDATA[1: 2024/02/13(火) 22:57:02.54 ID:fYkIZssQd ガチで &nbs […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勉強会]]></title>
-        <id>https://logipara.com/?p=9536</id>
-        <link href="https://logipara.com/diary-text/2024-02-17"/>
-        <updated>2024-02-17T01:26:01.000Z</updated>
-        <summary type="html"><![CDATA[アニメを見ていると、よく 「テスト近いし、○○の家で勉強会しよ（はぁと）」 みたいな展開ありますけど、あれ現実にあります？？みなさん、勉強会ってしたことあります？？私はないですよ？？あれフィクションですよね？？そんな甘酸 […]]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
         </author>
     </entry>
 </feed>
