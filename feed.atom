@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T20:23:20.689Z</updated>
+    <updated>2024-03-17T20:35:33.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民執行部 政治資金問題 関係議員の処分 具体的検討急ぐ方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014393951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014393951000.html"/>
+        <updated>2024-03-17T20:33:02.000Z</updated>
+        <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる問題で、自民党執行部は岸田総理大臣の指示を受けて関係議員の処分に向けた具体的な検討を急ぐ方針です。対象となる議員は一律の処分とせず、派閥幹部には、責任の重さを考慮して、できるかぎり厳格な対応を取りたい考えです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[環境省 PFASの健康影響 北海道大学など3グループに研究委託]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240318/k10014393941000.html</id>
@@ -24073,16 +24083,6 @@ GACKT、仮想通貨“暴落”で猛バッシング受けた過去「詐欺と
         <summary type="html"><![CDATA[こんにちは、ももこ＠あつらぼです。 今回は開店情報です！ 情報提供をいただきありがとうございます♡ 「サンドラッグ　アツギトレリス店」がこの春にオープン予定だそう♪ 「サンドラッグ　アツギトレリス店」場所は厚木市戸室。本厚木駅周辺から車で1…]]></summary>
         <author>
             <name>comomo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カプコン「逆転裁判123 成歩堂セレクション」累計300万本突破！]]></title>
-        <id>https://switchsoku.com/?p=98253</id>
-        <link href="https://switchsoku.com/gyakutensaiban/98253"/>
-        <updated>2024-02-17T08:30:28.000Z</updated>
-        <summary type="html"><![CDATA[1: 2024/02/17(土) 10:13:42.56 ID:SwLxy3tf0 https:// […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
         </author>
     </entry>
 </feed>
