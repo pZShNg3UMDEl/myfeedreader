@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T05:13:01.155Z</updated>
+    <updated>2024-03-17T05:28:09.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 四川省 “パンダが生息”地域で山火事 3000人以上が避難]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393651000.html"/>
+        <updated>2024-03-17T05:13:22.000Z</updated>
+        <summary type="html"><![CDATA[中国内陸部の四川省のジャイアントパンダも生息しているとされる地域で大規模な山火事が発生し、これまでに3000人以上が避難しているほか、希少な野生動物への影響も懸念されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四国犬が男女噛んだ事件 飼い主「狂犬病の予防注射も犬の体に悪い影響を与えるので受けさせなかった」]]></title>
         <id>https://itainews.com/archives/2033912.html</id>
@@ -23943,19 +23953,6 @@ Return to Conference List index]]></summary>
 キスをされるとメロメロになってしまう猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semiconductor Engineering article about noise in CMOS image sensors]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html"/>
-        <updated>2024-02-16T17:28:00.001Z</updated>
-        <summary type="html"><![CDATA[Semiconductor Engineering published an article on dealing with noise in CMOS image sensors: https://semiengineering.com/dealing-with-noise-in-image-sensors/
-Dealing With Noise In Image Sensors
-The expanding use and importance of image sensors in safety-critical applications such as automotive and medical devices has transformed noise from an annoyance into a life-threatening problem that requires a real-time solution.
-In consumer cameras, noise typically results in grainy images, often associated with poor lighting, the speed at which an image is captured, or a faulty sensor. Typically, that image can be cleaned up afterward, such as reducing glare in a selfie. But in cars, glare in an ADAS image system can affect how quickly the brakes are applied. And in vehicles or medical devices, syst…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>

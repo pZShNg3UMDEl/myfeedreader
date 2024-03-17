@@ -1918,16 +1918,6 @@
           "wordCount": 3868,
           "title": "Conference List - July 2024",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html",
-          "author": null,
-          "description": "Semiconductor Engineering published an article on dealing with noise in CMOS image sensors: https://semiengineering.com/dealing-with-noise-in-image-sensors/\nDealing With Noise In Image Sensors\nThe expanding use and importance of image sensors in safety-critical applications such as automotive and medical devices has transformed noise from an annoyance into a life-threatening problem that requires a real-time solution.\nIn consumer cameras, noise typically results in grainy images, often associated with poor lighting, the speed at which an image is captured, or a faulty sensor. Typically, that image can be cleaned up afterward, such as reducing glare in a selfie. But in cars, glare in an ADAS image system can affect how quickly the brakes are applied. And in vehicles or medical devices, syst…",
-          "link": "http://image-sensors-world.blogspot.com/2024/02/semiconductor-engineering-article-about.html",
-          "publishedOn": "2024-02-16T17:28:00.001Z",
-          "wordCount": 6618,
-          "title": "Semiconductor Engineering article about noise in CMOS image sensors",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXtBUpo-ZfWFuNXfmwT4tLoNVtzIUyISrsFSfSUYFuG8WwSHl9nJ_O6eHKWkNSkAcALHQAzLoVqVPhX9xYYVi7NqcWpuIVZdC_RrHb-C6lgrgwq77ihZJtAiuz_Xr0McDa6-5IKThfH4sPnBLv-Cn8dk8JnW-ZpJ8XgQtDhMq3iwOvEikAwrQ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -1953,6 +1943,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240317/k10014393651000.html",
+          "author": null,
+          "description": "中国内陸部の四川省のジャイアントパンダも生息しているとされる地域で大規模な山火事が発生し、これまでに3000人以上が避難しているほか、希少な野生動物への影響も懸念されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240317/k10014393651000.html",
+          "publishedOn": "2024-03-17T05:13:22.000Z",
+          "wordCount": 553,
+          "title": "中国 四川省 “パンダが生息”地域で山火事 3000人以上が避難",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240317/K10014393651_2403171358_0317141254_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240317/k10014393631000.html",
           "author": null,
