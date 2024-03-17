@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T06:36:14.913Z</updated>
+    <updated>2024-03-17T06:50:37.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[離れ離れでも“SNS活用して集落のつながりを”  石川 輪島]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240317/k10014393701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240317/k10014393701000.html"/>
+        <updated>2024-03-17T06:46:49.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震では、被災した多くの人が慣れ親しんだ土地を離れ、それぞれの避難先での生活を余儀なくされています。被害の大きさから今後、ふるさとには戻らず転居を検討せざるをえない人もいる中、石川県輪島市の集落では、離れ離れになってもSNSを活用して近況を伝え合いつながりを保っていこうという動きがあります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[彼岸の入り 震災で家族亡くした人たちなどが墓参り 岩手 宮古]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240317/k10014393691000.html</id>
