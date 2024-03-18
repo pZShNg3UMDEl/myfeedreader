@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T07:35:53.153Z</updated>
+    <updated>2024-03-18T07:50:27.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大相撲 元幕内の照強が引退 動きのよさや塩まきで土俵沸かす]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014394551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014394551000.html"/>
+        <updated>2024-03-18T07:38:20.000Z</updated>
+        <summary type="html"><![CDATA[大相撲の幕内経験者で、小兵ならではの動きのよさや豪快な塩まきで土俵を沸かせた照強が引退することになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校野球 石川の星稜が田辺に勝利 2回戦に進む]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240318/k10014394521000.html</id>
