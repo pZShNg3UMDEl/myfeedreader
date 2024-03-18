@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T13:14:19.108Z</updated>
+    <updated>2024-03-18T13:25:29.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バドミントン 山口茜 「シダマツ」ペアらがパリ五輪出場確実へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014394961000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014394961000.html"/>
+        <updated>2024-03-18T13:23:01.000Z</updated>
+        <summary type="html"><![CDATA[バドミントンの全英オープンでともに準優勝した女子シングルスの山口茜選手や、女子ダブルスの志田千陽選手と松山奈未選手のペアなどが、パリオリンピックの出場を確実にしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“パキスタンが空爆8人死亡”とタリバンが発表 関係の悪化懸念]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014394971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014394971000.html"/>
+        <updated>2024-03-18T13:21:27.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンで実権を握るイスラム主義勢力タリバンは、隣国のパキスタンが越境して空爆を行い、8人が死亡したと発表しました。パキスタン側は、過激派組織がアフガニスタンを拠点に国内でテロ活動を行っていると主張していて、関係の悪化が懸念されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドジャース 開幕シリーズを前に韓国代表と試合 大谷は無安打]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240318/k10014395101000.html</id>
