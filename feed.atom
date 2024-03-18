@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T22:12:30.359Z</updated>
+    <updated>2024-03-18T22:27:12.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルとハマス 協議再開の見通しも ガザ地区で飢きん迫る]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395281000.html"/>
+        <updated>2024-03-18T21:46:04.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの戦闘休止などをめぐる交渉に向け、イスラエルの交渉団が18日、カタールに到着し、協議が再開される見通しです。一方、ガザ地区では深刻な食料不足から飢きんが迫っていると指摘され、国連は一刻も早い停戦を求めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北朝鮮 “超大型ロケット砲の一斉発射訓練 きのう実施”発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014395321000.html</id>
