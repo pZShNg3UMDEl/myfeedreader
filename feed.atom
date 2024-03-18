@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T10:39:57.486Z</updated>
+    <updated>2024-03-18T10:50:26.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政治資金問題 首相 “議員処分に加え再発防止策具体化も加速”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014394701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014394701000.html"/>
+        <updated>2024-03-18T10:40:47.000Z</updated>
+        <summary type="html"><![CDATA[国会は参議院予算委員会で集中審議が行われ、自民党の派閥の政治資金パーティーをめぐる問題で、岸田総理大臣は関係議員の処分に加え、再発防止策の具体化も加速する必要があるという考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア大統領選 プーチン大統領が90％近い得票率で圧勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014394741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014394741000.html"/>
+        <updated>2024-03-18T10:40:04.000Z</updated>
+        <summary type="html"><![CDATA[17日まで投票が行われたロシアの大統領選挙は、プーチン大統領が90％近い得票率で圧勝しました。一夜明けた18日は、ロシアがウクライナ南部クリミアを一方的に併合して10年となり、プーチン大統領はクリミアの支配を誇示し、ウクライナ侵攻を進める姿勢を改めて強調するとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PS5 Pro、2024年のクリスマス商戦に投入のうわさ]]></title>
         <id>https://gadget.phileweb.com/?p=72045</id>
