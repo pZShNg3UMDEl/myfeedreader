@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T21:13:22.281Z</updated>
+    <updated>2024-03-18T21:23:00.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民 下村氏が政治倫理審査会出席 野党 追及強める方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395121000.html"/>
+        <updated>2024-03-18T21:19:25.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、安倍派の下村・元政務調査会長が政治倫理審査会に出席しました。野党側は、これまでの出席者と同様に実態解明につながらなかったとして、派閥幹部の証人喚問の実現を求めるなど追及を強めていく方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スカーフめぐり逮捕の女性が死亡 “イラン政府に責任”国連]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014395291000.html</id>
