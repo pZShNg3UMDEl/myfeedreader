@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T23:24:09.000Z</updated>
+    <updated>2024-03-18T23:35:42.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LAタイムズが大谷翔平の特別版を発行 ドジャース開幕戦を前に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395361000.html"/>
+        <updated>2024-03-18T23:30:39.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの新聞、ロサンゼルス・タイムズは、大リーグ、ドジャースの開幕戦を前に、大谷翔平選手の特別版を発行し、地元の期待の大きさを伺わせています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米 バイデン大統領 イスラエル首相に高官の派遣を要請]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395351000.html"/>
+        <updated>2024-03-18T23:29:32.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン大統領は、イスラエルのネタニヤフ首相と電話で会談し、イスラエル軍によるガザ地区南部のラファへの地上作戦に懸念を示し、大規模な作戦に代わる計画を協議するため、イスラエルの高官からなるチームをワシントンに派遣するよう要請しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西～東日本 あすにかけ大気不安定 落雷や突風 急な雨に注意を]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014395311000.html</id>
