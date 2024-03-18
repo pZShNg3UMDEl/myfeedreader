@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T22:37:15.324Z</updated>
+    <updated>2024-03-18T22:50:28.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国連安保理 日本主催で閣僚級会合 核軍縮・不拡散テーマに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395031000.html"/>
+        <updated>2024-03-18T22:38:31.000Z</updated>
+        <summary type="html"><![CDATA[国連の安全保障理事会で、今月の議長国、日本が主催して、核軍縮・不拡散をテーマにした閣僚級会合が開かれ、各国から核軍縮の必要性を訴える意見が相次ぐ一方で、核保有国のアメリカとロシアや中国が互いを非難する応酬となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエルとハマス 協議再開の見通しも ガザ地区で飢きん迫る]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014395281000.html</id>
