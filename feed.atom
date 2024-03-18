@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T20:25:20.573Z</updated>
+    <updated>2024-03-18T20:37:35.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国外相 ニュージーランド首相と会談 経済などでの協力強調]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395171000.html"/>
+        <updated>2024-03-18T20:30:41.000Z</updated>
+        <summary type="html"><![CDATA[中国の王毅外相は、訪問先のニュージーランドでラクソン首相らと会談し、経済や人的交流などの分野で協力する考えを強調しました。中国としては、経済力を背景にアメリカと連携するニュージーランドとの関係を構築したいねらいとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「代替食品」開発や販売競争激しく 日本市場に米企業の参入も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014395001000.html</id>
