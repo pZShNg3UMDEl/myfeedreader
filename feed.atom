@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T11:11:20.619Z</updated>
+    <updated>2024-03-18T11:21:19.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルとハマスの戦闘休止など交渉再開見通しも予断許さず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014394681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014394681000.html"/>
+        <updated>2024-03-18T11:13:55.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスとの間の戦闘休止などに向けた交渉は、中東のカタールで18日にも再開する見通しとなっています。一方で、イスラエル軍は、ガザ地区最大のシファ病院で軍事作戦を行い、数十人が死傷したと伝えられるなど、人道状況が改善しない中、交渉が進展するかは予断を許さない状況です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【音楽】Novelbright竹中「シンプルにムカつきました」ライブ中のファンの行動指摘「座って下向いて…」]]></title>
         <id>https://itainews.com/archives/2033940.html</id>
