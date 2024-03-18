@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T09:37:17.342Z</updated>
+    <updated>2024-03-18T09:50:24.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[伊集院静さんのお別れの会 親交のあった人たちが別れ惜しむ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014394641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014394641000.html"/>
+        <updated>2024-03-18T09:30:08.000Z</updated>
+        <summary type="html"><![CDATA[「大人の流儀」シリーズなどで知られる直木賞作家で去年11月に亡くなった伊集院静さんのお別れの会が18日都内で開かれ、親交のあった人たちが別れを惜しみました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強風の影響か 首都高でトラック横転 千葉では「やちぼこり」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240318/k10014394631000.html</id>
