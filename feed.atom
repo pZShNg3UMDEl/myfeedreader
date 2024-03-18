@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T14:28:17.344Z</updated>
+    <updated>2024-03-18T14:38:27.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR山手線 運転見合わせ 内回り・外回りの全線]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240318/k10014395241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240318/k10014395241000.html"/>
+        <updated>2024-03-18T14:29:34.000Z</updated>
+        <summary type="html"><![CDATA[JR山手線は、安全確認のため内回りと外回りの全線で午後11時すぎから運転を見合わせています。JR東日本によりますと今のところ運転再開の見通しは立っていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ファミマ】ラブポーションサーティワン風マカロン【新作スイーツ】]]></title>
         <id>https://foodfighter.jp/?p=239474</id>
