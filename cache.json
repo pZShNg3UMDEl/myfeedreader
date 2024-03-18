@@ -2034,6 +2034,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240318/k10014394801000.html",
+          "author": null,
+          "description": "パリ・ダカール・ラリーで日本人初の総合優勝を果たした山梨県北杜市在住の世界的なラリードライバー、篠塚建次郎さんが、長野県諏訪市の病院で膵臓がんのため亡くなりました。75歳でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240318/k10014394801000.html",
+          "publishedOn": "2024-03-18T11:19:36.000Z",
+          "wordCount": 777,
+          "title": "篠塚建次郎さん 死去 パリ・ダカール・ラリー日本人初総合優勝",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240318/K10014394801_2403181852_0318185314_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240318/k10014394711000.html",
+          "author": null,
+          "description": "KDDIは、国産の生成AIを開発する東京大学発のスタートアップ企業「イライザ」の株式を取得し、子会社化すると発表しました。国内最大規模の国産生成AIの完成を先週発表した企業で、子会社化を通じて企業や自治体向けの事業に新たに参入します。",
+          "link": "http://www3.nhk.or.jp/news/html/20240318/k10014394711000.html",
+          "publishedOn": "2024-03-18T11:15:38.000Z",
+          "wordCount": 682,
+          "title": "KDDI 国産生成AI開発企業を子会社化し企業向けなど事業参入へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240318/K10014394711_2403181805_0318201540_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240318/k10014394681000.html",
           "author": null,
           "description": "イスラエルとイスラム組織ハマスとの間の戦闘休止などに向けた交渉は、中東のカタールで18日にも再開する見通しとなっています。一方で、イスラエル軍は、ガザ地区最大のシファ病院で軍事作戦を行い、数十人が死傷したと伝えられるなど、人道状況が改善しない中、交渉が進展するかは予断を許さない状況です。",
@@ -9374,6 +9394,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120837/",
+          "author": null,
+          "description": "「映画けいおん!」や「映画 聲の形」を手掛けた山田尚子監督最新作「きみの色」の公開日が、2024年8月30日に決定した。3月18日、東京・esports銀座で開催された製作報告会で発表された。あ...",
+          "link": "https://anime.eiga.com/news/120837/",
+          "publishedOn": "2024-03-18T11:30:00.000Z",
+          "wordCount": 815,
+          "title": "山田尚子監督最新作「きみの色」主人公の声優は鈴川紗由、高石あかり、木戸大聖　新垣結衣も参加",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120826/",
           "author": null,
