@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T11:21:16.079Z</updated>
+    <updated>2024-03-19T11:35:57.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛媛 伊方原発 十分な火災対策取られず 検査で誤った説明も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014396091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014396091000.html"/>
+        <updated>2024-03-19T11:28:15.000Z</updated>
+        <summary type="html"><![CDATA[愛媛県の伊方原子力発電所3号機で原子炉に注水するためのポンプなどを動かす電気ケーブルについて、十分な火災対策が取られていなかったことが、原子力規制庁の検査で分かりました。検査の過程では、四国電力が誤った説明をしていたことも分かり、規制庁は今後、改善状況を確認していくと通知しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港 スパイ行為取り締まる「国家安全条例案」 全会一致で可決]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014396301000.html</id>
