@@ -363,6 +363,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72163",
+          "author": "編集部：平山洸太",
+          "description": "XREALは、現在予約受付中のARグラス「XREAL Air 2 Ultra」について、出荷延期となることをアナウンス。予約は99,800円（税込）で受け付けている。 XREAL Air 2 Ultraは、AR開発者向けに設計したという、同社ARグラスの最上位モデル。「3月31日までに出荷開始予定」 […]",
+          "link": "https://gadget.phileweb.com/post-72163/",
+          "publishedOn": "2024-03-19T10:36:51.000Z",
+          "wordCount": 778,
+          "title": "XREAL、ARグラス「XREAL Air 2 Ultra」出荷を5月末まで延期",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/DSC_7250.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72145",
           "author": "Munenori Taniguchi",
           "description": "YouTubeはクリエイター向けの「YouTube Studio」に新しいツールを導入し、リアルなコンテンツ（視聴者が現実の人物、場所、イベントと簡単に間違える可能性のあるコンテンツ）が、生成AIなどにより改変または合成されたメディアで作成された場合、クリエイターが視聴者にその旨を開示することを義務 […]",
@@ -2123,6 +2133,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395991000.html",
+          "author": null,
+          "description": "競泳のパリオリンピックの代表選考を行う“一発勝負”の大会は3日目。混戦が予想される女子400メートル個人メドレーや、5大会連続の出場を目指すベテランの入江陵介選手が出場する男子100メートル背泳ぎなどの注目レースが行われます。最新の情報を速報でお伝えします。NHKではレースの模様を午後7時半から中継するとともに、NHKプラスでも配信しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014395991000.html",
+          "publishedOn": "2024-03-19T10:34:13.000Z",
+          "wordCount": 1358,
+          "title": "【速報中】競泳 パリ五輪 代表選考 入江陵介 5大会連続は？",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014395991_2403191708_0319193125_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014396151000.html",
+          "author": null,
+          "description": "複数のイスラエルメディアは、イスラエルとイスラム組織ハマスの戦闘休止などをめぐる交渉が再開されたと伝えました。一方、イスラエル軍によるガザ地区南部のラファへの地上作戦をめぐっては、イスラエルとアメリカが大規模な作戦に代わる計画を協議することになり、この行方も注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014396151000.html",
+          "publishedOn": "2024-03-19T10:30:46.000Z",
+          "wordCount": 758,
+          "title": "イスラエルとハマス 交渉再開 “約6週間の戦闘休止を目指す”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014396151_2403191824_0319184729_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395951000.html",
+          "author": null,
+          "description": "20日に韓国 ソウルで開幕戦を迎える大リーグ、ドジャースとパドレスの選手たちは試合会場で調整を行いました。開幕投手を務めるパドレスのダルビッシュ有投手がマウンドの感触を念入りに確かめました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014395951000.html",
+          "publishedOn": "2024-03-19T10:28:36.000Z",
+          "wordCount": 549,
+          "title": "ドジャース パドレスと20日に開幕戦 選手が試合会場で調整",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014395951_2403191814_0319181731_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240319/k10014396191000.html",
           "author": null,
@@ -10114,6 +10154,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/120848/",
+          "author": null,
+          "description": "3月15日～17日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、間宮祥太朗と佐藤二朗主演のミステリー「変な家」が首位スタートを切った。 2位は「映画ドラえもん のび太の地球...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/120848/",
+          "publishedOn": "2024-03-19T10:30:00.000Z",
+          "wordCount": 825,
+          "title": "【週末アニメ映画ランキング】「映画ドラえもん」17億円、「劇場版ハイキュー!!」70億円突破、「君たちはどう生きるか」が再ランクイン",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/stage_sugoi/120628/",
           "author": null,
