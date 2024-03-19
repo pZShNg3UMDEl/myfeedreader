@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/19/news043.html",
+          "author": null,
+          "description": "ネクスペリアは、1.8V電子システムの監視、保護向けアナログスイッチ「NMUX1308」「NMUX1309」を発表した。車載向けのAEC-Q100準拠モデルと、家電製品などの民生、産業用途に適した標準モデルをそろえる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/19/news043.html",
+          "publishedOn": "2024-03-19T00:00:00.000Z",
+          "wordCount": 2580,
+          "title": "1.8V電子システムの監視／保護用アナログスイッチ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/19/cover_news043.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/18/news066.html",
           "author": null,
           "description": "キーサイト・テクノロジーは、オシロスコーププローブ「InfiniiMax 4」シリーズを発表した。最大52GHzのブリックウォールおよび40GHzのベッセルトムソンで動作可能だ。",
@@ -2053,6 +2063,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395381000.html",
+          "author": null,
+          "description": "政府は、子どもに接する仕事に就く人に性犯罪歴がないか確認する制度「日本版DBS」を導入するための法案を、19日の閣議で決定しました。犯罪歴を最長で20年照会できることなどが柱となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014395381000.html",
+          "publishedOn": "2024-03-19T00:50:42.000Z",
+          "wordCount": 531,
+          "title": "「日本版DBS」法案を閣議決定 性犯罪歴の照会最長20年などが柱",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014395381_2403190943_0319094610_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395371000.html",
+          "author": null,
+          "description": "天皇皇后両陛下は、今月22日に、能登半島地震で甚大な被害を受けた石川県の輪島市と珠洲市を訪れ、被災した人たちを見舞われることになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014395371000.html",
+          "publishedOn": "2024-03-19T00:20:47.000Z",
+          "wordCount": 528,
+          "title": "両陛下 今月22日に能登半島地震で被害の輪島市と珠洲市訪問へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014395371_2403190915_0319091635_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395361000.html",
           "author": null,
@@ -7181,6 +7211,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99334",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/19(火) 00:26:34.48 ID:uVepxCX80 マリオRPGみた […]",
+          "link": "https://switchsoku.com/square-enix/99334",
+          "publishedOn": "2024-03-19T00:00:00.000Z",
+          "wordCount": 10037,
+          "title": "マリオRPGみたいに任天堂とスクエニが共同開発した完全新作ゲームを作れば名作になるんじゃね？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/06/mario-rpg.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99327",
           "author": "SWITCH速報",
           "description": "1: 2024/03/18(月) 10:07:21.64 ID:NEjiQu7E0 [トピックス]『 […]",
@@ -9479,16 +9519,6 @@
           "wordCount": 9994,
           "title": "なぜ最近は､有機ELモデルがSwitchの中で１番売れているのか？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/07/el-switch.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98302",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/17(土) 18:01:55.25 ID:Rr7Obmdk0 続いての行方不明 […]",
-          "link": "https://switchsoku.com/soft/dragonquest/98302",
-          "publishedOn": "2024-02-18T12:00:44.000Z",
-          "wordCount": 10037,
-          "title": "識者「家庭用のドラクエはSwitchを中心に展開されている」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/04/dq12-logo-2023.webp"
         }
       ]
     },
@@ -12728,21 +12758,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120580/",
-          "author": null,
-          "description": "「Hey! Say! JUMP」の山田涼介が出演する、春配信予定のゲームアプリ「ブルーロック BLAZEBATTLE」の新CM「凪編」が公開中だ。 11月に公開されたCM第1弾からの続投となる山...",
-          "link": "https://anime.eiga.com/news/120580/",
-          "publishedOn": "2024-02-18T12:00:00.000Z",
-          "wordCount": 863,
-          "title": "山田涼介がブラックホールトラップを再現　「ブルーロック BLAZEBATTLE」新CM「凪編」公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -13676,6 +13691,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=239504",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、世界で最も多く展開しているアメリカのピザ宅配チェーン店「ドミノ・ピザ」へ進撃しました。 &nbs […]",
+          "link": "https://foodfighter.jp/dominos-twist",
+          "publishedOn": "2024-03-19T00:14:14.000Z",
+          "wordCount": 1816,
+          "title": "【ドミノ・ピザ】チーズツイストブレッド・ディップ用トマトソース付き【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/582bee5f40acbb678eb35ccde57132e2.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=239474",
           "author": "foodfighter",
@@ -15105,16 +15130,6 @@
           "wordCount": 1904,
           "title": "ロッテ 雪見だいふく PREMIUM とろけるミルク【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/73eed0063de71cd88483f3cc012a094d.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=236455",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年2月11日から2月17日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全7種類）を美味しい・おすすめ順 […]",
-          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0218",
-          "publishedOn": "2024-02-18T12:26:24.000Z",
-          "wordCount": 1911,
-          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年2月11日から2月17日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/d4cb16d083d97f6c7dcdac82a0678f74.jpg"
         }
       ]
     },
