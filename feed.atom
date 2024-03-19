@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T21:10:55.981Z</updated>
+    <updated>2024-03-19T21:23:05.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】イスラエルとハマスが交渉再開 交渉の進展が焦点]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396651000.html"/>
+        <updated>2024-03-19T21:10:15.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの戦闘休止などをめぐる交渉が中東カタールで再開されましたがガザ地区ではイスラエル軍による攻撃が続いていて、人道状況が深刻化するなか、交渉を進展させられるかが焦点です。※イスラエルやパレスチナに関する日本時間3月20日の動きを随時更新してお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NY市場 1ドル＝151円に迫る水準まで一時値下がり]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014396671000.html</id>
@@ -25299,16 +25309,6 @@ Established in 2020, SolidVue focuses on designing SoCs (System-on-Chip) for LiD
         <summary type="html"><![CDATA[シリーズ形式でお届けしている、テレビアニメ「ループ７回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する」のリレーインタビュー。第4回は、第3話にて絵コンテ・演出を担当した境宗久さんに、ダン...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「速すぎる電動アシスト自転車」を抜き打ち検査機で取締り。蘭警察]]></title>
-        <id>https://gadget.phileweb.com/?p=69298</id>
-        <link href="https://gadget.phileweb.com/post-69298/"/>
-        <updated>2024-02-19T09:12:30.000Z</updated>
-        <summary type="html"><![CDATA[オランダ警察は、同国内の電動アシスト自転車の制限速度25km/h、モーター出力250Wを超えてアシストする能力を持つ車両を取り締まるべく、移動式のテストベンチの導入を進めている。 「電動アシスト自転車」は一般的に、ペダルをこいだときにのみモーターによるアシストが加わり、上限速度に達するとアシストが切 […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>

@@ -1831,16 +1831,6 @@
           "wordCount": 767,
           "title": "「第4世代AirPods」「USB-C版AirPods Max」2024年後半に登場か",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_744404125.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=69298",
-          "author": "Munenori Taniguchi",
-          "description": "オランダ警察は、同国内の電動アシスト自転車の制限速度25km/h、モーター出力250Wを超えてアシストする能力を持つ車両を取り締まるべく、移動式のテストベンチの導入を進めている。 「電動アシスト自転車」は一般的に、ペダルをこいだときにのみモーターによるアシストが加わり、上限速度に達するとアシストが切 […]",
-          "link": "https://gadget.phileweb.com/post-69298/",
-          "publishedOn": "2024-02-19T09:12:30.000Z",
-          "wordCount": 746,
-          "title": "「速すぎる電動アシスト自転車」を抜き打ち検査機で取締り。蘭警察",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/dd1.jpg"
         }
       ]
     },
@@ -2073,6 +2063,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014396651000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスの戦闘休止などをめぐる交渉が中東カタールで再開されましたがガザ地区ではイスラエル軍による攻撃が続いていて、人道状況が深刻化するなか、交渉を進展させられるかが焦点です。※イスラエルやパレスチナに関する日本時間3月20日の動きを随時更新してお伝えします。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014396651000.html",
+          "publishedOn": "2024-03-19T21:10:15.000Z",
+          "wordCount": 537,
+          "title": "【随時更新】イスラエルとハマスが交渉再開 交渉の進展が焦点",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014396651_2403200157_0320061017_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240320/k10014396671000.html",
           "author": null,
