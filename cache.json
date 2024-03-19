@@ -363,6 +363,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72145",
+          "author": "Munenori Taniguchi",
+          "description": "YouTubeはクリエイター向けの「YouTube Studio」に新しいツールを導入し、リアルなコンテンツ（視聴者が現実の人物、場所、イベントと簡単に間違える可能性のあるコンテンツ）が、生成AIなどにより改変または合成されたメディアで作成された場合、クリエイターが視聴者にその旨を開示することを義務 […]",
+          "link": "https://gadget.phileweb.com/post-72145/",
+          "publishedOn": "2024-03-19T09:47:57.000Z",
+          "wordCount": 754,
+          "title": "YouTube、「本物そっくり」なAI生成動画にラベル表示を義務付け",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/003-2.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72140",
           "author": "Gadget Gate",
           "description": "日本Xrealは、同社のARグラス「XREAL Air」、および映像ストリーミングデバイス「XREAL Beam」を割引価格で販売する「新生活キャンペーン」を、2024年3月19日から順次開催する。 キャンペーン対象製品は、同社ARグラスの軽量モデル「XREAL Air」単品、およびXREAL Ai […]",
@@ -2113,6 +2123,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014396191000.html",
+          "author": null,
+          "description": "警察と消防によりますと、19日午後3時前、千葉県旭市の公園の中にあるため池で「2歳の男の子が溺れた」と連絡が入りました。男の子は池に浮かんだ状態で見つかり、市内の病院に搬送されましたが、意識不明の重体だということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014396191000.html",
+          "publishedOn": "2024-03-19T09:40:59.000Z",
+          "wordCount": 173,
+          "title": "千葉 公園のため池で“2歳男児溺れた”と連絡 意識不明の重体",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014396191_2403191836_0319184101_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014396211000.html",
+          "author": null,
+          "description": "日銀がマイナス金利政策の解除などを決定したことをめぐり、岸田総理大臣は、政府と日銀が2013年に発表し、2％の物価安定目標を掲げた共同声明は、見直さない考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014396211000.html",
+          "publishedOn": "2024-03-19T09:39:18.000Z",
+          "wordCount": 691,
+          "title": "岸田首相 政府と日銀の共同声明は見直さない考え示す",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014396211_2403191838_0319183920_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240318/k10014394581000.html",
           "author": null,
