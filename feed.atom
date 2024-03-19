@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T19:21:21.030Z</updated>
+    <updated>2024-03-19T19:35:31.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去年1年間の世界の平均気温「観測史上最高に」世界気象機関]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396421000.html"/>
+        <updated>2024-03-19T19:21:53.000Z</updated>
+        <summary type="html"><![CDATA[去年1年間の世界の平均気温は、産業革命の前に比べて1.4度余り上昇し、観測史上、最も高くなったとする報告書をWMO＝世界気象機関がまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大リーグ開幕へ ドジャース大谷 パドレスのダルビッシュ初対戦]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014396461000.html</id>
