@@ -363,6 +363,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72101",
+          "author": "Munenori Taniguchi",
+          "description": "NVIDIA が、Blackwellアーキテクチャーを採用したAI向け新GPU「B200」「GB200」を発表した。 NVIDIAを世界で最も価値のある企業に成長させた立役者の「H100シリーズ」（Hopperアーキテクチャー）に続くAI専用チップのB200は、H100より7～30倍高速で、電力消費 […]",
+          "link": "https://gadget.phileweb.com/post-72101/",
+          "publishedOn": "2024-03-19T04:17:29.000Z",
+          "wordCount": 758,
+          "title": "NVIDIA、Blackwellアーキテクチャー採用のAI向け新GPU「B200」発表",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/blackwell.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72096",
           "author": "多根清史",
           "description": "初めて有機ELディスプレイを採用するiPad Proがまもなく登場と噂されるなか、ディスプレイ関連サプライチェーン調査会社DSCCのCEOであるRoss Young氏は、本製品の顧客への出荷（発売）が4月になると主張している。 これまで3月末～4月という幅のある予想もあったが、遅い方にずれ込む格好で […]",
@@ -2083,6 +2093,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395441000.html",
+          "author": null,
+          "description": "東京株式市場、日経平均株価は午前の取り引きで18日の終値と比べて140円余り値下がりしましたが、日銀がマイナス金利の解除などを決めたことを受け、午後の取り引きでは荒い値動きとなっています。日銀が金融政策決定会合でマイナス金利の解除などを決めたことに対し、市場では金融緩和の環境は続くとの見方から円相場がいくぶん値下がりしたことで、買い注文が増えて株価は値上がりに転じました。ただ、その後は、短時間で再び値下がりに転じ、荒い値動きとなっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014395441000.html",
+          "publishedOn": "2024-03-19T04:28:34.000Z",
+          "wordCount": 558,
+          "title": "株価 マイナス金利解除受け荒い値動き 一時140円余 値下がりも",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014395441_2403191148_0319121038_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395601000.html",
+          "author": null,
+          "description": "深刻な教員不足の解消に向け、文部科学省は教職大学院やほかの大学院で実習などを修了した人を対象に、新年度の採用試験の合格者から奨学金の返還免除を実施することになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014395601000.html",
+          "publishedOn": "2024-03-19T04:13:22.000Z",
+          "wordCount": 675,
+          "title": "教員不足解消へ 教職大学院の修了者など対象 奨学金の返還免除",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014395601_2403191303_0319130409_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395631000.html",
           "author": null,
@@ -21439,16 +21469,6 @@
           "wordCount": 1401,
           "title": "瞬間寝落ちする子猫がカワイイ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68797.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68789",
-          "author": "299",
-          "description": "保護センターから引き取ってきた3ヶ月ぐらいの白い子猫が、新たに加わりました。とても人懐こい子猫で、あっという間に新しい里親さんにも慣れてくれたようです。 この時点ですでに、ずっとのお家が決まっているので、このお家には一時...\n保護センターから引き出してきた白い子猫は元気いっぱい！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68789",
-          "publishedOn": "2024-02-18T16:30:21.000Z",
-          "wordCount": 1397,
-          "title": "保護センターから引き出してきた白い子猫は元気いっぱい！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68789.jpg"
         }
       ]
     },
