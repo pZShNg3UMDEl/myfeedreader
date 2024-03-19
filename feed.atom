@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T21:23:05.034Z</updated>
+    <updated>2024-03-19T21:35:29.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[西～東日本で大気不安定 山沿い中心に大雪も 暴風などに警戒を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396401000.html"/>
+        <updated>2024-03-19T21:18:05.000Z</updated>
+        <summary type="html"><![CDATA[低気圧と上空の寒気の影響で、西日本と東日本を中心に風が強まり、雪や雨が降っているところがあります。20日は大気の状態が不安定になり、山沿いを中心に大雪となるところもある見込みで気象庁は暴風や高波、大雪に警戒し、落雷、竜巻などの突風に十分注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随時更新】イスラエルとハマスが交渉再開 交渉の進展が焦点]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014396651000.html</id>
