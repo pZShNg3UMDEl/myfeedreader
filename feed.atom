@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T05:38:07.631Z</updated>
+    <updated>2024-03-19T05:50:18.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[長期金利 一時0.725％に低下 緩和的な金融環境続く見方広がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395681000.html"/>
+        <updated>2024-03-19T05:37:13.000Z</updated>
+        <summary type="html"><![CDATA[19日の債券市場、日銀がマイナス金利政策の解除などを発表しましたが、市場では緩和的な金融環境が当面続くという見方が広がり、日本国債を買う動きが強まって、長期金利は一時、0.725％まで低下しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ前大統領側「保証金納付できない」主張 民事裁判で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395671000.html"/>
+        <updated>2024-03-19T05:30:53.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのトランプ前大統領が経営していた企業が不正な利益を得ていたとして、裁判所から日本円で670億円あまりの支払いを命じられた民事裁判をめぐり、トランプ氏側が保証金を納付できないと主張していることが分かりました。そのうえで保証金の支払い免除などを求める書類を裁判所に提出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleの廉価スマホ「Pixel 8a」がFCC認証申請中？5月イベントで発表か]]></title>
         <id>https://gadget.phileweb.com/?p=72121</id>
