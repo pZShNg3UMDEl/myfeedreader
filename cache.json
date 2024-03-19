@@ -363,6 +363,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72096",
+          "author": "多根清史",
+          "description": "初めて有機ELディスプレイを採用するiPad Proがまもなく登場と噂されるなか、ディスプレイ関連サプライチェーン調査会社DSCCのCEOであるRoss Young氏は、本製品の顧客への出荷（発売）が4月になると主張している。 これまで3月末～4月という幅のある予想もあったが、遅い方にずれ込む格好で […]",
+          "link": "https://gadget.phileweb.com/post-72096/",
+          "publishedOn": "2024-03-19T03:27:37.000Z",
+          "wordCount": 779,
+          "title": "新型iPad Pro、出荷開始は4月に入ってからとの噂",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/Apple-iPad-Pro-lifestyle-221018_big.jpg.large_2x.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72083",
           "author": "多根清史",
           "description": "アップルがGoogleの生成AI「Gemini」をiPhoneに搭載する方向で交渉中であると、米Bloombergが報じている。アップルの内部情報に精通することで知られるMark Gurman記者の記事である。 両社は「今年のiPhone用ソフトウェアに搭載される新機能のため、Googleの生成AI […]",
@@ -2073,6 +2083,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395561000.html",
+          "author": null,
+          "description": "センバツ高校野球、大会2日目の第1試合は徳島の阿南光高校が愛知の豊川高校に11対4で勝って2回戦に進みました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240319/k10014395561000.html",
+          "publishedOn": "2024-03-19T03:24:52.000Z",
+          "wordCount": 620,
+          "title": "高校野球 センバツ 阿南光が豊川に快勝 豊川は今大会1号HRも",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240319/K10014395561_2403191157_0319115818_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240319/k10014395531000.html",
           "author": null,
@@ -9754,6 +9774,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120833/",
+          "author": null,
+          "description": "新潟市で開催中の「第2回新潟国際アニメーション映画祭」レトロスペクティブ部門高畑勲監督特集上映で、3月17日「セロ弾きのゴーシュ」が市民映画館シネ・ウインドで上映された。上映前に、高畑監督夫人か...",
+          "link": "https://anime.eiga.com/news/120833/",
+          "publishedOn": "2024-03-19T03:30:00.000Z",
+          "wordCount": 736,
+          "title": "【第2回新潟国際アニメーション映画祭】高畑勲監督特集で長編全作上映　高畑監督夫人、長男が「セロ弾きのゴーシュ」の思い出語る",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120799/",
           "author": null,
