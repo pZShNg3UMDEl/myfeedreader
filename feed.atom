@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T15:37:12.210Z</updated>
+    <updated>2024-03-19T15:50:36.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396491000.html"/>
         <updated>2024-03-19T15:28:55.000Z</updated>
         <summary type="html"><![CDATA[センバツ高校野球、大会3日目は、1回戦3試合が行われます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロ野球 オープン戦 日本ハム万波 OP戦初ホームラン]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396551000.html"/>
+        <updated>2024-03-19T15:22:33.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球のオープン戦は6試合が行われました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
