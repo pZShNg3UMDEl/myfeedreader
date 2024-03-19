@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T20:35:57.235Z</updated>
+    <updated>2024-03-19T20:50:29.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[土の中の微生物で地下深くまで地盤固める新技術開発 東大など]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396391000.html"/>
+        <updated>2024-03-19T20:47:48.000Z</updated>
+        <summary type="html"><![CDATA[土の中にすむ微生物の働きを増進させて地盤を地下深くまで固める新たな技術を東京大学などの研究グループが開発しました。2024年度中にも屋外での実証実験を行う予定で、将来的には地震による液状化対策などにも応用したいとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政府 デフレから完全脱却へ あらゆる政策を総動員する方針]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014396351000.html</id>
