@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T04:50:21.540Z</updated>
+    <updated>2024-03-19T05:12:58.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[広島 安佐南区 コンビニで男が刃物振り回し女性2人けが]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395661000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395661000.html"/>
+        <updated>2024-03-19T05:07:57.000Z</updated>
+        <summary type="html"><![CDATA[広島県警察本部によりますと、19日午後1時すぎ、広島市安佐南区長束にあるコンビニエンスストアで男が刃物を振り回し、女性2人がけがをしたということです。消防によりますと、このうち高齢とみられる女性が大けがをし、もう1人の女性は軽いけがだということです。消防によりますと、男は現場で取り押さえられたということです。警察が詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“看護職員約50人退職見込み” 医療体制維持へ支援 武見厚労相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395641000.html"/>
+        <updated>2024-03-19T04:58:58.000Z</updated>
+        <summary type="html"><![CDATA[武見厚生労働大臣は、地震で大きな被害を受けた能登半島北部の4つの公立病院で、先月末までに15人の看護職員が退職し、今月以降もおよそ50人が退職する見込みだと明らかにし、医療体制の維持に向け、県などと連携して支援にあたるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[株価 マイナス金利解除受け荒い値動き 一時140円余 値下がりも]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014395441000.html</id>
