@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T20:50:29.789Z</updated>
+    <updated>2024-03-19T21:10:55.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NY市場 1ドル＝151円に迫る水準まで一時値下がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396671000.html"/>
+        <updated>2024-03-19T20:49:48.000Z</updated>
+        <summary type="html"><![CDATA[19日のニューヨーク外国為替市場は、日銀の金融政策決定会合の結果を受けて、円相場は一時、1ドル＝151円に迫る水準まで値下がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[土の中の微生物で地下深くまで地盤固める新技術開発 東大など]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014396391000.html</id>
@@ -25299,56 +25309,6 @@ Established in 2020, SolidVue focuses on designing SoCs (System-on-Chip) for LiD
         <summary type="html"><![CDATA[オランダ警察は、同国内の電動アシスト自転車の制限速度25km/h、モーター出力250Wを超えてアシストする能力を持つ車両を取り締まるべく、移動式のテストベンチの導入を進めている。 「電動アシスト自転車」は一般的に、ペダルをこいだときにのみモーターによるアシストが加わり、上限速度に達するとアシストが切 […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ハーゲンダッツ】キャラメルロイヤルミルクティー【新作アイス】]]></title>
-        <id>https://foodfighter.jp/?p=236534</id>
-        <link href="https://foodfighter.jp/haagen-dazs-caramel-milk-tea"/>
-        <updated>2024-02-19T09:03:01.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ハーゲンダッツの新商品「キャラメルロイヤルミルクティー」を世界一詳しく調査しました。   公式YouTubeチャンネ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いとうあさこ、天ぷらを食べるときに許せない“他人のひと言”「『絶対塩で食べて』って言う人。押し付けないで」]]></title>
-        <id>https://itainews.com/archives/2033201.html</id>
-        <link href="https://itainews.com/archives/2033201.html"/>
-        <updated>2024-02-19T09:01:17.000Z</updated>
-        <summary type="html"><![CDATA[1 ：muffin ★：2024/02/18(日) 19:13:00.29 ID:C9KLozxu9.net
-
-
-
-
-
-
-
-
-
-
-あさこ　負けるな！塩で食う天ぷらが美味いのはわかるが、天つゆ好きが淘汰されていいわけがない！#いとうあさこhttps://t.co/HZFkwBBUmK— ちゅらも (@churamo29) February 18, 2024 
-
-
-
-
-
-
-
-
-ht...]]></summary>
-        <author>
-            <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「『鬼滅の刃』絆の奇跡、そして柱稽古へ」第2弾入場特典はクリアスタンド　本編後に特典映像上映]]></title>
-        <id>https://anime.eiga.com/news/120619/</id>
-        <link href="https://anime.eiga.com/news/120619/"/>
-        <updated>2024-02-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2月2日から上映中の「『鬼滅の刃』絆の奇跡、そして柱稽古へ」の第2弾入場特典が「キービジュアルクリアスタンド第1弾」に決定した。また、新たに特典映像が上映されることも決まった。 ワールドツアー上...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
