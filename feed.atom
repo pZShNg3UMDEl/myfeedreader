@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T02:18:54.026Z</updated>
+    <updated>2024-03-19T02:35:32.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -46,6 +46,16 @@
 遊び疲れたら自動的にケージに戻る子猫たちがキャワ！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電磁気学入門（8）ロイヤープッシュプル自励発振トランスとは]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2403/18/news081.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2403/18/news081.html"/>
+        <updated>2024-03-19T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電磁気学入門講座。今回から「トランス概論」に入ります。まずはロイヤープッシュプル自励発振トランスの概要の説明や、その設計に関する考察を紹介します。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

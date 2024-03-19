@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/18/news081.html",
+          "author": null,
+          "description": "電磁気学入門講座。今回から「トランス概論」に入ります。まずはロイヤープッシュプル自励発振トランスの概要の説明や、その設計に関する考察を紹介します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/18/news081.html",
+          "publishedOn": "2024-03-19T02:00:00.000Z",
+          "wordCount": 2589,
+          "title": "電磁気学入門（8）ロイヤープッシュプル自励発振トランスとは",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/18/cover_news081.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/19/news043.html",
           "author": null,
           "description": "ネクスペリアは、1.8V電子システムの監視、保護向けアナログスイッチ「NMUX1308」「NMUX1309」を発表した。車載向けのAEC-Q100準拠モデルと、家電製品などの民生、産業用途に適した標準モデルをそろえる。",
