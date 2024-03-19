@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T15:26:47.345Z</updated>
+    <updated>2024-03-19T15:37:12.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高校野球 センバツ【大会3日目の見どころ】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396491000.html"/>
+        <updated>2024-03-19T15:28:55.000Z</updated>
+        <summary type="html"><![CDATA[センバツ高校野球、大会3日目は、1回戦3試合が行われます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国で拘束続く製薬会社の日本人男性社員 検察が起訴審査に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014396541000.html</id>
