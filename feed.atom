@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T07:35:29.539Z</updated>
+    <updated>2024-03-19T07:50:29.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“チャールズ国王死亡” 偽情報が拡散 英大使館が否定の声明]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240319/k10014395751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240319/k10014395751000.html"/>
+        <updated>2024-03-19T07:45:42.000Z</updated>
+        <summary type="html"><![CDATA[ロシアやウクライナのSNS上で「イギリスのチャールズ国王が亡くなった」とする偽の情報が18日、拡散し、現地のイギリス大使館が情報を否定する声明を出しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政倫審の世耕氏弁明「非常に残念」自民 石井参院国対委員長]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240319/k10014395841000.html</id>
