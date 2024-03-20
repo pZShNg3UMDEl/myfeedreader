@@ -324,16 +324,6 @@
           "wordCount": 2618,
           "title": "可視光感度が向上した、高速シリコンPINフォトダイオード",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/21/cover_news021.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/20/news033.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、グローバルシャッター機能を搭載したイメージセンサー「VD55G1」を発表した。2.7×2.2mmと小型で、800×700ピクセルの解像度を備えている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/20/news033.html",
-          "publishedOn": "2024-02-20T00:00:00.000Z",
-          "wordCount": 2622,
-          "title": "低消費電力のグローバルシャッター機能搭載イメージセンサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/20/cover_news033.jpg"
         }
       ]
     },
@@ -2054,6 +2044,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397221000.html",
+          "author": null,
+          "description": "大相撲春場所は11日目で終盤戦に入り、幕内でただ1人、勝ちっぱなしの新入幕、尊富士が新大関 琴ノ若を破りました。これで初日からの連勝を「11」に伸ばし新入幕の記録としては昭和以降で最長に並びました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014397221000.html",
+          "publishedOn": "2024-03-20T12:16:19.000Z",
+          "wordCount": 984,
+          "title": "大相撲春場所11日目 新入幕 尊富士が11連勝 大関 琴ノ若破る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397221_2403201913_0320192115_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397261000.html",
           "author": null,
           "description": "彼岸の中日の20日、能登半島地震で今も多くの地域で断水が続く石川県珠洲市にある生花店では、水がなくても花が長もちする工夫をして花を届けています。",
@@ -2062,6 +2062,16 @@
           "wordCount": 784,
           "title": "彼岸の中日 珠洲の生花店 断水続くなか工夫して花届ける",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397261_2403201954_0320200618_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397251000.html",
+          "author": null,
+          "description": "能登半島地震からの復興を支援しようと、愛知県の大学の学生や職員が富山県氷見市で、液状化した泥を取り除くなどのボランティア活動を行いました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014397251000.html",
+          "publishedOn": "2024-03-20T11:36:29.000Z",
+          "wordCount": 650,
+          "title": "富山 氷見で愛知の大学生や職員がボランティア活動",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397251_2403201943_0320195431_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397091000.html",
@@ -8171,6 +8181,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99381",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/20(水) 17:14:38.70 ID:NuJJs6f90 人口考えてSwi […]",
+          "link": "https://switchsoku.com/soft/99381",
+          "publishedOn": "2024-03-20T12:00:29.000Z",
+          "wordCount": 10030,
+          "title": "『ガンダムブレイカー4』クロスプレイ未対応の結果",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/gundam-breaker-4.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99376",
           "author": "SWITCH速報",
           "description": "1: 2024/03/10(日) 18:51:31.405 ID:eo7fvQJi0 なんでわざわざ […]",
@@ -10684,6 +10704,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120836/",
+          "author": null,
+          "description": "マーベル・アニメーションの新アニメシリーズ「X-Men '97」から、それぞれの個性が光るキャラクタービジュアル全12種が一挙お披露目された。 突然変異で、超人的能力を持って生まれたミュータント...",
+          "link": "https://anime.eiga.com/news/120836/",
+          "publishedOn": "2024-03-20T12:00:00.000Z",
+          "wordCount": 812,
+          "title": "90年代の伝説のアニメシリーズがよみがえる　「X-Men '97」人気キャラクターのポスター全12種",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120829/",
           "author": null,
@@ -22404,16 +22439,6 @@
           "wordCount": 1397,
           "title": "赤ちゃんのお世話",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68823.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68861",
-          "author": "299",
-          "description": "降りしきる雨のなかを、赤ちゃん猫を口に咥えて必死に運んでいるお母さん猫の姿を発見しました。 かなりの大雨ですが、全身がずぶ濡れになることも全く気にも留めずひたすら赤ちゃん猫を運んでいるお母さん猫です。 赤ちゃん猫もそれな...\n大雨のなか赤ちゃん猫をくわえてより快適な場所にお引越しするお母さん猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68861",
-          "publishedOn": "2024-02-20T00:00:40.000Z",
-          "wordCount": 1399,
-          "title": "大雨のなか赤ちゃん猫をくわえてより快適な場所にお引越しするお母さん猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68861.jpg"
         }
       ]
     },
