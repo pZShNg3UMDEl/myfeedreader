@@ -1820,6 +1820,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/artilux-announces-room-temperature-gesi.html",
+          "author": null,
+          "description": "From PR NewsWire: https://www.prnewswire.com/news-releases/artilux-announces-groundbreaking-gesi-spad-research-published-in-nature-journal-302068638.html\n \nHSINCHU, Feb. 22, 2024 /PRNewswire/ -- Artilux, the renowned leader of GeSi (germanium-silicon) photonics technology for CMOS (complementary metal-oxide-semiconductor) based SWIR (short-wavelength infrared) sensing and imaging, announced today that the research team at Artilux has made a breakthrough in advancing SWIR GeSi SPAD (single-photon avalanche diode) technology, which has been recognized and published by Nature, one of the world's most prestigious scientific journals. The paper, titled \"Room temperature operation of germanium-silicon single-photon avalanche diode,\" presented the Geiger-mode operation of a high-performing GeSi a…",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/artilux-announces-room-temperature-gesi.html",
+          "publishedOn": "2024-03-20T16:03:00.000Z",
+          "wordCount": 4303,
+          "title": "Artilux announces room temperature GeSi SPAD",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/03/nikon-to-acquire-redcom.html",
           "author": null,
           "description": "From Nikon newsroom: https://www.nikon.com/company/news/2024/0307_01.html\nNikon to Acquire US Cinema Camera Manufacturer RED.com, LLC\nMarch 7, 2024\nTOKYO - Nikon Corporation (Nikon) hereby announces its entry into an agreement to acquire 100% of the outstanding membership interests of RED.com, LLC (RED) whereby RED will become a wholly-owned subsidiary of Nikon, pursuant to a Membership Interest Purchase Agreement with Mr. James Jannard, its founder, and Mr. Jarred Land, its current President, subject to the satisfaction of certain closing conditions thereunder.\nSince its establishment in 2005, RED has been at the forefront of digital cinema cameras, introducing industry-defining products such as the original RED ONE 4K to the cutting-edge V-RAPTOR [X] with its proprietary RAW compression technology. RED's contributions to the film industry have not only earned it an Academy Award but have also made it the camera of choice for numerous Hollywood productions, celebrated by directors and cinematographers worldwide for its commitment to innovation and image quality optimized for the highest levels of filmmaking and video production.\nThis agreement was reached as a result of the mutual desires of Nikon and RED to meet the customers’ needs and offer exceptional user experiences that exceed expectations, merging the strengths of both companies. Nikon's expertise in product development, exceptional reliability, and know-how in image processing, as well as optical technology and user interface along with RED’s knowledge in cinema cameras, including unique image compression technology and color science, will enable the development of distinctive products in the professional digital cinema camera market.\nNikon will leverage this acquisition to expand the fast-growing professional digital cinema camera market, building on both companies' business foundations and networks, promising an exciting future of product development that will continue to push the boundaries of what is possible in film and video production.",
@@ -2132,6 +2142,16 @@
           "wordCount": 734,
           "title": "イスラエルと米の高官 ラファ地上作戦に代わる計画を協議へ",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397191_2403201905_0320191007_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397211000.html",
+          "author": null,
+          "description": "各地で荒れた天気となる中、20日午後、横浜市の首都高速道路で大型トレーラーのコンテナが横倒しになる事故がありました。警察によりますと、けが人はなく運転手は「風にあおられた」と話しているということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014397211000.html",
+          "publishedOn": "2024-03-20T09:57:29.000Z",
+          "wordCount": 526,
+          "title": "首都高で走行中の大型トレーラー 風にあおられコンテナ横転",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397211_2403201851_0320185145_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397171000.html",
@@ -10559,16 +10579,6 @@
           "wordCount": 10151,
           "title": "メディア「コンソールの世代が変わると互換性がなくなることはもう許容されない」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/07/el-switch-2.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98351",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/19(月) 09:04:24.414 ID:dWTEWq6o0 なんかある？  […]",
-          "link": "https://switchsoku.com/soft/98351",
-          "publishedOn": "2024-02-20T04:00:31.000Z",
-          "wordCount": 9994,
-          "title": "まだSwitchに移植されてないDSの面白いゲーム",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/06/nintendo-ds.jpg"
         }
       ]
     },
@@ -10577,6 +10587,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS1qLgofM70kUlI1Wu5uqxg",
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lpTVNWqw4Bg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lpTVNWqw4Bg",
+          "publishedOn": "2024-03-20T16:14:01.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】超強力ブレス武器実装!!ドランゴの闘斧!!無課金勇者はドランゴ装備ガチャにジェム投入して全力で引くべきなのか!?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rOaCKNsmeOo",
           "author": null,
@@ -22469,16 +22489,6 @@
           "wordCount": 1401,
           "title": "アヒルの子たちを遊びに誘う子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68832.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68828",
-          "author": "299",
-          "description": "軽快なBGMと共に流れるのは、大きな丸い氷と、それを一心不乱に舐め続ける複数の猫さんたちです。なんとその数は総勢10匹！そんな多種多様の猫さんたちが、風船で作られた丸い氷を舐めたり遊んだり、舐めたり……いろんな方法で楽し...\n丸くて大きい氷！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68828",
-          "publishedOn": "2024-02-20T04:00:43.000Z",
-          "wordCount": 1399,
-          "title": "丸くて大きい氷！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68828.jpg"
         }
       ]
     },
