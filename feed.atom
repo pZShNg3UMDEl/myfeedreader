@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T19:36:29.861Z</updated>
+    <updated>2024-03-20T19:50:29.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NY市場 一時1ドル＝150円後半まで値上がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397461000.html"/>
+        <updated>2024-03-20T19:40:55.000Z</updated>
+        <summary type="html"><![CDATA[20日のニューヨーク外国為替市場では、FRB＝連邦準備制度理事会が示した今後の金利の見通しやパウエル議長の会見を受けて、ことし利下げが想定通り行われるとの見方から日米の金利差の縮小が意識され、円相場は一時、1ドル＝150円台後半まで値上がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北海道 深川で犬ぞりレース 観客から大きな声援]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240321/k10014396991000.html</id>
