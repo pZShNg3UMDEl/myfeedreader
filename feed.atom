@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T23:25:04.251Z</updated>
+    <updated>2024-03-20T23:35:27.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪 堺 住宅2棟が全焼する火事 2人死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397531000.html"/>
+        <updated>2024-03-20T23:27:22.000Z</updated>
+        <summary type="html"><![CDATA[21日未明、大阪・堺市で住宅2棟が全焼する火事があり、2人が死亡しました。このうち1棟の住人とみられる2人と連絡が取れなくなっているということで、警察が身元の確認を進めるとともに詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドジャース 大谷翔平の水原一平通訳を解雇 違法賭博に関与か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240321/k10014397571000.html</id>
