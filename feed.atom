@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T21:36:25.677Z</updated>
+    <updated>2024-03-20T21:50:32.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領インテルに1兆円超の補助金 半導体工場建設費に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397501000.html"/>
+        <updated>2024-03-20T21:26:42.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン大統領は、半導体メーカーのインテルに対し工場の建設費用などとして、日本円にしておよそ1兆3000億円の補助金を出すと明らかにしました。秋の大統領選挙で再選を目指すバイデン大統領としては、国内の製造業を強く後押しする姿勢を強調するねらいもあるとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マクドナルド】あずきみるくフラッペ【マックカフェ・新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=239703</id>
