@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T06:16:40.215Z</updated>
+    <updated>2024-03-20T06:37:08.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ワシントン州の滝 イーグルフォールズで日本人2人転落し死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396941000.html"/>
+        <updated>2024-03-20T06:31:59.000Z</updated>
+        <summary type="html"><![CDATA[3月16日に、アメリカ西部ワシントン州にある滝に日本人の男性2人が転落して行方が分からなくなり、2人はその後、遺体で見つかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア大統領選 在外投票では異なる傾向 国外有権者抗議意思か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014396911000.html</id>
