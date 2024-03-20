@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T09:13:56.485Z</updated>
+    <updated>2024-03-20T09:25:15.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北陸新幹線 運転再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014397161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014397161000.html"/>
+        <updated>2024-03-20T09:18:09.000Z</updated>
+        <summary type="html"><![CDATA[北陸新幹線は午後4時すぎから、長野駅と群馬県の高崎駅の間の上下線で運転を見合わせていましたが、午後5時55分ごろに運転を再開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米エヌビディア 開発者向けのイベント 最先端の生成AI技術披露]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014397021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014397021000.html"/>
+        <updated>2024-03-20T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[生成AI向けの半導体を手がけるアメリカの半導体大手、エヌビディアが開発者向けのイベントを開いています。およそ300の企業が出展し、最先端の生成AI技術が披露されています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政倫審 関係議員の出席 公明に協力求める考え 立民 岡田幹事長]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014397081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014397081000.html"/>
+        <updated>2024-03-20T09:14:11.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、立憲民主党の岡田幹事長は、実態を解明するため、すべての関係議員が政治倫理審査会に出席すべきだという考えを重ねて示したうえで、実現に向けて与党の公明党にも協力を求める考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沖縄 尖閣沖 中国海警局の船4隻が領海侵入 海保が警告続ける]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014397131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014397131000.html"/>
+        <updated>2024-03-20T09:12:25.000Z</updated>
+        <summary type="html"><![CDATA[沖縄県の尖閣諸島の沖合で中国海警局の船4隻が、20日午後4時ごろ、日本の領海に侵入し、海上保安本部は直ちに領海から出るよう警告を続けています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作家・暇空茜氏、車椅子利用者の映画館トラブルで持論「キャタピラでも改造して足につけて勝手にしろよ、傍迷惑だから自立しろ」]]></title>
         <id>https://itainews.com/archives/2034002.html</id>

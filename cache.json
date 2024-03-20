@@ -2054,6 +2054,46 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397161000.html",
+          "author": null,
+          "description": "北陸新幹線は午後4時すぎから、長野駅と群馬県の高崎駅の間の上下線で運転を見合わせていましたが、午後5時55分ごろに運転を再開しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014397161000.html",
+          "publishedOn": "2024-03-20T09:18:09.000Z",
+          "wordCount": 194,
+          "title": "北陸新幹線 運転再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397161_2403201817_0320181811_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397021000.html",
+          "author": null,
+          "description": "生成AI向けの半導体を手がけるアメリカの半導体大手、エヌビディアが開発者向けのイベントを開いています。およそ300の企業が出展し、最先端の生成AI技術が披露されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014397021000.html",
+          "publishedOn": "2024-03-20T09:16:00.000Z",
+          "wordCount": 735,
+          "title": "米エヌビディア 開発者向けのイベント 最先端の生成AI技術披露",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397021_2403201716_0320181438_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397081000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題で、立憲民主党の岡田幹事長は、実態を解明するため、すべての関係議員が政治倫理審査会に出席すべきだという考えを重ねて示したうえで、実現に向けて与党の公明党にも協力を求める考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014397081000.html",
+          "publishedOn": "2024-03-20T09:14:11.000Z",
+          "wordCount": 646,
+          "title": "政倫審 関係議員の出席 公明に協力求める考え 立民 岡田幹事長",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397081_2403201731_0320181303_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397131000.html",
+          "author": null,
+          "description": "沖縄県の尖閣諸島の沖合で中国海警局の船4隻が、20日午後4時ごろ、日本の領海に侵入し、海上保安本部は直ちに領海から出るよう警告を続けています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240320/k10014397131000.html",
+          "publishedOn": "2024-03-20T09:12:25.000Z",
+          "wordCount": 530,
+          "title": "沖縄 尖閣沖 中国海警局の船4隻が領海侵入 海保が警告続ける",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240320/K10014397131_2403201809_0320181144_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240320/k10014397051000.html",
           "author": null,
           "description": "能登半島地震で2次避難している人たちの住まいやお金の悩みに弁護士などが応じる無料の相談会が石川県加賀市で開かれました。",
