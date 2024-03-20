@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T14:51:36.854Z</updated>
+    <updated>2024-03-20T15:14:07.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東～北日本で大気不安定 暴風や高波などに警戒]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397361000.html"/>
+        <updated>2024-03-20T15:04:06.000Z</updated>
+        <summary type="html"><![CDATA[低気圧と上空の寒気の影響で、西日本と東日本を中心に風の強い状態が続いています。21日は東日本や北日本で風が強まり、大気の非常に不安定な状態が続くところもある見込みで、気象庁は暴風や高波に警戒し、大雪や落雷、竜巻などの激しい突風に十分注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名鉄空港線 車両故障で動けず 乗客約400人 線路歩き移動 愛知]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014397341000.html</id>
@@ -25840,45 +25850,6 @@ The extreme…]]></summary>
         <summary type="html"><![CDATA[1: 2024/02/19(月) 09:04:24.414 ID:dWTEWq6o0 なんかある？  […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国人観光客と分かるとボッタくる日本人が多発wwww 「サービスの質下がった」]]></title>
-        <id>https://itainews.com/archives/2033230.html</id>
-        <link href="https://itainews.com/archives/2033230.html"/>
-        <updated>2024-02-20T03:01:45.000Z</updated>
-        <summary type="html"><![CDATA[1 ：うんち：2024/02/19(月) 15:39:29.77 ID:MSVL1KNJ0.net
-
-
-
-
-
-
-
-
-
-春節で来日した中国人観光客　「日本のサービスって、こんなに悪かったっけ？」と首をひねる（中島恵） https://t.co/brwYlgCSBq— uresy (@uresy1st) February 19, 2024 
-
-
-
-
-
-
-
-
-春節で来日した中国...]]></summary>
-        <author>
-            <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.C.STAFF制作「魔法使いになれなかった女の子の話」10月放送開始　初報PV＆イメージビジュアル公開]]></title>
-        <id>https://anime.eiga.com/news/120622/</id>
-        <link href="https://anime.eiga.com/news/120622/"/>
-        <updated>2024-02-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「ダンジョンに出会いを求めるのは間違っているだろうか」「まちカドまぞく」のJ.C.STAFFが制作するテレビアニメ「魔法使いになれなかった女の子の話」の放送が、10月にスタートすることが決定した...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
