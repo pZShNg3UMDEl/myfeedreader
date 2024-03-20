@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T19:20:18.591Z</updated>
+    <updated>2024-03-20T19:36:29.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北海道 深川で犬ぞりレース 観客から大きな声援]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014396991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014396991000.html"/>
+        <updated>2024-03-20T19:24:34.000Z</updated>
+        <summary type="html"><![CDATA[人が乗ったそりを犬が引いてタイムを競う犬ぞりの大会が北海道深川市で開かれ、スピード感あふれるレースに観客から大きな声援が送られました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プーチン大統領 選挙圧勝弾みにウクライナ侵攻進める姿勢強調]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397441000.html"/>
+        <updated>2024-03-20T19:19:44.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのプーチン大統領は「選挙での勝利はロシアが必ず実現する勝利の序章にすぎない」と述べ、大統領選挙での圧勝も弾みにウクライナへの軍事侵攻を進める姿勢を強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米FRB 金利据え置く決定 5会合連続]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240321/k10014397431000.html</id>
