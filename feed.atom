@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T07:37:35.666Z</updated>
+    <updated>2024-03-20T07:50:10.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北陸新幹線 長野～高崎の上下線で運転見合わせ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014397041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014397041000.html"/>
+        <updated>2024-03-20T07:47:33.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本によりますと、北陸新幹線は長野県の軽井沢駅と佐久平駅の間で異音があった影響で、午後4時10分ごろから、長野駅と群馬県の高崎駅の間の上下線で運転を見合わせています。運転再開は午後5時ごろの見込みだということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 被災したウエイトリフティング部員が全国大会に向け練習]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396981000.html"/>
+        <updated>2024-03-20T07:43:27.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した石川県珠洲市の飯田高校のウエイトリフティング部が、23日に金沢市で開かれる全国大会に向けて仕上げの練習を行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[川口のクルド人ら11人、ジャーナリストを異例の提訴　「人権侵害だ」]]></title>
         <id>https://itainews.com/archives/2033997.html</id>
