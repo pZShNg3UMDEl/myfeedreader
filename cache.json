@@ -10685,6 +10685,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120829/",
+          "author": null,
+          "description": "テレビアニメ「負けヒロインが多すぎる！」の放送開始時期が7月に決定し、メインキャストとして梅田修一朗、遠野ひかるらの出演が明らかとなった。あわせて、アニメ映像を使用した第1弾PV、スタッフ、エン...",
+          "link": "https://anime.eiga.com/news/120829/",
+          "publishedOn": "2024-03-20T11:00:00.000Z",
+          "wordCount": 871,
+          "title": "「負けヒロインが多すぎる！」メインキャストに梅田修一朗、遠野ひかるら　第1弾PVやスタッフなども公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/maeq_iianime/120820/",
           "author": null,
           "description": "第2回新潟国際アニメーション映画祭に来てまして、この原稿は新潟で書いております。文字から感じていただけますでしょうか、新潟の風。ほんのりと日本海の潮の薫りがするのではないでしょうか。今年は海外作...",
@@ -16275,16 +16290,6 @@
           "wordCount": 1870,
           "title": "【ローソン】盛りすぎ！ハムカツサンド【新作サンドイッチ】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/71406a4b34a1d2060e54c75224ae13c5.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=236597",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「盛りすぎ！チャーシューマヨネーズおにぎり」を世界一詳しく調査しました。   公式YouTubeチャ […]",
-          "link": "https://foodfighter.jp/lawson-onigiri-morisugi",
-          "publishedOn": "2024-02-19T23:04:51.000Z",
-          "wordCount": 1871,
-          "title": "【ローソン】盛りすぎ！チャーシューマヨネーズおにぎり【新作コンビニおにぎり】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/f4169a83160ebcebee1a32a7ab58eb56.jpg"
         }
       ]
     },
@@ -16293,6 +16298,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034006.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。(東京都) [ﾇｺ]：2024/03/20(水) 09:50:36.66 ID:8bG01ODt0●.net\n\n\n\n\n\n\n\n「国民的RPG」も過去の話…？ 『ファイナルファンタジー』最新作がシリーズ前作比“60％減”の衝撃的売上になってしまった“納得の理由”記事はこちら↓https://t.c...",
+          "link": "https://itainews.com/archives/2034006.html",
+          "publishedOn": "2024-03-20T11:01:36.000Z",
+          "wordCount": 2484,
+          "title": "FF最新作 前作比60%減の衝撃売上",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/a/2aa98cb8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034005.html",
           "author": "damono3856",
@@ -22387,6 +22402,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9lWfWoMExgg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9lWfWoMExgg",
+          "publishedOn": "2024-03-20T10:54:00.000Z",
+          "wordCount": null,
+          "title": "【鬼才有吉監督最新作】面白殿の17人〜春の陣〜【有吉の壁】【オープニング先行】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M8vZDKNWMRg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M8vZDKNWMRg",
+          "publishedOn": "2024-03-20T10:54:00.000Z",
+          "wordCount": null,
+          "title": "【アドリブ大河】ジャンポケ太田の新武将「黒田官兵衛」ならぬ「黒田○○」【有吉の壁】#shots",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PyhDDlO3mow",
           "author": null,
