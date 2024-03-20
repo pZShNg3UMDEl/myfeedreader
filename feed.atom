@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T22:11:22.325Z</updated>
+    <updated>2024-03-20T22:25:33.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397331000.html"/>
         <updated>2024-03-20T21:52:25.000Z</updated>
         <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる問題を受けて、自民党は、党幹部が全国を回って各地の有権者の声を聴く取り組みを22日から始め、信頼回復につなげたい考えです。これに対し野党側は、実態解明が進んでいないとして、安倍派幹部らの証人喚問などを引き続き求める方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“解読不可能”量子暗号通信の開発加速 国内企業も実用化急ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397071000.html"/>
+        <updated>2024-03-20T21:47:07.000Z</updated>
+        <summary type="html"><![CDATA[理論上、解読が不可能とされる「量子暗号通信」の開発が世界的に加速しています。金融や医療など秘匿性が高い情報通信での活用が期待され、国内の企業も実用化を急いでいます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -42,6 +52,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397491000.html"/>
         <updated>2024-03-20T21:00:56.000Z</updated>
         <summary type="html"><![CDATA[20日のニューヨークの金融市場では、FRB＝連邦準備制度理事会が示した今後の金利の見通しやパウエル議長の会見を受けて、ことし利下げが想定通り行われるとの見方から円相場が一時、1ドル150円台後半まで値上がりしたほか、ダウ平均株価が史上最高値を更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オスプレイ 駐屯地工事中止求める仮処分 きょう地裁判断 佐賀]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397181000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397181000.html"/>
+        <updated>2024-03-20T20:25:15.000Z</updated>
+        <summary type="html"><![CDATA[陸上自衛隊の輸送機オスプレイを佐賀空港に配備する計画に伴い、空港に隣接する土地で進む駐屯地の建設工事を中止するよう漁業者などが求めている仮処分の申し立てについて、佐賀地方裁判所が21日判断を示します。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
