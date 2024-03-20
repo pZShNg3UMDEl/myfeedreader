@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T14:12:09.612Z</updated>
+    <updated>2024-03-20T14:26:45.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名鉄空港線 車両故障で動けず 乗客約400人 線路歩き移動 愛知]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014397341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014397341000.html"/>
+        <updated>2024-03-20T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[20日夜、愛知県常滑市で、名鉄空港線の特急電車が車両故障のため、高架上で動けなくなりました。名鉄によりますと、特急電車にはおよそ400人の乗客が乗っていて、線路上を歩いてもらって最寄りの駅まで誘導したということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酪農でつながる父と息子の甲子園]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014396741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014396741000.html"/>
+        <updated>2024-03-20T14:07:49.000Z</updated>
+        <summary type="html"><![CDATA[「もっと仕事を頑張らないと」甲子園球場のアルプス席で声援を送っていた父親にそんな思いを抱かせました。酪農業を営む父は高校生以来、およそ30年ぶりに北海道を離れて駆けつけていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強風などの影響で空の便およそ100便が欠航]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014397351000.html</id>
