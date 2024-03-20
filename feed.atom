@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T10:38:41.429Z</updated>
+    <updated>2024-03-20T10:50:25.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報中】競泳 パリ五輪 代表選考 4日目 内定は出るか？]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240320/k10014397091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240320/k10014397091000.html"/>
+        <updated>2024-03-20T10:33:36.000Z</updated>
+        <summary type="html"><![CDATA[競泳のパリオリンピックの代表選考を行う“一発勝負”の大会は4日目の20日、2種目で決勝が行われるほか、注目される男子200メートルバタフライや男子200メートル平泳ぎなどの予選や準決勝が行われます。最新の情報を速報でお伝えします。NHKではレースのもようをEテレで中継するとともに、NHKプラスで配信中です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエルと米の高官 ラファ地上作戦に代わる計画を協議へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240320/k10014397191000.html</id>
