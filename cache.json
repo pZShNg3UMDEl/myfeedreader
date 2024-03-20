@@ -7961,6 +7961,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99366",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/19(火) 22:32:13.84 ID:SKitSEBOd ゲハ歴が浅いせい […]",
+          "link": "https://switchsoku.com/gossip/99366",
+          "publishedOn": "2024-03-20T04:00:53.000Z",
+          "wordCount": 10012,
+          "title": "「ライト層」って何？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2019/05/switch-cm.jpg"
+        },
+        {
           "id": "https://switchsoku.com/?p=99361",
           "author": "SWITCH速報",
           "description": "1: 2024/03/19(火) 19:18:29.06 ID:1plrP7My0 プリクラにピーチ […]",
@@ -10444,6 +10454,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120850/",
+          "author": null,
+          "description": "新潟市で開催中の「第2回新潟国際アニメーション映画祭」で、コンペティション部門に選出された3作品の監督会見が3月19日にあり、「深海からの奇妙な魚」マルセル・マラオ監督、「マントラ・ウォーリアー...",
+          "link": "https://anime.eiga.com/news/120850/",
+          "publishedOn": "2024-03-20T04:00:00.000Z",
+          "wordCount": 783,
+          "title": "第2回新潟国際アニメーション映画祭コンペ出品作「深海からの奇妙な魚」「マントラ・ウォーリアー　8つの月の伝説」「オン・ザ・ブリッジ」会見",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120841/",
           "author": null,
