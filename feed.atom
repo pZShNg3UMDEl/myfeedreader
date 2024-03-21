@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T10:37:27.680Z</updated>
+    <updated>2024-03-21T10:50:13.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政治資金問題 野党側 安倍派幹部6人の証人喚問申し入れ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014398311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398311000.html"/>
+        <updated>2024-03-21T10:42:18.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題を受けて、野党側は21日、衆議院予算委員会の理事懇談会で、安倍派の幹部ら6人の証人喚問を行うよう申し入れました。これに対し自民党は、安倍派幹部はすでに政治倫理審査会で説明しており、慎重に対応すべきだと主張しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報中】池江璃花子2つ目の内定は？女子100m 自由形 決勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240321/k10014398171000.html</id>
