@@ -343,6 +343,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72200",
+          "author": "多根清史",
+          "description": "Epic Gamesは、2024年後半に欧州連合（EU）域内でiOSとAndroid向けゲームストアを立ち上げると予告するとともに、ストアで配信されるアプリへの課金額を明らかにした。 今年2月、同社はiOS向けゲームストアを立ち上げると予告。今月初めにアップルが同社の開発者アカウントを停止する一幕も […]",
+          "link": "https://gadget.phileweb.com/post-72200/",
+          "publishedOn": "2024-03-21T05:44:45.000Z",
+          "wordCount": 827,
+          "title": "Epic Games、iOS／Android向けゲームストアを2024年後半に立ち上げ。EU域内のみ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/epic-games-store-android-teaser.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72189",
           "author": "多根清史",
           "description": "洪水は世界中のどこにでも起こりうる災害でありつつ、被害は甚大かつ広範に及びやすい。事前に察知して公共団体が対策を講じ、あるいは人々に警戒や避難を呼びかける早期警戒システムは強く求められている。 そんななか、GoogleがAIを使って河川の氾らんを7日先まで予測することに成功したと発表した。単なるハイ […]",
@@ -2023,6 +2033,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397701000.html",
+          "author": null,
+          "description": "気候変動対策が適切に進められなかった場合、2050年の天気予報はどうなるのか、国連は、気象予報士役の子どもたちが未来の気象ニュースを伝える動画を制作し、「今なら未来の天気予報を変えられる」と訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014397701000.html",
+          "publishedOn": "2024-03-21T05:44:32.000Z",
+          "wordCount": 605,
+          "title": "“2050年の天気予報は…” 子どもたちが伝える国連の動画",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397701_2403211132_0321144434_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397931000.html",
+          "author": null,
+          "description": "新年度予算案の審議日程をめぐり、自民党と立憲民主党は、来週25日に岸田総理大臣らに出席を求めて参議院予算委員会の集中審議を行うことで合意しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014397931000.html",
+          "publishedOn": "2024-03-21T05:38:09.000Z",
+          "wordCount": 492,
+          "title": "新年度予算案 参院予算委で25日に集中審議 自民と立民が合意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397931_2403211422_0321143811_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397921000.html",
           "author": null,
