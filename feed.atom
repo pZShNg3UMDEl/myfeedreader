@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T07:35:23.814Z</updated>
+    <updated>2024-03-21T07:50:20.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「木製バット」がトレンドワードに センバツで選手が打席に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014398071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398071000.html"/>
+        <updated>2024-03-21T07:32:33.000Z</updated>
+        <summary type="html"><![CDATA[センバツ高校野球、大会4日目の第3試合で、青森山田高校の3番の對馬陸翔選手と5番の吉川勇大選手の2人が木製バットで打席に立つ極めて珍しい場面がありました。SNS上では、驚きの投稿が相次ぎ「木製バット」がトレンドワードに入るなど話題となっています。“飛ばない”バットへの出場校の対応が注目されるなか、高校野球の懐かしくて、新しい光景が誕生しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本航空 2030年度時点で国際線の事業規模 1.4倍に拡大の方針]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240321/k10014398031000.html</id>
