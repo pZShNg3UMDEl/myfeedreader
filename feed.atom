@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T03:27:04.297Z</updated>
+    <updated>2024-03-21T03:37:34.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 七尾 ボランティアの宿泊拠点 テント村の設営始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397771000.html"/>
+        <updated>2024-03-21T03:26:55.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県七尾市で、21日、ボランティアたちの宿泊拠点となるテント村の設営が始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山口 下関沖 タンカー転覆 乗組員1人見つかる 容体分からず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397731000.html"/>
+        <updated>2024-03-21T03:25:26.000Z</updated>
+        <summary type="html"><![CDATA[20日、山口県下関市の六連島の沖合で11人が乗った韓国船籍のケミカルタンカーが転覆し8人が死亡した事故で、21日朝、新たに1人の乗組員が見つかりました。容体は分かっていないということです。海上保安部は、残る1人の捜索を続けています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陸自 オスプレイの飛行再開 当面は駐屯地周辺などで基本的訓練]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240321/k10014397751000.html</id>
