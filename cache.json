@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html",
+          "author": null,
+          "description": "ケイデンス・デザイン・システムズは、車載向けのDSP（デジタルシグナルプロセッサ） IPコア「Vision 341 DSP」「Vision 331 DSP」を発表した。4Dイメージングレーダー用途向けの「Cadence Tensilica Vision 4DR Accelerator」との併用で、3倍以上の性能向上が可能になる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html",
+          "publishedOn": "2024-03-21T00:00:00.000Z",
+          "wordCount": 2644,
+          "title": "積和演算性能が最大6倍に、車載向けDSP IPコア",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/21/cover_news047.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/18/news081.html",
           "author": null,
           "description": "電磁気学入門講座。今回から「トランス概論」に入ります。まずはロイヤープッシュプル自励発振トランスの概要の説明や、その設計に関する考察を紹介します。",
@@ -1993,6 +2003,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397601000.html",
+          "author": null,
+          "description": "21日午前、栃木県と埼玉県で震度5弱の揺れを観測する地震がありました。専門家は、関東南部では震度5弱程度の揺れを伴う地震がたびたび起きているとして今後数日間は同じ程度の規模の地震に注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014397601000.html",
+          "publishedOn": "2024-03-21T00:57:47.000Z",
+          "wordCount": 580,
+          "title": "【地震速報】埼玉 栃木で震度5弱 津波の心配なし 数日間は注意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397601_2403210914_0321091535_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397651000.html",
+          "author": null,
+          "description": "JR東日本によりますと、地震による影響で運転を見合わせていた東北新幹線の東京駅と新青森駅の上下線はさきほど運転を再開したとということです。一部の列車には遅れが出ているということで、JR東日本ではホームページなどで最新の情報を確認するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014397651000.html",
+          "publishedOn": "2024-03-21T00:55:44.000Z",
+          "wordCount": 190,
+          "title": "東北新幹線 東京～新青森の上下線 運転再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397651_2403210955_0321095546_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397641000.html",
+          "author": null,
+          "description": "JR東日本によりますと、地震の影響で、上越新幹線は東京駅と新潟駅の間の上下線で運転を見合わせています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014397641000.html",
+          "publishedOn": "2024-03-21T00:50:00.000Z",
+          "wordCount": 192,
+          "title": "上越新幹線 東京～新潟 上下線で運転見合わせ 地震の影響",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397641_2403210949_0321095002_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397631000.html",
+          "author": null,
+          "description": "JR東日本によりますと、北陸新幹線は、地震の影響で、東京駅と長野駅の間の上下線で運転を見合わせています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014397631000.html",
+          "publishedOn": "2024-03-21T00:46:38.000Z",
+          "wordCount": 192,
+          "title": "北陸新幹線 東京～長野 上下線で運転見合わせ 地震の影響",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397631_2403210945_0321094640_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397591000.html",
+          "author": null,
+          "description": "21日の東京株式市場、日経平均株価は、600円以上値上がりして4万600円台をつけ、3月7日につけた取り引き時間中としての史上最高値を更新しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014397591000.html",
+          "publishedOn": "2024-03-21T00:19:33.000Z",
+          "wordCount": 711,
+          "title": "日経平均株価 4万600円台 取り引き時間中の史上最高値更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397591_2403210916_0321091802_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240321/k10014397531000.html",
           "author": null,
@@ -8371,6 +8431,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99387",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/20(水) 21:52:24.56 ID:W4q0EN0+0 イナズマイレブン […]",
+          "link": "https://switchsoku.com/soft/level5/99387",
+          "publishedOn": "2024-03-21T00:00:24.000Z",
+          "wordCount": 10032,
+          "title": "日野「イナズマイレブンはオンライン対戦が異様に面白いので世界的ヒットを狙えると確信している」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/inazuma11.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99384",
           "author": "SWITCH速報",
           "description": "1: 2024/03/20(水) 18:30:19.56 ID:S/pNg/hQ0 俺はゼルダ無双、 […]",
@@ -10659,16 +10729,6 @@
           "wordCount": 10078,
           "title": "Switch後継機は｢フルHD｣と｢4K｣どちらをターゲットにしたハードになるのか？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/switch-nvidia-dlss.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98378",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/20(火) 13:45:25.07 ID:Rl2GuQIMd えーんえーん(T […]",
-          "link": "https://switchsoku.com/soft/dragonquest/98378",
-          "publishedOn": "2024-02-20T12:00:44.000Z",
-          "wordCount": 10113,
-          "title": "ニンダイで『HD-2D版 ドラクエIII』来なかったら泣く",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/02/dq3-re-4.webp"
         }
       ]
     },
@@ -14038,21 +14098,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120633/",
-          "author": null,
-          "description": "テレビアニメ「戦隊大失格」が4月7日から放送・配信されることが決まった。さらにオープニング主題歌が、「BLEACH 千年血戦篇」や「呪術廻戦」の主題歌でも知られるシンガーソングライターのキタニタ...",
-          "link": "https://anime.eiga.com/news/120633/",
-          "publishedOn": "2024-02-20T12:00:00.000Z",
-          "wordCount": 886,
-          "title": "「戦隊大失格」4月7日放送開始　オープニング主題歌をキタニタツヤが担当",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14739,6 +14784,36 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41772",
+          "author": "fumie",
+          "description": "お酒の中ではワインが一番好きなふみえ＠あつらぼです。 先日、厚木公園（はとぽっぽ公園）近くを歩いていたところ、 すぐ横にある「ワイン酒場 ゴルゴン9 本厚木店」が閉店していてびっくりー！！ 「ワイン酒場 ゴルゴン9 本厚木店」場所は…",
+          "link": "https://atsugi-lab.com/close-gorgon9-2024/",
+          "publishedOn": "2024-03-21T00:32:27.000Z",
+          "wordCount": 1173,
+          "title": "【業態変更・リニューアル】「ワイン酒場 ゴルゴン9」がいつの間にか閉店→「スマイリ商店 ハナレ」として4月1日オープン予定［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/gorgon9-202404.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41767",
+          "author": "comomo",
+          "description": "3月に入ると、桜の開花予想が気になりソワソワしてしまうももこ＠あつらぼです。 本厚木駅徒歩圏内で桜の名所といえば、相模川三川合流地点河川敷の桜ですよね！ 今年も、厚木北地区青少年広場で桜祭りが開催されるそうですよー♪ 「第41回　厚木観光桜…",
+          "link": "https://atsugi-lab.com/event-sakuramatsuri202403/",
+          "publishedOn": "2024-03-21T00:14:58.000Z",
+          "wordCount": 1136,
+          "title": "【イベント】「第41回　厚木観光桜祭り」が3月24日に厚木北地区青少年広場で開催予定★前夜には花火もあるらしい！［厚木市厚木］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/event-sakuramatsuri202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41755",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ 3月も後半に入り春の気配が濃くなって、だんだんと暖かくなってきましたねー！ そんな春の夜にぴったりのイベント情報が入ってまいりました☆ 夜空の下で映画鑑賞が楽しめる「ねぶくろシネマ」がビナウォークで開催！…",
+          "link": "https://atsugi-lab.com/event-nebukurocinemaebina202403/",
+          "publishedOn": "2024-03-20T23:56:30.000Z",
+          "wordCount": 1126,
+          "title": "【海老名・イベント】3月23日にビナウォークで開催される「ねぶくろシネマ」今回は「ザ・スーパーマリオブラザーズ・ムービー」を上映！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/nebukuroc202403.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41686",
           "author": "fumie",
