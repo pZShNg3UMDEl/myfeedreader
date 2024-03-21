@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T22:38:25.038Z</updated>
+    <updated>2024-03-21T22:50:25.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[はしかワクチン 定期接種実施の小児科など優先供給通知 厚労省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014398621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014398621000.html"/>
+        <updated>2024-03-21T22:38:05.000Z</updated>
+        <summary type="html"><![CDATA[全国ではしかの感染が確認され、ワクチンの需要が高まっていることを受けて、厚生労働省は、子どもの定期接種が確実に実施できるよう、定期接種を実施している小児科などに優先してワクチンを供給することなどを、自治体を通じて卸売販売業者などに求める通知を出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水俣病救済めぐる集団訴訟 きょう判決 熊本地裁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014398611000.html</id>
