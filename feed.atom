@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T12:23:11.814Z</updated>
+    <updated>2024-03-21T12:47:33.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[職業欄]]></title>
+        <id>https://logipara.com/?p=9679</id>
+        <link href="https://logipara.com/diary-text/2024-03-22"/>
+        <updated>2024-03-21T12:36:22.000Z</updated>
+        <summary type="html"><![CDATA[今日は、某クリニックにはじめて行ったんですよ。 で、当然、初回なので問診票を書いたのですが、 　 　 　 　 職業「会社役員」って枠、あるんだね 　 　 　 だったら職業「平社員」って枠も欲しかったなー！ボールペンの […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マクドナルド】マカロン ゆず【マックカフェ・新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=239797</id>
@@ -80,6 +90,16 @@ NYの二つ星寿司店、量で男女差別したと批判されるhttps://t.co
         <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398421000.html"/>
         <updated>2024-03-21T10:51:22.000Z</updated>
         <summary type="html"><![CDATA[岐阜県各務原市の「東海中央病院」は、同じ外科医から肝臓がんの手術を受けた患者3人が死亡する医療事故があったと公表しました。この医師は去年退職していて、病院は今後、難易度が高い手術を原則、取りやめるとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島から集団避難の中学生たちのお別れ会 22日に地元へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014398381000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398381000.html"/>
+        <updated>2024-03-21T10:48:29.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震のあと、石川県輪島市から白山市に集団で避難している中学生たちが22日に地元へ戻るのを前に、生徒たちを激励するお別れ会が開かれました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -26429,16 +26449,6 @@ The extreme…]]></summary>
         <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 今回は閉店情報です。 本厚木ミロードのレストランフロアにある卵料理専門店、 「サロン卵と私　本厚木ミロード店」が2月25日（日）をもって閉店してしまうそう！ 卵料理専門店「サロン卵と私　本厚木ミロード店」…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】Ｗガラ醤油あんの天津風豆腐【新作コンビニ惣菜】]]></title>
-        <id>https://foodfighter.jp/?p=236752</id>
-        <link href="https://foodfighter.jp/711sej-tianjin-tofu"/>
-        <updated>2024-02-21T00:28:07.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「Ｗガラ醤油あんの天津風豆腐」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
