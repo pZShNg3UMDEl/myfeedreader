@@ -343,6 +343,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72211",
+          "author": "Munenori Taniguchi",
+          "description": "米ロチェスター大学の研究者ランガ・ディアス氏は、昨年8月に発表した「常温超伝導」を実現したとする論文の正確性に関する懸念から受けていた第三者委員会による調査の結果、「研究不正行為」に関与していたと認定された。 問題となった研究は、窒素を加えた水素化ルテチウムが室温で超伝導状態、つまり電気抵抗がゼロに […]",
+          "link": "https://gadget.phileweb.com/post-72211/",
+          "publishedOn": "2024-03-21T08:21:59.000Z",
+          "wordCount": 756,
+          "title": "物議を醸した“常温超電導体”「LK-99」、ついに研究の不正が正式認定",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/ros.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72200",
           "author": "多根清史",
           "description": "Epic Gamesは、2024年後半に欧州連合（EU）域内でiOSとAndroid向けゲームストアを立ち上げると予告するとともに、ストアで配信されるアプリへの課金額を明らかにした。 今年2月、同社はiOS向けゲームストアを立ち上げると予告。今月初めにアップルが同社の開発者アカウントを停止する一幕も […]",
@@ -2042,6 +2052,16 @@
           "wordCount": 793,
           "title": "はしか 全国で感染確認相次ぐ ”不安な大人はまず検査を”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014397901_2403211645_0321164727_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240321/k10014398041000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースとパドレスの開幕シリーズ第2戦は21日、韓国・ソウルで行われます。これまで大谷翔平選手の専属通訳を務めてきた水原一平氏が、突然解雇されましたが、大谷選手は前夜の試合に続いて2番指名打者で先発出場します。ドジャースの先発は今シーズンから大リーグに挑戦する山本由伸投手で、大リーグの公式戦初のマウンドでどのようなピッチングを見せるのか注目です。午後7時5分開始予定の開幕シリーズ第2戦のもようを速報でお伝えします。またテレビではNHK-BSで中継します。",
+          "link": "http://www3.nhk.or.jp/news/html/20240321/k10014398041000.html",
+          "publishedOn": "2024-03-21T07:34:19.000Z",
+          "wordCount": 967,
+          "title": "ドジャース 大谷翔平 2番DHで出場へ【19:05～】先発は山本由伸",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240321/K10014398041_2403211628_0321163058_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240321/k10014398071000.html",
@@ -11184,6 +11204,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/aj2024_event/120806/",
+          "author": null,
+          "description": "今週末に開催される「AnimeJapan 2024」では、企業ブースのイベントも見逃せない。AJステージの全44プログラム（https://anime.eiga.com/news/column/...",
+          "link": "https://anime.eiga.com/news/column/aj2024_event/120806/",
+          "publishedOn": "2024-03-21T08:30:00.000Z",
+          "wordCount": 3669,
+          "title": "【AnimeJapan 2024（アニメジャパン）】企業ブース　イベント特集",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120858/",
           "author": null,

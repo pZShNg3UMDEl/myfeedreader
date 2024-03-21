@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T08:15:50.771Z</updated>
+    <updated>2024-03-21T08:36:59.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【AnimeJapan 2024（アニメジャパン）】企業ブース　イベント特集]]></title>
+        <id>https://anime.eiga.com/news/column/aj2024_event/120806/</id>
+        <link href="https://anime.eiga.com/news/column/aj2024_event/120806/"/>
+        <updated>2024-03-21T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今週末に開催される「AnimeJapan 2024」では、企業ブースのイベントも見逃せない。AJステージの全44プログラム（https://anime.eiga.com/news/column/...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物議を醸した“常温超電導体”「LK-99」、ついに研究の不正が正式認定]]></title>
+        <id>https://gadget.phileweb.com/?p=72211</id>
+        <link href="https://gadget.phileweb.com/post-72211/"/>
+        <updated>2024-03-21T08:21:59.000Z</updated>
+        <summary type="html"><![CDATA[米ロチェスター大学の研究者ランガ・ディアス氏は、昨年8月に発表した「常温超伝導」を実現したとする論文の正確性に関する懸念から受けていた第三者委員会による調査の結果、「研究不正行為」に関与していたと認定された。 問題となった研究は、窒素を加えた水素化ルテチウムが室温で超伝導状態、つまり電気抵抗がゼロに […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[負けん気の強い子犬が先輩犬を追いかけまわします]]></title>
         <id>https://2-9-9.com/?p=70361</id>
@@ -43,6 +63,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397901000.html"/>
         <updated>2024-03-21T07:47:25.000Z</updated>
         <summary type="html"><![CDATA[東京や大阪をはじめ全国で相次いではしかの感染者が確認されています。海外から帰国したり、観光で入国したりした人から感染したとみられ、ワクチンの接種を希望する人からの問い合わせが相次ぐクリニックもあり、専門家は「大人はまずは抗体検査などで自分の免疫を確認して必要性を判断してほしい」と呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドジャース 大谷翔平 2番DHで出場へ【19:05～】先発は山本由伸]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014398041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398041000.html"/>
+        <updated>2024-03-21T07:34:19.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースとパドレスの開幕シリーズ第2戦は21日、韓国・ソウルで行われます。これまで大谷翔平選手の専属通訳を務めてきた水原一平氏が、突然解雇されましたが、大谷選手は前夜の試合に続いて2番指名打者で先発出場します。ドジャースの先発は今シーズンから大リーグに挑戦する山本由伸投手で、大リーグの公式戦初のマウンドでどのようなピッチングを見せるのか注目です。午後7時5分開始予定の開幕シリーズ第2戦のもようを速報でお伝えします。またテレビではNHK-BSで中継します。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
