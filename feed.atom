@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T22:12:36.542Z</updated>
+    <updated>2024-03-21T22:27:17.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 朝鮮労働党幹部 中国訪問で関係強化に強い意欲示す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014398801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014398801000.html"/>
+        <updated>2024-03-21T22:17:37.000Z</updated>
+        <summary type="html"><![CDATA[中国を訪れている北朝鮮の朝鮮労働党の幹部が中国共産党で序列4位の王滬寧政治局常務委員と会談し、関係強化に強い意欲を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“北朝鮮は外貨収入の半分を違法なサイバー攻撃で獲得” 国連]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014398631000.html</id>
@@ -26294,16 +26304,6 @@ The extreme…]]></summary>
         <summary type="html"><![CDATA[テレビアニメ「転生したらスライムだった件」の第3期に水瀬いのり、野島健児、千葉翔也らが出演し、エンディング主題歌を来栖りんが担当することが分かった。PV第1弾も公開されている。 放送スケジュール...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ほっともっと】本格中華の最強コンビ！ 四川麻婆豆腐＆炒飯弁当【期間限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=236818</id>
-        <link href="https://foodfighter.jp/hottomotto-mapo-tofu-fried-rice"/>
-        <updated>2024-02-21T10:25:19.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Motto）」へ進撃 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
