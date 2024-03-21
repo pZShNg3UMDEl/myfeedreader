@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T07:22:25.716Z</updated>
+    <updated>2024-03-21T07:35:23.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本航空 2030年度時点で国際線の事業規模 1.4倍に拡大の方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014398031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398031000.html"/>
+        <updated>2024-03-21T07:29:25.000Z</updated>
+        <summary type="html"><![CDATA[航空大手の日本航空は新型機42機を新たに購入し、2030年度時点での国際線の事業規模を1.4倍に拡大する方針を明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高校野球 センバツ 青森山田が京都国際にサヨナラ勝ち]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014398091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398091000.html"/>
+        <updated>2024-03-21T07:22:05.000Z</updated>
+        <summary type="html"><![CDATA[センバツ高校野球、大会4日目の第3試合は青森山田高校が京都国際高校に4対3のサヨナラで勝ち、2回戦に進みました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『ドラゴンクエストウォーク』4.5周年WEBCM「ドランゴ装備篇」]]></title>
         <id>https://www.youtube.com/watch?v=ldi3Twc4md0</id>
@@ -56,6 +76,16 @@
         <summary type="html"><![CDATA[人気児童書シリーズ「おしりたんてい」の長編劇場版アニメ2作目「映画おしりたんてい さらば愛しき相棒（おしり）よ」が3月20日、全国259館で封切り。東京・新宿バルト9では初日舞台挨拶が行われ、ゲ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モンゴル 今年大雪で13人死亡 家畜480万頭死ぬ 日本緊急援助へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014397971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014397971000.html"/>
+        <updated>2024-03-21T06:43:01.000Z</updated>
+        <summary type="html"><![CDATA[モンゴルではことしに入ってから寒波にともなう大雪で13人が死亡し、480万頭の家畜が死ぬなど深刻な影響が出ていて、日本政府は毛布や発電機などを緊急に援助することを決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
