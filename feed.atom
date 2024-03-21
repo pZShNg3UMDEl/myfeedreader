@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T23:36:49.379Z</updated>
+    <updated>2024-03-21T23:50:13.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2月の消費者物価指数 前年同月比 2.8％上昇]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014398581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014398581000.html"/>
+        <updated>2024-03-21T23:39:43.000Z</updated>
+        <summary type="html"><![CDATA[家庭で消費するモノやサービスの値動きをみる2月の消費者物価指数は天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2.8％上昇しました。上昇率は1月から0.8ポイント上がり、4か月ぶりに上昇しました。政府による電気代と都市ガス代の負担軽減策の開始から1年がたち、上昇率を押し下げる効果が一巡したことなどが影響しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップルを提訴 “市場で違法に独占的な地位を維持” 米司法省]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014398851000.html</id>
