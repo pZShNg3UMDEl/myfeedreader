@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T22:27:17.665Z</updated>
+    <updated>2024-03-21T22:38:25.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[水俣病救済めぐる集団訴訟 きょう判決 熊本地裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014398611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014398611000.html"/>
+        <updated>2024-03-21T22:34:20.000Z</updated>
+        <summary type="html"><![CDATA[水俣病と認定されず、救済策の対象にもならないのは不当だと主張して熊本や鹿児島などの140人余りが国と熊本県、それに原因企業に賠償を求めた裁判で、22日、熊本地方裁判所が判決を言い渡します。去年、同様の集団訴訟の初めての判決で大阪地方裁判所が原告全員を水俣病と認め、国などに賠償を命じており、救済対象をどう判断するか、注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北朝鮮 朝鮮労働党幹部 中国訪問で関係強化に強い意欲示す]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014398801000.html</id>
