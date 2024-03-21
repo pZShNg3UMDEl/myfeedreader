@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T11:21:24.658Z</updated>
+    <updated>2024-03-21T11:35:24.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[福島第一原発1号機 原子炉真下 初のドローン撮影動画 公開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240321/k10014398471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240321/k10014398471000.html"/>
+        <updated>2024-03-21T11:20:08.000Z</updated>
+        <summary type="html"><![CDATA[東京電力福島第一原子力発電所で、メルトダウンを起こした1号機の原子炉の真下のエリアを初めてドローンで撮影した動画が公開されました。「核燃料デブリ」の可能性がある物体や、事故の前は原子炉の底に付いていた機器が複数落ちてきている様子が確認され、東京電力は「損傷の範囲はかなり広い」と分析しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYの江戸前寿司店、出す量で男女差別したと非難を浴びる]]></title>
         <id>https://itainews.com/archives/2034027.html</id>
@@ -26439,16 +26449,6 @@ The extreme…]]></summary>
         <updated>2024-02-20T23:50:04.000Z</updated>
         <author>
             <name>有吉の壁【公式】壁チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】森永乳業 MOW（モウ）スペシャル きゅん濃いちご【新作アイス】]]></title>
-        <id>https://foodfighter.jp/?p=236728</id>
-        <link href="https://foodfighter.jp/711sej-mow-special-strawberry"/>
-        <updated>2024-02-20T23:23:33.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「森永乳業 MOW（モウ）スペシャル きゅん濃いちご」を世界一詳しく調査しました。   公式Y […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
