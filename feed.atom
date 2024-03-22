@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T15:37:24.409Z</updated>
+    <updated>2024-03-22T15:50:33.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バレーV1「PFUブルーキャッツ」が輪島で運動教室]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014399431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014399431000.html"/>
+        <updated>2024-03-22T15:40:42.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した子どもたちに元気になってもらおうと、バレーボールV1の「PFUブルーキャッツ」が石川県輪島市で運動教室を開きました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校野球 センバツ 【大会6日目の見どころ】]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240323/k10014399641000.html</id>
