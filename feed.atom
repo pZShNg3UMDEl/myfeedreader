@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T04:50:17.502Z</updated>
+    <updated>2024-03-22T05:14:06.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[甲子園のチアリーダー「半ズボンより今までのが良かった」]]></title>
+        <id>https://itainews.com/archives/2034048.html</id>
+        <link href="https://itainews.com/archives/2034048.html"/>
+        <updated>2024-03-22T05:01:58.000Z</updated>
+        <summary type="html"><![CDATA[1 ：草井満子：2024/03/21(木) 14:34:28.48 ID:2g3Nn34f0●.net
+
+
+
+
+
+
+
+
+盗撮に悩むチアリーダー　各校、生徒守る対策　センバツ高校野球https://t.co/1vFMhdnju3チアリーダーの衣装を変更▽「応援生徒の撮影はご遠慮下さい」といった注意書きを持った教員が見回り▽チア...]]></summary>
+        <author>
+            <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2次避難している人に抹茶でひとときの安らぎを 石川 能美]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014399191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014399191000.html"/>
+        <updated>2024-03-22T04:27:55.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災し2次避難している人たちに、ひとときの安らぎを感じてもらおうと、茶の湯の愛好家が避難所を訪れ抹茶をふるまう催しを開きました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イニエスタ選手など外国人選手3人に申告漏れ指摘 大阪国税局]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014399201000.html</id>
@@ -26475,23 +26504,6 @@ SDカードからわいせつ動画が50点以上見つかる　俳優志望の�
 猫と鶏の奇妙なコンビ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computational Imaging Photon by Photon]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/02/computational-imaging-photon-by-photon.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/02/computational-imaging-photon-by-photon.html"/>
-        <updated>2024-02-21T17:00:00.001Z</updated>
-        <summary type="html"><![CDATA[Arizona Optical Sciences Colloquium: Andreas Velten, "Computational Imaging Photon by Photon"
-
-
-Abstract
-Our cameras usually measure light as an analog flux that varies as a function of space and time. This approximation ignores the quantum nature of light which is actually made of discrete photons each of which is collected at a sensor pixel at an instant in time. Single photon cameras have pixels that can detect photons and the timing of their arrival resulting in cameras with unprecedented capabilities. Concepts like motion blur, exposure time, and dynamic range that are essential to conventional cameras do not really apply to single photon sensors. In this presentation I will cover computational imaging capabilities enabled by single photon cameras and their applications.
-
-
-The extreme…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>

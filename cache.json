@@ -1998,16 +1998,6 @@
           "wordCount": 3978,
           "title": "Teledyne acquires Adimec",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/02/computational-imaging-photon-by-photon.html",
-          "author": null,
-          "description": "Arizona Optical Sciences Colloquium: Andreas Velten, \"Computational Imaging Photon by Photon\"\n\n\nAbstract\nOur cameras usually measure light as an analog flux that varies as a function of space and time. This approximation ignores the quantum nature of light which is actually made of discrete photons each of which is collected at a sensor pixel at an instant in time. Single photon cameras have pixels that can detect photons and the timing of their arrival resulting in cameras with unprecedented capabilities. Concepts like motion blur, exposure time, and dynamic range that are essential to conventional cameras do not really apply to single photon sensors. In this presentation I will cover computational imaging capabilities enabled by single photon cameras and their applications.\n\n\nThe extreme…",
-          "link": "http://image-sensors-world.blogspot.com/2024/02/computational-imaging-photon-by-photon.html",
-          "publishedOn": "2024-02-21T17:00:00.001Z",
-          "wordCount": 4142,
-          "title": "Computational Imaging Photon by Photon",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWlNufZBMtM-czXpJedt5Tfl_Kzj_8VdX6O9MLvRfPh_a1bGUUZA0DKrro9o0zLOjfyGxtUakFpljdtGLIFZ_CqdZcPKG6mZft20_f90uXrlLpRYg=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -2033,6 +2023,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399191000.html",
+          "author": null,
+          "description": "能登半島地震で被災し2次避難している人たちに、ひとときの安らぎを感じてもらおうと、茶の湯の愛好家が避難所を訪れ抹茶をふるまう催しを開きました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399191000.html",
+          "publishedOn": "2024-03-22T04:27:55.000Z",
+          "wordCount": 615,
+          "title": "2次避難している人に抹茶でひとときの安らぎを 石川 能美",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399191_2403221224_0322132344_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399201000.html",
           "author": null,
@@ -17323,6 +17323,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034048.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：草井満子：2024/03/21(木) 14:34:28.48 ID:2g3Nn34f0●.net\n\n\n\n\n\n\n\n\n盗撮に悩むチアリーダー　各校、生徒守る対策　センバツ高校野球https://t.co/1vFMhdnju3チアリーダーの衣装を変更▽「応援生徒の撮影はご遠慮下さい」といった注意書きを持った教員が見回り▽チア...",
+          "link": "https://itainews.com/archives/2034048.html",
+          "publishedOn": "2024-03-22T05:01:58.000Z",
+          "wordCount": 2378,
+          "title": "甲子園のチアリーダー「半ズボンより今までのが良かった」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/7/c73da6be-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034059.html",
           "author": "damono3856",
