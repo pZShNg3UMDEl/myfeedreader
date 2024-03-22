@@ -324,16 +324,6 @@
           "wordCount": 2610,
           "title": "5kVスタンドオフ機能付き小型SIPリードリレー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/26/cover_news063.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/22/news070.html",
-          "author": null,
-          "description": "ネクスペリアは、CFPパッケージを用いたプレーナー型ショットキーダイオードシリーズの提供を開始した。11種の産業用製品および11種の車載用製品をラインアップにそろえている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/22/news070.html",
-          "publishedOn": "2024-02-22T00:00:00.000Z",
-          "wordCount": 2604,
-          "title": "より小型なCFPパッケージを採用したショットキーダイオード",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/22/cover_news070.jpg"
         }
       ]
     },
@@ -2044,6 +2034,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399841000.html",
+          "author": null,
+          "description": "26日に北朝鮮のピョンヤンで予定されていた、サッカー男子ワールドカップアジア2次予選の日本と北朝鮮の試合について、アジアサッカー連盟は予期せぬ事情で予定どおりに開催できなくなったことを改めて発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399841000.html",
+          "publishedOn": "2024-03-22T11:59:45.000Z",
+          "wordCount": 482,
+          "title": "サッカー 日本対北朝鮮 “予定どおりに開催できず”アジア連盟",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399841_2403222054_0322205947_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399711000.html",
           "author": null,
           "description": "政府は、3月の月例経済報告で、景気の現状について「このところ足踏みもみられるが、緩やかに回復している」という判断を据え置きました。また、日銀の金融政策の転換を受けて「政府と日銀は緊密に連携し経済・物価動向に応じて機動的な政策運営を行っていく」としています。",
@@ -2052,6 +2052,16 @@
           "wordCount": 673,
           "title": "政府 景気判断を据え置き「足踏みもみられるが緩やかに回復」",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399711_2403221847_0322194537_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399721000.html",
+          "author": null,
+          "description": "去年、全国の警察が取り扱った学校などでのいじめが原因となった事件は、290件余りで、過去10年で最も多くなったことが、警察庁への取材でわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399721000.html",
+          "publishedOn": "2024-03-22T10:42:29.000Z",
+          "wordCount": 667,
+          "title": "いじめ原因の事件 去年292件 10年間で最多 スマホ普及も背景に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399721_2403221849_0322191130_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014398921000.html",
@@ -9351,6 +9361,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99438",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/22(金) 12:01:06.27 ID:RcD1R+HF0 スクエニか？ & […]",
+          "link": "https://switchsoku.com/gossip/99438",
+          "publishedOn": "2024-03-22T12:00:07.000Z",
+          "wordCount": 10208,
+          "title": "和ゲー会社四天王｢カプコン｣｢フロム｣｢任天堂｣‥後一つは？？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/game-company.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99435",
           "author": "SWITCH速報",
           "description": "1: 2024/03/22(金) 14:28:44.66 ID:lO0SIy9T0 https:// […]",
@@ -11679,16 +11699,6 @@
           "wordCount": 10068,
           "title": "MS、ファーストタイトルの他機種展開を発表‥『Grounded』『Pentiment』がSwichに向けに",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/20240222-283417-header-696x392-1.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98443",
-          "author": "SWITCH速報",
-          "description": "Nintendo Direct ソフトメーカーラインナップ 2024.2.21にて、『北海道連鎖殺人 […]",
-          "link": "https://switchsoku.com/soft/98443",
-          "publishedOn": "2024-02-22T00:00:19.000Z",
-          "wordCount": 10152,
-          "title": "『オホーツクに消ゆ』発売でおっさん狂喜乱舞",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/ohotukunikiyu.webp"
         }
       ]
     },
@@ -11884,6 +11894,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/120857/",
+          "author": null,
+          "description": "3月22日午後9時から、日本テレビ系「金曜ロードショー」にてスタジオジブリの劇場アニメ「魔女の宅急便」が放送されます。 同作は、角野栄子氏による同名児童文学シリーズが原作。宮崎駿監督が「となりの...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/120857/",
+          "publishedOn": "2024-03-22T12:00:00.000Z",
+          "wordCount": 959,
+          "title": "「魔女の宅急便」あらすじ、声優まとめ　宮崎駿氏ではなかった初代監督、ジブリと日本テレビの深いつながり",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120869/",
           "author": null,
@@ -23659,16 +23684,6 @@
           "wordCount": 1402,
           "title": "飼い主さんの事が好きすぎる子猫達",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68954.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=68990",
-          "author": "299",
-          "description": "今回ご紹介するのは先住猫に可愛がってもらう子猫ちゃんです。 先住猫は子猫ちゃんを気に入ってるのか、前足で子猫ちゃんをしっかと掴んでギュっとハグ。 仲良く過ごす様子が微笑ましいのでご覧ください。 先住猫のむーくんが寝転がっ...\n先住猫に愛でられる子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/68990",
-          "publishedOn": "2024-02-22T00:00:43.000Z",
-          "wordCount": 1410,
-          "title": "先住猫に愛でられる子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/68990.jpg"
         }
       ]
     },
