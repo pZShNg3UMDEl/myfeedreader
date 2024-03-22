@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/22/news088.html",
+          "author": null,
+          "description": "日本電波工業は、小型光通信モジュール向けに、2016サイズの差動出力水晶発振器「NP2016SA」「NP2016SB」を開発した。105℃の高温に対応し、位相ジッタは70フェムト秒となっている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/22/news088.html",
+          "publishedOn": "2024-03-22T00:00:00.000Z",
+          "wordCount": 2579,
+          "title": "105℃の高温環境に対応する、2016サイズの小型差動出力水晶発振器",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/22/cover_news088.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html",
           "author": null,
           "description": "ケイデンス・デザイン・システムズは、車載向けのDSP（デジタルシグナルプロセッサ） IPコア「Vision 341 DSP」「Vision 331 DSP」を発表した。4Dイメージングレーダー用途向けの「Cadence Tensilica Vision 4DR Accelerator」との併用で、3倍以上の性能向上が可能になる。",
@@ -2013,6 +2023,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014398871000.html",
+          "author": null,
+          "description": "きょう22日の東京株式市場、日経平均株価は200円以上値上がりして4万1000円台をつけ、取り引き時間中としての最高値を更新しました。21日のニューヨーク市場でダウ平均株価が史上最高値を更新した流れを受け継いで買い注文が先行していることに加え、外国為替市場で円安が進み輸出関連銘柄も値上がりしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014398871000.html",
+          "publishedOn": "2024-03-22T00:26:39.000Z",
+          "wordCount": 591,
+          "title": "株価 200円以上値上がりで4万1000円台 最高値を更新",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014398871_2403220913_0322092641_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014398861000.html",
+          "author": null,
+          "description": "22日の東京外国為替市場は、21日にアメリカで発表された経済指標が市場予想を上回ったことなどから円安が進み、円相場は1ドル＝151円台後半で取引されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014398861000.html",
+          "publishedOn": "2024-03-22T00:07:56.000Z",
+          "wordCount": 462,
+          "title": "円相場 1ドル＝151円台後半で取引 円安が進む",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014398861_2403220855_0322090759_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014398581000.html",
           "author": null,
@@ -8941,6 +8971,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99417",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/21(木) 22:01:43.66 7位（初登場）　Switch　マクロス - […]",
+          "link": "https://switchsoku.com/soft/99417",
+          "publishedOn": "2024-03-22T00:00:40.000Z",
+          "wordCount": 10045,
+          "title": "Switch『マクロス -Shooting Insight-』初週 6,961本",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/11/macross-shooting.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99415",
           "author": "SWITCH速報",
           "description": "1: 2024/03/21(木) 18:13:16.21 ID:shhlXUgY0 海外Amazon […]",
@@ -11229,16 +11269,6 @@
           "wordCount": 9422,
           "title": "『ガンダムブレイカー4』2024年 発売決定！",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/gundam-breaker-4.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98425",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/20(火) 14:34:12.83 ID:qihJEcQW0 2月21日（水） […]",
-          "link": "https://switchsoku.com/direct/98425",
-          "publishedOn": "2024-02-21T12:11:32.000Z",
-          "wordCount": 10156,
-          "title": "Nintendo Direct ソフトメーカーラインナップ 2024.2.21 待機",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/nintndo-direct-2-21.webp"
         }
       ]
     },
@@ -14698,21 +14728,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120648/",
-          "author": null,
-          "description": "女子競輪を題材にしたテレビアニメ「リンカイ！」の放送が4月9日からはじまることが決定し、制作スタッフと主題歌の詳細が発表された。ティザー映像とメインビジュアルも公開されている。 同作は、女子競輪...",
-          "link": "https://anime.eiga.com/news/120648/",
-          "publishedOn": "2024-02-21T12:00:00.000Z",
-          "wordCount": 983,
-          "title": "競輪アニメ「リンカイ！」4月9日放送開始、ティザー映像公開　トムス・エンタテインメント制作、石山タカ明が監督",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15107,16 +15122,6 @@
           "wordCount": 4368,
           "title": "お休み",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9558",
-          "author": "watanabe@logipara.com",
-          "description": "♪捜し物はナンですか～ 　 　 ♪見つけにくいモンですか～ 　 　 　 「…………………モン？？」",
-          "link": "https://logipara.com/diary-text/2024-02-22",
-          "publishedOn": "2024-02-21T12:19:49.000Z",
-          "wordCount": 4395,
-          "title": "ずっと探している",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/02/image-2-scaled.jpg"
         }
       ]
     },
@@ -15696,6 +15701,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=239843",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]",
+          "link": "https://foodfighter.jp/matsuya-butakimuchidon",
+          "publishedOn": "2024-03-22T00:33:28.000Z",
+          "wordCount": 1845,
+          "title": "【松屋】豚キムチ丼・大盛り【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/23979e2a8f469713369d71adf4a21a32.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=239819",
           "author": "foodfighter",
@@ -20352,16 +20367,6 @@
           "wordCount": 2384,
           "title": "【サッカー】なでしこ・熊谷「あってはならない」　北朝鮮戦4日前にサウジ開催決定に怒り　計3万キロ移動の強行軍　試合開始時間は未定",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/9/b98527b8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033271.html",
-          "author": "damono3856",
-          "description": "1 名前：蚤の市 ★：2024/02/21(水) 08:24:53.77 ID:e2z62A3d9.net\n\n\n\n\n\n\n\n1年たっても注文ゼロ…ドローン配送、買い物弱者支援目指すも中止へhttps://t.co/80u3KuCNSj2022年度から3カ年度で計約1億円の補助をする予定でしたが、千葉県勝浦市は最終年度だった24年度予算...",
-          "link": "https://itainews.com/archives/2033271.html",
-          "publishedOn": "2024-02-21T12:02:52.000Z",
-          "wordCount": 2451,
-          "title": "1年たっても注文ゼロ…ドローン配送、買い物弱者支援目指すも中止へ(勝浦市)",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/f/2ff104f8-s.png"
         }
       ]
     },
