@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T19:12:12.620Z</updated>
+    <updated>2024-03-22T19:22:11.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モスクワ郊外のコンサートホールで銃乱射 複数の死傷者]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400161000.html"/>
+        <updated>2024-03-22T19:18:42.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの国営メディアは首都モスクワ郊外のコンサートホールで22日、何者かが銃を乱射し、建物から火災が起きていると伝えました。ロシアの治安機関FSB＝連邦保安庁によりますと複数の死傷者が出ているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカー男子U-23日本代表 1対3でマリに敗戦 強化試合]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014400071000.html</id>
