@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T23:22:37.648Z</updated>
+    <updated>2024-03-22T23:37:24.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俳優 寺田農さん死去 81歳]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400201000.html"/>
+        <updated>2024-03-22T23:32:51.000Z</updated>
+        <summary type="html"><![CDATA[長年、テレビや舞台などで活躍し、高い演技力で知られた寺田農さんが3月14日、肺がんのため亡くなりました。81歳でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水原氏の違法賭博「正式に調査を開始」大リーグ機構が声明発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240323/k10014400191000.html</id>
