@@ -1994,6 +1994,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240323/k10014400181000.html",
+          "author": null,
+          "description": "センバツ高校野球は大会6日目の23日、天候不良のため、中止となり、予定されていた3試合が24日に順延されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240323/k10014400181000.html",
+          "publishedOn": "2024-03-22T21:31:03.000Z",
+          "wordCount": 718,
+          "title": "高校野球 センバツ 天候不良できょうの3試合中止 あすに順延",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240323/K10014400181_2403230630_0323063105_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240323/k10014400011000.html",
           "author": null,
           "description": "能登半島地震では、木造の住宅だけでなくコンクリート造の建物でも被害が出たことなどをふまえ、国土交通省は地域の地震活動に応じて建物の耐震強度を割り引く「地震地域係数」を、全国一律にすることも含め見直すことを検討していることが分かりました。",
@@ -15402,21 +15412,6 @@
           "publishedOn": "2024-02-22T10:00:00.000Z",
           "wordCount": 861,
           "title": "「甘神さんちの縁結び」主演に鈴木崚汰　上坂すみれ、本渡楓、若山詩音が巫女三姉妹に",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120653/",
-          "author": null,
-          "description": "「月刊コミックガーデン」「MAGCOMI」で連載中の漫画「ニャイト・オブ・ザ・リビングキャット」が、2025年にテレビアニメ化されることが発表された。あわせて、ティザーPVとティザービジュアルが...",
-          "link": "https://anime.eiga.com/news/120653/",
-          "publishedOn": "2024-02-22T09:30:00.000Z",
-          "wordCount": 821,
-          "title": "「ニャイト・オブ・ザ・リビングキャット」25年にTVアニメ化決定　猫に支配された世界が舞台",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
