@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T06:16:35.949Z</updated>
+    <updated>2024-03-22T06:35:49.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪桐蔭 西谷監督 春夏の甲子園で「68」勝目 歴代最多に並ぶ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014399311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014399311000.html"/>
+        <updated>2024-03-22T06:23:46.000Z</updated>
+        <summary type="html"><![CDATA[22日に行われたセンバツ高校野球の第2試合で、大阪桐蔭高校が北海道の北海高校に勝ち、大阪桐蔭を指揮する西谷浩一監督が春夏の甲子園であげた勝利数が「68」となり、歴代最多に並びました。ことしのセンバツには出場校で最長となる5年連続の出場を果たし、春夏合わせて23回目の甲子園でわずか1敗という驚異的な強さを見せてきた初戦で最多記録に並びました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西日本豪雨の「思い出の品」広島市が3月で保管終了へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014399321000.html</id>
