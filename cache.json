@@ -2054,6 +2054,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399441000.html",
+          "author": null,
+          "description": "大阪市に本社がある製薬会社「小林製薬」は、「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気を発症したという報告を受けたことを明らかにしました。健康食品と病気の関連性の有無はわかっていないということですが、会社ではこの成分を含む3つの健康食品の使用の中止を呼びかけるとともに自主回収するとしています。会社はこのあと記者会見を開いて説明することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399441000.html",
+          "publishedOn": "2024-03-22T08:24:41.000Z",
+          "wordCount": 636,
+          "title": "小林製薬「紅麹」含む健康食品を自主回収へ このあと記者会見",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399441_2403221711_0322172444_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399451000.html",
+          "author": null,
+          "description": "IR（統合型リゾート施設）の事業をめぐる汚職事件で、収賄と証人買収の罪に問われた秋元司元衆議院議員に対し、2審の東京高等裁判所は無罪の主張を退け、1審に続き懲役4年の実刑判決を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399451000.html",
+          "publishedOn": "2024-03-22T08:04:52.000Z",
+          "wordCount": 713,
+          "title": "IRめぐる汚職事件 秋元司元議員に2審も懲役4年の実刑判決",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399451_2403221702_0322170454_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399381000.html",
           "author": null,
           "description": "東日本大震災で被災した自治体の財政を支援するために交付される今年度の震災復興特別交付税は、総額で717億円となり、これまでで最も少なくなりました。",
@@ -16041,6 +16061,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=239886",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Mo […]",
+          "link": "https://foodfighter.jp/hottomotto-fried-chicken-lemon",
+          "publishedOn": "2024-03-22T08:23:59.000Z",
+          "wordCount": 1850,
+          "title": "【ほっともっと】ほっとチキン 瀬戸内レモンペッパー【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/33791d1fe917fb24c4351c13308cb02b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=239864",
           "author": "foodfighter",
