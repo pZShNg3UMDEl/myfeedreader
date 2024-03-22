@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T03:25:04.531Z</updated>
+    <updated>2024-03-22T03:35:36.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[水俣病訴訟 一部の原告にり患認めるも訴え退ける 熊本地裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014398901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014398901000.html"/>
+        <updated>2024-03-22T03:32:27.000Z</updated>
+        <summary type="html"><![CDATA[水俣病と認定されず、救済策の対象にもならないのは不当だと主張して熊本や鹿児島などの140人余りが国と熊本県、それに原因企業に賠償を求めた裁判の判決で熊本地方裁判所は、原告側の訴えをいずれも退けました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小田急・小田原線が運転再開 新宿駅の天井部分焼ける]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240322/k10014399151000.html</id>
