@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T03:14:05.664Z</updated>
+    <updated>2024-03-22T03:25:04.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小田急・小田原線が運転再開 新宿駅の天井部分焼ける]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014399151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014399151000.html"/>
+        <updated>2024-03-22T03:19:12.000Z</updated>
+        <summary type="html"><![CDATA[小田急電鉄によりますと、新宿駅の施設で火災報知器が作動した影響で小田急・小田原線は新宿駅と経堂駅の間の上下線で運転を見合わせていましたが、午後0時5分に運転を再開しました。東京消防庁によりますと工事をしていた駅の天井部分の一部が焼けたということですが消し止められたということです。けが人などの情報はないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【米国】ワシントン州の滝で日本人2人転落し死亡 TikTokで注目の滝]]></title>
         <id>https://itainews.com/archives/2034059.html</id>
