@@ -343,6 +343,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72275",
+          "author": "多根清史",
+          "description": "マイクロソフトは22日深夜にオンラインイベント「New Era of Work」を開催し、その場で新型PC「Surface Pro 10 for Business」および「Surface Laptop 6 for Business」を発表した。 ただし、いずれも法人向け製品であり、一般消費者向けには […]",
+          "link": "https://gadget.phileweb.com/post-72275/",
+          "publishedOn": "2024-03-22T03:36:58.000Z",
+          "wordCount": 841,
+          "title": "マイクロソフト、AI PC「Surface Pro 10」「Surface Laptop 6」発表。ただし法人向けのみ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/Meet-Surface-Pro-10-and-Surface-Laptop-6-for-Business-0-11-screenshot.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72266",
           "author": "多根清史",
           "description": "Googleは次期Android 15のパブリックベータ公開に先立ち、開発者向けに「Android 15 Developer Preview 2」をリリースした。今回の目玉機能は、ついに待望の衛星通信サポートがもたらされたことだ。 公式サイトからイメージを入手で、対応端末は「Pixel 8／8 Pr […]",
@@ -2023,6 +2033,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399071000.html",
+          "author": null,
+          "description": "自民党は、露出の多い女性ダンサーが招かれた若手議員らの懇親会について、参加者がチップを口にくわえて渡す行為があったことなどを認める一方、政党交付金からの支出はなかったなどとする報告書をまとめ、野党側に示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399071000.html",
+          "publishedOn": "2024-03-22T03:45:35.000Z",
+          "wordCount": 824,
+          "title": "自民 女性ダンサー招かれた懇親会 報告書まとめ野党側に示す",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399071_2403221200_0322124537_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399121000.html",
+          "author": null,
+          "description": "今月、JR秋葉原駅近くにあるトレーディングカード店で、およそ500万円で販売されていたカードを盗んだとして、いずれも22歳の容疑者2人が逮捕されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399121000.html",
+          "publishedOn": "2024-03-22T03:42:09.000Z",
+          "wordCount": 571,
+          "title": "トレーディングカード店で約500万円のカードを窃盗か 2人逮捕",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399121_2403221206_0322124022_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014398901000.html",
           "author": null,
