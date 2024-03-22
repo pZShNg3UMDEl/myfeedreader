@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T10:40:15.524Z</updated>
+    <updated>2024-03-22T10:50:22.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年度の教科書 水原氏解雇も影響 「QRコード」は掲載増加]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014398921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014398921000.html"/>
+        <updated>2024-03-22T10:39:15.000Z</updated>
+        <summary type="html"><![CDATA[来年4月から中学校で使われる教科書の検定結果が公表されました。合格した教科書では、多様な家族のあり方や性の多様性など社会の状況を反映した記述も増えた一方で、検定意見がつき修正されたケースも複数ありました。ただ、中には大谷選手の通訳を務め球団を解雇された水原一平氏が掲載されている教科書もあり、教科書を申請した会社の中には「報道されていることが事実だとすれば、内容の差し替えも含め検討せざるを得ないと考えています」とコメントする社があるなど影響が広がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学習院仮処分２　堀口答弁書の感想]]></title>
         <id>https://note.com/hima_kuuhaku/n/n6de728dd0c51</id>
