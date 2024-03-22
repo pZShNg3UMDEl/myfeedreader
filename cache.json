@@ -1811,16 +1811,6 @@
           "wordCount": 763,
           "title": "Razer、あぐらでも座りやすいゲーミングチェア「Iskur V2」",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/DSC_6399.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=69646",
-          "author": "佐野正弘",
-          "description": "能登半島地震のネットワーク復旧などにも活用され、大きな注目を集めている衛星通信サービス。米Space Exploration Technologies（スペースX）の低軌道衛星群「Starlink」を活用したサービスの登場で、低コストながら高速大容量通信ができるようになったことで活用の幅が広がってお […]",
-          "link": "https://gadget.phileweb.com/post-69646/",
-          "publishedOn": "2024-02-21T21:40:00.000Z",
-          "wordCount": 789,
-          "title": "期待と課題が入り混じる、楽天モバイルの「衛星とスマホの直接通信」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/P1010743.jpg"
         }
       ]
     },
@@ -2054,6 +2044,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399281000.html",
+          "author": null,
+          "description": "日本に在留する外国人は、去年12月末の時点で340万人を超え、過去最多となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014399281000.html",
+          "publishedOn": "2024-03-22T09:06:24.000Z",
+          "wordCount": 487,
+          "title": "在留外国人 去年12月末時点で340万人超 過去最多に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399281_2403221432_0322143329_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399501000.html",
           "author": null,
           "description": "東京・新宿で待ち合わせ場所としても親しまれた商業施設「新宿アルタ」が、売り上げの低迷などを理由に来年2月で営業を終了することになりました。",
@@ -2062,6 +2062,16 @@
           "wordCount": 706,
           "title": "「新宿アルタ」来年2月に営業終了へ ビル全体の売り上げ低迷",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014399501_2403221710_0322180142_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240322/k10014398981000.html",
+          "author": null,
+          "description": "去年4月に行われた東京の江東区長選挙をめぐる公職選挙法違反事件で、柿沢未途元衆議院議員の懲役2年、執行猶予5年の有罪判決が確定しました。公職選挙法の規定により、柿沢元議員は5年間、公民権が停止され、すべての選挙に立候補できなくなります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240322/k10014398981000.html",
+          "publishedOn": "2024-03-22T08:47:57.000Z",
+          "wordCount": 748,
+          "title": "柿沢未途元衆議院議員 懲役2年執行猶予5年の有罪判決が確定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240322/K10014398981_2403221106_0322113434_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240322/k10014399441000.html",
