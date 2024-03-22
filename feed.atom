@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T20:23:36.867Z</updated>
+    <updated>2024-03-22T20:36:23.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[神戸 児童連続殺傷事件から27年 山下彩花さん命日に父親手記]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014399981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014399981000.html"/>
+        <updated>2024-03-22T20:31:58.000Z</updated>
+        <summary type="html"><![CDATA[1997年に神戸市で起きた児童連続殺傷事件で、小学4年生の山下彩花さんが当時14歳の少年に殺害されてから、23日で27年です。彩花さんの父親は、報道機関に手記を寄せ「今でも胸が苦しくなります。辛くて寂しい、それだけです」と苦しい胸の内を明かしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドジャース大谷翔平 本拠地開幕へ準備 水原氏の問題影響懸念も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400001000.html"/>
+        <updated>2024-03-22T20:23:56.000Z</updated>
+        <summary type="html"><![CDATA[韓国での開幕シリーズを終えた大リーグ、ドジャースは日本時間29日に行われる本拠地でのシーズン初戦に向けて準備を進めます。大谷翔平選手の専属通訳で公私ともに大谷選手をサポートしていた水原一平氏が違法賭博に関与したと報じられ球団を解雇されたため今後の調整などへの影響が懸念されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同じ外科医から手術受け患者3人死亡の医療事故 岐阜 各務原]]></title>
         <id>https://itainews.com/archives/2034069.html</id>
