@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T07:35:28.526Z</updated>
+    <updated>2024-03-22T07:50:25.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[公明 石井幹事長「簡単でない」岸田首相 総裁任期中の憲法改正]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014399401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014399401000.html"/>
+        <updated>2024-03-22T07:35:37.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣がみずからの自民党総裁の任期中に憲法改正を実現したいとしていることに関連し、公明党の石井幹事長は、国会での議論が進んでおらず簡単ではないという認識を示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4使えなくなるの?!💴 #カワウソ]]></title>
         <id>f283626a4d123a8dd73a4d2ada5da614</id>
@@ -13,6 +23,16 @@
         <updated>2024-03-22T07:35:24.889Z</updated>
         <author>
             <name>ツイマンガ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乳児がベッドガードで挟まり死亡 “警告が不十分” 賠償命じる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014399411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014399411000.html"/>
+        <updated>2024-03-22T07:34:45.000Z</updated>
+        <summary type="html"><![CDATA[生後9か月の男の子がベッドから転落しないよう取り付けられていた「ベッドガード」とマットレスの間に挟まり死亡したのは、本体に対象年齢を表示していないなど警告が不十分だったからだとして、東京地方裁判所はメーカーに対し、遺族におよそ3600万円を支払うよう命じる判決を言い渡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
