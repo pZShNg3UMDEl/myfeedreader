@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T13:24:08.972Z</updated>
+    <updated>2024-03-22T13:36:28.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -51,6 +51,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240322/k10014399771000.html"/>
         <updated>2024-03-22T12:41:49.000Z</updated>
         <summary type="html"><![CDATA[大相撲春場所は13日目、1敗で優勝争い単独トップの新入幕、尊富士は関脇・若元春を破りました。早ければあすにも尊富士の優勝が決まります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港で「国家安全条例」23日に施行へ 企業活動などに影響懸念]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240322/k10014399461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240322/k10014399461000.html"/>
+        <updated>2024-03-22T12:40:50.000Z</updated>
+        <summary type="html"><![CDATA[香港では、スパイ行為など国家の安全を脅かす行為を取り締まる「国家安全条例」が、23日に施行されます。条例をめぐっては、犯罪行為の定義が広くあいまいだという指摘があり、企業活動などへの影響が懸念されています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
