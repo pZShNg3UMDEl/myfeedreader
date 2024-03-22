@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T23:37:24.272Z</updated>
+    <updated>2024-03-22T23:50:31.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】岐阜県美濃中西部で震度4 津波の心配なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400211000.html"/>
+        <updated>2024-03-22T23:36:12.000Z</updated>
+        <summary type="html"><![CDATA[23日午前８時３１分ごろ地震がありました。この地震による津波の心配はありません。震源地は岐阜県美濃中西部で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．７と推定されます。各市町村の震度は以下のとおりです。▼震度４が、岐阜県揖斐川町。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俳優 寺田農さん死去 81歳]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240323/k10014400201000.html</id>
