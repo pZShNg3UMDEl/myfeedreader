@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T21:35:39.000Z</updated>
+    <updated>2024-03-22T21:50:31.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キャサリン妃 がんで治療中とビデオメッセージで公表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400171000.html"/>
+        <updated>2024-03-22T21:43:51.000Z</updated>
+        <summary type="html"><![CDATA[イギリス王室はウィリアム皇太子の妻、キャサリン妃ががんと診断され治療を行っていると発表しました。詳しい病状などは明らかにしていませんが、当面の間は治療に専念するとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校野球 センバツ 天候不良できょうの3試合中止 あすに順延]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240323/k10014400181000.html</id>
