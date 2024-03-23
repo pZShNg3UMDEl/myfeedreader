@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T10:37:43.752Z</updated>
+    <updated>2024-03-23T10:50:10.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[1: 2024/03/23(土) 06:26:26.08 ID:XP0IYSea0 『レインコード』 […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報中】競泳 パリ五輪 代表選考 瀬戸大也 3大会連続なるか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400411000.html"/>
+        <updated>2024-03-23T10:30:22.000Z</updated>
+        <summary type="html"><![CDATA[競泳のパリオリンピックの代表選考を行う“一発勝負”の大会は7日目の23日、男子200メートル個人メドレーでは、瀬戸大也選手が3大会連続のオリンピック出場を目指します。最新情報を速報でお伝えします。NHKでは総合テレビで中継し、NHKプラスでも配信中です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、森永乳業の新商品「MOW PRIME（モウ プライム） クッキー＆クリーム」を世界一詳しく調査しました。   公式Y […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「要支援者」の避難計画 石川の半数近くの自治体で活用できず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400511000.html"/>
+        <updated>2024-03-23T10:27:18.000Z</updated>
+        <summary type="html"><![CDATA[災害の際に自力での避難が難しい人について、国は個別に避難計画を策定するよう求めていますが、能登半島地震で揺れが大きかった石川県内の自治体に取材したところ、計画を策定していなかったり策定の途中だったりして、少なくとも半数近くが計画を活用できなかったことがわかりました。自治体からは地域の高齢化などで避難を手助けする人を確保できないという声も聞かれ、専門家は「民間と適切に役割分担できるよう仕組みを考え直す必要がある」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
