@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T20:35:53.591Z</updated>
+    <updated>2024-03-23T20:50:17.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モスクワ郊外テロ事件 プーチン大統領 “関与の全員処罰する”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400771000.html"/>
+        <updated>2024-03-23T20:35:05.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの首都モスクワ郊外のコンサートホールで起きたテロ事件では、これまでに133人が死亡しました。プーチン大統領は、国民向けのビデオ演説で実行犯とみられる4人を含めて11人の容疑者を拘束したとしたうえで「事件に関与した全員を処罰する」と強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大相撲 千秋楽見どころ 尊富士 勝てば110年ぶり新入幕での優勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240324/k10014400681000.html</id>
