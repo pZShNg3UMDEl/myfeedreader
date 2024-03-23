@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T22:12:00.889Z</updated>
+    <updated>2024-03-23T22:26:00.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高校野球 センバツ 天候不良で2日連続中止 25日に順延]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400831000.html"/>
+        <updated>2024-03-23T22:23:58.000Z</updated>
+        <summary type="html"><![CDATA[センバツ高校野球は大会6日目の24日、天候不良が予想されるため、中止となり、予定されていた3試合が25日に順延されました。中止となるのは2日連続です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マウリツィオ・ポリーニ氏死去 82歳 伊の世界的ピアニスト]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240324/k10014400811000.html</id>
