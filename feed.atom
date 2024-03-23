@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T10:13:04.988Z</updated>
+    <updated>2024-03-23T10:27:41.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本サッカー協会 新会長に宮本恒靖氏が就任 47歳 戦後最年少]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400491000.html"/>
+        <updated>2024-03-23T10:12:20.000Z</updated>
+        <summary type="html"><![CDATA[日本サッカー協会の新しい会長に、これまで専務理事を務めてきた宮本恒靖氏が就任しました。47歳での就任は戦後最年少で、宮本氏は会見で「たくさんの人を巻き込みながら日本や世界のサッカーの発展に貢献したい」と意気込みを述べました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大阪】「ひきょう者」　カンニングの高2死亡「指導が原因」　両親が学校側提訴へ　私立清風高校]]></title>
         <id>https://itainews.com/archives/2034078.html</id>
@@ -42,6 +52,16 @@
         <summary type="html"><![CDATA[シリーズ形式でお届けしている、テレビアニメ「ループ７回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する」のリレーインタビュー。第7回は美術設定を担当した滝沢麻菜美さんと美術ボードを担当した...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最後の自衛隊炊き出し 被災者が温かい食事楽しむ 石川 珠洲]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400471000.html"/>
+        <updated>2024-03-23T09:40:51.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県珠洲市では、23日、最後となる自衛隊の炊き出しが行われ、多くの被災者が温かい食事を楽しみました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
