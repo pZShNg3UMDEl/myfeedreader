@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T21:10:30.253Z</updated>
+    <updated>2024-03-23T21:20:14.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デング熱 ブラジルで700人以上死亡 一部の州で非常事態宣言]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400611000.html"/>
+        <updated>2024-03-23T21:12:06.000Z</updated>
+        <summary type="html"><![CDATA[南米で蚊が媒介し、高熱などの症状を引き起こすデング熱の感染が例年にない規模で広がり、このうち、ブラジルでは、ことしに入って少なくとも700人以上の死亡が確認されていて、一部の州で地元の当局が非常事態を宣言するなどして、警戒を呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニューギニア付近でM7.0の地震 津波の心配なし]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240324/k10014400801000.html</id>
