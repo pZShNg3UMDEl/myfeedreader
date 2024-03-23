@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T23:35:34.139Z</updated>
+    <updated>2024-03-23T23:50:33.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インドネシア大統領選 落選の候補“不正あった”異議申し立て]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400751000.html"/>
+        <updated>2024-03-23T23:48:55.000Z</updated>
+        <summary type="html"><![CDATA[今月20日に結果が発表されたインドネシア大統領選挙をめぐり落選した2人の候補が選挙に不正があったとして憲法裁判所に異議を申し立て、選挙の結果をめぐる混乱が当面続く見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校野球 センバツ 天候不良で2日連続中止 25日に順延]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240324/k10014400831000.html</id>
