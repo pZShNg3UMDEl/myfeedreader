@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T08:14:39.752Z</updated>
+    <updated>2024-03-23T08:26:26.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EUの農業政策に不満 農家の抗議活動 各地で相次ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400391000.html"/>
+        <updated>2024-03-23T08:13:19.000Z</updated>
+        <summary type="html"><![CDATA[ヨーロッパでは、ウクライナ産の農産物に対する支援などEU＝ヨーロッパ連合の農業政策に不満を持つ農家の抗議活動が各地で相次ぎ、EUが対応を迫られる事態となっていて、専門家からは、今後のウクライナ支援にも影響しかねないという指摘が出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マナー「新幹線は窓側が上座。真ん中肘掛けは窓側の人が使うルール」　JR「そんな事実はない」]]></title>
         <id>https://itainews.com/archives/2034081.html</id>
