@@ -1994,6 +1994,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240323/k10014400561000.html",
+          "author": null,
+          "description": "JR九州の観光列車「SL人吉」は23日が最後の営業運転となり、駅や沿線にはラストランを見に多くの人が集まって引退を惜しみました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240323/k10014400561000.html",
+          "publishedOn": "2024-03-23T11:52:53.000Z",
+          "wordCount": 592,
+          "title": "JR九州の観光列車「SL人吉」ラストラン 多くの人が引退惜しむ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240323/K10014400561_2403232050_0323205137_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240323/k10014400421000.html",
           "author": null,
           "description": "不当な取り調べを防ごうと、日弁連＝日本弁護士連合会は警察などの取り調べに弁護士が立ち会うことを求めていて、4月から実際に立ち会うなどした弁護士に支援金を支払う取り組みを始めることになりました。一方、捜査機関側からは「真相解明の妨げになる」という声があり、支援制度が今後どのような影響を与えるか、注目されます。",
@@ -12274,6 +12284,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120879/",
+          "author": null,
+          "description": "テレビアニメ「俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～」の放送が7月からスタートすることが決定し、濱野大輝、前川涼子らメインキャスト第1弾とメインスタッフの顔ぶれが明ら...",
+          "link": "https://anime.eiga.com/news/120879/",
+          "publishedOn": "2024-03-23T12:00:00.000Z",
+          "wordCount": 1331,
+          "title": "「俺は全てを【パリイ】する」7月放送開始　濱野大輝、前川涼子らキャスト情報やティザーPVなど発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120878/",
           "author": null,
@@ -24154,16 +24179,6 @@
           "wordCount": 1404,
           "title": "お父さんが大好きな甘えん坊の子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69023.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=69058",
-          "author": "299",
-          "description": "子猫部屋のなかの子猫達の様子を隠し撮りしてみました。部屋のなかに設置したカメラは一体何を映し出すのか楽しみですね。なんと部屋のドアの前に五匹の子猫たちが集まっています。 みんなドアに次々とジャンプしてなんとか部屋から外に...\nごはんが待ちきれにゃい〜部屋のドアの前で五匹の子猫たちが勢いよくジャーンプ！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/69058",
-          "publishedOn": "2024-02-23T00:00:06.000Z",
-          "wordCount": 1397,
-          "title": "ごはんが待ちきれにゃい〜部屋のドアの前で五匹の子猫たちが勢いよくジャーンプ！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69058.jpg"
         }
       ]
     },
