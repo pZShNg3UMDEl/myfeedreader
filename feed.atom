@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T02:18:23.873Z</updated>
+    <updated>2024-03-23T02:35:45.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[尊富士 110年ぶり 新入幕優勝なるか きょう朝乃山と対戦]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240323/k10014400241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240323/k10014400241000.html"/>
+        <updated>2024-03-23T02:19:01.000Z</updated>
+        <summary type="html"><![CDATA[大相撲春場所は14日目、優勝争い単独トップの新入幕、尊富士（たけるふじ）は、大関経験者の朝乃山と対戦です。勝てば新入幕としては110年ぶりとなる優勝が決まります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震で倒壊し公費解体 輪島 珠洲など6市町では112件]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240323/k10014400221000.html</id>
