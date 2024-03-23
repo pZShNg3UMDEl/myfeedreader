@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T21:20:14.218Z</updated>
+    <updated>2024-03-23T21:36:13.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マウリツィオ・ポリーニ氏死去 82歳 伊の世界的ピアニスト]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400811000.html"/>
+        <updated>2024-03-23T21:31:08.000Z</updated>
+        <summary type="html"><![CDATA[卓越した技術で知られるイタリアの世界的なピアニスト、マウリツィオ・ポリーニ氏が亡くなりました。82歳でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“物価 悪い方向に向かっている”7割近く 内閣府の世論調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400651000.html"/>
+        <updated>2024-03-23T21:22:33.000Z</updated>
+        <summary type="html"><![CDATA[内閣府が行った世論調査で、今の日本で悪い方向に向かっているものは何か尋ねたところ、「物価」と答えた人が7割近くに上り、昨年度に続いて最も高くなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デング熱 ブラジルで700人以上死亡 一部の州で非常事態宣言]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240324/k10014400611000.html</id>
