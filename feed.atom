@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T10:12:53.935Z</updated>
+    <updated>2024-03-24T10:27:21.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[維新 馬場代表 ”自民に代わる政権政党目指す” 結束呼びかけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014401131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014401131000.html"/>
+        <updated>2024-03-24T10:20:11.000Z</updated>
+        <summary type="html"><![CDATA[日本維新の会が党大会を開き、馬場代表は「自民党に代わる政権政党を目指す」と述べ、結束を呼びかけました。そして次の衆議院選挙での与党の過半数割れなどを目標に掲げた活動方針を決定しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本の漫画「タダ読み」被害深刻化 外国語の海賊版対策 急務に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014401141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014401141000.html"/>
+        <updated>2024-03-24T10:17:49.000Z</updated>
+        <summary type="html"><![CDATA[日本の漫画が世界で人気を集める中、外国語に翻訳された作品を無断で掲載した海賊版サイトの被害が深刻化しています。スマートフォンなどのアプリを配信する公式ストアでも海賊版に誘導する外国語の違法なアプリが複数確認されていて、業界団体は対策が必要だとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【フジ】堤礼実アナがドアップでニュース原稿を読む「Live News α」が審議入り 「男性向けの目線で作られている」]]></title>
         <id>https://itainews.com/archives/2034100.html</id>
