@@ -12545,6 +12545,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/aj2024_event/120917/",
+          "author": null,
+          "description": "テレビアニメ「新テニスの王子様 U-17 WORLD CUP SEMIFINAL」の新キャストとして、落合福嗣、井藤智哉、小林親弘が出演することが分かった。あわせて、ティザーPV、ティザービジュ...",
+          "link": "https://anime.eiga.com/news/column/aj2024_event/120917/",
+          "publishedOn": "2024-03-24T08:30:00.000Z",
+          "wordCount": 1424,
+          "title": "「新テニスの王子様 U-17 WORLD CUP SEMIFINAL」ドイツ代表の新キャストに落合福嗣、井藤智哉、小林親弘　ティザーPVも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120918/",
           "author": null,
           "description": "テレビアニメ「僕のヒーローアカデミア」第7期の最新PVが公開された。さらに、「TK from 凛として時雨」が担当するオープニングテーマのタイトルが「誰我為」であることが明らかになり、PV内で音...",
@@ -17291,6 +17306,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240101",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年3月17日から3月23日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全10種類）を美味しい・おすすめ […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0324",
+          "publishedOn": "2024-03-24T08:27:58.000Z",
+          "wordCount": 1801,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年3月17日から3月23日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/ca0a8b8ea19b86b62b3a8403159f9e28.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240078",
           "author": "foodfighter",
