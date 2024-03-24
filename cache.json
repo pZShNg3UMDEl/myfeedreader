@@ -1994,6 +1994,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240324/k10014400891000.html",
+          "author": null,
+          "description": "天皇皇后両陛下が、ことし6月下旬ごろから1週間程度の日程で国賓としてイギリスを公式訪問される方向で調整が進められていることが、関係者への取材で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240324/k10014400891000.html",
+          "publishedOn": "2024-03-24T03:14:22.000Z",
+          "wordCount": 627,
+          "title": "天皇皇后両陛下 イギリスを公式訪問で調整 6月下旬ごろから",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240324/K10014400891_2403241130_0324121423_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240324/k10014400861000.html",
           "author": null,
           "description": "26日の開催が中止となったサッカー男子ワールドカップアジア2次予選の日本と北朝鮮の試合について、FIFA＝国際サッカー連盟は、試合を延期するには日程に余裕がないことから実施しないと発表しました。試合の扱いについては、FIFAの規律委員会で協議するとしています。",
@@ -12424,6 +12434,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120911/",
+          "author": null,
+          "description": "テレビアニメ「【推しの子】」第2期が7月から放送されることが決まり、ティザービジュアル第2弾、ビジュアル公開記念映像、新キャストが発表された。第2期から登場する新キャラクターを内山昂輝と小林裕介...",
+          "link": "https://anime.eiga.com/news/120911/",
+          "publishedOn": "2024-03-24T03:15:00.000Z",
+          "wordCount": 1158,
+          "title": "「【推しの子】」第2期は7月放送開始　内山昂輝＆小林裕介が出演決定、新映像やビジュアルも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/aj2024_event/120904/",
           "author": null,
