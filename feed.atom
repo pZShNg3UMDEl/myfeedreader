@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T03:50:37.055Z</updated>
+    <updated>2024-03-24T04:16:13.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メッツ 藤浪晋太郎 マイナーリーグへ オープン戦は防御率12.27]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400951000.html"/>
+        <updated>2024-03-24T04:08:54.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、メッツのメンドーサ監督は、藤浪晋太郎投手をマイナーリーグに降格させると明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝酒造 日本酒約10万本を自主回収 小林製薬の紅麹原料を使用]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014400971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014400971000.html"/>
+        <updated>2024-03-24T04:03:34.000Z</updated>
+        <summary type="html"><![CDATA[京都市に本社のある大手酒造メーカー「宝酒造」は期間限定で販売した一部の日本酒およそ10万本を自主回収すると発表しました。22日、小林製薬が自主回収を発表した紅麹原料を使用しているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「君たちはどう生きるか」のアカデミー賞受賞効果　Maxがジブリと独占配信契約を更新]]></title>
         <id>https://anime.eiga.com/news/120802/</id>
