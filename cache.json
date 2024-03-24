@@ -1984,6 +1984,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240324/k10014401011000.html",
+          "author": null,
+          "description": "離島の防衛を担う陸上自衛隊の「水陸機動団」への部隊の配備がすべて終わり、木原防衛大臣は「抑止力と対処力がより一層強化される」と述べました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240324/k10014401011000.html",
+          "publishedOn": "2024-03-24T06:06:13.000Z",
+          "wordCount": 710,
+          "title": "陸上自衛隊 水陸機動団の中核連隊が長崎 竹松駐屯地に配備",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240324/K10014401011_2403241431_0324143550_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240324/k10014401001000.html",
           "author": null,
           "description": "台湾の次の副総統、蕭美琴氏が先週、ヨーロッパを歴訪して各国の議会関係者との会談や演説などを行い、EU＝ヨーロッパ連合に対し、実際の行動で台湾を支持するよう求めました。",
@@ -12494,6 +12504,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/aj2024_event/120919/",
+          "author": null,
+          "description": "テレビアニメ「ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII」が10月から放送されることが決まり、第2弾特報、第1弾キービジュアルも公開された。7月には第1期の再放送も決定...",
+          "link": "https://anime.eiga.com/news/column/aj2024_event/120919/",
+          "publishedOn": "2024-03-24T06:30:00.000Z",
+          "wordCount": 1280,
+          "title": "「ガンゲイル・オンライン」第2期、10月放送開始　楠木ともりの新ボイスを収録した第2弾特報公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120870/",
           "author": null,
