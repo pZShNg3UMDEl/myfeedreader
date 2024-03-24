@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T21:20:51.126Z</updated>
+    <updated>2024-03-24T21:35:33.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ハーゲンダッツ】ティラミスクッキークランチ【新作アイス】]]></title>
+        <id>https://foodfighter.jp/?p=240135</id>
+        <link href="https://foodfighter.jp/haagen-dazs-tiramisu-cookie-crunch"/>
+        <updated>2024-03-24T21:30:10.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ハーゲンダッツの新商品「ティラミスクッキークランチ」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日中韓の大学生らがスピーチ 3か国のことばで交流の大切さ訴え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401251000.html"/>
+        <updated>2024-03-24T21:26:32.000Z</updated>
+        <summary type="html"><![CDATA[日中韓3か国の若者によるスピーチコンテストが中国で開かれ、参加者たちは3か国のことばをすべて使うなどして互いの交流の大切さを訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モスクワ テロ事件死者137人に プーチン大統領 側近集め協議か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240325/k10014401281000.html</id>
