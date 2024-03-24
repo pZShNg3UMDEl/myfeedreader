@@ -1984,6 +1984,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240324/k10014400941000.html",
+          "author": null,
+          "description": "大リーグのオープン戦でブルージェイズとタイガースが対戦し、菊池雄星投手と前田健太投手がそれぞれ先発しましたが、いずれも打ち込まれ、開幕に向けてともに課題を残す結果となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240324/k10014400941000.html",
+          "publishedOn": "2024-03-24T05:27:50.000Z",
+          "wordCount": 734,
+          "title": "菊池雄星と前田健太がオープン戦に先発 ともに課題残す結果に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240324/K10014400941_2403241212_0324142752_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240324/k10014400981000.html",
+          "author": null,
+          "description": "女子ゴルフの国内ツアーの大会は24日、宮崎県で最終ラウンドが行われる予定でしたが悪天候のため中止になりました。競技は第2ラウンドまでの36ホールに短縮され、前日の第2ラウンドを終えて首位に立っていた25歳の臼井麗香選手が通算13アンダーでツアー初優勝を果たしました。1打差の2位には2年連続年間女王の山下美夢有選手が入り、通算10アンダーの3位は20歳の小林夢果選手でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240324/k10014400981000.html",
+          "publishedOn": "2024-03-24T05:23:45.000Z",
+          "wordCount": 741,
+          "title": "女子ゴルフ 臼井麗香が国内ツアー初優勝 最終Rは悪天候で中止",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240324/K10014400981_2403241233_0324142347_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240324/k10014400931000.html",
           "author": null,
           "description": "イスラエルとイスラム組織ハマスの間の戦闘休止などに向けた交渉をめぐり、イスラエルのメディアは、交渉に関わっているアメリカが人質の解放について新たな提案を行ったと伝えました。一方、ガザ地区での人道状況が深刻化する中、ハマス側は、食料や医薬品の不足で人質1人が死亡したと発表しました。",
@@ -12464,6 +12484,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120914/",
+          "author": null,
+          "description": "テレビアニメ「魔法科高校の劣等生 第3シーズン」より、「ダブルセブン編」のPVとキービジュアルが公開された。 第3シーズンは、「ダブルセブン編」「スティープルチェース編」「古都内乱編」の全3部で...",
+          "link": "https://anime.eiga.com/news/120914/",
+          "publishedOn": "2024-03-24T05:30:00.000Z",
+          "wordCount": 1270,
+          "title": "「魔法科高校の劣等生 第3シーズン」PV＆キービジュアル公開　全3部のエンディングテーマも一挙発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/aj2024_event/120915/",
           "author": null,
