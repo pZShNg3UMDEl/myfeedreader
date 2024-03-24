@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T10:27:21.733Z</updated>
+    <updated>2024-03-24T10:37:31.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 仮設住宅に順次入居 孤独や不安の訴えどうすれば]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240324/k10014401031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240324/k10014401031000.html"/>
+        <updated>2024-03-24T10:28:24.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震からまもなく3か月です。被災地では一部で仮設住宅への入居が始まっていますが、異なる環境での暮らしなどから喪失感や孤独を感じる人も出てきています。専門家は心のケアが大きな課題になるとして、積極的な支援が必要だと指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維新 馬場代表 ”自民に代わる政権政党目指す” 結束呼びかけ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240324/k10014401131000.html</id>
