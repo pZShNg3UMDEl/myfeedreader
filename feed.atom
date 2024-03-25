@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T14:37:09.571Z</updated>
+    <updated>2024-03-25T14:50:24.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -93,6 +93,16 @@
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム プリンみたいなクリームパン 3個入り」を世界一詳しく調査しました。   公 […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明星大学に爆破予告メール 入学式中止を発表 東京 日野]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014402311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014402311000.html"/>
+        <updated>2024-03-25T12:07:19.000Z</updated>
+        <summary type="html"><![CDATA[東京 日野市にある明星大学は来月予定していた入学式で爆破を予告する内容のメールが届いたことから、式典を中止すると発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
