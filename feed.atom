@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T09:23:48.875Z</updated>
+    <updated>2024-03-25T09:35:44.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[志賀原発に到達の津波 約4mまで駆け上がったか 北陸電力調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014402041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014402041000.html"/>
+        <updated>2024-03-25T09:26:57.000Z</updated>
+        <summary type="html"><![CDATA[北陸電力は、能登半島地震で石川県志賀町にある志賀原子力発電所に到達した津波が、海岸部分をおよそ4メートルの高さまで駆け上がったとみられると発表しました。敷地の高さは11メートルあり、原発の安全性に影響はなかったとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【文春】「一平はすごく強運なんだ」大谷翔平・元通訳の父が明かしていた“息子の素顔”〈ロス現地取材、30年来の知人が独占告白〉]]></title>
         <id>https://itainews.com/archives/2034128.html</id>
