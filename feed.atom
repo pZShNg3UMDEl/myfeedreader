@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T03:35:37.357Z</updated>
+    <updated>2024-03-25T03:50:17.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[西日本～東日本の太平洋側 あす非常に激しい雨のおそれ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401671000.html"/>
+        <updated>2024-03-25T03:34:37.000Z</updated>
+        <summary type="html"><![CDATA[前線や低気圧の影響で26日は、東日本の太平洋側と西日本を中心に非常に激しい雨が降るおそれがあります。九州や伊豆諸島ではこれまでの雨で地盤が緩んでいるところがあり、気象庁は土砂災害に警戒するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion開発会社のCEO辞任。「分散型AIを追求するため」]]></title>
         <id>https://gadget.phileweb.com/?p=72343</id>
