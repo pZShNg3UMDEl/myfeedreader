@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T07:35:30.359Z</updated>
+    <updated>2024-03-25T07:50:29.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島の幼稚園 市外に避難の園児たちも出席し卒園式]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401861000.html"/>
+        <updated>2024-03-25T07:35:26.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害を受けた石川県輪島市にある幼稚園で、市外に避難している園児たちも出席して卒園式が行われました。園児の中には避難先に近い小学校に進む子もいて、別れを惜しんでいました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京 豊島区 横断歩道上に倒れていた女性死亡 ひき逃げで捜査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401461000.html"/>
+        <updated>2024-03-25T07:34:08.000Z</updated>
+        <summary type="html"><![CDATA[24日夜遅く、東京 豊島区の路上で75歳の女性が倒れているのが見つかり、その後、死亡しました。警視庁は、目撃証言や現場の状況から車にはねられたとみて、ひき逃げ事件として捜査しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jackery、ポータブル電源もらえる特別キャンペーン。エディオン横浜西口本店で3/30・31開催]]></title>
         <id>https://gadget.phileweb.com/?p=72391</id>
