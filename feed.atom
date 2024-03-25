@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T08:17:57.723Z</updated>
+    <updated>2024-03-25T08:35:52.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[札幌の同性婚訴訟 原告側が上告 賠償認めずの2審判断不服とし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401941000.html"/>
+        <updated>2024-03-25T08:31:29.000Z</updated>
+        <summary type="html"><![CDATA[同性どうしの結婚が認められていないのは憲法に違反すると、2審として初めて認めた札幌高等裁判所の判決について、原告の同性カップル側は、賠償を認めなかった判断を不服として、25日、最高裁判所に上告しました。全国で起こされた集団訴訟で上告されるのは初めてで、最高裁判所の判断が注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】中国政府、Windows使用を全面禁止]]></title>
         <id>https://itainews.com/archives/2034140.html</id>
@@ -60,6 +70,18 @@
         <summary type="html"><![CDATA[ジャニー喜多川氏からの性被害を訴え、去年10月に亡くなった元所属タレントの男性について、遺族の代理人が「SMILE－UP．」との賠償に関する交渉に合意し、3月中旬までに補償が行われたと明らかにしました。]]></summary>
         <author>
             <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[堀口英利学習院迷惑サイト仮処分2　リーガル期日レポート]]></title>
+        <id>https://note.com/hima_kuuhaku/n/n4b5e2f2bd195</id>
+        <link href="https://note.com/hima_kuuhaku/n/n4b5e2f2bd195"/>
+        <updated>2024-03-25T07:54:19.000Z</updated>
+        <summary type="html"><![CDATA[詳しくはライブで解説します
+※期日報告書とは、弁護士が提出してくる、要点のみをおさえたやりとりの報告書です。まあみなさん裁判やったときに受け取ったことがあると思いますが。
+続きをみる]]></summary>
+        <author>
+            <name>暇空茜</name>
         </author>
     </entry>
     <entry>
@@ -28408,29 +28430,6 @@ https://news.yahoo.co.jp/articles/7f532bc7475ef4aa7dec3c553a2a6532689...]]></sum
 新しいお家にやってきてまもない子猫は、すでに我がもの顔でくつろいでいます first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conference List - August 2024]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/02/conference-list-august-2024.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/02/conference-list-august-2024.html"/>
-        <updated>2024-02-24T20:27:00.000Z</updated>
-        <summary type="html"><![CDATA[International Symposium on Sensor Science - 1-4 Aug 2024 - Singapore - Website
-
-Quantum Structure Infrared Photodetector (QSIP)  International Conference - 12-16 Aug 2024 - Santa Barbara, California, USA - Website
-
-SPIE Optics & Photonics - 18-22 Aug 2024 - San Diego, California, USA - Website
-
-International Conference on Sensors and Sensing Technology - 29-31 August 2024 - Valencia, Spain - Website
-
-
-
-                    
-If you know about additional local conferences, please add them as comments.
-
-Return to Conference List index]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
