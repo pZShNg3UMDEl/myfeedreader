@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/26/news026.html",
+          "author": null,
+          "description": "PLC電源の修理の続きだ。修理してみたものの出力電圧が中途半端な値で、まだ不具合を抱えている。そこで、メーカーに問い合わせてみたが――。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/26/news026.html",
+          "publishedOn": "2024-03-25T02:00:00.000Z",
+          "wordCount": 2598,
+          "title": "修理途中で投げ出された電源ユニットを修理（後編）",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/26/l_tt240326_002.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/25/news056.html",
           "author": null,
           "description": "SMKは、製品幅8.1mmの車載イーサネットコネクター「SE-R1」を開発した。100BASE-T1および1000BASE-T1の伝送速度に対応し、優れた接続性や衝撃耐久性を備える。",
@@ -2013,6 +2023,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240325/k10014401601000.html",
+          "author": null,
+          "description": "センバツ高校野球は大会6日目。1回戦最後のカードとなる第1試合は、茨城の常総学院が日本航空高校石川に1対0で勝って2回戦に進みました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240325/k10014401601000.html",
+          "publishedOn": "2024-03-25T02:34:59.000Z",
+          "wordCount": 479,
+          "title": "高校野球 センバツ 常総学院が日本航空石川に勝ち2回戦へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240325/K10014401601_2403251118_0325111820_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240325/k10014401581000.html",
+          "author": null,
+          "description": "日銀は、今月の金融政策決定会合でマイナス金利政策の解除を決めましたが、これに先立つことし1月の会合の時点で、解除のタイミングや具体的な手法について活発な議論が行われていたことが分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240325/k10014401581000.html",
+          "publishedOn": "2024-03-25T02:23:29.000Z",
+          "wordCount": 615,
+          "title": "マイナス金利の解除 1月の会合時点で具体的手法など活発議論か",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240325/K10014401581_2403251117_0325111943_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240325/k10014401561000.html",
           "author": null,
@@ -19065,16 +19095,6 @@
           "wordCount": 1873,
           "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年2月18日から2月24日】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/8a138fa50a9299885fed2a979b12249d.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=237071",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「鶏ガラと醤油の旨みミニ冷し中華」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
-          "link": "https://foodfighter.jp/711sej-hiyashichuka-mini",
-          "publishedOn": "2024-02-24T14:33:37.000Z",
-          "wordCount": 1873,
-          "title": "【セブンイレブン】鶏ガラと醤油の旨みミニ冷し中華【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/630099ed8bef1fb6b7deaa6ad30b1bd6.jpg"
         }
       ]
     },
