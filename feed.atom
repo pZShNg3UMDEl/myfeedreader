@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T09:35:44.584Z</updated>
+    <updated>2024-03-25T09:50:35.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日立造船の27歳社員 赴任先タイで自殺 精神疾患発症で労災認定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401911000.html"/>
+        <updated>2024-03-25T09:38:32.000Z</updated>
+        <summary type="html"><![CDATA[大阪市に本社がある機械メーカー、日立造船に勤務していた男性社員が、3年前、海外赴任先のタイで自殺したのは慣れない業務による負担や上司の厳しい指導などで精神疾患を発症したことが原因だとして、労働基準監督署から労災に認定されたことを家族や弁護士が明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[志賀原発に到達の津波 約4mまで駆け上がったか 北陸電力調査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240325/k10014402041000.html</id>
