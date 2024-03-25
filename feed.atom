@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T07:12:25.294Z</updated>
+    <updated>2024-03-25T07:22:28.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401821000.html"/>
         <updated>2024-03-25T07:04:34.000Z</updated>
         <summary type="html"><![CDATA[日本相撲協会は25日、評議員会で選ばれた新しい理事での理事会を開き、現職の八角理事長の再選を決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年度予算案 参院予算委 27日集中審議で大筋合意  自民 立民]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401781000.html"/>
+        <updated>2024-03-25T07:02:58.000Z</updated>
+        <summary type="html"><![CDATA[新年度予算案の審議日程をめぐり、自民党と立憲民主党は、27日、岸田総理大臣らに出席を求めて参議院予算委員会の集中審議を行うことで大筋合意しました。また自民党は同じ日に予算案を採決することを提案し、与野党で引き続き協議することになりました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
