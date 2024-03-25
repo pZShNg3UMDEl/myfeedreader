@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T05:13:59.673Z</updated>
+    <updated>2024-03-25T05:28:37.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾 馬前総統 4月に中国訪問へ 中国側の待遇に注目]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014401761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401761000.html"/>
+        <updated>2024-03-25T05:23:00.000Z</updated>
+        <summary type="html"><![CDATA[台湾の馬英九前総統が来月中国を訪問する予定で、5月に民進党の頼清徳総統が就任するのを前に、国民党の馬前総統を中国側がどのような待遇で迎えるか注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 珠洲 底引き網漁船 地震発生後初の漁 毛がになど水揚げ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240325/k10014401741000.html</id>
@@ -28258,16 +28268,6 @@ Return to Conference List index]]></summary>
 最高のまったりスポットを巡って戦いが繰り広げられました first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【かつや】とん汁定食（ロースカツ）【定番メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=237098</id>
-        <link href="https://foodfighter.jp/katsuya-tonjiru-teishoku"/>
-        <updated>2024-02-24T17:14:21.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、サクサク・やわらか・ボリューム満点のカツ丼が人気の超有名チェーン「かつや」へ進撃しました。 &nbs […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
