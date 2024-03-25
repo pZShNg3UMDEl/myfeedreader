@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T12:23:29.153Z</updated>
+    <updated>2024-03-25T12:46:39.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム プリンみたいなクリームパン 3個入り【新作コンビニ菓子パン】]]></title>
+        <id>https://foodfighter.jp/?p=240200</id>
+        <link href="https://foodfighter.jp/711sej-pudding-cream-bread"/>
+        <updated>2024-03-25T12:36:49.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム プリンみたいなクリームパン 3個入り」を世界一詳しく調査しました。   公 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「JO1」木全翔也＆内村光良、劇場アニメ「トラペジウム」に参加　本予告、木全のアフレコ映像も公開]]></title>
         <id>https://anime.eiga.com/news/120843/</id>
@@ -32,6 +42,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240325/k10014401751000.html"/>
         <updated>2024-03-25T11:43:48.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス対策について科学的な見地から助言を行ってきた厚生労働省の専門家会合が今月末で解散することとなり、25日、メンバーの専門家との懇談会が開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛媛の保育園 給食のりんご窒息事故で検証委員会が報告書]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240325/k10014402111000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240325/k10014402111000.html"/>
+        <updated>2024-03-25T11:12:45.000Z</updated>
+        <summary type="html"><![CDATA[去年、愛媛県新居浜市の保育園で、生後8か月の男の子が給食のりんごをのどに詰まらせて意識不明となった事故で、市の検証委員会は、りんごを離乳食とすることへのリスクの認識不足などが事故につながったとする報告書を市に提出しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
