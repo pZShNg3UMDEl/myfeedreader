@@ -354,16 +354,6 @@
           "wordCount": 2627,
           "title": "ステップダウン形DC/DCコンバーターの設計（4）",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/26/l_tt240226_DCDC2_Z001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/26/news063.html",
-          "author": null,
-          "description": "ピカリング エレクトロニクスは、小型SIPリードリレーの「104」シリーズに、5kVスタンドオフ電圧の製品を追加した。小型ながら信頼性が高く、最大1.5Vのスイッチング電圧を備える。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/26/news063.html",
-          "publishedOn": "2024-02-26T00:00:00.000Z",
-          "wordCount": 2610,
-          "title": "5kVスタンドオフ機能付き小型SIPリードリレー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/26/cover_news063.jpg"
         }
       ]
     },
@@ -2163,6 +2153,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402661000.html",
+          "author": null,
+          "description": "「まず、造れると思っていなかったんですよ」輪島市の酒造会社の杜氏は、新酒の味にほっとした笑顔を見せていました。小松市の酒造会社の設備を借りて酒造りを再開、「初搾り」を迎えました。酒造りに使ったのは、倒壊した蔵から取り出したお米です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240326/k10014402661000.html",
+          "publishedOn": "2024-03-26T11:46:22.000Z",
+          "wordCount": 1243,
+          "title": "「造れると思わなかった…」被災した酒造会社の新酒は",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240326/K10014402661_2403262025_0326204120_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240326/k10014403221000.html",
           "author": null,
@@ -13479,16 +13479,6 @@
           "wordCount": 10028,
           "title": "朗報『ガンダムブレイカー4』公式サイト‥Switch表記が先頭",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/gundam-breaker-4.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98604",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/25(日) 13:52:26.54 ID:9IZiv0dhd ニンテンドーDS […]",
-          "link": "https://switchsoku.com/gossip/98604",
-          "publishedOn": "2024-02-26T00:00:36.000Z",
-          "wordCount": 10107,
-          "title": "なぜ日本では携帯機が圧倒的に売れるのか？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/nds3ds.webp"
         }
       ]
     },
@@ -13674,6 +13664,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/aj2024_event/120928/",
+          "author": null,
+          "description": "東京ビッグサイトで3月23、24日に開催された「AnimeJapan 2024」内で、4月9日からテレビアニメ版の放送がスタートする「リンカイ！」プロジェクトの新情報が多数発表された。 「リンカ...",
+          "link": "https://anime.eiga.com/news/column/aj2024_event/120928/",
+          "publishedOn": "2024-03-26T12:00:00.000Z",
+          "wordCount": 1548,
+          "title": "「リンカイ！」新情報が続々発表　コミカライズ版4月9日配信開始、4～5月にはイベント多数開催",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120931/",
           "author": null,
@@ -19994,6 +19999,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2034162.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2024/03/26(火) 09:43:38.86 ID:LHNuaIlr9.net\n\n\n\n\n\n\n\n熱中症で死亡は「塩」を備えていなかったから…草刈り作業中に60代男性が死亡、定められた「塩」を備えていなかった疑い、農業法人と取締役を労働安全衛生法違反の容疑で書類送検 https://t.co/Psd...",
+          "link": "https://itainews.com/archives/2034162.html",
+          "publishedOn": "2024-03-26T12:04:19.000Z",
+          "wordCount": 2397,
+          "title": "【長野】熱中症で草刈り作業中に60代男性が死亡、定められた「塩」を備えていなかった疑い、農業法人「乳川の里」と取締役を書類送検",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/3/93dd05c5-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2034153.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。：2024/03/25(月) 16:44:25.71 ID:4pnRNrb60.net\n\n\n\n\n\n\n\n自然紹介のはずがプロレス…「イッテQ！」でコンゴ大使館憤り「ロケ変更あった」と日テレhttps://t.co/jpeYAZFGRI同局は当初、美しい自然を放送すると申告していたが、実際に放送さ...",
@@ -25569,16 +25584,6 @@
           "wordCount": 1400,
           "title": "お互い初対面の父猫と子猫がすぐにうちとけて寄り添う姿に感動！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69215.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=69252",
-          "author": "299",
-          "description": "カーペットの上であおむけになって爆睡中の子猫を発見しました！両手両足を大の字にパッカーンと開いて見事なヘソ天ポーズになっています。 あまりの爆睡っぷりに飼い主さんたちも、そーっと子猫のそばに近づいて可愛さを堪能し始めまし...\nひとたび眠りに落ちたら何をされても絶対目覚めない子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/69252",
-          "publishedOn": "2024-02-26T00:00:07.000Z",
-          "wordCount": 1401,
-          "title": "ひとたび眠りに落ちたら何をされても絶対目覚めない子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69252.jpeg"
         }
       ]
     },
