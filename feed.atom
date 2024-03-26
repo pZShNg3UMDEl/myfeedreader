@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T04:14:54.258Z</updated>
+    <updated>2024-03-26T04:28:49.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 オープン戦先発 ドジャース本拠地で初ヒット持ち越し]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240326/k10014402711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240326/k10014402711000.html"/>
+        <updated>2024-03-26T04:24:48.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手が25日、エンジェルスとのオープン戦に2番・指名打者で先発出場しましたがヒットは打てず、本拠地での初ヒットは持ち越しとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しいApple PencilはVision Proに対応？ アップルがテスト開始のうわさ]]></title>
         <id>https://gadget.phileweb.com/?p=72419</id>
