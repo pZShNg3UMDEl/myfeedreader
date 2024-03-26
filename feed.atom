@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T02:18:37.013Z</updated>
+    <updated>2024-03-26T02:36:49.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【春から始める水泳教室♪】1回あたり1,000円で通える！リニューアルした「厚木市ふれあいプラザ」が参加者を募集中☆［厚木市金田］]]></title>
+        <id>https://atsugi-lab.com/?p=41725</id>
+        <link href="https://atsugi-lab.com/event-fureaip-swimming2024spring/"/>
+        <updated>2024-03-26T02:30:11.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです♪ あっという間にもうすぐ新年度ですねー！ お子さんや、またはご自身の新しい習い事を始めたいな♡とお考えの方も多くいらっしゃるのではないでしょうか？ ですが忙しい日々の中で曜日などのスケジュールを組むのが難し…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暖かいパソコンの後ろで寝落ちしてしまう子猫が愛くるしい]]></title>
         <id>https://2-9-9.com/?p=70463</id>
@@ -15,6 +25,16 @@
 暖かいパソコンの後ろで寝落ちしてしまう子猫が愛くるしい first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステップダウン形DC/DCコンバーターの設計（5）]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html"/>
+        <updated>2024-03-26T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はDC/DCコンバーターを設計する上で欠かせない「過電流保護回路」について説明します。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -28474,26 +28494,6 @@ Link]]></summary>
 食後に激しく遊んだあとはゴロゴロ喉を鳴らしながらまったりします first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swich次世代機は｢Switchの性能アップ版｣or｢全く新しいギミック中心のハード｣どっち？]]></title>
-        <id>https://switchsoku.com/?p=98600</id>
-        <link href="https://switchsoku.com/switch/98600"/>
-        <updated>2024-02-25T14:30:24.000Z</updated>
-        <summary type="html"><![CDATA[1: 2024/02/24(土) 14:51:26.68 ID:bwlm1OQh0 全然予想出来ない […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム チョコインスナック【新作お菓子】]]></title>
-        <id>https://foodfighter.jp/?p=237149</id>
-        <link href="https://foodfighter.jp/711sej-chocolate-snacks"/>
-        <updated>2024-02-25T14:26:02.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム チョコインスナック」を世界一詳しく調査しました。   公式YouTubeチ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>

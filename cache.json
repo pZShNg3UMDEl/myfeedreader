@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html",
+          "author": null,
+          "description": "今回はDC/DCコンバーターを設計する上で欠かせない「過電流保護回路」について説明します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html",
+          "publishedOn": "2024-03-26T02:00:00.000Z",
+          "wordCount": 2594,
+          "title": "ステップダウン形DC/DCコンバーターの設計（5）",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/21/l_tt240326_DCDC_001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/26/news047.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、突入電流制限PTCサーミスター「PTCEL13R」「PTCEL17R」を発表した。最大エネルギー処理能力は240Jで、複数組み合わせることで、1000J以上のエネルギー処理が可能だ。",
@@ -13209,16 +13219,6 @@
           "wordCount": 10107,
           "title": "なぜ日本では携帯機が圧倒的に売れるのか？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/nds3ds.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98600",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/24(土) 14:51:26.68 ID:bwlm1OQh0 全然予想出来ない […]",
-          "link": "https://switchsoku.com/switch/98600",
-          "publishedOn": "2024-02-25T14:30:24.000Z",
-          "wordCount": 10077,
-          "title": "Swich次世代機は｢Switchの性能アップ版｣or｢全く新しいギミック中心のハード｣どっち？",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/switch2-1.webp"
         }
       ]
     },
@@ -17910,6 +17910,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=41725",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ あっという間にもうすぐ新年度ですねー！ お子さんや、またはご自身の新しい習い事を始めたいな♡とお考えの方も多くいらっしゃるのではないでしょうか？ ですが忙しい日々の中で曜日などのスケジュールを組むのが難し…",
+          "link": "https://atsugi-lab.com/event-fureaip-swimming2024spring/",
+          "publishedOn": "2024-03-26T02:30:11.000Z",
+          "wordCount": 1179,
+          "title": "【春から始める水泳教室♪】1回あたり1,000円で通える！リニューアルした「厚木市ふれあいプラザ」が参加者を募集中☆［厚木市金田］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/fureaip-spring.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=41829",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです！ 今回は平塚市の開店情報です♪ 求人情報によると、 北海道で大人気のパン屋さん「ペンギンベーカリー平塚四之宮店」が4月下旬にオープン予定とのこと！ まずは場所からどうぞ☆ 「ペンギンベーカリー平塚四之宮店」…",
@@ -19625,16 +19635,6 @@
           "wordCount": 1926,
           "title": "【すき家】塩さばたまかけ朝食・ごはんミニ【朝食メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/21123220f0ffd784fda0403e2661ded3.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=237149",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム チョコインスナック」を世界一詳しく調査しました。   公式YouTubeチ […]",
-          "link": "https://foodfighter.jp/711sej-chocolate-snacks",
-          "publishedOn": "2024-02-25T14:26:02.000Z",
-          "wordCount": 1876,
-          "title": "【セブンイレブン】セブンプレミアム チョコインスナック【新作お菓子】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/6b66589e3e685f4e6407be49f58cc481.jpg"
         }
       ]
     },
