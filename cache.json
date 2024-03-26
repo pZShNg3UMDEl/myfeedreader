@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/26/news047.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、突入電流制限PTCサーミスター「PTCEL13R」「PTCEL17R」を発表した。最大エネルギー処理能力は240Jで、複数組み合わせることで、1000J以上のエネルギー処理が可能だ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/26/news047.html",
+          "publishedOn": "2024-03-26T00:00:00.000Z",
+          "wordCount": 2587,
+          "title": "最大エネルギー処理能力が240Jの突入電流制限PTCサーミスター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/26/cover_news047.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/26/news026.html",
           "author": null,
           "description": "PLC電源の修理の続きだ。修理してみたものの出力電圧が中途半端な値で、まだ不具合を抱えている。そこで、メーカーに問い合わせてみたが――。",
@@ -2093,6 +2103,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402481000.html",
+          "author": null,
+          "description": "イギリス・イタリアと共同開発を進めている次期戦闘機について、政府は第三国への輸出を容認することを決定しました。実際に輸出する際には、与党で協議を行うようにするため個別の案件ごとに閣議で決定するほか、戦闘が行われている国には輸出しないなどとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240326/k10014402481000.html",
+          "publishedOn": "2024-03-26T00:09:28.000Z",
+          "wordCount": 735,
+          "title": "政府 日英伊で共同開発の次期戦闘機 第三国への輸出容認を決定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240326/K10014402481_2403260856_0326090931_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402411000.html",
+          "author": null,
+          "description": "ロシアの首都モスクワ郊外のコンサートホールで起きたテロ事件について、ロシアのプーチン大統領は25日、イスラム過激派が実行したとする一方で、その背景にウクライナ側の関与が疑われると主張しました。ロシア側が、これを口実にウクライナへの攻撃をより激化させるおそれもあるとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240326/k10014402411000.html",
+          "publishedOn": "2024-03-25T23:54:44.000Z",
+          "wordCount": 811,
+          "title": "プーチン氏 ウクライナがテロ関与疑いと主張 攻撃激化のおそれ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240326/K10014402411_2403260537_0326085446_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402441000.html",
+          "author": null,
+          "description": "前線や低気圧の影響で26日朝から広い範囲で激しい雨が降っています。このあと、東日本の太平洋側と西日本を中心に非常に激しい雨が降るおそれがあり、土砂災害に警戒が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240326/k10014402441000.html",
+          "publishedOn": "2024-03-25T23:42:57.000Z",
+          "wordCount": 622,
+          "title": "東日本の太平洋側と西日本 非常に激しい雨おそれ 災害に警戒を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240326/K10014402441_2403260734_0326084259_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402421000.html",
+          "author": null,
+          "description": "センバツ高校野球、大会7日目は天候不良のため、もともと予定されていた2回戦3試合のうち2試合が行われます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240326/k10014402421000.html",
+          "publishedOn": "2024-03-25T23:40:11.000Z",
+          "wordCount": 766,
+          "title": "センバツ高校野球 天候不良で第1試合 午後1時～ 第3試合は順延",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240326/K10014402421_2403260730_0326084013_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402271000.html",
           "author": null,
@@ -10841,6 +10891,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99521",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/25(月) 14:06:09.90 ID:LlV6WEzwM フリーレン＝JR […]",
+          "link": "https://switchsoku.com/gossip/99521",
+          "publishedOn": "2024-03-26T00:50:39.000Z",
+          "wordCount": 10086,
+          "title": "フリーレンが流行るならJRPGもまだまだ未来はあるよな？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/freelen.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99518",
           "author": "SWITCH速報",
           "description": "1: 2024/03/24(日) 17:05:38.60 ID:kBFt41Lpd 3: 2024/ […]",
@@ -13119,16 +13179,6 @@
           "wordCount": 10077,
           "title": "Swich次世代機は｢Switchの性能アップ版｣or｢全く新しいギミック中心のハード｣どっち？",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/switch2-1.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98593",
-          "author": "SWITCH速報",
-          "description": "任天堂公式サイトのURL（ドメイン）が、従来の「nintendo.co.jp」から「nintendo […]",
-          "link": "https://switchsoku.com/nintendo/98593",
-          "publishedOn": "2024-02-25T12:00:34.000Z",
-          "wordCount": 10063,
-          "title": "任天堂HPのURLが変更‥「nintendo.com」に統一か",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/GHFlMJ_awAAMIOO.webp"
         }
       ]
     },
@@ -17128,21 +17178,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120663/",
-          "author": null,
-          "description": "新作テレビアニメ「THE NEW GATE」が4月から放送されることが決まり、第1弾PVと追加キャストが発表された。 原作は、総合エンタテインメントサイト「アルファポリス」で連載中のファンタジー...",
-          "link": "https://anime.eiga.com/news/120663/",
-          "publishedOn": "2024-02-25T12:00:00.000Z",
-          "wordCount": 935,
-          "title": "「THE NEW GATE」4月放送開始　第1弾PV公開、追加キャストに比留間俊哉、石原夏織ら",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -18086,6 +18121,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240290",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「醤油香る炙り焼鯖寿司 甘酢生姜入り」を世界一詳しく調査しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/711sej-yakisabasushi-2024",
+          "publishedOn": "2024-03-26T00:14:02.000Z",
+          "wordCount": 1792,
+          "title": "【セブンイレブン】醤油香る炙り焼鯖寿司 甘酢生姜入り【新作コンビニ寿司】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/cd70082cdafce70c3f2f7902dce4a59a.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240268",
           "author": "foodfighter",
@@ -22782,16 +22827,6 @@
           "wordCount": 2349,
           "title": "｢人間関係うまくいかないのは顔のせい？｣若い男性たちを容姿改善に執着させる不穏なバイラルトレンド\"ルックスマックス",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/b/fb9e02d0-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033383.html",
-          "author": "damono3856",
-          "description": "1 名前：あ(東京都) [ﾆﾀﾞ]：2024/02/25(日) 10:32:16.78 ID:EiG78jKy0.net\n\n\n\n\n\n\n\n火災発生から半日かけてようやく鎮火。最初の筐体を入手してから約10年かけて作ってきたものが、ものの数時間で全て失くなりました。資金が無くなりかけたり、お客さんが来なかったりして...",
-          "link": "https://itainews.com/archives/2033383.html",
-          "publishedOn": "2024-02-25T12:01:32.000Z",
-          "wordCount": 2474,
-          "title": "【画像あり】　レトローゲーム屋さん　火災により全焼・・",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/8/280cf7ba-s.png"
         }
       ]
     },
