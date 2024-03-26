@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T06:36:25.200Z</updated>
+    <updated>2024-03-26T06:50:15.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[旧統一教会に過料の支払い命じる決定 東京地裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240326/k10014402901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240326/k10014402901000.html"/>
+        <updated>2024-03-26T06:44:24.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省の質問権の行使に対して適切に回答していないとして、東京地方裁判所は、旧統一教会に行政罰の過料の支払いを命じる決定をしました。質問権をめぐって過料が命じられるのは初めてです。教団側は不服を申し立てるとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帰還した古川宇宙飛行士「自分の故郷は地球」宇宙滞在振り返る]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240326/k10014402771000.html</id>
