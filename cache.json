@@ -1841,16 +1841,6 @@
           "wordCount": 755,
           "title": "AIで新通信プラットフォーム創出へ、「AI-RANアライアンス」設立。ソフトバンクやNVIDIAなど参加",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/samune-2.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=69934",
-          "author": "編集部：平山洸太",
-          "description": "韓サムスン電子は、スマートリング「Samsung Galaxy Ring」を発表。今年後半に発売することをアナウンスした。 同社ウェアラブル端末のポートフォリオに、今後スマートリングが加わる格好。リング形状について同社は、「24時間365日の快適な装着を可能にする、最小のかたち」だと紹介する。 また […]",
-          "link": "https://gadget.phileweb.com/post-69934/",
-          "publishedOn": "2024-02-26T08:47:26.000Z",
-          "wordCount": 755,
-          "title": "韓サムスン、スマートリング「Galaxy Ring」発表。今年後半に発売",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/gring.jpg"
         }
       ]
     },
@@ -2073,6 +2063,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403401000.html",
+          "author": null,
+          "description": "トランプ前大統領が頻繁に投稿するSNS「トゥルース・ソーシャル」を運営する企業がアメリカの証券取引所、ナスダックに株式を上場しました。トランプ氏は今後、株式を売却することで大統領選挙や複数の訴訟に必要な資金に充てるねらいがあるのではないかとみられています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240327/k10014403401000.html",
+          "publishedOn": "2024-03-26T20:37:40.000Z",
+          "wordCount": 674,
+          "title": "トランプ氏が株6割保有のSNS運営会社がナスダック上場",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240327/K10014403401_2403262247_0327053313_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403631000.html",
           "author": null,
