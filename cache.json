@@ -373,6 +373,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72419",
+          "author": "Munenori Taniguchi",
+          "description": "現在のApple Pencilは、iPadで手書き入力をするためのものだが、将来のバージョンはiPadだけでなく、Vision Proヘッドセット使用時にも使えるようになるかもしれない。 MacRumorsが事情に詳しい人物から得たという話によると、アップルはvisionOSに対応する新型Apple […]",
+          "link": "https://gadget.phileweb.com/post-72419/",
+          "publishedOn": "2024-03-26T04:11:56.000Z",
+          "wordCount": 781,
+          "title": "新しいApple PencilはVision Proに対応？ アップルがテスト開始のうわさ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/ApplePencil.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72401",
+          "author": "多根清史",
+          "description": "アップル独自設計の最新SoC「M3」シリーズチップを搭載したMacは、昨年10月に初登場した。そして先日も、13インチ/15インチMacBook Airがラインナップに加わったばかりだ。 それに続き、今月から4月にかけてM3搭載iPad Proも登場すると噂されるなか、早くも2025年第1四半期に次 […]",
+          "link": "https://gadget.phileweb.com/post-72401/",
+          "publishedOn": "2024-03-26T04:06:27.000Z",
+          "wordCount": 796,
+          "title": "「M4 Mac」2025年初めに発売？ 低価格の8コア版Snapdragon X Eliteも登場か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/スクリーンショット-2024-03-25-174038.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72420",
           "author": "多根清史",
           "description": "欧州連合の執行機関である欧州委員会はデジタル市場法（DMA）に基づき、アップルとGoogle（厳密には親会社Alphabet）、Metaの法律違反に関する調査を開始したことを発表した。 これら米ハイテク大手はDMAのもと、主要プラットフォームサービスを提供している「ゲートキーパー」に指定されている。 […]",
@@ -2123,6 +2143,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402701000.html",
+          "author": null,
+          "description": "教え子の女子児童を繰り返し盗撮した罪などに問われた中学受験塾大手「四谷大塚」の元講師に、東京地方裁判所は「講師の立場を利用した発覚しづらい犯行だ」として、執行猶予がついた懲役2年の判決を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240326/k10014402701000.html",
+          "publishedOn": "2024-03-26T04:09:53.000Z",
+          "wordCount": 630,
+          "title": "教え子の女子児童盗撮「四谷大塚」元講師に有罪判決 東京地裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240326/K10014402701_2403261246_0326125954_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240326/k10014402641000.html",
           "author": null,
