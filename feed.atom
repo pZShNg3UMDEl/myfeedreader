@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T05:26:12.259Z</updated>
+    <updated>2024-03-26T05:38:04.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[帰還した古川宇宙飛行士「自分の故郷は地球」宇宙滞在振り返る]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240326/k10014402771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240326/k10014402771000.html"/>
+        <updated>2024-03-26T05:31:32.000Z</updated>
+        <summary type="html"><![CDATA[今月、宇宙での滞在を終えて地球に帰還した宇宙飛行士の古川聡さんが記者会見を行い、およそ半年間にわたる滞在を振り返り、「自分の故郷は地球だと思うようになった」と感慨を語りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宇宙飛行士の若田光一さん JAXA退職へ 3月29日に記者会見]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240326/k10014402761000.html</id>
