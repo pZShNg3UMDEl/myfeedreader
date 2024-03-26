@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T07:21:45.097Z</updated>
+    <updated>2024-03-26T07:35:30.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[広島 宮島の沖合 フェリー浅瀬に乗り上げ 嚴島神社 大鳥居付近]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240326/k10014402931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240326/k10014402931000.html"/>
+        <updated>2024-03-26T07:30:51.000Z</updated>
+        <summary type="html"><![CDATA[26日午後1時ごろ、広島県廿日市市の宮島の沖合を航行していたフェリーが嚴島神社の大鳥居付近の浅瀬に乗り上げました。広島海上保安部によりますと乗客は乗っておらず、乗っていた乗組員や運航会社の4人にけがはないということです。また、今のところ船への浸水や油の流出は確認されていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コロナワクチン推奨動画で数百万円の報酬　人気YouTuberの暴露が波紋]]></title>
         <id>https://itainews.com/archives/2034147.html</id>
