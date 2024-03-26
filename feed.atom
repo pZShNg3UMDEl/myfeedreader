@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T23:26:27.767Z</updated>
+    <updated>2024-03-26T23:36:30.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「肉あんかけチャーハン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アサンジ氏の引き渡しめぐる審理の判断保留 イギリスの裁判所]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014403531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014403531000.html"/>
+        <updated>2024-03-26T21:43:50.000Z</updated>
+        <summary type="html"><![CDATA[イギリスで収監されている告発サイト「ウィキリークス」の創設者、アサンジ被告について、イギリス政府はアメリカへの引き渡しを承認しましたが、26日、イギリスの裁判所は本格的な審理を行うかどうかの判断を保留し、すぐにはアメリカに移送されないことになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
