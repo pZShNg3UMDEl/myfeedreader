@@ -1821,16 +1821,6 @@
           "wordCount": 765,
           "title": "シャオミ、ベゼル交換でファッション性を高めたスマートウォッチ「Xiaomi Watch S3」",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/s3_1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=70001",
-          "author": "編集部：平山洸太",
-          "description": "携帯電話メーカーHuman Mobile Devices（HMD）は、玩具メーカーのマテル社と提携し、携帯電話「Barbie Flip Phone」を2024年夏に発売すると発表した。 具体的な発売日や価格、そして外観デザインについても不明。ただしスマートフォンではなく、旧来の “フリップフォン”  […]",
-          "link": "https://gadget.phileweb.com/post-70001/",
-          "publishedOn": "2024-02-26T11:45:57.000Z",
-          "wordCount": 761,
-          "title": "「バービー」の折りたたみ携帯が今夏発売",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/b2.jpg"
         }
       ]
     },
@@ -2053,6 +2043,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403721000.html",
+          "author": null,
+          "description": "障害者が地域で共同生活するグループホームを巡って、福祉経験が少ない事業者の参入で質が低下していると指摘されていることから、厚生労働省は4月から運営事業者に対して、外部の目を入れるための会議の設置を努力義務化することになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240327/k10014403721000.html",
+          "publishedOn": "2024-03-26T23:38:15.000Z",
+          "wordCount": 706,
+          "title": "障害者グループホーム質向上へ 透明性高めるため厚労省が対策",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240327/K10014403721_2403270827_0327083740_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403711000.html",
           "author": null,
@@ -18401,6 +18401,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240398",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「赤城乳業 ソフトクリームバー メロン」を世界一詳しく調査しました。   公式YouTube […]",
+          "link": "https://foodfighter.jp/famima-melon-softcream-ice-2024",
+          "publishedOn": "2024-03-26T23:39:54.000Z",
+          "wordCount": 1799,
+          "title": "【ファミマ】赤城乳業 ソフトクリームバー メロン【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/8afb9f3bacb6fb4694c0a2f57ff83aa7.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240375",
           "author": "foodfighter",
