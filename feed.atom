@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T05:27:49.043Z</updated>
+    <updated>2024-03-27T05:38:06.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows向けChrome、ついにArmネイティブ対応。「Snapdragon X Elite」搭載PCを後押し]]></title>
+        <id>https://gadget.phileweb.com/?p=72545</id>
+        <link href="https://gadget.phileweb.com/post-72545/"/>
+        <updated>2024-03-27T05:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Googleとクアルコムは、Arm向けWindowsに最適化したChromeブラウザの安定版をリリースしたと発表した。これは初期バージョンがCanaryチャネルで発見されてから2か月後のこととなり、クアルコムは本日（現地時間3月27日）から提供すると述べている。 このリリースは、Armチップを搭載し […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[株価 一時500円以上値上がり]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240327/k10014404061000.html</id>
