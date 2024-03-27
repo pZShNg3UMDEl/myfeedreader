@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T11:20:56.082Z</updated>
+    <updated>2024-03-27T11:35:35.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“太陽光パネル設置の施設から白煙” 消火活動中に爆発 鹿児島]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014404601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014404601000.html"/>
+        <updated>2024-03-27T11:32:17.000Z</updated>
+        <summary type="html"><![CDATA[消防などによりますと27日夕方、鹿児島県伊佐市大口にある太陽光パネルが並ぶ発電施設で爆発がありました。消火にあたっていた数人の隊員がけがをしているということですが、いずれも意識はあるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水戸駅 エスカレーター死亡事故 防犯カメラに男性転倒の様子]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240327/k10014404381000.html</id>
