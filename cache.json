@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html",
+          "author": null,
+          "description": "ams OSRAMは、汎用性が高いLEDチップ「OSLON Pure 1414」を発表した。サイズは1.4×1.4mmと小型で、屋内や店舗、舞台、建築、医療用の照明に適する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html",
+          "publishedOn": "2024-03-27T00:00:00.000Z",
+          "wordCount": 2620,
+          "title": "汎用性が高い1.4mm角の小型LEDチップ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/27/cover_news077.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html",
           "author": null,
           "description": "今回はDC/DCコンバーターを設計する上で欠かせない「過電流保護回路」について説明します。",
@@ -352,6 +362,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=72512",
+          "author": "Gadget Gate",
+          "description": "米アップルは、毎年恒例のアップルの開発者会議「WWDC24」を、現地時間6月10日から14日まで開催すると発表した。 例年WWDCでは、その年にアップデートされる最新のOSや最新技術、ツールなどが披露される。順当に行けば、今年はiOS 18などが発表されると考えられる。また開催年にもよるが、新たなハ […]",
+          "link": "https://gadget.phileweb.com/post-72512/",
+          "publishedOn": "2024-03-27T00:13:58.000Z",
+          "wordCount": 750,
+          "title": "アップル、開発者向け会議「WWDC24」を6月10日から開催",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/wwdc24-1.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=72475",
           "author": "Munenori Taniguchi",
@@ -2043,6 +2063,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403681000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスの間の戦闘の休止をめぐる交渉は、双方の立場の隔たりが依然として埋まらず、ハマスは改めて完全な停戦などを求め仲介国からの提案を拒否したと伝えられるなど、交渉の行方は不透明さを増しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240327/k10014403681000.html",
+          "publishedOn": "2024-03-27T00:09:16.000Z",
+          "wordCount": 680,
+          "title": "ハマスは完全な停戦求め仲介国からの提案拒否か 交渉は不透明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240327/K10014403681_2403270846_0327090842_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403721000.html",
           "author": null,
@@ -11191,6 +11221,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99545",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/26(火) 06:36:03.01 ID:fCiuGaYa0 男ならノーマル以 […]",
+          "link": "https://switchsoku.com/gossip/99545",
+          "publishedOn": "2024-03-27T00:00:38.000Z",
+          "wordCount": 10173,
+          "title": "ゲームの難易度イージー選ぶやつは甘えだよな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/06/mario-easymode.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99541",
           "author": "SWITCH速報",
           "description": "1: 2024/03/26(火) 09:47:51.34 ID:9pHqjJMFM 【お知らせ】 『 […]",
@@ -13449,26 +13489,6 @@
           "wordCount": 10200,
           "title": "3月12日発売『魂斗羅 オペレーション ガルガ』体験版配信中",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/kontora.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98626",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/26(月) 19:04:21.35 ID:rLRXmhtq0 はい &nbsp […]",
-          "link": "https://switchsoku.com/leak/98626",
-          "publishedOn": "2024-02-26T12:00:19.000Z",
-          "wordCount": 10067,
-          "title": "日経「Switch後継機、2025年3月にも発売」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/switch2-1.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98624",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/26(月) 05:11:50.58 ID:FvOnZVVd0 ＼デフォルト2  […]",
-          "link": "https://switchsoku.com/soft/bravely/98624",
-          "publishedOn": "2024-02-26T12:00:06.000Z",
-          "wordCount": 10044,
-          "title": "浅野P「今年はブレイブリーシリーズの動きもなんらかお伝えできるはずです」",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2021/02/sumabura-bravery2.jpg"
         }
       ]
     },
@@ -17423,21 +17443,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120672/",
-          "author": null,
-          "description": "アニメ「夜は猫といっしょ」の第3期の製作が決まり、2月22日の「猫の日」に2種のティザービジュアルが公開された。原作者のキュルZ氏、キャストの高垣彩陽、日野聡、種崎敦美（崎はたつさきが正式表記）...",
-          "link": "https://anime.eiga.com/news/120672/",
-          "publishedOn": "2024-02-26T12:00:00.000Z",
-          "wordCount": 898,
-          "title": "「夜は猫といっしょ」3期製作決定　“猫あるある”を盛り込んだ2種のティザービジュアル公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -17821,16 +17826,6 @@
           "publishedOn": "2024-02-27T13:29:27.000Z",
           "wordCount": 4391,
           "title": "裏垢持ってますか(持ってません)(本当です)",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9572",
-          "author": "watanabe@logipara.com",
-          "description": "先日、同世代の連中と飲んでいて、 ワタナベ「そういえば◯◯は、管理職なんだっけ？」 と無邪気に聞いたところ、 「むしろこの歳で管理職じゃないって……やばくね？」 と、人ってこんなに真正面から他人を殴れるんだという発言をお […]",
-          "link": "https://logipara.com/diary-text/2024-02-27",
-          "publishedOn": "2024-02-26T12:31:58.000Z",
-          "wordCount": 4388,
-          "title": "管理職",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
