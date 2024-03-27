@@ -363,6 +363,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72532",
+          "author": "多根清史",
+          "description": "中国テンセント・ホールディングス傘下にある2つのスタジオが、今年最大級のヒットとなった『パルワールド』風のモバイルゲームを開発中だと報じられている。 Bloombergの情報筋によると、テンセントが自社製ゲームの低迷が報じられているなか、傘下にあるTiMi StudioとLIGHTSPEED STU […]",
+          "link": "https://gadget.phileweb.com/post-72532/",
+          "publishedOn": "2024-03-27T03:24:10.000Z",
+          "wordCount": 755,
+          "title": "中国テンセント、『パルワールド』風のモバイルゲームを傘下2社が開発中か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_2416909197.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72525",
+          "author": "編集部：伴 修二郎",
+          "description": "ソニー・インタラクティブエンタテインメント（SIE）は、PlayStation 5（PS5）の新機能「コミュニティーゲームヘルプ」を発表。サービスの提供開始は後日を予定している。 本機能は、参加に同意したユーザーのゲームプレイから自動で映像が生成され、ほかのユーザーに向けてゲームヘルプのヒントとして […]",
+          "link": "https://gadget.phileweb.com/post-72525/",
+          "publishedOn": "2024-03-27T03:19:16.000Z",
+          "wordCount": 756,
+          "title": "PS5の新機能「コミュニティーゲームヘルプ」発表。ユーザーのゲームプレイがヒント映像に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/samunere.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72518",
           "author": "多根清史",
           "description": "アップルは年次開発者会議「WWDC24」を、現地時間6月10日～14日に開催すると正式に発表したことは既報の通り。この場では次期「iOS 18」や「iPadOS 18」、「watchOS 11」、「visionOS 2」などが発表され、その後に開発者向けベータ版が配布される見通しだ。 具体的に何を発 […]",
@@ -2083,6 +2103,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403911000.html",
+          "author": null,
+          "description": "国会は参議院予算委員会で集中審議が行われ、自民党の派閥の政治資金パーティーをめぐる問題で、立憲民主党は、関係議員の処分は真相を明らかにしたうえで行うべきだと指摘しました。これに対し岸田総理大臣は、26日から始めた聴取を来週にかけて続け、実態の解明に努める考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240327/k10014403911000.html",
+          "publishedOn": "2024-03-27T03:18:23.000Z",
+          "wordCount": 874,
+          "title": "岸田首相“関係議員の聴取 来週にかけて続ける” 参院予算委",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240327/K10014403911_2403271205_0327121711_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403771000.html",
           "author": null,
