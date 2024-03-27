@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T20:13:35.033Z</updated>
+    <updated>2024-03-27T20:24:38.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【28日】米世論調査 イスラエル軍事作戦“支持せず”過半数に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014404681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014404681000.html"/>
+        <updated>2024-03-27T20:13:21.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルは多くの住民が身を寄せるガザ地区南部ラファへの地上作戦を強行する構えを崩さず現地メディアは過去24時間で24人が空爆で死亡したと伝えています。こうした中、アメリカの世論調査でイスラエルの軍事作戦を「支持しない」と答えた人が55％と半数を超えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無職44歳、串カツ食べ放題で対象外の品を注文、追加料金を求められ壁を蹴り穴を空ける]]></title>
         <id>https://itainews.com/archives/2034192.html</id>
