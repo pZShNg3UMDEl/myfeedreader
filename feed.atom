@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T02:18:56.204Z</updated>
+    <updated>2024-03-27T02:35:25.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経産相 電機メーカーに取引先中小企業に対し価格転嫁を要請]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014403841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014403841000.html"/>
+        <updated>2024-03-27T02:26:31.000Z</updated>
+        <summary type="html"><![CDATA[ことしの春闘で交渉の行方が注目されている中小企業の賃上げに向けて、齋藤経済産業大臣は電機メーカー各社の経営トップらと会談し、取引先の中小企業に対し、コスト上昇分などの価格転嫁に応じるよう要請しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switchのいっせいトライアルで『ホロウナイト』とか言うのやったんだが]]></title>
         <id>https://switchsoku.com/?p=99547</id>
@@ -28659,16 +28669,6 @@ JUST IN!! 新着記事⠀ /／🗣路線バス内で中３男子が高３女子�
 パパと一緒のテレビ鑑賞が大好きな子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月12日発売『魂斗羅 オペレーション ガルガ』体験版配信中]]></title>
-        <id>https://switchsoku.com/?p=98630</id>
-        <link href="https://switchsoku.com/konami/98630"/>
-        <updated>2024-02-26T14:30:09.000Z</updated>
-        <summary type="html"><![CDATA[2024年3月12日発売の『魂斗羅 オペレーション ガルガ』の体験版が配信中 1: 2024/02 […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
         </author>
     </entry>
 </feed>
