@@ -363,6 +363,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72518",
+          "author": "多根清史",
+          "description": "アップルは年次開発者会議「WWDC24」を、現地時間6月10日～14日に開催すると正式に発表したことは既報の通り。この場では次期「iOS 18」や「iPadOS 18」、「watchOS 11」、「visionOS 2」などが発表され、その後に開発者向けベータ版が配布される見通しだ。 具体的に何を発 […]",
+          "link": "https://gadget.phileweb.com/post-72518/",
+          "publishedOn": "2024-03-27T03:01:57.000Z",
+          "wordCount": 787,
+          "title": "アップル、WWDC24で独自AIチャットボット発表せず？ GoogleやOpenAIとの提携のみか",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_2316914609.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72493",
           "author": "編集部：平山洸太",
           "description": "ドリーミーテクノロジージャパンは、ロボット掃除機「DreameBot X30 Ultra」の日本展開を発表。Makuakeにて、3月27日11時から5月20日18時にかけて先行予約販売を実施する。先行発売における価格は、超々早割りで37％オフの149,999円（税込）から。一般発売は税込239,80 […]",
@@ -2073,6 +2083,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403771000.html",
+          "author": null,
+          "description": "「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、厚生労働省は、26日に行った会社への聞き取り調査の結果、これまで公表されていた1人に加えて、2人目の死亡事例が報告されたと発表しました。大阪市は27日、会社に対して自主回収の対象となっている3つの製品について製品の回収を命じる行政処分を出しました。小林製薬は対象となる製品の使用を中止するよう呼びかけるとともに、成分の分析を進めています。全国では紅麹原料を使った商品を自主回収する動きが相次いでいて、記事ではNHKが調べた自主回収を行っている商品の一覧を掲載しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240327/k10014403771000.html",
+          "publishedOn": "2024-03-27T03:12:28.000Z",
+          "wordCount": 1620,
+          "title": "【最新】「紅麹」 大阪市が小林製薬に行政処分 自主回収商品は",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240327/K10014403771_2403271123_0327115043_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403901000.html",
+          "author": null,
+          "description": "羽田空港で起きた衝突事故を受け、海上保安庁は羽田航空基地に所属する保安官の事故機と同じ固定翼機への乗務を停止していましたが、精神面のケアを実施し安全運航の体制を確認できたとして、28日に再開することになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240327/k10014403901000.html",
+          "publishedOn": "2024-03-27T03:05:51.000Z",
+          "wordCount": 742,
+          "title": "羽田 航空機衝突事故 海上保安官の同型機への乗務 あす再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240327/K10014403901_2403271152_0327115947_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403621000.html",
+          "author": null,
+          "description": "27日の東京外国為替市場では、円安が一段と加速し、円相場は一時、おととし10月につけた1ドル＝151円94銭より値下がりして、152円台に迫り、1990年7月以来、33年8か月ぶりの円安ドル高水準となりました。日銀がマイナス金利政策を解除したあとも、当面、緩和的な金融政策を続けるとするなか、円を売ってドルを買う動きが強まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240327/k10014403621000.html",
+          "publishedOn": "2024-03-27T02:53:03.000Z",
+          "wordCount": 558,
+          "title": "円相場 1990年7月以来の円安水準に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240327/K10014403621_2403271202_0327120325_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240327/k10014403841000.html",
           "author": null,
@@ -13715,6 +13755,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120816/",
+          "author": null,
+          "description": "鈴木亮平が主演を務めるNetflix映画「シティーハンター」のティーザー予告映像が公開され、エンディング曲は「TM NETWORK」によるおなじみの楽曲「Get Wild」を新録した「Get W...",
+          "link": "https://anime.eiga.com/news/120816/",
+          "publishedOn": "2024-03-27T03:00:00.000Z",
+          "wordCount": 1512,
+          "title": "Netflix実写映画「シティーハンター」ED曲は新録「Get Wild」　楽曲イントロを使用したティーザー予告披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/aj2024_event/120928/",
           "author": null,
           "description": "東京ビッグサイトで3月23、24日に開催された「AnimeJapan 2024」内で、4月9日からテレビアニメ版の放送がスタートする「リンカイ！」プロジェクトの新情報が多数発表された。 「リンカ...",
@@ -19908,6 +19963,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034174.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/03/26(火) 13:19:03.81 ID:s1boCv9j0●.net \n\n\n\n\n\n\n\n\n\n水原一平氏の違法賭博問題「懲役20年以下という刑罰も」　弁護士が見解「金額が金額」（ENCOUNT） https://t.co/sbhmb4bSei— はしくん。 (@sakurairo424) March 26, 2024 \n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2034174.html",
+          "publishedOn": "2024-03-27T03:01:14.000Z",
+          "wordCount": 2408,
+          "title": "水原一平、懲役20年も",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/3/f32d7121-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034172.html",
           "author": "yonepo665sfr",
