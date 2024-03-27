@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T22:14:05.898Z</updated>
+    <updated>2024-03-27T22:29:17.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR水戸駅 エスカレーターで男性死亡 上半身にうっ血した痕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014404731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014404731000.html"/>
+        <updated>2024-03-27T22:18:21.000Z</updated>
+        <summary type="html"><![CDATA[JR水戸駅のエスカレーターで、72歳の男性が倒れているのが見つかりその後、死亡した事故で、男性の上半身にうっ血した痕があったことが捜査関係者への取材でわかりました。警察は上着の一部がエスカレーターに巻き込まれた際に強い力がかかってできたとみて、詳しく調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ドコモポイ活プラン」を打ち出したNTTドコモ、出遅れを取り戻すことはできるのか]]></title>
         <id>https://gadget.phileweb.com/?p=72606</id>
