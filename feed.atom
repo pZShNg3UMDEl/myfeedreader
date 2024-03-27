@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T11:10:52.279Z</updated>
+    <updated>2024-03-27T11:20:56.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[水戸駅 エスカレーター死亡事故 防犯カメラに男性転倒の様子]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014404381000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014404381000.html"/>
+        <updated>2024-03-27T11:18:13.000Z</updated>
+        <summary type="html"><![CDATA[JR水戸駅のエスカレーターで、72歳の男性が倒れているのが見つかりその後、死亡した事故で、現場付近の防犯カメラの映像に男性がエスカレーターの降り口で転倒する様子が写っていたことが捜査関係者への取材でわかりました。発見された際、男性の上着の一部が手すりに巻き込まれた状態だったということで、警察は死亡した原因を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[横浜 いじめで中学生自殺 遺族側が教育委に検証求める申し入れ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014404401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014404401000.html"/>
+        <updated>2024-03-27T11:09:35.000Z</updated>
+        <summary type="html"><![CDATA[4年前、横浜市の中学校でいじめを受けたと訴え自殺した女子生徒の遺族の代理人弁護士が、27日、市の教育委員会に対し当時の対応の誤りやこれまでにあった児童や生徒の自殺の背景などについて検証を求める申し入れを行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【茨城】エスカレーターに服巻き込まれ…会社員の男性（72）死亡　JR水戸駅]]></title>
         <id>https://itainews.com/archives/2034184.html</id>
