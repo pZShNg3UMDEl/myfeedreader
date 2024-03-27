@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T19:36:09.382Z</updated>
+    <updated>2024-03-27T19:50:26.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小林製薬“紅麹” 大阪市が100万個回収命じる 会社は29日会見]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014404711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014404711000.html"/>
+        <updated>2024-03-27T19:41:28.000Z</updated>
+        <summary type="html"><![CDATA[「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、大阪市は27日、会社に対しておよそ100万個の製品を回収するよう命じました。会社には、健康被害に関する相談が相次いで寄せられていて、29日に会見を開き、最新の状況について説明することにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校野球 センバツ【準々決勝 大会9日目の見どころ】]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240328/k10014404741000.html</id>
@@ -29124,16 +29134,6 @@ JUST IN!! 新着記事⠀ /／🗣路線バス内で中３男子が高３女子�
         <summary type="html"><![CDATA[1: 2024/02/27(火) 09:54:53.22 ID:U3TCeF5E0 PC版「エンダー […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【松屋】ネギたっぷり牛肉のエスニック炒め定食【店舗限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=237331</id>
-        <link href="https://foodfighter.jp/matsuya-ethnic-itame"/>
-        <updated>2024-02-27T07:38:52.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
