@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T05:13:50.603Z</updated>
+    <updated>2024-03-27T05:27:49.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株価 一時500円以上値上がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014404061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014404061000.html"/>
+        <updated>2024-03-27T05:20:09.000Z</updated>
+        <summary type="html"><![CDATA[27日の東京株式市場、日経平均株価は、一時、500円以上値上がりしています。日銀の審議委員が講演で、当面、緩和的な金融環境が続くという見方を示し、外国為替市場で円安が進んだことを受けて、自動車をはじめ輸出関連の銘柄などに買い注文が広がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「生活保護の不正受給は駄目と脅され、生活指導るのは今の時代に合っていないと思いませんか？」]]></title>
         <id>https://itainews.com/archives/2034181.html</id>
