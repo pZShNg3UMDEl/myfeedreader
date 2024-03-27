@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T17:35:31.047Z</updated>
+    <updated>2024-03-27T17:50:31.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[町山レジュメ]]></title>
+        <id>https://note.com/hima_kuuhaku/n/n0d6f71acc153</id>
+        <link href="https://note.com/hima_kuuhaku/n/n0d6f71acc153"/>
+        <updated>2024-03-27T17:27:47.000Z</updated>
+        <summary type="html"><![CDATA[進撃の巨人の映画はみましたよ、代表作だと思って
+
+続きをみる]]></summary>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony releases 247MP sensors]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/03/sony-releases-247mp-sensors.html</id>
@@ -29152,16 +29164,6 @@ JUST IN!! 新着記事⠀ /／🗣路線バス内で中３男子が高３女子�
 保護二日目とは思えない幸せそうな寝姿を見せてくれる子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再起動不要でWindows 11をアップデートする機能、2024年後半に導入か]]></title>
-        <id>https://gadget.phileweb.com/?p=70064</id>
-        <link href="https://gadget.phileweb.com/post-70064/"/>
-        <updated>2024-02-27T05:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Windowsユーザーにとって嫌なことのアンケートを取れば、上位には「アップデートとその後の再起動が仕事を邪魔する」ことが来るだろう。セキュリティ更新をインストール後に強制的に再起動しなくとも、リブートするようポップアップが表示されて、神経を逆なでされた人も少なくないはずだ。 こうした声に応えてか、 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
