@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T20:24:38.091Z</updated>
+    <updated>2024-03-27T20:35:55.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政府 自衛隊などの特定利用空港・港湾 全国16の空港と港指定へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014404621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014404621000.html"/>
+        <updated>2024-03-27T20:23:45.000Z</updated>
+        <summary type="html"><![CDATA[防衛力の強化に向けて、政府は、自衛隊や海上保安庁が訓練などで円滑に使えるように整備・拡充する「特定利用空港・港湾」に、全国の合わせて16の空港と港を指定する方向で最終調整に入りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【28日】米世論調査 イスラエル軍事作戦“支持せず”過半数に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240328/k10014404681000.html</id>
