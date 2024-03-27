@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T03:37:59.724Z</updated>
+    <updated>2024-03-27T03:50:20.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被災した女子学生 医学部へ進学 “石川の地域医療担う医師に”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014403921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014403921000.html"/>
+        <updated>2024-03-27T03:37:58.000Z</updated>
+        <summary type="html"><![CDATA[将来、地域の医療機関で働くことを目指し、金沢大学医学部などに進学する学生が県庁を訪れ、石川県珠洲市で被災した女子学生が「将来は石川県の地域医療を担う医師として精いっぱい貢献します」と宣誓しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国テンセント、『パルワールド』風のモバイルゲームを傘下2社が開発中か]]></title>
         <id>https://gadget.phileweb.com/?p=72532</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[ソニー・インタラクティブエンタテインメント（SIE）は、PlayStation 5（PS5）の新機能「コミュニティーゲームヘルプ」を発表。サービスの提供開始は後日を予定している。 本機能は、参加に同意したユーザーのゲームプレイから自動で映像が生成され、ほかのユーザーに向けてゲームヘルプのヒントとして […]]]></summary>
         <author>
             <name>編集部：伴 修二郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米 橋崩落事故 航路確保に軍派遣へ 不明者救助活動は打ち切り]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014403881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014403881000.html"/>
+        <updated>2024-03-27T03:19:15.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ東部メリーランド州のボルティモアで、大型の貨物船が橋に衝突した事故で、沿岸警備隊は行方不明の6人が生存している可能性は低いとして、救助活動を打ち切ると発表しました。一方、崩落した橋によって、全米有数の海運拠点である港が使用できなくなっているため、バイデン大統領は、船の航路を確保するため軍を派遣する考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
