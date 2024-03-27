@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T09:25:23.190Z</updated>
+    <updated>2024-03-27T09:36:16.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[円安受け 財務省と金融庁と日銀が臨時の会合]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240327/k10014403971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240327/k10014403971000.html"/>
+        <updated>2024-03-27T09:29:30.000Z</updated>
+        <summary type="html"><![CDATA[財務省と金融庁、それに日銀は、午後6時20分から幹部による臨時の会合を開いています。会合には財務省の神田財務官と金融庁の栗田長官、それに日銀の清水理事らが出席しています。外国為替市場で、1990年7月以来、33年8か月ぶりの円安ドル高水準となったことを受け、会合では金融市場の動向を分析し、情報の共有を図っているものとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 輪島と珠洲 孤立に備えた衛星携帯電話など配備されず]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240327/k10014404051000.html</id>
