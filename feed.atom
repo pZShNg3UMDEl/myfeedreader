@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T19:09:10.666Z</updated>
+    <updated>2024-03-28T19:20:19.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北海道 浜中町 花咲ガニ漁が解禁 初水揚げ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014405251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014405251000.html"/>
+        <updated>2024-03-28T19:10:29.000Z</updated>
+        <summary type="html"><![CDATA[北海道東部の浜中町で27日、「花咲ガニ」の漁が解禁され、28日、初水揚げが行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋田 男鹿の水族館でゴマフアザラシの赤ちゃん誕生]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240329/k10014405241000.html</id>
