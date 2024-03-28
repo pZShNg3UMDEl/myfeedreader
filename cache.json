@@ -334,16 +334,6 @@
           "wordCount": 2616,
           "title": "マイクロプロセッサと一緒に使う部品と選び方",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/21/cover_news022.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/28/news068.html",
-          "author": null,
-          "description": "リテルヒューズは、小型トンネル磁気抵抗効果センサー「54100」「54140」シリーズを発売する。ホール効果センサーに比べて感度に優れ、電力効率を100倍改善している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/28/news068.html",
-          "publishedOn": "2024-02-28T00:00:00.000Z",
-          "wordCount": 2616,
-          "title": "電力効率を100倍改善した、小型トンネル磁気抵抗効果センサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/28/cover_news068.jpg"
         }
       ]
     },
@@ -2123,6 +2113,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240328/k10014405761000.html",
+          "author": null,
+          "description": "新年度予算の成立を受け、岸田総理大臣は、28日夜、記者会見し、盛り込まれた経済政策などを着実に実施することで、ことし中に物価上昇を上回る所得を必ず実現させることなどを約束すると強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240328/k10014405761000.html",
+          "publishedOn": "2024-03-28T12:10:55.000Z",
+          "wordCount": 642,
+          "title": "岸田首相 予算成立 “ことし中に物価上昇上回る所得必ず実現”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240328/K10014405761_2403282048_0328211020_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240328/k10014405621000.html",
           "author": null,
@@ -14389,16 +14389,6 @@
           "wordCount": 10077,
           "title": "任天堂、Swichのエミュレーター「Yuzu」の開発者を告訴",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/yuzu-3.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98688",
-          "author": "SWITCH速報",
-          "description": "Pokémon Trading Card Game Pocket スマホでポケカを楽しめる「Poké […]",
-          "link": "https://switchsoku.com/soft/pokemon/98688",
-          "publishedOn": "2024-02-28T00:00:36.000Z",
-          "wordCount": 10221,
-          "title": "ソフトより『スマホ ポケカ』が嬉しすぎる",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-trading-card.webp"
         }
       ]
     },
@@ -14574,6 +14564,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120903/",
+          "author": null,
+          "description": "テレビアニメ「グリザイア：ファントムトリガー」が2024年に放送されることが決まり、キービジュアルが披露された。 また、レナ役の内田真礼、トーカ役の佐倉綾音、クリス役の名塚佳織、ムラサキ役の種崎...",
+          "link": "https://anime.eiga.com/news/120903/",
+          "publishedOn": "2024-03-28T12:00:00.000Z",
+          "wordCount": 1622,
+          "title": "「グリザイア：ファントムトリガー」24年に放送　内田真礼、佐倉綾音らOVA版から続投",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120936/",
           "author": null,
@@ -20869,6 +20874,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2034215.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/03/28(木) 06:51:36.61 ID:IOA0lYxv0●.net\n\n\n\n\n\n\n\nプールの穴に吸い込まれた8歳女児、配管奥6メートルで体をねじらせ死亡（米） - Yahoo! JAPAN https://t.co/dmj2DYBHTS— 大賀 蓮 (@complexnum3er) March 27, 2024  \n\n\n\n\n\n\nプー...",
+          "link": "https://itainews.com/archives/2034215.html",
+          "publishedOn": "2024-03-28T12:05:05.000Z",
+          "wordCount": 2401,
+          "title": "プールの穴に吸い込まれた8歳女児、配管奥6メートルで体をねじらせ死亡",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/9/09be2d11-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2034209.html",
           "author": "yonepo665sfr",
           "description": "1 ：名無しさん＠涙目です。：2024/03/27(水) 10:48:53.79 ID:M3YI3Ku30.net\n\n\n\n\n\n\n\n\n約2年間、毎日3錠は摂取していた。健康被害があった場合それをどうやって証明するのか🤔(最後の飲みかけの一袋は手元にあるが)それにしても小林製薬の罪は重い。不安が増幅し、他の大...",
@@ -24127,16 +24142,6 @@
           "wordCount": 2373,
           "title": "【人情の街】大阪の商店街に蛮族が出現。「フォー！」「ワー！」数十名が奇声を上げながら疾走する",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/698e793e-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033430.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：もん様：2024/02/27(火) 17:32:42.28 ID:CYIHxTye0●.net\n\n\n\n\n\n\n\n\n\n【速報】宝塚劇団員死亡後に発行の雑誌で上級生が“やゆ”か？「ヘアアイロン持っていこうかな」など発言　遺族側指摘 #FNNプライムオンライン https://t.co/D5Ow6lfcCq— FNNプライムオンライン (@F...",
-          "link": "https://itainews.com/archives/2033430.html",
-          "publishedOn": "2024-02-28T00:01:50.000Z",
-          "wordCount": 2478,
-          "title": "宝塚じェンぬ。「ヘアアイロン持ってこーっと笑」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/2/02a4a801-s.png"
         }
       ]
     },
@@ -26284,16 +26289,6 @@
           "wordCount": 1396,
           "title": "【親子猫と子猫が初対面！】果たしてお互いの距離感は縮まるのか！？子猫が可愛い癒し動画",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69343.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=69375",
-          "author": "299",
-          "description": "ふわふわの大きなベッドのなかで子猫がまったりくつろいでいると、ゴールデンレトリバーが血相を変えてやってきました。 実はこの大きなベッドは、このゴールデンのベッドだったのです。それを自分がいない間に子猫に占領されてしまった...\n子猫にマイベッドを占領されてパニックなゴールデン first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/69375",
-          "publishedOn": "2024-02-28T00:00:57.000Z",
-          "wordCount": 1405,
-          "title": "子猫にマイベッドを占領されてパニックなゴールデン",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69375.jpeg"
         }
       ]
     },
