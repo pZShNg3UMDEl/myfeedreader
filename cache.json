@@ -353,6 +353,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72624",
+          "author": "多根清史",
+          "description": "アップルがiPhone廉価モデルの後継機、通称「iPhone SE4」を準備中であり、これまでの液晶に替えて有機ELディスプレイを採用することも有力視されている。そのデザインはTouch ID内蔵ホームボタンも廃止してFace ID（顔認証）へと移行することで、「ほぼiPhone 14標準モデル」に […]",
+          "link": "https://gadget.phileweb.com/post-72624/",
+          "publishedOn": "2024-03-28T04:06:11.000Z",
+          "wordCount": 787,
+          "title": "iPhone SE4、“低価格の可能性”が高まる。有機ELパネルを中国BOEが独占供給か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_1585865983.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72637",
+          "author": "Munenori Taniguchi",
+          "description": "ロンドンを拠点とするInvisibility Shield Co.が、社名そのままの製品「Invisibility Shield 2.0」を商品化すべく、Kickstarterでクラウドファンディングを行っている。大きさは3種類あり、最も小さな約30.5×20cm（A3サイズぐらい）の大きさのものな […]",
+          "link": "https://gadget.phileweb.com/post-72637/",
+          "publishedOn": "2024-03-28T03:59:49.000Z",
+          "wordCount": 784,
+          "title": "光学迷彩？隠れたモノが透けて見えなくなる「Invisibility Shield 2.0」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/001-6.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72632",
           "author": "多根清史",
           "description": "マイクロソフトは1月、今後のWindows 11 PCにAIサービス「Copilot」専用キーを搭載すると発表しつつ、2024年は「AI PC」の年になると述べていた。 AI PCの定義は、ザックリ言えば従来のWindowsマシンには搭載されていないハードウェア、すなわち内蔵NPU（Neural P […]",
@@ -2083,6 +2103,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240328/k10014405011000.html",
+          "author": null,
+          "description": "去年7月、佐賀県小城市の遮断機のない踏切でランニングをしていたとみられる男性が列車にはねられて死亡する事故があり、国の運輸安全委員会は男性がイヤホンを装着していて列車の接近に気付かなかった可能性があるとする調査報告書を公表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240328/k10014405011000.html",
+          "publishedOn": "2024-03-28T04:04:24.000Z",
+          "wordCount": 636,
+          "title": "“イヤホン装着 列車接近気付かなかったか” 佐賀踏切死亡事故",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240328/K10014405011_2403281216_0328130426_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240328/k10014405031000.html",
+          "author": null,
+          "description": "アメリカ東部メリーランド州のボルティモアで大型船が橋に衝突し橋が崩落した事故で、調査にあたっているNTSB＝国家運輸安全委員会は原因を特定するには、1年から2年かかるという見通しを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240328/k10014405031000.html",
+          "publishedOn": "2024-03-28T03:59:51.000Z",
+          "wordCount": 608,
+          "title": "米 橋崩落事故 “原因特定に1～2年かかる見通し” 運輸安全委",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240328/K10014405031_2403281230_0328125743_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240328/k10014405021000.html",
+          "author": null,
+          "description": "27日夜、鹿児島県伊佐市の太陽光発電施設の建物から火が出て消火にあたっていた隊員4人がけがをしました。消防によりますと、爆発した建物は蓄電設備で、放水によって感電などのおそれがあることから、消防や警察は発電施設の電源を遮断し、安全が確認されしだい鎮火の確認や検証にあたることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240328/k10014405021000.html",
+          "publishedOn": "2024-03-28T03:56:02.000Z",
+          "wordCount": 590,
+          "title": "太陽光発電施設での爆発は蓄電設備 安全確認されしだい検証へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240328/K10014405021_2403281221_0328124057_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240328/k10014404981000.html",
           "author": null,
@@ -11860,6 +11910,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99572",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/24(日) 22:44:20.22 ID:/nOBVe2+0 やっぱスクエニや […]",
+          "link": "https://switchsoku.com/gossip/99572",
+          "publishedOn": "2024-03-28T04:00:47.000Z",
+          "wordCount": 10108,
+          "title": "ガンダムゲーを作ってもらいたい開発会社ある？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/gundam-breaker-4.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99570",
           "author": "SWITCH速報",
