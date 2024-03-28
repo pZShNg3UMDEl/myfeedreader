@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T05:39:52.686Z</updated>
+    <updated>2024-03-28T05:50:24.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダウンタウン松本人志さん 週刊文春発行元など 裁判始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014404851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014404851000.html"/>
+        <updated>2024-03-28T05:45:43.000Z</updated>
+        <summary type="html"><![CDATA[人気お笑いコンビ「ダウンタウン」の松本人志さんが、性的な被害を受けたとする女性の証言を掲載した週刊文春の記事で名誉を傷つけられたとして、損害賠償などを求めている裁判が始まり、出版社側は、「複数回の取材を重ね、真実と確信している」などとして全面的に争う姿勢を見せました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【兵庫】「火を付けたら仕事から逃れられると思った」　勤め先のガラス工場への放火、55歳男逮捕]]></title>
         <id>https://itainews.com/archives/2034203.html</id>
