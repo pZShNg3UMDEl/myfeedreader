@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T04:14:47.940Z</updated>
+    <updated>2024-03-28T04:28:10.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高校野球 センバツ 健大高崎が山梨学院に勝ち12年ぶりベスト4]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014405051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014405051000.html"/>
+        <updated>2024-03-28T04:14:12.000Z</updated>
+        <summary type="html"><![CDATA[センバツ高校野球、大会9日目・準々決勝の第2試合は、群馬の高崎健康福祉大高崎高校が山梨学院に6対1で勝って、2012年以来、12年ぶりとなるベスト4進出を決めました。山梨学院は大会連覇はなりませんでした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone SE4、“低価格の可能性”が高まる。有機ELパネルを中国BOEが独占供給か]]></title>
         <id>https://gadget.phileweb.com/?p=72624</id>
