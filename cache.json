@@ -353,6 +353,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72632",
+          "author": "多根清史",
+          "description": "マイクロソフトは1月、今後のWindows 11 PCにAIサービス「Copilot」専用キーを搭載すると発表しつつ、2024年は「AI PC」の年になると述べていた。 AI PCの定義は、ザックリ言えば従来のWindowsマシンには搭載されていないハードウェア、すなわち内蔵NPU（Neural P […]",
+          "link": "https://gadget.phileweb.com/post-72632/",
+          "publishedOn": "2024-03-28T03:37:12.000Z",
+          "wordCount": 778,
+          "title": "インテル、AIサービス「Copilot」は将来的にローカルで動くと予告",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/intel-ai-pc-2-800x450-1.jpeg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72606",
           "author": "佐野正弘",
           "description": "KDDIが「auマネ活プラン」、ソフトバンクが「ペイトク」を開始するなど、競合各社が携帯電話料金と金融・決済サービスを連携させた料金プランに力を入れている。各社確実な成果を出している中、出遅れているのがNTTドコモだ。 NTTドコモが打ち出した新料金プラン「ドコモポイ活プラン」 そこでNTTドコモは […]",
@@ -2073,6 +2083,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240328/k10014404981000.html",
+          "author": null,
+          "description": "新年度予算案を審議している参議院予算委員会は、立憲民主党が、派閥の政治資金パーティーをめぐる問題で岸田総理大臣が行った安倍派幹部への聴取に関する自民党の説明が不十分だとして反発し開会が2時間、遅れました。与野党は質疑のあと委員会と本会議で予算案を採決する方向で調整しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240328/k10014404981000.html",
+          "publishedOn": "2024-03-28T03:45:57.000Z",
+          "wordCount": 840,
+          "title": "参院予算委 立民反発で開会が2時間遅れ“聴取の説明不十分”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240328/K10014404981_2403281210_0328123139_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240328/k10014404971000.html",
           "author": null,

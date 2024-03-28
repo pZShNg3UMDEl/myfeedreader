@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T03:37:10.083Z</updated>
+    <updated>2024-03-28T03:50:38.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[参院予算委 立民反発で開会が2時間遅れ“聴取の説明不十分”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014404981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014404981000.html"/>
+        <updated>2024-03-28T03:45:57.000Z</updated>
+        <summary type="html"><![CDATA[新年度予算案を審議している参議院予算委員会は、立憲民主党が、派閥の政治資金パーティーをめぐる問題で岸田総理大臣が行った安倍派幹部への聴取に関する自民党の説明が不十分だとして反発し開会が2時間、遅れました。与野党は質疑のあと委員会と本会議で予算案を採決する方向で調整しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インテル、AIサービス「Copilot」は将来的にローカルで動くと予告]]></title>
+        <id>https://gadget.phileweb.com/?p=72632</id>
+        <link href="https://gadget.phileweb.com/post-72632/"/>
+        <updated>2024-03-28T03:37:12.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは1月、今後のWindows 11 PCにAIサービス「Copilot」専用キーを搭載すると発表しつつ、2024年は「AI PC」の年になると述べていた。 AI PCの定義は、ザックリ言えば従来のWindowsマシンには搭載されていないハードウェア、すなわち内蔵NPU（Neural P […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2次避難している漁師を漁網のリサイクルの企業が雇用 金沢]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240328/k10014404971000.html</id>
