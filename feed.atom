@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T07:21:43.909Z</updated>
+    <updated>2024-03-28T07:36:16.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【すき家】特うな丼（うなぎ2枚・ごはん大盛り）【期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=240524</id>
+        <link href="https://foodfighter.jp/sukiya-unadon-tokumori"/>
+        <updated>2024-03-28T07:32:55.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フリーランスの就業環境改善 厚生労働省の検討会が方針]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014405221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014405221000.html"/>
+        <updated>2024-03-28T07:31:15.000Z</updated>
+        <summary type="html"><![CDATA[フリーランスで働く人の就業環境の改善を図ろうと、厚生労働省は、フリーランスに仕事を発注する企業に対し、育児や介護と仕事の両立ができるようオンライン業務に切り替えるなど、必要な配慮を行うことを義務づける方針を決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年度予算案 参院予算委で可決 参院本会議でも成立へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014405281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014405281000.html"/>
+        <updated>2024-03-28T07:27:40.000Z</updated>
+        <summary type="html"><![CDATA[一般会計の総額が112兆円余りとなる新年度＝令和6年度予算案は、参議院予算委員会で採決が行われ、自民・公明両党の賛成多数で可決されました。このあと参議院本会議でも可決され、成立する運びです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大相撲 宮城野部屋 移籍先は宮城野親方含め全員伊勢ヶ濱部屋に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240328/k10014405211000.html</id>
