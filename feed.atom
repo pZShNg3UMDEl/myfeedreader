@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T22:12:04.728Z</updated>
+    <updated>2024-03-28T22:27:13.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モスクワ郊外 テロ事件1週間 プーチン政権 ウクライナ関与主張]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014405971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014405971000.html"/>
+        <updated>2024-03-28T22:16:46.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの首都モスクワ郊外で起きたテロ事件は29日で発生から1週間となります。プーチン政権はウクライナ側が背後でテロに関与した疑いがあるとする主張を展開していて、国民の結束を図るとともにウクライナへの軍事侵攻で攻撃を強める可能性もあるとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北・東日本は暴風に警戒 太平洋側を中心に激しい雨のおそれも]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240329/k10014405901000.html</id>
