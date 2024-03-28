@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T12:25:09.207Z</updated>
+    <updated>2024-03-28T12:47:37.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 小松 避難者夫婦が「ライドシェア」登録 運行始める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014405731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014405731000.html"/>
+        <updated>2024-03-28T12:20:17.000Z</updated>
+        <summary type="html"><![CDATA[石川県小松市で、能登半島地震で被災し避難している夫婦が、一般のドライバーが有料で人を送迎する「ライドシェア」の登録を行い運行を始めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸田首相 予算成立 “ことし中に物価上昇上回る所得必ず実現”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240328/k10014405761000.html</id>
