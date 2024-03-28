@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/28/news092.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、ソリッドステートアイソレーターの新しい製品ファミリーを発表した。電力損失を最大70％抑えてスイッチングを高速化する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/28/news092.html",
+          "publishedOn": "2024-03-28T00:00:00.000Z",
+          "wordCount": 2613,
+          "title": "電力損失を最大70％削減した、ソリッドステートアイソレーター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/28/cover_news092.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html",
           "author": null,
           "description": "ams OSRAMは、汎用性が高いLEDチップ「OSLON Pure 1414」を発表した。サイズは1.4×1.4mmと小型で、屋内や店舗、舞台、建築、医療用の照明に適する。",
@@ -2063,6 +2073,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240328/k10014404701000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの本拠地での開幕戦を控え、ロサンゼルスにある歴史的な日本人街に大谷翔平選手の巨大な壁画が完成し、お披露目の式典が開かれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240328/k10014404701000.html",
+          "publishedOn": "2024-03-28T00:00:10.000Z",
+          "wordCount": 693,
+          "title": "大谷翔平の巨大な壁画完成 ロサンゼルスの歴史的な日本人街に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240328/K10014404701_2403280806_0328090012_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240328/k10014404831000.html",
           "author": null,
@@ -11741,6 +11761,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99568",
+          "author": "SWITCH速報",
+          "description": "ニンテンドー3DS・Wii Uのオンラインプレイサービスは4月9日午前9時に終了 「ニンテンドー3D […]",
+          "link": "https://switchsoku.com/ds/99568",
+          "publishedOn": "2024-03-28T00:00:14.000Z",
+          "wordCount": 10032,
+          "title": "WiiU･3DSのオンラインプレイサービス終了前にやっておくべきこと",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/10/3ds-wiiu-online-end.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99563",
           "author": "SWITCH速報",
           "description": "2: 2024/03/26(火) 20:23:55.85 ID:wUBd2ugl0 ソース &nbs […]",
@@ -14009,16 +14039,6 @@
           "wordCount": 9970,
           "title": "【23時～】Pokémon Presents 2024.2.27",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/GHWGYrRXMAAgY_E.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98658",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/27(火) 09:00:06.50 ID:+hHOqH2Y0 【日経特報】ニン […]",
-          "link": "https://switchsoku.com/leak/98658",
-          "publishedOn": "2024-02-27T12:40:35.000Z",
-          "wordCount": 10064,
-          "title": "日経、ファミ通に続いてコミュニティノートを付けられてしまう",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/PbRrMojN.webp"
         }
       ]
     },
@@ -14185,16 +14205,6 @@
           "publishedOn": "2024-02-29T08:40:01.000Z",
           "wordCount": null,
           "title": "【ドラクエウォーク】進化の秘法発動でも与ダメ変わらない方法!!超絶安定構成!!メガモンバルザックビーストを１年目武器＋ＳＰ防具を使ってソロフルオート攻略していく!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sQJRTUsBvKY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sQJRTUsBvKY",
-          "publishedOn": "2024-02-27T12:25:00.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォーク】進化の秘法を完全封印!!最後まで高ダメージ!!弱点の無いメガモンバルザックビーストを武器1本のみ防具アクセ無しのソロ裸攻略する!!",
           "imageUrl": null
         }
       ]
@@ -17988,21 +17998,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120669/",
-          "author": null,
-          "description": "人気アニメ「ドラえもん」の長編映画43作目「映画ドラえもん のび太の地球交響楽（シンフォニー）」のコンサート付き特別試写会が2月24日、都内で行われ、ゲスト声優の芳根京子が出席。全国の子どもたち...",
-          "link": "https://anime.eiga.com/news/120669/",
-          "publishedOn": "2024-02-27T12:00:00.000Z",
-          "wordCount": 875,
-          "title": "芳根京子、フルートの生演奏を披露　ドラえもんは葉加瀬太郎の書き下ろし楽曲にご満悦",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -18986,6 +18981,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240500",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、定番メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。 […]",
+          "link": "https://foodfighter.jp/matsunoya-tonkatsu-miso",
+          "publishedOn": "2024-03-28T00:49:33.000Z",
+          "wordCount": 1845,
+          "title": "【松のや】味噌ロースかつ定食【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/58bd4513a8da30b0216cb783ce86acc6.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240474",
           "author": "foodfighter",
