@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T22:37:42.466Z</updated>
+    <updated>2024-03-28T22:50:17.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登の食材使った料理で寄付する催し 農家や水産業者など支援]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014405841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014405841000.html"/>
+        <updated>2024-03-28T22:41:47.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害を受けた農家や水産業者などを支援しようと、能登の食材を使った料理を提供し売り上げの一部を寄付する催しが28日夜、石川県白山市で開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[賭け屋男性“大谷選手の名前 送金元口座にあると把握”米報道]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240329/k10014406021000.html</id>
