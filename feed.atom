@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T09:36:23.589Z</updated>
+    <updated>2024-03-28T09:50:28.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新年度予算が成立 参院本会議で採決 自公両党など賛成多数]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240328/k10014405611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240328/k10014405611000.html"/>
+        <updated>2024-03-28T09:44:34.000Z</updated>
+        <summary type="html"><![CDATA[一般会計の総額が112兆円余りとなる新年度・令和6年度予算は参議院本会議で採決が行われ、自民・公明両党などの賛成多数で可決・成立しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「チェリまほ」特別編集版が2024年公開決定　ティザービジュアルお披露目]]></title>
         <id>https://anime.eiga.com/news/120943/</id>
