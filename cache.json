@@ -1801,16 +1801,6 @@
           "wordCount": 799,
           "title": "「MWC Barcelona 2024」に見る、スマホ時代の終わりと日本企業復活の可能性",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/IMG_0306.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=70283",
-          "author": "編集部：小野佳希",
-          "description": "SB C&Sは、Beijing Roborock Technology Co.,Ltd.製ロボット掃除機「Roborock」の新モデル「Q5 Pro＋」を3月1日に発売する。直販サイト「トレテク！ソフトバンクセレクション」のほか、Yahoo!ショッピング、Amazon、楽天市場での販売となり […]",
-          "link": "https://gadget.phileweb.com/post-70283/",
-          "publishedOn": "2024-02-28T10:27:55.000Z",
-          "wordCount": 771,
-          "title": "Roborock、吸引力アップした新スタンダードロボット掃除機「Q5 Pro＋」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/roborock001.jpg"
         }
       ]
     },
@@ -2043,6 +2033,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406021000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手の専属通訳を務めていた水原一平氏が違法賭博に関わっていたとされる問題で、アメリカのメディアは、水原氏と関係があったとされる賭け屋の男性は、大谷選手の名前が送金元の口座にあることを把握し、ほかの賭博の参加者に自慢していたなどとする関係者の話を伝えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406021000.html",
+          "publishedOn": "2024-03-28T22:25:13.000Z",
+          "wordCount": 706,
+          "title": "賭け屋男性“大谷選手の名前 送金元口座にあると把握”米報道",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406021_2403290636_0329063743_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014405971000.html",
           "author": null,
