@@ -2034,6 +2034,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406091000.html",
+          "author": null,
+          "description": "総務省によりますと、先月の全国の完全失業率は2.6％で、前の月より0.2ポイント悪化しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406091000.html",
+          "publishedOn": "2024-03-28T23:45:31.000Z",
+          "wordCount": 660,
+          "title": "2月の完全失業率 2.6％ 前月より0.2ポイント悪化",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406091_2403290838_0329084533_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014405871000.html",
+          "author": null,
+          "description": "ことし2月の有効求人倍率は全国平均で1.26倍となり、前の月に比べて0.01ポイント下回りました。能登半島地震の被害を受けた石川県では有効求人倍率が1.41倍と前の月から減少しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014405871000.html",
+          "publishedOn": "2024-03-28T23:35:58.000Z",
+          "wordCount": 607,
+          "title": "2月の有効求人倍率 全国平均1.26倍 前月比0.01ポイント下回る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014405871_2403290834_0329083600_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014405991000.html",
           "author": null,
           "description": "教員となる優秀な人材を確保しようと、千葉県教育委員会は、教員として採用する大学生や短期大学生の奨学金の返済を全額肩代わりする制度を設けることになりました。全額を肩代わりする支援制度は全国で初めてだということです。",
