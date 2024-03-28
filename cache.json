@@ -324,16 +324,6 @@
           "wordCount": 2594,
           "title": "100ナノ秒の高速応答、低発熱の自動車向け電流センサー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/29/cover_news087.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/21/news022.html",
-          "author": null,
-          "description": "マイクロプロセッサ（MPU）を使用したボードを開発するユーザーが抱えるさまざまな悩みに対し、マイクロプロセッサメーカーのエンジニアが回答していく連載「マイクロプロセッサQ＆Aハンドブック」。今回は、「マイクロプロセッサと一緒に使う部品と選び方」について紹介します。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/21/news022.html",
-          "publishedOn": "2024-02-28T01:00:00.000Z",
-          "wordCount": 2616,
-          "title": "マイクロプロセッサと一緒に使う部品と選び方",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/21/cover_news022.jpg"
         }
       ]
     },
@@ -2113,6 +2103,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240328/k10014405751000.html",
+          "author": null,
+          "description": "宮内庁は、天皇皇后両陛下が先週、石川県の被災地を訪問した際、地震で一変してしまった能登半島の海岸線の様子を上空からご覧になったと明らかにしました。関係者によりますと、4月中旬に再び両陛下が能登半島の被災地を訪問し、被災した人たちを見舞われる方向で調整が進められているということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240328/k10014405751000.html",
+          "publishedOn": "2024-03-28T12:47:10.000Z",
+          "wordCount": 718,
+          "title": "天皇皇后両陛下 4月中旬に再び能登半島地震の被災地訪問へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240328/K10014405751_2403282116_0328214712_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240328/k10014405731000.html",
           "author": null,
@@ -14575,6 +14575,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120817/",
+          "author": null,
+          "description": "「モンスター・ヴァース」シリーズ最新作「ゴジラ×コング 新たなる帝国」の最新ポスタービジュアルが、このほど公開された。また“ゴジラ史上最大”のラージフォーマット上映の展開も決定した。 2023年...",
+          "link": "https://anime.eiga.com/news/120817/",
+          "publishedOn": "2024-03-28T13:00:00.000Z",
+          "wordCount": 1568,
+          "title": "「ゴジラ×コング　新たなる帝国」“爆走”ポスター公開　“ゴジラ史上最大”のラージフォーマット上映も決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120903/",
           "author": null,
           "description": "テレビアニメ「グリザイア：ファントムトリガー」が2024年に放送されることが決まり、キービジュアルが披露された。 また、レナ役の内田真礼、トーカ役の佐倉綾音、クリス役の名塚佳織、ムラサキ役の種崎...",
@@ -20884,6 +20899,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2034210.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：生玉子 ★：2024/03/27(水) 12:52:37.02 ID:wdeiDLpu9.net\n\n\n\n\n\n\n\n\n\n■今人気の記事■ 【平気で｢だし入り味噌｣使う人の超深刻すぎる盲点】 一部の\"プロ\"料理家も薦めるけど…本当にOK？ #東洋経済オンラインhttps://t.co/iD80gtAM3E— 東洋経済オンライン (@Toyokeiz...",
+          "link": "https://itainews.com/archives/2034210.html",
+          "publishedOn": "2024-03-28T13:01:01.000Z",
+          "wordCount": 2395,
+          "title": "【食】平気で「だし入り味噌」使う人の超深刻すぎる盲点、本当に大丈夫なの？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c0a63925-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2034215.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。：2024/03/28(木) 06:51:36.61 ID:IOA0lYxv0●.net\n\n\n\n\n\n\n\nプールの穴に吸い込まれた8歳女児、配管奥6メートルで体をねじらせ死亡（米） - Yahoo! JAPAN https://t.co/dmj2DYBHTS— 大賀 蓮 (@complexnum3er) March 27, 2024  \n\n\n\n\n\n\nプー...",
@@ -24160,6 +24185,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70518",
+          "author": "299",
+          "description": "今回ご紹介するのは尻尾であしらわれてしまう子猫ちゃんです。 楽しそうに尻尾と戯れている様子が可愛らしいのでご覧ください。 兄猫はカーテンの陰に隠れ、尻尾だけが出ている状態でした。 この尻尾に興味を示してしまったのが子猫ち...\n兄猫の尻尾に興味津々な子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70518",
+          "publishedOn": "2024-03-28T13:00:29.000Z",
+          "wordCount": 1340,
+          "title": "兄猫の尻尾に興味津々な子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70518.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70514",
           "author": "299",
