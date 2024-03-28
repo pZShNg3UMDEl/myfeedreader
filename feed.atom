@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T14:50:19.538Z</updated>
+    <updated>2024-03-28T15:14:03.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LINEヤフー 韓国企業への業務委託見直しへ 大規模漏えい問題で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014405951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014405951000.html"/>
+        <updated>2024-03-28T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[LINEの利用者の大規模な情報漏えい問題で、運営会社のLINEヤフーは、漏えいの原因となった韓国の企業への業務委託を見直す方針を固め、調整を進めていることが明らかになりました。今月、会社に対し行政指導を行った総務省が両社の関係の見直しを求めていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪 男子大学生脅しビルから転落死 中学生2人を家裁に送致]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240328/k10014405821000.html</id>
@@ -29653,36 +29663,6 @@ NVID...]]></summary>
         <summary type="html"><![CDATA[1: 2024/02/28(水) 08:26:29.68 ID:9iFz//mC0 なお上がったのは […]]]></summary>
         <author>
             <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【人情の街】大阪の商店街に蛮族が出現。「フォー！」「ワー！」数十名が奇声を上げながら疾走する]]></title>
-        <id>https://itainews.com/archives/2033433.html</id>
-        <link href="https://itainews.com/archives/2033433.html"/>
-        <updated>2024-02-28T03:01:54.000Z</updated>
-        <summary type="html"><![CDATA[1 ：名無しさん＠涙目です。：2024/02/27(火) 11:50:17.37 ID:XimU4tFv0.net
-
-
-
-
-
-
-
-
-
-【独自】ナゾのランナー集団が奇声上げ商店街爆走　大音量の音楽も...商店街は困惑　責任者「許可取ってない」　｜FNNプライムオンライン https://t.co/RuUNwwBN9X— 🇷🇺A-Honecker ...]]></summary>
-        <author>
-            <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実写版「アラジン」3月1日に金曜ロードショーで放送　2019年実写映画のNo.1ヒット作]]></title>
-        <id>https://anime.eiga.com/news/120522/</id>
-        <link href="https://anime.eiga.com/news/120522/"/>
-        <updated>2024-02-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ディズニーの不朽の名作を実写映画化した大ヒット作「アラジン」が、日本テレビ系「金曜ロードショー」で、3月1日の午後9時～11時14分（放送枠20分拡大）に放送される。 ディズニーアニメ映画「アラ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
