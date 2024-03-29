@@ -1831,16 +1831,6 @@
           "wordCount": 821,
           "title": "Apple Vision Pro、返品理由の3割は「正しい使い方がわからなかった」から？",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/Introducing-Apple-Vision-Pro-0-32-screenshot.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=70322",
-          "author": "多根清史",
-          "description": "アップルは、世界最大手ファウンドリTSMCの最先端プロセス製造をほぼ独占し、毎年の新型iPhoneに最先端チップを搭載している。昨年秋のiPhone 15 Proモデルに採用されたA17 Proも、世界初のスマートフォン向け3nmチップとして注目を集めていた。 そして同社はすでに、TSMCの次世代2 […]",
-          "link": "https://gadget.phileweb.com/post-70322/",
-          "publishedOn": "2024-02-29T03:29:44.000Z",
-          "wordCount": 775,
-          "title": "アップル、すでに2nmチップ設計を開始か。「iPhone 17 Pro」に搭載？",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_1422739466.jpg"
         }
       ]
     },
@@ -2053,6 +2043,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407551000.html",
+          "author": null,
+          "description": "プロ野球は29日、シーズン開幕を迎え、昨シーズン4位からの巻き返しをねらう巨人が、去年日本一の阪神に勝ち、阿部慎之助監督は就任後の初戦を白星で飾りました。また、DeNAの注目のルーキー、度会隆輝選手やソフトバンクの山川穂高選手、中日の中田翔選手など各チーム期待の新戦力がホームランを打ちました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407551000.html",
+          "publishedOn": "2024-03-29T15:29:58.000Z",
+          "wordCount": 977,
+          "title": "プロ野球開幕戦結果まとめ 巨人が去年日本一の阪神に勝利",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407551_2403300026_0330002717_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407541000.html",
           "author": null,

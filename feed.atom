@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T15:25:40.232Z</updated>
+    <updated>2024-03-29T15:35:38.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プロ野球開幕戦結果まとめ 巨人が去年日本一の阪神に勝利]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240330/k10014407551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240330/k10014407551000.html"/>
+        <updated>2024-03-29T15:29:58.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球は29日、シーズン開幕を迎え、昨シーズン4位からの巻き返しをねらう巨人が、去年日本一の阪神に勝ち、阿部慎之助監督は就任後の初戦を白星で飾りました。また、DeNAの注目のルーキー、度会隆輝選手やソフトバンクの山川穂高選手、中日の中田翔選手など各チーム期待の新戦力がホームランを打ちました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ライトノベル作家　アニメ化した自身の作品「1、2話を見て絶望、4話でギブアップ」「1巻は22ヶ月で19回重版したが、アニメ後は0回」]]></title>
         <id>https://itainews.com/archives/2034248.html</id>
@@ -30238,16 +30248,6 @@ The two new products announ…]]></summary>
 私だけを見て！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、すでに2nmチップ設計を開始か。「iPhone 17 Pro」に搭載？]]></title>
-        <id>https://gadget.phileweb.com/?p=70322</id>
-        <link href="https://gadget.phileweb.com/post-70322/"/>
-        <updated>2024-02-29T03:29:44.000Z</updated>
-        <summary type="html"><![CDATA[アップルは、世界最大手ファウンドリTSMCの最先端プロセス製造をほぼ独占し、毎年の新型iPhoneに最先端チップを搭載している。昨年秋のiPhone 15 Proモデルに採用されたA17 Proも、世界初のスマートフォン向け3nmチップとして注目を集めていた。 そして同社はすでに、TSMCの次世代2 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
