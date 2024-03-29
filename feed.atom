@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T06:36:49.768Z</updated>
+    <updated>2024-03-29T06:50:19.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ことし2月の国内宿泊者数 延べ約4815万人 2月では過去最高更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406581000.html"/>
+        <updated>2024-03-29T06:38:26.000Z</updated>
+        <summary type="html"><![CDATA[観光庁によりますと、ことし2月に国内のホテルや旅館などに宿泊した人は、速報値で延べおよそ4815万人で、前の年の2月よりも17％増加し、2月としては過去最高を更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ホワイトハウス、米国のすべての連邦政府機関に「AI最高責任者」配置を要請]]></title>
         <id>https://gadget.phileweb.com/?p=72730</id>
