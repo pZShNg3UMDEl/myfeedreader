@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T15:50:29.158Z</updated>
+    <updated>2024-03-29T16:16:06.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paper on SPADs at the NATO Science & Technology organization meeting]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/03/paper-on-spads-at-nato-science.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/03/paper-on-spads-at-nato-science.html"/>
+        <updated>2024-03-29T16:07:00.001Z</updated>
+        <summary type="html"><![CDATA[A paper titled "SPAD Image Sensors for Quantum and Classical Imaging" by Prof. Edoardo Charbon was published in the STO Meetings proceedings in January 2024.
+Paper link: https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-SET-198/MP-IST-SET-198-C1-03.pdf
+Abstract:
+Single-photon avalanche diodes (SPADs) have been demonstrated on a variety of CMOS technologies since the early 2000s. While initially inferior to their counterparts implemented dedicated technologies, modern CMOS SPADs have recently matched them in sensitivity, noise, and timing jitter. Indeed, high time resolution, enabled by low jitter, has helped demonstrate the most impressive developments in fields of imaging and detection, including fluorescence lifetime imaging microscopy (FLIM), Förster resonance energy transfer (FRET), fluorescence correlation spectroscopy (FCS), time-of-flight positron emission tomography (TOF-PET), and light detection and ranging (LiDAR), just to name a few. The SPAD’s power of detecting single photons in pixels that can be replicated in great numbers, typically in the millions, is currently having a major impact in computational imaging and quantum imaging. These two emerging
+disciplines stand to take advantage of larger and larger SPAD image sensors with increasingly low jitter and noise, and high sensitivity. Finally, due to the computational power required at pixel level, power consumption must be reduced; we thus advocate the use of in situ computational engines, which, thanks of CMOS’ economy of scale and 3D-stacking, enable vast computation density. Some examples of this trend are given, along with a general perspective on SPAD image sensors.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『イナズマイレブン最新作』体験版のネットの評価…]]></title>
+        <id>https://switchsoku.com/?p=99603</id>
+        <link href="https://switchsoku.com/soft/level5/99603"/>
+        <updated>2024-03-29T15:50:10.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/03/29(金) 07:21:24.79 ID:8Fw2kNKX0 システムがとっ散 […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロ野球開幕戦結果まとめ 巨人が去年日本一の阪神に勝利]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240330/k10014407551000.html</id>
@@ -30227,27 +30251,6 @@ The two new products announ…]]></summary>
 「スカート短く無防備なので狙った」電車内で盗撮疑い、京都府立高校教諭逮捕https://t.co/M5vHOQzu5o容疑者のスマホからは３０本以上の盗撮とみられる動画が確認されたといい、下鴨署...]]></summary>
         <author>
             <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Stardew Valley』販売本数が3000万本を突破！！]]></title>
-        <id>https://switchsoku.com/?p=98737</id>
-        <link href="https://switchsoku.com/soft/indy/98737"/>
-        <updated>2024-02-29T04:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo Switchでは 2018年1月11日より配信されているスローライフ牧場RPG『S […]]]></summary>
-        <author>
-            <name>SWITCH速報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私だけを見て！]]></title>
-        <id>https://2-9-9.com/?p=69408</id>
-        <link href="https://2-9-9.com/archives/69408"/>
-        <updated>2024-02-29T04:00:10.000Z</updated>
-        <summary type="html"><![CDATA[真っ白な毛並みの美人でプライドのあるオッデイちゃん。もう飼い主さんの生活パターンやルーティンもすべて把握済み。 常にがっつり向き合って構ってもらいたいわけではないけれど、自分を忘れて視界に入らないほどに集中してしまう仕事...
-私だけを見て！ first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
         </author>
     </entry>
 </feed>
