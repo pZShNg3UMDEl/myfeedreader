@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T13:37:01.361Z</updated>
+    <updated>2024-03-29T13:50:11.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アメリカ 個人消費支出の物価指数 前年同月比2.5％上昇]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014407531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014407531000.html"/>
+        <updated>2024-03-29T13:39:14.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ商務省が29日に発表した先月のPCE＝個人消費支出の物価指数は、前の年の同じ月と比べて2.5％上昇しました。上昇率は市場予想どおりでしたが前の月より0.1ポイント上昇しました。一方、価格変動の大きいエネルギーと食品を除いた指数は2.8％の上昇で、前の月より0.1ポイント低下しました。FRBが目指す2％の物価目標を前に足踏み状態が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[授業料「免除しすぎた」と宇都宮大　外国人4年生に「44万円払わなければ除籍」通告　期限は3月29日]]></title>
         <id>https://itainews.com/archives/2034242.html</id>
