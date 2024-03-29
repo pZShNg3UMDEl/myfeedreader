@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T23:12:21.001Z</updated>
+    <updated>2024-03-29T23:23:07.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ キーウで地雷除去の必要性訴える写真展]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240330/k10014407631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240330/k10014407631000.html"/>
+        <updated>2024-03-29T23:17:10.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによる軍事侵攻が続くウクライナで、地雷被害の実情を紹介する写真展が開かれ、主催した国連機関などは、広範囲に仕掛けられた地雷を一刻も早く除去する必要性を訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[千葉県・市教委 教員採用の大学生らの奨学金返済全額肩代わり]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240330/k10014407421000.html</id>
@@ -30085,15 +30095,6 @@ T…]]></summary>
         <summary type="html"><![CDATA[俳優の杉咲花が、4月スタートのカンテレ・フジテレビ系の新月10ドラマ「アンメット ある脳外科医の日記」に主演することが明らかになった。杉咲が、同局系の連続ドラマに主演するのは初めて。また、自身初...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4毛糸になってるの🧶 #カワウソ]]></title>
-        <id>5f9384d8ebdbeb37590c9037e3b0653c</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c0743514f7ed8fb850e0a5f340c3aa0ae9bbad742d7d63595ba4af6086ed9da6bf5aa757cd8160a9064d16de1c51a7a12823cc36488c2"/>
-        <updated>2024-02-29T11:21:50.992Z</updated>
-        <author>
-            <name>ツイマンガ</name>
         </author>
     </entry>
 </feed>
