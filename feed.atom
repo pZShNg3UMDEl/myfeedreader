@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T08:35:42.271Z</updated>
+    <updated>2024-03-29T08:50:38.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHKの新年度予算 国会で承認]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014407001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014407001000.html"/>
+        <updated>2024-03-29T08:35:48.000Z</updated>
+        <summary type="html"><![CDATA[新年度・2024年度のNHKの予算が国会で承認されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校野球 センバツ あす準決勝 ベスト4進出チームが調整]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240329/k10014406511000.html</id>
