@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T05:12:54.814Z</updated>
+    <updated>2024-03-29T05:26:50.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“ライドシェア 新たに8地域のサービス実施認める” 国交省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406441000.html"/>
+        <updated>2024-03-29T05:14:09.000Z</updated>
+        <summary type="html"><![CDATA[タクシー会社の管理のもとで来月から都市部などで始まる、「ライドシェア」のサービスについて、国土交通省は、新たに8つの地域でも曜日や時間帯に限ってサービスの実施を認める方針を明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京でサクラ開花 気象庁 平年より5日遅く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406491000.html"/>
+        <updated>2024-03-29T05:10:35.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は29日午後「東京でサクラが開花した」と発表しました。気象庁によりますと、東京のサクラの開花の目安となっている千代田区の靖国神社のソメイヨシノで、先ほど午後2時ごろ5輪以上の花が咲いているのが確認されました。東京のサクラの開花の発表は平年より5日、統計を取り始めてから最も早かった去年より15日、それぞれ遅くなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ベルキン、世界初のApple DockKitトラッキング技術対応スマホスタンド]]></title>
         <id>https://gadget.phileweb.com/?p=72712</id>
