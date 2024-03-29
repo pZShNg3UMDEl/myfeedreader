@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T07:36:10.897Z</updated>
+    <updated>2024-03-29T07:50:21.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「核のごみ」地層処分 反対の専門家が審議会に出席し議論]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406541000.html"/>
+        <updated>2024-03-29T07:43:16.000Z</updated>
+        <summary type="html"><![CDATA[原子力発電に伴って発生するいわゆる「核のごみ」を地下深くに埋めて処分することに反対している専門家が経済産業省の審議会に出席し「地下の変動が激しい日本に適地はない」とする意見を述べました。これに対し経済産業省側は「国内でも適地を探すことは可能だ」と説明しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PFAS」都が地下水調査 21自治体で国の暫定目標値を上回る値]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406601000.html"/>
+        <updated>2024-03-29T07:38:49.000Z</updated>
+        <summary type="html"><![CDATA[一部が有害とされる、有機フッ素化合物の「PFAS」の、東京都内全域を対象にした都の地下水の調査が完了し、全体のおよそ3分の1にあたる21の自治体で、国の暫定の目標値を上回る値が検出されていたことがわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ 全国の感染状況 “減少傾向も引き続き対策を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406631000.html"/>
+        <updated>2024-03-29T07:35:53.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの全国の感染状況は、3月24日までの1週間では、一つの医療機関当たりの平均の患者数が5.21人で、前の週の0.85倍となっています。厚生労働省は「患者数は減少傾向にあるが、感染は繰り返し拡大するので、引き続き感染対策を行ってほしい」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【尻から油】内臓脂肪を減らす薬『アライ』を40代女性ライターが体験　2日目夜にトイレで異変、“油漏れ”の心配も]]></title>
         <id>https://itainews.com/archives/2034226.html</id>
