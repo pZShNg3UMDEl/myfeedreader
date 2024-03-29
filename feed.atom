@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T21:22:24.270Z</updated>
+    <updated>2024-03-29T21:35:33.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本に向かう外国人の情報 事前照合システム試験導入へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240330/k10014407251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240330/k10014407251000.html"/>
+        <updated>2024-03-29T21:10:05.000Z</updated>
+        <summary type="html"><![CDATA[日本を訪れる外国人が増える中、テロなどの未然防止や入国審査の混雑緩和につなげようと、出入国在留管理庁は日本に向かう外国人の情報を空港を出発する前に確認するシステムを来年度から試験導入することになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[読書感想文コンクール AI生成文章を不適切引用で審査対象外に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240330/k10014407321000.html</id>
