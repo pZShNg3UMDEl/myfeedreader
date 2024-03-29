@@ -343,6 +343,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72746",
+          "author": "Munenori Taniguchi",
+          "description": "イリノイ大学アーバナ・シャンペーン校のジュヒョン・キム准教授らは、モノホイールタイプの自律走行ロボット「Ringbot」を開発した。 モノホイールとは、リング状のレールに取り付けられた電動プラットフォームにライダーが座り、そのレールが1つの大きな車輪の内側を形成する乗り物のこと。映画『MIB』のシリ […]",
+          "link": "https://gadget.phileweb.com/post-72746/",
+          "publishedOn": "2024-03-29T09:28:13.000Z",
+          "wordCount": 778,
+          "title": "『スター・ウォーズ』グリーヴァス将軍の乗り物から着想、2本足モノホイールロボット「Ringbot」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/mh1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72730",
           "author": "Munenori Taniguchi",
           "description": "3月28日、米国のカマラ・ハリス副大統領は、政府機関が人工知能をどう利用し、どの程度監視すべきかを定める新しい規則の概要を発表した。 合衆国行政管理予算局（OMB）によるこの新規則は、AIのセーフガードの導入、政府のAI利用に関する詳細を公表し、政府のAIプロジェクトを監督する最高AI責任者（CAI […]",
@@ -2073,6 +2083,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406571000.html",
+          "author": null,
+          "description": "能登半島地震が起きた元日の夜遅くに、気象庁が誤って石川県で震度7の揺れを観測したと発表したことについて、気象庁が原因を調べた結果、システムに不備があり、この時の地震とおよそ7時間前の震度7の地震を「立て続けに起きた一連の地震」として誤って処理していたことが気象庁への取材で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406571000.html",
+          "publishedOn": "2024-03-29T09:32:00.000Z",
+          "wordCount": 479,
+          "title": "震度7と誤発表の原因 “7時間前の震度7と一連の地震” と処理",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406571_2403291515_0329183202_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406941000.html",
           "author": null,

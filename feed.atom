@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T09:25:10.503Z</updated>
+    <updated>2024-03-29T09:35:35.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[震度7と誤発表の原因 “7時間前の震度7と一連の地震” と処理]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406571000.html"/>
+        <updated>2024-03-29T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震が起きた元日の夜遅くに、気象庁が誤って石川県で震度7の揺れを観測したと発表したことについて、気象庁が原因を調べた結果、システムに不備があり、この時の地震とおよそ7時間前の震度7の地震を「立て続けに起きた一連の地震」として誤って処理していたことが気象庁への取材で分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『スター・ウォーズ』グリーヴァス将軍の乗り物から着想、2本足モノホイールロボット「Ringbot」]]></title>
+        <id>https://gadget.phileweb.com/?p=72746</id>
+        <link href="https://gadget.phileweb.com/post-72746/"/>
+        <updated>2024-03-29T09:28:13.000Z</updated>
+        <summary type="html"><![CDATA[イリノイ大学アーバナ・シャンペーン校のジュヒョン・キム准教授らは、モノホイールタイプの自律走行ロボット「Ringbot」を開発した。 モノホイールとは、リング状のレールに取り付けられた電動プラットフォームにライダーが座り、そのレールが1つの大きな車輪の内側を形成する乗り物のこと。映画『MIB』のシリ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【医療】高齢者の包茎… 介護者が知っておきたい基礎知識とサポート方法]]></title>
         <id>https://itainews.com/archives/2034234.html</id>
