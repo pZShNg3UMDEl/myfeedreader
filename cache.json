@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/29/news079.html",
+          "author": null,
+          "description": "マクニカは、近藤電子工業と共同で、AlteraのAgilex 5デバイス搭載評価ボード「Mpression Sulfur」を開発した。Agilex 5 FPGA & SoC Eシリーズを搭載していて、SOMと豊富なインタフェースを搭載したキャリアボードをセットにした。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/29/news079.html",
+          "publishedOn": "2024-03-29T00:00:00.000Z",
+          "wordCount": 2642,
+          "title": "Alteraの「Agilex 5」デバイスを搭載した評価ボード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/29/cover_news079.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/28/news092.html",
           "author": null,
           "description": "インフィニオン テクノロジーズは、ソリッドステートアイソレーターの新しい製品ファミリーを発表した。電力損失を最大70％抑えてスイッチングを高速化する。",
@@ -2033,6 +2043,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406121000.html",
+          "author": null,
+          "description": "企業の生産活動を示す先月・2月の鉱工業生産指数は、2020年を100とした指数で97.9となり、前の月を0.1％下回って2か月連続の低下となりました。経済産業省は「一進一退ながら弱含んでいる」という基調判断を維持しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406121000.html",
+          "publishedOn": "2024-03-29T00:21:02.000Z",
+          "wordCount": 656,
+          "title": "2月の鉱工業生産指数 前月を0.1％下回る 2か月連続の低下",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406121_2403290905_0329092041_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406081000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手が28日、カーディナルス戦でヒット2本をマークし移籍後初の本拠地デビュー戦で上々のスタートを切りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406081000.html",
+          "publishedOn": "2024-03-29T00:17:25.000Z",
+          "wordCount": 754,
+          "title": "大谷翔平 ドジャーズ本拠地開幕戦 ヒット2本で上々のスタート",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406081_2403290824_0329091518_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406131000.html",
+          "author": null,
+          "description": "静岡県伊東市は土砂災害の危険が高まっているとして、午前7時10分に伊東市対島地区の1100世帯1900人に避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406131000.html",
+          "publishedOn": "2024-03-29T00:11:54.000Z",
+          "wordCount": 530,
+          "title": "静岡 伊東 対島地区の1100世帯 1900人に避難指示",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406131_2403290905_0329091156_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406051000.html",
+          "author": null,
+          "description": "JR東日本によりますと、東北新幹線は大宮駅と小山駅の間で午前6時前に発生した停電の影響で、東京駅と仙台駅の間の上下線で始発から運転を見合わせていましたが、電線にひっかかった木の枝を取り除いた結果、送電が復旧し、午前9時に運転を再開しました。これにより、山形新幹線と秋田新幹線も運転を再開しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406051000.html",
+          "publishedOn": "2024-03-29T00:04:08.000Z",
+          "wordCount": 647,
+          "title": "東北新幹線 運転再開 山形・秋田新幹線も再開",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406051_2403290636_0329090410_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406101000.html",
+          "author": null,
+          "description": "東京23区の今年度・2023年度の平均の消費者物価指数は、速報値で天候による変動が大きい生鮮食品を除いた指数が前の年度より2.7％上昇しました。食料品の値上がりなどが主な要因ですが、記録的な上昇率となった前の年度と比べ、0.2ポイント縮小しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014406101000.html",
+          "publishedOn": "2024-03-28T23:56:54.000Z",
+          "wordCount": 662,
+          "title": "東京23区 2023年度の消費者物価指数 前年度より2.7％上昇",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014406101_2403290848_0329085656_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406091000.html",
           "author": null,
@@ -12301,6 +12361,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99587",
+          "author": "SWITCH速報",
+          "description": "Switch向けレトロゲーム配信サービス「EGGコンソール」の第11弾『EGGコンソール サーク P […]",
+          "link": "https://switchsoku.com/soft/99587",
+          "publishedOn": "2024-03-29T00:00:07.000Z",
+          "wordCount": 10078,
+          "title": "Switch『EGGコンソール サーク PC-8801mkIISR』配信開始",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/egg-xcark.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99585",
           "author": "SWITCH速報",
           "description": "1: 2024/03/27(水) 00:06:58.64 ID:VAZ7Wp490 宿題 桃 太 郎 […]",
@@ -18543,21 +18613,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120643/",
-          "author": null,
-          "description": "アヌシー国際アニメーション映画祭2023の最高賞にあたるクリスタル賞を受賞した「リンダはチキンがたべたい！」が、4月12日から公開されることが決定。あわせて、本予告とポスタービジュアルも披露され...",
-          "link": "https://anime.eiga.com/news/120643/",
-          "publishedOn": "2024-02-28T12:00:00.000Z",
-          "wordCount": 866,
-          "title": "アヌシー映画祭最高賞を受賞したアニメ「リンダはチキンがたべたい！」4月12日公開　チキンをめぐる母娘の大騒動を描く",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -19285,6 +19340,26 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=41718",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 今回は衝撃の閉店情報が入ってまいりました。 ラーメン通の間で話題となっていた人気店、「らーめん丸心」が4月15日をもって閉店してしまうとのこと…！ まずは場所からご案内いたします。 「らーめん丸心」場所は…",
+          "link": "https://atsugi-lab.com/close-marushin202404/",
+          "publishedOn": "2024-03-29T00:39:57.000Z",
+          "wordCount": 1157,
+          "title": "【衝撃！閉店】ラーメン通の間で話題になっていた「らーめん丸心」が4月15日をもって閉店だって…！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/close-marushin202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41943",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ 今回は3月30日（土）午前7時オープン予定！と情報をお伝えした 自家焙煎のコーヒーショップ「summer blue coffee」のプレオープンにお邪魔して参りましたー！ 早速取れたてのレポートをどうぞ☆…",
+          "link": "https://atsugi-lab.com/openreport-summerbluecoffee202403/",
+          "publishedOn": "2024-03-29T00:20:00.000Z",
+          "wordCount": 1220,
+          "title": "【プレオープンに行ってきた♪】3月30日7時オープン・自家焙煎のコーヒーショップ「summer blue coffee」［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/sbc20240330.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=41890",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです！ 今回は海老名駅前で開催されるイベント情報をご紹介♪ 県央地区で最大規模となる植物の専門店を集めたイベント、 植物・クラフト市「THE BOTANICAL SHOW」が開催されるそうー！ 植物・クラフト市「…",
@@ -19531,6 +19606,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240574",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”挽きたて”・”打ちたて”・”茹でたて”にこだわる江戸切りそばチェーン「ゆで太郎（もつ次郎併設）」へ […]",
+          "link": "https://foodfighter.jp/motsujiro-motsunabe-ramen",
+          "publishedOn": "2024-03-29T00:02:57.000Z",
+          "wordCount": 1832,
+          "title": "【もつ次郎】もつ鍋ラーメン小盛ごはんセット【定番メニュー・ゆで太郎併設】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/8e9e522bc3309441b646e879bb88e200.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240550",
           "author": "foodfighter",
