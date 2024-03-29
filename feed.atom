@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T10:29:20.418Z</updated>
+    <updated>2024-03-29T10:39:28.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マネージャーで夢がかなった！]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240329/k10014406251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240329/k10014406251000.html"/>
+        <updated>2024-03-29T10:23:52.000Z</updated>
+        <summary type="html"><![CDATA[センバツ初勝利を挙げて一気に準決勝に進んだ千葉の中央学院高校。支えているのは練習のサポートだけでなく、さまざまな仕事を一手に引き受ける“敏腕”マネージャーたちでした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪・関西万博 経済波及効果は約2兆9000億円 経産省が試算]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240329/k10014407131000.html</id>
