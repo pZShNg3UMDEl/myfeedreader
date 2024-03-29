@@ -1861,16 +1861,6 @@
           "wordCount": 775,
           "title": "アップル、すでに2nmチップ設計を開始か。「iPhone 17 Pro」に搭載？",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/shutterstock_1422739466.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=70290",
-          "author": "佐野正弘",
-          "description": "2月26日から、携帯電話業界で最大の見本市イベント「MWC Barcelona 2024」が、スペイン・バルセロナで開催されている。業界の今後を占うイベントということもあり、筆者は今年も現地を訪れて取材をしている。 スマートフォン展示が減少した「MWC Barcelona 2024」 今回のMWC  […]",
-          "link": "https://gadget.phileweb.com/__trashed-2/",
-          "publishedOn": "2024-02-28T21:40:00.000Z",
-          "wordCount": 799,
-          "title": "「MWC Barcelona 2024」に見る、スマホ時代の終わりと日本企業復活の可能性",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/IMG_0306.jpg"
         }
       ]
     },
@@ -2083,6 +2073,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014405041000.html",
+          "author": null,
+          "description": "イギリス王室は今月、キャサリン妃ががんと診断され、治療を行っていると発表。キャサリン妃はビデオメッセージで、子どもたちについて「私は大丈夫だと安心させることに時間がかかりました」と話しました。がんと診断されたら、子どもにどう伝えますか？",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014405041000.html",
+          "publishedOn": "2024-03-29T09:42:27.000Z",
+          "wordCount": 1451,
+          "title": "がんの診断を受けたら 子どもにどう伝える？",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014405041_2403291621_0329162314_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407041000.html",
+          "author": null,
+          "description": "大手銀行5行が4月適用する変動型の住宅ローンの金利を発表し、このうち4行が据え置き、1行は引き下げることになりました。日銀がおよそ17年ぶりに利上げしましたが、引き上げ幅が限定的だったためだとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014407041000.html",
+          "publishedOn": "2024-03-29T09:33:55.000Z",
+          "wordCount": 650,
+          "title": "変動型住宅ローン金利 大手5行のうち 4行据え置き 1行引き下げ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014407041_2403291805_0329183358_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406571000.html",
           "author": null,
