@@ -2074,6 +2074,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407201000.html",
+          "author": null,
+          "description": "ロサンゼルス・タイムズは28日、ドジャースを担当するディラン・ヘルナンデス記者のコラムを掲載しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014407201000.html",
+          "publishedOn": "2024-03-29T11:03:05.000Z",
+          "wordCount": 673,
+          "title": "大谷選手 “多額送金 捜査中なので何も言えません” 米紙",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014407201_2403291941_0329200307_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407211000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題で、安倍派の世耕 前参議院幹事長はおととし3月、安倍元総理大臣や西村前経済産業大臣らと4人で参議院選挙の候補者調整に関する打ち合わせを行ったと明らかにする一方、キックバックの扱いは協議していないと説明しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014407211000.html",
+          "publishedOn": "2024-03-29T10:50:58.000Z",
+          "wordCount": 706,
+          "title": "世耕氏 “おととし3月に打ち合わせ キックバック協議せず”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014407211_2403291922_0329195100_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407141000.html",
           "author": null,
           "description": "大手ハンバーガーチェーンの日本マクドナルドは全国の店舗で販売したセットメニューのおもちゃに部品が外れる不具合が確認されたとして、自主回収すると発表しました。",
@@ -2082,6 +2102,16 @@
           "wordCount": 468,
           "title": "マクドナルド ドラえもんのおもちゃ自主回収 部品外れる不具合",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014407141_2403291838_0329194317_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407111000.html",
+          "author": null,
+          "description": "スキージャンプ男子の今シーズンのワールドカップで、個人総合で2位に入った小林陵侑選手がシーズンを振り返り「結果は思っていた以上によく、パフォーマンスとしてもよかったので、いいシーズンになった」と手応えを口にしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014407111000.html",
+          "publishedOn": "2024-03-29T10:42:19.000Z",
+          "wordCount": 733,
+          "title": "スキージャンプ 小林陵侑「結果は思った以上 いいシーズンに」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014407111_2403291903_0329194222_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014406251000.html",
@@ -15225,6 +15255,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120952/",
+          "author": null,
+          "description": "7月からCBC／TBS系列「アガルアニメ」枠内で放送を開始する「キン肉マン 完璧超人始祖（パーフェクト・オリジン）編」の正義超人陣営、悪魔超人陣営のキャストが発表された。上坂すみれ、古川登志夫、...",
+          "link": "https://anime.eiga.com/news/120952/",
+          "publishedOn": "2024-03-29T11:00:00.000Z",
+          "wordCount": 1741,
+          "title": "「キン肉マン 完璧超人始祖編」テリーマン役の小野大輔、ロビンマスク役の小西克幸、ウォーズマン役の梶裕貴らキャスト15人発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/tokuten_list/120947/",
           "author": null,
           "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、公開中の「劇場版ハイキュ...",
@@ -19053,21 +19098,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120689/",
-          "author": null,
-          "description": "4月12日に同時公開される劇場アニメ「クラユカバ」と「クラメルカガリ」、各作品の予告編、メインビジュアルが公開された。 両作品は短編アニメ「甲鉄傳紀」シリーズで知られる塚原重義が原作・脚本・監督...",
-          "link": "https://anime.eiga.com/news/120689/",
-          "publishedOn": "2024-02-28T23:00:00.000Z",
-          "wordCount": 891,
-          "title": "4月12日同時公開「クラユカバ」＆「クラメルカガリ」の予告編＆メインビジュアル披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -20041,6 +20071,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240616",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年3月23日から3月29日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキ […]",
+          "link": "https://foodfighter.jp/ranking-2024-0330",
+          "publishedOn": "2024-03-29T11:00:50.000Z",
+          "wordCount": 1777,
+          "title": "【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年3月23日から3月29日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/2d7b347cc85b0cbf08f0167bc6461687.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240597",
           "author": "foodfighter",
@@ -21518,6 +21558,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034240.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2024/03/29(金) 00:14:27.70 ID:eEnRg3S+9.net\n\n\n\n\n\n\n\nネットカフェの天井裏に侵入、盗撮　36歳国税局職員を懲戒免職https://t.co/GLwxADdOUcネットカフェの天井裏に侵入し、シャワーを利用する女性を計51回、動画撮影したとしています。— 毎日新聞 ...",
+          "link": "https://itainews.com/archives/2034240.html",
+          "publishedOn": "2024-03-29T11:03:39.000Z",
+          "wordCount": 2378,
+          "title": "ネットカフェの天井裏に侵入、盗撮　36歳国税局職員を懲戒免職",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/c/ccbab8fd-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034236.html",
           "author": "yonepo665sfr",
