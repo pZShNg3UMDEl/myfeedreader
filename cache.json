@@ -324,16 +324,6 @@
           "wordCount": 1830,
           "title": "PR: モーションネットワークで工場をスマート化　変化に強いモノづくりを実現",
           "imageUrl": "https://image.itmedia.co.jp/mn/articles/2402/29/l_mn0301_mechatro_001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2402/29/news087.html",
-          "author": null,
-          "description": "旭化成エレクトロニクスは、自動車向け電流センサー「CZ39」シリーズの量産を開始した。化合物ホール素子を用いていて、高速での応答が可能だ。SiC（炭化ケイ素）、GaN（窒化ガリウム）パワーデバイスのスイッチング周波数を向上する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2402/29/news087.html",
-          "publishedOn": "2024-02-29T00:00:00.000Z",
-          "wordCount": 2594,
-          "title": "100ナノ秒の高速応答、低発熱の自動車向け電流センサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2402/29/cover_news087.jpg"
         }
       ]
     },
@@ -2073,6 +2063,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407451000.html",
+          "author": null,
+          "description": "中古車販売会社「ビッグモーター」の川崎店前の街路樹が伐採された事件で逮捕された本社の元役員が伐採前日に店長から市に確認が必要ではないかと問われたのに対し、「必要は無い。すぐ動け」と指示していた疑いがあることが、捜査関係者への取材で分かりました。検察は29日、元役員と店長を器物損壊の罪で起訴しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240329/k10014407451000.html",
+          "publishedOn": "2024-03-29T11:59:51.000Z",
+          "wordCount": 735,
+          "title": "ビッグモーター元役員起訴 街路樹伐採 “市の確認不要”と指示",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240329/K10014407451_2403292055_0329205953_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240329/k10014407231000.html",
           "author": null,
@@ -15099,16 +15099,6 @@
           "wordCount": 9974,
           "title": "『ポケモンカード アプリ』発表でDeNAの株価が大復活してしまう",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-trading-card.webp"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98728",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/28(水) 13:16:18.451 ID:qbaHi6Pa0 そういうのでい […]",
-          "link": "https://switchsoku.com/soft/pokemon/98728",
-          "publishedOn": "2024-02-29T00:00:50.000Z",
-          "wordCount": 10117,
-          "title": "ポケモンレジェンズの新作、楽しみでしかない",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-z-a.webp"
         }
       ]
     },
@@ -15284,6 +15274,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120926/",
+          "author": null,
+          "description": "俳優の新木優子が、「キングダム」シリーズ第4作「キングダム 大将軍の帰還」に出演し、摎（きょう）を演じていることがわかった。泰国六大将軍の一人で、王騎（おうき／大沢たかお）と龐煖（ほうけん／吉川...",
+          "link": "https://anime.eiga.com/news/120926/",
+          "publishedOn": "2024-03-29T12:00:00.000Z",
+          "wordCount": 1632,
+          "title": "実写「キングダム 大将軍の帰還」摎役は新木優子　王騎と龐煖の“過去の因縁”に深く関わる、謎多き武将",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120952/",
           "author": null,
@@ -21589,6 +21594,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2034244.html",
+          "author": "damono3856",
+          "description": "1 名前：草井満子(茸)：2024/03/29(金) 10:06:27.72 ID:Tl5gzb5j0●.net\n\n\n\n\n\n\n\n【アメリカ】ノーブラ女性への降機要求は「差別」客がデルタ航空社長との面会要求「男はノーブラで搭乗できるのに！」 https://t.co/qCpdJgOc9C— News Everyday (@24newseveryday) March 2...",
+          "link": "https://itainews.com/archives/2034244.html",
+          "publishedOn": "2024-03-29T12:02:40.000Z",
+          "wordCount": 2358,
+          "title": "ノーブラまんさん、デルタ航空機から引きずり降ろされる「女性差別だ！ギャーギャーギャー！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/8/78ad1ed2-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2034240.html",
           "author": "damono3856",
           "description": "1 名前：蚤の市 ★：2024/03/29(金) 00:14:27.70 ID:eEnRg3S+9.net\n\n\n\n\n\n\n\nネットカフェの天井裏に侵入、盗撮　36歳国税局職員を懲戒免職https://t.co/GLwxADdOUcネットカフェの天井裏に侵入し、シャワーを利用する女性を計51回、動画撮影したとしています。— 毎日新聞 ...",
@@ -24847,16 +24862,6 @@
           "wordCount": 2396,
           "title": "【悲報】米倉涼子さん、楽天モバイルから消える",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/b/0b578371-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033455.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：ネギうどん ★：2024/02/28(水) 13:48:20.30 ID:4tVQyPIw9.net\n\n\n\n\n\n\n\n\n\n\n「ジャニー喜多川と同じ…」指原莉乃、松本人志に苦言も「13歳メンバーへのキス＆お触り動画」が大炎上https://t.co/aOFIDC1RUP— asakura (@asakiryu) February 27, 2024 \n\n\n\n\n\n\n\n\n　現在、...",
-          "link": "https://itainews.com/archives/2033455.html",
-          "publishedOn": "2024-02-29T00:01:27.000Z",
-          "wordCount": 2621,
-          "title": "【芸能】指原莉乃「13歳メンバーへのキス＆お触り動画」が拡散し大炎上 「ジャニー喜多川と同じ」の声",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/0/707e3449-s.png"
         }
       ]
     },
@@ -26924,16 +26929,6 @@
           "wordCount": 1397,
           "title": "やんちゃ子猫の一人遊び",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69404.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=69440",
-          "author": "299",
-          "description": "哺乳瓶からミルクをごくごく美味しそうに飲んでいる子猫が可愛いです。目を細めながらもしっかり哺乳瓶のほうを凝視しながら真剣にミルクを飲み干していきます。 食欲旺盛なキジトラ猫ちゃんですね。一気飲みしたからか、かなりお腹がパ...\n満腹すぎて身動きできなくなった子猫が可愛い〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/69440",
-          "publishedOn": "2024-02-29T00:00:30.000Z",
-          "wordCount": 1398,
-          "title": "満腹すぎて身動きできなくなった子猫が可愛い〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/02/69440.jpeg"
         }
       ]
     },
