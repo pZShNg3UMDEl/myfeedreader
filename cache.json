@@ -2014,6 +2014,56 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407321000.html",
+          "author": null,
+          "description": "小学生から高校生まで多数の応募がある読書感想文の全国コンクールで、今年度、AIが生成した文章を不適切に引用するなどした応募作品が少なくとも10以上あり、応募要項違反で、審査の対象から除外となっていたことが分かりました。コンクールの主催側は、「不適切な使い方をしているのはほんの一部だと考えている。AIの使用が全面的にだめだというわけではなく、自分のことばで書くという読書感想文の本質を担保したままどのような活用が可能なのかも今後は検討していきたい」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407321000.html",
+          "publishedOn": "2024-03-29T21:08:33.000Z",
+          "wordCount": 575,
+          "title": "読書感想文コンクール AI生成文章を不適切引用で審査対象外に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407321_2403292154_0330004701_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407311000.html",
+          "author": null,
+          "description": "派閥の政治資金パーティーをめぐる問題で、自民党執行部は安倍派のキックバックの扱いを協議した幹部を党の処分の中で2番目に重い離党勧告とすることも視野に派閥での役割なども踏まえて判断する方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407311000.html",
+          "publishedOn": "2024-03-29T21:07:22.000Z",
+          "wordCount": 728,
+          "title": "自民 政治資金問題で安倍派幹部の処分 離党勧告も視野に判断へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407311_2403292153_0330012314_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407581000.html",
+          "author": null,
+          "description": "小林製薬の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で厚生労働省は、小林製薬が紅麹原料を卸している52社に医師から健康相談が寄せられている製品があるかなどを、自主点検するよう求めていましたが、点検の期限としていた29日までに、該当する製品は無かったことが分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407581000.html",
+          "publishedOn": "2024-03-29T21:05:28.000Z",
+          "wordCount": 710,
+          "title": "小林製薬が紅麹原料を卸している52社自主点検 該当製品無し",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407581_2403300605_0330060510_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407501000.html",
+          "author": null,
+          "description": "「小林製薬」の「紅麹」の成分を含む健康食品を摂取したあと、尿管に炎症が起きていると診断されて入院し手術をしたという男性がNHKの取材に応じ「被害の報告が増えていく恐怖感は摂取した人にしか分からない。原因がわからず怖い」と話し、一刻も早い原因の究明を訴えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407501000.html",
+          "publishedOn": "2024-03-29T21:02:29.000Z",
+          "wordCount": 572,
+          "title": "「紅麹」摂取後入院の男性 “恐怖感 摂取した人しか分からず”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407501_2403292231_0330010459_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407411000.html",
+          "author": null,
+          "description": "「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、厚生労働省は大阪市などと30日から食品衛生法に基づき紅麹原料の製造工場に立ち入り検査を行うことにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407411000.html",
+          "publishedOn": "2024-03-29T21:00:57.000Z",
+          "wordCount": 580,
+          "title": "小林製薬 紅麹問題 きょうから工場に立ち入り検査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407411_2403292210_0330060059_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407441000.html",
           "author": null,
           "description": "北朝鮮のチェ・ソニ外相は談話を発表し、拉致問題は解決済みだとしたうえで「日本のいかなる接触の試みも容認しない」として、日本側との接触を拒否する姿勢を強調しました。",
@@ -24797,16 +24847,6 @@
           "wordCount": 2452,
           "title": "Apple「何もせず自然にガラスが割れるのは仕様です。修理費12万頂きます」　←パよ。これが海外標準だ",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/3/f3cd756a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2033461.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：少考さん ★：2024/02/28(水) 20:49:43.58 ID:9tqGUgFj9.net\n\n\n\n\n\n\n\n\n\n国税庁、さすがにこれは….。 pic.twitter.com/grIYrLt2ss— 河野太郎 (@konotarogomame) February 28, 2024 \n\n\n\n\n\n\n\n\n\n「国税庁、さすがにこれは…」　河野太郎氏が確定申告サイトの“仕様”に...",
-          "link": "https://itainews.com/archives/2033461.html",
-          "publishedOn": "2024-02-29T09:01:44.000Z",
-          "wordCount": 2440,
-          "title": "「国税庁、さすがにこれは…」　河野太郎氏が確定申告サイトの“仕様”に苦言呈す",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/3/f3e6e4c4-s.png"
         }
       ]
     },
