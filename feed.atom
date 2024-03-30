@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T17:23:01.546Z</updated>
+    <updated>2024-03-30T17:36:21.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -30327,16 +30327,6 @@ T…]]></summary>
         <summary type="html"><![CDATA[Razerは、USBマイク「Razer Seiren V3 Chroma」、および小型モデル「Razer Seiren V3 Mini」を3月8日に発売する。価格は順に21,980円、8,380円（どちらも税込）。 Razer Seiren V3 Chroma Razer Seiren V3 Chr […]]]></summary>
         <author>
             <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA、AMD、インテルの“超解像技術”、Windows 11が統合へ。新API「DirectSR」発表]]></title>
-        <id>https://gadget.phileweb.com/?p=70484</id>
-        <link href="https://gadget.phileweb.com/post-70484/"/>
-        <updated>2024-03-01T05:26:03.000Z</updated>
-        <summary type="html"><![CDATA[ここ数年、ゲーミングPCでは超解像技術の利用が活発化している。システム内部では低解像度で描いて負荷を減らしつつ、AIによりアップスケーリングすることで見かけは高解像度にするものだ。一方、GPUメーカーがそれぞれ独自規格を打ち出すことで、乱立していた感があった。 そんななか、マイクロソフトがNVIDI […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
