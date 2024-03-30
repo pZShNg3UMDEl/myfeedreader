@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T11:11:31.482Z</updated>
+    <updated>2024-03-30T11:21:11.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岐阜 長良川で水上バイク2台が衝突 7歳男児搬送も意識不明]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240330/k10014408131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240330/k10014408131000.html"/>
+        <updated>2024-03-30T11:15:13.000Z</updated>
+        <summary type="html"><![CDATA[警察に入った連絡によりますと、30日午後2時半ごろ、岐阜県羽島市堀津町の長良川で水上バイク2台が衝突しました。この事故で、愛知県あま市に住む7歳の男の子が病院に運ばれ、搬送されたとき意識不明の状態だったということです。また、水上バイクを運転していた38歳の父親もろっ骨を折るなどのけがをして病院に搬送されましたが、意識はあるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHUWIのタブレット大量故障、悪かったのは保管環境と判明。ごめんなさい。納入：四国電力、解析：沖]]></title>
         <id>https://itainews.com/archives/2034268.html</id>
