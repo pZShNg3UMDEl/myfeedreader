@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T21:37:02.751Z</updated>
+    <updated>2024-03-30T21:50:13.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高校野球 センバツきょう決勝 健大高崎×報徳学園【見どころ】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408091000.html"/>
+        <updated>2024-03-30T21:42:35.000Z</updated>
+        <summary type="html"><![CDATA[センバツ高校野球は31日、決勝が行われ、群馬県勢として初優勝を目指す高崎健康福祉大高崎高校と、22年ぶり3回目の優勝を目指す兵庫の報徳学園が対戦します。決勝は午後0時半に開始予定で、NHKでは総合テレビとEテレ、ラジオ第1で中継します。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小林製薬 紅麹問題 きょう和歌山県の工場に立ち入り検査へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408121000.html"/>
+        <updated>2024-03-30T21:40:22.000Z</updated>
+        <summary type="html"><![CDATA[「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、厚生労働省は30日に紅麹原料を製造していた大阪市内の工場に立ち入り検査を行いました。31日は、この工場から製造を引き継いだ和歌山県の工場に立ち入り検査に入ることにしていて、移設された製造設備の確認などを進めるものとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立民 報告書不記載の自民党関係議員の地元で街頭演説]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240331/k10014408081000.html</id>
