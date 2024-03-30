@@ -254,56 +254,6 @@
           "wordCount": 2606,
           "title": "オン抵抗を0.71mΩまで低減した30V NチャネルパワーMOSFET",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/04/cover_news077.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/06/news003.html",
-          "author": null,
-          "description": "グローバルにビジネス展開をする製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第4回ではクラウドERPの導入効果を最大化し、データドリブン経営を実現するデータ活用基盤について解説します。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/06/news003.html",
-          "publishedOn": "2024-03-01T01:00:00.000Z",
-          "wordCount": 1851,
-          "title": "PR: SAP IBPで実現するSCM計画業務の高度化",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/06/cover_news003.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news004.html",
-          "author": null,
-          "description": "グローバルにビジネス展開をする製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第4回ではクラウドERPの導入効果を最大化し、データドリブン経営を実現するデータ活用基盤について解説します。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news004.html",
-          "publishedOn": "2024-03-01T01:00:00.000Z",
-          "wordCount": 1876,
-          "title": "PR: データドリブン経営を支えるデータ活用基盤",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/07/cover_news004.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news003.html",
-          "author": null,
-          "description": "グローバルにビジネスを展開する製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第3回ではさまざまなSaaSソリューションを活用し、企業に最適化されたITエコシステムを実現する仕組みについて解説します。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news003.html",
-          "publishedOn": "2024-03-01T01:00:00.000Z",
-          "wordCount": 1888,
-          "title": "PR: SAP BTPによるDX推進",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/07/cover_news003.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news002.html",
-          "author": null,
-          "description": "グローバルにビジネスを展開する製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第2回では企業の強みを生かした仕組みづくりを実現するSAP BTP（SAP Business Technology Platform）について解説します。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news002.html",
-          "publishedOn": "2024-03-01T01:00:00.000Z",
-          "wordCount": 1924,
-          "title": "PR: DXの価値を最大化するクラウド拡張基盤",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/07/cover_news002.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news001.html",
-          "author": null,
-          "description": "グローバルにビジネスを展開する製造業にとって、デジタルトランスフォーメーション（DX）の重要性は高まる一方であり、企業が競争力を発揮するためにはDXへの取り組みが不可欠です。本連載では基幹系DX基盤のあるべき姿と、その実現に向けてポイントとなるソリューションを提案します。第1回は、製造業においてDXが必要とされる理由から、企業のDXを実現するIT基盤のあるべき姿を考えます。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/07/news001.html",
-          "publishedOn": "2024-03-01T01:00:00.000Z",
-          "wordCount": 1842,
-          "title": "PR: 基幹系DX基盤としてのクラウドERP",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/07/cover_news001.jpg"
         }
       ]
     },
@@ -1983,6 +1933,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014408071000.html",
+          "author": null,
+          "description": "アメリカのベンチャー企業、オープンAIは、人の声を再現する生成AIを開発したと発表しました。病気などで、ことばがうまく話せない人の支援に役立つとする一方、選挙などで悪用されるリスクを避けるため、現時点では本格的な公開はしないとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014408071000.html",
+          "publishedOn": "2024-03-30T12:54:44.000Z",
+          "wordCount": 659,
+          "title": "オープンAI 人の声を再現する生成AI開発 悪用リスク懸念も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014408071_2403302001_0330215446_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240330/k10014408051000.html",
           "author": null,
@@ -15615,6 +15575,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120866/",
+          "author": null,
+          "description": "往年の人気キャラクター、ポパイの長編実写映画を、チャーニン・エンターテインメントとキング・フィーチャーズが開発していることがわかった。米バラエティが第一報を報じた。 1929年にアメリカの漫画「...",
+          "link": "https://anime.eiga.com/news/120866/",
+          "publishedOn": "2024-03-30T13:00:00.000Z",
+          "wordCount": 1530,
+          "title": "人気キャラクター「ポパイ」が再び実写映画化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120842/",
           "author": null,
           "description": "BS松竹東急（BS260ch・全国無料放送）の放送枠「よる8銀座シネマ」で放送されている特集「6か月連続 ジャッキー・チェン祭り！」のクライマックスとして、ジャッキー・チェンの吹き替え声優で知ら...",
@@ -19473,21 +19448,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120698/",
-          "author": null,
-          "description": "「りぼん」（集英社刊）で連載中の少女漫画「ハニーレモンソーダ」のテレビアニメ化が決定した。ティザービジュアルが披露され、メインスタッフも明らかとなっている。 同作は、累計発行部数1200万部突破...",
-          "link": "https://anime.eiga.com/news/120698/",
-          "publishedOn": "2024-03-01T01:00:00.000Z",
-          "wordCount": 887,
-          "title": "少女漫画「ハニーレモンソーダ」TVアニメ化決定　J.C.STAFF制作、監督は錦織博",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -21888,6 +21848,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034270.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2024/03/30(土) 10:42:41.01 ID:tiYcUQQc9.net\n\n\n\n\n\n\n\n死ぬほど苦しんだ娘に「免疫がついてよかったね」…親が“自然派”でワクチン打たず、「はしか」感染で入院(ABEMA TIMES)#Yahooニュースhttps://t.co/QZ1Wtt0lwd— Lunapy (@pikarasukar...",
+          "link": "https://itainews.com/archives/2034270.html",
+          "publishedOn": "2024-03-30T13:08:16.000Z",
+          "wordCount": 2300,
+          "title": "死ぬほど苦しんだ娘に「免疫がついてよかったね」…親が“自然派”でワクチン打たず、「はしか」感染で入院",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/d/0d6ab746-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034272.html",
           "author": "yonepo665sfr",
@@ -25175,6 +25145,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70561",
+          "author": "299",
+          "description": "部屋の隅に、たくさんの猫のための食器が並んでいます。このお家には総勢14匹の猫たちが暮らしているようです。 ごはんの時間が近づいてくると、ニャーニャーと大声を張り上げて鳴く猫さんもいるようです。でもほとんどの猫さんたちは...\n14匹の猫たちのごはん風景が凄すぎる！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70561",
+          "publishedOn": "2024-03-30T13:00:55.000Z",
+          "wordCount": 1337,
+          "title": "14匹の猫たちのごはん風景が凄すぎる！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70561.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70556",
           "author": "299",
