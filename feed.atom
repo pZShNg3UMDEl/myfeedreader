@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T05:14:08.401Z</updated>
+    <updated>2024-03-30T05:29:46.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -65,6 +65,16 @@
         <summary type="html"><![CDATA[1: 2024/03/27(水) 19:45:36.56 ID:57G9MhuX0 シナリオチーフの […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[珠洲市唯一のタクシー会社 能登半島地震の影響で経営継続断念]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240330/k10014407751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240330/k10014407751000.html"/>
+        <updated>2024-03-30T03:24:17.000Z</updated>
+        <summary type="html"><![CDATA[石川県珠洲市でタクシーを運行している唯一の会社が、能登半島地震の影響で経営の継続を断念したことがわかりました。3月いっぱいで営業を終えますが、別のタクシー会社から事業承継の申し出を受けていて、今後、交渉を進めるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
