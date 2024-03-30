@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T07:23:19.850Z</updated>
+    <updated>2024-03-30T07:35:36.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeNA 度会隆輝 セ・リーグ新人史上初 開幕2戦連続ホームラン]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240330/k10014407971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240330/k10014407971000.html"/>
+        <updated>2024-03-30T07:30:52.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球、DeNAのドラフト1位ルーキー、度会隆輝選手が、30日横浜スタジアムで行われた広島戦で2試合連続ホームランとなる2号ツーランを打ちました。ルーキーが開幕戦から2試合連続でホームランを打つのはセ・リーグでは史上初めてです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカー日本代表 中止の北朝鮮戦は没収試合 W杯最終予選進出]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240330/k10014407961000.html</id>
