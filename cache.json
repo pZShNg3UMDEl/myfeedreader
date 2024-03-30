@@ -1781,16 +1781,6 @@
           "wordCount": 786,
           "title": "Switch 2、価格は「6万円以上」との試算",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_615357041.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=68984",
-          "author": "野村ケンジ",
-          "description": "AVIOTといえば、完全ワイヤレスイヤホンを得意とするオーディオブランドのイメージだ。 “日本人による日本人のための音作り” によって生み出される上質さと迫力が合わさったサウンドに加え、ユニークかつ魅力的なデザイン性を備えたことで、オーディオファンから若年層まで、幅広いユーザーから大いに人気を集めて […]",
-          "link": "https://gadget.phileweb.com/post-68984/",
-          "publishedOn": "2024-02-29T21:30:00.000Z",
-          "wordCount": 816,
-          "title": "“国内ブランドならでは”の安心感！AVIOT（アビオット）初のポータブル電源「PS-F500」レビュー",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/DSC07128-1.jpg"
         }
       ]
     },
@@ -2003,6 +1993,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407911000.html",
+          "author": null,
+          "description": "電気自動車のF1とも呼ばれる国際レース「フォーミュラE」が30日、国内で初めて東京都内で行われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407911000.html",
+          "publishedOn": "2024-03-30T09:20:53.000Z",
+          "wordCount": 710,
+          "title": "“電気自動車のF1”フォーミュラEの国内初レース 東京で開催",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407911_2403301818_0330182055_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407801000.html",
+          "author": null,
+          "description": "物流業界では4月1日からトラックドライバーの時間外労働の上限規制が適用されることから、輸送量の減少が懸念される「2024年問題」への対応が課題となっています。トラックドライバーの時間外労働は年間960時間が上限となり、長時間労働の抑制や労働環境の改善が期待されています。その一方で、ドライバーの労働時間の短縮や人手不足の深刻化で輸送量の減少が懸念される「2024年問題」への対応が課題となっています。民間のシンクタンクでは、何も対策をとらなければ2030年には全国のおよそ35％の荷物が運べなくなるという試算もあり、企業などの間で配送効率を高める取り組みをどこまで広げることができるのかが課題となります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407801000.html",
+          "publishedOn": "2024-03-30T09:01:26.000Z",
+          "wordCount": 557,
+          "title": "物流「2024年問題」対応 広がるライバル会社との共同配送",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407801_2403301307_0330180128_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407951000.html",
+          "author": null,
+          "description": "来年開かれる大阪・関西万博について、イスラエル政府は正式に参加することを表明する書簡を29日付けで日本側に送りました。イスラム組織ハマスとの戦闘に予算や資源が費やされる中、自前のパビリオンではなく、博覧会協会が準備する建物で展示を行うことを決めたということで、戦闘が万博への出展にも影を落としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014407951000.html",
+          "publishedOn": "2024-03-30T08:43:56.000Z",
+          "wordCount": 783,
+          "title": "大阪・関西万博 イスラエルが参加へ パビリオン展示からは変更",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407951_2403301733_0330173334_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407971000.html",
           "author": null,
