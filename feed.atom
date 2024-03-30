@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T22:38:16.954Z</updated>
+    <updated>2024-03-30T22:50:19.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“バイデン政権がイスラエルへの武器売却を承認” 米メディア]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408221000.html"/>
+        <updated>2024-03-30T22:39:39.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍がガザ地区各地で軍事作戦を続けるなか、アメリカのメディアはバイデン政権がイスラエルに対する戦闘機などの武器の売却を承認していたと伝えました。パレスチナ側は「市民の殺害をやめろと言いながら、武器を渡すのは道徳的矛盾だ」と反発しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高校野球 センバツきょう決勝 健大高崎×報徳学園【見どころ】]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240331/k10014408091000.html</id>
