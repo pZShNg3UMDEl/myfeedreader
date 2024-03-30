@@ -304,16 +304,6 @@
           "wordCount": 1842,
           "title": "PR: 基幹系DX基盤としてのクラウドERP",
           "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/07/cover_news001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/01/news058.html",
-          "author": null,
-          "description": "新電元工業は、車載向けMOSFET「VX3」シリーズに、900V耐圧1A「P1B90VX3K」、2A「P2B90VX3K」の2機種を追加する。車載用途に必要な高ESD耐量に対応し、車載機器の信頼性向上に寄与する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/01/news058.html",
-          "publishedOn": "2024-03-01T00:00:00.000Z",
-          "wordCount": 2593,
-          "title": "高ESD耐量に対応する車載向け900V耐圧MOSFET、新電元工業",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/01/cover_news058.jpg"
         }
       ]
     },
@@ -1994,6 +1984,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014408051000.html",
+          "author": null,
+          "description": "サッカーJ1は第5節の9試合が行われ、今シーズン初めてJ1に昇格して首位に立つFC町田ゼルビアがサガン鳥栖に勝って、連勝を4に伸ばしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014408051000.html",
+          "publishedOn": "2024-03-30T11:59:54.000Z",
+          "wordCount": 744,
+          "title": "サッカーJ1第5節 今季J1初昇格の町田は4連勝で首位キープ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014408051_2403301917_0330200815_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014408141000.html",
+          "author": null,
+          "description": "29日に開幕したプロ野球は6試合が行われ、DeNAのドラフト1位ルーキー、度会隆輝選手がセ・リーグの新人選手では史上初となる、開幕から2試合連続のホームランを打ち、チームの開幕2連勝に貢献しました。球団史上初の連覇をねらう阪神は2試合連続で完封負けを喫しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014408141000.html",
+          "publishedOn": "2024-03-30T11:54:51.000Z",
+          "wordCount": 979,
+          "title": "【プロ野球結果】DeNA 度会隆輝が開幕2試合連続ホームラン",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014408141_2403302042_0330204653_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014408021000.html",
+          "author": null,
+          "description": "79年前の太平洋戦争末期に日米両軍あわせて3万人近くが戦死した、激戦地の硫黄島で戦没者を慰霊する両国合同の追悼式が行われ、遺族らが黙とうし、祈りをささげました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014408021000.html",
+          "publishedOn": "2024-03-30T11:32:05.000Z",
+          "wordCount": 795,
+          "title": "硫黄島で日米合同追悼式 “壮烈な戦いの記憶 徐々に風化”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014408021_2403301958_0330203207_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240330/k10014408131000.html",
           "author": null,
           "description": "警察に入った連絡によりますと、30日午後2時半ごろ、岐阜県羽島市堀津町の長良川で水上バイク2台が衝突しました。この事故で、愛知県あま市に住む7歳の男の子が病院に運ばれ、搬送されたとき意識不明の状態だったということです。また、水上バイクを運転していた38歳の父親もろっ骨を折るなどのけがをして病院に搬送されましたが、意識はあるということです。",
@@ -2012,6 +2032,16 @@
           "wordCount": 1032,
           "title": "能登半島地震で被災 校舎で寝泊まりの教職員に居住空間を提供",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014407931_2403301916_0330194446_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240330/k10014408011000.html",
+          "author": null,
+          "description": "能登半島地震で被災した家屋にある歴史的な資料や美術工芸品などを別の場所に移して保管する「文化財レスキュー」の取り組みが石川県能登町で進められています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240330/k10014408011000.html",
+          "publishedOn": "2024-03-30T10:24:43.000Z",
+          "wordCount": 690,
+          "title": "石川 能登町の地震被災家屋の蔵で「文化財レスキュー」活動",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240330/K10014408011_2403301911_0330192445_01_03.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240330/k10014407911000.html",
@@ -13101,6 +13131,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99629",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/30(土) 01:10:16.03 ID:qDCxo3XO0 (´･ω･`)W […]",
+          "link": "https://switchsoku.com/ds/99629",
+          "publishedOn": "2024-03-30T12:00:07.000Z",
+          "wordCount": 10082,
+          "title": "Switch2がコケたら任天堂ってもしかしてかなりピンチになるの？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/switch2-1.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99626",
           "author": "SWITCH速報",
           "description": "1: 2024/03/29(金) 12:07:50.46 ID:0AVZZhg9dNIKU 基本テレ […]",
@@ -15399,16 +15439,6 @@
           "wordCount": 10039,
           "title": "日経「Switch2ではNVIDIAの技術で『コールオブデューティ COD』が遊べるかがポイントになる」",
           "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/02/COD-switch.jpg"
-        },
-        {
-          "id": "https://switchsoku.com/?p=98777",
-          "author": "SWITCH速報",
-          "description": "1: 2024/02/29(木) 22:00:41.79 ID:A0nkK https://www. […]",
-          "link": "https://switchsoku.com/ranking/98777",
-          "publishedOn": "2024-03-01T00:00:02.000Z",
-          "wordCount": 10066,
-          "title": "ファミ通 週販2024年2月19日～25日‥Switch 50,886台､1位マリドン､2位クレしん､3位ゲームセンターCX",
-          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/01/mario-donkey.webp"
         }
       ]
     },
@@ -15584,6 +15614,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120842/",
+          "author": null,
+          "description": "BS松竹東急（BS260ch・全国無料放送）の放送枠「よる8銀座シネマ」で放送されている特集「6か月連続 ジャッキー・チェン祭り！」のクライマックスとして、ジャッキー・チェンの吹き替え声優で知ら...",
+          "link": "https://anime.eiga.com/news/120842/",
+          "publishedOn": "2024-03-30T12:00:00.000Z",
+          "wordCount": 1685,
+          "title": "石丸博也が追加収録したジャッキー・チェン“吹き替え完全版”全7作、4月15日からBS松竹東急で無料放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120954/",
           "author": null,
@@ -21864,6 +21909,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2034272.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/03/29(金) 12:13:02.05 ID:a6R2Zse20●.net\n\n\n\n\n\n\n\n\n\n十勝池田町の肉牛農家の方の敷地内にて無断で車で侵入し、牛舎で大学生複数人が動画撮影を行う迷惑行為被害が発生しました😔衛生管理区域内への無断侵入は大切な牛達の命を脅かしま...",
+          "link": "https://itainews.com/archives/2034272.html",
+          "publishedOn": "2024-03-30T12:01:09.000Z",
+          "wordCount": 2503,
+          "title": "まんこ2人「うちら神戸大と違って三流大学なんで大丈夫です」牧場主「帰ってください」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/3/c315eca7.png"
+        },
+        {
           "id": "https://itainews.com/archives/2034268.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。：2024/03/30(土) 07:13:26.73 ID:d06qw/rR0●.net\n\n\n\n\n\n\n\n徳島県立高タブレット故障　高温下で保管が原因かhttps://t.co/adUWdA5GnL納入業者が学校現場を調べたところ、空調を切った放課後の教室や風通しの悪い場所など、温度が高くなる...",
@@ -27119,16 +27174,6 @@
           "wordCount": 1354,
           "title": "柵の向こうのお母さん猫のところに行こうと必死な子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69467.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=69502",
-          "author": "299",
-          "description": "じゃれ合っている小猫ちゃん達がじゃれ合い、自信をつけた小猫ちゃんがお父さん猫に挑む動画です。 仲睦まじくモサモサじゃれ合っていますが猫たちにとっては真剣なのかもしれませんが、非常に可愛らしいです。是非ご覧になってください...\n父の壁を感じた小猫ちゃん！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/69502",
-          "publishedOn": "2024-03-01T00:00:48.000Z",
-          "wordCount": 1359,
-          "title": "父の壁を感じた小猫ちゃん！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/69502.jpeg"
         }
       ]
     },
