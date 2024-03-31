@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T11:35:25.772Z</updated>
+    <updated>2024-03-31T11:50:30.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被災した輪島塗職人を支援 全国から寄付された道具の譲渡会]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408641000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408641000.html"/>
+        <updated>2024-03-31T11:46:43.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した輪島塗の職人たちを支援するため、全国からさまざまな道具が寄付され、輪島市内で譲渡会が開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ 発電所などにロシアの攻撃相次ぐ 深刻な電力不足も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408741000.html"/>
+        <updated>2024-03-31T11:36:09.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナでは、エネルギー施設を標的にしたロシア軍の攻撃が相次ぎ、31日には南部オデーサ市や、その周辺地域で一時、停電になるなど深刻な電力不足に陥りかねない事態となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[会社辞める前に10年分の引き継ぎ資料をA4用紙１枚で出したらキレられたんだけど、これ俺が悪いのか？]]></title>
         <id>https://itainews.com/archives/2034292.html</id>
