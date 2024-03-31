@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T21:50:18.920Z</updated>
+    <updated>2024-03-31T22:12:08.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【すき家】うな牛【期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=240740</id>
+        <link href="https://foodfighter.jp/sukiya-unagyu-2024"/>
+        <updated>2024-03-31T22:02:06.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「2024年問題」運送業 建設業 医師の時間外労働の上限規制開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408821000.html"/>
+        <updated>2024-03-31T21:55:17.000Z</updated>
+        <summary type="html"><![CDATA[4月1日から運送業と建設業、それに医師の3つの業種で、時間外労働の上限規制が始まります。長時間労働の是正が期待される一方で、労働時間の減少によって、物流や地域医療などに支障が生じると指摘されている、いわゆる「2024年問題」に、社会がどう対応していくかが課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震3か月 石川 生活再建に向けた支援が課題に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014408881000.html</id>
