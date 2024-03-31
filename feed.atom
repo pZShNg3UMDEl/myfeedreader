@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T03:15:07.207Z</updated>
+    <updated>2024-03-31T03:26:15.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 製造業の景況感 景気判断の節目「50」半年ぶりに上回る]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408381000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408381000.html"/>
+        <updated>2024-03-31T03:21:35.000Z</updated>
+        <summary type="html"><![CDATA[中国の3月の製造業の景況感を示す指数は、企業の生産が増えたことなどから、景気判断の節目となる「50」を半年ぶりに上回りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5人の死亡例が確認された小林製薬『紅麹』製品を使用した料理レシピサイトが公開中のまま「ふざけてんの？」SNSで疑問の声]]></title>
         <id>https://itainews.com/archives/2034282.html</id>
