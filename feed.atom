@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T09:22:42.669Z</updated>
+    <updated>2024-03-31T09:35:48.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHK全国俳句大会 約3万8000作品が寄せられ 3人の俳句が大賞に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408611000.html"/>
+        <updated>2024-03-31T09:21:15.000Z</updated>
+        <summary type="html"><![CDATA[全国から寄せられた優れた俳句を紹介する「NHK全国俳句大会」が31日に東京 渋谷のNHKホールで開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[車カス「世帯年収400万円で「ヴォクシー」は買えますか？家賃は12万円で駐車場は1万5000円です」]]></title>
         <id>https://itainews.com/archives/2034285.html</id>
