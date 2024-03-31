@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T20:50:21.464Z</updated>
+    <updated>2024-03-31T21:10:34.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震3か月 石川 生活再建に向けた支援が課題に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408881000.html"/>
+        <updated>2024-03-31T21:00:22.000Z</updated>
+        <summary type="html"><![CDATA[石川県で最大震度7の揺れを観測した能登半島地震の発生から4月1日で3か月です。今も8000人を超える人が避難所に身を寄せているほか、各地で断水が続くなど、被災者は厳しい環境での暮らしを余儀なくされていて、住まいの確保をはじめとした、生活再建に向けた支援が課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震3か月 今後も強い揺れや津波伴う地震に注意を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408691000.html"/>
+        <updated>2024-03-31T20:57:19.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震から4月1日で3か月です。地震の回数は当初に比べて少なくなっているものの、政府の地震調査委員会は、今後も強い揺れや津波を伴う地震が起きる可能性があるとして、引き続き注意を呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[横浜港の動く「ガンダム」公開終了 記念イベントにファン集結]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014408921000.html</id>
