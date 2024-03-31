@@ -534,6 +534,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408831000.html",
+          "author": null,
+          "description": "全国の民間企業で働く障害者が110万人を超える中、4月1日から企業に義務づけられる法定の雇用率が2.5％以上にまで引き上げられました。しかし、これまで雇用率を達成した企業は半数にとどまっていて、障害者の雇用拡大をどこまで進められるかが課題となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014408831000.html",
+          "publishedOn": "2024-03-31T20:21:29.000Z",
+          "wordCount": 500,
+          "title": "企業に義務づけられる障害者の雇用率 2.5％以上に引き上げ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014408831_2403312148_0401052131_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408851000.html",
+          "author": null,
+          "description": "新年度の4月1日から、年金や医療など社会保障の制度が変更されます。このうち年金の支給額は、前の年度より引き上げられますが、賃金の伸びより低く抑えられたため、実質的には目減りとなります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014408851000.html",
+          "publishedOn": "2024-03-31T20:13:22.000Z",
+          "wordCount": 684,
+          "title": "年金の支給額は実質的に目減り 新年度の社会保障 制度変更は",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014408851_2403312045_0401051324_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408661000.html",
           "author": null,
           "description": "物流の「2024年問題」への対応として、4月1日から大型トラックの高速道路での最高速度が時速90キロに引き上げられます。",
