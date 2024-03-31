@@ -534,6 +534,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408661000.html",
+          "author": null,
+          "description": "物流の「2024年問題」への対応として、4月1日から大型トラックの高速道路での最高速度が時速90キロに引き上げられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014408661000.html",
+          "publishedOn": "2024-03-31T19:36:56.000Z",
+          "wordCount": 536,
+          "title": "2024年問題対応 高速道路の大型トラック最高速度 時速90キロに",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014408661_2403312137_0401043658_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408481000.html",
+          "author": null,
+          "description": "働き方改革の一環でトラックドライバーの時間外労働に1日から上限規制が適用されます。物流業界では輸送量の減少が懸念される「2024年問題」への対応が課題となっていて、企業の間では配送効率を高める取り組みが広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014408481000.html",
+          "publishedOn": "2024-03-31T19:33:43.000Z",
+          "wordCount": 634,
+          "title": "「2024年問題」物流業界で配送効率高める取り組み広がる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014408481_2403312009_0401043345_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408761000.html",
           "author": null,
           "description": "楽天グループが、傘下の金融事業の大規模な再編を行う方針を固めたことが明らかになりました。銀行やクレジットカードなどの子会社を1つのグループに集約し、経営の効率化や連携の強化を進めるねらいです。",
