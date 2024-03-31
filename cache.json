@@ -1,0 +1,2244 @@
+{
+  "sources": [
+    {
+      "title": "EDN Japan 最新記事一覧",
+      "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
+      "siteUrl": "https://edn.itmedia.co.jp/",
+      "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/29/news079.html",
+          "author": null,
+          "description": "マクニカは、近藤電子工業と共同で、AlteraのAgilex 5デバイス搭載評価ボード「Mpression Sulfur」を開発した。Agilex 5 FPGA & SoC Eシリーズを搭載していて、SOMと豊富なインタフェースを搭載したキャリアボードをセットにした。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/29/news079.html",
+          "publishedOn": "2024-03-29T00:00:00.000Z",
+          "wordCount": 2642,
+          "title": "Alteraの「Agilex 5」デバイスを搭載した評価ボード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/29/cover_news079.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/28/news092.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、ソリッドステートアイソレーターの新しい製品ファミリーを発表した。電力損失を最大70％抑えてスイッチングを高速化する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/28/news092.html",
+          "publishedOn": "2024-03-28T00:00:00.000Z",
+          "wordCount": 2613,
+          "title": "電力損失を最大70％削減した、ソリッドステートアイソレーター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/28/cover_news092.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html",
+          "author": null,
+          "description": "ams OSRAMは、汎用性が高いLEDチップ「OSLON Pure 1414」を発表した。サイズは1.4×1.4mmと小型で、屋内や店舗、舞台、建築、医療用の照明に適する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html",
+          "publishedOn": "2024-03-27T00:00:00.000Z",
+          "wordCount": 2619,
+          "title": "汎用性が高い1.4mm角の小型LEDチップ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/27/cover_news077.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html",
+          "author": null,
+          "description": "今回はDC/DCコンバーターを設計する上で欠かせない「過電流保護回路」について説明します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html",
+          "publishedOn": "2024-03-26T02:00:00.000Z",
+          "wordCount": 2593,
+          "title": "ステップダウン形DC/DCコンバーターの設計（5）",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/21/l_tt240326_DCDC_001.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/26/news047.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、突入電流制限PTCサーミスター「PTCEL13R」「PTCEL17R」を発表した。最大エネルギー処理能力は240Jで、複数組み合わせることで、1000J以上のエネルギー処理が可能だ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/26/news047.html",
+          "publishedOn": "2024-03-26T00:00:00.000Z",
+          "wordCount": 2586,
+          "title": "最大エネルギー処理能力が240Jの突入電流制限PTCサーミスター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/26/cover_news047.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/26/news026.html",
+          "author": null,
+          "description": "PLC電源の修理の続きだ。修理してみたものの出力電圧が中途半端な値で、まだ不具合を抱えている。そこで、メーカーに問い合わせてみたが――。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/26/news026.html",
+          "publishedOn": "2024-03-25T02:00:00.000Z",
+          "wordCount": 2599,
+          "title": "修理途中で投げ出された電源ユニットを修理（後編）",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/26/l_tt240326_002.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/25/news056.html",
+          "author": null,
+          "description": "SMKは、製品幅8.1mmの車載イーサネットコネクター「SE-R1」を開発した。100BASE-T1および1000BASE-T1の伝送速度に対応し、優れた接続性や衝撃耐久性を備える。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/25/news056.html",
+          "publishedOn": "2024-03-25T00:00:00.000Z",
+          "wordCount": 2583,
+          "title": "フルロック構造を採用した、製品幅8.1mmの車載イーサネットコネクター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/25/cover_news056.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/22/news088.html",
+          "author": null,
+          "description": "日本電波工業は、小型光通信モジュール向けに、2016サイズの差動出力水晶発振器「NP2016SA」「NP2016SB」を開発した。105℃の高温に対応し、位相ジッタは70フェムト秒となっている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/22/news088.html",
+          "publishedOn": "2024-03-22T00:00:00.000Z",
+          "wordCount": 2583,
+          "title": "105℃の高温環境に対応する、2016サイズの小型差動出力水晶発振器",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/22/cover_news088.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html",
+          "author": null,
+          "description": "ケイデンス・デザイン・システムズは、車載向けのDSP（デジタルシグナルプロセッサ） IPコア「Vision 341 DSP」「Vision 331 DSP」を発表した。4Dイメージングレーダー用途向けの「Cadence Tensilica Vision 4DR Accelerator」との併用で、3倍以上の性能向上が可能になる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html",
+          "publishedOn": "2024-03-21T00:00:00.000Z",
+          "wordCount": 2648,
+          "title": "積和演算性能が最大6倍に、車載向けDSP IPコア",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/21/cover_news047.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/18/news081.html",
+          "author": null,
+          "description": "電磁気学入門講座。今回から「トランス概論」に入ります。まずはロイヤープッシュプル自励発振トランスの概要の説明や、その設計に関する考察を紹介します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/18/news081.html",
+          "publishedOn": "2024-03-19T02:00:00.000Z",
+          "wordCount": 2593,
+          "title": "電磁気学入門（8）ロイヤープッシュプル自励発振トランスとは",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/18/cover_news081.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/19/news043.html",
+          "author": null,
+          "description": "ネクスペリアは、1.8V電子システムの監視、保護向けアナログスイッチ「NMUX1308」「NMUX1309」を発表した。車載向けのAEC-Q100準拠モデルと、家電製品などの民生、産業用途に適した標準モデルをそろえる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/19/news043.html",
+          "publishedOn": "2024-03-19T00:00:00.000Z",
+          "wordCount": 2584,
+          "title": "1.8V電子システムの監視／保護用アナログスイッチ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/19/cover_news043.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/18/news066.html",
+          "author": null,
+          "description": "キーサイト・テクノロジーは、オシロスコーププローブ「InfiniiMax 4」シリーズを発表した。最大52GHzのブリックウォールおよび40GHzのベッセルトムソンで動作可能だ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/18/news066.html",
+          "publishedOn": "2024-03-18T00:00:00.000Z",
+          "wordCount": 2597,
+          "title": "「業界初」最大52GHz対応のオシロスコーププローブ、キーサイトが開発",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/18/cover_news066.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/15/news143.html",
+          "author": null,
+          "description": "「EE Times Japan×EDN Japan 統合電子版」の2024年3月号を発行しました。今号のEE Exclusive（電子版限定先行公開記事）は、『 「カスタムシリコン」の黄金時代が近づく 』です。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/15/news143.html",
+          "publishedOn": "2024-03-15T06:00:00.000Z",
+          "wordCount": 2705,
+          "title": "「カスタムシリコン」の黄金時代が近づく―― 電子版2024年3月号",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/15/mm220117_denshiban01_w490.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html",
+          "author": null,
+          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「SPI通信などのノイズ対処法」についてです。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html",
+          "publishedOn": "2024-03-15T02:00:00.000Z",
+          "wordCount": 2589,
+          "title": "SPI通信などのノイズ対策や、誤動作への対処法",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news040.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html",
+          "author": null,
+          "description": "ローデ・シュワルツは、5G RFとRRMコンフォーマンステスト向けソリューション「R&S TS8980S-4A」「R&S TS8980FTA-3A」を発表した。GCFとPTCRBから承認を受けた、公式の5Gコンフォーマンステストプラットフォームとなる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html",
+          "publishedOn": "2024-03-15T00:00:00.000Z",
+          "wordCount": 2619,
+          "title": "GCFとPTCRB公認、5Gコンフォーマンステストプラットフォーム",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/15/cover_news082.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、双方向電流センスアンプ「TSC2020」を発表した。入力コモンモード電圧は－4～＋100Vで、48Vシステムなどの高電圧で使用できる。高精度のアナログ回路により、入力オフセット電圧を±150μVに抑えた。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html",
+          "publishedOn": "2024-03-14T00:00:00.000Z",
+          "wordCount": 2586,
+          "title": "入力オフセット電圧±150μV、入力耐圧100Vの双方向電流センスアンプ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news080.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/12/news179.html",
+          "author": null,
+          "description": "テキサス・インスツルメンツ（TI）は、電力効率を高めた「100V窒化ガリウム（GaN）パワーステージ」と、高い電力密度を達成した「1.5W絶縁型DC-DCモジュール」の2種類の電力変換デバイス製品を発表した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/12/news179.html",
+          "publishedOn": "2024-03-13T00:00:00.000Z",
+          "wordCount": 2601,
+          "title": "小型、低コスト、高電力密度を実現した電力変換デバイス",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/12/cover_news179.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/12/news065.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、ポイントツーポイント近接無線トランシーバーIC「ST60A3H0」「ST60A3H1」を発表した。60GHzのVバンドで動作し、eUSB2、I2C、SPI、UART、GPIOのトンネリング機能を提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/12/news065.html",
+          "publishedOn": "2024-03-12T00:00:00.000Z",
+          "wordCount": 2592,
+          "title": "480Mbpsでデータ交換可能な近接無線トランシーバーIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/12/cover_news065.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/11/news011.html",
+          "author": null,
+          "description": "ノートPCが小型化、薄型化するにつれ、オーディオ性能の向上や改善は難しくなる。そこで注目されているのが、「スマート・アンプ」と呼ばれるデバイスだ。DSP（デジタルシグナルプロセッサ）やセンサー、バッテリー電圧ブーストなどを統合したスマート・アンプは、複数の半導体メーカーが手掛けていて、ノートPCのオーディオ設計を簡素化するキーデバイスとなりそうだ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/11/news011.html",
+          "publishedOn": "2024-03-11T02:00:00.000Z",
+          "wordCount": 2587,
+          "title": "超薄型ノートPCのオーディオ設計で注目される「スマート・アンプ」",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/11/cover_news011.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html",
+          "author": null,
+          "description": "ノルディックセミコンダクターは、セルラーIoT（モノのインターネット）デバイス「nRF9151」を発表した。SoC（System on Chip）やRFフロントエンド、電力管理機能を統合していて、「nRF91」シリーズの従来品に比べてフットプリントが20％縮小した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html",
+          "publishedOn": "2024-03-11T00:00:00.000Z",
+          "wordCount": 2597,
+          "title": "電力管理機能を統合した、出力電力20dBmの小型セルラーIoTデバイス",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/11/cover_news019.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Gadget Gate",
+      "feedUrl": "https://gadget.phileweb.com/feed/",
+      "siteUrl": "https://gadget.phileweb.com",
+      "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=72746",
+          "author": "Munenori Taniguchi",
+          "description": "イリノイ大学アーバナ・シャンペーン校のジュヒョン・キム准教授らは、モノホイールタイプの自律走行ロボット「Ringbot」を開発した。 モノホイールとは、リング状のレールに取り付けられた電動プラットフォームにライダーが座り、そのレールが1つの大きな車輪の内側を形成する乗り物のこと。映画『MIB』のシリ […]",
+          "link": "https://gadget.phileweb.com/post-72746/",
+          "publishedOn": "2024-03-29T09:28:13.000Z",
+          "wordCount": 778,
+          "title": "『スター・ウォーズ』グリーヴァス将軍の乗り物から着想、2本足モノホイールロボット「Ringbot」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/mh1.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72730",
+          "author": "Munenori Taniguchi",
+          "description": "3月28日、米国のカマラ・ハリス副大統領は、政府機関が人工知能をどう利用し、どの程度監視すべきかを定める新しい規則の概要を発表した。 合衆国行政管理予算局（OMB）によるこの新規則は、AIのセーフガードの導入、政府のAI利用に関する詳細を公表し、政府のAIプロジェクトを監督する最高AI責任者（CAI […]",
+          "link": "https://gadget.phileweb.com/post-72730/",
+          "publishedOn": "2024-03-29T06:35:37.000Z",
+          "wordCount": 752,
+          "title": "ホワイトハウス、米国のすべての連邦政府機関に「AI最高責任者」配置を要請",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/lev_radin_Shutterstock.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72711",
+          "author": "多根清史",
+          "description": "米マサチューセッツ州警察は、爆弾処理班のメンバーの「1人」がチームのために銃弾を受けたと主張している。しかし、そのメンバーは人でも犬でもなく、ボストン・ダイナミクス社が開発したロボット犬（四脚歩行ロボット）Spotである。 3月上旬、「ロスコー（Roscoe）」の愛称で呼ばれるロボットは爆弾処理班に […]",
+          "link": "https://gadget.phileweb.com/post-72711/",
+          "publishedOn": "2024-03-29T06:27:00.000Z",
+          "wordCount": 800,
+          "title": "警察犬ロボット、立てこもり犯から3発の銃撃を受ける。警察は「人や犬を銃から守った」と称賛",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/Poclie-robot.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72712",
+          "author": "Gadget Gate",
+          "description": "ベルキンは、アップルの独自技術「DockKit」を世界で初めて採用し、高精度な自動トラッキングが可能と謳う電動スマートフォンスタンド「Auto-Tracking Stand Pro with DockKit（Belkin Stand Pro）」を、4月25日に発売する。価格は29900円（税込）。3 […]",
+          "link": "https://gadget.phileweb.com/post-72712/",
+          "publishedOn": "2024-03-29T05:08:38.000Z",
+          "wordCount": 769,
+          "title": "ベルキン、世界初のApple DockKitトラッキング技術対応スマホスタンド",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/belkinstandpro009.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72703",
+          "author": "多根清史",
+          "description": "アップルが折りたたみ式iPhoneを開発中であることは、何度も噂されてきた。そんななか、同社が技術的な課題をクリアするため、発売時期を2026年後半から2027年前半に延期したと韓国メディアAlpha Bizが報じている。 「アップルの内部情報に詳しい幹部」によると「折りたたみ式ディスプレイの需給を […]",
+          "link": "https://gadget.phileweb.com/post-72703/",
+          "publishedOn": "2024-03-29T02:52:09.000Z",
+          "wordCount": 821,
+          "title": "折りたたみ式iPhone発売延期か？技術的課題のため2027年登場の可能性大",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_2026404041.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72696",
+          "author": "多根清史",
+          "description": "PlayStation 5 Proを強化した中世代機（次世代機までの中継ぎモデル）、通称「PS5 Pro」の強化はもっぱらGPU周りに集中し、CPUはクロックアップ程度に留まると噂されてきた。だが、予想以上に機能強化されるとのリーク情報が届けられている。 主にAMDの未発表製品に詳しい（PS5搭載チ […]",
+          "link": "https://gadget.phileweb.com/post-72696/",
+          "publishedOn": "2024-03-29T02:40:39.000Z",
+          "wordCount": 785,
+          "title": "PS5 Proで予想以上の機能強化？4nmチップ採用でボディ小型化&値上げ回避の可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_1932340181.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72676",
+          "author": "Munenori Taniguchi",
+          "description": "米調査会社Pew Resarchの調べによると、米国の成人のほとんどはOpenAIのAIチャットボット「ChatGPT」を使っていないようだ。 Pewは先月、1万人以上を対象に、ChatGPTに関する調査を行った。その結果、米国成人全体でChatGPTを使ったことがある人の割合は23%だった。これは […]",
+          "link": "https://gadget.phileweb.com/post-72676/",
+          "publishedOn": "2024-03-28T06:37:39.000Z",
+          "wordCount": 757,
+          "title": "ChatGPT、話題でも「使ったことがない」米国人が8割弱",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_2254675899.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72667",
+          "author": "多根清史",
+          "description": "Googleは今年初めから、一部の最新Androidスマートフォンを対象に「かこって検索」（Circle to Search）機能を提供している。画像やテキスト、動画を観ているときに、気になる箇所を丸で囲んだりなぞることで、アプリを切り替えずにすぐに検索できるというものだ。 同社はこの機能をアップデ […]",
+          "link": "https://gadget.phileweb.com/post-72667/",
+          "publishedOn": "2024-03-28T06:09:20.000Z",
+          "wordCount": 784,
+          "title": "Googleの「かこって検索」が翻訳にも対応。Galaxy S23など過去モデルでも利用可能に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/スクリーンショット-2024-03-28-140117.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72624",
+          "author": "多根清史",
+          "description": "アップルがiPhone廉価モデルの後継機、通称「iPhone SE4」を準備中であり、これまでの液晶に替えて有機ELディスプレイを採用することも有力視されている。そのデザインはTouch ID内蔵ホームボタンも廃止してFace ID（顔認証）へと移行することで、「ほぼiPhone 14標準モデル」に […]",
+          "link": "https://gadget.phileweb.com/post-72624/",
+          "publishedOn": "2024-03-28T04:06:11.000Z",
+          "wordCount": 787,
+          "title": "iPhone SE4、“低価格の可能性”が高まる。有機ELパネルを中国BOEが独占供給か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_1585865983.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72637",
+          "author": "Munenori Taniguchi",
+          "description": "ロンドンを拠点とするInvisibility Shield Co.が、社名そのままの製品「Invisibility Shield 2.0」を商品化すべく、Kickstarterでクラウドファンディングを行っている。大きさは3種類あり、最も小さな約30.5×20cm（A3サイズぐらい）の大きさのものな […]",
+          "link": "https://gadget.phileweb.com/post-72637/",
+          "publishedOn": "2024-03-28T03:59:49.000Z",
+          "wordCount": 784,
+          "title": "光学迷彩？隠れたモノが透けて見えなくなる「Invisibility Shield 2.0」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/001-6.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Image Sensors World",
+      "feedUrl": "http://image-sensors-world.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://image-sensors-world.blogspot.com/",
+      "articles": [
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/paper-on-spads-at-nato-science.html",
+          "author": null,
+          "description": "A paper titled \"SPAD Image Sensors for Quantum and Classical Imaging\" by Prof. Edoardo Charbon was published in the STO Meetings proceedings in January 2024.\nPaper link: https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-SET-198/MP-IST-SET-198-C1-03.pdf\nAbstract:\nSingle-photon avalanche diodes (SPADs) have been demonstrated on a variety of CMOS technologies since the early 2000s. While initially inferior to their counterparts implemented dedicated technologies, modern CMOS SPADs have recently matched them in sensitivity, noise, and timing jitter. Indeed, high time resolution, enabled by low jitter, has helped demonstrate the most impressive developments in fields of imaging and detection, including fluorescence lifetime imaging microscopy (FLIM), Förster resonance energy transfer (FRET), fluorescence correlation spectroscopy (FCS), time-of-flight positron emission tomography (TOF-PET), and light detection and ranging (LiDAR), just to name a few. The SPAD’s power of detecting single photons in pixels that can be replicated in great numbers, typically in the millions, is currently having a major impact in computational imaging and quantum imaging. These two emerging\ndisciplines stand to take advantage of larger and larger SPAD image sensors with increasingly low jitter and noise, and high sensitivity. Finally, due to the computational power required at pixel level, power consumption must be reduced; we thus advocate the use of in situ computational engines, which, thanks of CMOS’ economy of scale and 3D-stacking, enable vast computation density. Some examples of this trend are given, along with a general perspective on SPAD image sensors.",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/paper-on-spads-at-nato-science.html",
+          "publishedOn": "2024-03-29T16:07:00.001Z",
+          "wordCount": 4017,
+          "title": "Paper on SPADs at the NATO Science & Technology organization meeting",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJPrxAzUqrKXr1uIJvIKFSiwUgJnP1KGm3cLGRyWQmHgMo1Kfo0w5Cfvj4fW4BlJobQdeMCnbBUbxoU6AwbLZOkLmrdJvCSmM6EmSKIXKZrGBYREAPD0VZZY_3O3R_rSGpwbG4DDxUwHP0-JdIFUztEolJvs7aCrqUW4UxAPiLN_tPPof4PSE/w1200-h630-p-k-no-nu/Capture.PNG"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/sony-releases-247mp-sensors.html",
+          "author": null,
+          "description": "Sony recently released a new 247MP rolling shutter CIS available in monochrome and color variants: IMX811-AAMR and IMX811-AAQR.",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/sony-releases-247mp-sensors.html",
+          "publishedOn": "2024-03-27T15:54:00.001Z",
+          "wordCount": 4504,
+          "title": "Sony releases 247MP sensors",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxczEehCDAyv5GYa0AV5gDYyPysvwUG-dYUFxVHgO3KQrz2paPx0qfymXfx5m1ouFoSXiKEHwIs77ytbENeOwCW8JIh119SbKsVPwcRa3Jh4MHnJzxLxv5hhftry4jLBLxgBmkY-ruPFKVb6KcE3rd2O9XoYjWCWfpGuyph82n6L6zWwfpUrI/w1200-h630-p-k-no-nu/aamr-001.jpg"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-24-march-2024.html",
+          "author": null,
+          "description": "CEA-IRIG\nPermanent Researcher in\n  Ultra-Wide-Bandgap Semiconductors\nGrenoble, France\nLink\nApple\nCamera Electrical Engineer -\n  Camera Hardware\nCupertino, California, USA\nLink\nUniversity of Hawaii\nAdvanced detector development –\n  Postdoc\nHonolulu, Hawaii, USA\nLink\nSamsung Semiconductor\nSenior Program Manager, Image\n  Sensors\nSan Jose, California, USA\nLink\nCERN\nApplied Physicist for\n  Pixel-Detector Hybridisation\n  and Testing \nGeneva, Switzerland\nLink\nGeneral Motors\nDesign Release Engineer - Image\n  Quality\nDetroit, Michigan, USA\nLink\nNASA\nFar-Infrared Detectors for Space-Based\n  Low-Background Astronomy – Postdoc\nGreenbelt, Maryland, USA\nLink\nLockheed Martin\nSystems Integration Test\n  Engineer/Infrared Testing\nGoleta, California, USA\nLink\nSony\nAutomotive Image Sensor Account\n  Manager\nNovi, Michigan, USA\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-24-march-2024.html",
+          "publishedOn": "2024-03-25T00:26:00.004Z",
+          "wordCount": 3861,
+          "title": "Job Postings - Week of 24 March 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/four-new-videos-about-industry.html",
+          "author": null,
+          "description": "Here are few new videos from image sensor companies.\n\nTwo about new hardware built around image sensors:\n\nTrinamix-ST under-OLED face recognition camera\n\n \n\n\nProphesee AR glassses demo \n\n \n\n\n\nOne about new facilities:\n\n\nAn official opening of TSMC-Sony plant in Kumamoto where Sony will manufacture its new image sensors:\n\n \n\n\n\nAnd one about a new sensor series:\n\n \n  \n \n\n \n  Normal\n  0\n  \n  \n  \n  \n  false\n  false\n  false\n  \n  EN-US\n  X-NONE\n  X-NONE\n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n\n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n …",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/four-new-videos-about-industry.html",
+          "publishedOn": "2024-03-22T16:00:00.000Z",
+          "wordCount": 3826,
+          "title": "Four new videos about the industry",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tiVm7JAjaGMLZ4NoBXZi1YpV3jxav-fqS_dzgYOG6iRdGbbO6UiQPiAkeed9C7-bFkv3TFDHm9My8bocAq8tF4J2Chjvp1ca3WCvMLHzDAc4etAQ=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/a-job-opening-with-euresys.html",
+          "author": null,
+          "description": "Euresys\nSales Manager - Europe            Liège, Belgium or Schongau, Germany           Link",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/a-job-opening-with-euresys.html",
+          "publishedOn": "2024-03-22T02:57:00.002Z",
+          "wordCount": 3761,
+          "title": "A Job Opening with Euresys",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/artilux-announces-room-temperature-gesi.html",
+          "author": null,
+          "description": "From PR NewsWire: https://www.prnewswire.com/news-releases/artilux-announces-groundbreaking-gesi-spad-research-published-in-nature-journal-302068638.html\n \nHSINCHU, Feb. 22, 2024 /PRNewswire/ -- Artilux, the renowned leader of GeSi (germanium-silicon) photonics technology for CMOS (complementary metal-oxide-semiconductor) based SWIR (short-wavelength infrared) sensing and imaging, announced today that the research team at Artilux has made a breakthrough in advancing SWIR GeSi SPAD (single-photon avalanche diode) technology, which has been recognized and published by Nature, one of the world's most prestigious scientific journals. The paper, titled \"Room temperature operation of germanium-silicon single-photon avalanche diode,\" presented the Geiger-mode operation of a high-performing GeSi a…",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/artilux-announces-room-temperature-gesi.html",
+          "publishedOn": "2024-03-20T16:03:00.000Z",
+          "wordCount": 4963,
+          "title": "Artilux announces room temperature GeSi SPAD",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/nikon-to-acquire-redcom.html",
+          "author": null,
+          "description": "From Nikon newsroom: https://www.nikon.com/company/news/2024/0307_01.html\nNikon to Acquire US Cinema Camera Manufacturer RED.com, LLC\nMarch 7, 2024\nTOKYO - Nikon Corporation (Nikon) hereby announces its entry into an agreement to acquire 100% of the outstanding membership interests of RED.com, LLC (RED) whereby RED will become a wholly-owned subsidiary of Nikon, pursuant to a Membership Interest Purchase Agreement with Mr. James Jannard, its founder, and Mr. Jarred Land, its current President, subject to the satisfaction of certain closing conditions thereunder.\nSince its establishment in 2005, RED has been at the forefront of digital cinema cameras, introducing industry-defining products such as the original RED ONE 4K to the cutting-edge V-RAPTOR [X] with its proprietary RAW compression technology. RED's contributions to the film industry have not only earned it an Academy Award but have also made it the camera of choice for numerous Hollywood productions, celebrated by directors and cinematographers worldwide for its commitment to innovation and image quality optimized for the highest levels of filmmaking and video production.\nThis agreement was reached as a result of the mutual desires of Nikon and RED to meet the customers’ needs and offer exceptional user experiences that exceed expectations, merging the strengths of both companies. Nikon's expertise in product development, exceptional reliability, and know-how in image processing, as well as optical technology and user interface along with RED’s knowledge in cinema cameras, including unique image compression technology and color science, will enable the development of distinctive products in the professional digital cinema camera market.\nNikon will leverage this acquisition to expand the fast-growing professional digital cinema camera market, building on both companies' business foundations and networks, promising an exciting future of product development that will continue to push the boundaries of what is possible in film and video production.",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/nikon-to-acquire-redcom.html",
+          "publishedOn": "2024-03-18T16:00:00.000Z",
+          "wordCount": 4682,
+          "title": "Nikon to acquire RED.com",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-17-march-2024.html",
+          "author": null,
+          "description": "WeRide\nCamera Sensor Engineer\nSan Jose, California, USA\nLink\nISDI\nImage Sensor Engineer\nLondon, England, UK\nLink\nHRL Laboratories\nFocal Plane Engineer\nCamarillo, California, USA\nLink\nHRL Laboratories\nSenior Infrared Detector Research\n  Scientist\nCamarillo, California, USA\nLink\nPaul Scherrer Institute\nPostdoctoral Fellow in detector\n  development\nVilligen, Switzerland\nLink\nKappa Optronics\nEngineer for image sensor and\n  camera technology\nGöttingen, Germany\nLink\nCaeleste\nCharacterization Engineer\nMechelen, Belgium\nLink\nUniversity of Amsterdam - NIKHEF\nPostdoc position in ALICE and\n  Detector R&D for Experimental Particle Physics\nAmsterdam, Netherlands\nLink\nGE Healthcare\nDetector Mechanical Engineer\nHino, Tokyo, Japan\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-17-march-2024.html",
+          "publishedOn": "2024-03-17T17:07:00.001Z",
+          "wordCount": 3857,
+          "title": "Job Postings - Week of 17 March 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/three-new-videos-from-photonis.html",
+          "author": null,
+          "description": "Photonis has released new videos describing the latest improvements in its image intensifiers.  \nA little background might be useful to those with little exposure to image intensifiers.\nFirst, Photonis itself. Those of you who are interested in the whole complex story can find it here. The original Photonis was a renamed spinoff of Philips that subsequently acquired a few other companies including Burle, the renamed spinoff of RCA's vacuum tube operation. Recently, the Photonis Group renamed itself Exosens but still uses Photonis as the brand for its image intensifiers.\n\n\n\nImage intensifiers are vacuum tubes that have at one end a surface that emits electrons on receipt of photons, some sort of acceleration and electron multiplication mechanism and a phosphor at the other end to produce a brighter visible image. As new developments have been applied to intensifiers, various generations have been assigned. \n\nGen 0 - See this (somewhat irreverent) link. (Not real, of course.) Sometimes the first low-gain tubes are called Gen 0.\n\nGen\n 1 - Light hitting an alkali photocathode produces electrons that are \naccelerated and electrostatically focused by a metal cone on to a curved\n phosphor. These invert the image, which is reverted by the optics - 1930s - 1960s.\n\nGen\n 2 - Proximity-focused electrons from the photocathode hit a \nmicrochannel plate in which they are multiplied. The electron output is \nproximity-focused on a flat phosphor. Some of these still have the \nfocusing cone to provide image inversion. 1970s\n\nGen 3 - The alkali photocathode is replaced by a cesium-coated gallium arsenide membrane. 1970s-1990s\n\nGen 4 - Photocathode improvements of various types and, typically, electronic gating. Strictly speaking, these are still Gen 3. 2000s+\n\nThe videos showing tubes Photonis characterizes as Gen 4+:\n\n1 - Demonstration of electronic gating \n\n\n\n\n2 - Demonstration of performance\n\n\n\n\n\n\n\n\n\n3 - Demonstration of halo improvements",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/three-new-videos-from-photonis.html",
+          "publishedOn": "2024-03-15T16:25:00.001Z",
+          "wordCount": 4722,
+          "title": "Three New Videos from Photonis",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s3HetlXSYwWA5s4pjXJYyNUTAOlq9MbVMKt_MTi-oGn_s6MVK73PW24b1gIi_nWB2Nz9drsme8EsLfccGiTOOFOn3xDANnncMMVB0d0gFi4zqPJA=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/ieee-iccp-2024-call-for-papers.html",
+          "author": null,
+          "description": "Call for Papers: IEEE International Conference on Computational Photography (ICCP) 2024\nhttps://iccp-conference.org/iccp2024/call-for-papers/\nSubmission Deadline: March 22, 2024 @ 23:59 CET\nICCP is an international venue for disseminating and discussing new scholarly work in computational photography, novel imaging, sensors and optics techniques. This year, ICCP will take place in EPFL, Lausanne Switzerland, on July 22-24th!\nAs in previous years, ICCP is coordinating with the IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI) for a special issue on Computational Photography to be published after the conference.\n ICCP 2024 seeks novel and high-quality submissions in all areas of computational photography, including, but not limited to:\n\n High-performance imaging.\n Computational cameras, illumination, and displays.\n Advanced image and video processing.\n Integration of imaging, physics, and machine learning.\n Organizing and exploiting photo / video collections.\n Structured light and time-of-flight imaging.\n Appearance, shape, and illumination capture.\n Computational optics (wavefront coding, digital holography, compressive sensing, etc.).\n Sensor and illumination hardware.\n Imaging models and limits\n Physics-based rendering, neural rendering, and differentiable rendering.\n Applications: imaging on mobile platforms, scientific imaging, medicine and biology, user interfaces, AR/VR systems.\n\nLearn more on the ICCP 2024 website, and submit your latest advancements by Friday, 22nd March, 2024.\nThe call for posters and demo will be published soon with a deadline end of April. It will also be a great opportunity to advertise your work.",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/ieee-iccp-2024-call-for-papers.html",
+          "publishedOn": "2024-03-14T16:39:00.003Z",
+          "wordCount": 3998,
+          "title": "IEEE ICCP 2024 Call for Papers, Submission Deadline March 22, 2024",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLx7cDg0lmPMklUFKppwShvtnz9Dg3_nwQS_dXOWh52d2m4R-BXihILkt7lOBf11g0KxB45nQCgV9G8dbZ519s6rX_99ZihqoWsVD67FESQZzVWpxft9cfVT0RRYulJBLDC7VLI80uNaUAeix-T0IY9Uk7JaJTxN4_bpZMygtHFyEY7TmF0Dzt/w1200-h630-p-k-no-nu/Capture.PNG"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/prophesee-qualcomm-demo-at-mobile-world.html",
+          "author": null,
+          "description": "Prophesee and Qualcomm recently showcased their \"blur free\" mobile photography technology at the Mobile World Congress in Barcelona. \n\nPress release: https://prophesee-1.reportablenews.com/pr/prophesee-s-metavision-image-deblur-solution-for-smartphones-is-now-production-ready-seamlessly-optimized-for-the-snapdragon-8-gen-3-mobile-platform \n\nFebruary 27, 2024 – Paris, France - Prophesee SA, inventor of the most advanced neuromorphic vision systems, today announced that the progress achieved through its collaboration with Qualcomm Technologies, Inc. has now reached production stage. A live demo during Mobile World Congress Barcelona is showcasing Prophesee’s native compatibility with premium Snapdragon® mobile platforms, bringing the speed, efficiency, and quality of neuromorphic-enabled vis…",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/prophesee-qualcomm-demo-at-mobile-world.html",
+          "publishedOn": "2024-03-13T15:54:00.001Z",
+          "wordCount": 5078,
+          "title": "Prophesee Qualcomm demo at Mobile World Congress",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/preprint-on-skipper-in-cmos-image-sensor.html",
+          "author": null,
+          "description": "A recent preprint on ArXiv https://arxiv.org/abs/2402.12516 titled presents a new CMOS image sensor designed to achieve sub-electron read noise and photon number resolving capability.\nSkipper-in-CMOS: Non-Destructive Readout with Sub-Electron Noise Performance for Pixel Detectors\n\nAbstract: The Skipper-in-CMOS image sensor integrates the non-destructive readout capability of Skipper Charge Coupled Devices (Skipper-CCDs) with the high conversion gain of a pinned photodiode in a CMOS imaging process, while taking advantage of in-pixel signal processing. This allows both single photon counting as well as high frame rate readout through highly parallel processing. The first results obtained from a 15 x 15 um^2 pixel cell of a Skipper-in-CMOS sensor fabricated in Tower Semiconductor's commercial 180 nm CMOS Image Sensor process are presented. Measurements confirm the expected reduction of the readout noise with the number of samples down to deep sub-electron noise of 0.15rms e-, demonstrating the charge transfer operation from the pinned photodiode and the single photon counting operation when the sensor is exposed to light. The article also discusses new testing strategies employed for its operation and characterization.",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/preprint-on-skipper-in-cmos-image-sensor.html",
+          "publishedOn": "2024-03-11T13:07:00.007Z",
+          "wordCount": 4998,
+          "title": "Preprint on \"Skipper-in-CMOS\" image sensor",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgMiEdx-h26XtvWL1arR2LMvGjiurHVlkaeXM3_8g3q7IGxsAurY4LLgADBFPNCkeSAjA2u96rxj6SP1HM_GZ6Eoe6sSdV8bNzmYDVkgzMO-GHjHzaOfB5RgRg7GIAbO_vrdJ-Dkdr9JyQq9q1JNbUxPmob-_jQcT0jSEEY_hCGcI5gtYoQ9Wy/w1200-h630-p-k-no-nu/Capture1.PNG"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-10-march-2024.html",
+          "author": null,
+          "description": "Qualcomm\nADAS camera Engineer\nFarnborough, UK\nLink\nOnsemi\nProduct Engineer\nMeridian, Idaho, USA\nLink\nUniversity of Warwick\nTowards Silicon Photonics Based\n  Gas Sensors\nCoventry, UK\nLink\nJohnson & Johnson\nSr. Manager Visualization\n  Hardware\nSanta Clara, CA, USA\nLink\nNASA\nDevelopment of infrared detectors and\n  focal plane arrays for space instruments\nPasadena, CA, USA\nLink\nApple\nHardware Sensing Systems Engineer\nCupertino, CA, USA\nLink\nSony\nSoftware Engineer/Researcher for\n  Image Sensors\nTokyo, Japan\nLink\nMeta\nImage Sensor Architect\nRedmond, Washington, USA\nLink\nQueen Mary University\nSilicon Detector Technician\nLondon, England, UK\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-10-march-2024.html",
+          "publishedOn": "2024-03-10T16:32:00.000Z",
+          "wordCount": 3851,
+          "title": "Job Postings - Week of 10 March 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/samsung-defends-ai-editing-on-photos.html",
+          "author": null,
+          "description": "From TechRadar: https://www.techradar.com/phones/samsung-galaxy-phones/there-is-no-such-thing-as-a-real-picture-samsung-defends-ai-photo-editing-on-galaxy-s24\n\n\"There is no such thing as a real picture\": Samsung defends AI photo editing on Galaxy S24\n\nLike most technology conferences in recent months, Samsung’s latest Galaxy Unpacked event was dominated by conversations surrounding AI. From two-way call translation to gesture-based search, the Samsung Galaxy S24 launched with several AI-powered tricks up its sleeve – but one particular feature is already raising eyebrows. \nSet to debut on the Galaxy S24 and its siblings, Generative Edit will allow users to artificially erase, recompose and remaster parts of an image in a bid to achieve photographic perfection. This isn’t a new concept, and…",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/samsung-defends-ai-editing-on-photos.html",
+          "publishedOn": "2024-03-08T17:31:00.001Z",
+          "wordCount": 5191,
+          "title": "Samsung defends AI editing on photos",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/gpixel-on-verge-of-ipo.html",
+          "author": null,
+          "description": "From: http://www.myzaker.com/article/65d3ce24b15ec01a56438179\n(Translated with Google Translate)\n...\nAgainst the backdrop of an improving market, Changchun Changguangchenxin Microelectronics Co., Ltd. (hereinafter referred to as \"Changguangchenxin\"), a domestic company specializing in CMOS image sensors, has recently launched its IPO application on the Shanghai Stock Exchange Science and Technology Innovation Board. to the inquiry stage.\nIn this IPO, Changguang Chenxin plans to raise 1.557 billion yuan, and the funds are planned to be invested in the research and development and industrialization projects of CMOS image sensors in different directions, including the field of machine vision, scientific instruments, and professional imaging. At the same time, funds are also planned to be invested in high-end CMOS image sensor R&D center construction projects and to supplement working capital.\nHowever, in recent years, Changguangchenxin's net profit has turned from profit to loss during the reporting period. Moreover, as a company that wants to be listed on the Science and Technology Innovation Board, Changguangchenxin's R&D expense rate has been decreasing year by year, and the detailed list of R&D expenses has been focused on by the Shanghai Stock Exchange. \n...",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/gpixel-on-verge-of-ipo.html",
+          "publishedOn": "2024-03-06T17:24:00.031Z",
+          "wordCount": 4760,
+          "title": "GPixel on the verge of IPO?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivM2dB6wxUEBsRHA7SercRyZ795XXsZlMoXLlf72rwf2lU-ebnfSStxTnSdHXHokDCLsWvuD8DatTaHuY37WrXjfxpWzH7IpC7ArkXXGuhsQsWYBlKJ0j9Uc0Q-vdYcUTC2-TxKZ4khysGlX4KcXQqL1KBfckX01bQqOYmG777kphEefOEk3fc/w1200-h630-p-k-no-nu/gpixel-1.jpg"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/andes-and-metasilicon-collaborate-on.html",
+          "author": null,
+          "description": "From Yahoo Finance news:\nAndes Technology and MetaSilicon Collaborate to Build the World’s First Automotive-Grade CMOS Image Sensor Product Using RISC-V IP SoC\nHsinchu Taiwan, Feb. 22, 2024 (GLOBE NEWSWIRE) -- RISC-V IP vendor Andes Technology and edge computing chip provider MetaSilicon jointly announced that the MetaSilicon MAT Series is the world's first automotive-grade CMOS image sensor series using RISC-V IP SoC, using Andes' AndesCore™ N25F-SE processor. They are designed in accordance with the ISO26262 functional safety standard to achieve ASIL-B level and follow the AEC-Q100 Grade 2 to achieve a high level of safety and reliability. And by using technologies such as HDR, advanced imaging can be achieved in a simple, economical, and efficient system. They not only address the effec…",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/andes-and-metasilicon-collaborate-on.html",
+          "publishedOn": "2024-03-04T16:00:00.005Z",
+          "wordCount": 4382,
+          "title": "Andes and MetaSilicon collaborate on automotive CIS",
+          "imageUrl": null
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-3-march-2024.html",
+          "author": null,
+          "description": "Prophesee\nInternship - R&D - Sensor\n  Simulation\nParis, France\nLink\nSandia National Laboratories \nPostdoctoral Appointee Optoelectronics,\n  HI & Quantum Device\nAlbuquerque, New Mexico, USA\nLink\nSandia National Laboratories \nIntern - Photonic & Phononic\n  Microsystems - R&D Undergrad Summer\nAlbuquerque, New Mexico, USA\nLink\nTesla\nEngineering Technician, Camera \nPalo Alto, California, USA\nLink\nUniversity of London\nSilicon Detector Technician\nMile End, London, England, UK\nLink\nTurion Space\nAdvanced Sensors Engineer\nIrvine, California, USA\nLink\nSmartRay\nSensor Application Engineer \nPenang, Malaysia\nLink\nJoint Institute for Nuclear\n  Research\nPostdoctoral Programme\n  in Novel Cherenkov Detector Development\nDubna, Russia\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-3-march-2024.html",
+          "publishedOn": "2024-03-03T18:58:00.003Z",
+          "wordCount": 3858,
+          "title": "Job Postings - Week of 3 March 2024",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Mr.Children Official Channel",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXteDRy5qB0IjA8WPusCJ7w",
+      "siteUrl": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nyr_m3I3C_s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nyr_m3I3C_s",
+          "publishedOn": "2024-03-08T13:00:51.000Z",
+          "wordCount": null,
+          "title": "「Mr.Children tour 2024 miss you arena tour」Teaser",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "NHKニュース",
+      "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
+      "siteUrl": "http://www3.nhk.or.jp/news/",
+      "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240331/k10014408091000.html",
+          "author": null,
+          "description": "センバツ高校野球は31日、決勝が行われ、群馬の高崎健康福祉大高崎高校が兵庫の報徳学園に3対2で勝って初優勝しました。群馬県勢の甲子園での優勝は、春は初めてです。最新情報を速報でお伝えします。NHKでは総合テレビとラジオ第1で中継しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240331/k10014408091000.html",
+          "publishedOn": "2024-03-31T06:03:20.000Z",
+          "wordCount": 2828,
+          "title": "【速報】センバツ高校野球 健大高崎が初優勝 群馬県勢 春は初",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240331/K10014408091_2403311440_0331144356_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240331/k10014408431000.html",
+          "author": null,
+          "description": "昭和に食堂車として活躍し、青森県で保管されていた車両が千葉県いすみ市の鉄道公園に移設され、31日、多くの鉄道ファンが集まりお披露目されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240331/k10014408431000.html",
+          "publishedOn": "2024-03-31T05:43:23.000Z",
+          "wordCount": 717,
+          "title": "昭和に食堂車として活躍の車両 青森から移設されお披露目 千葉",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240331/K10014408431_2403311403_0331144325_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240331/k10014408371000.html",
+          "author": null,
+          "description": "台湾のメディアは、小林製薬の紅麹原料を使った製品を摂取して体調が悪くなったという人の数が3人に増えたと報じました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240331/k10014408371000.html",
+          "publishedOn": "2024-03-31T04:25:05.000Z",
+          "wordCount": 683,
+          "title": "“小林製薬の紅麹 使用製品を摂取 体調不良3人” 台湾メディア",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240331/K10014408371_2403311210_0331132507_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240331/k10014408421000.html",
+          "author": null,
+          "description": "能登半島地震の発生から1日で3か月となるのを前に、都内で開かれたイベントでは、被災地の商品を販売するブースが設けられ、多くの人が買い求めていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240331/k10014408421000.html",
+          "publishedOn": "2024-03-31T04:22:26.000Z",
+          "wordCount": 754,
+          "title": "「目黒川の桜まつり」 能登半島特産の商品販売 被災地支援も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240331/K10014408421_2403311221_0331132228_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240331/k10014408291000.html",
+          "author": null,
+          "description": "31日の関東甲信は晴れて午前中から気温が上がり、すでに25度以上の夏日になっているところもあります。今の時期は体が暑さに慣れていないため、いつも以上に意識して水分を補給するなど対策をとるようにしてください。",
+          "link": "http://www3.nhk.or.jp/news/html/20240331/k10014408291000.html",
+          "publishedOn": "2024-03-31T02:49:24.000Z",
+          "wordCount": 829,
+          "title": "関東甲信で気温上昇 すでに夏日のところも 水分補給など対策を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240331/K10014408291_2403311207_0331120738_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240331/k10014408251000.html",
+          "author": null,
+          "description": "「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、厚生労働省と和歌山県は31日午前、食品衛生法に基づき、和歌山県紀の川市の工場に立ち入り検査に入りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240331/k10014408251000.html",
+          "publishedOn": "2024-03-31T01:22:40.000Z",
+          "wordCount": 868,
+          "title": "小林製薬 紅麹問題 和歌山県の工場に立ち入り検査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240331/K10014408251_2403310937_0331100113_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240331/k10014408241000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手の専属通訳を務めていた水原一平氏が違法賭博に関わっていたとされる問題で、アメリカのメディアは、水原氏にはブックメーカーと呼ばれる賭け屋にまだ返済していない借金があると、関係者の話として伝えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240331/k10014408241000.html",
+          "publishedOn": "2024-03-31T01:10:26.000Z",
+          "wordCount": 582,
+          "title": "“水原一平氏にはまだ返済していない借金がある” 米メディア",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240331/K10014408241_2403311006_0331101028_01_03.jpg"
+        }
+      ]
+    },
+    {
+      "title": "│SWITCH速報",
+      "feedUrl": "http://switchsoku.com/feed",
+      "siteUrl": "https://switchsoku.com",
+      "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99642",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/31(日) 00:15:04.25 ID:aRE85lr30 鉄拳8は当初の計 […]",
+          "link": "https://switchsoku.com/soft/bandainamco/99642",
+          "publishedOn": "2024-03-31T06:00:07.000Z",
+          "wordCount": 10097,
+          "title": "原田「鉄拳9は任天堂プラットフォームでもやりたい。本当はね」",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/03/tekken.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=99639",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/30(土) 14:04:59.51 ID:RjdUq9Wi0 しかも年4900 […]",
+          "link": "https://switchsoku.com/online/99639",
+          "publishedOn": "2024-03-31T04:00:46.000Z",
+          "wordCount": 10216,
+          "title": "僕、オンライン対戦しないのにSwitchオンラインに加入してしまう！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/switch-online-plus.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=99637",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/30(土) 19:41:29.33 ID:P+Te4cMdM 『モンスターハン […]",
+          "link": "https://switchsoku.com/soft/monsterhunter/99637",
+          "publishedOn": "2024-03-31T02:00:20.000Z",
+          "wordCount": 10713,
+          "title": "【噂】『モンハンワイルド』がSwitch2のローンチに！？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/12/monster-hunter-wilds.webp"
+        },
+        {
+          "id": "https://switchsoku.com/?p=99633",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/27(水) 13:35:46.95 ID:wfL4jnF/0 今読むと面白い  […]",
+          "link": "https://switchsoku.com/switch/99633",
+          "publishedOn": "2024-03-31T00:00:07.000Z",
+          "wordCount": 10297,
+          "title": "ニンテンドースイッチが予約開始された当時のネット民の反応",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2017/01/HACS_001_JPpkgeBR_R_750.png"
+        },
+        {
+          "id": "https://switchsoku.com/?p=99631",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/30(土) 11:47:55.22 ID:Q6wbjKDB0 「春休みの宿題は […]",
+          "link": "https://switchsoku.com/soft/momoden/99631",
+          "publishedOn": "2024-03-30T14:00:26.000Z",
+          "wordCount": 10055,
+          "title": "『桃鉄』全国7000校以上が導入",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2020/08/momotetu.jpg"
+        }
+      ]
+    },
+    {
+      "title": "YoshiZo",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS1qLgofM70kUlI1Wu5uqxg",
+      "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=V-nbkZiiESU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V-nbkZiiESU",
+          "publishedOn": "2024-03-30T02:00:11.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】スラミチが出なくても・・・!!猛き闘竜ドランゴ装備＆WALKフェス24後半あわせて40連で無課金勇者は勝利なるか!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gttJYKxYLpk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gttJYKxYLpk",
+          "publishedOn": "2024-03-26T09:30:14.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】テリーを回復役で使えるのか！？回復量を出すには！？馬車システムのテリーの緊急時用使い方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1K7VL5JBooI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1K7VL5JBooI",
+          "publishedOn": "2024-03-24T02:30:01.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】最高の回復武器で地獄を見るか!?最大ジェム200連勝負！無課金勇者がしんぴの水晶引くまで占い師ミネア装備ガチャにジェムぶっこんでいく!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wIn2psHOHTs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wIn2psHOHTs",
+          "publishedOn": "2024-03-24T02:20:23.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォークLIVE】ギガモンデスパレス戦をライブで狩っていく無課金勇者！！3月23日夜の部！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tl2bOkH-mr8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tl2bOkH-mr8",
+          "publishedOn": "2024-03-22T08:43:25.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】ギガモンデスパレス戦を円月輪＋ＳＰ装備で上位を狙う!!装備難民向け1週目攻略!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lpTVNWqw4Bg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lpTVNWqw4Bg",
+          "publishedOn": "2024-03-20T16:14:01.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】超強力ブレス武器実装!!ドランゴの闘斧!!無課金勇者はドランゴ装備ガチャにジェム投入して全力で引くべきなのか!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rOaCKNsmeOo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rOaCKNsmeOo",
+          "publishedOn": "2024-03-19T03:00:33.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】しんぴの水晶を獲れなくても大丈夫!?まもなく終了の占い師ミネア装備の入手できない無課金勇者向けのお話。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QoOpZf1PMGE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QoOpZf1PMGE",
+          "publishedOn": "2024-03-16T03:00:15.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】武器出ちゃいました!?!?さすらいの剣士テリー＆WALKフェス24前半あわせて40連で無課金勇者は歓喜なるか!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VbMrFZK2YTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VbMrFZK2YTY",
+          "publishedOn": "2024-03-14T13:12:11.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】超簡単武器1本でも3ターン!!いどまじんのほこらをコスト制限410で防具アクセ無しの裸攻略!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=F4jbfnv2KHg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F4jbfnv2KHg",
+          "publishedOn": "2024-03-12T08:00:16.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】ラストマイレージ勝負!!!?しんぴの水晶を絶対GETしたい無課金勇者の占い師ミネア装備ガチャ30連!!何とか出てくれるのか!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cOzxu_psLqs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cOzxu_psLqs",
+          "publishedOn": "2024-03-10T09:14:59.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】4.5周年いま無課金勇者が回すべきガチャは!?ジェム投入は！？よしぞうのジャッジ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VwTBH5ckF98",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VwTBH5ckF98",
+          "publishedOn": "2024-03-09T02:00:20.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】極悪ランプ千里行!!汎用性ってやっぱり大事ですよね。無課金勇者よしぞうのランプのまじん千里行パーティ。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-5RwwBgJYOg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-5RwwBgJYOg",
+          "publishedOn": "2024-03-08T07:16:02.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】4.5周年武器らいめいのけん実装!!さすらいの剣士テリー装備ガチャを無課金勇者はジェム投入して全力で引くべきなのか!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JDSGkBXMYGQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JDSGkBXMYGQ",
+          "publishedOn": "2024-03-03T08:00:07.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】散々お世話になったベホマラー。時代が終わったのか!?ついに聖風のつえ現役引退となるのか!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dRmUszfrDyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dRmUszfrDyg",
+          "publishedOn": "2024-03-02T03:00:23.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】スラミチィーーー!!神回復武器を神引きできるのか!?しんぴの水晶を絶対GETしたい無課金勇者の占い師ミネア装備ガチャ50連!!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "アニメ・声優ニュース - アニメハック",
+      "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
+      "siteUrl": "https://anime.eiga.com/news/",
+      "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120815/",
+          "author": null,
+          "description": "映画「モンスターズ・インク」のその後を描く人気アニメーションシリーズ「モンスターズ・ワーク」シーズン2が、5月5日にディズニープラスで独占配信される。 本シリーズは、「モンスターズ・インク」で「...",
+          "link": "https://anime.eiga.com/news/120815/",
+          "publishedOn": "2024-03-31T03:00:00.000Z",
+          "wordCount": 1550,
+          "title": "「モンスターズ・インク」のその後を描く「モンスターズ・ワーク」シーズン2、5月5日にディズニープラスで独占配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120866/",
+          "author": null,
+          "description": "往年の人気キャラクター、ポパイの長編実写映画を、チャーニン・エンターテインメントとキング・フィーチャーズが開発していることがわかった。米バラエティが第一報を報じた。 1929年にアメリカの漫画「...",
+          "link": "https://anime.eiga.com/news/120866/",
+          "publishedOn": "2024-03-30T13:00:00.000Z",
+          "wordCount": 1530,
+          "title": "人気キャラクター「ポパイ」が再び実写映画化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120842/",
+          "author": null,
+          "description": "BS松竹東急（BS260ch・全国無料放送）の放送枠「よる8銀座シネマ」で放送されている特集「6か月連続 ジャッキー・チェン祭り！」のクライマックスとして、ジャッキー・チェンの吹き替え声優で知ら...",
+          "link": "https://anime.eiga.com/news/120842/",
+          "publishedOn": "2024-03-30T12:00:00.000Z",
+          "wordCount": 1688,
+          "title": "石丸博也が追加収録したジャッキー・チェン“吹き替え完全版”全7作、4月15日からBS松竹東急で無料放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120954/",
+          "author": null,
+          "description": "テレビアニメ「ダンジョン飯」の第2シーズン（第2クール）に、神戸光歩、日笠陽子、志田有彩、鬼頭明里、古谷佳乃の出演が決定した。新たな主題歌の詳細も発表されており、PV第3弾とキービジュアル第2弾...",
+          "link": "https://anime.eiga.com/news/120954/",
+          "publishedOn": "2024-03-30T11:00:00.000Z",
+          "wordCount": 1659,
+          "title": "「ダンジョン飯」に神戸光歩、日笠陽子、志田有彩、鬼頭明里、古谷佳乃が出演　新主題歌を収録した新PV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120949/",
+          "author": null,
+          "description": "BS12トゥエルビで毎週日曜午後7時から放送中の「日曜アニメ劇場」で、3月31日に「ルパン三世VS名探偵コナン」が放送される。 2009年12月に放送された同作は、モンキー・パンチ氏の「ルパン三...",
+          "link": "https://anime.eiga.com/news/120949/",
+          "publishedOn": "2024-03-30T10:00:00.000Z",
+          "wordCount": 1603,
+          "title": "「日曜アニメ劇場」で3月31日に「ルパン三世VS名探偵コナン」放送　怪盗と名探偵が夢の共演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120941/",
+          "author": null,
+          "description": "Prime Videoが4月に配信開始する新着作品が発表され、漫画家・水木しげるの生誕100周年記念作品として製作された長編アニメーション映画「鬼太郎誕生 ゲゲゲの謎」が、で 4月15日から購入...",
+          "link": "https://anime.eiga.com/news/120941/",
+          "publishedOn": "2024-03-30T09:00:00.000Z",
+          "wordCount": 1672,
+          "title": "「鬼太郎誕生　ゲゲゲの謎」アマプラで“入村”し放題【Prime Video 4月新着作品リスト】",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120944/",
+          "author": null,
+          "description": "4月19日から全国公開される「劇場版ブルーロック EPIOSODE 凪」で、ミニアニメ「あでぃしょなる・たいむ！」の新作が4週連続週替わりで上映されることが決定した。 原作「ブルーロック」は、金...",
+          "link": "https://anime.eiga.com/news/120944/",
+          "publishedOn": "2024-03-30T03:00:00.000Z",
+          "wordCount": 1607,
+          "title": "「劇場版ブルーロック」でミニアニメ「あでぃしょなる・たいむ！」新作が週替わり上映　IMAX、4DX、MX4D上映も決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120910/",
+          "author": null,
+          "description": "人気アイドルグループ「乃木坂46」の元メンバー・高山一実の小説を劇場アニメ化した「トラペジウム」が、auスマートパスプレミアムの会員特典サービス「au推しトク映画」に決定した。auスマートパスプ...",
+          "link": "https://anime.eiga.com/news/120910/",
+          "publishedOn": "2024-03-29T13:00:00.000Z",
+          "wordCount": 1565,
+          "title": "高山一実原作の劇場アニメ「トラペジウム」　1100円で鑑賞できる「au推しトク映画」に",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120926/",
+          "author": null,
+          "description": "俳優の新木優子が、「キングダム」シリーズ第4作「キングダム 大将軍の帰還」に出演し、摎（きょう）を演じていることがわかった。泰国六大将軍の一人で、王騎（おうき／大沢たかお）と龐煖（ほうけん／吉川...",
+          "link": "https://anime.eiga.com/news/120926/",
+          "publishedOn": "2024-03-29T12:00:00.000Z",
+          "wordCount": 1611,
+          "title": "実写「キングダム 大将軍の帰還」摎役は新木優子　王騎と龐煖の“過去の因縁”に深く関わる、謎多き武将",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120952/",
+          "author": null,
+          "description": "7月からCBC／TBS系列「アガルアニメ」枠内で放送を開始する「キン肉マン 完璧超人始祖（パーフェクト・オリジン）編」の正義超人陣営、悪魔超人陣営のキャストが発表された。上坂すみれ、古川登志夫、...",
+          "link": "https://anime.eiga.com/news/120952/",
+          "publishedOn": "2024-03-29T11:00:00.000Z",
+          "wordCount": 1723,
+          "title": "「キン肉マン 完璧超人始祖編」テリーマン役の小野大輔、ロビンマスク役の小西克幸、ウォーズマン役の梶裕貴らキャスト15人発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/120947/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、公開中の「劇場版ハイキュ...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/120947/",
+          "publishedOn": "2024-03-29T10:00:00.000Z",
+          "wordCount": 1844,
+          "title": "【入場特典リスト3月・4月最新版】「劇場版ハイキュー!!」は原作者描き下ろしアイテム、「ガンダムSEED」は特典2個セット配布",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120948/",
+          "author": null,
+          "description": "上映中の劇場アニメ「映画おしりたんてい さらば愛しき相棒（おしり）よ」の本編映像が解禁された。 同作は、累計発行部数1000万部を超える、トロル原作の児童書シリーズ「おしりたんてい」の劇場版長編...",
+          "link": "https://anime.eiga.com/news/120948/",
+          "publishedOn": "2024-03-29T09:00:00.000Z",
+          "wordCount": 1599,
+          "title": "「映画おしりたんてい」10年前の若いおしりたんていを映した本編映像解禁",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120951/",
+          "author": null,
+          "description": "「劇場版ハイキュー!! ゴミ捨て場の決戦」が公開から42日間で興行収入82.6億円、観客動員577万人を突破した。興行収入81.9（ハイキュー!!）億円を突破したことを記念して、新ビジュアルが公...",
+          "link": "https://anime.eiga.com/news/120951/",
+          "publishedOn": "2024-03-29T08:00:00.000Z",
+          "wordCount": 1564,
+          "title": "「劇場版ハイキュー!!」興行収入81.9（ハイキュー!!）億円突破　記念ビジュアルに研磨＆黒尾の姿",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120909/",
+          "author": null,
+          "description": "「スパイダーマン スパイダーバース」シリーズの新作アニメ「ザ・スパイダー・ウィズイン（原題）」が、ソニー・ピクチャー・アニメーションのYouTubeチャンネルで無料公開中だ。 「スパイダーマン ...",
+          "link": "https://anime.eiga.com/news/120909/",
+          "publishedOn": "2024-03-29T03:00:00.000Z",
+          "wordCount": 1540,
+          "title": "「スパイダーマン　スパイダーバース」の新作短編アニメがYouTubeで無料公開中",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120817/",
+          "author": null,
+          "description": "「モンスター・ヴァース」シリーズ最新作「ゴジラ×コング 新たなる帝国」の最新ポスタービジュアルが、このほど公開された。また“ゴジラ史上最大”のラージフォーマット上映の展開も決定した。 2023年...",
+          "link": "https://anime.eiga.com/news/120817/",
+          "publishedOn": "2024-03-28T13:00:00.000Z",
+          "wordCount": 1548,
+          "title": "「ゴジラ×コング　新たなる帝国」“爆走”ポスター公開　“ゴジラ史上最大”のラージフォーマット上映も決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120903/",
+          "author": null,
+          "description": "テレビアニメ「グリザイア：ファントムトリガー」が2024年に放送されることが決まり、キービジュアルが披露された。 また、レナ役の内田真礼、トーカ役の佐倉綾音、クリス役の名塚佳織、ムラサキ役の種崎...",
+          "link": "https://anime.eiga.com/news/120903/",
+          "publishedOn": "2024-03-28T12:00:00.000Z",
+          "wordCount": 1602,
+          "title": "「グリザイア：ファントムトリガー」24年に放送　内田真礼、佐倉綾音らOVA版から続投",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120936/",
+          "author": null,
+          "description": "浅野いにお氏のSF青春漫画を劇場アニメ化する2部作の後編「デッドデッドデーモンズデデデデデストラクション 後章」の声優として、竹中直人、沢城千春、大西沙織、松田健一郎、河西健吾、こばたけまさふみ...",
+          "link": "https://anime.eiga.com/news/120936/",
+          "publishedOn": "2024-03-28T11:00:00.000Z",
+          "wordCount": 1630,
+          "title": "「デデデデ」後章に竹中直人が友情出演　沢城千春、大西沙織らも参加　前章の4週連続入場者特典の詳細も明らかに",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120942/",
+          "author": null,
+          "description": "劇場アニメ「機動戦士ガンダムSEED FREEDOM」が1月26日の公開から59日間で、興行収入41億円、観客動員243万人を突破した。1982年に公開された「機動戦士ガンダムⅢ めぐりあい宇宙...",
+          "link": "https://anime.eiga.com/news/120942/",
+          "publishedOn": "2024-03-28T10:00:00.000Z",
+          "wordCount": 1584,
+          "title": "「機動戦士ガンダムSEED FREEDOM」興収41億円を突破　3月29日からの入場特典第10弾は第1弾の短編小説再配布とセット",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120943/",
+          "author": null,
+          "description": "テレビアニメ「30歳まで童貞だと魔法使いになれるらしい」（略称・チェリまほ）の特別編集版の製作が決まり、2024年に公開されることがわかった。後ろ姿が描かれたティザービジュアルも披露されている。...",
+          "link": "https://anime.eiga.com/news/120943/",
+          "publishedOn": "2024-03-28T09:30:00.000Z",
+          "wordCount": 1586,
+          "title": "「チェリまほ」特別編集版が2024年公開決定　ティザービジュアルお披露目",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/120937/",
+          "author": null,
+          "description": "劇場アニメ「映画おしりたんてい さらば愛しき相棒（おしり）よ」と同時上映されている短編「映画おしりたんてい なんでもかいけつ倶楽部 対 かいとうU」。同作に隠された長編への伏線、おしりたんていを...",
+          "link": "https://anime.eiga.com/news/120937/",
+          "publishedOn": "2024-03-28T09:00:00.000Z",
+          "wordCount": 1610,
+          "title": "「映画おしりたんてい」同時上映の短編に隠された伏線、おしりたんていが登場しない理由",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        }
+      ]
+    },
+    {
+      "title": "ドラゴンクエストウォーク公式",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtceiniicYEsbAVuWy-Bi0Q",
+      "siteUrl": "https://www.youtube.com/channel/UCtceiniicYEsbAVuWy-Bi0Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ldi3Twc4md0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ldi3Twc4md0",
+          "publishedOn": "2024-03-21T07:04:57.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』4.5周年WEBCM「ドランゴ装備篇」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mfseznFVhNE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mfseznFVhNE",
+          "publishedOn": "2024-03-21T07:04:36.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』4.5周年WEBCM「ドランゴ装備篇」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tip6SHpSWEE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tip6SHpSWEE",
+          "publishedOn": "2024-03-20T06:00:02.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』の新情報をお届け「スマートウォーク」#90",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=S5_yNKkPxYM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S5_yNKkPxYM",
+          "publishedOn": "2024-03-07T06:15:58.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』4.5周年WEBCM「テリー装備篇」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6WT-EbpjOWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6WT-EbpjOWU",
+          "publishedOn": "2024-03-07T06:15:53.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』4.5周年WEBCM「WALKフェス篇」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7D8Zz6DeoIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7D8Zz6DeoIY",
+          "publishedOn": "2024-03-07T06:15:35.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』4.5周年WEBCM「テリー装備篇」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-orQebDaSGc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-orQebDaSGc",
+          "publishedOn": "2024-03-07T06:15:19.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』4.5周年「WALKフェス篇」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pKK_BktUkGo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pKK_BktUkGo",
+          "publishedOn": "2024-03-06T06:00:09.000Z",
+          "wordCount": null,
+          "title": "『ドラゴンクエストウォーク』の新情報をお届け「スマートウォーク」#89",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "ろじっくぱらだいす(Logic Paradise)",
+      "feedUrl": "https://logipara.com/feed",
+      "siteUrl": "https://logipara.com",
+      "articles": [
+        {
+          "id": "https://logipara.com/?p=9705",
+          "author": "watanabe@logipara.com",
+          "description": "新年度ですね！！（希望のない瞳） 新年度ということで、比類なき大富豪企業でもある弊社でも、異動者の歓迎会（会費4,300円）が開かれることになりました。 が。その幹事（入社2年目）が、 　 「会費4,300円ですが、みな […]",
+          "link": "https://logipara.com/diary-text/2024-03-31",
+          "publishedOn": "2024-03-31T00:51:48.000Z",
+          "wordCount": 4389,
+          "title": "金額の決まってない寄付って怖くないですか",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9703",
+          "author": "watanabe@logipara.com",
+          "description": "昨晩は7人で焼肉を食べてきました。 　 その焼肉屋、大人気店なんです。 今回の枠を予約したのが、なんと2年前。2022年に予約したら、最短で2024年だった、というぐらいに人気店なんです。 今回も7人でワイワイ食べたので […]",
+          "link": "https://logipara.com/diary-text/2024-03-30",
+          "publishedOn": "2024-03-29T23:47:37.000Z",
+          "wordCount": 4393,
+          "title": "この感情をどう表せばいいのか",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9699",
+          "author": "watanabe@logipara.com",
+          "description": "……。 　 …………。 　 あの、気のせいかもしれないんですけど。 なんか、私、髪の毛、増えてない？ なんか頭頂部の感触が、ふさふさ感が増してない！？触った感じ、ふわふわしてない！？ 　 　 　 【増えた原因の予想】 […]",
+          "link": "https://logipara.com/diary-text/2024-03-29",
+          "publishedOn": "2024-03-28T14:27:59.000Z",
+          "wordCount": 4403,
+          "title": "増えたかもしれない",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/03/image-3-2.jpg"
+        },
+        {
+          "id": "https://logipara.com/?p=9696",
+          "author": "watanabe@logipara.com",
+          "description": "昨晩は職場の送別会だったんですが、横に座ってて、ずーっと喋っていた人の名前を2時間間違え続けていたことに今気づきました。今日も元気に生きよう！",
+          "link": "https://logipara.com/diary-text/2024-03-28",
+          "publishedOn": "2024-03-27T22:40:31.000Z",
+          "wordCount": 4377,
+          "title": "送別会",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9693",
+          "author": "watanabe@logipara.com",
+          "description": "以前の日想で書いたと思うのですが、私の腕は、すこぶる注射がしにくいみたいなんです。 最初、左腕に注射しようと上腕を縛って血管を見るものの、 看護師「……やっぱり右腕にしましょうか」 と玄関チェンジをされることも珍しくあり […]",
+          "link": "https://logipara.com/diary-text/2024-03-27",
+          "publishedOn": "2024-03-26T13:33:30.000Z",
+          "wordCount": 4414,
+          "title": "点滴が難しい男",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9689",
+          "author": "watanabe@logipara.com",
+          "description": "覚えていますか？ 先日、「乳首に違和感がある」と呟いたときのことを。 　 うん、忘れてていい。とくに覚えてなくていい。美しくないから。 しかしながら世間は捨てたもんじゃありません。日想を読んだ方の何人かから、励ましやアド […]",
+          "link": "https://logipara.com/diary-text/2024-03-26",
+          "publishedOn": "2024-03-25T13:03:28.000Z",
+          "wordCount": 4410,
+          "title": "ボクの乳首を守って",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9687",
+          "author": "watanabe@logipara.com",
+          "description": "今日、警視庁から 「あなたのお子様は窃盗容疑で逮捕され、被害者に280万円の賠償金を支払う必要があります。」 との連絡がありました。 まさか……うちの子が……そんな……！うちの子は、そんなことするように育てた覚えはないの […]",
+          "link": "https://logipara.com/diary-text/2024-03-25",
+          "publishedOn": "2024-03-24T13:28:24.000Z",
+          "wordCount": 4388,
+          "title": "窃盗容疑",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9685",
+          "author": "watanabe@logipara.com",
+          "description": "昨日はBBQというパリピにしか参加が許されないフェスに呼ばれ、しこたまビールを呑んできました。天気は雨でした。 参加者のお子さん（小学5年生・女性）が恋バナをしてて、それを聞いたおじさんおばさんが 「「ｷｬｰｰｰ！！（酒 […]",
+          "link": "https://logipara.com/diary-text/2024-03-24",
+          "publishedOn": "2024-03-24T02:26:36.000Z",
+          "wordCount": 4381,
+          "title": "BBQ!BBQ!BBQ!",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9682",
+          "author": "watanabe@logipara.com",
+          "description": "私は優秀な経営者なので、魔女宅のあの街に居たとしたら 「グーチョキパン店」 の隣に 「パーグーチョキ店」 を出店してシェアを奪いにいくね。ところでチョキ店って何？？何屋さん？何を売るの？？？(視線をそらす部下)",
+          "link": "https://logipara.com/diary-text/2024-03-23",
+          "publishedOn": "2024-03-22T14:33:21.000Z",
+          "wordCount": 4383,
+          "title": "魔女の宅急便は何度でも見ちゃう",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
+          "id": "https://logipara.com/?p=9679",
+          "author": "watanabe@logipara.com",
+          "description": "今日は、某クリニックにはじめて行ったんですよ。 で、当然、初回なので問診票を書いたのですが、 　 　 　 　 職業「会社役員」って枠、あるんだね 　 　 　 だったら職業「平社員」って枠も欲しかったなー！ボールペンの […]",
+          "link": "https://logipara.com/diary-text/2024-03-22",
+          "publishedOn": "2024-03-21T12:36:22.000Z",
+          "wordCount": 4399,
+          "title": "職業欄",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/03/image-3-1-1024x192.jpg"
+        }
+      ]
+    },
+    {
+      "title": "可愛い嘘のカワウソ🍮 台湾2/11〜3/3原画展@kawa_ii_usoの漫画作品一覧",
+      "feedUrl": "https://rss.app/feeds/LLneYADgfqOGJPdY.xml",
+      "siteUrl": "https://twiman.net/user/980820228534714368",
+      "articles": [
+        {
+          "id": "f283626a4d123a8dd73a4d2ada5da614",
+          "author": "ツイマンガ",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c0743514f7ed8fb850e0a5f340c3aa0ae9bbad742d7d63595ba4af6086ed9da6bf5aa757cd8120f9164d26fe1c510791d883ec36086c0",
+          "publishedOn": "2024-03-31T06:35:31.298Z",
+          "wordCount": 411,
+          "title": "4使えなくなるの?!💴 #カワウソ",
+          "imageUrl": null
+        },
+        {
+          "id": "0c2f6e07c5dc3cdaca978ed3bc8dbc8e",
+          "author": "ツイマンガ",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c0743514f7ed8fb850e0a5f340c3aa0ae9bbad742d7d63595ba4af6086ed9da6bf5aa757cd811089664d76fe7c61779158f39c36a85c6",
+          "publishedOn": "2024-03-31T06:35:31.294Z",
+          "wordCount": 411,
+          "title": "4恋なの?🍫🍭🍪🍮 HappyValentine 💕 #ハッピーバレンタイン #カワウソ",
+          "imageUrl": null
+        },
+        {
+          "id": "5f9384d8ebdbeb37590c9037e3b0653c",
+          "author": "ツイマンガ",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c0743514f7ed8fb850e0a5f340c3aa0ae9bbad742d7d63595ba4af6086ed9da6bf5aa757cd8160a9064d16de1c51a7a12823cc36488c2",
+          "publishedOn": "2024-03-31T06:35:31.284Z",
+          "wordCount": 411,
+          "title": "4毛糸になってるの🧶 #カワウソ",
+          "imageUrl": null
+        },
+        {
+          "id": "e90b700753d166745c79b7855740c3be",
+          "author": "ツイマンガ",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c0743514f7ed8fb850e0a5f340c3aa0ae9bbad742d7d63595ba4af6086ed9da6bf5aa757cd8110a9661d46fe3c7167b158c33c16482ca",
+          "publishedOn": "2024-03-31T06:35:31.283Z",
+          "wordCount": 411,
+          "title": "4心配なの #カワウソ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "暇空茜",
+      "feedUrl": "https://note.com/hima_kuuhaku/rss",
+      "siteUrl": "https://note.com/hima_kuuhaku",
+      "articles": [
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n5d8fb5a24eb7",
+          "author": null,
+          "description": "乙武氏を調べれば調べるほどフローレンスとズブズブ。乙武氏の収支報告書を見ると駒崎氏の息のかかった会社に乙武氏は高額なマネジメント料を払っています。\n公金吸いまくり、人身売買の関係者とズブズブな乙武氏は15区に当選させてはいけない。 https://t.co/dfhWEB2MRm pic.twitter.com/TfQg3Dm0UF\n— 髙橋𝕏羚@闇を暴く人。 (@Parsonalsecret) March 30, 2024\n\n人身売買はレッドカード\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n5d8fb5a24eb7",
+          "publishedOn": "2024-03-31T06:24:07.000Z",
+          "wordCount": 2551,
+          "title": "髙橋𝕏羚(@Parsonalsecret)注意！直近ツイートの解説",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/3214a5ea7e442372a991dee0853a59d3919b2e7f.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n61e7cf7f7125",
+          "author": null,
+          "description": "前回\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n61e7cf7f7125",
+          "publishedOn": "2024-03-30T04:02:41.000Z",
+          "wordCount": 2415,
+          "title": "望月衣塑子さん訴訟⑦被告提出失敗",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9e581d671024551d5d009c35c683308b12405bd4.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n0d6f71acc153",
+          "author": null,
+          "description": "進撃の巨人の映画はみましたよ、代表作だと思って\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n0d6f71acc153",
+          "publishedOn": "2024-03-27T17:27:47.000Z",
+          "wordCount": 2263,
+          "title": "町山レジュメ",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6b9e6221c5efc4937f30c6cd40be8a9e5e57c2db.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n79afbbc8b647",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n79afbbc8b647",
+          "publishedOn": "2024-03-26T13:55:58.000Z",
+          "wordCount": 2316,
+          "title": "国家賠償請求訴訟④判決文",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a43f23c2b1c4660b2f86c7f6a2bdf26c687c42a0.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n4b5e2f2bd195",
+          "author": null,
+          "description": "詳しくはライブで解説します\n※期日報告書とは、弁護士が提出してくる、要点のみをおさえたやりとりの報告書です。まあみなさん裁判やったときに受け取ったことがあると思いますが。\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n4b5e2f2bd195",
+          "publishedOn": "2024-03-25T07:54:19.000Z",
+          "wordCount": 2278,
+          "title": "堀口英利学習院迷惑サイト仮処分2　リーガル期日レポート",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/1f0df6ac90ac2913de32ef726d14087643a685b3.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n9745ccea93ed",
+          "author": null,
+          "description": "https://amzn.to/3PkuAUn\n Amazon.co.jp: 運命の巻戻士（１） (てんとう虫コミックス) eBook : 木村風太: KindleストアAmazon.co.jp: 運命の巻戻士（１） (てんとう虫コミックス) eBook : 木村風太: Kindleストアamzn.to \n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n9745ccea93ed",
+          "publishedOn": "2024-03-24T15:51:19.000Z",
+          "wordCount": 5010,
+          "title": "先週観たもの",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6939b6896e444bf01ea5373f65790381bbe03307.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n4c3a61dcb4c2",
+          "author": null,
+          "description": "前回\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n4c3a61dcb4c2",
+          "publishedOn": "2024-03-23T18:59:24.000Z",
+          "wordCount": 2394,
+          "title": "上タン50人前は嘘松　解答編",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/28c16b32fc95aa34b4deb54c4fe7616badd9ee3b.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n6de728dd0c51",
+          "author": null,
+          "description": "学習院OB訴訟(A)\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n6de728dd0c51",
+          "publishedOn": "2024-03-22T10:31:11.000Z",
+          "wordCount": 2510,
+          "title": "学習院仮処分２　堀口答弁書の感想",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c2d5a70f17c62f3e87ed77856eba50abef92fa1a.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nd5d5e99ac719",
+          "author": null,
+          "description": "ひ「どうも、認知プロファイリング探偵暇空茜です」\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nd5d5e99ac719",
+          "publishedOn": "2024-03-20T11:48:18.000Z",
+          "wordCount": 2492,
+          "title": "R4WBPC住民訴訟③原告&被告準備書面2、さらば中川卓",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/19a628b1a2c8fb5fcdcaaea40f9c3c5203b83110.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n2f83a7c980f6",
+          "author": null,
+          "description": "ひ「どうも、認知プロファイリング探偵暇空茜です」\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n2f83a7c980f6",
+          "publishedOn": "2024-03-19T10:48:35.000Z",
+          "wordCount": 2373,
+          "title": "国家賠償請求訴訟③結審しました",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/15dd1988c5f3dcbc26c76894efa9f6001dd245e4.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n071f859a2714",
+          "author": null,
+          "description": "本物かニセモノかしりません\n真偽は自分の目でたしかめてみてください\nハッカーがアップしてURLを堀口系Youtuberにばらまいたみたいです\nあまりにアホな書面なのでニセモノと疑いたくなりますが\n書式は本人のものに似てます\n※追記\n開示請求じゃなくて削除仮処分しか申請してないそうですこの書面の差出人は\nですからタイトルは「開示請求書面らしきもの」ではあるものの\n実態は「仮処分削除申請」のようですね\n以前は「開示と削除の同時申請」してたのに、仮削除だけ求めるなんてどうして・・・\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n071f859a2714",
+          "publishedOn": "2024-03-18T03:50:49.000Z",
+          "wordCount": 2252,
+          "title": "堀口英利の開示請求書面らしきもの",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b581970d8b661cdbc4fefdd846cabad633f45524.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n8412c3aa54c0",
+          "author": null,
+          "description": "「えっ？中学の時のあいつですか？うーん、変なやつでしたよ。なんか揉め事になって、それから学校来なくなって。高校は違うとこいったらしくて…えーと、あ、あそこの通りの先にあるコンビニの店長の小林ってやつが、もっと詳しいですよ。」\n示されたコンビニに向かい、名刺を渡して自己紹介する。「探偵さん？って本当にいるんですね。それで、あいつのことを調べてるんですか？あいつ、何やったんですか？30分くらいならいいですよ、話も聞きたいですし。おーい、ちょっと出てくるから頼むよ」小林という男は、快く取材に応じてくれた。\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n8412c3aa54c0",
+          "publishedOn": "2024-03-17T18:48:27.000Z",
+          "wordCount": 2211,
+          "title": "虚構戦記　外伝　中学の章",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/cd79b34fc1cf7c419ac4af58de49318df8651b85.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n565e2ff12c63",
+          "author": null,
+          "description": "Amazon.co.jp: ナポレオン～覇道進撃～(26) (ヤングキングコミックス) eBook : 長谷川哲也: KindleストアAmazon.co.jp: ナポレオン～覇道進撃～(26) (ヤングキングコミックス) eBook : 長谷川哲也: Kiamzn.to \nバラバラに描いとるだけでつながっとらん 73点\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n565e2ff12c63",
+          "publishedOn": "2024-03-17T06:14:02.000Z",
+          "wordCount": 5873,
+          "title": "先週観たもの",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/47824ccb7ed0fc264f2909481fd53dd6d0531807.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n14b739d829da",
+          "author": null,
+          "description": "ひ「どうも、認知プロファイリング探偵暇空茜です」\nな「助手のなるこです」\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n14b739d829da",
+          "publishedOn": "2024-03-16T20:34:21.000Z",
+          "wordCount": 2315,
+          "title": "上タン50人前は嘘松です（断言）",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a426fa9405a176f1797ef9398a1529b9e32605a2.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nd775fc7dfc36",
+          "author": null,
+          "description": "前回\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nd775fc7dfc36",
+          "publishedOn": "2024-03-16T07:01:28.000Z",
+          "wordCount": 2662,
+          "title": "対太田啓子訴訟⑤原告第2、被告第5,6,7,8",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f8819ed4154bf9a3140e80bb1ee13c4ef59093d8.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n18f8c3e2c7ff",
+          "author": null,
+          "description": "考察\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n18f8c3e2c7ff",
+          "publishedOn": "2024-03-15T19:33:02.000Z",
+          "wordCount": 2535,
+          "title": "堀口英利についての一つの仮説",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/738eccd87e57c3fe93be70044e59c4278e091456.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nefd88e85a5cd",
+          "author": null,
+          "description": "ひ「どうも、認知プロファイリング探偵暇空茜です」\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nefd88e85a5cd",
+          "publishedOn": "2024-03-15T09:10:38.000Z",
+          "wordCount": 2491,
+          "title": "対神原弁護士訴訟⑤原告第2、被告5,6,7,8と上申書",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/735c79e87eb954f71b3415870ce8f7b1bcd2ed53.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nf0cdd5921e81",
+          "author": null,
+          "description": "ざっくりまとめると\n暇空茜は同姓同名の別人が二人いるから両方開示する必要があるんだ！\nだそうです\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nf0cdd5921e81",
+          "publishedOn": "2024-03-14T12:08:25.000Z",
+          "wordCount": 2240,
+          "title": "堀口英利（代理人伊久間勇星弁護士）note開示請求異議訴訟答弁書",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2591a6db2ca0c10e5c7364d85a95235d0dba4637.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n5c69da5876c7",
+          "author": null,
+          "description": "「ッチ、もったいぶってねーでさっさとヤらせろよな、むかつくなあ」「本当ですよね、もし目の前にいたならメッタ◯◯にしてやりたいくらいですよね」「は？メッタ◯し？お前頭大丈夫か？引くわー」「あ、えへへ、当然冗談ですよ～、えへへ、えへへへ」\n「それよりHobbyさんの著作、読ませていただきましたよ。本当に面白かったです」「…へぇ？どういうところが面白かったわけ？」こいつの名前はHobby。フォロワー15,000の中小フェミニストアカウントだ。だが、今私が所属しているアルファフェミニストDMグループのボスはこいつなのだ。\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n5c69da5876c7",
+          "publishedOn": "2024-03-13T02:18:29.000Z",
+          "wordCount": 2204,
+          "title": "虚構戦記　第三の手記",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/177b6a89ceb09295ff474a0bc4b40659315054fb.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nd3d775359a13",
+          "author": null,
+          "description": "前回\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nd3d775359a13",
+          "publishedOn": "2024-03-12T03:13:44.000Z",
+          "wordCount": 2426,
+          "title": "菅野完さん訴訟⑥被告準備書面3",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c03a84f38feefb0b14a5f88af04295e81a65802b.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nd53ba79cb4f7",
+          "author": null,
+          "description": "前回\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nd53ba79cb4f7",
+          "publishedOn": "2024-03-10T08:45:50.000Z",
+          "wordCount": 2519,
+          "title": "千尋訴訟③中川卓の完璧な準備書面3",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0f3dfab886d3b19d53f193bcdb124bdd66b43740.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n03eb32f48b11",
+          "author": null,
+          "description": "ひげを剃る。そして女子高生を拾う。　（１１） (角川コミックス・エース)amzn.to 733円(2024年03月03日 15:39時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n03eb32f48b11",
+          "publishedOn": "2024-03-10T04:29:17.000Z",
+          "wordCount": 5873,
+          "title": "先週観たもの",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/49fda686a7bf9b58dddefe9c37cd1e1984ae78df.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nffd758af5728",
+          "author": null,
+          "description": "前回\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nffd758af5728",
+          "publishedOn": "2024-03-09T02:52:19.000Z",
+          "wordCount": 2339,
+          "title": "堀口英利訴訟Ⅰ⑤判決　高裁へ続く",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/d5469a809bb0cb283dea324684ddea6868810cbf.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n8346d09d907c",
+          "author": null,
+          "description": "「しかし、本当に居るんですかね、外星人って」「じゃあ、あの”キューブ”は誰が作ったっていうんだ？神か？」ここでいう”キューブ”とは、木星の輪で偶然見つかったキューブのことだ。塵しかないはずの、質量があれば軌道をそれていくはずのその”キューブ”は、何らかの力で木星の環を周回していた\n\"キューブ\"は寸分の狂いもない、一片が1.56メートルの立方体だった。寸分の狂いも無いというのは、どんなに精密に検査しても、一切の狂いもなく、一切の傷も無いという意味だ。\"キューブ\"は、いまだに人類には構成物質すらわからないままだ。神が作ったと仮定するほうが賛同する科学者は多いだろう。\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n8346d09d907c",
+          "publishedOn": "2024-03-05T09:50:14.000Z",
+          "wordCount": 2173,
+          "title": "∀ガンダム妄想「はじまりの日」",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c56298e06734dee46fd11b7e3613ac257df89986.png"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n8e3833cdf26b",
+          "author": null,
+          "description": "元となる記事\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n8e3833cdf26b",
+          "publishedOn": "2024-03-05T09:38:53.000Z",
+          "wordCount": 2421,
+          "title": "太田啓子(支える会中の人)訴訟①訴状と答弁書",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e4b6e7bca605b3479b805429564bc0524a44be42.png"
+        }
+      ]
+    },
+    {
+      "title": "本厚木・厚木の情報メディア 厚木らぼ",
+      "feedUrl": "https://atsugi-lab.com/feed/",
+      "siteUrl": "https://atsugi-lab.com",
+      "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41718",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 今回は衝撃の閉店情報が入ってまいりました。 ラーメン通の間で話題となっていた人気店、「らーめん丸心」が4月15日をもって閉店してしまうとのこと…！ まずは場所からご案内いたします。 「らーめん丸心」場所は…",
+          "link": "https://atsugi-lab.com/close-marushin202404/",
+          "publishedOn": "2024-03-29T00:39:57.000Z",
+          "wordCount": 1162,
+          "title": "【衝撃！閉店】ラーメン通の間で話題になっていた「らーめん丸心」が4月15日をもって閉店だって…！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/close-marushin202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41943",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ 今回は3月30日（土）午前7時オープン予定！と情報をお伝えした 自家焙煎のコーヒーショップ「summer blue coffee」のプレオープンにお邪魔して参りましたー！ 早速取れたてのレポートをどうぞ☆…",
+          "link": "https://atsugi-lab.com/openreport-summerbluecoffee202403/",
+          "publishedOn": "2024-03-29T00:20:00.000Z",
+          "wordCount": 1225,
+          "title": "【プレオープンに行ってきた♪】3月30日7時オープン・自家焙煎のコーヒーショップ「summer blue coffee」［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/sbc20240330.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41890",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ 今回は海老名駅前で開催されるイベント情報をご紹介♪ 県央地区で最大規模となる植物の専門店を集めたイベント、 植物・クラフト市「THE BOTANICAL SHOW」が開催されるそうー！ 植物・クラフト市「…",
+          "link": "https://atsugi-lab.com/event-ebina-botanicalshow202403/",
+          "publishedOn": "2024-03-27T06:00:47.000Z",
+          "wordCount": 1149,
+          "title": "【イベント・海老名】県央地区で最大規模の植物・クラフト市「THE BOTANICAL SHOW」が3月31日に海老名駅前で初開催☆",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/botanicalshow202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41864",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです。 今回は皆さんが気になっているであろう、本厚木駅北口のあのビルの最新情報です！ 「TRUNK 本厚木」 このビルの出現により、本厚木駅北口の様子がガラッと変わりましたよね～。 前回の記事 https://a…",
+          "link": "https://atsugi-lab.com/news-trunk-honatsugi202403/",
+          "publishedOn": "2024-03-27T04:56:52.000Z",
+          "wordCount": 1168,
+          "title": "【どうなる！？】歯科・ネイル・接骨院…6月開業予定の「TRUNK 本厚木」の最新情報をまとめてみた！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/trunk202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41873",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ 今回は本厚木駅徒歩圏内で、オープン日が未定だったり、休業していた店舗など、 「あれからどうなった？」が気になるお店の現在の情報をまとめてみました！ 全部で4件、一気にどうぞ☆ 【3月22日グランドオープン…",
+          "link": "https://atsugi-lab.com/news-kininaru-atsugi202403/",
+          "publishedOn": "2024-03-27T04:40:57.000Z",
+          "wordCount": 1173,
+          "title": "【キニナル！】そういえばあのお店、あれからどうなった？？本厚木駅徒歩圏内の気になる開店情報などのまとめ！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/news-kininaru202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41725",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ あっという間にもうすぐ新年度ですねー！ お子さんや、またはご自身の新しい習い事を始めたいな♡とお考えの方も多くいらっしゃるのではないでしょうか？ ですが忙しい日々の中で曜日などのスケジュールを組むのが難し…",
+          "link": "https://atsugi-lab.com/event-fureaip-swimming2024spring/",
+          "publishedOn": "2024-03-26T02:30:11.000Z",
+          "wordCount": 1180,
+          "title": "【春から始める水泳教室♪】1回あたり1,000円で通える！リニューアルした「厚木市ふれあいプラザ」が参加者を募集中☆［厚木市金田］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/fureaip-spring.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41829",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ 今回は平塚市の開店情報です♪ 求人情報によると、 北海道で大人気のパン屋さん「ペンギンベーカリー平塚四之宮店」が4月下旬にオープン予定とのこと！ まずは場所からどうぞ☆ 「ペンギンベーカリー平塚四之宮店」…",
+          "link": "https://atsugi-lab.com/open-penguinbakery-hiratsuka202404/",
+          "publishedOn": "2024-03-26T01:26:23.000Z",
+          "wordCount": 1144,
+          "title": "【開店予定・平塚】北海道発祥＆北海道産の小麦をぜいたくに使用した話題のパン屋「ペンギンベーカリー平塚四之宮店」が4月下旬オープン予定！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/p-bakery202404.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41813",
+          "author": "comomo",
+          "description": "バーガーキングといえばアボカドワッパーが食べたいももこ＠あつらぼです。 ついに！「バーガーキング本厚木駅前店」が 本日3月21日グランドオープン！！ ということで、早速初日に行ってきましたーー！ 以前の記事 https://atsugi-l…",
+          "link": "https://atsugi-lab.com/openreport-burgerking202403/",
+          "publishedOn": "2024-03-21T08:54:47.000Z",
+          "wordCount": 1173,
+          "title": "【話題】ついに厚木に帰ってきた♫「バーガーキング本厚木駅前店」が本日3月21日グランドオープン！！初日の様子を撮って出し♪",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/bk202403.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41772",
+          "author": "fumie",
+          "description": "お酒の中ではワインが一番好きなふみえ＠あつらぼです。 先日、厚木公園（はとぽっぽ公園）近くを歩いていたところ、 すぐ横にある「ワイン酒場 ゴルゴン9 本厚木店」が閉店していてびっくりー！！ 「ワイン酒場 ゴルゴン9 本厚木店」場所は…",
+          "link": "https://atsugi-lab.com/close-gorgon9-2024/",
+          "publishedOn": "2024-03-21T00:32:27.000Z",
+          "wordCount": 1178,
+          "title": "【業態変更・リニューアル】「ワイン酒場 ゴルゴン9」がいつの間にか閉店→「スマイリ商店 ハナレ」として4月1日オープン予定［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/gorgon9-202404.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=41767",
+          "author": "comomo",
+          "description": "3月に入ると、桜の開花予想が気になりソワソワしてしまうももこ＠あつらぼです。 本厚木駅徒歩圏内で桜の名所といえば、相模川三川合流地点河川敷の桜ですよね！ 今年も、厚木北地区青少年広場で桜祭りが開催されるそうですよー♪ 「第41回　厚木観光桜…",
+          "link": "https://atsugi-lab.com/event-sakuramatsuri202403/",
+          "publishedOn": "2024-03-21T00:14:58.000Z",
+          "wordCount": 1141,
+          "title": "【イベント】「第41回　厚木観光桜祭り」が3月24日に厚木北地区青少年広場で開催予定★前夜には花火もあるらしい！［厚木市厚木］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/event-sakuramatsuri202403.jpg"
+        }
+      ]
+    },
+    {
+      "title": "進撃のグルメ",
+      "feedUrl": "http://foodfighter.jp/feed/",
+      "siteUrl": "https://foodfighter.jp",
+      "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240713",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/yoshinoya-gyusara-cheese",
+          "publishedOn": "2024-03-30T18:52:54.000Z",
+          "wordCount": 1848,
+          "title": "【吉野家】牛皿定食・クワトロチーズ【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/b894f63f1ff3c67f19601c7f352ccf72.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240688",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「チキンステーキ ペッパーオニオンライス」を世界一詳しく調査しました。   公式YouTube […]",
+          "link": "https://foodfighter.jp/711sej-chicken-steak-rice-2024",
+          "publishedOn": "2024-03-30T18:21:49.000Z",
+          "wordCount": 1794,
+          "title": "【セブンイレブン】チキンステーキ ペッパーオニオンライス【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/c2fcafcffac7c3761fbcfe336c7b286f.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240686",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年3月24日から3月30日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全8種類）を美味しい・おすすめ順 […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0331",
+          "publishedOn": "2024-03-30T17:48:08.000Z",
+          "wordCount": 1829,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年3月24日から3月30日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/841874892b87254d4d663142a45775b4.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240662",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、松屋フーズが展開するカレー専門店「マイカリー食堂」へ進撃しました。   公式YouTu […]",
+          "link": "https://foodfighter.jp/mycurry-butter-chicken-curry",
+          "publishedOn": "2024-03-30T14:41:33.000Z",
+          "wordCount": 1831,
+          "title": "【マイカリー食堂】ごろごろ野菜バターチキンカレー・トッピングチキン・大盛り【松屋併設店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/a12b33be7e29be841b6413b7238edbca.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240640",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「濃厚スープを絡めて食べるコク旨焼ちゃんぽん」を世界一詳しく調査しました。   公式YouTu […]",
+          "link": "https://foodfighter.jp/711sej-yaki-champon",
+          "publishedOn": "2024-03-30T08:55:41.000Z",
+          "wordCount": 1790,
+          "title": "【セブンイレブン】濃厚スープを絡めて食べるコク旨焼ちゃんぽん【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/636ddf35ba4e6485561214790dcb5f56.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240621",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/nakau-matcha-latte",
+          "publishedOn": "2024-03-29T18:19:17.000Z",
+          "wordCount": 1850,
+          "title": "【なか卯】白玉宇治抹茶ラテ【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/c1bdbc8fe5bc024dbdafa9fb93698166.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240616",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年3月23日から3月29日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキ […]",
+          "link": "https://foodfighter.jp/ranking-2024-0330",
+          "publishedOn": "2024-03-29T11:00:50.000Z",
+          "wordCount": 1776,
+          "title": "【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年3月23日から3月29日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/2d7b347cc85b0cbf08f0167bc6461687.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240597",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ミニストップの新商品「ミニストッピング」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]",
+          "link": "https://foodfighter.jp/ministop-mango-sauce",
+          "publishedOn": "2024-03-29T03:11:34.000Z",
+          "wordCount": 1789,
+          "title": "【ミニストップ】ソフトクリームバニラ・マンゴー＆パッションフルーツソース【新作コールドスイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/043039b93fe8faf6802803b5ec285f28.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240574",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”挽きたて”・”打ちたて”・”茹でたて”にこだわる江戸切りそばチェーン「ゆで太郎（もつ次郎併設）」へ […]",
+          "link": "https://foodfighter.jp/motsujiro-motsunabe-ramen",
+          "publishedOn": "2024-03-29T00:02:57.000Z",
+          "wordCount": 1832,
+          "title": "【もつ次郎】もつ鍋ラーメン小盛ごはんセット【定番メニュー・ゆで太郎併設】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/8e9e522bc3309441b646e879bb88e200.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=240550",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム あずき練乳氷」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
+          "link": "https://foodfighter.jp/711sej-azuki-milk-ice",
+          "publishedOn": "2024-03-28T22:50:37.000Z",
+          "wordCount": 1793,
+          "title": "【セブンイレブン】セブンプレミアム あずき練乳氷【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/ace2c9b9ec3d7533510f33cbc3e738f0.jpg"
+        }
+      ]
+    },
+    {
+      "title": "痛いニュース(ﾉ∀`)",
+      "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
+      "siteUrl": "https://itainews.com/",
+      "articles": [
+        {
+          "id": "https://itainews.com/archives/2034291.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：(栃木県)(庭)：2024/03/30(土) 14:08:42.96 ID:D9JyD13/0●.net\n\n\n\n\n\n\n\n\n\n水浴び#ハシビロコウ#shoebill#神戸どうぶつ王国 pic.twitter.com/mdRqXUoPgk— Momo (@misayooooooo) March 29, 2024 \n\n\n\n\n\n\n\n『オエー！』２ちゃんねるで良く見かけるあの鳥の元ネタは？\nht...",
+          "link": "https://itainews.com/archives/2034291.html",
+          "publishedOn": "2024-03-31T05:01:10.000Z",
+          "wordCount": 2595,
+          "title": "【画像】『オエー！』のAAを超える実写のハシビロコウが見つかる",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/1/21822da4-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034282.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Ailuropoda melanoleuca ★：2024/03/30(土) 14:14:19.40 ID:9FKdo3AX9.net\n\n\n\n\n\n\n\n\n\n5人の死亡例が確認された小林製薬『紅麹』製品を使用した料理レシピサイトが公開中のまま「ふざけてんの？」SNSで疑問の声 : https://t.co/Tg0ooTygHW ##小林製薬　#紅麹　#レシピ...",
+          "link": "https://itainews.com/archives/2034282.html",
+          "publishedOn": "2024-03-31T03:01:26.000Z",
+          "wordCount": 2939,
+          "title": "5人の死亡例が確認された小林製薬『紅麹』製品を使用した料理レシピサイトが公開中のまま「ふざけてんの？」SNSで疑問の声",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/3/c3726aa7-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034274.html",
+          "author": "damono3856",
+          "description": "1 名前：あ：2024/03/30(土) 10:51:50.74 ID:7AclvpfT0.net\n\n\n\n\n\n\n\nドイツでは、ホームレスが凍死しない様に避難用のポッドが町に配置されている。日本では、ホームレスを追い出すベンチが公園に配置されている。負けたのはGDPだけでは無かった。 pic.twitter.com/fppvVt...",
+          "link": "https://itainews.com/archives/2034274.html",
+          "publishedOn": "2024-03-30T20:12:53.000Z",
+          "wordCount": 5523,
+          "title": "【画像】　れいわ新選組の支持者　「ドイツのホームレス対策すげえぇぇ。日本はゴミ」　→",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/5/b56d4e04-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034273.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2024/03/30(土) 10:48:40.03 ID:tiYcUQQc9.net\n\n\n\n\n\n\n\n読書感想文コンクール AI生成文章を不適切引用で審査対象外にhttps://t.co/TNmxJBgM5C #nhk_news— NHKニュース (@nhk_news) March 29, 2024  \n\n\n\n\n\n\n小学生から高校生まで多数の応募が...",
+          "link": "https://itainews.com/archives/2034273.html",
+          "publishedOn": "2024-03-30T14:02:03.000Z",
+          "wordCount": 4162,
+          "title": "読書感想文コンクール AI生成文章を不適切引用で審査対象外に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/5/f558dd27-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034270.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2024/03/30(土) 10:42:41.01 ID:tiYcUQQc9.net\n\n\n\n\n\n\n\n死ぬほど苦しんだ娘に「免疫がついてよかったね」…親が“自然派”でワクチン打たず、「はしか」感染で入院(ABEMA TIMES)#Yahooニュースhttps://t.co/QZ1Wtt0lwd— Lunapy (@pikarasukar...",
+          "link": "https://itainews.com/archives/2034270.html",
+          "publishedOn": "2024-03-30T13:08:16.000Z",
+          "wordCount": 4135,
+          "title": "死ぬほど苦しんだ娘に「免疫がついてよかったね」…親が“自然派”でワクチン打たず、「はしか」感染で入院",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/d/0d6ab746-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034272.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/03/29(金) 12:13:02.05 ID:a6R2Zse20●.net\n\n\n\n\n\n\n\n\n\n十勝池田町の肉牛農家の方の敷地内にて無断で車で侵入し、牛舎で大学生複数人が動画撮影を行う迷惑行為被害が発生しました😔衛生管理区域内への無断侵入は大切な牛達の命を脅かしま...",
+          "link": "https://itainews.com/archives/2034272.html",
+          "publishedOn": "2024-03-30T12:01:09.000Z",
+          "wordCount": 3353,
+          "title": "まんこ2人「うちら神戸大と違って三流大学なんで大丈夫です」牧場主「帰ってください」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/3/c315eca7.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034268.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/03/30(土) 07:13:26.73 ID:d06qw/rR0●.net\n\n\n\n\n\n\n\n徳島県立高タブレット故障　高温下で保管が原因かhttps://t.co/adUWdA5GnL納入業者が学校現場を調べたところ、空調を切った放課後の教室や風通しの悪い場所など、温度が高くなる...",
+          "link": "https://itainews.com/archives/2034268.html",
+          "publishedOn": "2024-03-30T11:04:10.000Z",
+          "wordCount": 3920,
+          "title": "CHUWIのタブレット大量故障、悪かったのは保管環境と判明。ごめんなさい。納入：四国電力、解析：沖",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/69f4c949-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034265.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/03/29(金) 18:43:51.39 ID:/g49UnQM0●.net\n\n\n\n\n\n\n\n\n\n\n高校生ら“ジェンダーを意識”の新制服を披露　女子生徒はスラックスやネクタイも選べるように https://t.co/1Mm8xJtHrB #MBSニュース #ニュース— MBSニュース (@mbs_news) March...",
+          "link": "https://itainews.com/archives/2034265.html",
+          "publishedOn": "2024-03-30T10:01:04.000Z",
+          "wordCount": 3678,
+          "title": "ジェンダーを意識した学生服。女子生徒はスラックスやネクタイなどを選べるようになっています",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/c/2c466f5a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034264.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：令和大日本憂国義勇隊：2024/03/29(金) 15:11:22.83 ID:Bjfe22PG0.net \n\n\n\n\n\n\n\n\n特定技能の外国人、5年で82万人に拡大　政府が閣議決定https://t.co/tycJl1j9f9— 日本経済新聞 政治･外交　Nikkei Politics (@nikkeiseijibu) March 29, 2024 \n\n\n\n\n\n\n\n\n\n特定技能の外...",
+          "link": "https://itainews.com/archives/2034264.html",
+          "publishedOn": "2024-03-30T09:01:57.000Z",
+          "wordCount": 5396,
+          "title": "自民党「移民の受け入れを２倍に増やす。日本国民は外国人の生活を保障し、共生する責務がある」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/7364fd2e-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034261.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：仮面ウニダー ★：2024/03/29(金) 07:16:08.43 ID:kBbX+HRT.net\n\n\n\n\n\n\n\n\n\n女性教師が涙の訴え「生徒の人権のためだった」　「日の丸・君が代」に従わず、再任用されない春を迎えたhttps://t.co/6lEFlqT4j4東京新聞 TOKYO Web https://t.co/6lEFlqT4j4— 東京新聞編集...",
+          "link": "https://itainews.com/archives/2034261.html",
+          "publishedOn": "2024-03-30T07:01:50.000Z",
+          "wordCount": 4380,
+          "title": "【東京新聞】 女性教師が涙の訴え「生徒の人権のためだった」「日の丸・君が代」に従わず、再任用されない春を迎えた",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/d/7d0a7a99-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034267.html",
+          "author": "damono3856",
+          "description": "1 名前：バイト歴50年 ★\n2024/03/30(土) 06:10:26.09ID:TvyL3jS79\n\n\n\n\n\n\n\n【紅麹問題】「悪く言えば死を待っているだけ」台湾でも70歳女性が「急性腎不全」に　夫は被害を訴え「日本は問題解決を」 #FNNプライムオンライン https://t.co/wQyBhLlZ5p— FNNプライムオンラ...",
+          "link": "https://itainews.com/archives/2034267.html",
+          "publishedOn": "2024-03-30T05:05:41.000Z",
+          "wordCount": 3106,
+          "title": "サプリ”摂取の台湾の70歳女性　急性腎不全を発症　小林製薬「紅麹」が原料「悪く言えば死を待ってるだけ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/5/65b03a43-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034259.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Anonymous ★：2024/03/29(金) 12:53:38.90 ID:iBH6/IlC9.net\n\n\n\n\n\n\n\n\n\nさきほど下記の番組の放送を中断しました。まだ公開停止にしていませんが、中段の理由と背後にある問題意識について話します。いまの日本社会で「中高年男性であること」とは何かという問題に関...",
+          "link": "https://itainews.com/archives/2034259.html",
+          "publishedOn": "2024-03-30T03:01:34.000Z",
+          "wordCount": 3608,
+          "title": "東浩紀　コメント欄で「口臭がきつい」と書かれたため番組の放送を中断「それはヘイトです」「今の日本で中高年男性であることは難しい」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/a/7a19d1c8-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034258.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：香味焙煎 ★：2024/03/29(金) 18:57:53.85 ID:FrZ8eLxT9.net\n\n\n\n\n\n\n\n\n\nすき家が初の深夜料金を導入…合計金額の7％　牛丼も値上げで「並盛」は税込400円→430円に #FNNプライムオンライン https://t.co/3vBQg0YhbR— FNNプライムオンライン (@FNN_News) March 29, 20...",
+          "link": "https://itainews.com/archives/2034258.html",
+          "publishedOn": "2024-03-30T02:01:17.000Z",
+          "wordCount": 3265,
+          "title": "すき家が初の深夜料金を導入…合計金額の7％　牛丼も値上げで「並盛」は税込400円→430円に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/69d7ca98-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034247.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2024/03/29(金) 12:11:04.48 ID:JZNqNFn/9.net\n\n\n\n\n\n\n\n飲食店座席の鉄板上にカセットこんろ置き爆発　ボンベ当たった女性が死亡　77歳男性店主を起訴 https://t.co/jxDxxc9VH0 伊丹市の飲食店で、肉を焼いていたカセットこんろが爆発して利用...",
+          "link": "https://itainews.com/archives/2034247.html",
+          "publishedOn": "2024-03-29T20:08:02.000Z",
+          "wordCount": 3089,
+          "title": "【兵庫】飲食店座席の鉄板上にカセットこんろ置き爆発　ボンベ当たった女性が死亡　77歳男性店主を起訴",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/a/7ade1604-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034248.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Anonymous ★：2024/03/29(金) 12:36:11.29 ID:iBH6/IlC9.net\n\n\n\n\n\n\n\n\nアニメは1、2話を見て絶望し、1度は視聴を断念友達の支えにより3、4話を見たが、ギブアップ半年ショックで執筆できず、酒浸り売上は1巻だけで22ヶ月で19回重版(全巻なら54回)したが、アニメ後は3...",
+          "link": "https://itainews.com/archives/2034248.html",
+          "publishedOn": "2024-03-29T15:01:10.000Z",
+          "wordCount": 4231,
+          "title": "ライトノベル作家　アニメ化した自身の作品「1、2話を見て絶望、4話でギブアップ」「1巻は22ヶ月で19回重版したが、アニメ後は0回」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/ab624647-s.png"
+        }
+      ]
+    },
+    {
+      "title": "肉球ドットコム（299.com）",
+      "feedUrl": "http://2-9-9.com/feed",
+      "siteUrl": "https://2-9-9.com",
+      "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70574",
+          "author": "299",
+          "description": "黒トラ猫さんが茶トラ猫さんに体をスリスリさせると、それに応えるように茶トラ猫さんが黒トラ猫さんの頭を舐めてあげています。２匹ともとても仲良しさんのようです。 その黒トラ猫さんがくるりと向きを変えると、ちょうどお尻のところ...\nお尻が臭すぎてボーゼンとするニャンコが面白すぎた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70574",
+          "publishedOn": "2024-03-31T02:00:11.000Z",
+          "wordCount": 1340,
+          "title": "お尻が臭すぎてボーゼンとするニャンコが面白すぎた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70574.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70569",
+          "author": "299",
+          "description": "鳥の巣には置き去りにされてしまった卵たちがポツンとありました。親鳥は不幸にも捕獲されてしまい、この巣に戻ってくることはありません。 そこで主さんは、不憫に思い、この2つの卵を持ち帰り孵化させることにしたのです。 しばらく...\n親鳥のいない巣に残された卵から生まれたひよこが猫を親鳥と勘違い！？ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70569",
+          "publishedOn": "2024-03-30T20:00:22.000Z",
+          "wordCount": 1335,
+          "title": "親鳥のいない巣に残された卵から生まれたひよこが猫を親鳥と勘違い！？",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70569.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70561",
+          "author": "299",
+          "description": "部屋の隅に、たくさんの猫のための食器が並んでいます。このお家には総勢14匹の猫たちが暮らしているようです。 ごはんの時間が近づいてくると、ニャーニャーと大声を張り上げて鳴く猫さんもいるようです。でもほとんどの猫さんたちは...\n14匹の猫たちのごはん風景が凄すぎる！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70561",
+          "publishedOn": "2024-03-30T13:00:55.000Z",
+          "wordCount": 1337,
+          "title": "14匹の猫たちのごはん風景が凄すぎる！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70561.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70556",
+          "author": "299",
+          "description": "ダンボールの寝床のなかに入れられているキジトラの子猫が不安そうな声で鳴き続けています。この子猫は、なんと整備中の車のなかから保護された運の良い子です。 無事に保護されてやってきたお家ですが、子猫にとっては知らない場所なの...\n不安そうに鳴く保護猫を優しくお世話する先住猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70556",
+          "publishedOn": "2024-03-30T08:00:27.000Z",
+          "wordCount": 1336,
+          "title": "不安そうに鳴く保護猫を優しくお世話する先住猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70556.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70551",
+          "author": "299",
+          "description": "見た目がとてもよく似ている子猫の兄弟が、短い足でヨチヨチと歩き回っています。部屋の中を匂いを嗅ぎながら探検中のようです。 まだまだ赤ちゃんっぽい見た目の子猫たちですが、すでに兄弟同士のにゃんプロレスも楽しめるほどに成長し...\n子猫のにゃんプロに兄弟猫たちも次々参戦！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70551",
+          "publishedOn": "2024-03-30T02:00:50.000Z",
+          "wordCount": 1338,
+          "title": "子猫のにゃんプロに兄弟猫たちも次々参戦！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70551.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70547",
+          "author": "299",
+          "description": "椅子の上に座っているお父さんの膝の上には大量の子猫たちであふれかえっています！こんな子猫天国が満喫できちゃうお父さんが羨ましすぎます。 総勢５匹の子猫たちはお父さんの膝の上でそれぞれがまったりしていますがお父さんの両脇に...\nお父さんの膝の上では子猫たちがひしめいています first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70547",
+          "publishedOn": "2024-03-29T20:00:05.000Z",
+          "wordCount": 1333,
+          "title": "お父さんの膝の上では子猫たちがひしめいています",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70547.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70538",
+          "author": "299",
+          "description": "普段から庭に住んでいる三毛猫家族が、雨に濡れてしまって全身びしょ濡れになってしまったようです。まだ雨はやみそうにないので、しばらくは家の中で雨宿りをしてもらうことにしました。 まずは濡れてしまった毛をタオルで拭いてあげま...\n大雨なので三毛猫家族に雨宿りしてもらいます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70538",
+          "publishedOn": "2024-03-29T13:00:44.000Z",
+          "wordCount": 1334,
+          "title": "大雨なので三毛猫家族に雨宿りしてもらいます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70538.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70534",
+          "author": "299",
+          "description": "子猫が寝ている様子を眺めていると幸せな気持ちになれるのはなぜなのでしょうか。手のひらの上に乗って体を丸めてぐっすりと眠っている子猫の寝顔は、まさに天使のようです。 次々と登場する子猫たちは、みんな飼い主さんの手のひらの上...\n手のひらの上に乗せた子猫たちの幸せそうな寝顔に心がとろけます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70534",
+          "publishedOn": "2024-03-29T08:00:08.000Z",
+          "wordCount": 1334,
+          "title": "手のひらの上に乗せた子猫たちの幸せそうな寝顔に心がとろけます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70534.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70530",
+          "author": "299",
+          "description": "飼い主さんが目覚めると、なんと両足の間にすっぽりとおさまって気持ちよさそうに爆睡しているにゃんこの姿が目に入りました。 足の間、つまり股の間は猫さんにとっては、しっかり安定した体勢で眠ることができるので人気の場所なのです...\n目覚めたら猫さんがゴキゲンで足の間に挟まって寝ていた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70530",
+          "publishedOn": "2024-03-29T02:00:28.000Z",
+          "wordCount": 1334,
+          "title": "目覚めたら猫さんがゴキゲンで足の間に挟まって寝ていた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70530.jpeg"
+        },
+        {
+          "id": "https://2-9-9.com/?p=70525",
+          "author": "299",
+          "description": "お母さん猫のまわりには、なんと８匹もの子猫たちがくっついています。子沢山なお母さん猫は、さすがに育児疲れの様子です。 たまには自分の時間も欲しいお母さん猫ですが、子猫たちはそんなことはお構いなしで、ずっとお母さんの後を追...\n子猫から離れてひとりになりたかった母猫が窓際にジャンプ！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70525",
+          "publishedOn": "2024-03-28T20:00:54.000Z",
+          "wordCount": 1339,
+          "title": "子猫から離れてひとりになりたかった母猫が窓際にジャンプ！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/03/70525.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "有吉の壁【公式】壁チャンネル",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
+      "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KMDEcsKFwG4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KMDEcsKFwG4",
+          "publishedOn": "2024-03-27T12:00:16.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】AIが選んだ最強大反省会を覗き見【さらば青春の光森田／シソンヌじろう／とにかく明るい安村／マヂカルラブリー野田／ジャングルポケット斉藤／サンシャイン池崎】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=L8dzGEdbs1U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L8dzGEdbs1U",
+          "publishedOn": "2024-03-24T03:00:09.000Z",
+          "wordCount": null,
+          "title": "【祝】有吉さん・かたまり第1子誕生おめでとう！【#有吉の壁】#short",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GRCbFovdmfg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GRCbFovdmfg",
+          "publishedOn": "2024-03-24T03:00:06.000Z",
+          "wordCount": null,
+          "title": "【祝】有吉さん・かたまり第1子誕生おめでとう！【有吉の壁】【オープニング先行】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ybw4Hzp6PNE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ybw4Hzp6PNE",
+          "publishedOn": "2024-03-23T03:00:43.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】27日水曜よる７時〜▼おもしろ巨大百貨店の人選手権▼アドリブ大河▼AIが選んだ最強コンビ選手権【予告】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-8glEd23ZD8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-8glEd23ZD8",
+          "publishedOn": "2024-03-23T03:00:00.000Z",
+          "wordCount": null,
+          "title": "【実験企画】AIが選んださらば森田の相方は？【有吉の壁】#shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pj9jcgIywsY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pj9jcgIywsY",
+          "publishedOn": "2024-03-23T02:58:07.000Z",
+          "wordCount": null,
+          "title": "【超実験企画】AIが選んだ相手と最強コンビを結成!?コンビ発表会【有吉の壁】【オープニング先行】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9lWfWoMExgg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9lWfWoMExgg",
+          "publishedOn": "2024-03-20T10:54:00.000Z",
+          "wordCount": null,
+          "title": "【鬼才有吉監督最新作】面白殿の17人〜春の陣〜【有吉の壁】【オープニング先行】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M8vZDKNWMRg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M8vZDKNWMRg",
+          "publishedOn": "2024-03-20T10:54:00.000Z",
+          "wordCount": null,
+          "title": "【アドリブ大河】ジャンポケ太田の新武将「黒田官兵衛」ならぬ「黒田○○」【有吉の壁】#shots",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=A82z99L1NU4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A82z99L1NU4",
+          "publishedOn": "2024-03-17T03:00:06.000Z",
+          "wordCount": null,
+          "title": "【発売決定】安村フィギュアで最悪アクシデント発生!?【有吉の壁】#shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gzpdpILV80s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gzpdpILV80s",
+          "publishedOn": "2024-03-16T03:00:07.000Z",
+          "wordCount": null,
+          "title": "【アクシデント発生】安村おもしろ全裸ポーズに挑戦【有吉の壁】【オープニング先行】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PCuIA1mejF0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PCuIA1mejF0",
+          "publishedOn": "2024-03-14T10:00:17.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】20日水曜よる７時〜▼おもしろ巨大スパの人選手権▼ブレイクアーティスト選手権【予告】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oZ6RGtVcT5Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oZ6RGtVcT5Q",
+          "publishedOn": "2024-03-13T10:54:00.000Z",
+          "wordCount": null,
+          "title": "【麻雀好き必見】YMJ/君に、麻ジャン。【有吉の壁】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kXGktsXd3KI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kXGktsXd3KI",
+          "publishedOn": "2024-03-07T10:00:40.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】3月13日水曜よる７時〜▼おもしろ刑事ドラマの人選手権【予告】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zFFp0TZ50IU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zFFp0TZ50IU",
+          "publishedOn": "2024-03-06T10:00:48.000Z",
+          "wordCount": null,
+          "title": "【副業】笑い飯哲夫「6足のわらじ」で新聞から取材【有吉の壁】【オープニング先行】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BAM98R4aXaA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BAM98R4aXaA",
+          "publishedOn": "2024-03-06T10:00:07.000Z",
+          "wordCount": null,
+          "title": "【副業】笑い飯哲夫「6足のわらじ」で新聞から取材【#有吉の壁】#shorts",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
