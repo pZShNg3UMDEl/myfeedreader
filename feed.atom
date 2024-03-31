@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T08:36:33.878Z</updated>
+    <updated>2024-03-31T08:50:35.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民 派閥の政治資金問題で安倍派幹部ら約40人 党紀委で処分へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408581000.html"/>
+        <updated>2024-03-31T08:41:47.000Z</updated>
+        <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる問題で、自民党執行部は、安倍派の幹部や、収支報告書の不記載などが5年間で500万円以上あった議員ら、あわせておよそ40人を党紀委員会で処分する方向で調整に入りました。安倍派の幹部のうち、最も重い処分は離党勧告とすることを検討しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年3月24日から3月30日】]]></title>
         <id>https://foodfighter.jp/?p=240731</id>
