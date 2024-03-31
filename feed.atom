@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T22:50:10.124Z</updated>
+    <updated>2024-03-31T23:12:17.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ローマ教皇 復活祭のスピーチで紛争犠牲者を悼み 停戦呼びかけ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408901000.html"/>
+        <updated>2024-03-31T22:13:45.000Z</updated>
+        <summary type="html"><![CDATA[ローマ・カトリック教会のフランシスコ教皇は、復活祭の恒例のスピーチでガザ地区やウクライナなどで続く紛争の犠牲者を悼み、ガザ地区での一刻も早い停戦を改めて呼びかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【すき家】うな牛【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=240740</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブチャ解放2年で犠牲者を追悼 ロシア軍事侵攻で市民が多数犠牲]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408791000.html"/>
+        <updated>2024-03-31T21:59:16.000Z</updated>
+        <summary type="html"><![CDATA[ロシア軍による軍事侵攻で多くの市民が犠牲になった、ウクライナの首都キーウ近郊のブチャが解放されてから2年となったのに合わせて市内では31日、新たに整備された公園で犠牲者を追悼するための植樹などが行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -32,6 +52,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408881000.html"/>
         <updated>2024-03-31T21:00:22.000Z</updated>
         <summary type="html"><![CDATA[石川県で最大震度7の揺れを観測した能登半島地震の発生から4月1日で3か月です。今も8000人を超える人が避難所に身を寄せているほか、各地で断水が続くなど、被災者は厳しい環境での暮らしを余儀なくされていて、住まいの確保をはじめとした、生活再建に向けた支援が課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震3か月 富山 液状化被害の復旧 住まい再建など課題]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408771000.html"/>
+        <updated>2024-03-31T20:59:04.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発生から1日で3か月です。富山県では液状化などの影響で1万6000棟を超える住宅に被害が出ていて、液状化した地盤の復旧や、被災した人の住まいとなりわいの再建が課題です。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
