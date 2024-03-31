@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T23:37:30.712Z</updated>
+    <updated>2024-03-31T23:50:11.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 ことしも複数の軍事偵察衛星を打ち上げ予定 再度強調]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408971000.html"/>
+        <updated>2024-03-31T23:02:05.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮の国家航空宇宙技術総局は、去年11月に打ち上げに成功したとする軍事偵察衛星について「国家防衛力の強化で大きな進展を成し遂げた」としたうえで、ことしも複数の軍事偵察衛星を打ち上げる予定だと改めて強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ペルー大統領 高級腕時計の不正取得容疑などで捜査当局が捜索]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408951000.html"/>
+        <updated>2024-03-31T22:20:04.000Z</updated>
+        <summary type="html"><![CDATA[南米ペルーの捜査当局は、ボルアルテ大統領が高級腕時計を不正に取得したうえ、資産として申告しなかった疑いがあるとして、大統領の自宅などを捜索しました。これに対し大統領側は「根拠のない過剰な捜査だ」などと反発しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ローマ教皇 復活祭のスピーチで紛争犠牲者を悼み 停戦呼びかけ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014408901000.html</id>
