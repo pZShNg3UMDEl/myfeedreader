@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T23:22:09.996Z</updated>
+    <updated>2024-03-31T23:37:30.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -42,6 +42,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408821000.html"/>
         <updated>2024-03-31T21:55:17.000Z</updated>
         <summary type="html"><![CDATA[4月1日から運送業と建設業、それに医師の3つの業種で、時間外労働の上限規制が始まります。長時間労働の是正が期待される一方で、労働時間の減少によって、物流や地域医療などに支障が生じると指摘されている、いわゆる「2024年問題」に、社会がどう対応していくかが課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震3か月 新潟 佐渡 防波堤乗り越える津波映像 撮影]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408931000.html"/>
+        <updated>2024-03-31T21:02:06.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発生から1日で3か月です。新潟県佐渡市では、地震発生からおよそ15分後に防波堤を乗り越える津波の様子が撮影されていました。専門家は「能登半島に比較的近い佐渡の津波の映像は、記録が少ない今回の津波の実態を知るうえで重要な手がかりだ」と指摘しています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
