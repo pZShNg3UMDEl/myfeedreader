@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T07:22:14.656Z</updated>
+    <updated>2024-03-31T07:36:03.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[阪神 開幕から連続無得点19イニング セのワースト記録を更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408471000.html"/>
+        <updated>2024-03-31T07:22:09.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球の阪神は、開幕から2試合連続で完封負けを喫し、31日の巨人との試合も1回の攻撃が0点に終わりました。これで開幕からの連続無得点が19イニングとなりセ・リーグのワースト記録を更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【SMILE-UP.】東山紀之、誹謗中傷は「言論の自由」発言で波紋！　BBC続編でスタッフ2人の性的虐待認める]]></title>
         <id>https://itainews.com/archives/2034281.html</id>
