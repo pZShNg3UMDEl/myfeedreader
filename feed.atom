@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T16:29:28.662Z</updated>
+    <updated>2024-03-31T16:40:22.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楽天グループ 金融事業の大規模な再編行う方針固める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014408761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014408761000.html"/>
+        <updated>2024-03-31T16:32:38.000Z</updated>
+        <summary type="html"><![CDATA[楽天グループが、傘下の金融事業の大規模な再編を行う方針を固めたことが明らかになりました。銀行やクレジットカードなどの子会社を1つのグループに集約し、経営の効率化や連携の強化を進めるねらいです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3DS、サービス終了でフィルタリング外せない模様…]]></title>
         <id>https://switchsoku.com/?p=99657</id>
