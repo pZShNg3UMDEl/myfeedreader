@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T12:44:49.797Z</updated>
+    <updated>2024-03-31T12:56:27.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -134,6 +134,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[石川 能登町「あばれ祭」存続に 東日本大震災教訓生かす講演会]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408701000.html"/>
+        <updated>2024-03-31T10:55:05.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災し、石川県能登町の伝統、「あばれ祭」の開催が危ぶまれる中、東日本大震災の教訓を生かそうと、岩手県の伝統芸能の存続に取り組んだ団体の代表を招いた講演会が開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“イスラエル交渉団 エジプト訪問 交渉再開へ” 現地メディア]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240331/k10014408651000.html</id>
         <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408651000.html"/>
@@ -149,6 +159,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408491000.html"/>
         <updated>2024-03-31T10:31:05.000Z</updated>
         <summary type="html"><![CDATA[4月1日、新年度も食品の値上げが続きそうです。そのほか、公的年金や公的医療保険などの制度の変更が行われます。私たちの暮らしにどのような影響があるのでしょうか。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[林官房長官 那覇市長らと会談 “基地負担軽減に向け取り組む”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408671000.html"/>
+        <updated>2024-03-31T10:17:24.000Z</updated>
+        <summary type="html"><![CDATA[林官房長官は訪問先の沖縄県で那覇市や浦添市など在日アメリカ軍の施設がある自治体の長と相次いで会談し、まちづくりの課題や地元の要望などを踏まえて、基地負担の軽減に向けて取り組む考えを伝えました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
