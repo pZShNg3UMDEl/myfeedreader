@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T11:10:36.478Z</updated>
+    <updated>2024-03-31T11:20:52.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[2024年放送予定のテレビアニメ「やり直し令嬢は竜帝陛下を攻略中」で内田秀と戸谷菊之介が主演を務めることが決定した。ティザーPVとティザービジュアルも公開されている。 原作は、アニメ化もされた「...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“イスラエル交渉団 エジプト訪問 交渉再開へ” 現地メディア]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408651000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408651000.html"/>
+        <updated>2024-03-31T10:48:15.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの間で続く戦闘の休止などをめぐる交渉について、現地のメディアは31日にイスラエルの交渉団がエジプトを訪れると伝えました。一方、イスラエル国内では、強硬姿勢を崩さず人質の解放を実現できないネタニヤフ首相への批判が高まっていて、大規模な抗議集会も開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -100,6 +110,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408571000.html"/>
         <updated>2024-03-31T09:58:05.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県輪島市で地震のあと4分の1の防災行政無線が使えない状態になっている上、住民に周知されていないことがわかりました。住民からは戸惑いの声があがっていて、専門家は「防災行政無線で情報が届けられると思っている住民も少なくない。使えなくなっている事実を伝え別の情報収集の手段を確保してもらうよう呼びかけるべきだ」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 輪島 飲食店店主など3か月続けてきた炊き出し きょう終了]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240331/k10014408601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240331/k10014408601000.html"/>
+        <updated>2024-03-31T09:29:56.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で大きな被害を受けた石川県輪島市で、地元の飲食店の店主などが3か月続けてきた炊き出しが3月31日で終了しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
