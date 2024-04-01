@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T03:14:04.059Z</updated>
+    <updated>2024-04-01T03:25:33.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株価 600円以上値下がり 日銀短観受け幅広い銘柄に売り注文]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409191000.html"/>
+        <updated>2024-04-01T03:16:25.000Z</updated>
+        <summary type="html"><![CDATA[週明け4月1日の東京株式市場、日経平均株価は、日銀の短観＝企業短期経済観測調査の結果を受けて、企業業績の先行きに対する警戒感から幅広い銘柄に売り注文が広がり、午前中、600円以上値下がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル 人質解放めぐり抗議集会 首相“全力尽くしている”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409121000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409121000.html"/>
+        <updated>2024-04-01T03:08:29.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルでは人質解放を実現できていないネタニヤフ首相への批判が高まっていて、3月31日には大規模な抗議集会が行われました。こうした中、ネタニヤフ首相は会見を開き、人質解放に向けて全力を尽くしていると強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NY市のAIチャットボット「MyCity Chatbot」、「危険なほど不正確」な情報提供で批判を浴びる]]></title>
         <id>https://gadget.phileweb.com/?p=72785</id>
