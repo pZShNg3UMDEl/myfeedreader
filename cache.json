@@ -584,6 +584,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240402/k10014409981000.html",
+          "author": null,
+          "description": "大リーグ、カブスの今永昇太投手が1日、ロッキーズ戦で移籍後、初先発を果たし、9つの三振を奪う好投で6回を無失点に抑え、デビュー戦で初勝利をあげました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240402/k10014409981000.html",
+          "publishedOn": "2024-04-01T23:03:12.000Z",
+          "wordCount": 774,
+          "title": "カブス 今永昇太 デビュー戦で初勝利 9奪三振 6回無失点",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240402/K10014409981_2404020745_0402080314_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240402/k10014409971000.html",
           "author": null,
           "description": "東北新幹線は、福島駅での工事車両故障の影響で、午前7時半現在、福島駅と仙台駅の間の上下線で運転を見合わせています。",
@@ -2034,6 +2044,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120965/",
+          "author": null,
+          "description": "4月19日公開の「劇場版ブルーロック ‐EPISODE 凪‐」の公開第1、2週の入場特典が発表された。さらに、ゲスト声優としてお笑いコンビ「霜降り明星」のせいやが出演することが決定。ベテラン声優...",
+          "link": "https://anime.eiga.com/news/120965/",
+          "publishedOn": "2024-04-01T23:00:00.000Z",
+          "wordCount": 1537,
+          "title": "「劇場版ブルーロック」入場特典は描き下ろし漫画小冊子　「霜降り明星」せいやのゲスト出演も決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120964/",
           "author": null,
