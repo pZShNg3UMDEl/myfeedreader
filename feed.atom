@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T16:39:31.219Z</updated>
+    <updated>2024-04-01T16:50:22.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダマスカスのイラン領事館 イスラエルが空爆 シリア国営通信]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014409861000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014409861000.html"/>
+        <updated>2024-04-01T16:41:21.000Z</updated>
+        <summary type="html"><![CDATA[シリアの国営通信は1日、首都ダマスカスにあるイランの領事館がイスラエルによる空爆を受けたと伝えました。またシリア人権監視団は、この攻撃によってこれまでに6人が死亡したとしています。また、イランの国営テレビもダマスカスにあるイラン領事館の建物が攻撃を受けたとしていますが、大使とその家族は無事だと伝えています。一方この攻撃について、イスラエルは今のところ一切コメントしていません。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STMicroelectronics and CEA LETI develop microlenses for SPADs]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html</id>
