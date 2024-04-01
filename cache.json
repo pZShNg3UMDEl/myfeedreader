@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/01/news024.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、第2世代のマイクロプロセッサ「STM32MP2」シリーズを発表した。同社製品では初という、64ビットArm Cortex-A35コアを搭載した汎用マイクロプロセッサだ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/01/news024.html",
+          "publishedOn": "2024-04-01T00:00:00.000Z",
+          "wordCount": 2595,
+          "title": "64ビット「Arm Cortex-A35コア」を搭載したマイクロプロセッサ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/01/cover_news024.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2403/29/news079.html",
           "author": null,
           "description": "マクニカは、近藤電子工業と共同で、AlteraのAgilex 5デバイス搭載評価ボード「Mpression Sulfur」を開発した。Agilex 5 FPGA & SoC Eシリーズを搭載していて、SOMと豊富なインタフェースを搭載したキャリアボードをセットにした。",
@@ -534,6 +544,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408961000.html",
+          "author": null,
+          "description": "日銀が発表した短観＝企業短期経済観測調査で、大企業の製造業の景気判断を示す指数は、プラス11ポイントでした。前回の調査を2ポイント下回り、4期ぶりに悪化しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014408961000.html",
+          "publishedOn": "2024-03-31T23:53:17.000Z",
+          "wordCount": 421,
+          "title": "日銀短観 大企業製造業の景気判断 4期ぶり悪化",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014408961_2404010857_0401085811_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240401/k10014408971000.html",
           "author": null,
           "description": "北朝鮮の国家航空宇宙技術総局は、去年11月に打ち上げに成功したとする軍事偵察衛星について「国家防衛力の強化で大きな進展を成し遂げた」としたうえで、ことしも複数の軍事偵察衛星を打ち上げる予定だと改めて強調しました。",
@@ -980,6 +1000,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99661",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/31(日) 19:23:03.47 ID:gedSnzHD0 Game Inf […]",
+          "link": "https://switchsoku.com/soft/zelda/99661",
+          "publishedOn": "2024-04-01T00:00:59.000Z",
+          "wordCount": 10229,
+          "title": "史上最高のゲーム決定戦で『ゼルダの伝説 時のオカリナ』が優勝",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2018/09/tokioka.jpg"
+        },
         {
           "id": "https://switchsoku.com/?p=99657",
           "author": "SWITCH速報",
@@ -2134,6 +2164,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41922",
+          "author": "comomo",
+          "description": "スコーンといえばアフタヌーンティー！と思う英在歴1年ももこ＠あつらぼです。 スコーン好きさんに朗報♡ 厚木市東町に甘糀、塩糀のスコーンとおやつ「菓子店　弥一」が開店です！ 早速場所からどうぞ♪ 甘糀、塩糀のスコーンとおやつ「菓子店　弥一」場…",
+          "link": "https://atsugi-lab.com/open-yaichi202403/",
+          "publishedOn": "2024-04-01T00:56:31.000Z",
+          "wordCount": 1159,
+          "title": "【開店】桜並木が楽しめる三川合流点にも近い♫甘糀、塩糀のスコーンとおやつ「菓子店　弥一」が3月31日開店だって！［厚木市東町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/04/open-yaichi202403.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=41718",
           "author": "fumie",
