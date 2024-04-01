@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T14:38:26.445Z</updated>
+    <updated>2024-04-01T14:50:35.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -42,6 +42,16 @@
         <summary type="html"><![CDATA[1: 2024/04/01(月) 10:42:42.62 ID:xeJfA+Hh0USO ゲーム会社 […]]]></summary>
         <author>
             <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“新基準バット”でホームラン激減 高校野球は新たな時代に？]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409591000.html"/>
+        <updated>2024-04-01T13:51:16.000Z</updated>
+        <summary type="html"><![CDATA[「わずか3本」ことしのセンバツ高校野球で大会を通じたホームランの数です。高校野球に金属バットが導入されて以降、最も少なくなりました。この数字だけを見てみれば反発力を抑えた新たな金属バットの影響が如実に表れたと言えます。その一方で、1点をどう奪い、1点をどう防ぐかという野球の原点を再認識させ、新たな時代の訪れを感じさせる大会となりました。（甲子園取材班 並松康弘）]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
