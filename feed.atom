@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T06:36:39.945Z</updated>
+    <updated>2024-04-01T06:50:13.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自衛隊や海保が訓練などで使用 全国16の空港と港を指定へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409331000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409331000.html"/>
+        <updated>2024-04-01T06:43:54.000Z</updated>
+        <summary type="html"><![CDATA[防衛力の強化に向けて政府は、自衛隊や海上保安庁が訓練などで円滑に使えるように整備・拡充する「特定利用空港・港湾」に、全国の合わせて16の空港と港を指定することを決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国 医療改革に激しい反発もユン大統領は必要性を改めて強調]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014409361000.html</id>
