@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T21:11:59.747Z</updated>
+    <updated>2024-04-01T21:23:15.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NYダウ 一時300ドル超値下がり 金の先物価格 史上最高値を更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014409951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014409951000.html"/>
+        <updated>2024-04-01T21:17:46.000Z</updated>
+        <summary type="html"><![CDATA[週明け1日のニューヨーク株式市場はアメリカで利下げの始まる時期が遅れるとの見方から売り注文が増え、ダウ平均株価が一時、300ドルを超える値下がりとなりました。また、ニューヨーク商品取引所では利下げの影響を受けにくいとされる金への資金の流入が続き、金の先物価格が史上最高値を更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小林製薬“紅麹”問題 延べ157人が入院と発表 厚労省]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240402/k10014409841000.html</id>
