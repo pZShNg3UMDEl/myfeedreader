@@ -1795,6 +1795,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120963/",
+          "author": null,
+          "description": "テレビアニメ「ゆるキャン△ SEASON3」に登場する新キャラクターの声を、指出毬亜と天野心愛が演じることがわかった。また、シーズン3放送直前の特別番組の放送も決定したほか、第1話のあらすじも公...",
+          "link": "https://anime.eiga.com/news/120963/",
+          "publishedOn": "2024-04-01T11:00:00.000Z",
+          "wordCount": 1574,
+          "title": "「ゆるキャン△」シーズン3、なでしこたちの後輩となる新キャラクターを指出毬亜、天野心愛が担当",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120962/",
           "author": null,
           "description": "3月31日に最終回を迎えたテレビアニメ「シャングリラ・フロンティア ～クソゲーハンター、神ゲーに挑まんとす～」の2nd season（第2期）の放送が決まり、今年10月からMBS、TBS系列の日...",
@@ -3008,6 +3023,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034315.html",
+          "author": "damono3856",
+          "description": "1 名前：香味焙煎 ★：2024/03/30(土) 06:43:45.86 ID:ewSL40U99.net\n\n\n\n\n\n\n\n＜スクープ＞川魚から暫定規制値を超えるメチル水銀　新潟県、詳細公表せずhttps://t.co/Tt75S44Exe— 毎日新聞 (@mainichi) March 29, 2024  \n\n\n\n\n\n\n　新潟県が2021年度に実施した阿賀野川の...",
+          "link": "https://itainews.com/archives/2034315.html",
+          "publishedOn": "2024-04-01T11:04:44.000Z",
+          "wordCount": 2337,
+          "title": "川魚から暫定規制値を超えるメチル水銀　新潟県、詳細公表せず",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/ab949d90-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034312.html",
           "author": "yonepo665sfr",
