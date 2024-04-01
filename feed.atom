@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T02:06:01.489Z</updated>
+    <updated>2024-04-01T02:34:50.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パドレス 松井裕樹 大リーグ移籍後 4試合連続無失点]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409091000.html"/>
+        <updated>2024-04-01T02:30:42.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、パドレスの松井裕樹投手が31日のジャイアンツ戦にリリーフ登板して1回を無失点に抑え、大リーグ移籍後、登板した4試合連続で無失点としました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運転免許センターでシステム障害 免許証の発行できず 警察庁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014409031000.html</id>
