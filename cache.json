@@ -574,6 +574,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014409291000.html",
+          "author": null,
+          "description": "北朝鮮に拉致された被害者、横田めぐみさんが北朝鮮の外相と同一人物であるとNHKのニュースで伝えられたように見せた偽情報が旧ツイッターのXで広がっています。報道機関を装った偽情報は能登半島地震などでも相次いでいて注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014409291000.html",
+          "publishedOn": "2024-04-01T06:12:28.000Z",
+          "wordCount": 590,
+          "title": "SNSでNHKのニュース装った北朝鮮関連の偽情報広がる 注意を",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014409291_2404011507_0401151013_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014409311000.html",
+          "author": null,
+          "description": "台湾の馬英九 前総統が4月1日から中国を訪問し、首都の北京にも滞在する予定で、習近平国家主席と会うかどうか注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014409311000.html",
+          "publishedOn": "2024-04-01T06:11:29.000Z",
+          "wordCount": 722,
+          "title": "台湾 馬英九 前総統が訪中 習近平国家主席と会うか注目",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014409311_2404011403_0401151131_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240401/k10014409321000.html",
           "author": null,
           "description": "楽天グループは、傘下の金融事業の大規模な再編を検討する方針を正式に発表しました。銀行や証券、クレジットカードなどの子会社を1つのグループに集約して連携を強化するねらいで、各社の競争にも影響を与えそうです。",
@@ -1230,6 +1250,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99668",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/01(月) 09:20:29.17 ID:2yDPeUhFdUSO https […]",
+          "link": "https://switchsoku.com/atlus/99668",
+          "publishedOn": "2024-04-01T06:00:25.000Z",
+          "wordCount": 10058,
+          "title": "『ユニコーンオーバーロード』全世界50万本突破！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/04/unicorn-50.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99665",
           "author": "SWITCH速報",
