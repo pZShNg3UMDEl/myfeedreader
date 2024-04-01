@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T19:10:16.017Z</updated>
+    <updated>2024-04-01T19:20:50.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[関越道 所沢IC～川越IC下り線 事故で通行止め]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014409931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014409931000.html"/>
+        <updated>2024-04-01T19:11:56.000Z</updated>
+        <summary type="html"><![CDATA[日本道路交通情報センターによりますと、関越自動車道は事故のため埼玉県所沢市の所沢インターチェンジと埼玉県川越市の川越インターチェンジの間の下り線が午前2時35分から通行止めとなっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダマスカスのイラン領事館 イスラエルが空爆 シリア国営通信]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240402/k10014409861000.html</id>
