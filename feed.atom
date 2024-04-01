@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T02:34:50.801Z</updated>
+    <updated>2024-04-01T02:50:38.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛子さま 日本赤十字社に入社 「身の引き締まる思い」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409061000.html"/>
+        <updated>2024-04-01T02:41:06.000Z</updated>
+        <summary type="html"><![CDATA[天皇皇后両陛下の長女の愛子さまは、1日、日本赤十字社に入社されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カブス 鈴木誠也 2安打2打点の活躍 チームは今季初勝利]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409081000.html"/>
+        <updated>2024-04-01T02:38:07.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、カブスの鈴木誠也選手は31日、レンジャーズ戦で9回満塁のチャンスにタイムリーヒットを打つなど2安打2打点の活躍でチームはシーズン初勝利を挙げました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パドレス 松井裕樹 大リーグ移籍後 4試合連続無失点]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014409091000.html</id>
