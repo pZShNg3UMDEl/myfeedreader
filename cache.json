@@ -584,6 +584,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240402/k10014409881000.html",
+          "author": null,
+          "description": "韓国軍の合同参謀本部は、北朝鮮が日本海に向けて弾道ミサイルを発射したと2日午前6時55分ごろに発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240402/k10014409881000.html",
+          "publishedOn": "2024-04-01T22:03:57.000Z",
+          "wordCount": 465,
+          "title": "北朝鮮が日本海に向けて弾道ミサイルを発射 韓国軍",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240402/K10014409881_2404012307_0402065825_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240402/k10014409821000.html",
           "author": null,
           "description": "ことしの春闘で賃上げの機運が高まる中、企業の間では若手人材の採用に向けて初任給を引き上げる動きが広がっています。",
@@ -3111,6 +3121,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240855",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、アサヒ飲料の新商品「モンスター ウルトラバイオレット」を世界一詳しく調査しました。   公式YouTubeチャンネル […]",
+          "link": "https://foodfighter.jp/monster-ultra-violet",
+          "publishedOn": "2024-04-01T21:56:39.000Z",
+          "wordCount": 1799,
+          "title": "アサヒ飲料 モンスター ウルトラバイオレット【新作ドリンク】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/02/814a899bc7cd149c79617a858dfda15c.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240834",
           "author": "foodfighter",
