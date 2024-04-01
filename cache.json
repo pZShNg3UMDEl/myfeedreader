@@ -574,6 +574,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014409691000.html",
+          "author": null,
+          "description": "昨年度の将棋棋士の成績が確定し、藤井聡太八冠（21）が2年連続で勝率トップとなりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014409691000.html",
+          "publishedOn": "2024-04-01T13:43:29.000Z",
+          "wordCount": 741,
+          "title": "藤井聡太八冠 昨年度成績は46勝8敗 2年連続で勝率トップに",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014409691_2404012158_0401224331_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240401/k10014409781000.html",
           "author": null,
           "description": "3月29日の夜、熊本市中央区の路上で男性が刃物で切りつけられ、けがをした事件で、近くに住む24歳の容疑者が殺人未遂の疑いで逮捕されました。警察によりますと「今は話したくない」と供述しているということです。",
@@ -2413,6 +2423,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=9710",
+          "author": "watanabe@logipara.com",
+          "description": "ろじぱらワタナベと申します。 先日開催され、各所で話題騒然となったファンクラブイベント 「大泉洋と行く豪華客船クルーズ」 に参加しましたたので、ここにレポートを記しておこうと思います！ (ﾟДﾟ)おみまいするぞー！！ […]",
+          "link": "https://logipara.com/everepo/yosoro1",
+          "publishedOn": "2024-04-01T13:47:47.000Z",
+          "wordCount": 4473,
+          "title": "大泉洋と行く豪華客船クルーズ YOソロー! レポート1(申し込み～当日受付)",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/04/image-1-1.jpg"
+        },
         {
           "id": "https://logipara.com/?p=9707",
           "author": "watanabe@logipara.com",
