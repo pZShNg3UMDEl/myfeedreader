@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T15:50:10.834Z</updated>
+    <updated>2024-04-01T16:16:44.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STMicroelectronics and CEA LETI develop microlenses for SPADs]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html"/>
+        <updated>2024-04-01T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In a preprint titled "Metasurface-based planar microlenses for SPAD pixels", J. Vaillant et al. of STMicroelectronics and CEA LETI write:
+In this paper we present two design generations of metasurface-based planar microlenses implemented on Front-Side Illumination SPAD pixels. This kind of microlens is an alternative to conventional reflow microlens. It offers more degrees of freedom in term of design, especially the capability to design off-axis microlens to gather light around the SPAD photodiode. The two generations of microlenses have been fabricated on STMicroelectronics SPAD and characterized. We validated the sensitivity improvement offered by extended metasurface-based microlens. We also confirmed the impact of lithography capability on metasurface performances, highlighting the need have access to advance deep-UV lithography.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【餃子の王将】海鮮あんかけ焼そば【2024年4月の月替わりメニュー】]]></title>
         <id>https://foodfighter.jp/?p=240834</id>

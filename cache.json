@@ -360,6 +360,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html",
+          "author": null,
+          "description": "In a preprint titled \"Metasurface-based planar microlenses for SPAD pixels\", J. Vaillant et al. of STMicroelectronics and CEA LETI write:\nIn this paper we present two design generations of metasurface-based planar microlenses implemented on Front-Side Illumination SPAD pixels. This kind of microlens is an alternative to conventional reflow microlens. It offers more degrees of freedom in term of design, especially the capability to design off-axis microlens to gather light around the SPAD photodiode. The two generations of microlenses have been fabricated on STMicroelectronics SPAD and characterized. We validated the sensitivity improvement offered by extended metasurface-based microlens. We also confirmed the impact of lithography capability on metasurface performances, highlighting the need have access to advance deep-UV lithography.",
+          "link": "http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html",
+          "publishedOn": "2024-04-01T16:15:00.000Z",
+          "wordCount": 3779,
+          "title": "STMicroelectronics and CEA LETI develop microlenses for SPADs",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcCKnIAaR5NHCRM0y8NCscSsZBXL-ogLx33UM6jFSlBac4ZBHDV2KyU9kEo4XoEHLeLGX3K8lh4gJ13-S-8jqw5SRm65k9HDy1bIsq-joLrQDS7GVyLHvUlywKYWE1q9ntgaMrvZJWbjMTT2RLEg2eqhEZ1q0Kizz9B41EO1FDIB1hUinLLniG/w1200-h630-p-k-no-nu/Capture1.PNG"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-31-march-2024.html",
           "author": null,
           "description": "Microsoft\nHardware Test Engineer - Hololens\nFort Collins, Colorado, USA\nLink\nVanderbilt University\nPostdoctoral Candidate - The\n  Caldwell Infrared Nanophotonic Materials and Devices Laboratory\nNashville, Tennessee, USA\nLink\nCisco Meraki\nMV Hardware Engineer\nSan Francisco, California, USA\nLink\nNational University of Singapore\nResearch Fellow (Integrated\n  photonics)\nKent Ridge, Singapore\nLink\nRTX - Raytheon\nAdvanced Materials - Associate\n  Director, Engineering \nAndover, Massachusetts, USA\nLink\nNASA-JPL\nAdvanced Technology Development for\n  Future UV Missions\nPasadena, California, USA\nLink\nPrime Robotics\nSLAM Engineer\nLakewood, Colorado, USA\nLink\nOxa\nSensor Engineer\nOxford, England, UK\nLink\nEuropean XFEL\nDetector Support Scientist\nSchenefeld,\n  Germany\nLink",
