@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T04:35:36.398Z</updated>
+    <updated>2024-04-01T04:50:23.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ドローン映像】「朝市通り」「輪島港」能登半島地震3か月]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409151000.html"/>
+        <updated>2024-04-01T04:45:41.000Z</updated>
+        <summary type="html"><![CDATA[石川県輪島市の「朝市通り」や「輪島港」を1日、NHKが上空からドローンで撮影した映像です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小林製薬 電話相談の受付時間を延長 土日祝日も対応]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014409251000.html</id>
