@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T04:15:53.745Z</updated>
+    <updated>2024-04-01T04:35:36.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小林製薬 電話相談の受付時間を延長 土日祝日も対応]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409251000.html"/>
+        <updated>2024-04-01T04:16:28.000Z</updated>
+        <summary type="html"><![CDATA[「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、会社は、体調不良を訴える人の電話相談の受付時間を午後9時までに延長し、土日や祝日も対応することになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪 無実の罪で拘束 国に賠償求めた母親の上告退ける 最高裁]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014409241000.html</id>
