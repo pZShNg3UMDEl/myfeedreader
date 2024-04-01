@@ -223,6 +223,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72793",
+          "author": "多根清史",
+          "description": "Rockstar Games開発の超人気シリーズ最新作『Grand Theft Auto VI（GTA6）』は2025年内にリリース予定だが、その名前がフィッシング詐欺に悪用される事例も後を絶たない。 そんななか、Macを標的とした「GTA6」偽装マルウェアが発見され、驚くほど洗練されたレベルに達し […]",
+          "link": "https://gadget.phileweb.com/post-72793/",
+          "publishedOn": "2024-04-01T05:13:59.000Z",
+          "wordCount": 776,
+          "title": "GTA6やNotionを装うMac標的マルウェアが発見。その巧妙な手口と自衛策",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_483232807.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72785",
           "author": "多根清史",
           "description": "ここ最近、日本でも行政サービスにAIチャットボットを導入する地方公共団体が増えつつある。その背景には生成AIが急激に進歩を遂げつつあること、限られた職員数で住人からの様々な問い合わせに対応を迫られる等の事情がある。 米ニューヨーク市（NYC）でも昨年10月、公式ポータルサイトに「MyCity Cha […]",
@@ -563,6 +573,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240401/k10014409321000.html",
+          "author": null,
+          "description": "楽天グループは、傘下の金融事業の大規模な再編を検討する方針を正式に発表しました。銀行や証券、クレジットカードなどの子会社を1つのグループに集約して連携を強化するねらいで、各社の競争にも影響を与えそうです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240401/k10014409321000.html",
+          "publishedOn": "2024-04-01T05:18:10.000Z",
+          "wordCount": 547,
+          "title": "楽天グループ 金融事業の大規模再編検討の方針 正式発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240401/K10014409321_2404011353_0401141812_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240401/k10014409261000.html",
           "author": null,

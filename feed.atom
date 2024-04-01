@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T05:13:28.015Z</updated>
+    <updated>2024-04-01T05:28:59.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楽天グループ 金融事業の大規模再編検討の方針 正式発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240401/k10014409321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240401/k10014409321000.html"/>
+        <updated>2024-04-01T05:18:10.000Z</updated>
+        <summary type="html"><![CDATA[楽天グループは、傘下の金融事業の大規模な再編を検討する方針を正式に発表しました。銀行や証券、クレジットカードなどの子会社を1つのグループに集約して連携を強化するねらいで、各社の競争にも影響を与えそうです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA6やNotionを装うMac標的マルウェアが発見。その巧妙な手口と自衛策]]></title>
+        <id>https://gadget.phileweb.com/?p=72793</id>
+        <link href="https://gadget.phileweb.com/post-72793/"/>
+        <updated>2024-04-01T05:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Rockstar Games開発の超人気シリーズ最新作『Grand Theft Auto VI（GTA6）』は2025年内にリリース予定だが、その名前がフィッシング詐欺に悪用される事例も後を絶たない。 そんななか、Macを標的とした「GTA6」偽装マルウェアが発見され、驚くほど洗練されたレベルに達し […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震でできた段差か 震源域海底に2か所 東京大学など]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240401/k10014409261000.html</id>
