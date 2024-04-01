@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T20:51:35.099Z</updated>
+    <updated>2024-04-01T21:11:59.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小林製薬“紅麹”問題 延べ157人が入院と発表 厚労省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014409841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014409841000.html"/>
+        <updated>2024-04-01T21:07:57.000Z</updated>
+        <summary type="html"><![CDATA[「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、厚生労働省は、3月31日の時点で、延べ157人が入院したことが小林製薬からの報告で明らかになったと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「富山湾の宝石」シロエビ漁解禁 地震影響懸念もトラブルなし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014409731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014409731000.html"/>
+        <updated>2024-04-01T20:43:51.000Z</updated>
+        <summary type="html"><![CDATA[「富山湾の宝石」とも呼ばれるシロエビの漁が始まり、富山県射水市の漁港では新鮮なシロエビが次々と水揚げされました。能登半島地震の影響が懸念されましたが、トラブルなどはなかったということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震の被災者 “自宅の耐震工事せず”7割以上]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240402/k10014409711000.html</id>
