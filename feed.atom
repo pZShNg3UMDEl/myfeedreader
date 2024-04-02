@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T22:50:14.558Z</updated>
+    <updated>2024-04-02T23:14:04.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国境から1000キロ超 ロシア中部をウクライナ無人機で攻撃か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014410881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014410881000.html"/>
+        <updated>2024-04-02T22:54:12.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナとの国境から1000キロ以上離れたロシア中部のタタルスタン共和国で無人機による攻撃があり少なくとも13人がけがをしました。ウクライナのメディアはウクライナ国防省の情報総局などによる攻撃だったと伝えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子ども食堂を支援 神奈川県が食品会社などと連携 冷凍食品提供]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240403/k10014410591000.html</id>
