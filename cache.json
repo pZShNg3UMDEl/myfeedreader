@@ -594,6 +594,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240402/k10014410011000.html",
+          "author": null,
+          "description": "消費税の納税額の正確な把握を目的とした税額控除の方式、「インボイス制度」は、去年10月の制度開始から半年が経ち、国税庁によりますと、これまでに400万以上の事業者が登録をしています。一方、制度への登録で新たに納税の義務を負った小規模事業者の中には、事業や生活に影響が出ているケースもあります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240402/k10014410011000.html",
+          "publishedOn": "2024-04-02T02:13:13.000Z",
+          "wordCount": 602,
+          "title": "インボイス制度半年 新たな納税で小規模事業者に影響も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240402/K10014410011_2404021035_0402104153_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240402/k10014410041000.html",
+          "author": null,
+          "description": "LINEの利用者の大規模な情報漏えい問題できのう（1日）、会社から再発防止策などの報告を受けた総務省は、今後、3か月に1度、実施状況の報告を受けることにしています。松本総務大臣は、必要に応じて追加的な措置をとる考えを示し、会社に対策の徹底を強く求めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240402/k10014410041000.html",
+          "publishedOn": "2024-04-02T02:01:26.000Z",
+          "wordCount": 631,
+          "title": "LINE情報漏えい問題 松本総務相「必要に応じ追加的な措置も」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240402/K10014410041_2404021041_0402110038_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240402/k10014410031000.html",
           "author": null,
           "description": "2日未明、東京 世田谷区の環状7号線で30歳の男性が倒れているのが見つかり、病院に運ばれましたが死亡しました。警視庁は現場の状況などからひき逃げ事件として捜査しています。",
@@ -1730,6 +1750,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99685",
+          "author": "SWITCH速報",
+          "description": "1: 2024/03/14(木) 14:45:16.052 ID:db7rxTJF0Pi コマンド戦 […]",
+          "link": "https://switchsoku.com/soft/pokemon/99685",
+          "publishedOn": "2024-04-02T02:00:57.000Z",
+          "wordCount": 10168,
+          "title": "『ポケモン』ってそろそろアクションRPGにすべきだよな",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/02/pokemon-z-a.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99682",
           "author": "SWITCH速報",
@@ -3196,6 +3226,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240897",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、定食メニューはいつでもご飯がセルフサービスでおかわり自由の有名人気チェーン […]",
+          "link": "https://foodfighter.jp/yayoiken-yakishabu",
+          "publishedOn": "2024-04-02T02:17:37.000Z",
+          "wordCount": 1821,
+          "title": "【やよい軒】牛焼きしゃぶとたっぷり野菜の定食【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/ab7124ed55eb6412df0d0f8bddd562fd.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240875",
           "author": "foodfighter",
