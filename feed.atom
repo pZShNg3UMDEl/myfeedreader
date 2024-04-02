@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T11:35:34.582Z</updated>
+    <updated>2024-04-02T11:50:35.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 必要な支援と課題は？首長発言から【4月2日】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410531000.html"/>
+        <updated>2024-04-02T11:32:15.000Z</updated>
+        <summary type="html"><![CDATA[2日、石川県の「災害対策本部員会議」が開かれました。公的な支援を受けるために必要なり災証明の調査に人員が足りていないとして支援を求める声が上がりました。また、住宅が一部損壊と判定された高齢者から「修理もできず、仮設住宅にも入れず困っている」といった相談が寄せられているということです。6つの自治体の首長の発言をまとめました。※発言の順番に掲載しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イオン北海道“西友が運営する道内9店舗 10月に買収”と発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240402/k10014410801000.html</id>
