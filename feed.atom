@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T07:36:07.416Z</updated>
+    <updated>2024-04-02T07:50:12.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410451000.html"/>
         <updated>2024-04-02T07:30:08.000Z</updated>
         <summary type="html"><![CDATA[大リーグ、ドジャースが公式SNSに投稿した大谷翔平選手と山本由伸投手がお互いを褒め合う動画が話題を呼んでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト「チームズ」セット販売中止 世界で方針変更]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410461000.html"/>
+        <updated>2024-04-02T07:28:28.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのIT大手、マイクロソフトはオンライン会議サービス「チームズ」と、業務用ソフト「マイクロソフト365」のセットでの販売を世界で取りやめると発表しました。ヨーロッパの規制当局が巨大IT企業による囲い込みビジネスに監視の目を光らせるなか、世界統一で販売方針を変更した形です。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
