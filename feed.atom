@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T15:50:19.305Z</updated>
+    <updated>2024-04-02T16:17:02.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“習近平国家主席とバイデン大統領が電話で首脳会談”国営通信]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014411011000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014411011000.html"/>
+        <updated>2024-04-02T16:00:33.000Z</updated>
+        <summary type="html"><![CDATA[中国国営の新華社通信は、習近平国家主席とアメリカのバイデン大統領が2日、電話で首脳会談を行ったと伝えました。両首脳による会談は去年11月以来、およそ4か月半ぶりです。国営の中国中央テレビによりますと、両首脳は両国関係や双方が、ともに関心をもつ問題について率直かつ踏み込んだ意見交換を行ったということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水木しげるロードに「ゲゲゲの鬼太郎」の新たな広場 鳥取 境港]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240403/k10014410401000.html</id>
