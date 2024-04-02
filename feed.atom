@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T05:50:15.382Z</updated>
+    <updated>2024-04-02T06:17:18.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 ジャイアンツ戦 1安打1打点で勝利に貢献]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410351000.html"/>
+        <updated>2024-04-02T06:04:14.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手は1日、本拠地で行われたジャイアンツ戦でヒット1本、打点1をあげて勝利に貢献しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『剣と魔法と学園モノ。』1と2Gリマスター版が4月26日に配信決定]]></title>
+        <id>https://switchsoku.com/?p=99690</id>
+        <link href="https://switchsoku.com/soft/99690"/>
+        <updated>2024-04-02T06:00:48.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/04/02(火) 12:09:47.55 ID:TF1XV2Ey0 迷宮と学園生活の […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google、Chromeのシークレットモードで集めたデータの破棄を約束]]></title>
         <id>https://gadget.phileweb.com/?p=72826</id>

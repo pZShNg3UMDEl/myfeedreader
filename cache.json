@@ -624,6 +624,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240402/k10014410351000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手は1日、本拠地で行われたジャイアンツ戦でヒット1本、打点1をあげて勝利に貢献しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240402/k10014410351000.html",
+          "publishedOn": "2024-04-02T06:04:14.000Z",
+          "wordCount": 605,
+          "title": "大谷翔平 ジャイアンツ戦 1安打1打点で勝利に貢献",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240402/K10014410351_2404021453_0402145803_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240402/k10014410291000.html",
           "author": null,
           "description": "「小林製薬」が機能性表示食品として届け出ていたサプリメントを摂取した人が腎臓の病気などを発症した問題を受け、消費者庁は機能性表示食品制度のあり方について検討を進める対策チームを立ち上げ、5月末をめどに考え方を取りまとめることを明らかにしました。",
@@ -1850,6 +1860,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99690",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/02(火) 12:09:47.55 ID:TF1XV2Ey0 迷宮と学園生活の […]",
+          "link": "https://switchsoku.com/soft/99690",
+          "publishedOn": "2024-04-02T06:00:48.000Z",
+          "wordCount": 10003,
+          "title": "『剣と魔法と学園モノ。』1と2Gリマスター版が4月26日に配信決定",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/04/kentomahou.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99687",
           "author": "SWITCH速報",
