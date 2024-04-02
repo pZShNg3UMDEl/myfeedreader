@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T12:25:25.196Z</updated>
+    <updated>2024-04-02T12:48:04.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -72,6 +72,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410801000.html"/>
         <updated>2024-04-02T11:26:08.000Z</updated>
         <summary type="html"><![CDATA[イオン北海道は、スーパーの西友が運営する北海道内の9店舗すべてをことし10月に買収すると発表しました。10月以降はイオン系列の店として営業を行う予定で北海道内から西友の店舗はなくなることになります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[名古屋芸術大学 “学長からセクハラ”女子学生が会見]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410671000.html"/>
+        <updated>2024-04-02T11:21:16.000Z</updated>
+        <summary type="html"><![CDATA[愛知県北名古屋市にある名古屋芸術大学の学長からセクハラ行為を受けたとしてこの大学の女子学生が会見を開き、大学による調査委員会が公表した「処分するべきハラスメントが行われたとは認定できない」とする見解を批判しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
