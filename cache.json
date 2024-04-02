@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/02/news023.html",
+          "author": null,
+          "description": "ロームは、2.8×2.9mmの小型DC-DCコンバーターIC「BD9E105FP4-Z」「BD9E202FP4-Z」「BD9E304FP4-LBZ」「BD9A201FP4-LBZ」を開発した。4.9×6.0mmの一般的なSOP-J8パッケージに比べ、部品面積を約72％縮小できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/02/news023.html",
+          "publishedOn": "2024-04-02T00:00:00.000Z",
+          "wordCount": 2582,
+          "title": "部品面積を72％削減、民生／産機向けDC-DCコンバーターIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/02/cover_news023.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/01/news024.html",
           "author": null,
           "description": "STマイクロエレクトロニクスは、第2世代のマイクロプロセッサ「STM32MP2」シリーズを発表した。同社製品では初という、64ビットArm Cortex-A35コアを搭載した汎用マイクロプロセッサだ。",
@@ -1711,6 +1721,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99682",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/01(月) 21:21:32.96 ID:1YzkCIA50 力尽きても進行状 […]",
+          "link": "https://switchsoku.com/gossip/99682",
+          "publishedOn": "2024-04-02T00:00:05.000Z",
+          "wordCount": 10101,
+          "title": "現代のゲームに「ゲームオーバー」は必要なのか？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/04/game-over.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99678",
           "author": "SWITCH速報",
           "description": "1: 2024/04/01(月) 10:42:42.62 ID:xeJfA+Hh0USO ゲーム会社 […]",
@@ -3156,6 +3176,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=240875",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「不二家 ネクタージェラート」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
+          "link": "https://foodfighter.jp/711sej-nectar-gelato",
+          "publishedOn": "2024-04-01T23:51:22.000Z",
+          "wordCount": 1794,
+          "title": "【セブンイレブン】不二家 ネクタージェラート【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/9342ffb011333d8101d42b67ede9f2ab.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=240855",
           "author": "foodfighter",
