@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T21:11:27.794Z</updated>
+    <updated>2024-04-02T21:22:06.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮 中距離弾道ミサイル「火星16型」発射実験成功と発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014411061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014411061000.html"/>
+        <updated>2024-04-02T21:15:02.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮は、キム・ジョンウン（金正恩）総書記の立ち会いのもと、新たに開発した極超音速で滑空する弾頭を装着した新型の固体燃料式の中距離弾道ミサイル「火星16型」の初めての発射実験を2日行って成功したと、3日朝、発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今も残る父の「冷たい手」の感触 一緒に飲むはずだった花見酒]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240403/k10014410441000.html</id>
