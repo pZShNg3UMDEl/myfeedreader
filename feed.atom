@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T04:15:29.268Z</updated>
+    <updated>2024-04-02T04:37:17.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[歌舞伎町の質店で強盗疑い 少年ら3人逮捕 「闇バイト」応募か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410221000.html"/>
+        <updated>2024-04-02T04:19:45.000Z</updated>
+        <summary type="html"><![CDATA[1日、新宿 歌舞伎町にある質店に押し入り、ハンマーでショーケースを破壊して財布などを奪ったとして、実行役や車の運転役など少年を含む3人が逮捕されました。いずれも「闇バイト」に応募して、事件に関わったとみられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT、アカウントなしで誰でも利用可能に]]></title>
         <id>https://gadget.phileweb.com/?p=72811</id>
