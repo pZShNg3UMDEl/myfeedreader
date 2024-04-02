@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T10:14:56.081Z</updated>
+    <updated>2024-04-02T10:30:25.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登地方の倒壊家屋 公費解体の申請できないケース相次ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410271000.html"/>
+        <updated>2024-04-02T10:23:02.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震により倒壊した家屋などの公費での解体をめぐり、特に被害の大きかった能登地方の市や町では、家屋の所有者全員の同意を得られないなどの理由で解体の申請ができないケースが相次いでいることがわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[静岡 川勝知事 辞職の意向表明 不適切発言の批判受けた会見で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240402/k10014410721000.html</id>
