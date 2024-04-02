@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T21:35:23.348Z</updated>
+    <updated>2024-04-02T21:50:34.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 被害は 避難は 断水は 時系列データで振り返る]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014410941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014410941000.html"/>
+        <updated>2024-04-02T21:37:02.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の発生から3か月がたちました。石川県内の建物や人的被害の状況は。今も避難を余儀なくされている人はどのくらいいるのか、断水が続く地域の復旧状況は。被災地の現状を県の発表などをもとに時系列に読み解きます。（最新の数字は、4月2日午後2時時点のものです）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネタニヤフ首相「再発防止に全力」攻撃でNGOスタッフ死亡受け]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240403/k10014410861000.html</id>
