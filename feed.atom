@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T08:36:27.949Z</updated>
+    <updated>2024-04-02T08:50:12.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海自基地でドローン使用し撮影か SNSに動画 防衛省が調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410491000.html"/>
+        <updated>2024-04-02T08:41:55.000Z</updated>
+        <summary type="html"><![CDATA[法律でドローンを許可なく飛行させることが禁止されている海上自衛隊の基地で、ドローンを使って護衛艦を上空から撮影したとされる動画がSNSに投稿され、防衛省が詳しいいきさつを調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“県職員は牛の世話する人と違う”静岡県知事発言に苦情相次ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410601000.html"/>
+        <updated>2024-04-02T08:39:12.000Z</updated>
+        <summary type="html"><![CDATA[静岡県の川勝知事が4月1日、新人職員に行った訓示で「毎日野菜を売ったり、牛の世話をする仕事とは違い皆さんは知性が高い」などと発言しました。県には職業差別と捉えられかねないとして電話やメールなどで批判や苦情が相次いでいます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ氏 保証金約265億円納める 資産差し押さえ危機脱する]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240402/k10014410571000.html</id>
