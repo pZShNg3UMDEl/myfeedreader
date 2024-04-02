@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T09:24:28.014Z</updated>
+    <updated>2024-04-02T09:35:55.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米カリフォルニア州 ファストフード店の最低賃金3000円に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240402/k10014410631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240402/k10014410631000.html"/>
+        <updated>2024-04-02T09:26:35.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ西部・カリフォルニア州は、今月1日から州内のファストフード店で働く従業員の最低賃金を時給20ドル、日本円にしておよそ3000円に引き上げました。アメリカメディアはファストフード店の最低賃金としては全米でも最高水準になると伝えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紅麹問題 小林製薬“ナイシヘルプ”改めて分析へ 学会調査受け]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240402/k10014410651000.html</id>
