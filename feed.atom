@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T21:11:57.632Z</updated>
+    <updated>2024-04-03T21:21:55.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京王井の頭線 運転再開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412061000.html"/>
+        <updated>2024-04-03T21:11:38.000Z</updated>
+        <summary type="html"><![CDATA[京王井の頭線は、永福町駅のポイント故障の影響で始発から渋谷駅と富士見ヶ丘駅の間の上下線で運転を見合せていましたが、午前5時50分過ぎに全線で運転を再開しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「人間であると感じられない」ガザ地区北部 避難生活の現状は]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240404/k10014411461000.html</id>
