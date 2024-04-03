@@ -624,6 +624,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240403/k10014411191000.html",
+          "author": null,
+          "description": "自治体が避難などの情報を放送局などに伝える「Lアラート」などの午前10時20分時点の情報によりますと、沖縄県では、緊急安全確保が▽本部町▽宜野座村に出されています。また、避難指示が▽読谷村の海岸沿い地域の8410世帯、2万人▽宜野湾市の津波災害警戒区域▽渡嘉敷村全域の391世帯、645人▽大宜味村の全域▽東村の海岸付近地域の全域▽糸満市の沿岸部全域の1万8304世帯、4万567人▽浦添市の全域▽金武町の海岸付近全域▽竹富町の全域▽名護市の全域▽西原町の全域▽中城村の全域▽粟国村の浜地区の151世帯224人▽与那原町の全域▽伊是名村の全域の495世帯、877人直ちに海岸や河川から離れ、高台などに避難するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240403/k10014411191000.html",
+          "publishedOn": "2024-04-03T01:41:12.000Z",
+          "wordCount": 421,
+          "title": "沖縄 本部町・宜野座村に緊急安全確保（午前10時20分）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240403/K10014411191_2404031015_0403101522_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240403/k10014411081000.html",
           "author": null,
           "description": "3日午前、台湾付近を震源とする大きな地震があり、気象庁は沖縄県の宮古島・八重山地方と沖縄本島地方に津波警報を発表しました。すでに津波が到達している地域があります。今すぐ、可能なかぎり高いところ、海岸から遠く離れたところへ逃げて下さい。",
@@ -2370,6 +2380,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99709",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/02(火) 23:45:50.88 ID:V2X0CkuQ0 すれば売れるよね […]",
+          "link": "https://switchsoku.com/online/99709",
+          "publishedOn": "2024-04-03T01:10:33.000Z",
+          "wordCount": 10020,
+          "title": "なんでSwitchでGBやGBAのポケモン配信しないの？",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2023/09/switch-online-plus.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99704",
           "author": "SWITCH速報",
