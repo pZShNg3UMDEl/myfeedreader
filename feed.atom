@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T20:37:26.415Z</updated>
+    <updated>2024-04-03T20:50:14.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 海外からの投資呼び込みへ 改革強化の考え示す]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014411901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014411901000.html"/>
+        <updated>2024-04-03T20:27:51.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣はアメリカの大手投資銀行の経営トップらと意見交換し、海外からの投資を呼び込むための改革を一段と強化する考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[京王井の頭線 渋谷～富士見ヶ丘 上下線で運転見合わせ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240404/k10014412041000.html</id>
