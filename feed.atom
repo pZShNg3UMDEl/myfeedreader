@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T05:13:02.986Z</updated>
+    <updated>2024-04-03T05:27:48.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -5389,6 +5389,16 @@ And one about a new sensor series:
 Sales Manager - Europe            Liège, Belgium or Schongau, Germany           Link]]></summary>
         <author>
             <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR: いつまで紙で記録を続けるつもり？　点検管理システムが変える設備保全の在り方]]></title>
+        <id>https://monoist.itmedia.co.jp/mn/articles/2403/22/news009.html</id>
+        <link href="https://monoist.itmedia.co.jp/mn/articles/2403/22/news009.html"/>
+        <updated>2024-03-22T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[保全業務は生産設備の安定稼働には欠かせないが、いまだに多くの製造現場は紙で点検記録を行っており、点検作業・転記作業などが大きな負担になっている。この点検業務の簡略化を目指して設備点検プラットフォーム「MONiPLAT（モニプラット）」を2023年にリリースしたのが、化学製品メーカーのバルカーだ。ソフトウェア事業を強化するバルカーの取り組みと、既に利用社数が400を超え、一つの潮流となりつつあるMONiPLATがもたらす価値を紹介する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
