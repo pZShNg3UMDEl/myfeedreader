@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T03:25:46.245Z</updated>
+    <updated>2024-04-03T03:36:25.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米 ロシア側にテロ標的のコンサートホール名も伝達か 米有力紙]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014411331000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014411331000.html"/>
+        <updated>2024-04-03T03:24:17.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの首都モスクワ郊外で先月起きたテロ事件で、アメリカ政府が実際に標的となったコンサートホールの名前を具体的に挙げて、テロのおそれがあるとロシア側に事前に伝達していたと、アメリカの複数の有力紙が伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイデン大統領 イスラエルを非難 ガザ地区攻撃でNGOの7人死亡]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240403/k10014411321000.html</id>
