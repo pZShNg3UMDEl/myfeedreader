@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T05:38:14.665Z</updated>
+    <updated>2024-04-03T05:50:32.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[競泳 入江陵介が現役引退を表明 ロンドン五輪で銀メダル]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014411301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014411301000.html"/>
+        <updated>2024-04-03T05:33:11.000Z</updated>
+        <summary type="html"><![CDATA[ロンドンオリンピックの競泳・男子200メートル背泳ぎで銀メダルを獲得し、長年、日本の競泳陣を引っ張ってきた34歳の入江陵介選手が現役を引退することを表明しました。入江選手は、5大会連続のオリンピック出場を目指していましたが、3月に行われたパリオリンピックの代表選考の大会で内定を逃していました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】 台湾、花蓮で震度6強の地震　台湾東部海域でM7.2 画像・動画あり]]></title>
         <id>https://itainews.com/archives/2034396.html</id>
