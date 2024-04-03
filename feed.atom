@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T20:27:11.593Z</updated>
+    <updated>2024-04-03T20:37:26.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京王井の頭線 渋谷～富士見ヶ丘 上下線で運転見合わせ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412041000.html"/>
+        <updated>2024-04-03T20:25:58.000Z</updated>
+        <summary type="html"><![CDATA[京王井の頭線は、永福町駅での夜間の作業が遅れているとして、始発から渋谷駅と富士見ヶ丘駅の間の上下線で運転を見合わせています。運転再開の見通しはたっていないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JR大阪駅直結 「JPタワー大阪」 オフィスフロア公開 サウナも]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240404/k10014411711000.html</id>
