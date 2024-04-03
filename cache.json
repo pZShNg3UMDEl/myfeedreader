@@ -243,6 +243,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72846",
+          "author": "多根清史",
+          "description": "マイクロソフトはOpenAIの技術を基盤とした「Copilot AI」をWindows 11のほかモバイル方面にも導入しており、あらゆるプラットフォームの制覇を狙っているかのようだ。そんななか、同社がXbox向けAIチャットボットを開発中だと明らかになった。 The Vergeの「マイクロソフトの計 […]",
+          "link": "https://gadget.phileweb.com/post-72846/",
+          "publishedOn": "2024-04-03T04:04:37.000Z",
+          "wordCount": 758,
+          "title": "マイクロソフト、「Xboxチャットボット」開発中。サポートやゲーム払戻にも対応",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_1702358245.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72839",
           "author": "多根清史",
           "description": "アップルは6月のWWDC24（世界開発者会議）にて、次期iOS 18やwatchOS 11といったメジャーアップデートを発表する見通しだ。そこで注目が集まるのが「どの過去モデルがサポート対象から外れるのか」だろう。 すでにiOS 18/iPadOS 18については予想が相次いでいたが、今度は「wat […]",
@@ -598,16 +608,6 @@
           "wordCount": 4760,
           "title": "GPixel on the verge of IPO?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivM2dB6wxUEBsRHA7SercRyZ795XXsZlMoXLlf72rwf2lU-ebnfSStxTnSdHXHokDCLsWvuD8DatTaHuY37WrXjfxpWzH7IpC7ArkXXGuhsQsWYBlKJ0j9Uc0Q-vdYcUTC2-TxKZ4khysGlX4KcXQqL1KBfckX01bQqOYmG777kphEefOEk3fc/w1200-h630-p-k-no-nu/gpixel-1.jpg"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/03/andes-and-metasilicon-collaborate-on.html",
-          "author": null,
-          "description": "From Yahoo Finance news:\nAndes Technology and MetaSilicon Collaborate to Build the World’s First Automotive-Grade CMOS Image Sensor Product Using RISC-V IP SoC\nHsinchu Taiwan, Feb. 22, 2024 (GLOBE NEWSWIRE) -- RISC-V IP vendor Andes Technology and edge computing chip provider MetaSilicon jointly announced that the MetaSilicon MAT Series is the world's first automotive-grade CMOS image sensor series using RISC-V IP SoC, using Andes' AndesCore™ N25F-SE processor. They are designed in accordance with the ISO26262 functional safety standard to achieve ASIL-B level and follow the AEC-Q100 Grade 2 to achieve a high level of safety and reliability. And by using technologies such as HDR, advanced imaging can be achieved in a simple, economical, and efficient system. They not only address the effec…",
-          "link": "http://image-sensors-world.blogspot.com/2024/03/andes-and-metasilicon-collaborate-on.html",
-          "publishedOn": "2024-03-04T16:00:00.005Z",
-          "wordCount": 4382,
-          "title": "Andes and MetaSilicon collaborate on automotive CIS",
-          "imageUrl": null
         }
       ]
     },
@@ -633,6 +633,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240403/k10014411341000.html",
+          "author": null,
+          "description": "大阪市に本社がある「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、大阪市は、3日、初めて対策本部会議を開き、専属の調査チームが原因究明などにあたる方針を確認しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240403/k10014411341000.html",
+          "publishedOn": "2024-04-03T03:50:58.000Z",
+          "wordCount": 680,
+          "title": "小林製薬 紅麹問題 大阪市で対策本部会議 調査方針など確認",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240403/K10014411341_2404031224_0403125101_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240403/k10014411331000.html",
           "author": null,
