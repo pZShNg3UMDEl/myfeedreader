@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T11:11:04.395Z</updated>
+    <updated>2024-04-03T11:21:11.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初の意識調査 “偏見 差別は依然として深刻” 厚労省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014411401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014411401000.html"/>
+        <updated>2024-04-03T11:09:45.000Z</updated>
+        <summary type="html"><![CDATA[ハンセン病への差別や偏見の実態を把握するため、厚生労働省が一般の人を対象に初めて意識調査を行いました。6割以上の人が「ハンセン病への差別意識を持っていない」と答えましたが、2割近くの人が身体に触れることに抵抗を感じると答えたほか、元患者の家族と自分の家族が結婚することに抵抗を感じると答えた人も2割以上にのぼったことがわかりました。厚生労働省の検討会は、「ハンセン病への偏見差別は現存し、依然として深刻な状況にあることがうかがえた」と結論付けています。（社会部 勝又千重子 記者）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【消費税】インボイス制度半年、制度導入で新たな業務「税理士事務所」の廃業急増　「税理士業界は高齢化が進んでいて…」]]></title>
         <id>https://itainews.com/archives/2034388.html</id>
