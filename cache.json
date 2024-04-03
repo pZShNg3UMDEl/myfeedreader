@@ -674,6 +674,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240403/k10014411751000.html",
+          "author": null,
+          "description": "大手スーパーの「西友」は、九州にあるすべての店舗を広島市に本社を置くスーパーの「イズミ」に売却し、九州から撤退すると発表しました。西友は北海道からも撤退することが明らかになっていて、本州での事業に経営資源を集中する方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240403/k10014411751000.html",
+          "publishedOn": "2024-04-03T12:07:58.000Z",
+          "wordCount": 634,
+          "title": "スーパー「西友」九州の全店舗「イズミ」に売却し九州から撤退",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240403/K10014411751_2404031825_0403182710_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240403/k10014411831000.html",
+          "author": null,
+          "description": "「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、この健康食品を摂取したあと健康被害を訴えている愛媛県内の患者を診察した医師が、NHKのインタビューに応じました。患者は、腎臓機能が低下して、筋力低下などの症状が出る「ファンコニー症候群」だと分かったということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240403/k10014411831000.html",
+          "publishedOn": "2024-04-03T11:55:52.000Z",
+          "wordCount": 738,
+          "title": "紅麹問題 診察した医師 “患者はファンコニー症候群”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240403/K10014411831_2404031924_0403192658_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240403/k10014411401000.html",
           "author": null,
           "description": "ハンセン病への差別や偏見の実態を把握するため、厚生労働省が一般の人を対象に初めて意識調査を行いました。6割以上の人が「ハンセン病への差別意識を持っていない」と答えましたが、2割近くの人が身体に触れることに抵抗を感じると答えたほか、元患者の家族と自分の家族が結婚することに抵抗を感じると答えた人も2割以上にのぼったことがわかりました。厚生労働省の検討会は、「ハンセン病への偏見差別は現存し、依然として深刻な状況にあることがうかがえた」と結論付けています。（社会部 勝又千重子 記者）",
@@ -3125,6 +3145,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120986/",
+          "author": null,
+          "description": "書店員を中心とした漫画好きが選ぶ「マンガ大賞2024」が発表され、泥ノ田犬彦氏の「君と宇宙を歩くために」が大賞（第1位）に輝いた。泥ノ田氏がコメントとイラストを寄せている。 大賞に選ばれた「君と...",
+          "link": "https://anime.eiga.com/news/120986/",
+          "publishedOn": "2024-04-03T12:00:00.000Z",
+          "wordCount": 1606,
+          "title": "マンガ大賞2024は、泥ノ田犬彦「君と宇宙を歩くために」　“普通”ができない2人の友情物語",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/konki_ranking/120979/",
           "author": null,
           "description": "4月第1週の2024年春アニメ録画ランキングは、「ポケットモンスター 新シリーズ」が首位、2話連続放送で最終回をむかえた「キングダム 第5シリーズ」が2位となった。なお、2023年4月14日から...",
@@ -4708,6 +4743,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034383.html",
+          "author": "damono3856",
+          "description": "1 名前：五毛・中国共産党：2024/04/02(火) 22:45:47.31 ID:WTbbI8sw0●.net\n\n\n\n\n\n\n\n「報道のせい」　川勝知事との一問一答（下）https://t.co/nVapgow8lo――うちは発言を切り取ることなくお伝えした上で…「いや、切り取られたんだと思いますね」――特に中略もしてい...",
+          "link": "https://itainews.com/archives/2034383.html",
+          "publishedOn": "2024-04-03T12:05:26.000Z",
+          "wordCount": 2486,
+          "title": "最後まで自分を貫く男・川勝「読売新聞のせいで発言が切り取られた。誤解・曲解も甚だしいと思います」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/2/f2faeab2-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034388.html",
           "author": "damono3856",
