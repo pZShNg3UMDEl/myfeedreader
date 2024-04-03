@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T10:14:33.536Z</updated>
+    <updated>2024-04-03T10:30:26.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[奥能登 建物被害認定の再調査 進み具合に自治体間で大きな差]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240403/k10014411601000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240403/k10014411601000.html"/>
+        <updated>2024-04-03T10:22:57.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震によって被災した建物の修繕などで、公的支援を受けるのに欠かせない「り災証明書」などの発行には、調査に基づく被害認定が必要ですが、認定を不服とした場合には再調査の申請が可能です。今回の地震で大きな被害を受けた石川県の奥能登地域では、この再調査の進捗（しんちょく）に自治体間での大きな差が生じていることが分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ガザでNGOスタッフ7人死亡「ショックと憤り」国連日本人職員]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240403/k10014411731000.html</id>
