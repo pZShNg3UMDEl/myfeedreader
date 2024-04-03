@@ -470,6 +470,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/04/toppan-shifts-image-sensor-production.html",
+          "author": null,
+          "description": "From Nikkei Asia news: https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-s-Toppan-shifts-image-sensor-component-production-to-China \n\nJapan's Toppan shifts image sensor component production to China\nTOKYO -- Japan's Toppan Holdings has moved production of components for CMOS image sensors from Japan to China, aiming to boost local production 40% as Beijing looks to bolster its supply chains for related technologies.\nCMOS -- complementary metal-oxide semiconductor -- sensors convert light captured by camera lenses into electrical signals. Among CMOS components, Toppan produces on-chip color filters (OCF) that colorize captured images and microlenses that increase light-gathering power. Without OCF, CMOS can only detect differences in light level.\nToppan brought related equipment fr…",
+          "link": "http://image-sensors-world.blogspot.com/2024/04/toppan-shifts-image-sensor-production.html",
+          "publishedOn": "2024-04-03T16:21:00.000Z",
+          "wordCount": 4222,
+          "title": "Toppan shifts image sensor production to China",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html",
           "author": null,
           "description": "In a preprint titled \"Metasurface-based planar microlenses for SPAD pixels\", J. Vaillant et al. of STMicroelectronics and CEA LETI write:\nIn this paper we present two design generations of metasurface-based planar microlenses implemented on Front-Side Illumination SPAD pixels. This kind of microlens is an alternative to conventional reflow microlens. It offers more degrees of freedom in term of design, especially the capability to design off-axis microlens to gather light around the SPAD photodiode. The two generations of microlenses have been fabricated on STMicroelectronics SPAD and characterized. We validated the sensitivity improvement offered by extended metasurface-based microlens. We also confirmed the impact of lithography capability on metasurface performances, highlighting the need have access to advance deep-UV lithography.",

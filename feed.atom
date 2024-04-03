@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T16:16:06.585Z</updated>
+    <updated>2024-04-03T16:38:47.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Toppan shifts image sensor production to China]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/04/toppan-shifts-image-sensor-production.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/04/toppan-shifts-image-sensor-production.html"/>
+        <updated>2024-04-03T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[From Nikkei Asia news: https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-s-Toppan-shifts-image-sensor-component-production-to-China 
+
+Japan's Toppan shifts image sensor component production to China
+TOKYO -- Japan's Toppan Holdings has moved production of components for CMOS image sensors from Japan to China, aiming to boost local production 40% as Beijing looks to bolster its supply chains for related technologies.
+CMOS -- complementary metal-oxide semiconductor -- sensors convert light captured by camera lenses into electrical signals. Among CMOS components, Toppan produces on-chip color filters (OCF) that colorize captured images and microlenses that increase light-gathering power. Without OCF, CMOS can only detect differences in light level.
+Toppan brought related equipment fr…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【なか卯】いか明太丼【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=241090</id>
