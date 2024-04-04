@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/04/news061.html",
+          "author": null,
+          "description": "コンガテックは、機能検証済みのCOMパッケージ「aReady.COM」を発表した。第1弾として、ボッシュ・レックスロスのOSである「ctrlX OS」に対応した製品を提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/04/news061.html",
+          "publishedOn": "2024-04-04T00:00:00.000Z",
+          "wordCount": 2611,
+          "title": "Linuxベースの「ctrlX OS」に対応した機能検証済みCOM",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/04/cover_news061.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/03/news058.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、IrDA準拠の赤外線トランシーバーモジュール「TFBS4xx」「TFDU4xx」シリーズのアップグレードを発表した。20％長いリンク距離と2kVまで向上したESD耐久性を提供する。",
@@ -694,6 +704,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412101000.html",
+          "author": null,
+          "description": "4日の東京株式市場、日経平均株価は一時700円以上値上がりしています。3日のニューヨーク市場でハイテク関連の銘柄が上昇した流れを受けて、東京市場でも取り引き開始直後から半導体などの銘柄に買い注文が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240404/k10014412101000.html",
+          "publishedOn": "2024-04-04T00:33:24.000Z",
+          "wordCount": 586,
+          "title": "株価 一時700円以上値上がり 半導体などの銘柄に買い注文",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412101_2404040930_0404093326_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412071000.html",
+          "author": null,
+          "description": "アメリカ国務省のキャンベル副長官は3日、来週、首都ワシントンで行われる日米首脳会談の中で、日米両国が防衛装備品などの共同開発・生産で連携を強化することで一致する見通しを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240404/k10014412071000.html",
+          "publishedOn": "2024-04-04T00:05:29.000Z",
+          "wordCount": 733,
+          "title": "米副長官“日米 防衛装備品などの共同開発 連携強化の見通し”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412071_2404040742_0404075113_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412021000.html",
           "author": null,
           "description": "アメリカのFRB＝連邦準備制度理事会のパウエル議長は、今後の利下げについて「経済の強さなどを踏まえれば私たちの政策決定をこれから発表される経済データにゆだねる時間がある」と述べて、利下げを急ぐ必要はないという認識を改めて示しました。",
@@ -702,6 +732,16 @@
           "wordCount": 737,
           "title": "FRB パウエル議長 利下げ急ぐ必要はないという認識 改めて示す",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412021_2404040439_0404064700_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412031000.html",
+          "author": null,
+          "description": "イスラエル軍による攻撃によってガザ地区で国際的なNGOのスタッフ7人が死亡した事態を受けて、現地で活動してきた別のNGOも安全確保が出来ないとして活動を休止することを決め、日増しに悪化する人道状況にさらなる影響が出ています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240404/k10014412031000.html",
+          "publishedOn": "2024-04-03T21:35:46.000Z",
+          "wordCount": 337,
+          "title": "ガザのNGOスタッフ死亡受け 別のNGOも活動休止 人道状況に影響",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412031_2404040458_0404063548_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412061000.html",
@@ -2821,6 +2861,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99734",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/03(水) 18:59:22.54 ID:hTau2mZ80 https:// […]",
+          "link": "https://switchsoku.com/use/99734",
+          "publishedOn": "2024-04-04T00:00:12.000Z",
+          "wordCount": 10150,
+          "title": "任天堂に殺害予告メッセージ‥20代公務員男を威力業務妨害疑いで逮捕",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/04/splatoon-kousien-2023.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99731",
           "author": "SWITCH速報",
           "description": "1: 2024/04/03(水) 11:02:14.84 ID:NIDgH2F10 任天堂は『スーパ […]",
@@ -4626,6 +4676,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241111",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「にんにくやみつき大盛ペペロンチーノ」を世界一詳しく調査しました。   公式YouTubeチャ […]",
+          "link": "https://foodfighter.jp/711sej-omori-peperoncino-2024",
+          "publishedOn": "2024-04-04T00:25:32.000Z",
+          "wordCount": 1795,
+          "title": "【セブンイレブン】にんにくやみつき大盛ペペロンチーノ【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/533dab55c5841aaed21005a61ad9024d.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241090",
           "author": "foodfighter",
