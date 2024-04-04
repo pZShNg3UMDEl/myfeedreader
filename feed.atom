@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T05:15:03.559Z</updated>
+    <updated>2024-04-04T05:29:21.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小林製薬 紅麹問題 社外取締役への報告 症例把握から2か月後]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412351000.html"/>
+        <updated>2024-04-04T05:27:37.000Z</updated>
+        <summary type="html"><![CDATA[「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、小林製薬が社外取締役に問題を報告したのは最初の症例の把握から2か月余りたった、記者会見の当日だったことが会社への取材で分かりました。会社は「社外取締役に報告する内容ではなかったと考えている」と説明しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カブス鈴木誠也 2試合連続ホームラン 3安打4打点でチーム4連勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240404/k10014412371000.html</id>
@@ -75,6 +85,16 @@
         <summary type="html"><![CDATA[Stability AIは、同社のAI音楽生成プラットフォームをアップグレードした「Stable Audio 2.0」を発表した。このツールは無料で、同社のウェブサイトで一般公開されている。 このAIは、ユーザーが楽曲をイメージする文章を入力することで、最大3分のオーディオデータを生成できる。前バー […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衆院憲法審 今国会で初めて開催]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412211000.html"/>
+        <updated>2024-04-04T03:57:22.000Z</updated>
+        <summary type="html"><![CDATA[今の国会で初めてとなる衆議院憲法審査会が開かれ、幹事を選任する手続きが行われました。今後の日程について、自民党は来週、審査会を開いて自由討議を行うことを提案し、立憲民主党は持ち帰って検討すると伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
