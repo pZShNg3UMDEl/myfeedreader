@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T20:50:12.830Z</updated>
+    <updated>2024-04-04T21:11:36.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾東部の地震 震源近い花蓮市で傾いたビル 解体作業開始へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014412821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014412821000.html"/>
+        <updated>2024-04-04T21:06:48.000Z</updated>
+        <summary type="html"><![CDATA[台湾の東部沖で3日起きた地震ではこれまでに10人が死亡し、台湾当局はまだ連絡がとれていない人の所在の確認を急いでいます。一方、震源に近い花蓮市で大きく傾いたビルは、古い耐震基準に基づいて建てられ強度が不足していたとみられ、5日から解体作業が始まります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米大統領 NGOスタッフ死亡でイスラエルに「攻撃容認できない」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014412831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014412831000.html"/>
+        <updated>2024-04-04T20:51:52.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン大統領はイスラエルのネタニヤフ首相と電話で会談し、ガザ地区でイスラエル軍による攻撃でNGOのスタッフ7人が死亡した事態を受け「人道支援にあたる人々への攻撃は容認できない」と述べ、ガザ地区に関するアメリカの今後の政策は、イスラエルの対応次第で決定していくと伝えて対応を迫りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 米議会演説で国際秩序維持に向け責任担う姿勢 強調へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014412851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014412851000.html"/>
+        <updated>2024-04-04T20:37:55.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣が、来週アメリカ議会で行う演説の概要が明らかになりました。ロシアや中国などによる権威主義的な動きによって、自由や民主主義に基づく国際秩序が脅かされているとしてアメリカだけでなく日本も秩序の維持に向けた責任を担っていく姿勢を強調することにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[京都第一赤十字病院 学会が研修施設認定を停止]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240405/k10014412811000.html</id>
