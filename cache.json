@@ -704,6 +704,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412141000.html",
+          "author": null,
+          "description": "4日朝、山梨県甲州市の中央自動車道のトンネルで大型トラックが軽乗用車に追突し、警察などによりますと、軽乗用車に乗っていた2人が病院に運ばれて、このうち1歳くらいの男の子が意識不明の重体だということです。この事故で中央自動車道は一部で通行止めとなっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240404/k10014412141000.html",
+          "publishedOn": "2024-04-04T01:37:34.000Z",
+          "wordCount": 481,
+          "title": "山梨 中央道 大型トラックが軽乗用車に追突 男児が重体",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412141_2404041050_0404105201_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412121000.html",
+          "author": null,
+          "description": "将来、人類が月や火星に進出することを想定して、アメリカ政府は、月などで活動する際の基準となる「月の標準時」の策定に向け、準備を進める方針を明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240404/k10014412121000.html",
+          "publishedOn": "2024-04-04T01:16:46.000Z",
+          "wordCount": 511,
+          "title": "月などで活動する基準の「月の標準時」 米政府 策定へ準備",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412121_2404041007_0404101337_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412101000.html",
           "author": null,
           "description": "4日の東京株式市場、日経平均株価は一時700円以上値上がりしています。3日のニューヨーク市場でハイテク関連の銘柄が上昇した流れを受けて、東京市場でも取り引き開始直後から半導体などの銘柄に買い注文が広がっています。",
@@ -4539,6 +4559,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=41594",
+          "author": "comomo",
+          "description": "たまーーにこれが食べたい！と思ったときに止まらなくなるももこ＠あつらぼです。 今回はとっても寒い日に 「中華丼がどうしても食べたいーー！！」 という気分になりまして（笑） 初めて八宝亭さんに行った際のランチレポ―トです。 まずは場所からどう…",
+          "link": "https://atsugi-lab.com/gourmetreport-happoutei202403/",
+          "publishedOn": "2024-04-04T01:36:05.000Z",
+          "wordCount": 1193,
+          "title": "【話題】中華丼が食べたい！ので昔ながらの町中華「八宝亭」に行ってみた！絶品バラ肉あんかけチャーハンも♡［厚木市寿町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/04/happoutei2024.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=42062",
           "author": "fumie",
