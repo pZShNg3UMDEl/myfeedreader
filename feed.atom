@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T11:20:51.404Z</updated>
+    <updated>2024-04-04T11:35:35.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「今こそ恩返しを」台湾地震 支援の動き広がる 募金箱設置も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412501000.html"/>
+        <updated>2024-04-04T11:30:38.000Z</updated>
+        <summary type="html"><![CDATA[台湾の東部沖で起きた地震を受けて、SNSでは「恩返しを」ということばとともに、台湾への支援を呼びかける投稿が相次いでいます。台湾と交流を続けてきた自治体でも募金箱を設置して、寄付を呼びかける動きが広がっています。※記事では主な寄付先も紹介しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遠野なぎこさん　22歳大学生とデートも割り勘にブチ切れ「ブロックしました」]]></title>
         <id>https://itainews.com/archives/2034426.html</id>
@@ -32,6 +42,16 @@
         <summary type="html"><![CDATA[知念実希人氏による医療ミステリー小説「天久鷹央（あめくたかお）の推理カルテ」のテレビアニメ化が決定した。あわせてティザービジュアルと特報映像が公開されている。 同作は、シリーズ累計発行部数300...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小林製薬「紅麹」問題 延べ188人が入院（4月3日時点）厚労省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412691000.html"/>
+        <updated>2024-04-04T10:07:46.000Z</updated>
+        <summary type="html"><![CDATA[「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、厚生労働省は、3日の時点で延べ188人が入院したことが、小林製薬からの報告で明らかになったと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
