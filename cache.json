@@ -3241,6 +3241,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99766",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/04(木) 17:11:52.95 ID:AURnG4tU00404 DLC+ […]",
+          "link": "https://switchsoku.com/soft/nippon1/99766",
+          "publishedOn": "2024-04-04T12:00:25.000Z",
+          "wordCount": 10039,
+          "title": "日本一『ディスガイア７』完全版‥7月25日 6,578円で発売決定！",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/04/disgaia7-kanzen.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99764",
           "author": "SWITCH速報",
           "description": "1: 2024/04/04(木) 12:19:23.41 ID:HLPenqGF00404 #ファミ […]",
@@ -3794,6 +3804,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120996/",
+          "author": null,
+          "description": "アニメシリーズ「君に届け 3RD SEASON」の世界独占配信が、Netflixで8月にスタートすることが決定した。第1弾PVとキービジュアルも公開されている。 原作漫画は椎名軽穂氏が「別冊マー...",
+          "link": "https://anime.eiga.com/news/120996/",
+          "publishedOn": "2024-04-04T12:00:00.000Z",
+          "wordCount": 1627,
+          "title": "「君に届け 3RD SEASON」8月からNetflixで独占配信開始　第1弾PVとキービジュアルも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120992/",
           "author": null,
