@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T20:13:28.571Z</updated>
+    <updated>2024-04-04T20:24:32.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京都第一赤十字病院 学会が研修施設認定を停止]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014412811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014412811000.html"/>
+        <updated>2024-04-04T20:06:26.000Z</updated>
+        <summary type="html"><![CDATA[京都第一赤十字病院の脳神経外科で手術の記録や安全管理についての検証などが不十分なケースがあったとして、京都市から行政指導を受けたことなどをめぐり、日本脳神経外科学会がこの病院について専門医になるための研修を行う施設としての認定を停止したことが分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ガイジン　「日本人はアジアで３０００万人を殺した」　→　８万いいね]]></title>
         <id>https://itainews.com/archives/2034422.html</id>
@@ -23,6 +33,16 @@
 The Japanese love to pretend that they were just sitting around on the beach braiding flowers into each other's hair when the evil round-eyed devils suddenly targeted them for a...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政治資金問題 自民 39人処分決定も不満や岸田首相の責任問う声]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014412771000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014412771000.html"/>
+        <updated>2024-04-04T20:05:37.000Z</updated>
+        <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる問題で自民党は関係議員ら39人の処分を決定し離党勧告を受けた安倍派の世耕・前参議院幹事長が離党しました。党内からは処分への不満や岸田総理大臣の責任を問う声が出ていて今後の党運営に影響が出ることも予想されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
