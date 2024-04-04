@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T03:50:15.606Z</updated>
+    <updated>2024-04-04T04:17:12.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 1号ホームラン ドジャース移籍後初]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412361000.html"/>
+        <updated>2024-04-04T04:13:51.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手が3日、本拠地のロサンゼルスで行われているジャイアンツ戦に2番・指名打者で先発出場し7回の第4打席に移籍後、1号となるソロホームランを打ちました。開幕から9試合目、41打席目でのホームランです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch2‥｢スペックアップ版」派  vs「任天堂のゲーム機は新たな遊びを」派]]></title>
+        <id>https://switchsoku.com/?p=99748</id>
+        <link href="https://switchsoku.com/switch/99748"/>
+        <updated>2024-04-04T04:00:08.000Z</updated>
+        <summary type="html"><![CDATA[1: 2024/04/04(木) 00:51:29.31 ID:osjQMH6gM ■任天堂の次世代 […]]]></summary>
+        <author>
+            <name>SWITCH速報</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability AI、CD音質で3分間の曲を生成できる「Stable Audio 2.0」発表]]></title>
+        <id>https://gadget.phileweb.com/?p=72940</id>
+        <link href="https://gadget.phileweb.com/post-72940/"/>
+        <updated>2024-04-04T03:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Stability AIは、同社のAI音楽生成プラットフォームをアップグレードした「Stable Audio 2.0」を発表した。このツールは無料で、同社のウェブサイトで一般公開されている。 このAIは、ユーザーが楽曲をイメージする文章を入力することで、最大3分のオーディオデータを生成できる。前バー […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【地震速報】福島県 岩手県 宮城県で震度4 津波の心配なし]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240404/k10014412151000.html</id>
