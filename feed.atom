@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T22:36:16.018Z</updated>
+    <updated>2024-04-04T22:50:14.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[親族いる男性 “身寄りなし”と判断され京都市が火葬と納骨]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014412911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014412911000.html"/>
+        <updated>2024-04-04T22:37:04.000Z</updated>
+        <summary type="html"><![CDATA[京都市で1人暮らしをしていた当時73歳の男性がおととし病気で亡くなった後「身寄りがない」と判断され自治体によって火葬と納骨が行われました。同じ京都市内には弟が住んでいましたが、市から連絡は無かったということで、京都市が先月、親族を捜すための調査が不十分だったと謝罪していたことがわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NY原油先物価格一時87ドル台まで上昇 ダウ平均株価 大幅下落]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240405/k10014412931000.html</id>
