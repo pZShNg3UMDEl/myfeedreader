@@ -263,6 +263,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=72932",
+          "author": "多根清史",
+          "description": "台湾東部沿岸で3日朝に起きたマグニチュード（M）7.2の地震により、大手半導体ファウンダリ（受託製造）TSMCの一部チップ生産ラインが停止し、アップル製品などに影響が出る可能性が浮上している。 過去25年間で最大規模とされる地震により、少なくとも9人が死亡し、数百人が負傷。TSMCにも影響が及び、主 […]",
+          "link": "https://gadget.phileweb.com/post-72932/",
+          "publishedOn": "2024-04-04T03:31:07.000Z",
+          "wordCount": 757,
+          "title": "台湾の大地震、Appleシリコン製造にも影響か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_2137346555.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=72922",
+          "author": "多根清史",
+          "description": "アップルが自社ブランドEV、通称「アップルカー」を開発中止したと報じられてから約1か月が経過した。今度は「次なる大物」を産み出すべく、様々な家庭用ロボット開発を模索していると伝えられている。 同社の内情に詳しいBloombergのMark Gurman記者によれば、その1つは「ユーザーの家の周りを追 […]",
+          "link": "https://gadget.phileweb.com/post-72922/",
+          "publishedOn": "2024-04-04T03:19:32.000Z",
+          "wordCount": 754,
+          "title": "アップル、自社EVの次は家庭用ロボット開発を模索中？",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/Astro.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=72906",
           "author": "佐野正弘",
           "description": "4月に入り、夏の商戦期に向けたスマートフォン新機種発表が徐々に始まるシーズンとなったが、その先陣を切ってスマートフォン新機種の投入を発表したのがサムスン電子である。同社は4月3日に、フラグシップモデル「Galaxy S」の2024年モデル「Galaxy S24」シリーズ2機種を、日本市場に向けて発売 […]",
@@ -703,6 +723,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412151000.html",
+          "author": null,
+          "description": "4日午後0時16分ごろ、福島県と岩手県、宮城県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "link": "http://www3.nhk.or.jp/news/html/20240404/k10014412151000.html",
+          "publishedOn": "2024-04-04T03:34:08.000Z",
+          "wordCount": 576,
+          "title": "【地震速報】福島県 岩手県 宮城県で震度4 津波の心配なし",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412151_2404041229_0404123050_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412241000.html",
+          "author": null,
+          "description": "東京 中央区の湾岸部で建設中の2棟のタワーマンションについて、施工業者が工事で使われるコンクリートを検査した結果、一部に強度が不足するサンプルがあったことが分かりました。このマンションは今月下旬から販売される予定でしたが、いったん休止され、施工業者などがさらに詳しく調べることにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240404/k10014412241000.html",
+          "publishedOn": "2024-04-04T03:24:34.000Z",
+          "wordCount": 505,
+          "title": "東京 建設中のタワマン コンクリート検査で強度不足 販売休止",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240404/K10014412241_2404041215_0404122436_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240404/k10014412171000.html",
           "author": null,
