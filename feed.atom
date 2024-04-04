@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T09:13:32.470Z</updated>
+    <updated>2024-04-04T09:24:45.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[緊急消防援助隊の第1陣 地震発生後24時間以内に目的地到着16％]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240404/k10014412481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240404/k10014412481000.html"/>
+        <updated>2024-04-04T09:16:45.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震が発生したことしの元日、全国から派遣される「緊急消防援助隊」の第1陣が石川県の被災地を目指しましたが、限られた道路がいずれも損壊していたことなどから、陸路で向かった2000人近い人員のうち、地震発生後24時間以内に目的地に到着していたのは16％にとどまっていたことが、各地の消防への取材でわかりました。専門家は、半島などで起きる今後の災害を想定し、体制や計画の見直しが必要だと指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOYAシステム障害 眼鏡用レンズの受注発送停止 不正アクセスか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240404/k10014412561000.html</id>
