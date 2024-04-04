@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T21:36:34.056Z</updated>
+    <updated>2024-04-04T21:50:35.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NY原油先物価格一時87ドル台まで上昇 ダウ平均株価 大幅下落]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014412931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014412931000.html"/>
+        <updated>2024-04-04T21:43:58.000Z</updated>
+        <summary type="html"><![CDATA[4日のニューヨークの金融市場では中東情勢の緊迫化を背景に国際的な原油の先物価格が一時、およそ5か月ぶりに一時、1バレル＝87ドル台まで上昇しました。これを受けてインフレへの懸念が広がり、ダウ平均株価は500ドルを超える大幅な値下がりとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ビアードパパ】ミルフィーユシュー（シュークリーム）【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=241207</id>
