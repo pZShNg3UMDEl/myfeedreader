@@ -824,6 +824,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413831000.html",
+          "author": null,
+          "description": "アメリカの先月の雇用統計が発表され、農業分野以外の就業者は前の月より30万3000人増加し、市場予想を上回りました。また失業率は前の月から0.1ポイント下がって3.8％となりました。アメリカではインフレの要因となってきた人手不足などが依然として続いていることが示された形です。FRB＝連邦準備制度理事会のパウエル議長は利下げを急ぐ必要はないという認識を繰り返し示していて今回の雇用統計がFRBの政策判断に与える影響が注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240405/k10014413831000.html",
+          "publishedOn": "2024-04-05T12:41:28.000Z",
+          "wordCount": 630,
+          "title": "3月の米雇用統計 就業者数 前月より増加 市場予想を上回る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240405/K10014413831_2404052141_0405214258_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413821000.html",
           "author": null,
           "description": "5日午後、埼玉県行田市で車5台が衝突する事故があり、4人が病院に搬送され、このうち40代の女性が死亡しました。",
@@ -3791,6 +3801,16 @@
       "siteUrl": "https://switchsoku.com",
       "articles": [
         {
+          "id": "https://switchsoku.com/?p=99801",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/05(金) 15:55:40.70 ID:Aggpjgse0 日本ファルコムは […]",
+          "link": "https://switchsoku.com/soft/capcom/99801",
+          "publishedOn": "2024-04-05T12:30:59.000Z",
+          "wordCount": 10136,
+          "title": "Swich版『英雄伝説 黎の軌跡II』7月25日発売！スイッチ向けに最適化",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/04/1335702.webp"
+        },
+        {
           "id": "https://switchsoku.com/?p=99795",
           "author": "SWITCH速報",
           "description": "1: 2024/04/04(木) 22:27:15.09 ID:Rov44blPd ロングヒットすぎ […]",
@@ -4424,6 +4444,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121006/",
+          "author": null,
+          "description": "「名探偵コナン 100万ドルの五稜星（みちしるべ）」が4月12日に公開されることを記念して、劇場版「名探偵コナン」シリーズ過去作（8作品）と総集編（2作品）のABEMA初配信が決定。4月5、6日...",
+          "link": "https://anime.eiga.com/news/121006/",
+          "publishedOn": "2024-04-05T12:30:00.000Z",
+          "wordCount": 1651,
+          "title": "劇場版「名探偵コナン」シリーズ＆総集編がABEMA初配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/animehack_editors/120973/",
           "author": null,
