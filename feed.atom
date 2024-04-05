@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T06:16:49.413Z</updated>
+    <updated>2024-04-05T06:36:58.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北海道 三笠市役所に不発弾のような物持ち込まれ 市役所閉鎖]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413401000.html"/>
+        <updated>2024-04-05T06:26:15.000Z</updated>
+        <summary type="html"><![CDATA[5日午前、北海道の三笠市役所に不発弾のような物が住民から持ち込まれ、警察は職員や来庁者を避難させるとともに付近の住民に近づかないよう注意を呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セガリーカーみどり「鬼滅の刃 ヒノカミ血風譚の新作が開発中」]]></title>
         <id>https://switchsoku.com/?p=99787</id>
@@ -92,6 +102,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413311000.html"/>
         <updated>2024-04-05T05:16:32.000Z</updated>
         <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題で、4日に党から離党勧告の処分を受けた塩谷 元文部科学大臣は、5日午後2時半から記者会見を行います。会見の模様をライブ配信でお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国 軍事偵察衛星2号機打ち上げへ 北朝鮮の打ち上げ強行警戒]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413251000.html"/>
+        <updated>2024-04-05T05:12:33.000Z</updated>
+        <summary type="html"><![CDATA[韓国国防省は、軍事偵察衛星の2号機を日本時間の来週8日午前にアメリカから打ち上げると発表しました。これより先に、北朝鮮が追加の軍事偵察衛星の打ち上げを強行するのではないかという見方もあることから、韓国は警戒と監視を強めています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
