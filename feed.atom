@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T14:50:39.180Z</updated>
+    <updated>2024-04-05T15:13:14.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【プロ野球結果】ロッテ小島和哉 12球団一番乗りで完封勝利]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014413931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014413931000.html"/>
+        <updated>2024-04-05T15:02:43.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球は6試合が行われ、ロッテの小島和哉投手が、オリックス打線を相手に得点を許さず、今シーズン12球団一番乗りで完封勝利を挙げました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[結局、Nintendo Switch 2 は今年発表されるの？]]></title>
         <id>https://switchsoku.com/?p=99809</id>
