@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/04/news022.html",
+          "author": null,
+          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「マイコンのパッケージ」についてです。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/04/news022.html",
+          "publishedOn": "2024-04-05T02:00:00.000Z",
+          "wordCount": 2586,
+          "title": "マイコンの「パッケージ」の種類や特徴、選択時の注意点",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/04/cover_news022.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/05/news042.html",
           "author": null,
           "description": "インフィニオン テクノロジーズは、200V耐圧のMOSFET「OptiMOS 6」ファミリーを発表した。同社前世代品と比較してオン抵抗が42％、逆回復電荷量が最大89％低減し、ソフトリカバリー特性が向上している。",
@@ -272,6 +282,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=72995",
+          "author": "多根清史",
+          "description": "今年秋に登場とみられる「iPhone 16 Pro」および「iPhone 16 Pro Max」では、前モデルより僅かにディスプレイが大きくなると噂されている。そのアプローチの1つが、画面周りのベゼルを薄くすることだ。本体サイズの大型化を抑えつつ、表示面積を広くするというわけだ。 しかし、アップルの […]",
+          "link": "https://gadget.phileweb.com/post-72995/",
+          "publishedOn": "2024-04-05T02:34:16.000Z",
+          "wordCount": 795,
+          "title": "「iPhone 16」のベゼルはさらに薄型化、そのためディスプレイ生産が難航か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/Apple-Event-9月13日-Apple-56-24-screenshot.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=72973",
           "author": "Munenori Taniguchi",
