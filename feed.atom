@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T15:35:35.718Z</updated>
+    <updated>2024-04-05T15:50:19.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小林製薬 消費者庁が求めた安全性根拠の再検証について報告]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014413951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014413951000.html"/>
+        <updated>2024-04-05T15:48:27.000Z</updated>
+        <summary type="html"><![CDATA[「小林製薬」の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で、消費者庁が会社に求めていた製品の安全性の根拠の再検証についての報告があり、会社側は「厚生労働省などと連携して原因究明を行っている最中であり、紅麹原料と米紅麹ポリケチドについて安全に摂取できると評価することはできない」などとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年3月30日から4月5日】]]></title>
+        <id>https://foodfighter.jp/?p=241304</id>
+        <link href="https://foodfighter.jp/ranking-2024-0406"/>
+        <updated>2024-04-05T15:39:12.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年3月30日から4月5日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキン […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【プロ野球結果】ロッテ小島和哉 12球団一番乗りで完封勝利]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240406/k10014413931000.html</id>
