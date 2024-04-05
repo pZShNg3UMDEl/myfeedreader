@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T09:35:40.726Z</updated>
+    <updated>2024-04-05T09:50:11.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小林製薬「紅麹」供給受けた173社 期限までに健康被害報告なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413681000.html"/>
+        <updated>2024-04-05T09:47:26.000Z</updated>
+        <summary type="html"><![CDATA[小林製薬の「紅麹」の成分を含む健康食品を摂取した人が腎臓の病気などを発症した問題で厚生労働省は、小林製薬の紅麹原料を仕入れた企業に健康被害の情報が寄せられた製品がないかなど自主点検を求めていましたが、報告期限までに、該当する製品の報告が無かったことが関係者への取材でわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東北新幹線エンジンオイル漏れトラブル 装置に初期不良原因か]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240405/k10014413621000.html</id>
