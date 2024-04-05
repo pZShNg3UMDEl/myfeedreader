@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T21:22:00.039Z</updated>
+    <updated>2024-04-05T21:35:37.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾東部の地震 被災者支援 大分の大学生カフェの売り上げ寄付]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014413911000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014413911000.html"/>
+        <updated>2024-04-05T21:31:11.000Z</updated>
+        <summary type="html"><![CDATA[台湾の東部沖で起きた地震で被災した人たちを支援しようと、大分県別府市の大学生が自身が経営するカフェの売り上げを寄付する取り組みを始めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾東部の地震 きょう発生72時間に 連絡取れない人捜索に全力]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240406/k10014413781000.html</id>
