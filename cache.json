@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/05/news042.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、200V耐圧のMOSFET「OptiMOS 6」ファミリーを発表した。同社前世代品と比較してオン抵抗が42％、逆回復電荷量が最大89％低減し、ソフトリカバリー特性が向上している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/05/news042.html",
+          "publishedOn": "2024-04-05T00:00:00.000Z",
+          "wordCount": 2598,
+          "title": "前世代品比でオン抵抗を42％低減した200V耐圧MOSFET",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/05/cover_news042.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/04/news061.html",
           "author": null,
           "description": "コンガテックは、機能検証済みのCOMパッケージ「aReady.COM」を発表した。第1弾として、ボッシュ・レックスロスのOSである「ctrlX OS」に対応した製品を提供する。",
@@ -763,6 +773,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413011000.html",
+          "author": null,
+          "description": "イスラエルの主要メディアによりますとイスラエルの戦時内閣はガザ地区への人道支援物資の搬入のためガザ地区北部と接するエレズ検問所の一時的な開放を承認したということです。エレズ検問所の開放は、去年10月にイスラエルとイスラム組織ハマスの戦闘が始まって以来、初めてだということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240405/k10014413011000.html",
+          "publishedOn": "2024-04-05T00:53:29.000Z",
+          "wordCount": 631,
+          "title": "イスラエル 検問所一時的な開放承認 ガザ地区人道支援物資搬入",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240405/K10014413011_2404050939_0405095331_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413001000.html",
+          "author": null,
+          "description": "5日の東京株式市場、日経平均株価は一時、700円以上、値下がりしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240405/k10014413001000.html",
+          "publishedOn": "2024-04-05T00:42:55.000Z",
+          "wordCount": 618,
+          "title": "株価 一時 700円以上値下がり NY市場で株価下落の流れを受け",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240405/K10014413001_2404050936_0405094603_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240405/k10014412941000.html",
           "author": null,
@@ -3360,6 +3390,16 @@
       "feedUrl": "http://switchsoku.com/feed",
       "siteUrl": "https://switchsoku.com",
       "articles": [
+        {
+          "id": "https://switchsoku.com/?p=99772",
+          "author": "SWITCH速報",
+          "description": "1: 2024/04/05(金) 06:31:10.21 ID:3sLbR8zI0 似たようなゲーム […]",
+          "link": "https://switchsoku.com/soft/99772",
+          "publishedOn": "2024-04-05T00:00:32.000Z",
+          "wordCount": 10057,
+          "title": "インティクリエイツが新作パズルゲームを発表",
+          "imageUrl": "https://switchsoku.com/wp-content/uploads/2024/04/78cb8c828045ab24480b993b75f3af8a6e5e4853b4c9ec5ecb2837f32a9209ff.webp"
+        },
         {
           "id": "https://switchsoku.com/?p=99769",
           "author": "SWITCH速報",
