@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T13:36:43.833Z</updated>
+    <updated>2024-04-05T13:50:35.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -176,6 +176,16 @@ https://news.yaho...]]></summary>
         <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413691000.html"/>
         <updated>2024-04-05T11:34:55.000Z</updated>
         <summary type="html"><![CDATA[南海トラフで巨大地震が起きる可能性を評価する定例の検討会が開かれ、「特段の変化は観測されていない」とする評価結果をまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小林製薬「紅麹コレステヘルプ」原料の製造工場 GMP認定なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413721000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413721000.html"/>
+        <updated>2024-04-05T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[摂取した人が腎臓の病気などを発症した「小林製薬」の「紅麹コレステヘルプ」について、原料を製造していた大阪の工場は、厚生労働省の通知で取得が望ましいとされる適正な品質管理の規範の認定を受けておらず、食品安全の専門家は「基本姿勢が安全第一ではなかった」と指摘しています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
