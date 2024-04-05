@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T11:35:55.722Z</updated>
+    <updated>2024-04-05T11:51:09.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍 高官2人を解任する声明 NGOスタッフ7人死亡受け]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413811000.html"/>
+        <updated>2024-04-05T11:46:24.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区で1日、食料支援にあたる国際的なNGOのスタッフ7人がイスラエル軍の攻撃で死亡したことについてイスラエル軍は5日、軍の高官2人を解任するとの声明を発表しました。声明では「空爆を承認した者たちはNGOのスタッフではなくハマスの戦闘員を標的にしていると確信していた。攻撃は誤った識別、誤った意思決定、標準の手順に反したことによるもので、重大な失敗に起因する重大な過ちだ」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南海トラフ巨大地震の評価検討会 “特段の変化観測されず”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413691000.html"/>
+        <updated>2024-04-05T11:34:55.000Z</updated>
+        <summary type="html"><![CDATA[南海トラフで巨大地震が起きる可能性を評価する定例の検討会が開かれ、「特段の変化は観測されていない」とする評価結果をまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本人の海外出稼ぎ売春、ガチで増えていた…]]></title>
         <id>https://itainews.com/archives/2034447.html</id>
