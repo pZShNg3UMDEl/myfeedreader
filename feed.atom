@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T03:27:16.233Z</updated>
+    <updated>2024-04-05T03:38:05.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自民39人処分 “政治不信招いた責任 厳正に処分” 岸田首相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413191000.html"/>
+        <updated>2024-04-05T03:28:51.000Z</updated>
+        <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる問題で自民党が処分を決定したことについて、岸田総理大臣は派閥幹部などの立場にありながら、結果として長年にわたり不記載の慣行を放置し大きな政治不信を招いた責任を踏まえ、厳正に処分したと重ねて説明しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[川勝知事辞職の意向表明 “リニア JRと県の対話促す” 国交相]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240405/k10014413111000.html</id>
