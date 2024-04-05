@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T20:50:11.490Z</updated>
+    <updated>2024-04-05T21:11:52.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾東部の地震 きょう発生72時間に 連絡取れない人捜索に全力]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014413781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014413781000.html"/>
+        <updated>2024-04-05T21:05:47.000Z</updated>
+        <summary type="html"><![CDATA[台湾の東部沖で起きた地震は、6日午前で、生存率が急激に下がるとされる、発生から72時間となり、台湾当局は依然として連絡の取れていない10人の捜索に全力を挙げています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民 塩谷氏 処分再審査の請求検討 処分の余波続くか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014413761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014413761000.html"/>
+        <updated>2024-04-05T21:01:18.000Z</updated>
+        <summary type="html"><![CDATA[派閥の政治資金パーティーをめぐる問題で離党勧告となった安倍派の塩谷・元文部科学大臣は処分の再審査の請求を検討しています。党内には信頼回復を目指す取り組みに水を差すものだという意見の一方、処分を決めた執行部への不満も根強く、余波が続くことも予想されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NGOスタッフ死亡 国連安保理が緊急会合 各国から非難相次ぐ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240406/k10014414011000.html</id>
