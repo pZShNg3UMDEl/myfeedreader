@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T09:23:21.789Z</updated>
+    <updated>2024-04-05T09:35:40.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東北新幹線エンジンオイル漏れトラブル 装置に初期不良原因か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413621000.html"/>
+        <updated>2024-04-05T09:33:37.000Z</updated>
+        <summary type="html"><![CDATA[今月2日、東北新幹線の福島駅付近で点検用車両からエンジンオイルが漏れ、長時間にわたって運転を見合わせたトラブルで、JR東日本はエンジンの付属装置でボルトが外れ、これをきっかけに装置が破損して中からオイルが漏れ出したとみられると明らかにしました。今回の車両は使い始めたばかりで装置に初期不良があったとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イラン軍事精鋭部隊 司令官ら葬儀 イスラエルへ報復を求める声]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240405/k10014413561000.html</id>
