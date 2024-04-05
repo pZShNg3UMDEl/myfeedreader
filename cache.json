@@ -824,6 +824,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413421000.html",
+          "author": null,
+          "description": "ことし2月の景気動向指数は、一部の自動車メーカーの生産停止による影響などで、景気の現状を示す指数が2か月連続で低下しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240405/k10014413421000.html",
+          "publishedOn": "2024-04-05T07:16:59.000Z",
+          "wordCount": 739,
+          "title": "2月の景気動向指数 前月比1.2ポイント↓  自動車生産停止影響",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240405/K10014413421_2404051613_0405161346_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413431000.html",
+          "author": null,
+          "description": "能登半島地震の影響で断水が続いていた石川県七尾市では、4月1日に上水道に水が通るようになりましたが、和倉温泉の宿泊施設では、配管が壊れている影響などで7割ほどの施設で断水が続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240405/k10014413431000.html",
+          "publishedOn": "2024-04-05T07:11:10.000Z",
+          "wordCount": 751,
+          "title": "石川 七尾市の上水道通水も 和倉温泉宿泊施設 約7割断水続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240405/K10014413431_2404051544_0405160745_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413391000.html",
+          "author": null,
+          "description": "ミャンマーの民主派勢力は、首都ネピドーで、無人機を使って軍の司令部と空軍基地を攻撃したと発表しました。これに対し、軍は無人機を撃墜して被害はなかったとしていますが、厳重な警戒態勢を敷く首都の複数の場所が同時に無人機による攻撃を受けたことに衝撃が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240405/k10014413391000.html",
+          "publishedOn": "2024-04-05T07:03:35.000Z",
+          "wordCount": 648,
+          "title": "ミャンマー民主派勢力 軍司令部と空軍基地を無人機攻撃と発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240405/K10014413391_2404051515_0405160056_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240405/k10014413401000.html",
           "author": null,
           "description": "5日午前、北海道の三笠市役所に不発弾のような物が住民から持ち込まれ、警察は職員や来庁者を避難させるとともに付近の住民に近づかないよう注意を呼びかけています。",

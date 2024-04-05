@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T07:22:32.223Z</updated>
+    <updated>2024-04-05T07:35:18.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2月の景気動向指数 前月比1.2ポイント↓  自動車生産停止影響]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413421000.html"/>
+        <updated>2024-04-05T07:16:59.000Z</updated>
+        <summary type="html"><![CDATA[ことし2月の景気動向指数は、一部の自動車メーカーの生産停止による影響などで、景気の現状を示す指数が2か月連続で低下しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 七尾市の上水道通水も 和倉温泉宿泊施設 約7割断水続く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413431000.html"/>
+        <updated>2024-04-05T07:11:10.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の影響で断水が続いていた石川県七尾市では、4月1日に上水道に水が通るようになりましたが、和倉温泉の宿泊施設では、配管が壊れている影響などで7割ほどの施設で断水が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミャンマー民主派勢力 軍司令部と空軍基地を無人機攻撃と発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413391000.html"/>
+        <updated>2024-04-05T07:03:35.000Z</updated>
+        <summary type="html"><![CDATA[ミャンマーの民主派勢力は、首都ネピドーで、無人機を使って軍の司令部と空軍基地を攻撃したと発表しました。これに対し、軍は無人機を撃墜して被害はなかったとしていますが、厳重な警戒態勢を敷く首都の複数の場所が同時に無人機による攻撃を受けたことに衝撃が広がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ちいかわとコラボした中国小売店「智障愛哭鼠」「瘋狂怪叫兔」と紹介して炎上、謝罪]]></title>
         <id>https://itainews.com/archives/2034436.html</id>
