@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T05:37:11.099Z</updated>
+    <updated>2024-04-05T05:50:17.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[沖縄 大宜味村 土砂災害警戒区域に避難指示]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413351000.html"/>
+        <updated>2024-04-05T05:36:59.000Z</updated>
+        <summary type="html"><![CDATA[沖縄気象台と沖縄県は、5日午後1時55分、国頭村と大宜見村に土砂災害警戒情報を出しました。土砂災害警戒情報が出されたことを受けて、大宜味村は午後2時6分に土砂災害警戒区域の住民に避難指示を出しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X（Twitter）、認証済みフォロワー数2500人以上のアカウントに青バッジを勝手に付与]]></title>
         <id>https://gadget.phileweb.com/?p=72988</id>
