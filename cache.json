@@ -834,6 +834,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240406/k10014414181000.html",
+          "author": null,
+          "description": "小林製薬の紅麹の成分を含むサプリメントを摂取した人が腎臓の病気などを発症した問題で、厚生労働省は大阪市とともに会社側から聞き取り調査を行うため、大阪 中央区の小林製薬本社に入りました。厚生労働省などは製造工場にも先週、立ち入り検査を行っていて、聞き取り調査では会社の業務の管理体制や問題を把握してからの対応の経緯などについて確認するものとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240406/k10014414181000.html",
+          "publishedOn": "2024-04-06T04:09:05.000Z",
+          "wordCount": 626,
+          "title": "小林製薬「紅麹」問題 厚生労働省が本社で聞き取り",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240406/K10014414181_2404061258_0406130851_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240406/k10014414161000.html",
           "author": null,
           "description": "小田急小田原線は、東京 町田市の鶴川駅で発生した人身事故の影響で、新百合ヶ丘駅と町田駅の間の上下線で運転を見合わせていましたが、午後0時25分ごろ、運転を再開しました。",
@@ -4050,6 +4060,16 @@
       "feedUrl": "https://www.famitsu.com/rss/category/fcom_news_switch.rdf",
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
+        {
+          "id": "https://www.famitsu.com/news/202404/06338846.html",
+          "author": null,
+          "description": "『ドラゴンクエストX　オンライン』（以下、『DQX』）の広大な世界を、『DQ』シリーズ大好きライター・ゴジラ太田の操る“ジーラ”が自由気ままに冒険する、“ジーラの放浪録”をお届けします！　連載第468回（通算568回）。",
+          "link": "https://www.famitsu.com/news/202404/06338846.html",
+          "publishedOn": "2024-04-06T04:00:00.000Z",
+          "wordCount": 1714,
+          "title": "『ドラゴンクエストX　オンライン』プレイ日記　なかまモンスターのブラウニーが強い。さっそく連れて行こうとしたら……？（第468回）",
+          "imageUrl": "https://www.famitsu.com/images/000/338/846/z_661088d8ddf1c.jpg"
+        },
         {
           "id": "https://www.famitsu.com/news/202404/06338580.html",
           "author": null,
