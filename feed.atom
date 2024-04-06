@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T06:36:25.319Z</updated>
+    <updated>2024-04-06T06:50:17.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾の半導体大手TSMCの熊本工場を岸田首相が視察 事業支援へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014414211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014414211000.html"/>
+        <updated>2024-04-06T06:40:51.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣は、台湾の半導体大手、TSMCが熊本県に建設した工場を視察し、日本経済全体への波及効果が期待できるとして事業を支援していく考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch『ドラゴン最強王図鑑 バトルコロシアム』7月4日発売。多彩なドラゴンたちを育成して最強を目指す育成バトルシミュレーション]]></title>
         <id>https://www.famitsu.com/news/202404/06338664.html</id>
