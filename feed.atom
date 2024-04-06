@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T17:36:36.596Z</updated>
+    <updated>2024-04-06T17:50:20.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414631000.html"/>
         <updated>2024-04-06T15:21:24.000Z</updated>
         <summary type="html"><![CDATA[台湾の次の副総統の蕭美琴氏が3月にチェコを訪問した際、現地の中国大使館の関係者が蕭氏を尾行したと報じられ、台湾外交部は「チェコ側が調べている」と明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カギ握る“実質賃金” プラスに転換するか【経済コラム】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240405/k10014413231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240405/k10014413231000.html"/>
+        <updated>2024-04-06T15:06:39.000Z</updated>
+        <summary type="html"><![CDATA[今月4日、連合が公表した春闘の最新の賃上げ率は、平均5.24％となった。先月に続き今回の時点でも5％を上回り、33年ぶりの水準を維持している。しかし、物価上昇の影響で“実質賃金”のマイナスが続くなか、「実感はない」という声も聞こえる。こうした中、春闘での賃上げが給料に反映される新年度を迎えた。“実質賃金”がようやくプラスに転換するのではないかという見方が出てきている。（経済部記者 榎嶋愛理）]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
