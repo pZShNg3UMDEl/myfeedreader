@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T09:36:30.592Z</updated>
+    <updated>2024-04-06T09:50:24.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秋篠宮さま 悠仁さま 都内の大学農学部 研究施設などに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014414351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014414351000.html"/>
+        <updated>2024-04-06T09:40:40.000Z</updated>
+        <summary type="html"><![CDATA[秋篠宮さまと長男の悠仁さまは、東京都内の大学で農学部の研究施設などをご覧になりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京 上野公園 サクラ満開発表から初の週末 花見客でにぎわう]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014414411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014414411000.html"/>
+        <updated>2024-04-06T09:39:55.000Z</updated>
+        <summary type="html"><![CDATA[都内ではサクラの満開が発表されてから初めての週末を迎え、花見の名所として知られる東京 台東区の上野公園は多くの人でにぎわっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワークマン系企業、畳半帖のサウナを発売、399,000円(送料全国一律25,000円込み)]]></title>
         <id>https://itainews.com/archives/2034461.html</id>
