@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T23:12:46.180Z</updated>
+    <updated>2024-04-06T23:23:10.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[長野 小諸 「侍フォトコンテスト」開催 戦国武将を撮影し投稿]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414621000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414621000.html"/>
+        <updated>2024-04-06T23:12:02.000Z</updated>
+        <summary type="html"><![CDATA[長野県内有数の観光名所、小諸市の小諸城址懐古園で戦国武将などにふんした人たちの写真を撮影してSNSに投稿してもらう「侍フォトコンテスト」が開かれました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[後期高齢者医療制度 保険料の全国平均が初の月7000円超見込み]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414511000.html"/>
+        <updated>2024-04-06T23:07:59.000Z</updated>
+        <summary type="html"><![CDATA[75歳以上の人が加入する「後期高齢者医療制度」の今年度の保険料は、現役世代の負担増を抑える制度改正などによって、全国平均の月額で初めて7000円を超える見込みとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエルとハマス 戦闘開始から半年 犠牲者は3万3000人超に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240407/k10014414531000.html</id>
