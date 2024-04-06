@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T10:38:38.929Z</updated>
+    <updated>2024-04-06T10:50:30.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾 東部沖地震 新たに3人死亡確認 あわせて13人に 捜索続く]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240406/k10014414441000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240406/k10014414441000.html"/>
+        <updated>2024-04-06T10:42:27.000Z</updated>
+        <summary type="html"><![CDATA[台湾の東部沖で起きた地震で、台湾当局は新たに3人の死亡を確認し、亡くなった人は合わせて13人になりました。また震源に近い花蓮県の渓谷周辺では寸断されていた道路の一部が復旧し、足止めされていた人たちの救助が加速するとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸田首相 熊本で車座対話 “政治資金規正法 今国会で改正を”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240406/k10014414451000.html</id>
