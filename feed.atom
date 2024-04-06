@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T21:22:40.824Z</updated>
+    <updated>2024-04-06T21:36:21.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルとハマス 戦闘開始から半年 犠牲者は3万3000人超に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414531000.html"/>
+        <updated>2024-04-06T21:32:54.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの戦闘が始まってから7日で半年となりイスラエル軍の攻撃が続くガザ地区での死者は3万3000人を超え、人道状況も深刻化しています。戦闘休止に向けた交渉をめぐり双方の立場の隔たりは依然として大きく、国際社会が働きかけを強め合意の糸口を見いだせるかが焦点です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なでしこジャパン アメリカに先制も逆転負け 国際大会の初戦で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414561000.html"/>
+        <updated>2024-04-06T21:29:01.000Z</updated>
+        <summary type="html"><![CDATA[サッカー女子の日本代表、「なでしこジャパン」は、パリオリンピックに向けたチーム強化のために出場している国際大会の初戦でアメリカと対戦し、1対2で逆転負けを喫しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安定的な皇位継承のあり方 各党の考えまとまり次第 国会協議へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240407/k10014414491000.html</id>
