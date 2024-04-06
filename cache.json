@@ -834,6 +834,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240406/k10014414131000.html",
+          "author": null,
+          "description": "岸田総理大臣が来週、アメリカを訪問するのに合わせて開かれる、日米にフィリピンを加えた初めての首脳会談で3か国は、南シナ海での活動を活発化させている中国を念頭に、海洋での協力について協議する枠組みを新たに設置することで合意する見通しであることが明らかになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240406/k10014414131000.html",
+          "publishedOn": "2024-04-06T03:25:46.000Z",
+          "wordCount": 796,
+          "title": "米 日 フィリピン 海洋協力を協議する枠組み設置で合意へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240406/K10014414131_2404061219_0406122548_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240406/k10014414101000.html",
           "author": null,
           "description": "群馬県警察本部によりますと、6日午前9時前、群馬県高崎市の上信電鉄の踏切で小学生とみられる女の子が列車にはねられて死亡したということです。はねたのは上信電鉄の下仁田駅発・高崎駅行きの上り列車で、警察が詳しい状況を調べています。",
@@ -4524,6 +4534,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120968/",
+          "author": null,
+          "description": "ディズニーがグローバルで展開する定額制公式動画配信サービス「ディズニープラス」。4月は、2024年にデビュー40周年を迎えた伝説的ロックバンド「ボン・ジョビ」の、初の公式ドキュメンタリーとなる「...",
+          "link": "https://anime.eiga.com/news/120968/",
+          "publishedOn": "2024-04-06T03:30:00.000Z",
+          "wordCount": 1954,
+          "title": "【ディズニープラス　4月配信ラインナップ】日本アニメ＆韓国ドラマが続々　ボン・ジョビ初の公式ドキュメンタリーも登場",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120983/",
           "author": null,
