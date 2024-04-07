@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T21:36:48.386Z</updated>
+    <updated>2024-04-07T21:50:31.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政治資金問題 与野党 政治改革の特別委 週内にも設置へ調整]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415181000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415181000.html"/>
+        <updated>2024-04-07T21:48:31.000Z</updated>
+        <summary type="html"><![CDATA[自民党の派閥の政治資金パーティーをめぐる問題を受けて、与野党は、週内にも、衆参両院に政治改革を議論する特別委員会を設置する方向で調整しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁 外貨建て一時払い保険販売めぐり 金融機関に改善求める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415141000.html"/>
+        <updated>2024-04-07T21:38:22.000Z</updated>
+        <summary type="html"><![CDATA[外貨建て一時払い保険という金融商品の販売をめぐり、購入後4年間という短期間での解約が6割に上るうえ、解約した顧客に再び同様の商品を販売して手数料を得ているケースが多発しているとして、金融庁は金融機関に改善を求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全国のトラック運送業者 57％が赤字 業界団体が経営状況を分析]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240408/k10014415131000.html</id>
