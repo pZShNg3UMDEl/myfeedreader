@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T07:35:29.898Z</updated>
+    <updated>2024-04-07T07:50:26.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[競馬 桜花賞 2番人気のステレンボッシュが優勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414921000.html"/>
+        <updated>2024-04-07T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[競馬のことし最初のクラシックレース「第84回桜花賞」が阪神競馬場で行われ、2番人気のステレンボッシュが優勝しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B’zが「Get Wild」カバーで騒然]]></title>
         <id>https://itainews.com/archives/2034483.html</id>
