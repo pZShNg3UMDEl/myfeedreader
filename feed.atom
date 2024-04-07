@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T22:26:24.598Z</updated>
+    <updated>2024-04-07T22:37:51.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル国防相 “ガザ地区南部に展開の部隊を撤収させた”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415201000.html"/>
+        <updated>2024-04-07T22:29:07.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルのガラント国防相はイスラム組織ハマスとの戦闘開始から半年となった7日、ガザ地区南部のハンユニスに展開する部隊を撤収させたと明らかにしました。最も南にあるラファなどでの今後の作戦に備えるためだとしていますが、アメリカは引き続き、多くの避難者が身を寄せるラファでの大規模な地上作戦に反対する姿勢です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ゆで太郎】朝ラーメン（ざるラーメン）【朝食メニュー】]]></title>
         <id>https://foodfighter.jp/?p=241542</id>
