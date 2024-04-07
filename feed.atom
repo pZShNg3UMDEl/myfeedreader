@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T23:35:44.213Z</updated>
+    <updated>2024-04-07T23:50:16.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2月の実質賃金 前年同月比1.3％減少 23か月連続のマイナス]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014414871000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014414871000.html"/>
+        <updated>2024-04-07T23:34:32.000Z</updated>
+        <summary type="html"><![CDATA[ことし2月の働く人1人当たりの実質賃金は前の年の同じ月に比べて1.3％減少し、23か月連続のマイナスとなりました。厚生労働省は「ことしは春闘で高い水準の賃上げが行われているので、今後、プラスに転じるのかを注視していきたい」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国連 衛星センター“ガザ地区 全体の建物の35％が被害”と分析]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240408/k10014415231000.html</id>
