@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T03:13:58.156Z</updated>
+    <updated>2024-04-07T03:25:00.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[武見厚労相“地域ごとに医師数割り当ても検討” 日曜討論]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414711000.html"/>
+        <updated>2024-04-07T03:15:35.000Z</updated>
+        <summary type="html"><![CDATA[武見厚生労働大臣はNHKの「日曜討論」で、医師が都市部などに偏り、地方の病院で不足する偏在の問題をめぐり、地域ごとに医師の数を割り当てることも含めて検討すべきだという考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女児死亡の踏切事故 国の運輸安全委が調査開始 群馬 高崎]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240407/k10014414731000.html</id>
