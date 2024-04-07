@@ -833,6 +833,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240407/k10014414771000.html",
+          "author": null,
+          "description": "能登半島地震で大きな被害を受けた石川県の七尾湾特産の「能登かき」を食べて、被災地を応援しようというイベントが金沢市で開かれています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240407/k10014414771000.html",
+          "publishedOn": "2024-04-07T03:20:48.000Z",
+          "wordCount": 737,
+          "title": "七尾湾「能登かき」を食べて被災地応援するイベント 金沢",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240407/K10014414771_2404071210_0407122050_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240407/k10014414711000.html",
           "author": null,
           "description": "武見厚生労働大臣はNHKの「日曜討論」で、医師が都市部などに偏り、地方の病院で不足する偏在の問題をめぐり、地域ごとに医師の数を割り当てることも含めて検討すべきだという考えを示しました。",
@@ -5004,6 +5014,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120989/",
+          "author": null,
+          "description": "累計発行部数700万部を超える大人気傑作漫画「ブルーピリオド」の実写映画化が4月2日発表され、眞栄田郷敦、高橋文哉、板垣李光人、桜田ひよりが同日、撮影の舞台となった美術予備校、ena美術（旧新宿...",
+          "link": "https://anime.eiga.com/news/120989/",
+          "publishedOn": "2024-04-07T03:30:00.000Z",
+          "wordCount": 1620,
+          "title": "眞栄田郷敦、実写版「ブルーピリオド」は「めちゃくちゃ見てほしい作品」　メインキャスト4人が美術予備校でトーク配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120980/",
           "author": null,
           "description": "7月3日～9月23日に東京・国立新美術館で開催される「CLAMP展」の第2弾キービジュアルが公開された。 1989年に「聖伝‐RG VEDA‐」で商業誌デビューした「CLAMP」は、いがらし寒月...",
@@ -6655,6 +6680,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241478",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、24時間営業でいつでもどこでも食べられる有名蕎麦チェーン「名代 富士そば」へ進撃しました。 &nbs […]",
+          "link": "https://foodfighter.jp/fujisoba-curry-katsudon-set",
+          "publishedOn": "2024-04-07T03:33:58.000Z",
+          "wordCount": 1856,
+          "title": "【名代 富士そば】カレーかつ丼セット【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/6c1fc458aceeb89fc6626a511165d8ad.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241449",
           "author": "foodfighter",
