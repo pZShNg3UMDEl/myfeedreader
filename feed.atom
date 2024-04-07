@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T21:12:10.969Z</updated>
+    <updated>2024-04-07T21:22:16.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全国のトラック運送業者 57％が赤字 業界団体が経営状況を分析]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415131000.html"/>
+        <updated>2024-04-07T21:10:35.000Z</updated>
+        <summary type="html"><![CDATA[全国のトラック運送業者でつくる団体が会員の事業者の経営状況を分析した結果、57％が赤字となっていることがわかりました。物流の「2024年問題」への対応が課題となる中、業界団体は小規模な事業者ほど慢性的な赤字となっているケースが多いと分析しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾 東部沖地震 6人と連絡取れず 無人機も活用し捜索続ける]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415191000.html"/>
+        <updated>2024-04-07T20:32:33.000Z</updated>
+        <summary type="html"><![CDATA[今月3日に台湾の東部沖で起きた地震では、依然として6人と連絡が取れなくなっていて、捜索が行われている渓谷の周辺では、相次ぐ地震による落石などで捜索が難航する中、7日から無人機を専門に扱うトルコの救助隊も加わって懸命な捜索が続けられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸田首相 日米首脳会談に向け きょうから訪米へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240408/k10014414811000.html</id>
