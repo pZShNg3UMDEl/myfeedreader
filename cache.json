@@ -825,24 +825,33 @@
       "title": "Mr.Children Official Channel",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXteDRy5qB0IjA8WPusCJ7w",
       "siteUrl": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=nyr_m3I3C_s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nyr_m3I3C_s",
-          "publishedOn": "2024-03-08T13:00:51.000Z",
-          "wordCount": null,
-          "title": "「Mr.Children tour 2024 miss you arena tour」Teaser",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NHKニュース",
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240407/k10014414551000.html",
+          "author": null,
+          "description": "東京・上野動物園で、日本で最初に開業したモノレールに代わり、ジェットコースターと同じ構造を利用した乗り物が園内を走行することとなりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240407/k10014414551000.html",
+          "publishedOn": "2024-04-07T00:09:01.000Z",
+          "wordCount": 766,
+          "title": "上野動物園 日本最初のモノレールに代わり新しい乗り物運用へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240407/K10014414551_2404062105_0406211233_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240407/k10014414671000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの山本由伸投手は6日、カブスとの試合に先発し、5回を無失点に抑えてドジャースに移籍後、3試合目の登板で大リーグ初勝利をあげました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240407/k10014414671000.html",
+          "publishedOn": "2024-04-07T00:02:40.000Z",
+          "wordCount": 823,
+          "title": "ドジャース 山本由伸 カブス戦で大リーグ初勝利 大谷は2安打",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240407/K10014414671_2404070904_0407090520_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240407/k10014414651000.html",
           "author": null,
@@ -6581,6 +6590,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241424",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム ちいさな贅沢シューアイス バニラ 6個入」を世界一詳しく調査しました。   […]",
+          "link": "https://foodfighter.jp/711sej-cream-puff-ice-vanilla",
+          "publishedOn": "2024-04-07T00:04:19.000Z",
+          "wordCount": 1807,
+          "title": "【セブンイレブン】セブンプレミアム ちいさな贅沢シューアイス バニラ 6個入【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/29ceecf19b1d859b0b5223a84c6b7b11.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241403",
           "author": "foodfighter",

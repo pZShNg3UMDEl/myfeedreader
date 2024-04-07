@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T23:50:19.154Z</updated>
+    <updated>2024-04-07T01:03:37.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上野動物園 日本最初のモノレールに代わり新しい乗り物運用へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414551000.html"/>
+        <updated>2024-04-07T00:09:01.000Z</updated>
+        <summary type="html"><![CDATA[東京・上野動物園で、日本で最初に開業したモノレールに代わり、ジェットコースターと同じ構造を利用した乗り物が園内を走行することとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム ちいさな贅沢シューアイス バニラ 6個入【新作アイス】]]></title>
+        <id>https://foodfighter.jp/?p=241424</id>
+        <link href="https://foodfighter.jp/711sej-cream-puff-ice-vanilla"/>
+        <updated>2024-04-07T00:04:19.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム ちいさな贅沢シューアイス バニラ 6個入」を世界一詳しく調査しました。   […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドジャース 山本由伸 カブス戦で大リーグ初勝利 大谷は2安打]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240407/k10014414671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240407/k10014414671000.html"/>
+        <updated>2024-04-07T00:02:40.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの山本由伸投手は6日、カブスとの試合に先発し、5回を無失点に抑えてドジャースに移籍後、3試合目の登板で大リーグ初勝利をあげました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メキシコ エクアドルと国交断絶 警察がメキシコ大使館に突入で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240407/k10014414651000.html</id>
@@ -9807,15 +9837,6 @@ Like most technology conferences in recent months, Samsung’s latest Galaxy Unp
 Set to debut on the Galaxy S24 and its siblings, Generative Edit will allow users to artificially erase, recompose and remaster parts of an image in a bid to achieve photographic perfection. This isn’t a new concept, and…]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Mr.Children tour 2024 miss you arena tour」Teaser]]></title>
-        <id>https://www.youtube.com/watch?v=nyr_m3I3C_s</id>
-        <link href="https://www.youtube.com/watch?v=nyr_m3I3C_s"/>
-        <updated>2024-03-08T13:00:51.000Z</updated>
-        <author>
-            <name>Mr.Children Official Channel</name>
         </author>
     </entry>
 </feed>
