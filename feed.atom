@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T22:50:37.288Z</updated>
+    <updated>2024-04-07T23:13:28.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国連 衛星センター“ガザ地区 全体の建物の35％が被害”と分析]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415231000.html"/>
+        <updated>2024-04-07T23:04:06.000Z</updated>
+        <summary type="html"><![CDATA[国連の衛星センターは、イスラエルとイスラム組織ハマスの戦闘が去年10月7日に始まって以降、ガザ地区ではことし2月までに全体の建物の35％が被害を受け最も被害が大きい北部の地域では半分以上の建物が被害を受けたとする分析を明らかにしています。専門家は「近年のガザ地区での戦闘と比べても桁違いの被害が出ている」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関東地方と伊豆諸島 あす昼過ぎにかけ 激しい雨の見込み]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415311000.html"/>
+        <updated>2024-04-07T22:53:16.000Z</updated>
+        <summary type="html"><![CDATA[前線や低気圧の影響で、関東地方と伊豆諸島では、9日昼過ぎにかけて断続的に雷を伴った激しい雨が降り、大雨となる所がある見込みで、気象庁は、土砂災害や低い土地の浸水、それに河川の増水に十分注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア “ウクライナ南部の原発にウクライナ軍の無人機攻撃”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240408/k10014415221000.html</id>
