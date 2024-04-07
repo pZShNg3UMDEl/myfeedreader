@@ -823,6 +823,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240407/k10014415251000.html",
+          "author": null,
+          "description": "イスラエルのメディアは7日イスラム組織ハマスとの戦闘を続けるガザ地区南部からイスラエル軍が一部の部隊を残し大半を撤収させたと報じました。ただ、中東の衛星テレビ局アルジャジーラは戦略上のもので南部ラファへの地上作戦の準備とみられるとしています。また、イギリスの公共放送BBCは、戦争は終わっておらず、兵力は減少しているもののより多くの作戦を実施する必要があるとのイスラエル軍の報道官の話を伝えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240407/k10014415251000.html",
+          "publishedOn": "2024-04-07T12:36:53.000Z",
+          "wordCount": 778,
+          "title": "イスラエルのメディア“ガザ地区南部から軍が部隊の大半撤収”",
+          "imageUrl": "https://www3.nhk.or.jp/news/parts16/images/common/noimg_default_l.png"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240407/k10014413801000.html",
           "author": null,
           "description": "7日投票が行われた徳島市長選挙は、元市長の遠藤彰良氏（68）が元衆議院議員の新人を抑え、2回目の当選が確実になりました。",
@@ -5174,6 +5184,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120958/",
+          "author": null,
+          "description": "「モンスター・ヴァース」シリーズ最新作「ゴジラ×コング 新たなる帝国」の最新予告編と新場面カットが、このほど公開された。 2023年11月3日公開、日本で製作されたゴジラ映画の記念すべき30作品...",
+          "link": "https://anime.eiga.com/news/120958/",
+          "publishedOn": "2024-04-07T12:00:00.000Z",
+          "wordCount": 1575,
+          "title": "モスラも飛来、史上最大の脅威と戦う究極の怪獣バトル　「ゴジラ×コング　新たなる帝国」最新予告編",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121000/",
           "author": null,
           "description": "宮崎駿監督が手がけた「未来少年コナン」の舞台化を記念し、「未来少年コナン」のテレビシリーズ第1～4話が劇場上映されることが分かった。オリジナル版映像を使用し、5月24日から1週間限定で全国61館...",
@@ -6885,6 +6910,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241537",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年3月31日から4月6日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全9種類）を美味しい・おすすめ順に […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0407",
+          "publishedOn": "2024-04-07T12:31:37.000Z",
+          "wordCount": 1792,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年3月31日から4月6日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/11e522c285fb47c5d38c9713ce07b50c.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241502",
           "author": "foodfighter",
