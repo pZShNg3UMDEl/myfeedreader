@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T22:37:51.602Z</updated>
+    <updated>2024-04-07T22:50:37.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア “ウクライナ南部の原発にウクライナ軍の無人機攻撃”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415221000.html"/>
+        <updated>2024-04-07T22:44:50.000Z</updated>
+        <summary type="html"><![CDATA[ロシアは、占拠を続けるウクライナ南部のザポリージャ原子力発電所にウクライナ軍の無人機による攻撃があり、原発に異常はないものの、3人がけがをしたと主張しました。IAEA＝国際原子力機関は誰が行ったかは言及せず、こうした無謀な攻撃が重大な原発事故のリスクを高めるとして、直ちにやめるよう求めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエル国防相 “ガザ地区南部に展開の部隊を撤収させた”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240408/k10014415201000.html</id>
