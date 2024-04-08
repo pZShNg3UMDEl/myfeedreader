@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T06:17:46.772Z</updated>
+    <updated>2024-04-08T06:36:37.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヤマト運輸 「置き配」の対象拡大へ 再配達割合高止まりの中]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415681000.html"/>
+        <updated>2024-04-08T06:30:41.000Z</updated>
+        <summary type="html"><![CDATA[一度の配達で荷物を届けられない「再配達」の割合が高止まりする中、宅配大手のヤマト運輸は、ことし6月から、玄関先などに荷物を届けるいわゆる「置き配」を選択できる荷物の対象を拡大すると発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファミリーマートとローソン 商品共同輸送へ 東北地方の一部で]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240408/k10014415651000.html</id>
