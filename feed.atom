@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T20:27:54.547Z</updated>
+    <updated>2024-04-08T20:38:05.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日米大使が首脳会談前にイベント出席“両国の関係さらに深化”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014416321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416321000.html"/>
+        <updated>2024-04-08T20:26:17.000Z</updated>
+        <summary type="html"><![CDATA[今週、アメリカの首都ワシントンで行われる日米首脳会談を前に、両国の大使が8日、シンクタンクが主催したイベントに出席し、今回の会談は防衛や経済安全保障の分野などで強固な両国の関係をさらに深化させる重要なものになると強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日銀のマイナス金利政策の解除「評価する」60％ NHK世論調査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240409/k10014415471000.html</id>
