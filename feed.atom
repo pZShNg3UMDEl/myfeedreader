@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T21:22:07.555Z</updated>
+    <updated>2024-04-08T21:35:43.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東日本の太平洋側中心 昼前にかけ雷伴い非常に激しい雨 警戒を]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014416331000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416331000.html"/>
+        <updated>2024-04-08T21:23:28.000Z</updated>
+        <summary type="html"><![CDATA[前線や低気圧の影響で西日本から北日本にかけての広い範囲で大気の状態が不安定になっています。このあと東日本の太平洋側を中心に昼前にかけて雷を伴って非常に激しい雨が降るおそれがあり、気象庁は土砂災害や低い土地の浸水、川の増水に警戒するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政治資金規正法 与野党協議へ 自民が「連座制」盛り込むか焦点]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240409/k10014416221000.html</id>
