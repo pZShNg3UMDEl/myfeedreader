@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T05:28:30.459Z</updated>
+    <updated>2024-04-08T05:38:37.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[曽我ひとみさん 市役所の拉致被害者対策係で勤務 新潟 佐渡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415611000.html"/>
+        <updated>2024-04-08T05:35:10.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮に拉致され、その後、帰国を果たした曽我ひとみさんが、4月から新潟県佐渡市の市役所で、拉致問題を担当し、市を訪れる人たちに講演などを行う予定です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[護衛艦「かが」“空母化”改修一部終わり公開 戦闘機発着可に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415571000.html"/>
+        <updated>2024-04-08T05:27:33.000Z</updated>
+        <summary type="html"><![CDATA[海上自衛隊の大型護衛艦を事実上「空母化」するための改修が一部終わり、戦闘機の発着が可能となった甲板などが報道陣に公開されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クアルコム、Snapdragon X Eliteの廉価版「Plus」準備中か。5Gモデム内蔵の可能性]]></title>
         <id>https://gadget.phileweb.com/?p=73072</id>
