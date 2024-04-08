@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T20:15:22.846Z</updated>
+    <updated>2024-04-08T20:27:54.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日銀のマイナス金利政策の解除「評価する」60％ NHK世論調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014415471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014415471000.html"/>
+        <updated>2024-04-08T20:14:18.000Z</updated>
+        <summary type="html"><![CDATA[日銀が、マイナス金利政策を解除し、17年ぶりに金利を引き上げたことへの評価をNHKの世論調査で尋ねたところ「評価する」と答えた人は60％でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「犬のお巡りさん」に任命する委託式 警察署長が辞令交付 愛媛]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240409/k10014416271000.html</id>
