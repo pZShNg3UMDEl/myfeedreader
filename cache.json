@@ -863,6 +863,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240408/k10014415521000.html",
+          "author": null,
+          "description": "大阪・関西万博の開幕までまもなく1年となるのを前に、会場のシンボルと位置づけられている木造建築物の「大屋根リング」の建設現場が8日、報道陣向けに公開されました。実施主体の博覧会協会の幹部は、全体の8割程度が完成し、工事が順調に進んでいることを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240408/k10014415521000.html",
+          "publishedOn": "2024-04-08T03:22:53.000Z",
+          "wordCount": 764,
+          "title": "万博 「大屋根リング」の建設現場を公開 開幕まで1年を前に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240408/K10014415521_2404081202_0408120835_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240408/k10014415501000.html",
           "author": null,
           "description": "能登半島地震でおよそ1900棟の家屋が全半壊した石川県穴水町では、所有者に代わって自治体が公費で家屋を解体する工事が8日から始まりました。",
@@ -4829,6 +4839,16 @@
       "feedUrl": "https://www.famitsu.com/rss/category/fcom_news_switch.rdf",
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
+        {
+          "id": "https://www.famitsu.com/news/202404/08338887.html",
+          "author": null,
+          "description": "シューティングゲームの祭典“シュー大祭 ～シューティングゲーム大感謝祭～ 2024”にて、『まもるクンは呪われてしまった！』と『アンダーディフィート』の現行機種への展開が発表された。",
+          "link": "https://www.famitsu.com/news/202404/08338887.html",
+          "publishedOn": "2024-04-08T03:15:00.000Z",
+          "wordCount": 1710,
+          "title": "『まもるクンは呪われてしまった！』『アンダーディフィート』と人気シューティングが現行ハードへ移植に【シュー大祭 新作発表】",
+          "imageUrl": "https://www.famitsu.com/images/000/338/887/z_66135bcc488ef.jpg"
+        },
         {
           "id": "https://www.famitsu.com/news/202404/07338803.html",
           "author": null,
