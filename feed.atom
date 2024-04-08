@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T02:38:38.698Z</updated>
+    <updated>2024-04-08T02:50:15.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[App Storeでゲーム機エミュレータが公式に許可]]></title>
+        <id>https://gadget.phileweb.com/?p=73039</id>
+        <link href="https://gadget.phileweb.com/post-73039/"/>
+        <updated>2024-04-08T02:48:31.000Z</updated>
+        <summary type="html"><![CDATA[アップルはApp Reviewガイドラインを更新し、App Storeにてゲーム機のエミュレータ・アプリの配布を認める文言を追加した。これは代替アプリストアやアプリ外決済のようにEU限定のことではなく、日本を含めた世界中に適用される新方針だ。 更新された項目4.7は、以前のタイトルは「ミニアプリ、ミ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遊びにきた友達にべったりの三毛猫ミレ]]></title>
         <id>https://2-9-9.com/?p=70770</id>
