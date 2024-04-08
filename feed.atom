@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T23:36:17.888Z</updated>
+    <updated>2024-04-08T23:50:22.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドイツのイスラエル兵器供給めぐる裁判 国際司法裁判所で開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014416251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416251000.html"/>
+        <updated>2024-04-08T23:46:57.000Z</updated>
+        <summary type="html"><![CDATA[ガザ地区への攻撃を続けるイスラエルに兵器を供給することはパレスチナ住民の集団殺害に加担するものだなどとして、兵器の供給国のドイツを中米のニカラグアが訴えた裁判の審理が、国際司法裁判所で始まりました。ニカラグアは、裁判所が暫定的な措置としてドイツに対し兵器供給の停止を命じるよう求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガザ地区 “戦闘休止交渉はハマスの回答待ち”と米高官]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014416351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416351000.html"/>
+        <updated>2024-04-08T23:42:47.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ・ホワイトハウスの高官はイスラエルとイスラム組織ハマスの間で続く戦闘の休止などをめぐる交渉について、ハマスに対して提案が行われ、現在、その回答を待っている状況だと明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[若田光一さん 米民間企業「アクシオム・スペース」所属を発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240409/k10014416281000.html</id>
