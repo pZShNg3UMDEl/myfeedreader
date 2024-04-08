@@ -293,6 +293,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73117",
+          "author": "Munenori Taniguchi",
+          "description": "先週、AI大手のOpenAIは、AIをトレーニングするためのデータの入手に困っていると報じられた。またNew York Timesは、各社がAI強化用のデータを集めるために行ってきた方法のいくつかを詳述した。 そしてこの記事の中で、GPT-4のトレーニングデータ集めに困窮したOpenAIは、音声認識 […]",
+          "link": "https://gadget.phileweb.com/post-73117/",
+          "publishedOn": "2024-04-08T06:42:52.000Z",
+          "wordCount": 768,
+          "title": "OpenAI、GPT-4の強化にYouTube動画を100万時間分以上使用か。著作権の問題含む可能性も",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/05/shutterstock_2247616599.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73072",
           "author": "多根清史",
           "description": "クアルコムは昨年、WindowsノートPC向けArmベースチップ「Snapdragon X Elite」を発表した。まもなく複数のメーカーから搭載PCが登場する見通しだが、Windows向けChromeがArmネイティブに対応するなど、発売に向けた準備は着々と進んでいるようだ。 このチップの廉価版と […]",
@@ -872,6 +882,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240408/k10014415691000.html",
+          "author": null,
+          "description": "8日午後2時すぎ、山形県白鷹町の国道348号で「乗用車と軽自動車が正面衝突した」と近くを通りかかった人から消防に通報がありました。消防によりますと、乗用車と軽自動車が正面衝突し、乗用車を運転していた40代の女性と軽自動車に乗っていた3人の、あわせて4人が意識不明の状態で病院に搬送されたということです。警察が詳しい状況を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240408/k10014415691000.html",
+          "publishedOn": "2024-04-08T06:46:09.000Z",
+          "wordCount": 596,
+          "title": "山形 白鷹町 乗用車と軽自動車が正面衝突 計4人意識不明で搬送",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240408/K10014415691_2404081544_0408154419_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240408/k10014415681000.html",
           "author": null,

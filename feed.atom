@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T06:36:37.690Z</updated>
+    <updated>2024-04-08T06:50:24.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山形 白鷹町 乗用車と軽自動車が正面衝突 計4人意識不明で搬送]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014415691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014415691000.html"/>
+        <updated>2024-04-08T06:46:09.000Z</updated>
+        <summary type="html"><![CDATA[8日午後2時すぎ、山形県白鷹町の国道348号で「乗用車と軽自動車が正面衝突した」と近くを通りかかった人から消防に通報がありました。消防によりますと、乗用車と軽自動車が正面衝突し、乗用車を運転していた40代の女性と軽自動車に乗っていた3人の、あわせて4人が意識不明の状態で病院に搬送されたということです。警察が詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、GPT-4の強化にYouTube動画を100万時間分以上使用か。著作権の問題含む可能性も]]></title>
+        <id>https://gadget.phileweb.com/?p=73117</id>
+        <link href="https://gadget.phileweb.com/post-73117/"/>
+        <updated>2024-04-08T06:42:52.000Z</updated>
+        <summary type="html"><![CDATA[先週、AI大手のOpenAIは、AIをトレーニングするためのデータの入手に困っていると報じられた。またNew York Timesは、各社がAI強化用のデータを集めるために行ってきた方法のいくつかを詳述した。 そしてこの記事の中で、GPT-4のトレーニングデータ集めに困窮したOpenAIは、音声認識 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤマト運輸 「置き配」の対象拡大へ 再配達割合高止まりの中]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240408/k10014415681000.html</id>
