@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T13:14:17.222Z</updated>
+    <updated>2024-04-08T13:25:15.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県警の警察官を逮捕 事件の内部文書を漏えいした疑い]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240408/k10014416161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240408/k10014416161000.html"/>
+        <updated>2024-04-08T13:09:16.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県警の警察官が刑事事件の当事者の個人情報が記された内部文書などを第三者に漏らしたとして地方公務員法違反の疑いで逮捕されました。県警は先月、100件以上の事件で内部文書が流出した可能性が高いと明らかにしていて関連を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「留学先はカナダに決まったの」「良かったねぇ」数時間後「警察です娘さんが車カスに轢かれ救急に」]]></title>
         <id>https://itainews.com/archives/2034531.html</id>
