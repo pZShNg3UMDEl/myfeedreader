@@ -843,6 +843,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240408/k10014415361000.html",
+          "author": null,
+          "description": "大リーグ、カブスの今永昇太投手がドジャースの大谷翔平選手と日米を通じて初めて対戦し、2打席連続で抑えるなど4回を投げて無失点と好投しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240408/k10014415361000.html",
+          "publishedOn": "2024-04-08T01:47:43.000Z",
+          "wordCount": 839,
+          "title": "今永昇太 大谷翔平と初対戦 2打席連続で抑え4回無失点の好投",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240408/K10014415361_2404081020_0408102325_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240408/k10014415381000.html",
+          "author": null,
+          "description": "8日午前10時25分ごろ、宮崎県で震度5弱の揺れを観測する地震がありました。この地震による津波の心配はありません。震度5弱の揺れを観測したのは宮崎県日南市でした。また、震度4が、宮崎県の串間市、鹿児島県の大崎町、錦江町で観測しました。このほか、震度3から1の揺れを九州の各地で観測しました。気象庁の観測によりますと、震源地は鹿児島県の大隅半島東方沖で震源の深さは40キロ、地震の規模を示すマグニチュードは5.2と推定されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240408/k10014415381000.html",
+          "publishedOn": "2024-04-08T01:46:06.000Z",
+          "wordCount": 505,
+          "title": "【地震速報】宮崎県日南市で震度5弱 津波の心配なし M5.2",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240408/K10014415381_2404081030_0408103115_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240408/k10014414871000.html",
           "author": null,
           "description": "ことし2月の働く人1人当たりの実質賃金は前の年の同じ月に比べて1.3％減少し、23か月連続のマイナスとなりました。厚生労働省は「ことしは春闘で高い水準の賃上げが行われているので、今後、プラスに転じるのかを注視していきたい」としています。",
@@ -7040,6 +7060,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241581",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、森永乳業の新商品「PARM（パルム） 杏仁ミルクストロベリー」を世界一詳しく調査しました。   公式YouTubeチ […]",
+          "link": "https://foodfighter.jp/parm-almond-milk-strawberry",
+          "publishedOn": "2024-04-08T01:19:34.000Z",
+          "wordCount": 1795,
+          "title": "PARM（パルム）杏仁ミルクストロベリー【新作アイス・期間限定】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/afeddeebfb085c39c718a3b236525a93.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241560",
           "author": "foodfighter",
