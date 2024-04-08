@@ -893,6 +893,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240408/k10014416101000.html",
+          "author": null,
+          "description": "ことし2月ごろ、従業員だった54歳のトラック運転手の遺体を土の中に埋めたとして青森県七戸町の運送会社の役員ら2人が死体遺棄の疑いで逮捕されました。警察は、遺体の状況などから運転手が殺害された疑いがあるとみて詳しく調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240408/k10014416101000.html",
+          "publishedOn": "2024-04-08T11:39:24.000Z",
+          "wordCount": 784,
+          "title": "死体遺棄の疑いで運送会社役員ら2人逮捕 運転手は殺害されたか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240408/K10014416101_2404081938_0408203926_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240408/k10014415981000.html",
           "author": null,
           "description": "今月3日、宮崎市内にあるグラウンドに雷が落ち熊本の県立高校のサッカー部員が搬送されたのを受け、熊本県教育委員会は、突然、せん光と激しい雷鳴を伴って雷が落ちたなどと当時の状況を説明しました。部員のうち1人は今も意識不明の重体で治療を受けているということです。",
@@ -5653,6 +5663,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121012/",
+          "author": null,
+          "description": "斉藤ゆう氏のラブコメディ漫画をアニメ化する「疑似ハーレム」の放送が7月からスタートすることが明らかになった。オープニング主題歌を男女混声バンド「ゴホウビ」が担当することも決定し、PV第1弾が公開...",
+          "link": "https://anime.eiga.com/news/121012/",
+          "publishedOn": "2024-04-08T12:00:00.000Z",
+          "wordCount": 1582,
+          "title": "「疑似ハーレム」7月放送開始　オープニング主題歌は男女混声バンド「ゴホウビ」が担当",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121011/",
           "author": null,
