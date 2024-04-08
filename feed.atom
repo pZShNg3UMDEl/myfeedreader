@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T20:38:05.731Z</updated>
+    <updated>2024-04-08T20:50:23.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[皆既日食 アメリカで7年ぶりに観測 数分間 夜のように暗くなる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014416231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416231000.html"/>
+        <updated>2024-04-08T20:43:14.000Z</updated>
+        <summary type="html"><![CDATA[太陽が月と重なり完全に隠れる皆既日食が8日アメリカを横断する形で見られ、晴れた地域では、皆既日食になった数分間、あたりが夜のように暗くなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日米大使が首脳会談前にイベント出席“両国の関係さらに深化”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240409/k10014416321000.html</id>
@@ -11478,18 +11488,6 @@ Link]]></summary>
         <updated>2024-03-10T09:14:59.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千尋訴訟③中川卓の完璧な準備書面3]]></title>
-        <id>https://note.com/hima_kuuhaku/n/nd53ba79cb4f7</id>
-        <link href="https://note.com/hima_kuuhaku/n/nd53ba79cb4f7"/>
-        <updated>2024-03-10T08:45:50.000Z</updated>
-        <summary type="html"><![CDATA[前回
-
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
