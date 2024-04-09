@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T03:36:26.448Z</updated>
+    <updated>2024-04-09T03:50:12.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416591000.html"/>
         <updated>2024-04-09T03:31:54.000Z</updated>
         <summary type="html"><![CDATA[9日午前、川崎市にある建物の解体工事現場で、組み立ててあった足場が強風で崩れました。けが人はいませんでしたが、崩れた足場の一部が近くの電線にもたれかかった影響で、周辺の800戸余りが停電しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「マイナ保険証」“5月～7月 集中的に利用促進図る” 厚労相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014416561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416561000.html"/>
+        <updated>2024-04-09T03:26:38.000Z</updated>
+        <summary type="html"><![CDATA[「マイナ保険証」の利用率が伸び悩んでいることを受け、武見厚生労働大臣は、5月から7月までの3か月間を集中的に利用促進を図る期間とし、チラシを配布するなどして利用者を増やした医療機関に対し、最大で20万円を支給する方針を明らかにしました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
