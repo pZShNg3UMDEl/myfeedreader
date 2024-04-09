@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73155",
+          "author": "編集部：平山洸太",
+          "description": "Metaは、MRヘッドセット「Meta Quest 3」のパススルー改善を盛り込んだ、Meta Quest v64ソフトウェア・アップデートをアナウンスした。アップデートは段階的に提供されるとしている。 アップデートでは、Meta Quest 3のパススルーが改善されて「以前よりも忠実度が高く」なる […]",
+          "link": "https://gadget.phileweb.com/post-73155/",
+          "publishedOn": "2024-04-09T01:34:51.000Z",
+          "wordCount": 771,
+          "title": "「Meta Quest 3」のパススルーが改善。スマホなど小さな文字も見やすく",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/09/Quest-3.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73137",
           "author": "Munenori Taniguchi",
           "description": "NASAはアルテミス計画の月面探査において、飛行士たちが月面を移動するための乗りものであるLnar Trrain Vehicle（LTV）の開発企業として、Intuitive Machines、Lunar Outpost、Venturi Astrolabの3社を選出したと発表した。 3社は、それぞれ […]",
@@ -912,6 +922,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416461000.html",
+          "author": null,
+          "description": "メロンの産出額が市町村別では全国1位の茨城県鉾田市で今月5日にメロンおよそ600玉が農業用ハウスからなくなり、警察は盗まれたとみて捜査しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416461000.html",
+          "publishedOn": "2024-04-09T01:35:34.000Z",
+          "wordCount": 723,
+          "title": "メロン約600玉がハウスからなくなる 盗まれたか 茨城 鉾田",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416461_2404091022_0409102438_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416471000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手が8日、相手の本拠地ミネソタ州ミネアポリスで行われているツインズ戦に2番・指名打者で先発出場し、7回の第4打席に今シーズン3号のソロホームランを打ちました。ホームランは3試合ぶりで大リーグ通算174本となって、松井秀喜さんが持つ日本選手の最多ホームラン記録まであと1本と迫りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416471000.html",
+          "publishedOn": "2024-04-09T01:26:53.000Z",
+          "wordCount": 399,
+          "title": "大谷翔平 今季3号のソロホームラン 大リーグ通算174本に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416471_2404091043_0409104446_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416441000.html",
+          "author": null,
+          "description": "外国為替市場で円相場が1ドル＝152円に迫る円安水準で推移していることについて、鈴木財務大臣は、9日の閣議のあとの記者会見で、行き過ぎた動きにはあらゆる手段を排除しないという考えを改めて示し、市場の動きをけん制しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416441000.html",
+          "publishedOn": "2024-04-09T01:22:24.000Z",
+          "wordCount": 718,
+          "title": "円安推移“行き過ぎた動き あらゆる手段排除せず” 鈴木財務相",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416441_2404091010_0409101956_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416431000.html",
+          "author": null,
+          "description": "アメリカのバイデン大統領はことし秋の大統領選挙を前に、大学などの学費のローンの返済を一部免除する新たな方針を発表しました。若者の関心が高いとされる学費ローンの負担軽減で支持の拡大をはかるねらいとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416431000.html",
+          "publishedOn": "2024-04-09T01:19:14.000Z",
+          "wordCount": 716,
+          "title": "バイデン大統領“学費ローン返済 一部免除” 支持拡大ねらいか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416431_2404091007_0409101514_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416411000.html",
+          "author": null,
+          "description": "アメリカのトランプ前大統領は秋の大統領選挙の争点のひとつとなっている人工妊娠中絶の規制について、保守派の一部が求める全米一律の規制ではなく、各州が判断すべきという考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416411000.html",
+          "publishedOn": "2024-04-09T01:08:36.000Z",
+          "wordCount": 768,
+          "title": "トランプ氏 人工妊娠中絶規制は “全米一律ではなく各州判断”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416411_2404090948_0409100654_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416251000.html",
           "author": null,
