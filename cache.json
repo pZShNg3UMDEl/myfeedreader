@@ -313,6 +313,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73193",
+          "author": "編集部：平山洸太",
+          "description": "Googleは、Androidの新しい「Find My Device（デバイスを探す）」ネットワークの開始をアナウンスした。米国とカナダを皮切りに世界中で展開を進めており、Android 9以上を実行しているデバイスで動作するとしている。 このネットワークは、同社が1年ほど前に発表したもの。「不要な […]",
+          "link": "https://gadget.phileweb.com/post-73193/",
+          "publishedOn": "2024-04-09T05:53:39.000Z",
+          "wordCount": 757,
+          "title": "Googleの新「デバイスを探す」ネットワーク開始。紛失防止タグやソニーのヘッドホンも対応予定",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/findmy2.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73199",
           "author": "多根清史",
           "description": "米商務省は世界最大手ファウンダリー（半導体受託製造）TSMCに対して、アリゾナ州での第3工場建設につき、最大66億ドルの資金提供と最大50億ドルの融資を行う契約に署名したと発表した。 厳密にはTSMCの米国子会社TSMCアリゾナを対象としており、CHIPS法（Creating Helpful Inc […]",
@@ -952,6 +962,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416771000.html",
+          "author": null,
+          "description": "文豪、芥川龍之介が所蔵していたフランスの小説の本に、恋心を表す花言葉を持つ押し花が挟まれていたことが日本近代文学館などの調査で分かりました。専門家は、芥川と初恋の女性とのやり取りの一端である可能性があるとみていて、「芥川の実人生で大きな揺れ動きのあった時期の貴重な発見だ」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416771000.html",
+          "publishedOn": "2024-04-09T06:12:54.000Z",
+          "wordCount": 781,
+          "title": "芥川龍之介の蔵書に“恋心”の押し花 初恋女性とのやり取りか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416771_2404091451_0409150738_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416731000.html",
+          "author": null,
+          "description": "東京の上野動物園で生まれ、去年、中国に返還されたジャイアントパンダの「シャンシャン」が、7歳の誕生日を迎えるのを前に中国大使館で、現在の様子を伝えるイベントが開かれました。現地の環境にも慣れてきたということで好物のたけを食べる元気な姿を見せていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416731000.html",
+          "publishedOn": "2024-04-09T06:01:58.000Z",
+          "wordCount": 766,
+          "title": "【動画】シャンシャン 7歳の誕生日を前に近況公開 中国大使館",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416731_2404091441_0409145043_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416691000.html",
           "author": null,
