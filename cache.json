@@ -293,6 +293,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73207",
+          "author": "山本 敦",
+          "description": "アップルは、最新のApple M3チップを搭載するモバイルノート「MacBook Air」を3月に発売した。15インチのモデルをアップルから借りて、1か月間ほど試した筆者の体験をレポートする。 AppleシリコンはAI対応。生成AI系アプリケーションの動作が快適 AppleシリコンにはM1チップの頃 […]",
+          "link": "https://gadget.phileweb.com/post-73207/",
+          "publishedOn": "2024-04-09T21:30:00.000Z",
+          "wordCount": 819,
+          "title": "「M3 MacBook Air」1か月レビュー。試してわかった“活きる使いこなし”",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/P1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73231",
           "author": "Munenori Taniguchi",
           "description": "いまやドローンは様々な場所で利用されるようになり、産業向けでは橋梁の点検のような、人が簡単に近づけない高所の点検作業などにも活用されている。しかし便利なドローンにも弱点はある。そのひとつが、バッテリーの持続時間ではないだろうか。 一般的なホビー用ドローンであれば十数分ほど飛べれば良い方で、産業用のド […]",
@@ -962,6 +972,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417501000.html",
+          "author": null,
+          "description": "ことし1月に発生した能登半島地震から3か月余りとなり、政府の地震調査委員会は、地震活動は低下してきているものの、依然、活発な状態だとして、今後も強い揺れや津波を伴う地震に注意が必要だとする評価をまとめました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417501000.html",
+          "publishedOn": "2024-04-09T21:32:56.000Z",
+          "wordCount": 735,
+          "title": "“能登 今後も強い揺れや津波伴う地震に注意” 政府地震調査委",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417501_2404100255_0410063258_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417521000.html",
+          "author": null,
+          "description": "すべての物質に質量を与える「ヒッグス粒子」の存在を予言し、ノーベル物理学賞を受賞した、イギリスのエディンバラ大学のピーター・ヒッグス名誉教授が亡くなりました。94歳でした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417521000.html",
+          "publishedOn": "2024-04-09T21:22:02.000Z",
+          "wordCount": 524,
+          "title": "「ヒッグス粒子」存在予言しノーベル賞 ヒッグス氏死去 94歳",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417521_2404100313_0410062204_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417441000.html",
           "author": null,
