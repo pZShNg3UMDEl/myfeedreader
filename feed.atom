@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T02:20:35.069Z</updated>
+    <updated>2024-04-09T02:36:22.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -56,6 +56,16 @@ https://...]]></summary>
 男の子とハチワレさんは本当の兄弟のようです first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電磁気学入門（9）フォワードコンバーターのトランス設計]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2404/09/news063.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2404/09/news063.html"/>
+        <updated>2024-04-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電磁気学入門講座。今回は、降圧コンバーターの設計事例や、損失計算について解説します。フォワードコンバーターのトランス設計について解説します。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

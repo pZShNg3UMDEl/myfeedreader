@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/09/news063.html",
+          "author": null,
+          "description": "電磁気学入門講座。今回は、降圧コンバーターの設計事例や、損失計算について解説します。フォワードコンバーターのトランス設計について解説します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/09/news063.html",
+          "publishedOn": "2024-04-09T02:00:00.000Z",
+          "wordCount": 2584,
+          "title": "電磁気学入門（9）フォワードコンバーターのトランス設計",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/09/cover_news063.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/09/news046.html",
           "author": null,
           "description": "日本航空電子工業は、車載スペックに対応したコネクターを「車載ICTコネクタ」として発売する。第1弾として、基板対基板コネクター「WP26DK」シリーズとUSB Type-Cコネクター「DX07」シリーズの販売を開始する。",
