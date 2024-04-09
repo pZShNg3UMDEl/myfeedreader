@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T04:16:59.232Z</updated>
+    <updated>2024-04-09T04:35:34.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震の復旧・復興 “集約的まちづくり検討を”財政審]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014416611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014416611000.html"/>
+        <updated>2024-04-09T04:18:53.000Z</updated>
+        <summary type="html"><![CDATA[国の予算のあり方を議論する財務大臣の諮問機関は、今後のインフラ整備は人口減少が続くことを念頭に進めていく必要があるとして、能登半島地震の復旧・復興にあたっては、住民の意向を踏まえつつ、集約的なまちづくりを検討すべきだと提言しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクロソフト、Snapdragon X Elite搭載SurfaceはM3 MacBook Air超えの自信アリ？]]></title>
         <id>https://gadget.phileweb.com/?p=73173</id>
@@ -11833,55 +11843,6 @@ Abstract: The Skipper-in-CMOS image sensor integrates the non-destructive readou
         <summary type="html"><![CDATA[ノルディックセミコンダクターは、セルラーIoT（モノのインターネット）デバイス「nRF9151」を発表した。SoC（System on Chip）やRFフロントエンド、電力管理機能を統合していて、「nRF91」シリーズの従来品に比べてフットプリントが20％縮小した。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Postings - Week of 10 March 2024]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-10-march-2024.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-10-march-2024.html"/>
-        <updated>2024-03-10T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Qualcomm
-ADAS camera Engineer
-Farnborough, UK
-Link
-Onsemi
-Product Engineer
-Meridian, Idaho, USA
-Link
-University of Warwick
-Towards Silicon Photonics Based
-  Gas Sensors
-Coventry, UK
-Link
-Johnson & Johnson
-Sr. Manager Visualization
-  Hardware
-Santa Clara, CA, USA
-Link
-NASA
-Development of infrared detectors and
-  focal plane arrays for space instruments
-Pasadena, CA, USA
-Link
-Apple
-Hardware Sensing Systems Engineer
-Cupertino, CA, USA
-Link
-Sony
-Software Engineer/Researcher for
-  Image Sensors
-Tokyo, Japan
-Link
-Meta
-Image Sensor Architect
-Redmond, Washington, USA
-Link
-Queen Mary University
-Silicon Detector Technician
-London, England, UK
-Link]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
