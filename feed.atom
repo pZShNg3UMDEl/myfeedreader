@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T21:50:26.668Z</updated>
+    <updated>2024-04-09T22:11:53.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領 日米首脳会談通じ 安全保障で連携強化の考え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014417321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417321000.html"/>
+        <updated>2024-04-09T22:07:31.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン大統領は、岸田総理大臣との首脳会談を通じて、覇権主義的な行動を強める中国を念頭に、インド太平洋地域を重視する姿勢を改めて示すとともに、安全保障分野で日本との連携を一段と強化したい考えです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国総選挙 きょう午前6時に投票開始 ユン政権の中間評価]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014417261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417261000.html"/>
+        <updated>2024-04-09T21:50:27.000Z</updated>
+        <summary type="html"><![CDATA[韓国で4年に1度、国会議員を選ぶ総選挙は、10日、投票が行われています。ユン・ソンニョル（尹錫悦）政権の中間評価とも位置づけられていて、安定した政権運営を支えたい保守系の与党と、政権を審判すべきだとする革新系の野党のどちらが第1党になるのかが焦点です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“能登 今後も強い揺れや津波伴う地震に注意” 政府地震調査委]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240410/k10014417501000.html</id>
