@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T20:23:44.981Z</updated>
+    <updated>2024-04-09T20:35:57.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾 地震から1週間 6人の捜索続く 被災した人の生活再建も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014417301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417301000.html"/>
+        <updated>2024-04-09T20:29:20.000Z</updated>
+        <summary type="html"><![CDATA[台湾の東部沖でマグニチュード7.2の地震が発生してから、4月10日で1週間になります。これまでに13人の死亡が確認され、連絡が取れなくなっている6人の捜索が続く一方、被災した人たちの生活の再建が課題となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【テム（Temu）】『オールスター感謝祭』にも登場した中国産格安アクセから「基準の700倍の発がん物質」に寄せられる心配]]></title>
         <id>https://itainews.com/archives/2034564.html</id>
