@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T22:26:10.343Z</updated>
+    <updated>2024-04-09T22:36:57.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナのザポリージャ原発への攻撃 IAEAが緊急会合開催へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014417551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417551000.html"/>
+        <updated>2024-04-09T22:30:59.000Z</updated>
+        <summary type="html"><![CDATA[ロシアは、占拠を続けるウクライナ南部のザポリージャ原子力発電所の関連施設が、3日連続でウクライナ軍の無人機による攻撃を受けたと発表し、これに対しウクライナはロシアによる自作自演だと反発しています。IAEA＝国際原子力機関の理事会は、両国の要請を受けて、今月11日に緊急の会合を開くことを決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイデン大統領 日米首脳会談通じ 安全保障で連携強化の考え]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240410/k10014417321000.html</id>
