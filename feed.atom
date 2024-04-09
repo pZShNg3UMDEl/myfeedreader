@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T20:35:57.514Z</updated>
+    <updated>2024-04-09T20:50:18.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日米首脳会談 首相 防衛面で協力深め 経済安保など連携確認へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014417491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417491000.html"/>
+        <updated>2024-04-09T20:39:13.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ訪問中の岸田総理大臣は、日本時間の11日、バイデン大統領との首脳会談に臨みます。自衛隊とアメリカ軍の部隊連携の円滑化など、防衛面での協力を深めるとともに、経済安全保障、宇宙など幅広い分野での連携強化を確認する見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾 地震から1週間 6人の捜索続く 被災した人の生活再建も]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240410/k10014417301000.html</id>
