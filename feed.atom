@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T11:50:34.034Z</updated>
+    <updated>2024-04-09T12:24:57.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ政府高官 建設機械メーカーで地雷除去機を視察 山梨]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014417161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014417161000.html"/>
+        <updated>2024-04-09T12:16:54.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナ侵攻が始まって2年余りとなる中、ウクライナ支援のため地雷除去機を製作している山梨県内の建設機械メーカーを現地の政府高官が視察に訪れました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『.hack』20周年記念画集の最終巻が予約開始。『.hack//Link』のパッケージイラストや記念展のメインビジュアルなどを掲載。A4アクリルプレートも同時登場]]></title>
+        <id>https://www.famitsu.com/news/202404/09338964.html</id>
+        <link href="https://www.famitsu.com/news/202404/09338964.html"/>
+        <updated>2024-04-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サイバーコネクトツーは、『.hack』シリーズ20周年を記念した画集の最終巻“Game Art Works .hack//20th Vol.3”をオンラインショップ“CC2STORE International”にて予約を開始した。期間は2024年4月29日（月）まで。]]></summary>
+        <author>
+            <name>Nintendo Switch - Switchの最新ゲームソフト情報 - ファミ通.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「リンカイ！」先行上映会に川村海乃、葵あずさらメインキャスト登壇　芝居に熱の入った収録の舞台裏を明かす]]></title>
+        <id>https://anime.eiga.com/news/121022/</id>
+        <link href="https://anime.eiga.com/news/121022/"/>
+        <updated>2024-04-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4月9日から放送がスタートするテレビアニメ「リンカイ！」の先行上映会が4月8日に東京・新宿ピカデリーで開催され、伊東泉役の川村海乃、平塚ナナ役の葵あずさ、那古屋紗智役の北守さいか、高松絹早役の杉...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日銀 植田総裁 “物価上昇続けば追加利上げなど政策変更検討”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240409/k10014417281000.html</id>
@@ -12276,16 +12306,6 @@ Abstract: The Skipper-in-CMOS image sensor integrates the non-destructive readou
         <link href="https://edn.itmedia.co.jp/edn/articles/2403/11/news011.html"/>
         <updated>2024-03-11T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[ノートPCが小型化、薄型化するにつれ、オーディオ性能の向上や改善は難しくなる。そこで注目されているのが、「スマート・アンプ」と呼ばれるデバイスだ。DSP（デジタルシグナルプロセッサ）やセンサー、バッテリー電圧ブーストなどを統合したスマート・アンプは、複数の半導体メーカーが手掛けていて、ノートPCのオーディオ設計を簡素化するキーデバイスとなりそうだ。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電力管理機能を統合した、出力電力20dBmの小型セルラーIoTデバイス]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html"/>
-        <updated>2024-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ノルディックセミコンダクターは、セルラーIoT（モノのインターネット）デバイス「nRF9151」を発表した。SoC（System on Chip）やRFフロントエンド、電力管理機能を統合していて、「nRF91」シリーズの従来品に比べてフットプリントが20％縮小した。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>

@@ -294,16 +294,6 @@
           "wordCount": 2587,
           "title": "超薄型ノートPCのオーディオ設計で注目される「スマート・アンプ」",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/11/cover_news011.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html",
-          "author": null,
-          "description": "ノルディックセミコンダクターは、セルラーIoT（モノのインターネット）デバイス「nRF9151」を発表した。SoC（System on Chip）やRFフロントエンド、電力管理機能を統合していて、「nRF91」シリーズの従来品に比べてフットプリントが20％縮小した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/11/news019.html",
-          "publishedOn": "2024-03-11T00:00:00.000Z",
-          "wordCount": 2597,
-          "title": "電力管理機能を統合した、出力電力20dBmの小型セルラーIoTデバイス",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/11/cover_news019.jpg"
         }
       ]
     },
@@ -982,6 +972,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014417161000.html",
+          "author": null,
+          "description": "ロシアによるウクライナ侵攻が始まって2年余りとなる中、ウクライナ支援のため地雷除去機を製作している山梨県内の建設機械メーカーを現地の政府高官が視察に訪れました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014417161000.html",
+          "publishedOn": "2024-04-09T12:16:54.000Z",
+          "wordCount": 753,
+          "title": "ウクライナ政府高官 建設機械メーカーで地雷除去機を視察 山梨",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014417161_2404092104_0409211244_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240409/k10014417281000.html",
           "author": null,
@@ -5750,6 +5750,16 @@
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
         {
+          "id": "https://www.famitsu.com/news/202404/09338964.html",
+          "author": null,
+          "description": "サイバーコネクトツーは、『.hack』シリーズ20周年を記念した画集の最終巻“Game Art Works .hack//20th Vol.3”をオンラインショップ“CC2STORE International”にて予約を開始した。期間は2024年4月29日（月）まで。",
+          "link": "https://www.famitsu.com/news/202404/09338964.html",
+          "publishedOn": "2024-04-09T12:00:00.000Z",
+          "wordCount": 1820,
+          "title": "『.hack』20周年記念画集の最終巻が予約開始。『.hack//Link』のパッケージイラストや記念展のメインビジュアルなどを掲載。A4アクリルプレートも同時登場",
+          "imageUrl": "https://www.famitsu.com/images/000/338/964/z_6614ecdbc57d7.jpg"
+        },
+        {
           "id": "https://www.famitsu.com/news/202404/09338962.html",
           "author": null,
           "description": "ドラガミゲームスは、『GOD WARS』（ゴッドウォーズ）シリーズ全世界累計販売本数40万本突破記念セールを、ニンテンドーeショップで2024年4月10日に開催する。",
@@ -6323,6 +6333,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121022/",
+          "author": null,
+          "description": "4月9日から放送がスタートするテレビアニメ「リンカイ！」の先行上映会が4月8日に東京・新宿ピカデリーで開催され、伊東泉役の川村海乃、平塚ナナ役の葵あずさ、那古屋紗智役の北守さいか、高松絹早役の杉...",
+          "link": "https://anime.eiga.com/news/121022/",
+          "publishedOn": "2024-04-09T12:00:00.000Z",
+          "wordCount": 1646,
+          "title": "「リンカイ！」先行上映会に川村海乃、葵あずさらメインキャスト登壇　芝居に熱の入った収録の舞台裏を明かす",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121024/",
           "author": null,
