@@ -313,6 +313,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73160",
+          "author": "多根清史",
+          "description": "アップルが競合他社を後追いするように、独自の生成AI開発に乗り出したと報じられたのは昨年夏頃のこと。しかし、それ以前から同社はAI訓練用のデータ収集に乗り出していたと米Reutersが伝えている。 OpenAI等は当初、ウェブからデータをスクレイピング（大量の情報を自動的に抽出）してモデルを訓練して […]",
+          "link": "https://gadget.phileweb.com/post-73160/",
+          "publishedOn": "2024-04-09T02:38:08.000Z",
+          "wordCount": 757,
+          "title": "生成AI訓練データの買収が激化。アップルも数億点の画像・動画ライセンスに莫大な支払か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_2334994639-3.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73155",
           "author": "編集部：平山洸太",
           "description": "Metaは、MRヘッドセット「Meta Quest 3」のパススルー改善を盛り込んだ、Meta Quest v64ソフトウェア・アップデートをアナウンスした。アップデートは段階的に提供されるとしている。 アップデートでは、Meta Quest 3のパススルーが改善されて「以前よりも忠実度が高く」なる […]",
@@ -932,6 +942,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416511000.html",
+          "author": null,
+          "description": "アメリカのバイデン政権は、トーマスグリーンフィールド国連大使が来週、日本と韓国を訪問すると正式に発表し、日本では被爆地の長崎も訪れることを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416511000.html",
+          "publishedOn": "2024-04-09T02:39:00.000Z",
+          "wordCount": 746,
+          "title": "アメリカの国連大使 日本と韓国訪問へ 日本では被爆地の長崎も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416511_2404091122_0409112425_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416501000.html",
+          "author": null,
+          "description": "能登半島地震で津波の被害を受けた石川県能登町の漁港で、魚などの競りを行う競り場が、被害の大きさなどから先月末で廃止され、地元では、漁業再開への影響が心配されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240409/k10014416501000.html",
+          "publishedOn": "2024-04-09T02:35:30.000Z",
+          "wordCount": 769,
+          "title": "能登半島地震で津波被害 松波漁港の競り場が廃止 石川 能登町",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240409/K10014416501_2404091114_0409113354_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240409/k10014416461000.html",
           "author": null,
