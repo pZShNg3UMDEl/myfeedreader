@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T11:10:37.549Z</updated>
+    <updated>2024-04-09T11:20:32.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[声優・井口裕香が4月6日、東京・HMV&BOOKS SHIBUYAで行われた、最新写真集「井口裕香 写真集 MORE MORE MORE」の発売記念イベントに出席。同書の見どころを語り、特に注目...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ “数週間で国内火力発電施設の80％が攻撃された”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014417241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014417241000.html"/>
+        <updated>2024-04-09T10:30:07.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナでは、ロシア軍によるエネルギー施設などへの攻撃が相次いでいて、ウクライナのエネルギー相は、ここ数週間で国内の火力発電施設の80％が攻撃されたと明らかにし、軍事侵攻が始まって以来最大のエネルギー部門に対する攻撃だと非難しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -109,6 +119,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240409/k10014417101000.html"/>
         <updated>2024-04-09T09:33:22.000Z</updated>
         <summary type="html"><![CDATA[農林水産省が9日公表した今月3日～5日の主要な野菜小売価格の全国平均は、調査対象となっている8品目のうち7品目で平年より高くなっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小林製薬「紅麹」問題 延べ216人が入院（4月8日時点）厚労省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240409/k10014417141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240409/k10014417141000.html"/>
+        <updated>2024-04-09T09:25:03.000Z</updated>
+        <summary type="html"><![CDATA[小林製薬の紅麹の成分を含むサプリメントを摂取した人が腎臓の病気などを発症した問題で、厚生労働省は、8日の時点で、延べ216人が入院したことが小林製薬からの報告で明らかになったと発表しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
