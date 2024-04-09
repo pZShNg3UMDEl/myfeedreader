@@ -973,6 +973,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417511000.html",
+          "author": null,
+          "description": "線路脇に敷き詰められた石は、振動を抑えるなど、列車の安全な運行には欠かせない役割を果たしています。この石を運搬し敷き詰める車両がおよそ60年ぶりに新しくなり、JR東日本高崎支社が首都圏での本格運用を始めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417511000.html",
+          "publishedOn": "2024-04-09T23:08:31.000Z",
+          "wordCount": 566,
+          "title": "線路の「砕石」運搬し敷き詰める 約60年ぶりの新車両 JR東日本",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417511_2404100143_0410030937_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417331000.html",
+          "author": null,
+          "description": "「だるまちゃん」シリーズなどで知られる絵本作家で、6年前に92歳で亡くなった、かこさとしさんが、戦争をテーマに書いた未発表の原稿が、来年の春、絵本として出版されることになりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417331000.html",
+          "publishedOn": "2024-04-09T23:02:44.000Z",
+          "wordCount": 551,
+          "title": "絵本作家かこさとしさん 戦争テーマの未発表原稿 来年春出版へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417331_2404092243_0409230252_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417551000.html",
           "author": null,
           "description": "ロシアは、占拠を続けるウクライナ南部のザポリージャ原子力発電所の関連施設が、3日連続でウクライナ軍の無人機による攻撃を受けたと発表し、これに対しウクライナはロシアによる自作自演だと反発しています。IAEA＝国際原子力機関の理事会は、両国の要請を受けて、今月11日に緊急の会合を開くことを決めました。",
@@ -8435,6 +8455,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241774",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「GOHOBI メロンフラペチーノ」を世界一詳しく調査しました。   公 […]",
+          "link": "https://foodfighter.jp/starbucks-gohobi-melon",
+          "publishedOn": "2024-04-09T22:29:45.000Z",
+          "wordCount": 1832,
+          "title": "【スターバックス】GOHOBI メロンフラペチーノ【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/9f5708f0a616c85f14f748b9040b1a31.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241750",
           "author": "foodfighter",
