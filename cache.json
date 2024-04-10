@@ -973,6 +973,46 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417741000.html",
+          "author": null,
+          "description": "少子化対策の「支援金制度」をめぐり、こども家庭庁が9日まとめた会社員などが拠出する年収別の試算について、林官房長官は、これまでの政府の説明と変わりはないとしたうえで、制度の趣旨を丁寧に説明していく考えを強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417741000.html",
+          "publishedOn": "2024-04-10T03:11:25.000Z",
+          "wordCount": 756,
+          "title": "「支援金制度」年収別試算“制度の趣旨を丁寧に説明”官房長官",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417741_2404101207_0410121126_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417711000.html",
+          "author": null,
+          "description": "韓国の総選挙は10日、投票が行われています。ユン・ソンニョル（尹錫悦）政権発足以降、国会で少数の保守系与党が政権を支える中、与党と革新系野党のどちらが第1党になるのかが焦点です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417711000.html",
+          "publishedOn": "2024-04-10T02:56:06.000Z",
+          "wordCount": 830,
+          "title": "韓国総選挙投票続く 与党と革新系野党どちらが第1党なるか焦点",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417711_2404101147_0410115325_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417701000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手が9日、ツインズ戦でツーベースヒットを打ち連続試合ヒットを「6」に伸ばしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417701000.html",
+          "publishedOn": "2024-04-10T02:54:01.000Z",
+          "wordCount": 584,
+          "title": "ドジャース 大谷翔平 連続試合ヒット「6」に伸ばす",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417701_2404101137_0410114525_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417691000.html",
+          "author": null,
+          "description": "能登半島地震で大きな被害を受けた農家を支援しようと、石川県珠洲市で全国から集まったボランティアが田んぼの水路にたまった土砂を撤去する泥上げの作業を行いました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417691000.html",
+          "publishedOn": "2024-04-10T02:43:18.000Z",
+          "wordCount": 765,
+          "title": "被災農家支援 ボランティアが田んぼの水路 土砂撤去 石川 珠洲",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417691_2404101137_0410113942_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417671000.html",
           "author": null,
           "description": "10日朝、愛知県豊明市の住宅で火事があり、消防によりますと70代の女性と40代の男性とみられる2人が遺体で見つかりました。火事のあと、この家の住人と連絡が取れていないということで、警察が身元の確認を進めるとともに、出火原因を調べています。",
@@ -6564,6 +6604,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120873/",
+          "author": null,
+          "description": "「名探偵コナン」劇場版の23作目「名探偵コナン 紺青の拳（フィスト）」と、26作目「名探偵コナン 黒鉄の魚影（サブマリン）」が、日本テレビ系「金曜ロードショー」で放送される。27作目「名探偵コナ...",
+          "link": "https://anime.eiga.com/news/120873/",
+          "publishedOn": "2024-04-10T03:00:00.000Z",
+          "wordCount": 1653,
+          "title": "【新作公開記念】4月12、19日の「金曜ロードショー」で2週連続「名探偵コナン」　「紺青の拳」「黒鉄の魚影」放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/120999/",
           "author": null,
           "description": "山﨑賢人が主演する「陰陽師0」の特別PV第4弾「呪術最強編」が公開された。山﨑扮する若き晴明の呪術シーンにフィーチャーした映像となり、ナレーションは人気声優の緒方恵美が務めている。 原作小説「陰...",
@@ -9132,6 +9187,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034568.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：煮卵 ★：2024/04/09(火) 09:27:41.80 ID:u1sVDaZu9.net\n\n\n\n\n\n\n\n\n\n【速報】新学期が始まった途端、中学校でクラス分けやり直し　「生徒指導上配慮できてなかった」3年生を臨時休校 | 京都新聞 https://t.co/pBggePsUZs— 京都新聞 (@kyoto_np) April 8, 2024 \n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2034568.html",
+          "publishedOn": "2024-04-10T03:01:08.000Z",
+          "wordCount": 2348,
+          "title": "【滋賀】新学期が始まった途端、中学校でクラス分けやり直し　「生徒指導上配慮できてなかった」3年生を臨時休校",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/7/f781673b-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034571.html",
           "author": "yonepo665sfr",
