@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T14:50:16.213Z</updated>
+    <updated>2024-04-10T15:14:05.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相とバイデン大統領との日米首脳会談 始まる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014418491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014418491000.html"/>
+        <updated>2024-04-10T14:57:55.000Z</updated>
+        <summary type="html"><![CDATA[総理大臣としては、9年ぶりに国賓待遇でアメリカを訪問中の岸田総理大臣とバイデン大統領との日米首脳会談が、日本時間の10日午後11時50分すぎ、ワシントンのホワイトハウスで始まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸田首相 “日米が国際課題解決の先頭に” 首脳会談を前に式典]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240410/k10014418461000.html</id>
@@ -13543,18 +13553,6 @@ February 27, 2024 – Paris, France - Prophesee SA, inventor of the most advance
         <updated>2024-03-12T08:00:16.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅野完さん訴訟⑥被告準備書面3]]></title>
-        <id>https://note.com/hima_kuuhaku/n/nd3d775359a13</id>
-        <link href="https://note.com/hima_kuuhaku/n/nd3d775359a13"/>
-        <updated>2024-03-12T03:13:44.000Z</updated>
-        <summary type="html"><![CDATA[前回
-
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
