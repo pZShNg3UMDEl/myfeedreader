@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T04:28:23.481Z</updated>
+    <updated>2024-04-10T04:38:28.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417811000.html"/>
         <updated>2024-04-10T04:21:04.000Z</updated>
         <summary type="html"><![CDATA[3年前、アメリカ中西部ミシガン州の高校で拳銃を乱射し生徒4人を殺害した事件で、有罪判決を受けた男子生徒の両親に対し、地元の裁判所は犯行を防ぐ機会を無視したなどとして禁錮10年から15年の判決を言い渡しました。地元メディアは、少年による学校での銃撃事件で親が有罪判決を受けるのは初めてだと伝えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参院憲法審査会 今国会で初 政治資金問題受け 新たな幹事選任]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014417791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417791000.html"/>
+        <updated>2024-04-10T03:48:38.000Z</updated>
+        <summary type="html"><![CDATA[今の国会で初めてとなる参議院憲法審査会が開かれ、自民党の派閥の政治資金パーティーをめぐる問題を受けて新たな幹事を選任する手続きが行われました。与野党は今後の議論の進め方を協議することにしています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
