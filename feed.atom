@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T20:37:46.657Z</updated>
+    <updated>2024-04-10T20:50:30.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平 7試合連続ヒット チームは敗れる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240411/k10014418571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240411/k10014418571000.html"/>
+        <updated>2024-04-10T20:43:03.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、ドジャースの大谷翔平選手は10日、ツインズ戦で7試合連続となるヒットを打ちました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沖縄 うるま 陸自訓練場の整備 計画を白紙に戻す方向で調整]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240411/k10014418451000.html</id>
