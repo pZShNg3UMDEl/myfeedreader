@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T12:24:10.870Z</updated>
+    <updated>2024-04-10T12:47:21.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なりすまし広告 前澤友作さんと堀江貴文さん 対応策必要と訴え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014418321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014418321000.html"/>
+        <updated>2024-04-10T12:44:38.000Z</updated>
+        <summary type="html"><![CDATA[SNSで有名人になりすまして投資を呼びかける偽の広告に画像や名前が使われているとして、実業家の前澤友作さんと堀江貴文さんが、自民党の勉強会に出席し、SNSの運営事業者を規制するなど具体的な対応策が必要だと訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[円相場 一時1ドル＝152円台に 約34年ぶりの円安ドル高水準]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014416421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014416421000.html"/>
+        <updated>2024-04-10T12:36:34.000Z</updated>
+        <summary type="html"><![CDATA[10日の外国為替市場で円相場は一時、1ドル＝152円台まで値下がりしました。1990年7月以来、およそ34年ぶりの円安ドル高水準です。この日発表されたアメリカの先月の消費者物価指数を受けて市場ではFRB＝連邦準備制度理事会が利下げに踏み切る時期が遅れるとの見方が広がって日米の金利差が意識され円を売ってドルを買う動きが強まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【茨城】「メロンが盗まれた」 ハウスメロン 約６００玉盗まれる 窃盗事件で捜査 鉾田]]></title>
         <id>https://itainews.com/archives/2034588.html</id>
