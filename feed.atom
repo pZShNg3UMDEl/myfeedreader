@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T14:11:55.423Z</updated>
+    <updated>2024-04-10T14:26:41.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪維新 吉村代表 万博シンボルめぐる“出禁”発言を撤回]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014418391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014418391000.html"/>
+        <updated>2024-04-10T14:11:19.000Z</updated>
+        <summary type="html"><![CDATA[大阪維新の会の吉村代表は、大阪・関西万博の「大屋根リング」をめぐり、民放の情報番組のコメンテーターを名指しして「今、批判するのはいいけど、『入れさせてくれ』と言っても禁止と言ったろうかな」などと発言したことについて、不適切だったとして撤回し、コメンテーターに謝罪しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“長谷川参院議員の言動で萎縮の職員 複数確認”札幌 秋元市長]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240410/k10014418191000.html</id>
