@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T10:31:39.873Z</updated>
+    <updated>2024-04-10T10:50:24.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[埼玉 春日部で住宅火災 少なくとも7棟に延焼]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014418231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014418231000.html"/>
+        <updated>2024-04-10T10:44:12.000Z</updated>
+        <summary type="html"><![CDATA[埼玉県の春日部市消防本部に入った連絡によりますと10日午後5時20分ごろ、春日部市の住宅から火が出て、午後7時時点で周辺の少なくとも7棟の住宅に延焼しているということです。この火事でこれまでのところ逃げ遅れやケガをした人の情報は入っていないということです。消防が消火活動にあたっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リメイク版『オホーツクに消ゆ』堀井雄二スペシャルメッセージ動画公開。アケミ役が宮村優子、ルナ役は氷上恭子に決定]]></title>
         <id>https://www.famitsu.com/news/202404/10339034.html</id>
