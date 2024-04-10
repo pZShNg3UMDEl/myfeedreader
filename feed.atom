@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T13:36:44.275Z</updated>
+    <updated>2024-04-10T13:50:17.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240410/k10014418191000.html"/>
         <updated>2024-04-10T13:24:00.000Z</updated>
         <summary type="html"><![CDATA[札幌市の秋元市長は、自民党の長谷川岳 参議院議員の言動で萎縮した職員が複数確認されたことを明らかにしました。一部の部署では東京に出張して説明を求められることも多く、最も多い人は10か月間で23回出張し、費用は130万円にのぼっていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカ 3月の消費者物価指数 前年同月比3.5％の上昇]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014418341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014418341000.html"/>
+        <updated>2024-04-10T13:05:27.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの3月の消費者物価指数が発表され、前の年の同じ月と比べて3.5％の上昇となりました。上昇率は2か月連続で前の月を上回りました。FRB＝連邦準備制度理事会のパウエル議長は利下げを急ぐ必要はないという考えを繰り返し示しています。今回の物価統計を受けてFRBがどのような政策判断をするかが注目されます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
