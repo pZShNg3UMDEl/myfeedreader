@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73250",
+          "author": "多根清史",
+          "description": "次期Apple Watchには新たな有機EL技術を採用し、常時表示ディスプレイの消費電力をさらに抑える予定だと韓国サプライチェーン情報筋が伝えている。 韓国の電子業界誌The Elecによると、アップルは2024年下半期に発売予定の次期Apple Watchに新方式の低温多結晶酸化物（LTPO）薄膜 […]",
+          "link": "https://gadget.phileweb.com/post-73250/",
+          "publishedOn": "2024-04-10T05:04:32.000Z",
+          "wordCount": 780,
+          "title": "次期Apple Watch、省電力ディスプレイ採用でバッテリー持ちが向上か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/Apple-Watch-S9-hero-230912_Full-Bleed-Image.jpg.large_.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73207",
           "author": "山本 敦",
           "description": "アップルは、最新のApple M3チップを搭載するモバイルノート「MacBook Air」を3月に発売した。15インチのモデルをアップルから借りて、1か月間ほど試した筆者の体験をレポートする。 AppleシリコンはAI対応。生成AI系アプリケーションの動作が快適 AppleシリコンにはM1チップの頃 […]",
@@ -972,6 +982,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417831000.html",
+          "author": null,
+          "description": "台湾の頼清徳次期総統は、5月に発足する新政権の首相に当たる行政院長に、みずからに近く、協調性が高いと定評のある与党・民進党の元トップを起用すると発表し、少数与党で厳しい政権運営が予想される中、野党との意思疎通を重視する姿勢を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417831000.html",
+          "publishedOn": "2024-04-10T05:05:56.000Z",
+          "wordCount": 713,
+          "title": "台湾新政権 行政院長に卓栄泰氏 起用へ 野党との意思疎通 重視",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417831_2404101346_0410134927_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417761000.html",
+          "author": null,
+          "description": "「本屋大賞」は、全国の書店員が「いちばん売りたい本」を投票で選ぶ賞で、現場から出版業界を盛り上げようと書店員の有志が集まって企画し、2004年にスタートしました。ことしの本屋大賞は、きょう午後発表されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417761000.html",
+          "publishedOn": "2024-04-10T05:04:34.000Z",
+          "wordCount": 251,
+          "title": "【ライブ】ことしの本屋大賞は？まもなく発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417761_2404101235_0410124147_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417821000.html",
+          "author": null,
+          "description": "南米エクアドルの警察が、現地のメキシコの大使館に突入し政治亡命を求めていた元副大統領の身柄を拘束して、両国の緊張が高まる中、メキシコの大統領は、大使館の監視カメラの映像を公開するとともに「深刻な事態だ」と述べ、さらに非難を強める事態となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417821000.html",
+          "publishedOn": "2024-04-10T04:56:52.000Z",
+          "wordCount": 760,
+          "title": "メキシコ エクアドル警察の大使館突入映像を公開 非難強める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417821_2404101343_0410134656_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417811000.html",
           "author": null,
