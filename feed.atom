@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T05:50:15.127Z</updated>
+    <updated>2024-04-10T06:17:31.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビッグモーター 埼玉など4県で中古車盗難相次ぐ 29台が被害に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014417781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014417781000.html"/>
+        <updated>2024-04-10T06:03:37.000Z</updated>
+        <summary type="html"><![CDATA[中古車販売会社「ビッグモーター」の埼玉、山梨、長野、群馬にある店舗でことし1月以降、少なくとも29台の中古車が盗まれる被害が相次いでいることが警察や会社への取材でわかりました。各地の警察が窃盗事件として捜査しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google、Gemini活用の動画作成アプリ「Vids」を発表。6月からWorkspace Labsで提供]]></title>
         <id>https://gadget.phileweb.com/?p=73255</id>
