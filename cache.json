@@ -973,6 +973,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417651000.html",
+          "author": null,
+          "description": "京都市北区にある平野神社では桜が見頃を迎えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417651000.html",
+          "publishedOn": "2024-04-10T03:27:48.000Z",
+          "wordCount": 830,
+          "title": "境内に400本の桜 京都 平野神社で桜が見頃【ドローン撮影】",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417651_2404101159_0410120641_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417771000.html",
+          "author": null,
+          "description": "能登半島地震で、大きな被害を受けた石川県七尾市の商店街で200年近く輪島塗などを取り扱っていた店が10日、およそ3か月ぶりに営業を再開しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417771000.html",
+          "publishedOn": "2024-04-10T03:22:09.000Z",
+          "wordCount": 790,
+          "title": "200年近く輪島塗など販売の店 約3か月ぶり営業再開 石川 七尾",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417771_2404101216_0410122211_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417741000.html",
           "author": null,
           "description": "少子化対策の「支援金制度」をめぐり、こども家庭庁が9日まとめた会社員などが拠出する年収別の試算について、林官房長官は、これまでの政府の説明と変わりはないとしたうえで、制度の趣旨を丁寧に説明していく考えを強調しました。",
@@ -6000,6 +6020,26 @@
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
         {
+          "id": "https://www.famitsu.com/news/202404/10339002.html",
+          "author": null,
+          "description": "Epic Gamesは、『フォートナイト』内で遊べるアーケードレースゲーム『Rocket Racing』（ロケットレーシング）のアップデートを実施し、“NEON RUSH”を配信開始した。",
+          "link": "https://www.famitsu.com/news/202404/10339002.html",
+          "publishedOn": "2024-04-10T03:30:00.000Z",
+          "wordCount": 1765,
+          "title": "『ロケットレーシング』ネオンが輝く大都会のレースウェイが登場する“NEON RUSH”アップデートが配信開始",
+          "imageUrl": "https://www.famitsu.com/images/000/339/002/z_6615f3f974651.jpg"
+        },
+        {
+          "id": "https://www.famitsu.com/news/202404/10338999.html",
+          "author": null,
+          "description": "『パワフルプロ野球』シリーズ最新作となる『パワフルプロ野球2024-2025』の発売日が7月18日に決定。",
+          "link": "https://www.famitsu.com/news/202404/10338999.html",
+          "publishedOn": "2024-04-10T03:15:00.000Z",
+          "wordCount": 1762,
+          "title": "『パワプロ2024-2025』発売日が7月18日に決定。サクセスシナリオ“プロ野球12球団”をリメイク。ペナントモードに阪急・南海・近鉄のオールドチーム参戦",
+          "imageUrl": "https://www.famitsu.com/images/000/338/999/z_6616025640347.jpg"
+        },
+        {
           "id": "https://www.famitsu.com/news/202404/09338988.html",
           "author": null,
           "description": "スタジオ・スプートニクは、乙女ゲーム『関守神～再演～』のPC版をDLsiteとアニメイトで2024年4月22日、Nintendo Switch（ニンテンドースイッチ）とSteam向けに5月末に発売する。",
@@ -6603,6 +6643,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121016/",
+          "author": null,
+          "description": "「機動武闘伝Gガンダム」「新機動戦記ガンダムW」「機動新世紀ガンダムX」それぞれの30周年を記念する「ガンダム GWX 30周年プロジェクト」の実施が決定した。また「ガンダム」シリーズの45周年...",
+          "link": "https://anime.eiga.com/news/121016/",
+          "publishedOn": "2024-04-10T03:30:00.000Z",
+          "wordCount": 1658,
+          "title": "「G」「W」「X」ガンダム3作品30周年企画で「Gガン」新キャラを公開　「ガンダム」45周年で全国巡回イベントも",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/120873/",
           "author": null,
