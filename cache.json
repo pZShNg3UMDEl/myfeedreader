@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73376",
+          "author": "PHILE WEB編集部",
+          "description": "Arlo Technologiesは、スマートカメラのエントリー新製品として、 “Essentialシリーズ” の3モデルを発売する。ラインナップおよび税込価格は以下の通り。販売はAmazonにて行われるが、ヨドバシカメラとビックカメラにおいても展開を予定している。 ・「Essential屋外用カメ […]",
+          "link": "https://gadget.phileweb.com/post-73376/",
+          "publishedOn": "2024-04-10T09:03:58.000Z",
+          "wordCount": 783,
+          "title": "Arlo、“お手頃”アピールの2K対応スマートカメラ。「Essentialシリーズ」3モデル発表",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/DSC_8081.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73264",
           "author": "Munenori Taniguchi",
           "description": "いまだ「Twitter」と呼ばれることが多く、むしろTwitterという方が話が通じるのだが、イーロン・マスクが買収したSNSは現在「X」という名前になっている。 とはいえ、ウェブの様々な場所に埋め込んで拡散されるSNSの仕組み上、サービスのURLを簡単に変えることは難しいのか、いまだXのサービスは […]",
@@ -1032,6 +1042,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014418061000.html",
+          "author": null,
+          "description": "日銀の植田総裁は、大規模な金融緩和策のもとで続けてきた国債の買い入れについて、「マーケットの観察を経て縮小の局面に移行する」と述べ、市場の動向を見極めながら買い入れ規模の縮小を検討していく考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014418061000.html",
+          "publishedOn": "2024-04-10T09:12:53.000Z",
+          "wordCount": 694,
+          "title": "日銀 植田総裁 国債の買い入れ “市場動向見極め 縮小を検討”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014418061_2404101811_0410181215_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014418021000.html",
+          "author": null,
+          "description": "中国の習近平国家主席と台湾の馬英九前総統が、北京で会談し、習主席の発言などに関心が集まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014418021000.html",
+          "publishedOn": "2024-04-10T09:02:56.000Z",
+          "wordCount": 880,
+          "title": "中国 習近平国家主席と台湾 馬英九前総統が北京で会談",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014418021_2404101744_0410180059_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417991000.html",
+          "author": null,
+          "description": "能登半島地震の影響で今もほぼ全域で断水が続いている石川県珠洲市で、大相撲の力士たちが避難所となっている小学校を訪れ、ちゃんこ鍋をふるまったり、子どもたちと相撲を取ったりして交流を深めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417991000.html",
+          "publishedOn": "2024-04-10T09:00:47.000Z",
+          "wordCount": 761,
+          "title": "石川 珠洲 力士が避難所を訪問 子どもたちと相撲 ちゃんこ鍋も",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417991_2404101727_0410175909_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014418001000.html",
           "author": null,
@@ -6894,6 +6934,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121023/",
+          "author": null,
+          "description": "CHOCOLATE Inc.（チョコレイト）が企画・製作を手がけるオリジナル劇場アニメ「KILLTUBE（キルチューブ）」（監督：栗林和明）が、2026年春公開を目指して始動したことが発表された...",
+          "link": "https://anime.eiga.com/news/121023/",
+          "publishedOn": "2024-04-10T09:00:00.000Z",
+          "wordCount": 1580,
+          "title": "「MONDAYS このタイムループ、上司に気づかせないと終わらない」企画・製作会社によるオリジナル劇場アニメ、26年春公開に向け始動",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121016/",
           "author": null,
           "description": "「機動武闘伝Gガンダム」「新機動戦記ガンダムW」「機動新世紀ガンダムX」それぞれの30周年を記念する「ガンダム GWX 30周年プロジェクト」の実施が決定した。また「ガンダム」シリーズの45周年...",
@@ -9502,6 +9557,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034572.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：煮卵 ★：2024/04/09(火) 15:19:20.80 ID:KlYhk1ok9.net\n\n\n\n\n\n\n\n\n\n【スーパーで“万引き”親子を逮捕　レジで働く娘「少しでも安くしてあげたいと」　母親は否認　福岡・苅田町】福岡県苅田町のスーパーから共謀して商品を万引きした疑いで、４４歳の母親と高校生の...",
+          "link": "https://itainews.com/archives/2034572.html",
+          "publishedOn": "2024-04-10T09:01:58.000Z",
+          "wordCount": 2353,
+          "title": "スーパーで“万引き”親子を逮捕　レジで働く娘「少しでも安くしてあげたいと」　母親は否認　福岡・苅田町",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/0/d0600e8c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034577.html",
           "author": "yonepo665sfr",
