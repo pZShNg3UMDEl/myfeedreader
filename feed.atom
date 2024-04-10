@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T21:22:28.258Z</updated>
+    <updated>2024-04-10T21:35:29.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[福井市で住宅全焼 焼け跡から3人の遺体見つかる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240411/k10014418591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240411/k10014418591000.html"/>
+        <updated>2024-04-10T21:31:46.000Z</updated>
+        <summary type="html"><![CDATA[警察によりますと、11日午前2時前、福井市文京6丁目で木造2階建ての住宅から火が出て全焼し、焼け跡から3人の遺体が見つかりました。この住宅に住む3人と連絡が取れなくなっていて、警察が確認を進めています。現場は、えちぜん鉄道の日華化学前駅から西に500メートルほどのところにある住宅街です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ヴァンサバ】『Vampire Survivors』PS4/PS5版が今夏配信決定。魂斗羅コラボDLC“Operation Guns”は5月9日配信]]></title>
+        <id>https://www.famitsu.com/news/202404/11339066.html</id>
+        <link href="https://www.famitsu.com/news/202404/11339066.html"/>
+        <updated>2024-04-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[『Vampire Survivors』（ヴァンパイアサバイバーズ）プレイステーション4/5版とKONAMIの『魂斗羅』コラボDLCが発表。]]></summary>
+        <author>
+            <name>Nintendo Switch - Switchの最新ゲームソフト情報 - ファミ通.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【餃子の王将】冷し中華・ごはんセット【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=241844</id>

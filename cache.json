@@ -1053,6 +1053,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418591000.html",
+          "author": null,
+          "description": "警察によりますと、11日午前2時前、福井市文京6丁目で木造2階建ての住宅から火が出て全焼し、焼け跡から3人の遺体が見つかりました。この住宅に住む3人と連絡が取れなくなっていて、警察が確認を進めています。現場は、えちぜん鉄道の日華化学前駅から西に500メートルほどのところにある住宅街です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014418591000.html",
+          "publishedOn": "2024-04-10T21:31:46.000Z",
+          "wordCount": 484,
+          "title": "福井市で住宅全焼 焼け跡から3人の遺体見つかる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418591_2404110624_0411062818_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418571000.html",
           "author": null,
           "description": "大リーグ、ドジャースの大谷翔平選手は10日、ツインズ戦で7試合連続となるヒットを打ちました。",
@@ -6479,6 +6489,16 @@
       "feedUrl": "https://www.famitsu.com/rss/category/fcom_news_switch.rdf",
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
+        {
+          "id": "https://www.famitsu.com/news/202404/11339066.html",
+          "author": null,
+          "description": "『Vampire Survivors』（ヴァンパイアサバイバーズ）プレイステーション4/5版とKONAMIの『魂斗羅』コラボDLCが発表。",
+          "link": "https://www.famitsu.com/news/202404/11339066.html",
+          "publishedOn": "2024-04-10T21:30:00.000Z",
+          "wordCount": 1740,
+          "title": "【ヴァンサバ】『Vampire Survivors』PS4/PS5版が今夏配信決定。魂斗羅コラボDLC“Operation Guns”は5月9日配信",
+          "imageUrl": "https://www.famitsu.com/images/000/339/066/z_6616d162c65b9.jpg"
+        },
         {
           "id": "https://www.famitsu.com/news/202404/10339034.html",
           "author": null,
