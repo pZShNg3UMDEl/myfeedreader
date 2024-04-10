@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T09:14:59.021Z</updated>
+    <updated>2024-04-10T09:27:46.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岡山 女児死亡衝突事故 軽乗用車がセンターラインはみ出したか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240410/k10014418091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240410/k10014418091000.html"/>
+        <updated>2024-04-10T09:23:41.000Z</updated>
+        <summary type="html"><![CDATA[9日、岡山市の県道で車3台が衝突するなどして1歳の女の子が死亡し3人がけがをした事故で、警察は、女の子が家族で乗っていた軽乗用車がセンターラインをはみ出して、対向車線のワゴン車と正面衝突したとみて詳しい状況を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日銀 植田総裁 国債の買い入れ “市場動向見極め 縮小を検討”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240410/k10014418061000.html</id>
