@@ -958,16 +958,6 @@
           "wordCount": 5078,
           "title": "Prophesee Qualcomm demo at Mobile World Congress",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/03/preprint-on-skipper-in-cmos-image-sensor.html",
-          "author": null,
-          "description": "A recent preprint on ArXiv https://arxiv.org/abs/2402.12516 titled presents a new CMOS image sensor designed to achieve sub-electron read noise and photon number resolving capability.\nSkipper-in-CMOS: Non-Destructive Readout with Sub-Electron Noise Performance for Pixel Detectors\n\nAbstract: The Skipper-in-CMOS image sensor integrates the non-destructive readout capability of Skipper Charge Coupled Devices (Skipper-CCDs) with the high conversion gain of a pinned photodiode in a CMOS imaging process, while taking advantage of in-pixel signal processing. This allows both single photon counting as well as high frame rate readout through highly parallel processing. The first results obtained from a 15 x 15 um^2 pixel cell of a Skipper-in-CMOS sensor fabricated in Tower Semiconductor's commercial 180 nm CMOS Image Sensor process are presented. Measurements confirm the expected reduction of the readout noise with the number of samples down to deep sub-electron noise of 0.15rms e-, demonstrating the charge transfer operation from the pinned photodiode and the single photon counting operation when the sensor is exposed to light. The article also discusses new testing strategies employed for its operation and characterization.",
-          "link": "http://image-sensors-world.blogspot.com/2024/03/preprint-on-skipper-in-cmos-image-sensor.html",
-          "publishedOn": "2024-03-11T13:07:00.007Z",
-          "wordCount": 4998,
-          "title": "Preprint on \"Skipper-in-CMOS\" image sensor",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgMiEdx-h26XtvWL1arR2LMvGjiurHVlkaeXM3_8g3q7IGxsAurY4LLgADBFPNCkeSAjA2u96rxj6SP1HM_GZ6Eoe6sSdV8bNzmYDVkgzMO-GHjHzaOfB5RgRg7GIAbO_vrdJ-Dkdr9JyQq9q1JNbUxPmob-_jQcT0jSEEY_hCGcI5gtYoQ9Wy/w1200-h630-p-k-no-nu/Capture1.PNG"
         }
       ]
     },
@@ -983,6 +973,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417631000.html",
+          "author": null,
+          "description": "9日夜、兵庫県高砂市の公園で、10歳くらいの男の子と3歳くらいの女の子が車の中で意識がない状態で倒れているのが見つかり、その後、死亡しました。近くには子どもの母親がいて、警察は現場の状況などから無理心中を図ったとみて詳しい状況を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417631000.html",
+          "publishedOn": "2024-04-10T01:18:58.000Z",
+          "wordCount": 470,
+          "title": "車内で子ども2人意識なく死亡 近くに母親 無理心中か 兵庫",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417631_2404101014_0410101900_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417431000.html",
+          "author": null,
+          "description": "アイルランドで、37歳の元保健相が史上最年少の首相に就任しました。地元メディアは、新首相が就任早々直面する可能性のある課題について伝えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417431000.html",
+          "publishedOn": "2024-04-10T00:32:41.000Z",
+          "wordCount": 750,
+          "title": "アイルランド 史上最年少 37歳の新首相が就任",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417431_2404101022_0410102259_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417611000.html",
           "author": null,
           "description": "企業の間で取り引きされるモノの価格を示す、3月の企業物価指数は、前の年の同じ月と比べて0.8％上昇しました。伸び率は5か月連続で0％台でしたが、前の月からはいくぶん拡大しました。",
@@ -991,6 +1001,26 @@
           "wordCount": 725,
           "title": "3月企業物価指数 前年同月比0.8％上昇",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417611_2404100900_0410092123_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417311000.html",
+          "author": null,
+          "description": "ヨーロッパ人権裁判所は、スイス政府の気候変動対策が不十分だとする、スイス市民の訴えについて、「私生活をめぐる権利が侵害されている」として認める判決を言い渡しました。政府の気候変動対策が人権に関わるとする判断をヨーロッパ人権裁判所が示したのは初めてで、原告側は画期的だとしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417311000.html",
+          "publishedOn": "2024-04-10T00:10:43.000Z",
+          "wordCount": 809,
+          "title": "欧州人権裁判所 “スイス政府の気候変動対策 不十分”初判断",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417311_2404100823_0410091045_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417601000.html",
+          "author": null,
+          "description": "サッカー女子の日本代表「なでしこジャパン」は、パリオリンピックに向けたチーム強化のために出場している国際大会の第2戦で、ブラジルと対戦し、ペナルティーキック戦で3人連続で失敗して敗れました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014417601000.html",
+          "publishedOn": "2024-04-09T23:56:09.000Z",
+          "wordCount": 737,
+          "title": "なでしこジャパン ブラジルにPK戦で敗れる 国際大会の第2戦",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014417601_2404100848_0410085611_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014417511000.html",
