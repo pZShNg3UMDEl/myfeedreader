@@ -284,16 +284,6 @@
           "wordCount": 2601,
           "title": "小型、低コスト、高電力密度を実現した電力変換デバイス",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/12/cover_news179.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/12/news065.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、ポイントツーポイント近接無線トランシーバーIC「ST60A3H0」「ST60A3H1」を発表した。60GHzのVバンドで動作し、eUSB2、I2C、SPI、UART、GPIOのトンネリング機能を提供する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/12/news065.html",
-          "publishedOn": "2024-03-12T00:00:00.000Z",
-          "wordCount": 2592,
-          "title": "480Mbpsでデータ交換可能な近接無線トランシーバーIC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/12/cover_news065.jpg"
         }
       ]
     },
@@ -1062,6 +1052,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240410/k10014418271000.html",
+          "author": null,
+          "description": "10日午前、大阪市の中心部で、ペットとして飼われている白いクジャクが、一時、逃げ出す騒ぎがありました。およそ1時間半後に信号機の上にいるところを捕獲され、けが人などはいませんでした。",
+          "link": "http://www3.nhk.or.jp/news/html/20240410/k10014418271000.html",
+          "publishedOn": "2024-04-10T11:44:29.000Z",
+          "wordCount": 943,
+          "title": "大阪市中心部に白い“クジャク” ペット逃げ出し捕獲",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240410/K10014418271_2404101942_0410194457_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240410/k10014418231000.html",
           "author": null,
@@ -7024,6 +7024,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120978/",
+          "author": null,
+          "description": "草笛光子主演で佐藤愛子氏の同名ベストセラーエッセイ集を前田哲監督が映画化する「九十歳。何がめでたい」の追加キャストが発表された。歌舞伎俳優としても活躍する片岡千之助と声優・歌手として人気を誇る宮...",
+          "link": "https://anime.eiga.com/news/120978/",
+          "publishedOn": "2024-04-10T12:00:00.000Z",
+          "wordCount": 1737,
+          "title": "実写映画「九十歳。何がめでたい」に片岡千之助と宮野真守が出演　インタビュー映像公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121033/",
           "author": null,
           "description": "テレビアニメ「忍たま乱太郎」の初回が放送された日である4月10日（忍たまの日）に、12月全国公開の「劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師」から、超ティザービジュアルのメイキング映像が公...",
@@ -9692,6 +9707,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034588.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2024/04/09(火) 21:11:14.59 ID:zu6dECEN9.net\n\n\n\n\n\n\n\n茨城県鉾田市で、今シーズンの出荷が始まったばかりのメロンおよそ６００玉が農業用ハウスからなくなっていたことがわかり、警察は盗まれたとみて捜査しています。https://t.co/ld6vtB6l41— NHK水...",
+          "link": "https://itainews.com/archives/2034588.html",
+          "publishedOn": "2024-04-10T12:02:14.000Z",
+          "wordCount": 2531,
+          "title": "【茨城】「メロンが盗まれた」 ハウスメロン 約６００玉盗まれる 窃盗事件で捜査 鉾田",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/c/6c8b9984-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034580.html",
           "author": "damono3856",
