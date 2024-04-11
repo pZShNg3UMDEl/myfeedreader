@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73442",
+          "author": "編集部：伴 修二郎",
+          "description": "ベルキンは、USB Type-A／Type-Cポート搭載で計42W出力の充電器「Belkin BoostCharge 42W 2ポート充電器」を、本日4月11日（木）より発売する。価格は3,200円（税込）。 同時に2台のデバイスに最大42Wの供給が行える充電器。USB Type-A、USB Typ […]",
+          "link": "https://gadget.phileweb.com/post-73442/",
+          "publishedOn": "2024-04-11T03:48:08.000Z",
+          "wordCount": 780,
+          "title": "ベルキン、USB-A／C対応の最大42W出力充電器「Belkin BoostCharge 42W 2ポート充電器」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/samune.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73419",
           "author": "編集部：平山洸太",
           "description": "ロジクールは、ワイヤレスキーボード「Signature Slim K950」を4月25日に発売する。カラーはグラファイトとオフホワイトの2色。価格はオープンだが、同社オンラインストアでは税込10,890円での販売を予定する。 同社ラインナップにおける中間ラインであるSignatureシリーズの新モデ […]",
@@ -1082,6 +1092,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418841000.html",
+          "author": null,
+          "description": "JRA＝日本中央競馬会は今月6日のレースで落馬し、病院で治療を受けていた35歳の藤岡康太騎手が亡くなったと発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014418841000.html",
+          "publishedOn": "2024-04-11T03:34:16.000Z",
+          "wordCount": 546,
+          "title": "藤岡康太騎手死去 35歳 6日の阪神競馬場でのレースで落馬",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418841_2404111228_0411123418_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418741000.html",
           "author": null,
