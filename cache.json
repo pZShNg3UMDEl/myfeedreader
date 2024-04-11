@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73509",
+          "author": "編集部：平山洸太",
+          "description": "Jackery Japanは、軽量設計のソーラーパネル「Jackery SolarSaga 40 Mini」を4月22日に発売する。価格は17,900円（税込）。 タブレットサイズに折り畳める、最大40W出力のソーラーパネル。折りたたみは10秒以内で行うことができ、リュックなどに入れて手軽に持ち運べ […]",
+          "link": "https://gadget.phileweb.com/post-73509/",
+          "publishedOn": "2024-04-11T08:02:14.000Z",
+          "wordCount": 768,
+          "title": "Jackery、タブレットサイズに折り畳めるソーラーパネル「Jackery SolarSaga 40 Mini」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/j2_1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73501",
           "author": "Gadget Gate",
           "description": "日本Xrealは、同社設立4周年を記念して、Ankerとのコラボレーションキャンペーンを発表。ARグラス「XREAL Air」または「XREAL Air2」と、ノイズキャンセリング機能（ANC）搭載の完全ワイヤレスイヤホン「Soundcore Liberty 4 NC」のスペシャルセットを、2024 […]",
@@ -1152,6 +1162,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419121000.html",
+          "author": null,
+          "description": "日本とアメリカ、それにフィリピンの3か国の首脳会談が初めて開かれるのを前に、中国は東南アジアの国々への外交攻勢を強めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014419121000.html",
+          "publishedOn": "2024-04-11T08:02:05.000Z",
+          "wordCount": 751,
+          "title": "中国 初の日米比3か国首脳会談を前に東南アジアへ外交攻勢",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014419121_2404111629_0411165500_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418901000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、衆議院は11日、政治改革を議論する特別委員会を設置しました。特別委員会では、後半国会の最大の焦点となる政治資金規正法の改正に向けた議論が行われる見通しです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014418901000.html",
+          "publishedOn": "2024-04-11T08:00:08.000Z",
+          "wordCount": 673,
+          "title": "衆院 政治資金問題受け 政治改革を議論する特別委員会設置",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418901_2404111323_0411140743_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419041000.html",
+          "author": null,
+          "description": "少子化対策の財源確保のための「支援金制度」をめぐり、衆議院の連合審査会で、野党側が自営業者などが拠出する額のより詳しい試算を示すよう求めたのに対し、加藤こども政策担当大臣は、自治体が決めるもので難しいという考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014419041000.html",
+          "publishedOn": "2024-04-11T07:25:52.000Z",
+          "wordCount": 569,
+          "title": "少子化対策支援金制度 “自営業者などの拠出額試算は困難”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014419041_2404111523_0411154527_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418771000.html",
+          "author": null,
+          "description": "大リーグ、ドジャースの大谷翔平選手の専属通訳を務めていた水原一平氏が大谷選手の口座から不正に送金したとされる問題で、アメリカの有力紙は口座の取引の通知が本人に届かないよう、設定を変更できたと捜査当局がみていると伝えました。水原氏は罪を認める方向で交渉を進めているということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014418771000.html",
+          "publishedOn": "2024-04-11T07:21:37.000Z",
+          "wordCount": 799,
+          "title": "“水原氏 罪認める方向で交渉 捜査終結に近づきつつある”米紙",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418771_2404111144_0411114442_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419001000.html",
           "author": null,
@@ -6730,6 +6780,26 @@
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
         {
+          "id": "https://www.famitsu.com/news/202404/11339098.html",
+          "author": null,
+          "description": "Fangamer Japanより、『UNDERTALE』（アンダーテール）と『DELTARUNE』（デルタルーン）の最新グッズ4点が発売される。",
+          "link": "https://www.famitsu.com/news/202404/11339098.html",
+          "publishedOn": "2024-04-11T08:00:00.000Z",
+          "wordCount": 1808,
+          "title": "『UNDERTALE』『DELTARUNE』ナプスタブルークのケーブルクリップやスイート・キャップ・ケーキのTシャツなどの最新グッズが本日（4/11）発売",
+          "imageUrl": "https://www.famitsu.com/images/000/339/098/z_661770244326e.jpg"
+        },
+        {
+          "id": "https://www.famitsu.com/news/202404/11339119.html",
+          "author": null,
+          "description": "Nintendo Switch用ソフト『おうちでゴルフ練習 パターうまくな～る！』が2024年7月4日に発売。Joy-Conをパターに見立ててスイングし、ボールの初速、転がり距離、パターのフェイス角度を計測してパター練習が行えるタイトル。",
+          "link": "https://www.famitsu.com/news/202404/11339119.html",
+          "publishedOn": "2024-04-11T08:00:00.000Z",
+          "wordCount": 1765,
+          "title": "Joy-Conをパターに見立ててスイング。Switch『おうちでゴルフ練習 パターうまくな～る！』が7月4日発売。パターがうまくなるための“3つの練習方法”を収録",
+          "imageUrl": "https://www.famitsu.com/images/000/339/119/z_6617918923022.jpg"
+        },
+        {
           "id": "https://www.famitsu.com/news/202404/11339074.html",
           "author": null,
           "description": "Iceberg Interactiveは、パズルアドベンチャー『CLeM』Nintendo Switch版を発売。10%オフの1620円［税込］となるセールを2024年4月17日（水）まで開催する。",
@@ -10233,6 +10303,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2034599.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：＠おっさん友の会 ★：2024/04/10(水) 16:51:22.47 ID:gB054cx89.net\n\n\n\n\n\n\n\n\n\n（島根）松江市東津田町で声かけ　３月２５日夕方 https://t.co/hVYRPrW4zX 遊んでいた女児に声をかけた。「一人ぼっちだから、さみしい」「いちごがいっぱいあるから、おうちに来ないか...",
+          "link": "https://itainews.com/archives/2034599.html",
+          "publishedOn": "2024-04-11T08:01:28.000Z",
+          "wordCount": 2327,
+          "title": "【島根】自称77歳、女子小学生に「一人ぼっちだからさみしい」「いちごいっぱいあるから家に来て」と声かけ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/e/0ee24ba4-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2034594.html",
           "author": "yonepo665sfr",
           "description": "1 ：：2024/04/10(水) 16:22:11.29 \n\n\n\n\n\n\n\n\n\n【悲報】人気声優・水瀬いのりさん、裏垢で同業声優をdisりまくっていた説が浮上≪疑惑浮上経緯≫水瀬いのり公式アカウントが、水瀬さんの写真を無断転載するユーザーに「水瀬さんの注意喚起が読めないバカ」と投稿↓上記投...",
@@ -11639,6 +11719,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70840",
+          "author": "299",
+          "description": "大きな黒猫さんのところに、新入りと思われるベンガルの子猫が躊躇することなく近づいていきます。 一緒に遊んでもらいたくて先住猫の黒猫さんに近づいていった子猫でしたが見事に振られてしまいました。 いきなりアプローチしてきた子...\n新入り子猫と先住猫の距離が少しずつ縮まっていきました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70840",
+          "publishedOn": "2024-04-11T08:00:12.000Z",
+          "wordCount": 1339,
+          "title": "新入り子猫と先住猫の距離が少しずつ縮まっていきました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70840.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70836",
           "author": "299",
