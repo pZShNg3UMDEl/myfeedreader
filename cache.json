@@ -1173,6 +1173,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419271000.html",
+          "author": null,
+          "description": "10日に投票が行われた韓国の総選挙は、革新系の最大野党が過半数の議席を維持し、ユン・ソンニョル（尹錫悦）大統領を支える保守系の与党は大敗しました。与党のトップが責任をとって辞任する意向を明らかにしたほか、首相なども辞意を表明し、任期が3年目に入るユン大統領は、求心力の低下が避けられない中で、政権与党の立て直しを迫られることになります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014419271000.html",
+          "publishedOn": "2024-04-11T09:13:43.000Z",
+          "wordCount": 678,
+          "title": "韓国総選挙 与党大敗 ユン大統領 政権与党の立て直し迫られる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014419271_2404111758_0411180508_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419281000.html",
           "author": null,
           "description": "アメリカを訪問中の岸田総理大臣は、このあと、議会上下院の合同会議で演説に臨みます。ロシアや中国の行動などで自由や民主主義に基づく国際秩序が脅かされているとして、秩序を守るために日本もより大きな責任を担っていく姿勢を強調する方針です。",
@@ -6819,6 +6829,16 @@
       "feedUrl": "https://www.famitsu.com/rss/category/fcom_news_switch.rdf",
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
+        {
+          "id": "https://www.famitsu.com/news/202404/11339127.html",
+          "author": null,
+          "description": "オープンワールドアクションアドベンチャー『Tchia』のNintendo Switch版の配信日が6月27日に決定。",
+          "link": "https://www.famitsu.com/news/202404/11339127.html",
+          "publishedOn": "2024-04-11T09:15:00.000Z",
+          "wordCount": 1716,
+          "title": "雄大な自然を舞台にしたオープンワールドアクションアドベンチャー『Tchia』のNintendo Switch版が6月27日配信決定",
+          "imageUrl": "https://www.famitsu.com/images/000/339/127/z_6617a0bf2bb09.jpg"
+        },
         {
           "id": "https://www.famitsu.com/news/202404/11339098.html",
           "author": null,
