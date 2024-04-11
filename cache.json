@@ -1163,6 +1163,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419571000.html",
+          "author": null,
+          "description": "将棋の八大タイトルで最も歴史のある「名人戦」七番勝負の第1局が東京で行われ、タイトルを持つ藤井聡太八冠（21）が挑戦者の豊島将之九段（33）に勝利し、初戦を白星で飾りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014419571000.html",
+          "publishedOn": "2024-04-11T13:29:45.000Z",
+          "wordCount": 690,
+          "title": "将棋「名人戦」第1局 藤井聡太八冠が豊島将之九段に勝利",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014419571_2404112201_0411222429_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419601000.html",
           "author": null,
           "description": "ヨーロッパ中央銀行は11日、金融政策を決める理事会を開き、主要な政策金利を現在の4.5％のまま据え置くことを決めました。金利を据え置くのは、去年10月の会合以降、5回連続となります。ユーロ圏の3月の消費者物価指数の伸び率は2.4％と、前の月を3か月連続で下回り低下傾向にあります。ヨーロッパ中央銀行としては高い金利の水準を維持しインフレを抑え込む姿勢を示しながら、物価や景気の動向を踏まえて利下げに踏み切る時期を検討していくものとみられます。",
@@ -9940,6 +9950,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241915",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、定番メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。 […]",
+          "link": "https://foodfighter.jp/matsunoya-katsu-curry",
+          "publishedOn": "2024-04-11T13:34:35.000Z",
+          "wordCount": 1848,
+          "title": "【松のや】ロースかつカレー【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/595976a5f60cbe4cee08b2e2f71697fa.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241897",
           "author": "foodfighter",

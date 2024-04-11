@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T13:26:01.126Z</updated>
+    <updated>2024-04-11T13:36:50.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【松のや】ロースかつカレー【定番メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=241915</id>
+        <link href="https://foodfighter.jp/matsunoya-katsu-curry"/>
+        <updated>2024-04-11T13:34:35.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、定番メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将棋「名人戦」第1局 藤井聡太八冠が豊島将之九段に勝利]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240411/k10014419571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240411/k10014419571000.html"/>
+        <updated>2024-04-11T13:29:45.000Z</updated>
+        <summary type="html"><![CDATA[将棋の八大タイトルで最も歴史のある「名人戦」七番勝負の第1局が東京で行われ、タイトルを持つ藤井聡太八冠（21）が挑戦者の豊島将之九段（33）に勝利し、初戦を白星で飾りました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【画像あり】女児一人が死亡した軽自動車とワゴン車の正面衝突事故←これでも軽自動車乗りますか？]]></title>
         <id>https://itainews.com/archives/2034610.html</id>
