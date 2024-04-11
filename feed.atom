@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T21:22:55.083Z</updated>
+    <updated>2024-04-11T21:35:38.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[円相場 約34年ぶりの円安ドル高水準を更新 1ドル＝153円30銭台]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014419831000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419831000.html"/>
+        <updated>2024-04-11T21:22:25.000Z</updated>
+        <summary type="html"><![CDATA[11日のニューヨーク外国為替市場では、アメリカのFRB＝連邦準備制度理事会の利下げが遅れるとの見方を背景に日米の金利差が意識され、円相場は一時、1ドル＝153円30銭台まで値下がりし、およそ34年ぶりの円安ドル高水準を更新しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初の日米比首脳会談 海洋の安全保障協力強化で一致へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240412/k10014419511000.html</id>
