@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T10:14:48.456Z</updated>
+    <updated>2024-04-11T10:30:44.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア ウクライナ各地に大規模攻撃 インフラ施設被害で停電も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240411/k10014419371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240411/k10014419371000.html"/>
+        <updated>2024-04-11T10:13:40.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナへの侵攻を続けるロシア軍は、ウクライナ各地にミサイルや無人機による大規模な攻撃を行い、東部ハルキウ州ではエネルギーのインフラ施設が攻撃を受けて、停電が起きるなど、被害が出ています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新潮「ヤマザキパンで10年に4人も死んでる！！」]]></title>
         <id>https://itainews.com/archives/2034597.html</id>
