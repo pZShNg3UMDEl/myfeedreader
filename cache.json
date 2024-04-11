@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/11/news060.html",
+          "author": null,
+          "description": "東芝デバイス＆ストレージは、Arm Cortex-M4コアを搭載した、32ビットのモーター制御マイコン「TXZ＋ファミリー アドバンスクラス」の「M4K」グループに、フラッシュメモリ容量1Mバイトと512Kバイト製品を追加した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/11/news060.html",
+          "publishedOn": "2024-04-11T00:00:00.000Z",
+          "wordCount": 2586,
+          "title": "メモリ容量が1MバイトのCortex-M4搭載モーター制御マイコン",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/11/cover_news060.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/10/news058.html",
           "author": null,
           "description": "三菱電機は、デジタルコヒーレント通信方式用の光源「波長モニタ内蔵 DFB-CAN（形名：ML973A71）」を開発した。複数の光学部品を1チップに統合した波長モニターチップとDFBレーザーチップをTO-56CANに内蔵した。",
@@ -1063,6 +1073,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418601000.html",
+          "author": null,
+          "description": "外国為替市場では、日本時間の早朝に円相場が一時、およそ34年ぶりの円安ドル高水準となる1ドル＝153円台まで値下がりしました。財務省の神田財務官は「足元の動きは急であり、あらゆる手段を排除せず適切な対応を取りたい」と述べ、市場の動きをけん制しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014418601000.html",
+          "publishedOn": "2024-04-10T23:57:02.000Z",
+          "wordCount": 649,
+          "title": "円相場 一時1ドル＝153円台に 財務官「あらゆる手段排除せず」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418601_2404110844_0411084803_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418591000.html",
           "author": null,
           "description": "警察によりますと、11日午前2時前、福井市文京6丁目で木造2階建ての住宅から火が出て全焼し、焼け跡から3人の遺体が見つかりました。この住宅に住む3人と連絡が取れなくなっていて、警察が確認を進めています。現場は、えちぜん鉄道の日華化学前駅から西に500メートルほどのところにある住宅街です。",
@@ -1071,6 +1091,16 @@
           "wordCount": 484,
           "title": "福井市で住宅全焼 焼け跡から3人の遺体見つかる",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418591_2404110624_0411062818_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418381000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題を受けて、衆議院に11日、政治改革を議論する特別委員会が設置されます。特別委員会では政治資金規正法の改正に向けた議論が行われる見通しで、自民党は、与党で足並みをそろえるため、公明党と事前に具体案の調整を行うことにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014418381000.html",
+          "publishedOn": "2024-04-10T21:16:19.000Z",
+          "wordCount": 790,
+          "title": "政治改革を議論する特別委員会 きょう衆院に設置",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418381_2404102347_0411060244_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418571000.html",
@@ -6500,6 +6530,26 @@
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
         {
+          "id": "https://www.famitsu.com/news/202404/11339061.html",
+          "author": null,
+          "description": "アトラスより、2024年6月14日発売予定のSwitch、PS5、PS4、Xbox Series X|S、Xbox One、PC（Steam、Windows）用ソフト『真・女神転生V Vengeance』のレビューをお届けする。",
+          "link": "https://www.famitsu.com/news/202404/11339061.html",
+          "publishedOn": "2024-04-11T00:30:00.000Z",
+          "wordCount": 1764,
+          "title": "『真・女神転生V Vengeance』レビュー。仲間との尊いやり取りも楽しめる新ストーリーが魅力的。『メガテン』らしさはそのままに遊びやすさは大幅に向上",
+          "imageUrl": "https://www.famitsu.com/images/000/339/061/z_66168e845953d.jpg"
+        },
+        {
+          "id": "https://www.famitsu.com/news/202404/11339031.html",
+          "author": null,
+          "description": "3goo（サングー）は、2024年6月13日（木）発売のNintendo Switch用ソフト『コンストラクション シミュレーター 4』のゲームプレイ紹介トレーラーを公開した。",
+          "link": "https://www.famitsu.com/news/202404/11339031.html",
+          "publishedOn": "2024-04-11T00:00:00.000Z",
+          "wordCount": 2230,
+          "title": "建築会社経営シム『コンストラクション シミュレーター4』Switch版が6月13日発売。CAT重機を操りマンションを組み立てるトレーラーを公開",
+          "imageUrl": "https://www.famitsu.com/images/000/339/031/z_6616370319690.jpg"
+        },
+        {
           "id": "https://www.famitsu.com/news/202404/11339062.html",
           "author": null,
           "description": "アクションゲーム『Brotato』初のDLC“Abyssal Terrors”が発表。",
@@ -9044,6 +9094,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=42244",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ 日に日に春らしい気候になり、どこかへお出かけしたいな～という気持ちがふくらむ季節ですね♡ 今回はそんな春のお出かけにぴったりなイベントをご紹介！ 「第8回　相模川ローズガーデンフェスティバル」が5月11日…",
+          "link": "https://atsugi-lab.com/event-rose-gardenfes202405/",
+          "publishedOn": "2024-04-11T00:30:02.000Z",
+          "wordCount": 1159,
+          "title": "【イベント】仮面ライダーショーや阿波踊り、飲食屋台も！バラとステージを楽しむ「相模川ローズガーデンフェスティバル」5月11日に開催！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/04/rg2024.png"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=41784",
           "author": "comomo",
           "description": "こんにちは、ももこ＠あつらぼです。 今回は開店情報です！ 長らくテナント募集となっていた、レンブラントスタイル本厚木の2Fに 新しくクリニックが開院するようです。 早速場所からどうぞ♪ 「厚木ひだまり内科リウマチ膠原病クリニック」場所は厚木…",
@@ -9250,6 +9310,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241874",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「かぼちゃの濃厚プリン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]",
+          "link": "https://foodfighter.jp/711sej-pumpkin-pudding-2024",
+          "publishedOn": "2024-04-11T00:25:42.000Z",
+          "wordCount": 1790,
+          "title": "【セブンイレブン】かぼちゃの濃厚プリン【新作スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/4693f0d2d32f9a8c84c038e4f1c313a4.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241844",
           "author": "foodfighter",
