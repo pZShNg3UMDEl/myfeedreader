@@ -284,16 +284,6 @@
           "wordCount": 2586,
           "title": "入力オフセット電圧±150μV、入力耐圧100Vの双方向電流センスアンプ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news080.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/12/news179.html",
-          "author": null,
-          "description": "テキサス・インスツルメンツ（TI）は、電力効率を高めた「100V窒化ガリウム（GaN）パワーステージ」と、高い電力密度を達成した「1.5W絶縁型DC-DCモジュール」の2種類の電力変換デバイス製品を発表した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/12/news179.html",
-          "publishedOn": "2024-03-13T00:00:00.000Z",
-          "wordCount": 2601,
-          "title": "小型、低コスト、高電力密度を実現した電力変換デバイス",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/12/cover_news179.jpg"
         }
       ]
     },
@@ -1172,6 +1162,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419681000.html",
+          "author": null,
+          "description": "横浜市消防本部に入った連絡によりますと11日午後7時40分ごろ、横浜市保土ケ谷区で「建物から炎や煙が出ている」と消防に通報がありました。現在、消防車など30台あまりが出て消火活動にあたるとともにけが人がいないか確認を進めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014419681000.html",
+          "publishedOn": "2024-04-11T11:53:50.000Z",
+          "wordCount": 596,
+          "title": "横浜 保土ケ谷区で火災 消防車など30台余出て消火活動中",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014419681_2404112046_0411205329_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014419561000.html",
           "author": null,
@@ -6880,6 +6880,26 @@
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
         {
+          "id": "https://www.famitsu.com/news/202404/11339146.html",
+          "author": null,
+          "description": "2024年4月11日、ハムスターの公式配信“アーケードアーカイバー”にて、『アーケードアーカイブス エメラルディア』が2024年4月18日に配信予定であることが発表された。",
+          "link": "https://www.famitsu.com/news/202404/11339146.html",
+          "publishedOn": "2024-04-11T12:09:00.000Z",
+          "wordCount": 1711,
+          "title": "【アケアカ】ナムコ『エメラルディア』が4月18日に発売決定。家庭用への移植は2009年のWiiバーチャルコンソール版以来",
+          "imageUrl": "https://www.famitsu.com/images/000/339/146/z_6617bfbaa9e97.jpg"
+        },
+        {
+          "id": "https://www.famitsu.com/news/202404/11339115.html",
+          "author": null,
+          "description": "Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）用ソフト『Slave Zero X』の日本語版が2024年4月11日に発売。あわせて、Xbox、PC（Steam/GOGほか）版の日本語パッチが配信開始された。",
+          "link": "https://www.famitsu.com/news/202404/11339115.html",
+          "publishedOn": "2024-04-11T12:00:00.000Z",
+          "wordCount": 1840,
+          "title": "2.5Dのスタイリッシュアクション『スレイブ ゼロ X』日本語版が本日（4/11）発売。Xbox、Steam、GOG版の日本語パッチも配信開始",
+          "imageUrl": "https://www.famitsu.com/images/000/339/115/z_661788074fdd1.jpg"
+        },
+        {
           "id": "https://www.famitsu.com/news/202404/11339113.html",
           "author": null,
           "description": "aNCHORとfuzzは、Nintendo Switch用ソフト『マブラヴ REMASTERED』、『マブラヴ オルタネイティヴ REMASTERED』のダウンロード版を配信開始。両タイトルがセットになったダブルパックも同時発売した。",
@@ -7703,6 +7723,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/120997/",
+          "author": null,
+          "description": "「ゴジラ×コング 新たなる帝国」で、尾上松也、宮野真守、鈴木もぐら（空気階段）、真矢ミキら総勢14名に及ぶ日本語吹き替えキャストと、「ゴジラのテーマ」の楽曲に合わせてキャストを紹介するスペシャル...",
+          "link": "https://anime.eiga.com/news/120997/",
+          "publishedOn": "2024-04-11T12:00:00.000Z",
+          "wordCount": 1699,
+          "title": "「ゴジラ×コング　新たなる帝国」大塚明夫、宮野真守、三石琴乃、坂本真綾、立木文彦、福山潤、高橋李依、内田真礼ら14人の吹き替えキャスト発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121031/",
           "author": null,
@@ -10497,6 +10532,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034605.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2024/04/10(水) 21:33:11.39 ID:VWNXP2PY9.net\n\n\n\n\n\n\n\n「ウラに契約違反と“女帝”の存在が…」“CIAOちゅ～る”のいなば食品で一般職の新入社員9割が入社拒否「逆らうと、どうなるかわからない」記事はこちら↓https://t.co/yCraG5F0WO#週刊文春— 週...",
+          "link": "https://itainews.com/archives/2034605.html",
+          "publishedOn": "2024-04-11T12:05:06.000Z",
+          "wordCount": 2462,
+          "title": "「ウラに契約違反と女帝の存在…」CIAOちゅ～るのいなば食品で一般職の新入社員9割が入社拒否「逆らうと、どうなるかわからない」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/8/286579e0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034606.html",
           "author": "damono3856",
