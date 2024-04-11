@@ -1083,6 +1083,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418671000.html",
+          "author": null,
+          "description": "去年、動物への虐待の疑いで全国の警察が検挙した事件は、181件と、これまでで最も多くなり、最近10年で4倍近くに急増していることが、警察庁のまとめでわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240411/k10014418671000.html",
+          "publishedOn": "2024-04-11T02:09:15.000Z",
+          "wordCount": 724,
+          "title": "動物虐待疑いの事件 去年最多に 10年で4倍近くに急増 警察庁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240411/K10014418671_2404111105_0411110917_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240411/k10014418601000.html",
           "author": null,
           "description": "外国為替市場では、日本時間の早朝に円相場が一時、およそ34年ぶりの円安ドル高水準となる1ドル＝153円台まで値下がりしました。財務省の神田財務官は「足元の動きは急であり、あらゆる手段を排除せず適切な対応を取りたい」と述べ、市場の動きをけん制しました。",
@@ -6539,6 +6549,16 @@
       "feedUrl": "https://www.famitsu.com/rss/category/fcom_news_switch.rdf",
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
+        {
+          "id": "https://www.famitsu.com/news/202404/11339051.html",
+          "author": null,
+          "description": "Gotcha Gotcha Gamesより2024年4月11日に発売されたNintendo Switch（スイッチ）用ソフト『RPG MAKER WITH』のレビューをお届け。シリーズ初心者がゲーム作りに挑戦。",
+          "link": "https://www.famitsu.com/news/202404/11339051.html",
+          "publishedOn": "2024-04-11T02:30:00.000Z",
+          "wordCount": 1814,
+          "title": "RPGツクール最新作『RPG MAKER WITH』レビュー。シリーズ初心者がゲーム作りに初挑戦。自分が思い描いた世界を形にできるのってこんなに楽しいことなのか！",
+          "imageUrl": "https://www.famitsu.com/images/000/339/051/z_66166b674e203.jpg"
+        },
         {
           "id": "https://www.famitsu.com/news/202404/11339042.html",
           "author": null,
