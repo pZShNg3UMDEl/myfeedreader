@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T23:14:29.184Z</updated>
+    <updated>2024-04-11T23:25:44.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“世界最大の選挙” 有権者10億人近く インド総選挙まで1週間]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014419491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419491000.html"/>
+        <updated>2024-04-11T23:16:20.000Z</updated>
+        <summary type="html"><![CDATA[有権者が10億人近くにのぼり、世界最大の選挙と言われるインドの総選挙の開始まで1週間となりました。モディ首相率いる政権与党とこれに対抗する野党側が格差や若者の雇用などを争点に激しい選挙戦を繰り広げています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネタニヤフ首相「危害を加える者には反撃」イランを強くけん制]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240412/k10014419481000.html</id>
