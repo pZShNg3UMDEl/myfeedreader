@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T22:12:10.199Z</updated>
+    <updated>2024-04-11T22:28:53.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419471000.html"/>
         <updated>2024-04-11T21:44:21.000Z</updated>
         <summary type="html"><![CDATA[ウクライナのザポリージャ原子力発電所に攻撃が相次ぎ、ロシア、ウクライナ双方が相手の攻撃だと主張するなか、11日、IAEA＝国際原子力機関の理事会の緊急会合が開かれました。グロッシ事務局長は「原発への攻撃は許されない」と強い懸念を示し、自制を求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天皇皇后両陛下 きょう能登半島地震の被災地を再び訪問へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014419461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419461000.html"/>
+        <updated>2024-04-11T21:31:52.000Z</updated>
+        <summary type="html"><![CDATA[天皇皇后両陛下は12日に、能登半島地震で甚大な被害を受けた石川県を再び訪問し、穴水町と能登町で被災した人たちを見舞われます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
