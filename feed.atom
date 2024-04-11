@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T14:50:15.105Z</updated>
+    <updated>2024-04-11T15:13:56.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ライブ】岸田首相 米議会で演説 “国際秩序守る責任強調”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240411/k10014419741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240411/k10014419741000.html"/>
+        <updated>2024-04-11T14:51:18.000Z</updated>
+        <summary type="html"><![CDATA[アメリカを訪問中の岸田総理大臣は、議会上下両院の合同会議で演説に臨んでいます。ロシアや中国の行動などで自由や民主主義に基づく国際秩序が脅かされているとして、秩序を守るために日本もより大きな責任を担っていく姿勢を強調する方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水原、大谷が気が付かぬよう銀行口座の設定を変更　ひろゆきまた敗北]]></title>
         <id>https://itainews.com/archives/2034614.html</id>
