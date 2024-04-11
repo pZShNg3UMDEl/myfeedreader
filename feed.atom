@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T15:50:27.141Z</updated>
+    <updated>2024-04-11T16:13:52.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O・J・シンプソンさん死去 アメリカンフットボールのスター]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014419761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419761000.html"/>
+        <updated>2024-04-11T16:07:48.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの複数のメディアによりますと、アメリカンフットボールの往年のスターO・J・シンプソンさんが10日、がんのため亡くなりました。76歳でした。シンプソンさんは、1990年代、前の妻とその知人のあわせて2人を殺害したとして起訴されましたが、その後、無罪となり、アメリカ国内外から大きな関心が寄せられました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ライブ】岸田首相 米議会で演説 “国際秩序守る責任強調”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240411/k10014419741000.html</id>
