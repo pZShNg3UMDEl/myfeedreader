@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T03:37:23.991Z</updated>
+    <updated>2024-04-12T03:50:28.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wii Uの公式サービス終了後も代替ネットワークに無改造で繋げる「SSSL」が公開]]></title>
+        <id>https://gadget.phileweb.com/?p=73536</id>
+        <link href="https://gadget.phileweb.com/post-73536/"/>
+        <updated>2024-04-12T03:45:44.000Z</updated>
+        <summary type="html"><![CDATA[任天堂のWii Uとニンテンドー3DS向けオンラインプレイサービスは、2024年4月8日をもって終了した。正規にはオンラインでの協力・対戦プレイも不可能となったが、その代わりとなるのが両ハード向けカスタムサーバー構築を目指すオープンソース・プロジェクト「Pretendo Network」である。 こ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【いきなりステーキ】ブレードミートステーキ150g【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=241983</id>
