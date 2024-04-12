@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T21:22:17.083Z</updated>
+    <updated>2024-04-12T21:35:27.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ キーウの「京都公園」で桜が見頃 花に平和の願いを]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014420711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014420711000.html"/>
+        <updated>2024-04-12T21:30:30.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナの首都キーウでは、京都市と姉妹都市である縁で、市内の公園に植えられている桜が見頃を迎え、ロシアによる軍事侵攻が長期化する中、訪れた人たちは、桜の花が開く様子に平和への願いを重ねていました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港の日本料理店 石川県産の食材使って応援 能登半島地震]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240413/k10014420811000.html</id>
