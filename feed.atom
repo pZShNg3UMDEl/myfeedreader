@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T13:14:09.254Z</updated>
+    <updated>2024-04-12T13:25:06.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[体操 全日本選手権 橋本大輝が6種目合計で予選トップに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014420671000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014420671000.html"/>
+        <updated>2024-04-12T13:05:50.000Z</updated>
+        <summary type="html"><![CDATA[パリオリンピックの代表選考を兼ねた体操の全日本選手権は男子の予選が行われ、大会4連覇を目指すエースの橋本大輝選手が鉄棒で高得点をマークするなど、6種目の合計で2位に2点以上の大差をつけトップに立ちました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[早くダンボール開けろニャ～と催促する猫]]></title>
         <id>https://2-9-9.com/?p=70865</id>
