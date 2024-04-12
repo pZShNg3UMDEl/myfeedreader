@@ -1224,6 +1224,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420511000.html",
+          "author": null,
+          "description": "東京都の小池知事の学歴に関して、知事の側近だった弁護士が信ぴょう性に疑問を呈する内容の記事が、月刊誌に掲載されました。これについて小池知事は「卒業証書や卒業証明書は公にし記者会見や都議会などでも説明してきている。選挙のたびに記事が出るのは残念だ」と反論しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014420511000.html",
+          "publishedOn": "2024-04-12T10:10:11.000Z",
+          "wordCount": 657,
+          "title": "小池都知事 学歴の信ぴょう性に疑問呈する雑誌記事に反論",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014420511_2404121847_0412190907_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420461000.html",
           "author": null,
           "description": "テニスの大坂なおみ選手が、12日から東京で始まった国・地域別対抗戦に出場し、去年7月の出産後初めて国内でプレーを披露し、快勝しました。",
@@ -8324,6 +8334,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121053/",
+          "author": null,
+          "description": "「名探偵コナン」の劇場版最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」が公開されることを記念して、ABEMAで劇場版や総集編が配信されている。このほど、「100万ドルの五稜星」公開初...",
+          "link": "https://anime.eiga.com/news/121053/",
+          "publishedOn": "2024-04-12T10:30:00.000Z",
+          "wordCount": 1680,
+          "title": "「名探偵コナン」劇場版＆総集編、ABEMAで追加9作品が配信開始　スピンオフ「警察学校編」もラインナップ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/tokuten_list/121051/",
           "author": null,
