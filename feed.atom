@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T10:40:32.426Z</updated>
+    <updated>2024-04-12T10:50:43.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新 12日】米紙“イラン側の報復攻撃 48時間以内にも“]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014419701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419701000.html"/>
+        <updated>2024-04-12T10:46:25.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルにより大使館が攻撃されたとして、イランが報復を宣言する中、アメリカの有力紙ウォール・ストリート・ジャーナルは11日、イラン側の報復攻撃が48時間以内にも行われるとみて、イスラエルが備えを進めていると伝えました。一方でイラン側は最終決定をしていないとも伝えています。※イスラエルやパレスチナに関する日本時間4月12日の動きを、随時更新してお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[機能性表示食品 健康被害117件 死亡例なし 消費者庁が総点検]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240412/k10014420621000.html</id>
