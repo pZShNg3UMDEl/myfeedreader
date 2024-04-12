@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73544",
+          "author": "Munenori Taniguchi",
+          "description": "掲示板サイトRedditのユーザーに、Windows 10を使用しているPCのWindows 11へ移行を促す、それもかなり画面上に大きく表示されるポップアップが表れたとの報告が上がっている。 RedditユーザーのWoopinah9氏は、WIndows 10での作業中に、マイクロソフトからWind […]",
+          "link": "https://gadget.phileweb.com/post-73544/",
+          "publishedOn": "2024-04-12T04:14:08.000Z",
+          "wordCount": 785,
+          "title": "マイクロソフト、Windows 10で作業中に「アップグレード促す巨大ポップアップ」表示",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/Microsoft.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73536",
           "author": "多根清史",
           "description": "任天堂のWii Uとニンテンドー3DS向けオンラインプレイサービスは、2024年4月8日をもって終了した。正規にはオンラインでの協力・対戦プレイも不可能となったが、その代わりとなるのが両ハード向けカスタムサーバー構築を目指すオープンソース・プロジェクト「Pretendo Network」である。 こ […]",
@@ -1168,16 +1178,6 @@
           "wordCount": 3998,
           "title": "IEEE ICCP 2024 Call for Papers, Submission Deadline March 22, 2024",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLx7cDg0lmPMklUFKppwShvtnz9Dg3_nwQS_dXOWh52d2m4R-BXihILkt7lOBf11g0KxB45nQCgV9G8dbZ519s6rX_99ZihqoWsVD67FESQZzVWpxft9cfVT0RRYulJBLDC7VLI80uNaUAeix-T0IY9Uk7JaJTxN4_bpZMygtHFyEY7TmF0Dzt/w1200-h630-p-k-no-nu/Capture.PNG"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/03/prophesee-qualcomm-demo-at-mobile-world.html",
-          "author": null,
-          "description": "Prophesee and Qualcomm recently showcased their \"blur free\" mobile photography technology at the Mobile World Congress in Barcelona. \n\nPress release: https://prophesee-1.reportablenews.com/pr/prophesee-s-metavision-image-deblur-solution-for-smartphones-is-now-production-ready-seamlessly-optimized-for-the-snapdragon-8-gen-3-mobile-platform \n\nFebruary 27, 2024 – Paris, France - Prophesee SA, inventor of the most advanced neuromorphic vision systems, today announced that the progress achieved through its collaboration with Qualcomm Technologies, Inc. has now reached production stage. A live demo during Mobile World Congress Barcelona is showcasing Prophesee’s native compatibility with premium Snapdragon® mobile platforms, bringing the speed, efficiency, and quality of neuromorphic-enabled vis…",
-          "link": "http://image-sensors-world.blogspot.com/2024/03/prophesee-qualcomm-demo-at-mobile-world.html",
-          "publishedOn": "2024-03-13T15:54:00.001Z",
-          "wordCount": 5078,
-          "title": "Prophesee Qualcomm demo at Mobile World Congress",
-          "imageUrl": null
         }
       ]
     },
@@ -1192,6 +1192,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014419991000.html",
+          "author": null,
+          "description": "岸田総理大臣は、アメリカ議会で行った自身の演説について、日米同盟が堅固で、両国が今後もグローバルなパートナーであり続けることを具体的なビジョンと共に伝えることができたと意義を強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014419991000.html",
+          "publishedOn": "2024-04-12T03:44:43.000Z",
+          "wordCount": 712,
+          "title": "岸田首相 “日米がパートナーであり続けること伝えられた”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014419991_2404121145_0412124348_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420031000.html",
+          "author": null,
+          "description": "静岡市にある静岡茶市場でシーズンを迎えた新茶の初取り引きが行われ、最高値は1キロ当たり111万円余りとなりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014420031000.html",
+          "publishedOn": "2024-04-12T03:43:29.000Z",
+          "wordCount": 615,
+          "title": "新茶の初取り引き 最高値は1キロ111万円余 静岡",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014420031_2404121223_0412124331_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420011000.html",
           "author": null,

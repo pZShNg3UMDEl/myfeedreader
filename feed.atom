@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T03:50:28.839Z</updated>
+    <updated>2024-04-12T04:16:15.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、Windows 10で作業中に「アップグレード促す巨大ポップアップ」表示]]></title>
+        <id>https://gadget.phileweb.com/?p=73544</id>
+        <link href="https://gadget.phileweb.com/post-73544/"/>
+        <updated>2024-04-12T04:14:08.000Z</updated>
+        <summary type="html"><![CDATA[掲示板サイトRedditのユーザーに、Windows 10を使用しているPCのWindows 11へ移行を促す、それもかなり画面上に大きく表示されるポップアップが表れたとの報告が上がっている。 RedditユーザーのWoopinah9氏は、WIndows 10での作業中に、マイクロソフトからWind […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wii Uの公式サービス終了後も代替ネットワークに無改造で繋げる「SSSL」が公開]]></title>
         <id>https://gadget.phileweb.com/?p=73536</id>
@@ -14,6 +24,26 @@
         <summary type="html"><![CDATA[任天堂のWii Uとニンテンドー3DS向けオンラインプレイサービスは、2024年4月8日をもって終了した。正規にはオンラインでの協力・対戦プレイも不可能となったが、その代わりとなるのが両ハード向けカスタムサーバー構築を目指すオープンソース・プロジェクト「Pretendo Network」である。 こ […]]]></summary>
         <author>
             <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 “日米がパートナーであり続けること伝えられた”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014419991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419991000.html"/>
+        <updated>2024-04-12T03:44:43.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣は、アメリカ議会で行った自身の演説について、日米同盟が堅固で、両国が今後もグローバルなパートナーであり続けることを具体的なビジョンと共に伝えることができたと意義を強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新茶の初取り引き 最高値は1キロ111万円余 静岡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014420031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014420031000.html"/>
+        <updated>2024-04-12T03:43:29.000Z</updated>
+        <summary type="html"><![CDATA[静岡市にある静岡茶市場でシーズンを迎えた新茶の初取り引きが行われ、最高値は1キロ当たり111万円余りとなりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -14971,20 +15001,6 @@ The call for posters and demo will be published soon with a deadline end of Apri
         <summary type="html"><![CDATA[STマイクロエレクトロニクスは、双方向電流センスアンプ「TSC2020」を発表した。入力コモンモード電圧は－4～＋100Vで、48Vシステムなどの高電圧で使用できる。高精度のアナログ回路により、入力オフセット電圧を±150μVに抑えた。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prophesee Qualcomm demo at Mobile World Congress]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/03/prophesee-qualcomm-demo-at-mobile-world.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/03/prophesee-qualcomm-demo-at-mobile-world.html"/>
-        <updated>2024-03-13T15:54:00.001Z</updated>
-        <summary type="html"><![CDATA[Prophesee and Qualcomm recently showcased their "blur free" mobile photography technology at the Mobile World Congress in Barcelona. 
-
-Press release: https://prophesee-1.reportablenews.com/pr/prophesee-s-metavision-image-deblur-solution-for-smartphones-is-now-production-ready-seamlessly-optimized-for-the-snapdragon-8-gen-3-mobile-platform 
-
-February 27, 2024 – Paris, France - Prophesee SA, inventor of the most advanced neuromorphic vision systems, today announced that the progress achieved through its collaboration with Qualcomm Technologies, Inc. has now reached production stage. A live demo during Mobile World Congress Barcelona is showcasing Prophesee’s native compatibility with premium Snapdragon® mobile platforms, bringing the speed, efficiency, and quality of neuromorphic-enabled vis…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
