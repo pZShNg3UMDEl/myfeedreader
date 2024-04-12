@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T11:50:43.254Z</updated>
+    <updated>2024-04-12T12:24:13.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（4月12日の動き）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014389421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014389421000.html"/>
+        <updated>2024-04-12T11:56:02.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる4月12日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【岐阜】コカインを使用した疑い　中学生ら２人を逮捕　各務原市]]></title>
         <id>https://itainews.com/archives/2034638.html</id>
@@ -15544,16 +15554,6 @@ The call for posters and demo will be published soon with a deadline end of Apri
         <updated>2024-03-14T10:00:17.000Z</updated>
         <author>
             <name>有吉の壁【公式】壁チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入力オフセット電圧±150μV、入力耐圧100Vの双方向電流センスアンプ]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html"/>
-        <updated>2024-03-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[STマイクロエレクトロニクスは、双方向電流センスアンプ「TSC2020」を発表した。入力コモンモード電圧は－4～＋100Vで、48Vシステムなどの高電圧で使用できる。高精度のアナログ回路により、入力オフセット電圧を±150μVに抑えた。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>

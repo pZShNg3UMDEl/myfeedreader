@@ -284,16 +284,6 @@
           "wordCount": 2619,
           "title": "GCFとPTCRB公認、5Gコンフォーマンステストプラットフォーム",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/15/cover_news082.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、双方向電流センスアンプ「TSC2020」を発表した。入力コモンモード電圧は－4～＋100Vで、48Vシステムなどの高電圧で使用できる。高精度のアナログ回路により、入力オフセット電圧を±150μVに抑えた。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/14/news080.html",
-          "publishedOn": "2024-03-14T00:00:00.000Z",
-          "wordCount": 2586,
-          "title": "入力オフセット電圧±150μV、入力耐圧100Vの双方向電流センスアンプ",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news080.jpg"
         }
       ]
     },
@@ -1223,6 +1213,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014389421000.html",
+          "author": null,
+          "description": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる4月12日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014389421000.html",
+          "publishedOn": "2024-04-12T11:56:02.000Z",
+          "wordCount": 834,
+          "title": "【随時更新】ロシア ウクライナに軍事侵攻（4月12日の動き）",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014389421_2403191447_0412083712_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240412/k10014419701000.html",
           "author": null,
