@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T09:36:19.149Z</updated>
+    <updated>2024-04-12T09:50:15.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大型連休 新幹線の予約状況 ピークは下り3日 上り6日]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014420301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014420301000.html"/>
+        <updated>2024-04-12T09:39:14.000Z</updated>
+        <summary type="html"><![CDATA[JR各社が大型連休の新幹線の予約状況を発表し、下りのピークが来月3日、上りが来月6日となっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ドラクエウォーク】今はLv65地図に安易に手を出してはいけない!?宝の地図アップデート直後だから気を付けたいこと。]]></title>
         <id>https://www.youtube.com/watch?v=cfHgDWqXhKE</id>
