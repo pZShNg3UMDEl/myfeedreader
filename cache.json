@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73524",
+          "author": "多根清史",
+          "description": "アップルは今年3月にM3チップ搭載MacBook Airを発売したばかりだが、早くも年内に次期「M4」チップを搭載したMacを投入すると著名ジャーナリストが主張している。M4チップは、AI機能のパフォーマンス向上に重点を置くという。 同社の内部事情に詳しいBloombergのMark Gurman記 […]",
+          "link": "https://gadget.phileweb.com/post-73524/",
+          "publishedOn": "2024-04-12T03:18:20.000Z",
+          "wordCount": 775,
+          "title": "アップル、2024年内に「M4」搭載Macを投入か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_1862024611-3.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73514",
           "author": "編集部：平山洸太",
           "description": "Jackery Japanは、ポータブル電源「Jackery ポータブル電源 600 Plus」を4月22日に発売する。価格は86,000円（税込）。 リン酸鉄リチウムイオン電池を採用するPlusシリーズの新モデルとして、容量632Whのバージョンが追加される格好。これによりPlusシリーズは、20 […]",
@@ -1172,6 +1182,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014419441000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題で離党勧告の処分となった安倍派の塩谷元文部科学大臣は処分は納得できず受け入れられないとして再審査を請求しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014419441000.html",
+          "publishedOn": "2024-04-12T03:18:25.000Z",
+          "wordCount": 649,
+          "title": "自民 離党勧告処分の塩谷氏 “処分納得できず” 再審査を請求",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014419441_2404112232_0411224352_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420001000.html",
           "author": null,
