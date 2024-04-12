@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73563",
+          "author": "多根清史",
+          "description": "米サンフランシスコといえば、ハイテクの象徴ともいえるシリコンバレーのお膝元である。その市交通局（SFMTA）の列車制御システムが未だにフロッピーディスク（FD）に依存しており、新システムに移行するまでに「壊滅的な故障」が起こる懸念が浮上している。 現地メディアABC7 Newsによると、SFMTAの […]",
+          "link": "https://gadget.phileweb.com/post-73563/",
+          "publishedOn": "2024-04-12T05:43:10.000Z",
+          "wordCount": 751,
+          "title": "サンフランシスコ列車制御システム、2030年までフロッピー依存で「壊滅的な故障」のおそれ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_375041635.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73544",
           "author": "Munenori Taniguchi",
           "description": "掲示板サイトRedditのユーザーに、Windows 10を使用しているPCのWindows 11へ移行を促す、それもかなり画面上に大きく表示されるポップアップが表れたとの報告が上がっている。 RedditユーザーのWoopinah9氏は、WIndows 10での作業中に、マイクロソフトからWind […]",
@@ -1192,6 +1202,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014419901000.html",
+          "author": null,
+          "description": "日本の1世帯あたりの人数が9年後の2033年には平均1.99人と初めて2人を下回るという推計を「国立社会保障・人口問題研究所」が発表しました。背景のひとつには結婚をしない人の増加があるとみられ、高齢化が進むなかで同居する家族がいない高齢者を、どう支えていくかが課題となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014419901000.html",
+          "publishedOn": "2024-04-12T05:44:19.000Z",
+          "wordCount": 175,
+          "title": "9年後に1世帯平均2人未満に 独居の世帯増加 国の研究機関推計",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014419901_2404121242_0412144421_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420171000.html",
+          "author": null,
+          "description": "中古車販売会社「ビッグモーター」の各地の店舗で中古車が盗まれた事件で、このうち山梨県で盗まれた5台のうちの2台が店の近くに別々に乗り捨てられていたことが捜査関係者などへの取材で分かりました。1台は事故を起こして道路脇の住宅の敷地に入り込んで止まっていて、警察は、窃盗グループが関与しているとみて捜査しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014420171000.html",
+          "publishedOn": "2024-04-12T05:36:28.000Z",
+          "wordCount": 722,
+          "title": "ビッグモーター 中古車盗難事件 山梨で2台乗り捨てられる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014420171_2404121413_0412141743_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420141000.html",
+          "author": null,
+          "description": "戦国武将、武田信玄の命日の12日、信玄や配下の武将にふんした騎馬行列が甲府の街を練り歩きました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014420141000.html",
+          "publishedOn": "2024-04-12T05:34:53.000Z",
+          "wordCount": 761,
+          "title": "武田信玄の命日に騎馬行列 信玄役は甲府市出身 高瀬真奈さん",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014420141_2404121430_0412143244_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240412/k10014419891000.html",
           "author": null,
