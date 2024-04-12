@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T23:35:25.657Z</updated>
+    <updated>2024-04-12T23:50:17.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハンドボール女子 五輪世界最終予選 第2戦でイギリスに快勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014420881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014420881000.html"/>
+        <updated>2024-04-12T23:40:40.000Z</updated>
+        <summary type="html"><![CDATA[ハンドボール女子のパリオリンピック出場権をかけた世界最終予選の第2戦で日本は、イギリスに43対16で快勝し、対戦成績を1勝1敗のタイに戻しました。48年ぶりの自力でのオリンピックス出場は第3戦のハンガリー戦の結果次第となりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYダウ 中東情勢緊迫化の懸念で株安 一時500ドル以上値下がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014420891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014420891000.html"/>
+        <updated>2024-04-12T22:25:55.000Z</updated>
+        <summary type="html"><![CDATA[12日のニューヨーク株式市場では、中東情勢が一段と緊迫化するという懸念から売り注文が膨らみ、ダウ平均株価は、一時、500ドル以上値下がりしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[薄っ！軽っ！速っ！「LG gram」が実現したノートPC”新基準“を知る]]></title>
         <id>https://gadget.phileweb.com/?p=73561</id>
