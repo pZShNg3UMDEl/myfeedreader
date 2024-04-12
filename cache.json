@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73571",
+          "author": "Munenori Taniguchi",
+          "description": "Google DeepMind は深層強化学習（Deep RL）を使用して、小さな二足歩行ロボットにサッカーを教え、そのプレイする様子をX（Twitter）に投稿した。 DeepMindの研究者らはDeep RLを用いてマルチロボットサッカー用の市販ロボットを訓練。トレーニング方法は大きく2段階に分 […]",
+          "link": "https://gadget.phileweb.com/post-73571/",
+          "publishedOn": "2024-04-12T09:12:50.000Z",
+          "wordCount": 906,
+          "title": "Google DeepMind、AI搭載の二足歩行ロボにサッカーをプレイ。シュートブロックも可能に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/GDM.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73563",
           "author": "多根清史",
           "description": "米サンフランシスコといえば、ハイテクの象徴ともいえるシリコンバレーのお膝元である。その市交通局（SFMTA）の列車制御システムが未だにフロッピーディスク（FD）に依存しており、新システムに移行するまでに「壊滅的な故障」が起こる懸念が浮上している。 現地メディアABC7 Newsによると、SFMTAの […]",
@@ -1213,6 +1223,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420321000.html",
+          "author": null,
+          "description": "中部電力は、静岡県にある浜岡原子力発電所で、巨大地震に伴う津波が防波壁より3メートル余り高い最大25.2メートルに達するという新たな想定を、原子力規制委員会の審査会合で説明しました。これに対し規制側からは、網羅的な検討が行われているかわからないという指摘が相次ぎ、追加の説明が求められました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014420321000.html",
+          "publishedOn": "2024-04-12T09:00:38.000Z",
+          "wordCount": 672,
+          "title": "静岡 浜岡原発 中部電力が新たな津波想定 規制庁 追加説明要求",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014420321_2404121736_0412175945_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420251000.html",
+          "author": null,
+          "description": "東京都立川市と昭島市にまたがる公園ではソメイヨシノが満開を迎えています。画像をクリックすると動画が見られます",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014420251000.html",
+          "publishedOn": "2024-04-12T08:50:02.000Z",
+          "wordCount": 820,
+          "title": "700本超の桜が満開に 東京 国営昭和記念公園【ドローン撮影】",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014420251_2404121742_0412174358_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420131000.html",
+          "author": null,
+          "description": "水原容疑者を銀行詐欺の疑いで訴追する訴状には何が書かれているのか。訴状は4月11日付けで、訴追する側としてアメリカの連邦捜査機関で日本の国税庁にあたるIRS＝内国歳入庁の特別捜査官の名前が記されています。以下、詳しい内容をお伝えします。",
+          "link": "http://www3.nhk.or.jp/news/html/20240412/k10014420131000.html",
+          "publishedOn": "2024-04-12T08:44:51.000Z",
+          "wordCount": 1206,
+          "title": "【訴状の中身は】水原一平容疑者 違法賭博にのめり込んだ経緯",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240412/K10014420131_2404121450_0412164805_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240412/k10014420271000.html",
           "author": null,
@@ -8215,6 +8255,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121052/",
+          "author": null,
+          "description": "テレビアニメ「ちびまる子ちゃん」の主人公・まる子役の新声優が、菊池こころに決定した。4月21日放送回から出演する。 新声優の菊池は、複数回にわたるオーディションを経て、まる子役に抜てきされた。こ...",
+          "link": "https://anime.eiga.com/news/121052/",
+          "publishedOn": "2024-04-12T09:00:00.000Z",
+          "wordCount": 1654,
+          "title": "「ちびまる子ちゃん」まる子役の新声優は菊池こころ　4月21日放送回から出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121026/",
           "author": null,
           "description": "「TM NETWORK」のデビュー40周年を記念し、トリビュートアルバム「TM NETWORK TRIBUTE ALBUM ‐40th CELEBRATION‐」が5月15日に発売されることが決...",
@@ -10437,6 +10492,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=242012",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進 […]",
+          "link": "https://foodfighter.jp/sukiya-gyudon-neage",
+          "publishedOn": "2024-04-12T08:59:28.000Z",
+          "wordCount": 1848,
+          "title": "【すき家】牛丼・並盛（値上げ・深夜料金）【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/0fe6c13bf7bcfb479e245f5309bf381b.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=241983",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、ステーキ業界に革命を起こした話題の絶えない有名チェーン「いきなりステーキ」へ進撃しました。 &n […]",
@@ -11113,6 +11178,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034625.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/04/11(木) 12:33:18.19 ID:BTURLBD90●.net \n\n\n\n\n\n\n\n\n\n大型書店に行くのが好きです。雑誌コーナーの、多種多様なジャンルの写真の表紙が並んでいる様子を見るのも楽しい。でも、突然、胸を半分むき出しにした「若い女性」の写真の表紙...",
+          "link": "https://itainews.com/archives/2034625.html",
+          "publishedOn": "2024-04-12T09:01:56.000Z",
+          "wordCount": 2465,
+          "title": "立憲女性区議「本屋の雑誌コーナー、胸を半分むき出しにした「若い女性」の表紙が目に入ると不快」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/b/eb8771de-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034628.html",
           "author": "yonepo665sfr",
