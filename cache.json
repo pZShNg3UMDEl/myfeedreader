@@ -293,6 +293,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73561",
+          "author": "山本竜也",
+          "description": "近年、ノートPCは薄型・軽量化が進み、持ち運びやすさと高い性能を両立させた製品が人気を集めている。各メーカーからさまざまな製品がリリースされ、その中でも「LG gram」シリーズは、圧倒的な軽さとバッテリー持ちの良さで高い評価を得ている。 “薄型軽量” と聞いて、真っ先にLG gramを思い浮かべる […]",
+          "link": "https://gadget.phileweb.com/post-73561/",
+          "publishedOn": "2024-04-12T22:00:00.000Z",
+          "wordCount": 906,
+          "title": "薄っ！軽っ！速っ！「LG gram」が実現したノートPC”新基準“を知る",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/DSC07985.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73571",
           "author": "Munenori Taniguchi",
           "description": "Google DeepMind は深層強化学習（Deep RL）を使用して、小さな二足歩行ロボットにサッカーを教え、そのプレイする様子をX（Twitter）に投稿した。 DeepMindの研究者らはDeep RLを用いてマルチロボットサッカー用の市販ロボットを訓練。トレーニング方法は大きく2段階に分 […]",
@@ -1213,6 +1223,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240413/k10014420731000.html",
+          "author": null,
+          "description": "教員の給与のあり方や働き方改革を議論してきた中教審の特別部会が、教員の月給を上乗せする代わりに残業代を支払わない現在の枠組みは維持した上で、半世紀ぶりに上乗せ分を引き上げ現在の4％から10％以上とすることを、素案に盛り込む方向であることがわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240413/k10014420731000.html",
+          "publishedOn": "2024-04-12T21:51:55.000Z",
+          "wordCount": 664,
+          "title": "教員給与上乗せ 10％以上に引き上げの案盛り込みへ 中教審部会",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014420731_2404122147_0413065157_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240413/k10014420661000.html",
           "author": null,
@@ -13875,16 +13895,6 @@
           "publishedOn": "2024-03-16T03:00:07.000Z",
           "wordCount": null,
           "title": "【アクシデント発生】安村おもしろ全裸ポーズに挑戦【有吉の壁】【オープニング先行】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PCuIA1mejF0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PCuIA1mejF0",
-          "publishedOn": "2024-03-14T10:00:17.000Z",
-          "wordCount": null,
-          "title": "【有吉の壁】20日水曜よる７時〜▼おもしろ巨大スパの人選手権▼ブレイクアーティスト選手権【予告】",
           "imageUrl": null
         }
       ]
