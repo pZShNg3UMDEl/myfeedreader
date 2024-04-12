@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T07:14:28.565Z</updated>
+    <updated>2024-04-12T07:27:05.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -32,6 +32,16 @@
 ...]]></summary>
         <author>
             <name>yonepo665sfr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 地震によるサザエやアワビ被害 海女の女性らが海中調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014419981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014419981000.html"/>
+        <updated>2024-04-12T06:56:18.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で海岸が隆起した石川県輪島市では、サザエやアワビの被害状況を確認するため、海女の女性などによる初めての海中での調査が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
