@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T21:12:10.240Z</updated>
+    <updated>2024-04-12T21:22:17.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港の日本料理店 石川県産の食材使って応援 能登半島地震]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014420811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014420811000.html"/>
+        <updated>2024-04-12T21:20:11.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した石川県を応援しようと、香港にある日本料理店が石川県産の水産物などを使ったメニューの提供を始めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア外務次官“日米の軍事協力 安全保障脅かす” 日本大使に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240413/k10014420861000.html</id>
