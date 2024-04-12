@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T09:14:11.438Z</updated>
+    <updated>2024-04-12T09:25:57.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小林製薬「紅麹」問題 床にこぼした材料の一部をいったん出荷]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014420361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014420361000.html"/>
+        <updated>2024-04-12T09:22:52.000Z</updated>
+        <summary type="html"><![CDATA[小林製薬の紅麹の成分を含むサプリメントを摂取した人が腎臓病などを発症した問題で、去年、大阪市の工場で、誤って床にこぼした材料の粉末の一部を紅麹原料としていったん出荷していたことが分かりました。この紅麹原料はサプリメントには使われておらず、会社は今回の問題と関係はないとしていますが、大阪市は工場の衛生管理に問題がなかったか調査を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google DeepMind、AI搭載の二足歩行ロボにサッカーをプレイ。シュートブロックも可能に]]></title>
         <id>https://gadget.phileweb.com/?p=73571</id>
