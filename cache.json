@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/12/news077.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、「FRED Pt 500 A Ultrafastソフトリカバリーダイオード」モジュールの「VS-VSUD505CW60」「VS-VSUD510CW60」を発表した。前世代品よりも信頼性、耐久性が向上している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/12/news077.html",
+          "publishedOn": "2024-04-12T00:00:00.000Z",
+          "wordCount": 2603,
+          "title": "TO-244 Gen IIIパッケージを採用したソフトリカバリダイオードモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/12/cover_news077.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/11/news060.html",
           "author": null,
           "description": "東芝デバイス＆ストレージは、Arm Cortex-M4コアを搭載した、32ビットのモーター制御マイコン「TXZ＋ファミリー アドバンスクラス」の「M4K」グループに、フラッシュメモリ容量1Mバイトと512Kバイト製品を追加した。",
@@ -10080,6 +10090,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=241966",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「スイートミルクコーヒー」を世界一詳しく調査しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/starbucks-sweet-milk-coffee",
+          "publishedOn": "2024-04-12T00:44:21.000Z",
+          "wordCount": 1833,
+          "title": "【スターバックス】スイートミルクコーヒー【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/c5708196e8b5beeeed77e72b6af3f7ef.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=241938",
           "author": "foodfighter",
