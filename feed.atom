@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T08:37:19.790Z</updated>
+    <updated>2024-04-12T08:50:12.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[慰安婦問題著書 名誉毀損に問われた名誉教授に無罪 ソウル高裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240412/k10014420271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240412/k10014420271000.html"/>
+        <updated>2024-04-12T08:38:32.000Z</updated>
+        <summary type="html"><![CDATA[慰安婦問題をめぐる著書を出版した韓国の大学の名誉教授が、元慰安婦に対する名誉毀損の罪に問われて有罪判決を受けたものの、韓国の最高裁判所が審理のやり直しを命じた裁判で、高等裁判所は12日に「著書の表現は学問的な表現であり妥当だ」として、無罪を言い渡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米軍が日米韓の共同訓練を異例の公開 連携を広く示すねらいか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240412/k10014420181000.html</id>
