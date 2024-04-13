@@ -1224,6 +1224,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421121000.html",
+          "author": null,
+          "description": "東京・日本橋のデパートで開かれている金製品の展示・即売会で、およそ1000万円の金の茶わんが盗まれた事件で、警視庁が都内に住む32歳の容疑者を窃盗の疑いで逮捕したことが捜査関係者への取材でわかりました。警視庁は詳しいいきさつについて報道機関に説明することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240413/k10014421121000.html",
+          "publishedOn": "2024-04-13T10:08:35.000Z",
+          "wordCount": 686,
+          "title": "純金製茶わん窃盗事件 都内に住む32歳の容疑者を逮捕 警視庁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014421121_2404131748_0413181836_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240413/k10014420801000.html",
+          "author": null,
+          "description": "イランがイスラエルによるとされる大使館への攻撃に対する報復を近く行う可能性が伝えられる中、イスラエル政府は、ガラント国防相がアメリカ中央軍のトップと協議するなど、警戒を強めています。※イスラエルやパレスチナに関する日本時間4月13日の動きを随時更新してお伝えします。",
+          "link": "http://www3.nhk.or.jp/news/html/20240413/k10014420801000.html",
+          "publishedOn": "2024-04-13T10:05:33.000Z",
+          "wordCount": 982,
+          "title": "【随時更新 13日】イスラエル イランの報復宣言に警戒強める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014420801_2404130046_0413075356_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421101000.html",
           "author": null,
           "description": "オーストラリアのシドニー東部郊外のショッピングセンターで、刃物を持った男が次々に人を刺し、5人が死亡したほか、複数の人が病院に搬送されました。",
@@ -1232,6 +1252,16 @@
           "wordCount": 512,
           "title": "オーストラリア 刃物持った男が次々と刺し 5人死亡 複数人搬送",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014421101_2404131738_0413180514_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421091000.html",
+          "author": null,
+          "description": "東日本大震災の津波で大きな被害を受けた岩手県沿岸を走る三陸鉄道は今月、開業から40周年を迎え、13日、記念の式典が行われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240413/k10014421091000.html",
+          "publishedOn": "2024-04-13T09:01:20.000Z",
+          "wordCount": 661,
+          "title": "東日本大震災で大きな被害を受けた三陸鉄道 開業40周年で式典",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014421091_2404131728_0413180052_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421111000.html",
@@ -8734,6 +8764,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121044/",
+          "author": null,
+          "description": "アニメ「黒執事」の新シリーズ「黒執事 -寄宿学校編-」が本日から放送開始となる。劇場アニメ「黒執事 Book of the Atlantic」以来、約7年ぶりの新作アニメであり、テレビシリーズと...",
+          "link": "https://anime.eiga.com/news/121044/",
+          "publishedOn": "2024-04-13T10:00:00.000Z",
+          "wordCount": 1916,
+          "title": "【「黒執事 -寄宿学校編-」インタビュー】小野大輔と坂本真綾が最高のバディになるまで　第1話は“あのセリフ”に注目",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121050/",
           "author": null,
