@@ -1214,6 +1214,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421301000.html",
+          "author": null,
+          "description": "プロ野球は6試合が行われ、セ・リーグ首位の中日が阪神に逆転勝ちし、引き分けをはさみ、4年ぶりの6連勝としました。また、ソフトバンクの山川穂高選手が古巣の西武を相手に2打席連続の満塁ホームランを打ち8打点の活躍を見せました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240413/k10014421301000.html",
+          "publishedOn": "2024-04-13T12:48:31.000Z",
+          "wordCount": 1017,
+          "title": "【プロ野球結果】中日6連勝 ソフトバンク山川 2打席連続満塁HR",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014421301_2404132141_0413214658_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421291000.html",
           "author": null,
           "description": "政治資金規正法の改正をめぐり自民党の茂木幹事長は、いわゆる「連座制」の導入を主張する公明党との協議で、国会議員の責任を強める具体策について一致点を見いだしていきたいという考えを示しました。",
@@ -8815,6 +8825,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121025/",
+          "author": null,
+          "description": "SNSで人気のキャラクター「名もなきねずみ」の4周年を記念して、「ブラック・ジャック」とのコラボレーションが決定した。 あわせて公開されたコラボイラスト（全11種）では、名もなきねずみがブラック...",
+          "link": "https://anime.eiga.com/news/121025/",
+          "publishedOn": "2024-04-13T13:00:00.000Z",
+          "wordCount": 1705,
+          "title": "名もなきねずみ×ブラック・ジャックのコラボ決定　コラボイラスト公開、商品も販売予定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121034/",
           "author": null,
           "description": "人気声優陣が出演する「教えて！色彩先生」シリーズ最新作「教えて！色彩先生UC」（全3回）の公開が、特設サイト上で4月17日からはじまる。新キャラクターとして緒方恵美が演じる金臣先生が登場し、本編...",
@@ -10957,6 +10982,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=40318",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 いつも情報提供ありがとうございます！ 今回は厚木市幸町にある「ステーキマフィア（STEAK MAFIA）」の、 看板がいつの間にかなくなっているみたい！という情報を頂き、現地を確認してまいりました。 「ス…",
+          "link": "https://atsugi-lab.com/news-steakmafia-202404/",
+          "publishedOn": "2024-04-13T13:07:09.000Z",
+          "wordCount": 1160,
+          "title": "【閉店？】有名人も訪れていた人気ステーキ店「ステーキマフィア（STEAK MAFIA）」の場所に、テナント募集の掲示が！［厚木市幸町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/04/mafia202404.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=42171",
           "author": "comomo",
@@ -13588,6 +13623,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70881",
+          "author": "299",
+          "description": "港の一角で黒猫さんに出会いました。 すぐに黒猫さんはトコトコと小走りで歩き出し、こっちにおいでにゃ！と先導してくれます。どうやらこれから港周辺に住んでいる猫さんたちの集会が始まるようです。 誘われるままに、主さんもこの黒...\n港町で猫の大集会に招かれました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70881",
+          "publishedOn": "2024-04-13T13:00:17.000Z",
+          "wordCount": 1335,
+          "title": "港町で猫の大集会に招かれました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70881.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70877",
           "author": "299",
