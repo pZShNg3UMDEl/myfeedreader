@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T23:26:43.498Z</updated>
+    <updated>2024-04-13T23:39:57.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タイガース 前田健太 好投も移籍後初勝利ならず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240414/k10014421381000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240414/k10014421381000.html"/>
+        <updated>2024-04-13T23:26:52.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、タイガースの前田健太投手は13日、ツインズ戦に先発し、6回2失点と好投しましたが、リリーフ投手がリードを守れず、移籍後初勝利はなりませんでした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“米が中東に展開 防空システム 複数の無人機撃墜”米メディア]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240414/k10014421391000.html</id>
