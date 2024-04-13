@@ -264,16 +264,6 @@
           "wordCount": 2705,
           "title": "「カスタムシリコン」の黄金時代が近づく―― 電子版2024年3月号",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/15/mm220117_denshiban01_w490.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html",
-          "author": null,
-          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「SPI通信などのノイズ対処法」についてです。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html",
-          "publishedOn": "2024-03-15T02:00:00.000Z",
-          "wordCount": 2589,
-          "title": "SPI通信などのノイズ対策や、誤動作への対処法",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news040.jpg"
         }
       ]
     },
@@ -10498,6 +10488,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=9908",
+          "author": "watanabe@logipara.com",
+          "description": "やあやあこんにちは、ワタナベおじさんだよ(奇妙な踊りをしながら) 　 ろじぱらが動いているサーバのOSを移行できる、と連絡がきました。 なんでもOSを移行すると、アクセス速度は増し、セキュリティも強固になり、閲覧者は喜び […]",
+          "link": "https://logipara.com/diary-text/2024-04-14",
+          "publishedOn": "2024-04-13T13:51:36.000Z",
+          "wordCount": 4433,
+          "title": "メンテナンスのお知らせ",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=9906",
           "author": "watanabe@logipara.com",
