@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T04:36:18.352Z</updated>
+    <updated>2024-04-13T04:50:11.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キャサリン妃の画像加工 なぜイギリスで問題になったのか？]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014418981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014418981000.html"/>
+        <updated>2024-04-13T04:45:21.000Z</updated>
+        <summary type="html"><![CDATA[幸せそうな「家族写真」その“修正”をめぐり、イギリスメディアを始め、世界中で大きな議論になった。いったい何が問題だったのか？この画像を科学的に検証したイギリス公共放送BBCを取材すると、AIなど画像加工の技術が普及する中、「信頼できる情報」を見分けるためにどうすればいいか、メディアの模索が見えてきた。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸田首相 塩谷氏の離党勧告処分 “党の議論経て結論”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240413/k10014420971000.html</id>
@@ -16002,37 +16012,6 @@ The videos showing tubes Photonis characterizes as Gen 4+:
         <summary type="html"><![CDATA[ローデ・シュワルツは、5G RFとRRMコンフォーマンステスト向けソリューション「R&S TS8980S-4A」「R&S TS8980FTA-3A」を発表した。GCFとPTCRBから承認を受けた、公式の5Gコンフォーマンステストプラットフォームとなる。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE ICCP 2024 Call for Papers, Submission Deadline March 22, 2024]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/03/ieee-iccp-2024-call-for-papers.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/03/ieee-iccp-2024-call-for-papers.html"/>
-        <updated>2024-03-14T16:39:00.003Z</updated>
-        <summary type="html"><![CDATA[Call for Papers: IEEE International Conference on Computational Photography (ICCP) 2024
-https://iccp-conference.org/iccp2024/call-for-papers/
-Submission Deadline: March 22, 2024 @ 23:59 CET
-ICCP is an international venue for disseminating and discussing new scholarly work in computational photography, novel imaging, sensors and optics techniques. This year, ICCP will take place in EPFL, Lausanne Switzerland, on July 22-24th!
-As in previous years, ICCP is coordinating with the IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI) for a special issue on Computational Photography to be published after the conference.
- ICCP 2024 seeks novel and high-quality submissions in all areas of computational photography, including, but not limited to:
-
- High-performance imaging.
- Computational cameras, illumination, and displays.
- Advanced image and video processing.
- Integration of imaging, physics, and machine learning.
- Organizing and exploiting photo / video collections.
- Structured light and time-of-flight imaging.
- Appearance, shape, and illumination capture.
- Computational optics (wavefront coding, digital holography, compressive sensing, etc.).
- Sensor and illumination hardware.
- Imaging models and limits
- Physics-based rendering, neural rendering, and differentiable rendering.
- Applications: imaging on mobile platforms, scientific imaging, medicine and biology, user interfaces, AR/VR systems.
-
-Learn more on the ICCP 2024 website, and submit your latest advancements by Friday, 22nd March, 2024.
-The call for posters and demo will be published soon with a deadline end of April. It will also be a great opportunity to advertise your work.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
