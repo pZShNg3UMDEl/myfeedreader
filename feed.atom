@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T23:50:17.006Z</updated>
+    <updated>2024-04-13T00:49:10.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領 イランの報復宣言に対し「やめろ」自制求める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014420851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014420851000.html"/>
+        <updated>2024-04-13T00:02:02.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルによって大使館が攻撃されたとしてイランが報復を宣言する中、アメリカのバイデン大統領はイランによる攻撃について「どちらかと言えばすぐだろう」と述べ、近く行われる可能性があるという見方を示した上で、イランに対し「やめろ」と自制を強く求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-FAB annonces BSI process for next gen image sensors]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/04/x-fab-annonces-bsi-process-for-next-gen.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/04/x-fab-annonces-bsi-process-for-next-gen.html"/>
+        <updated>2024-04-12T23:56:00.002Z</updated>
+        <summary type="html"><![CDATA[Link: https://www.xfab.com/news/details/article/x-fab-enhances-image-sensor-performance-through-back-side-illumination
+X-FAB Enhances Image Sensor Performance Through Back-Side Illumination
+NEWS – Tessenderlo, Belgium – Apr 03, 2024
+Presenting a foundry route to medical, automotive and industrial customers that combines boosted sensitivity, larger pixel size and more extensive sensor area
+X-FAB Silicon Foundries SE, the leading analog/mixed-signal and specialty foundry, has just announced a major addition to its optical sensor offering. Aimed at use in next generation image sensor fabrication, the company is now able to provide a back-side illumination (BSI) capability in relation to its popular XS018 180nm CMOS semiconductor process.
+Through BSI, imaging devices’ performance characteristi…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハンドボール女子 五輪世界最終予選 第2戦でイギリスに快勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240413/k10014420881000.html</id>
@@ -15857,19 +15882,6 @@ The call for posters and demo will be published soon with a deadline end of Apri
         <updated>2024-03-14T13:12:11.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堀口英利（代理人伊久間勇星弁護士）note開示請求異議訴訟答弁書]]></title>
-        <id>https://note.com/hima_kuuhaku/n/nf0cdd5921e81</id>
-        <link href="https://note.com/hima_kuuhaku/n/nf0cdd5921e81"/>
-        <updated>2024-03-14T12:08:25.000Z</updated>
-        <summary type="html"><![CDATA[ざっくりまとめると
-暇空茜は同姓同名の別人が二人いるから両方開示する必要があるんだ！
-だそうです
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
