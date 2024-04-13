@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T11:51:01.567Z</updated>
+    <updated>2024-04-13T12:19:14.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[川崎の簡易宿泊所で火事 2人死亡 3人けが]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014421281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014421281000.html"/>
+        <updated>2024-04-13T12:10:57.000Z</updated>
+        <summary type="html"><![CDATA[13日夕方、川崎市の簡易宿泊所が焼け、2人が死亡、3人がけがをしました。警察は死亡した2人の身元の確認を進めるとともに火事の原因を調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テニス女子 国・地域別対抗戦2日目 日本 ファイナル進出決める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014421131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014421131000.html"/>
+        <updated>2024-04-13T12:00:25.000Z</updated>
+        <summary type="html"><![CDATA[東京で行われているテニス女子の国・地域別対抗戦は2日目、日本はカザフスタンを相手に3勝目を挙げて、ことし11月のファイナル進出を決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杉田智和、木村良平、斉藤壮馬ら出演の「教えて！色彩先生」シリーズ新作が4月17日から公開　緒方恵美が新キャラの講師役]]></title>
+        <id>https://anime.eiga.com/news/121034/</id>
+        <link href="https://anime.eiga.com/news/121034/"/>
+        <updated>2024-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人気声優陣が出演する「教えて！色彩先生」シリーズ最新作「教えて！色彩先生UC」（全3回）の公開が、特設サイト上で4月17日からはじまる。新キャラクターとして緒方恵美が演じる金臣先生が登場し、本編...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[体操 全日本選手権 女子決勝 19歳宮田笙子が初優勝]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240413/k10014421161000.html</id>
@@ -16309,16 +16339,6 @@ The videos showing tubes Photonis characterizes as Gen 4+:
         <link href="https://edn.itmedia.co.jp/edn/articles/2403/14/news040.html"/>
         <updated>2024-03-15T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者の方からよく質問される「SPI通信などのノイズ対処法」についてです。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCFとPTCRB公認、5Gコンフォーマンステストプラットフォーム]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ローデ・シュワルツは、5G RFとRRMコンフォーマンステスト向けソリューション「R&S TS8980S-4A」「R&S TS8980FTA-3A」を発表した。GCFとPTCRBから承認を受けた、公式の5Gコンフォーマンステストプラットフォームとなる。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>

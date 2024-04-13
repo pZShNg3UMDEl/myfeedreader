@@ -274,16 +274,6 @@
           "wordCount": 2589,
           "title": "SPI通信などのノイズ対策や、誤動作への対処法",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/14/cover_news040.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html",
-          "author": null,
-          "description": "ローデ・シュワルツは、5G RFとRRMコンフォーマンステスト向けソリューション「R&S TS8980S-4A」「R&S TS8980FTA-3A」を発表した。GCFとPTCRBから承認を受けた、公式の5Gコンフォーマンステストプラットフォームとなる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/15/news082.html",
-          "publishedOn": "2024-03-15T00:00:00.000Z",
-          "wordCount": 2619,
-          "title": "GCFとPTCRB公認、5Gコンフォーマンステストプラットフォーム",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/15/cover_news082.jpg"
         }
       ]
     },
@@ -1223,6 +1213,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421281000.html",
+          "author": null,
+          "description": "13日夕方、川崎市の簡易宿泊所が焼け、2人が死亡、3人がけがをしました。警察は死亡した2人の身元の確認を進めるとともに火事の原因を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240413/k10014421281000.html",
+          "publishedOn": "2024-04-13T12:10:57.000Z",
+          "wordCount": 684,
+          "title": "川崎の簡易宿泊所で火事 2人死亡 3人けが",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014421281_2404132104_0413210748_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421131000.html",
+          "author": null,
+          "description": "東京で行われているテニス女子の国・地域別対抗戦は2日目、日本はカザフスタンを相手に3勝目を挙げて、ことし11月のファイナル進出を決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240413/k10014421131000.html",
+          "publishedOn": "2024-04-13T12:00:25.000Z",
+          "wordCount": 834,
+          "title": "テニス女子 国・地域別対抗戦2日目 日本 ファイナル進出決める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240413/K10014421131_2404131801_0413184029_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240413/k10014421161000.html",
           "author": null,
@@ -8794,6 +8804,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121034/",
+          "author": null,
+          "description": "人気声優陣が出演する「教えて！色彩先生」シリーズ最新作「教えて！色彩先生UC」（全3回）の公開が、特設サイト上で4月17日からはじまる。新キャラクターとして緒方恵美が演じる金臣先生が登場し、本編...",
+          "link": "https://anime.eiga.com/news/121034/",
+          "publishedOn": "2024-04-13T12:00:00.000Z",
+          "wordCount": 1724,
+          "title": "杉田智和、木村良平、斉藤壮馬ら出演の「教えて！色彩先生」シリーズ新作が4月17日から公開　緒方恵美が新キャラの講師役",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121045/",
           "author": null,
