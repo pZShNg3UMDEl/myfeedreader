@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T21:10:13.443Z</updated>
+    <updated>2024-04-13T21:20:19.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍“イランがイスラエルへ複数の無人機発射“]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240414/k10014421361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240414/k10014421361000.html"/>
+        <updated>2024-04-13T21:12:57.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル軍は、イランが自国の領土からイスラエルに向けて複数の無人機を発射したと日本時間の14日朝5時すぎ、発表しました。イスラエル軍は、無人機が領内に到達するには数時間かかるとしています。一方、イランの国営メディアは、今月1日にシリアにあるイラン大使館が、イスラエルによるとみられる攻撃を受け、革命防衛隊の司令官らが殺害されたことへの報復だとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドイツ ウクライナに「パトリオット」1基 新たに供与へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240414/k10014421271000.html</id>
@@ -16575,17 +16585,6 @@ The videos showing tubes Photonis characterizes as Gen 4+:
 3 - Demonstration of halo improvements]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[対神原弁護士訴訟⑤原告第2、被告5,6,7,8と上申書]]></title>
-        <id>https://note.com/hima_kuuhaku/n/nefd88e85a5cd</id>
-        <link href="https://note.com/hima_kuuhaku/n/nefd88e85a5cd"/>
-        <updated>2024-03-15T09:10:38.000Z</updated>
-        <summary type="html"><![CDATA[ひ「どうも、認知プロファイリング探偵暇空茜です」
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
