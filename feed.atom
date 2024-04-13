@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T19:35:55.635Z</updated>
+    <updated>2024-04-13T19:50:20.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -392,6 +392,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240413/k10014421071000.html"/>
         <updated>2024-04-13T08:57:37.000Z</updated>
         <summary type="html"><![CDATA[能登半島地震とそれに伴う火災で大きな被害を受けた石川県輪島市の「朝市通り」の焼け跡でチューリップが花を咲かせました。火災で自宅を失った女性にとって震災から前を向く希望になっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米 名門大学で“日本のお笑い文化”を紹介 渡辺直美さんが講演]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240413/k10014421081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240413/k10014421081000.html"/>
+        <updated>2024-04-13T08:54:06.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ・ニューヨークの名門大学で開かれた日本文化を紹介する恒例のイベントで、初めてお笑い文化がテーマに取り上げられ、タレントの渡辺直美さんが英語で講演して、会場を沸かせました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
