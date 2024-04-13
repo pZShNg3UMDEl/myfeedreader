@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T22:50:31.297Z</updated>
+    <updated>2024-04-13T23:13:14.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“米が中東に展開 防空システム 複数の無人機撃墜”米メディア]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240414/k10014421391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240414/k10014421391000.html"/>
+        <updated>2024-04-13T23:10:23.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのCNNテレビなど複数のメディアは13日、アメリカ政府当局者の話として、アメリカが中東に展開している防空システムが複数のイランの無人機を撃墜したと伝えました。ただ、当局者は、どこでどのように撃墜したのかなど詳細は明らかにしていないとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国共産党序列3位 キム総書記と会談 協力関係強化改めて確認]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240414/k10014421331000.html</id>
