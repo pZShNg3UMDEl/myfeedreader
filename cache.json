@@ -1184,6 +1184,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240414/k10014421951000.html",
+          "author": null,
+          "description": "イランによるイスラエルへの大規模な攻撃を受けて、外務省は14日夜、イランの「危険情報」について、首都テヘランを含む大部分をこれまでのレベル1からレベル3の「渡航中止勧告」に引き上げました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240414/k10014421951000.html",
+          "publishedOn": "2024-04-14T14:05:43.000Z",
+          "wordCount": 684,
+          "title": "外務省 イランの首都含む大部分「渡航中止勧告」に引き上げ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240414/K10014421951_2404142148_0414214959_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240414/k10014421941000.html",
+          "author": null,
+          "description": "大相撲で外国出身力士として初めて横綱となり、今月亡くなった元曙の曙太郎さんの通夜が14日夜、東京都内で営まれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240414/k10014421941000.html",
+          "publishedOn": "2024-04-14T12:54:23.000Z",
+          "wordCount": 709,
+          "title": "大相撲 元横綱 曙の曙太郎さんの通夜 約300人が参列",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240414/K10014421941_2404142050_0414205831_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240414/k10014421741000.html",
+          "author": null,
+          "description": "プロ野球は6試合が行われ、巨人は2年目の萩尾匡也選手に逆転ツーランホームランが出て広島に競り勝ち連勝を「6」に伸ばした一方、中日は阪神に1点差で敗れ、引き分けをはさんだ連勝が「6」で止まりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240414/k10014421741000.html",
+          "publishedOn": "2024-04-14T10:49:45.000Z",
+          "wordCount": 990,
+          "title": "【プロ野球結果】巨人が連勝6に伸ばす 中日は連勝6で止まる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240414/K10014421741_2404141939_0414194020_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240414/k10014421731000.html",
           "author": null,
           "description": "ラグビーのリーグワンは1部にあたるディビジョン1、第13節の残り1試合が行われ、2位の東芝ブレイブルーパス東京はコベルコ神戸スティーラーズと引き分け、勝ち点を52として4位以内が確定し、プレーオフトーナメント進出が決まりました。",
@@ -9225,6 +9255,51 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/120998/",
+          "author": null,
+          "description": "「なにわ男子」の大西流星が、水野美波氏の人気コミックを実写映画化する「恋を知らない僕たちは」で、映画初主演を務めることがわかった。窪塚愛流、齊藤なぎさ、莉子、猪狩蒼弥（「HiHi Jets」）、...",
+          "link": "https://anime.eiga.com/news/120998/",
+          "publishedOn": "2024-04-14T13:00:00.000Z",
+          "wordCount": 1701,
+          "title": "少女漫画「恋を知らない僕たちは」実写映画化　「なにわ男子」大西流星が映画初主演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/121032/",
+          "author": null,
+          "description": "テレビアニメ「この世界は不完全すぎる」に小野大輔と谷山紀章が出演することがわかった。 左藤真通氏のファンタジー漫画をアニメ化する本作は、クレボーン島にある小国・ベイル王国の“辺境のさらに辺境”に...",
+          "link": "https://anime.eiga.com/news/121032/",
+          "publishedOn": "2024-04-14T12:00:00.000Z",
+          "wordCount": 1694,
+          "title": "「この世界は不完全すぎる」に小野大輔＆谷山紀章が出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/121015/",
+          "author": null,
+          "description": "「日本近代詩の父」と称される詩人・萩原朔太郎さんの唯一の小説「猫町」の世界観を元にしたオリジナル朗読劇「ネコたん！ ～猫町怪異奇譚～」の開催が決定した。東京・池袋のあうるすぽっとで、5月9～19...",
+          "link": "https://anime.eiga.com/news/121015/",
+          "publishedOn": "2024-04-14T11:00:00.000Z",
+          "wordCount": 1758,
+          "title": "声優47人が“猫になる”　猫の探偵物語を描く朗読劇「ネコたん！」5月に上演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121056/",
           "author": null,
           "description": "集英社のアプリ「World Maker」とNetflixが共同で開催する「Netflix × ワールドメーカーアニメコンテスト」の最終選考結果が発表され、光氏の「鬼一のあやまち」が大賞を受賞した...",
@@ -10934,6 +11009,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=9916",
+          "author": "watanabe@logipara.com",
+          "description": "フォロー数2桁の人にフォローされたときにだけ出る　快　楽　物　質　が　あ　る",
+          "link": "https://logipara.com/diary-text/2024-04-15",
+          "publishedOn": "2024-04-14T12:57:43.000Z",
+          "wordCount": 4436,
+          "title": "Twitter話",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=9908",
           "author": "watanabe@logipara.com",
           "description": "やあやあこんにちは、ワタナベおじさんだよ(奇妙な踊りをしながら) 　 ろじぱらが動いているサーバのOSを移行できる、と連絡がきました。 なんでもOSを移行すると、アクセス速度は増し、セキュリティも強固になり、閲覧者は喜び […]",
@@ -11654,6 +11739,26 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=242170",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年4月7日から4月13日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキングし […]",
+          "link": "https://foodfighter.jp/bento-ranking-2024-0414",
+          "publishedOn": "2024-04-14T12:51:19.000Z",
+          "wordCount": 1784,
+          "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年4月7日から4月13日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/df7835c8c96a85b9c0b54c6054b4e2aa.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=242152",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「塩麹焼き赤魚と鶏五目炊き込み御飯」を世界一詳しく調査しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/711sej-gomokutakikomigohan",
+          "publishedOn": "2024-04-14T11:57:57.000Z",
+          "wordCount": 1786,
+          "title": "【セブンイレブン】塩麹焼き赤魚と鶏五目炊き込み御飯【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/ae7418cf5d39433af2a195a175866152.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=242149",
           "author": "foodfighter",
@@ -12411,6 +12516,36 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2034690.html",
+          "author": "damono3856",
+          "description": "1 名前：ごまカンパチ ★：2024/04/14(日) 00:59:24.09 ID:riLSkV1w9.net\n\n\n\n\n\n\n\n【もぎたて海外仰天ニュース】ビタミンDの過剰摂取は極めて危険…英南部で89歳男性が死亡の衝撃、検視側も警鐘鳴らすhttps://t.co/arYRkrVeOB#仰天ニュース #日刊ゲンダイDIGITAL— 日刊ゲ...",
+          "link": "https://itainews.com/archives/2034690.html",
+          "publishedOn": "2024-04-14T13:32:57.000Z",
+          "wordCount": 2624,
+          "title": "ビタミンDの過剰摂取は極めて危険…英南部で89歳男性が死亡の衝撃、検視側も警鐘鳴らす",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/8/e8bb1d08-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034697.html",
+          "author": "damono3856",
+          "description": "1 名前：＠蚤の市 ★：2024/04/14(日) 07:49:51.45 ID:3EbjRKFu9.net\n\n\n\n\n\n\n\n電動車椅子の利用者、ピーチ機に搭乗できず　バッテリー目視確認巡りhttps://t.co/oYpDFiX6IT電動車椅子のバッテリーが外から見えないことを理由に搭乗できませんでした。バッテリーの目視確認...",
+          "link": "https://itainews.com/archives/2034697.html",
+          "publishedOn": "2024-04-14T12:27:23.000Z",
+          "wordCount": 3094,
+          "title": "電動車椅子の利用者、ピーチ機に搭乗できず　バッテリー目視確認巡り",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/3/b3d3984c-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2034689.html",
+          "author": "damono3856",
+          "description": "1 名前：征夷大将軍 ★：2024/04/13(土) 08:31:30.09 ID:a5/LGsG69.net\n\n\n\n\n\n\n\n「息子はボクシングジムに殺されました」…父親が慟哭告白…「将来の世界チャンプ」と期待された若きボクサーが自ら命を絶った理由 : https://t.co/Zp8U493ntW #現代ビジネス— 現代ビジネス...",
+          "link": "https://itainews.com/archives/2034689.html",
+          "publishedOn": "2024-04-14T11:29:32.000Z",
+          "wordCount": 2952,
+          "title": "「息子はボクシングジムに殺されました」父親が慟哭告白「将来の世界チャンプ」と期待された若きボクサーが自ら命を絶った理」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/d/dd82fc19-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2034686.html",
           "author": "yonepo665sfr",
@@ -14178,6 +14313,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=70906",
+          "author": "299",
+          "description": "今回は沢山のジャガイモに囲まれながらくつろぐ子猫ちゃんです。 ジャガイモの量は増えていき、途中から埋まっているぐらいになります。 でも猫ちゃん的には気持ち良いのでしょい。 寝転んだまま木箱の中から出ようとはしません。 ジ...\nジャガイモに埋もれる猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/70906",
+          "publishedOn": "2024-04-14T13:00:06.000Z",
+          "wordCount": 1347,
+          "title": "ジャガイモに埋もれる猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70906.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=70902",
           "author": "299",
