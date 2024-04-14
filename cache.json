@@ -1194,6 +1194,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240414/k10014421401000.html",
+          "author": null,
+          "description": "大リーグ、レッドソックスの吉田正尚選手は13日、エンジェルス戦で今シーズン初の複数安打となる2安打2打点と活躍し、チームは、本拠地での今シーズン初勝利をつかみました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240414/k10014421401000.html",
+          "publishedOn": "2024-04-14T00:39:36.000Z",
+          "wordCount": 756,
+          "title": "レッドソックス 吉田正尚 2安打2打点と活躍",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240414/K10014421401_2404140922_0414093938_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240414/k10014421381000.html",
           "author": null,
           "description": "大リーグ、タイガースの前田健太投手は13日、ツインズ戦に先発し、6回2失点と好投しましたが、リリーフ投手がリードを守れず、移籍後初勝利はなりませんでした。",
@@ -7980,6 +7990,16 @@
       "feedUrl": "https://www.famitsu.com/rss/category/fcom_news_switch.rdf",
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
+        {
+          "id": "https://www.famitsu.com/news/202404/13339021.html",
+          "author": null,
+          "description": "ジュピターは、2024年3月にリリースされたPC向けパズルゲーム『ピクロス ロジアート グリモワール』のNintendo Switch版を4月18日にリリースする。",
+          "link": "https://www.famitsu.com/news/202404/13339021.html",
+          "publishedOn": "2024-04-14T01:00:00.000Z",
+          "wordCount": 1741,
+          "title": "『ピクロス ロジアート グリモワール』Switch版を4月18日にリリース。発売後1週間はお買い得な1320円",
+          "imageUrl": "https://www.famitsu.com/images/000/339/021/z_661624b5242c6.jpg"
+        },
         {
           "id": "https://www.famitsu.com/news/202404/13339152.html",
           "author": null,
