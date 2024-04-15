@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T20:35:51.631Z</updated>
+    <updated>2024-04-15T20:50:14.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゼレンスキー大統領 イスラエル防衛引き合いに防空支援訴える]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014422891000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014422891000.html"/>
+        <updated>2024-04-15T20:41:46.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナのゼレンスキー大統領は、イランによるイスラエルへの攻撃を防いだアメリカなどの防衛協力を引き合いに出して、ロシアからのミサイルや無人機に対する防空体制への支援を強く訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【紛争】イスラエル軍に食糧配布したマクドナルド、世界で不買され売上激減&株価下落]]></title>
         <id>https://itainews.com/archives/2034722.html</id>
