@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T11:11:30.735Z</updated>
+    <updated>2024-04-15T11:20:21.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安定的な皇位継承のあり方 自民 今月中にも考えまとめる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422691000.html"/>
+        <updated>2024-04-15T11:15:02.000Z</updated>
+        <summary type="html"><![CDATA[安定的な皇位継承のあり方をめぐり、自民党は今月中にも党の考えをまとめることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Dr.STONE」5周年イベントの詳細発表　小林裕介らによる朗読劇やSENKU’Sコーラの販売も]]></title>
         <id>https://anime.eiga.com/news/121069/</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[テレビアニメ「Dr.STONE」5周年記念のスペシャルイベント「Dr.STONE 石の宴」の詳細が発表された。描き下ろしイベントビジュアルも公開されている。 イベントではキャストの小林裕介、鈴木...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽田空港アクセス線の予定地で発見「高輪築堤跡」一部保存へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422711000.html"/>
+        <updated>2024-04-15T10:58:16.000Z</updated>
+        <summary type="html"><![CDATA[羽田空港と東京駅などを結ぶ羽田空港アクセス線の工事予定地で、おととしに見つかった石垣が国内初の鉄道の線路を敷くために築かれた「高輪築堤跡」と確認されたとして、JR東日本は一部を保存したうえで工事を進めることを決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
