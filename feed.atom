@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T18:50:37.273Z</updated>
+    <updated>2024-04-15T19:11:17.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お茶の生産盛んな静岡 磐田 小学生が新茶の手摘みを体験]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014422401000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014422401000.html"/>
+        <updated>2024-04-15T19:05:22.000Z</updated>
+        <summary type="html"><![CDATA[お茶の生産が盛んな静岡県磐田市で、地元の小学生たちが新茶の手摘みを体験する授業が行われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熊本地震 2度目の震度7観測から8年 記憶や教訓伝える取り組み]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014422881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014422881000.html"/>
+        <updated>2024-04-15T19:01:38.000Z</updated>
+        <summary type="html"><![CDATA[災害関連死も含めて276人が犠牲になった一連の熊本地震で、2度目の震度7の揺れを観測した日から16日で8年です。被災地ではインフラの復旧が進む中、地震の記憶や教訓を伝える取り組みの重要性が増しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EgisTec to acquire Curious]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/04/egistec-to-acquire-curious.html</id>
