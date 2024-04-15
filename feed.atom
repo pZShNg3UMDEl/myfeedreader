@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T06:35:40.737Z</updated>
+    <updated>2024-04-15T06:50:37.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[那覇市小禄地区の避難指示を解除]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422051000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422051000.html"/>
+        <updated>2024-04-15T06:48:58.000Z</updated>
+        <summary type="html"><![CDATA[那覇市は、土砂災害警戒情報が解除されたことから、小禄地区の2万7520世帯5万8235人を対象に出していた避難指示を、15日午後3時20分に解除しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[名古屋 北区の中学校 火災起きたと通報 男子生徒1人が手当て]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422431000.html"/>
+        <updated>2024-04-15T06:43:47.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市消防局によりますと、15日午後3時前、名古屋市北区志賀町にある市立北陵中学校で、火災が起きたと通報があったということです。生徒や教員は避難し、逃げ遅れた人はいないということですが、このうち男子生徒1人が気分が悪いと訴えて手当てを受けているということです。消防が消火活動にあたるとともに、出火当時の状況について確認を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユネスコ無形文化遺産「長浜曳山祭」 子ども歌舞伎を奉納 滋賀]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240415/k10014422371000.html</id>
