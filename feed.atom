@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T08:13:51.730Z</updated>
+    <updated>2024-04-15T08:24:32.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仙台 青葉区 メガソーラー発電所で火災発生 消防が消火活動]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422541000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422541000.html"/>
+        <updated>2024-04-15T08:18:11.000Z</updated>
+        <summary type="html"><![CDATA[警察と消防によりますと、15日午後1時半すぎ、仙台市青葉区芋沢にあるメガソーラー発電所で火災が発生し、現在、消防が消火活動にあたっているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソファの上で猫団子になっている兄弟猫にこっそり加わるチビ猫]]></title>
         <id>https://2-9-9.com/?p=70923</id>
