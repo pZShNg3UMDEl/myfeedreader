@@ -283,6 +283,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73639",
+          "author": "多根清史",
+          "description": "アップルが次期iOS 18に生成AI技術を組み込むことは、ほぼ確実視されている。ティム・クックCEO自らもAIへの投資を強調していることから、投資家の期待を裏切らないためにも避けられないだろう。 そうしたiOS 18で計画している新AI機能は、外部のクラウドサーバーに全く依存しないと著名ジャーナリス […]",
+          "link": "https://gadget.phileweb.com/post-73639/",
+          "publishedOn": "2024-04-15T05:57:39.000Z",
+          "wordCount": 780,
+          "title": "iOS 18の生成AI機能、クラウド使わず「完全オンデバイス」の可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_2421930711-1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73623",
           "author": "Munenori Taniguchi",
           "description": "香港城市大学と香港科技大学の研究チームが、クアッドコプターの下側に一本足のバネ付き伸縮脚を取り付けたホッピングロボット「Hopcopter」を開発した。 クアッドコプター（ドローン）はここ数年でホビー用途から監視用途、研究用途さらには荷物輸送にまで幅広く世の中に浸透してきた。 今回、香港の研究チーム […]",
@@ -1253,6 +1263,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422311000.html",
+          "author": null,
+          "description": "15日は東日本や北日本を中心に晴れて気温が上がり、新潟県では30度を超え、沖縄県を除いてことし初めての真夏日となりました。この時期はまだ体が暑さに慣れていないため体調管理に注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422311000.html",
+          "publishedOn": "2024-04-15T06:06:23.000Z",
+          "wordCount": 531,
+          "title": "新潟県で30度超える 沖縄県除きことし全国初の真夏日に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422311_2404151449_0415145028_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422281000.html",
           "author": null,

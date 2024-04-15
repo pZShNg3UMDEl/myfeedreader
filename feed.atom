@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T05:50:30.990Z</updated>
+    <updated>2024-04-15T06:17:15.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新潟県で30度超える 沖縄県除きことし全国初の真夏日に]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422311000.html"/>
+        <updated>2024-04-15T06:06:23.000Z</updated>
+        <summary type="html"><![CDATA[15日は東日本や北日本を中心に晴れて気温が上がり、新潟県では30度を超え、沖縄県を除いてことし初めての真夏日となりました。この時期はまだ体が暑さに慣れていないため体調管理に注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 18の生成AI機能、クラウド使わず「完全オンデバイス」の可能性]]></title>
+        <id>https://gadget.phileweb.com/?p=73639</id>
+        <link href="https://gadget.phileweb.com/post-73639/"/>
+        <updated>2024-04-15T05:57:39.000Z</updated>
+        <summary type="html"><![CDATA[アップルが次期iOS 18に生成AI技術を組み込むことは、ほぼ確実視されている。ティム・クックCEO自らもAIへの投資を強調していることから、投資家の期待を裏切らないためにも避けられないだろう。 そうしたiOS 18で計画している新AI機能は、外部のクラウドサーバーに全く依存しないと著名ジャーナリス […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電話応対で「もしもし」はNG]]></title>
         <id>https://itainews.com/archives/2034708.html</id>
