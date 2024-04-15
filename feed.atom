@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T22:50:38.038Z</updated>
+    <updated>2024-04-15T23:12:43.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンAI 幹部 “日本に特化した生成AIモデル展開の方針”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423031000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423031000.html"/>
+        <updated>2024-04-15T22:49:42.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのベンチャー企業、オープンAIの幹部がNHKの単独インタビューに応じ、日本のビジネスや文化を理解した、日本に特化した生成AIのモデルを展開していく方針を明らかにしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム 銀座千疋屋 まるでクラウンメロン【新作コンビニアイス】]]></title>
         <id>https://foodfighter.jp/?p=242294</id>
