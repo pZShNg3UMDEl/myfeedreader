@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T10:35:33.746Z</updated>
+    <updated>2024-04-15T10:50:28.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気象庁雨雲レーダーに存在しない放射状の雨雲画像も不具合解消]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422701000.html"/>
+        <updated>2024-04-15T10:47:18.000Z</updated>
+        <summary type="html"><![CDATA[15日午前、気象庁の雨雲のレーダー画像に実際には存在しない放射状の雨雲が表示される不具合がありました。不具合は夕方に解消されたということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小5がノートに手書きでプログラミング、35年後に動かした結果…当時親にパソコン購入反対されても"脳内実行"]]></title>
         <id>https://itainews.com/archives/2034711.html</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[新作ローグライクアクションRPG『百剣討妖伝綺譚』が、Nintendo Switch、プレイステーション5（PS5）、プレイステーション（PS4）、Xbox Series X|Sにて発売することが発表された。]]></summary>
         <author>
             <name>Nintendo Switch - Switchの最新ゲームソフト情報 - ファミ通.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 能登空港 羽田空港を結ぶ便 15日から毎日1便運航へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240415/k10014422591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240415/k10014422591000.html"/>
+        <updated>2024-04-15T10:26:12.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被害が出た石川県輪島市の能登空港では周辺道路の復旧工事が進んだことから、羽田空港を結ぶ便が15日から1日1往復運航されることになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
