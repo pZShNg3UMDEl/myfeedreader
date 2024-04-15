@@ -1274,6 +1274,46 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422821000.html",
+          "author": null,
+          "description": "子育て中の政治活動に困難さを感じた地方議員が調査で8割を超えたとして、超党派の議員でつくる団体が、柔軟な働き方に向けてガイドラインの策定や相談窓口の設置などを政府に要望しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422821000.html",
+          "publishedOn": "2024-04-15T12:16:58.000Z",
+          "wordCount": 481,
+          "title": "子育て中の地方議員“政治活動に困難さ” 働き方で政府に要望",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422821_2404152019_0415211700_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422741000.html",
+          "author": null,
+          "description": "小林製薬の紅麹の成分を含むサプリメントを摂取した人が腎臓の病気などを発症した問題で、厚生労働省は、14日の時点で、延べ231人が入院したことが小林製薬からの報告で明らかになったと発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422741000.html",
+          "publishedOn": "2024-04-15T12:06:25.000Z",
+          "wordCount": 718,
+          "title": "小林製薬「紅麹」問題 延べ231人が入院（14日時点）厚労省",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422741_2404151943_0415210627_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422811000.html",
+          "author": null,
+          "description": "警察官から繰り返し職務質問を受けてきた外国出身の3人が、人種や肌の色、国籍などに基づく差別だとして国などに賠償を求めた裁判が始まり、原告の1人は「どこに住んでいても不当な扱いを受ける」と語りました。一方、国などは訴えを退けるように求めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422811000.html",
+          "publishedOn": "2024-04-15T11:49:26.000Z",
+          "wordCount": 564,
+          "title": "“繰り返し職務質問は差別”外国出身者が国など訴えた裁判開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422811_2404152027_0415204929_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422781000.html",
+          "author": null,
+          "description": "太平洋で中国の影響力が強まる中、ソロモン諸島で17日、総選挙が行われます。中国との関係を深めているソガバレ首相率いる与党が勝利するのか、関係見直しも訴える野党が政権交代を実現するのか、注目されています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422781000.html",
+          "publishedOn": "2024-04-15T11:48:38.000Z",
+          "wordCount": 838,
+          "title": "ソロモン諸島で総選挙 中国の影響力強まる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422781_2404152039_0415204840_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422791000.html",
           "author": null,
           "description": "フィリピンのマルコス大統領は、南シナ海で中国が威圧的な行動を繰り返すなか、軍以外からの攻撃を受けた場合であっても、フィリピンの軍人に死者が出ればアメリカとフィリピンの相互防衛条約が発動されるとして、アメリカに軍事的な対応を求める考えを示しました。",
@@ -9854,6 +9894,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121071/",
+          "author": null,
+          "description": "劇場版シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」（上映中）が、初日3日間（4月12～14日）で、観客動員220万人、興行収入33億円を突破。シリーズ歴代No.1ヒット作で...",
+          "link": "https://anime.eiga.com/news/121071/",
+          "publishedOn": "2024-04-15T12:00:00.000Z",
+          "wordCount": 1623,
+          "title": "「名探偵コナン 100万ドルの五稜星」3日間で観客動員220万人、興行収入33億円突破　「黒鉄の魚影」対比106.5％の歴代No.1スタート",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121069/",
           "author": null,
