@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T15:50:15.370Z</updated>
+    <updated>2024-04-15T16:16:06.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EgisTec to acquire Curious]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/04/egistec-to-acquire-curious.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/04/egistec-to-acquire-curious.html"/>
+        <updated>2024-04-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Taiwan-based IC design house Egis Technology (EgisTec) has announced 
+plans to acquire Curious, a Japan-based IP and fabless chipmaker, in a 
+share swap transaction valued at NT$525 million (US$16.4 million).  
+
+Link: https://www.digitimes.com/news/a20240402PD213/egistec-inpsytech-ip-licensing-mergers-and-acquisitions.html
+Curious designs IP for image sensors:
+http://www.curious-jp.com/en/
+Egis makes fingerprint sensors including under-display optical sensors, including those used in older Samsung Galaxy S9 and S9+ phones:
+https://www.egistec.com/en/]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シャープ 大型液晶パネル一部で生産停止方針 赤字拡大歯止めへ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014422921000.html</id>
