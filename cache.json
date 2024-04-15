@@ -1274,6 +1274,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422661000.html",
+          "author": null,
+          "description": "世界の熱帯域に生息する凶暴なサメとして知られているオオメジロザメが、宮崎市の川の河口近くで釣り上げられました。日本では一般的に沖縄より北には生息しないとされていて、研究者は海水温の上昇で行動範囲が広がっているのではないかと推測しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422661000.html",
+          "publishedOn": "2024-04-15T10:01:23.000Z",
+          "wordCount": 717,
+          "title": "熱帯域に生息 凶暴なオオメジロザメが釣り上げられる 宮崎",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422661_2404151848_0415190125_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422611000.html",
+          "author": null,
+          "description": "和歌山市で選挙の応援に訪れていた岸田総理大臣の近くに爆発物が投げ込まれた事件から15日で1年です。総理などに対する殺人未遂など5つの罪で起訴された被告の裁判が始まる見通しは立っていませんが、これまで黙秘を続けていて、今後の裁判でどのような主張をするのかが焦点となります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422611000.html",
+          "publishedOn": "2024-04-15T09:48:43.000Z",
+          "wordCount": 807,
+          "title": "岸田首相襲撃事件から1年 被告は一貫して黙秘 裁判が焦点に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422611_2404151825_0415184845_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422601000.html",
           "author": null,
           "description": "大手デパートのことし2月までの1年間の決算では、外国人旅行者の増加や新型コロナの5類移行を受けて売り上げが伸び、最終的な利益がいずれもコロナ禍前を上回るなど好調な業績が相次いでいます。",
@@ -8731,6 +8751,16 @@
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
         {
+          "id": "https://www.famitsu.com/news/202404/15339304.html",
+          "author": null,
+          "description": "『8番出口』ライクゲーム『偽夢』のNintendo Switch（ニンテンドースイッチ）版が2024年4月18日に発売される。",
+          "link": "https://www.famitsu.com/news/202404/15339304.html",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1642,
+          "title": "『偽夢』怪異をカメラで撮る『8番出口』ライクゲーム。Switch版が4/18発売。怪異は81種存在",
+          "imageUrl": "https://www.famitsu.com/images/000/339/304/z_661cd68fd4859.jpg"
+        },
+        {
           "id": "https://www.famitsu.com/news/202404/15339306.html",
           "author": null,
           "description": "『サガ エメラルド ビヨンド』のキャラクターが描かれた特製キラカードをはがしてゲットできるピールオフ広告が、東京・新宿駅と大阪・梅田駅で展開中（4月15日～4月21日の期間限定）。また、『ロマンシング サガ リ・ユニバース』公式Xにてキャンペーンも実施。",
@@ -9744,6 +9774,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121068/",
+          "author": null,
+          "description": "アニメ「僕のヒーローアカデミア」7期のエンディングテーマが、ピアノトリオバンド「Omoinotake」の書き下ろし新曲「蕾」に決定した。 同バンドは、「連載当初から愛読しておりました、作品に携わ...",
+          "link": "https://anime.eiga.com/news/121068/",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1627,
+          "title": "「ヒロアカ」7期エンディングテーマはOmoinotakeの書き下ろし新曲「蕾」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121070/",
           "author": null,
@@ -11800,6 +11845,16 @@
       "feedUrl": "https://note.com/hima_kuuhaku/rss",
       "siteUrl": "https://note.com/hima_kuuhaku",
       "articles": [
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n316b4524a223",
+          "author": null,
+          "description": "お世話になっております\nご無沙汰しております\n\n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n316b4524a223",
+          "publishedOn": "2024-04-15T09:27:13.000Z",
+          "wordCount": 2329,
+          "title": "学習院仮処分第八書面外典「管理人メール③」",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/396391ce481f4e83c7235c152320f51fbe2030fb.png"
+        },
         {
           "id": "https://note.com/hima_kuuhaku/n/nbb13e9c385a1",
           "author": null,
