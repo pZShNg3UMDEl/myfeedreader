@@ -1274,6 +1274,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422131000.html",
+          "author": null,
+          "description": "生成AIのChatGPTを開発したアメリカの企業、オープンAIが東京に新たな拠点を設立し、日本での事業を強化する方針を明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422131000.html",
+          "publishedOn": "2024-04-15T08:56:27.000Z",
+          "wordCount": 770,
+          "title": "ChatGPT開発 オープンAI 東京に新拠点設立 日本事業強化の方針",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422131_2404151544_0415174804_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422551000.html",
+          "author": null,
+          "description": "自民党の菅前総理大臣は、東京電力福島第一原発で処理水の海洋放出が行われている現場を視察し、政府と東京電力が連携して丁寧な情報発信と安全確保の徹底に取り組む必要があるという考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240415/k10014422551000.html",
+          "publishedOn": "2024-04-15T08:42:01.000Z",
+          "wordCount": 687,
+          "title": "自民 菅前首相 “処理水放出 丁寧な情報発信 安全確保を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240415/K10014422551_2404151718_0415174203_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240415/k10014422531000.html",
           "author": null,
           "description": "去年、声の衰えなどを理由に歌手活動を引退した橋幸夫さん（80）が、ファンの声などを受けて引退を撤回し、歌手活動を再開すると発表しました。",
@@ -9694,6 +9714,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121067/",
+          "author": null,
+          "description": "津田健次郎が、黒柳徹子が司会を務めるトーク番組「徹子の部屋」の4月16日放送回に出演する。同番組初登場となり、下積み時代の貧乏エピソード、駆け出しの頃に出会った妻の存在など、人気声優の素顔が語ら...",
+          "link": "https://anime.eiga.com/news/121067/",
+          "publishedOn": "2024-04-15T09:00:00.000Z",
+          "wordCount": 1645,
+          "title": "【明日放送】津田健次郎が「徹子の部屋」初登場　駆け出しの頃に出会った妻の支え、下積み時代を明かす",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121046/",
           "author": null,
