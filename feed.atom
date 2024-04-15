@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T23:35:36.266Z</updated>
+    <updated>2024-04-15T23:50:14.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“テスラ 世界の従業員の10％以上を削減の方針” 欧米メディア]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423061000.html"/>
+        <updated>2024-04-15T23:35:15.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの電気自動車メーカー、テスラが、世界の従業員の10％以上を削減する方針だと欧米のメディアが報じました。中国のEVメーカーとの競争などを背景に販売台数が減少したことに対応して収益力の改善を図る狙いがあるとみられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オープンAI 幹部 “日本に特化した生成AIモデル展開の方針”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014423031000.html</id>
