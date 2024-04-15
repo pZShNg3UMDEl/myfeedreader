@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T19:21:21.980Z</updated>
+    <updated>2024-04-15T19:35:38.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[完全養殖のマサバ「唐津Qサバ」 今季の出荷始まる 佐賀]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014422391000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014422391000.html"/>
+        <updated>2024-04-15T19:33:41.000Z</updated>
+        <summary type="html"><![CDATA[佐賀県唐津市と九州大学が共同開発した完全養殖のマサバの、今シーズンの出荷が始まりました。赤潮などによる不漁の影響で、例年よりも半年遅れての出荷です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国旅客船沈没事故から10年 遺族らが改めて原因の究明求める]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014422851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014422851000.html"/>
+        <updated>2024-04-15T19:27:48.000Z</updated>
+        <summary type="html"><![CDATA[韓国南部の沖合で旅客船が沈没して高校生などおよそ300人が亡くなった事故から16日で10年となります。事故の詳しい原因については、調査委員会の報告書でも明確には示されておらず、遺族たちからは、改めて原因の究明を求める声が上がっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お茶の生産盛んな静岡 磐田 小学生が新茶の手摘みを体験]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014422401000.html</id>
