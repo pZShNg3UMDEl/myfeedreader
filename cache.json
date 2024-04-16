@@ -284,16 +284,6 @@
           "wordCount": 2584,
           "title": "1.8V電子システムの監視／保護用アナログスイッチ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/19/cover_news043.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/18/news066.html",
-          "author": null,
-          "description": "キーサイト・テクノロジーは、オシロスコーププローブ「InfiniiMax 4」シリーズを発表した。最大52GHzのブリックウォールおよび40GHzのベッセルトムソンで動作可能だ。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/18/news066.html",
-          "publishedOn": "2024-03-18T00:00:00.000Z",
-          "wordCount": 2597,
-          "title": "「業界初」最大52GHz対応のオシロスコーププローブ、キーサイトが開発",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/18/cover_news066.jpg"
         }
       ]
     },
@@ -10408,6 +10398,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5bQMWHvjDc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5bQMWHvjDc0",
+          "publishedOn": "2024-04-16T11:50:38.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォークLIVE】１位取るぞ!!ギガモンデスパレス戦をライブで狩っていく無課金勇者！！4月16日夜の部！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1Ef2bUq9sKU",
           "author": null,
           "description": "",
@@ -10574,6 +10574,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121073/",
+          "author": null,
+          "description": "放送中のテレビアニメ「リンカイ！」に、安齋由香里、森嵜美穂、尾崎由香が出演することが分かった。あわせて、4月16日夜から順次放送が開始される第2話「駄菓子は好き？」の先行ヒットも披露された。 3...",
+          "link": "https://anime.eiga.com/news/121073/",
+          "publishedOn": "2024-04-16T12:05:28.000Z",
+          "wordCount": 1644,
+          "title": "「リンカイ！」競輪選手を目指す新キャラ役に安齋由香里、森嵜美穂、尾崎由香",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121077/",
           "author": null,

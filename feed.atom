@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T11:50:41.150Z</updated>
+    <updated>2024-04-16T12:24:35.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「リンカイ！」競輪選手を目指す新キャラ役に安齋由香里、森嵜美穂、尾崎由香]]></title>
+        <id>https://anime.eiga.com/news/121073/</id>
+        <link href="https://anime.eiga.com/news/121073/"/>
+        <updated>2024-04-16T12:05:28.000Z</updated>
+        <summary type="html"><![CDATA[放送中のテレビアニメ「リンカイ！」に、安齋由香里、森嵜美穂、尾崎由香が出演することが分かった。あわせて、4月16日夜から順次放送が開始される第2話「駄菓子は好き？」の先行ヒットも披露された。 3...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ドラクエウォークLIVE】１位取るぞ!!ギガモンデスパレス戦をライブで狩っていく無課金勇者！！4月16日夜の部！]]></title>
+        <id>https://www.youtube.com/watch?v=5bQMWHvjDc0</id>
+        <link href="https://www.youtube.com/watch?v=5bQMWHvjDc0"/>
+        <updated>2024-04-16T11:50:38.000Z</updated>
+        <author>
+            <name>YoshiZo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デンマーク コペンハーゲンの歴史的建造物で火災 せん塔が崩落]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014423871000.html</id>
@@ -19220,16 +19239,6 @@ Nikon will leverage this acquisition to expand the fast-growing professional dig
 続きをみる]]></summary>
         <author>
             <name>暇空茜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「業界初」最大52GHz対応のオシロスコーププローブ、キーサイトが開発]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/18/news066.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/18/news066.html"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[キーサイト・テクノロジーは、オシロスコーププローブ「InfiniiMax 4」シリーズを発表した。最大52GHzのブリックウォールおよび40GHzのベッセルトムソンで動作可能だ。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
