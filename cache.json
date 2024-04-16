@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/16/news058.html",
+          "author": null,
+          "description": "「EE Times Japan×EDN Japan 統合電子版」の2024年4月号を発行しました。今号のEE Exclusive（電子版限定先行公開記事）は、『カスタムか、標準か：メモリベンダーの「生き残り戦略」を考察する』です。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/16/news058.html",
+          "publishedOn": "2024-04-16T03:30:00.000Z",
+          "wordCount": 2698,
+          "title": "カスタムか、標準か：メモリベンダーの「生き残り戦略」を考察する ―― 電子版2024年4月号",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/16/mm220117_denshiban01_w490.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/16/news067.html",
           "author": null,
           "description": "ピカリング エレクトロニクスは、リードリレー「144」シリーズを発表した。定格電力が最大80Wで、低電圧や小電流の通電効率にも優れる。ミックスドシグナルICテスターやEV充電などに適する。",
@@ -1334,6 +1344,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423311000.html",
+          "author": null,
+          "description": "4月、沖縄県の那覇空港で電動車いすの乗客が航空会社のピーチ・アビエーションの航空機に搭乗しようとしたところ、バッテリーの現物が確認できないことを理由に搭乗できなかったことがわかりました。国土交通省は、バッテリーは書類や口頭の申告でも確認が可能だとして、航空各社に通知しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423311000.html",
+          "publishedOn": "2024-04-16T03:57:26.000Z",
+          "wordCount": 556,
+          "title": "“電動車いすバッテリー現物確認できない”航空機に搭乗できず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423311_2404161223_0416125727_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240416/k10014422461000.html",
           "author": null,
           "description": "議員の辞職に伴う衆議院長崎3区の補欠選挙が4月16日に告示され、2人が立候補しました。今回の選挙は自民党が公認候補の擁立を見送り、野党候補どうしが対決する構図となり、政治とカネの問題などをめぐって論戦が展開される見通しです。",
@@ -1342,6 +1362,16 @@
           "wordCount": 587,
           "title": "衆議院長崎3区補欠選挙 立民と維新の2人が立候補 自民は見送り",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014422461_2404161145_0416115648_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423071000.html",
+          "author": null,
+          "description": "16日の東京外国為替市場は、15日にアメリカで発表された経済指標が市場の予想を上回ったことなどから、円安が一段と進み、円相場は1ドル＝154円台で取り引きされています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423071000.html",
+          "publishedOn": "2024-04-16T03:13:13.000Z",
+          "wordCount": 538,
+          "title": "東京外為市場 円安が一段と進む 1ドル＝154円台で取り引き",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423071_2404161212_0416121315_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240416/k10014422441000.html",
