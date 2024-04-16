@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T13:36:25.692Z</updated>
+    <updated>2024-04-16T13:50:28.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -194,6 +194,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423541000.html"/>
         <updated>2024-04-16T10:27:45.000Z</updated>
         <summary type="html"><![CDATA[書類を返送しないとマイナンバーがすべての預貯金の口座と強制的にひも付けられ国に管理されるとする不正確な情報が、旧ツイッターのXや動画共有アプリ「TikTok」で拡散されています。デジタル庁は実際にひも付けるかどうかは利用者が選択でき、強制的にひも付けられることはないとしていて、不正確な情報に注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約2500本の桜が満開 神奈川 相模原【ドローン撮影】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423681000.html"/>
+        <updated>2024-04-16T10:14:45.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県相模原市にある遊園地では、桜が満開となり、訪れた人たちは春色に染まる遊園地を楽しんでいました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
