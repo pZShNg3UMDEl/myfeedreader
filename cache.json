@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/16/news067.html",
+          "author": null,
+          "description": "ピカリング エレクトロニクスは、リードリレー「144」シリーズを発表した。定格電力が最大80Wで、低電圧や小電流の通電効率にも優れる。ミックスドシグナルICテスターやEV充電などに適する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/16/news067.html",
+          "publishedOn": "2024-04-16T00:00:00.000Z",
+          "wordCount": 2585,
+          "title": "定格電力最大80W、低電圧や小電流の通電効率が高いリードリレー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/16/cover_news067.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/15/news034.html",
           "author": null,
           "description": "「EE Times Japan」に掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、「身近に溢れる半導体技術」に関するおすすめをまとめました。",
@@ -1293,6 +1303,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423111000.html",
+          "author": null,
+          "description": "16日の東京株式市場、日経平均株価は、一時、700円以上値下がりしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423111000.html",
+          "publishedOn": "2024-04-16T00:54:46.000Z",
+          "wordCount": 726,
+          "title": "株価 一時 700円以上値下がり",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423111_2404160949_0416095447_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423141000.html",
+          "author": null,
+          "description": "「検索連動型」と呼ばれるインターネット広告の配信事業で、圧倒的なシェアを持つ「グーグル」が、競合する「LINEヤフー」の事業を不当に制限していた疑いがあるとして、公正取引委員会が調査に乗り出していたことが分かりました。関係者によりますと、「グーグル」は、事実関係を認めた上で、再発防止などを確約する計画を提出したということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423141000.html",
+          "publishedOn": "2024-04-16T00:32:29.000Z",
+          "wordCount": 672,
+          "title": "グーグルがLINEヤフーの広告事業を不当に制限か 公取委が調査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423141_2404160928_0416093231_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423061000.html",
           "author": null,
@@ -12744,6 +12774,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=242319",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
+          "link": "https://foodfighter.jp/sukiya-yangnyeom-cheese",
+          "publishedOn": "2024-04-16T00:46:27.000Z",
+          "wordCount": 1847,
+          "title": "【すき家】ヤンニョムチーズ牛丼【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/334264ed31e2d9cbcee2c2ed478c1c0b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=242294",
           "author": "foodfighter",

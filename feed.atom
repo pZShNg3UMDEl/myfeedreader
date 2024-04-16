@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T23:50:14.119Z</updated>
+    <updated>2024-04-16T00:58:19.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株価 一時 700円以上値下がり]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423111000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423111000.html"/>
+        <updated>2024-04-16T00:54:46.000Z</updated>
+        <summary type="html"><![CDATA[16日の東京株式市場、日経平均株価は、一時、700円以上値下がりしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【すき家】ヤンニョムチーズ牛丼【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=242319</id>
+        <link href="https://foodfighter.jp/sukiya-yangnyeom-cheese"/>
+        <updated>2024-04-16T00:46:27.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルがLINEヤフーの広告事業を不当に制限か 公取委が調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423141000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423141000.html"/>
+        <updated>2024-04-16T00:32:29.000Z</updated>
+        <summary type="html"><![CDATA[「検索連動型」と呼ばれるインターネット広告の配信事業で、圧倒的なシェアを持つ「グーグル」が、競合する「LINEヤフー」の事業を不当に制限していた疑いがあるとして、公正取引委員会が調査に乗り出していたことが分かりました。関係者によりますと、「グーグル」は、事実関係を認めた上で、再発防止などを確約する計画を提出したということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定格電力最大80W、低電圧や小電流の通電効率が高いリードリレー]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2404/16/news067.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2404/16/news067.html"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ピカリング エレクトロニクスは、リードリレー「144」シリーズを発表した。定格電力が最大80Wで、低電圧や小電流の通電効率にも優れる。ミックスドシグナルICテスターやEV充電などに適する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“テスラ 世界の従業員の10％以上を削減の方針” 欧米メディア]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014423061000.html</id>
