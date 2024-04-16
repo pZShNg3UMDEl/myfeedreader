@@ -293,6 +293,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73710",
+          "author": "Munenori Taniguchi",
+          "description": "ハリウッド俳優のキアヌ・リーブスが、セガのゲームを題材とした映画『ソニック・ザ・ムービー』シリーズ3作目に、シャドウ・ザ・ヘッジホッグの声優として出演するようだ。 Varietyなどが情報筋からの話として伝えるところでは、キアヌ・リーブスはソニック役のベン・シュワルツや悪役ドクター・ロボトニック役の […]",
+          "link": "https://gadget.phileweb.com/post-73710/",
+          "publishedOn": "2024-04-16T02:59:19.000Z",
+          "wordCount": 756,
+          "title": "映画『ソニック・ザ・ムービー』3作目にキアヌ・リーブス。シャドウ・ザ・ヘッジホッグ役",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/sonicshadow.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73711",
           "author": "多根清史",
           "description": "iPhoneのカメラは長年にわたり進化を遂げてきたが、それでもレンズフレアやゴーストといったアーティファクト（意図せず現れる不要な要素）からは逃れていない。しかし、アップルが次期「iPhone 16 Pro」モデル向けに新たな反射防止工学コーティング技術を施したカメラレンズをテスト中との噂が報じられ […]",
@@ -1313,6 +1323,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014422441000.html",
+          "author": null,
+          "description": "前の衆議院議長の細田博之氏の死去に伴う衆議院島根1区の補欠選挙が4月16日に告示され、2人が立候補しました。与野党が対決する構図となっていて、激しい選挙戦が繰り広げられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014422441000.html",
+          "publishedOn": "2024-04-16T03:00:09.000Z",
+          "wordCount": 680,
+          "title": "衆議院島根1区補欠選挙に2人が立候補 与野党が対決する構図",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014422441_2404161144_0416115303_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014422481000.html",
+          "author": null,
+          "description": "東京・江東区長選挙をめぐる選挙違反事件を受けて柿沢未途前法務副大臣が議員辞職したことに伴う衆議院東京15区の補欠選挙は4月16日に告示され、28日の投票日に向けて12日間の選挙戦に入りました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014422481000.html",
+          "publishedOn": "2024-04-16T02:49:34.000Z",
+          "wordCount": 674,
+          "title": "衆議院東京15区補欠選挙に9人立候補 自民・公明は擁立見送り",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014422481_2404160955_0416112406_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423211000.html",
           "author": null,
@@ -10224,6 +10254,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121061/",
+          "author": null,
+          "description": "マクドナルドの人気商品「チキンタツタ」と「名探偵コナン」の初コラボレーションが決定し、4月17日から期間限定メニューが販売されることがわかった。4月16日から2種類のオリジナルCMも全国で放送さ...",
+          "link": "https://anime.eiga.com/news/121061/",
+          "publishedOn": "2024-04-16T03:00:00.000Z",
+          "wordCount": 1635,
+          "title": "マクドナルトのチキンタツタと「名探偵コナン」が初コラボ　コナン、キッドらが登場するCMも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121027/",
           "author": null,
