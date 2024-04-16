@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T15:50:30.274Z</updated>
+    <updated>2024-04-16T16:17:08.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[円相場 約34年ぶりの円安ドル高水準 一時1ドル＝154円70銭台]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014423971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014423971000.html"/>
+        <updated>2024-04-16T15:54:55.000Z</updated>
+        <summary type="html"><![CDATA[16日のニューヨーク外国為替市場では円安が進み、円相場は一時、1ドル＝154円70銭台まで値下がりしておよそ34年ぶりの円安ドル高水準を更新しました。このところのアメリカの景気や物価に関する経済指標が相次いで市場の予想を上回ったことを受けて、市場ではFRB＝連邦準備制度理事会の利下げが遅れるとの見方が広がっていて、日米の金利差が意識されて円を売ってドルを買う動きが強まりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカー男子U-23 パリ五輪アジア最終予選 中国に勝利]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240417/k10014423991000.html</id>
@@ -19347,26 +19357,6 @@ This agreement was reached as a result of the mutual desires of Nikon and RED to
 Nikon will leverage this acquisition to expand the fast-growing professional digital cinema camera market, building on both companies' business foundations and networks, promising an exciting future of product development that will continue to push the boundaries of what is possible in film and video production.]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堀口英利の開示請求書面らしきもの]]></title>
-        <id>https://note.com/hima_kuuhaku/n/n071f859a2714</id>
-        <link href="https://note.com/hima_kuuhaku/n/n071f859a2714"/>
-        <updated>2024-03-18T03:50:49.000Z</updated>
-        <summary type="html"><![CDATA[本物かニセモノかしりません
-真偽は自分の目でたしかめてみてください
-ハッカーがアップしてURLを堀口系Youtuberにばらまいたみたいです
-あまりにアホな書面なのでニセモノと疑いたくなりますが
-書式は本人のものに似てます
-※追記
-開示請求じゃなくて削除仮処分しか申請してないそうですこの書面の差出人は
-ですからタイトルは「開示請求書面らしきもの」ではあるものの
-実態は「仮処分削除申請」のようですね
-以前は「開示と削除の同時申請」してたのに、仮削除だけ求めるなんてどうして・・・
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
