@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T21:35:38.068Z</updated>
+    <updated>2024-04-16T21:50:24.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[近年、ノートPCは薄型・軽量化が進み、持ち運びやすさと高い性能を両立させた製品が人気を集めている。各メーカーからさまざまな製品がリリースされ、その中でも「LG gram」シリーズは、圧倒的な軽さとバッテリー持ちの良さで高い評価を得ている。 “薄型軽量” と聞いて、真っ先にLG gramを思い浮かべる […]]]></summary>
         <author>
             <name>山本竜也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東日本や北日本 大気不安定で激しい雨 落雷や竜巻に注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424081000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424081000.html"/>
+        <updated>2024-04-16T21:24:32.000Z</updated>
+        <summary type="html"><![CDATA[上空の寒気などの影響で大気の状態が非常に不安定になり、東日本や北日本を中心に広い範囲で雨が降っていて、静岡県では17日朝、局地的に非常に激しい雨が降りました。大気の不安定な状態は17日夜遅くにかけて続く見込みで、気象庁は局地的な激しい雨や落雷や竜巻などの激しい突風に注意するよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
