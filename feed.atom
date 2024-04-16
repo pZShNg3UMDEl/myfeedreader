@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T00:58:19.855Z</updated>
+    <updated>2024-04-16T01:53:16.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[円安進む “必要に応じ万全の対応とる” 鈴木財務相]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423161000.html"/>
+        <updated>2024-04-16T01:31:16.000Z</updated>
+        <summary type="html"><![CDATA[外国為替市場で円安が進み、円相場が1ドル＝154円台になっていることについて、鈴木財務大臣は16日の閣議のあとの記者会見で「必要に応じて万全の対応をとる」と述べ、市場の動きをけん制しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル軍トップ 対抗措置の考え「領内攻撃には反応する」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423101000.html"/>
+        <updated>2024-04-16T01:28:35.000Z</updated>
+        <summary type="html"><![CDATA[イランによる大規模攻撃を受け、イスラエルがどのような対応をとるかが焦点となるなか、イスラエル軍のトップ、ハレビ参謀総長は15日、「イスラエル領内への攻撃には反応することになるだろう」と述べ、具体的な内容は明らかにしなかったものの何らかの対抗措置をとる考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[株価 一時 700円以上値下がり]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014423111000.html</id>
