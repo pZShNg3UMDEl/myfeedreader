@@ -10455,6 +10455,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121076/",
+          "author": null,
+          "description": "Netflixシリーズのアニメ「T・Pぼん」の本予告が公開された。メインキャラクターの並平凡（CV：若山晃久）、リーム（CV：種﨑敦美）、ブヨヨン（CV：宮野真守）の声が初披露されている。 19...",
+          "link": "https://anime.eiga.com/news/121076/",
+          "publishedOn": "2024-04-16T09:00:00.000Z",
+          "wordCount": 1647,
+          "title": "藤子・F・不二雄「T・Pぼん」アニメ本予告公開　若山晃久、種﨑敦美、宮野真守演じるメインキャラの声が初披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121061/",
           "author": null,
           "description": "マクドナルドの人気商品「チキンタツタ」と「名探偵コナン」の初コラボレーションが決定し、4月17日から期間限定メニューが販売されることがわかった。4月16日から2種類のオリジナルCMも全国で放送さ...",
@@ -12812,6 +12827,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=42330",
+          "author": "comomo",
+          "description": "こんにちは、いよいよGWが迫ってきましたね！ いざ連休があるとどうしよう！？という方もいらっしゃるはず。 今回は厚木市内で行われるGWイベントをまとめてみました！ 開催が早い順にご紹介していきますよーー♪ 「第1回 あつぎ地下マルシェ」【4…",
+          "link": "https://atsugi-lab.com/event-gw-atsugi2024/",
+          "publishedOn": "2024-04-16T09:12:02.000Z",
+          "wordCount": 1249,
+          "title": "【厚木ゴールデンウィーク2024】子どもと一緒に！厚木市内のGWイベントをまとめてみた★",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/04/Colorful-Fashion-Youtube-Intro.png"
+        },
         {
           "id": "https://atsugi-lab.com/?p=40318",
           "author": "fumie",
