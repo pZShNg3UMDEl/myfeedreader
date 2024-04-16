@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T04:35:36.887Z</updated>
+    <updated>2024-04-16T04:50:35.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[作家 宗田理さん死去 95歳 「ぼくらの七日間戦争」など]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423351000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423351000.html"/>
+        <updated>2024-04-16T04:44:09.000Z</updated>
+        <summary type="html"><![CDATA[小説「ぼくらの七日間戦争」のシリーズで知られる作家の宗田理さんが、4月8日、名古屋市の病院で肺炎のため亡くなりました。95歳でした。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核のごみ最終処分地めぐり佐賀県知事“新たな負担受け入れず”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014423301000.html</id>
@@ -32,6 +42,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423311000.html"/>
         <updated>2024-04-16T03:57:26.000Z</updated>
         <summary type="html"><![CDATA[4月、沖縄県の那覇空港で電動車いすの乗客が航空会社のピーチ・アビエーションの航空機に搭乗しようとしたところ、バッテリーの現物が確認できないことを理由に搭乗できなかったことがわかりました。国土交通省は、バッテリーは書類や口頭の申告でも確認が可能だとして、航空各社に通知しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内の金の小売価格 1グラム当たり1万3036円に 最高値更新]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423281000.html"/>
+        <updated>2024-04-16T03:40:43.000Z</updated>
+        <summary type="html"><![CDATA[中東情勢が緊迫化する中、比較的安全な資産として金を買う動きが広がり、国内の金の小売価格は16日、1グラム当たり1万3036円をつけ、最高値を更新しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
