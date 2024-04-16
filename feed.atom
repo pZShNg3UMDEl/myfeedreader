@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T14:50:29.034Z</updated>
+    <updated>2024-04-16T15:13:25.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パリオリンピック開幕まできょうで100日]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014423931000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014423931000.html"/>
+        <updated>2024-04-16T15:05:37.000Z</updated>
+        <summary type="html"><![CDATA[パリオリンピックの開幕まで17日で100日となりました。日本代表に内定している選手はこれまでにおよそ100人に上り、将来性豊かな10代の若手も名を連ね、大会での活躍に期待が寄せられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自民党｢多文化共生社会の実現へ向け、日本人はクルド人の理解をお願いします｣]]></title>
         <id>https://itainews.com/archives/2034760.html</id>
