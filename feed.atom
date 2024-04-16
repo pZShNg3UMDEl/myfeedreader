@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T10:13:47.704Z</updated>
+    <updated>2024-04-16T10:29:22.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[受動喫煙“女性の肺腺がんリスク高める可能性”国立がん研など]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423711000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423711000.html"/>
+        <updated>2024-04-16T10:01:32.000Z</updated>
+        <summary type="html"><![CDATA[国立がん研究センターなどのグループが、女性の肺がんの多くを占める「肺腺がん」と受動喫煙の関係を調べた結果、喫煙者のがん患者で見つかるタイプの遺伝子変異とは別の変異によって、がんのリスクが高まっている可能性があることがわかったと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『デイヴ・ザ・ダイバー』PS4，PS5版が本日（4/16）より発売。DualSense ワイヤレスコントローラーに対応しリアルな漁獲体験を可能に]]></title>
         <id>https://www.famitsu.com/news/202404/16339344.html</id>
