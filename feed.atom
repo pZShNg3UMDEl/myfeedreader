@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T04:50:35.271Z</updated>
+    <updated>2024-04-16T05:13:32.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[支援金制度 岸田首相 “国民に新たな負担求めることにならず”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423361000.html"/>
+        <updated>2024-04-16T05:11:30.000Z</updated>
+        <summary type="html"><![CDATA[少子化対策の財源確保のための「支援金制度」の導入について、岸田総理大臣は、社会保障負担率が上がることはなく、国民に新たな負担を求めることにはならないとして、重ねて理解を求めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作家 宗田理さん死去 95歳 「ぼくらの七日間戦争」など]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240416/k10014423351000.html</id>
@@ -18776,55 +18786,6 @@ Nikon will leverage this acquisition to expand the fast-growing professional dig
 続きをみる]]></summary>
         <author>
             <name>暇空茜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Postings - Week of 17 March 2024]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-17-march-2024.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/03/job-postings-week-of-17-march-2024.html"/>
-        <updated>2024-03-17T17:07:00.001Z</updated>
-        <summary type="html"><![CDATA[WeRide
-Camera Sensor Engineer
-San Jose, California, USA
-Link
-ISDI
-Image Sensor Engineer
-London, England, UK
-Link
-HRL Laboratories
-Focal Plane Engineer
-Camarillo, California, USA
-Link
-HRL Laboratories
-Senior Infrared Detector Research
-  Scientist
-Camarillo, California, USA
-Link
-Paul Scherrer Institute
-Postdoctoral Fellow in detector
-  development
-Villigen, Switzerland
-Link
-Kappa Optronics
-Engineer for image sensor and
-  camera technology
-Göttingen, Germany
-Link
-Caeleste
-Characterization Engineer
-Mechelen, Belgium
-Link
-University of Amsterdam - NIKHEF
-Postdoc position in ALICE and
-  Detector R&D for Experimental Particle Physics
-Amsterdam, Netherlands
-Link
-GE Healthcare
-Detector Mechanical Engineer
-Hino, Tokyo, Japan
-Link]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
