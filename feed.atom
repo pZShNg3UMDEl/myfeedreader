@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T11:35:50.240Z</updated>
+    <updated>2024-04-16T11:50:41.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -57,6 +57,16 @@
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「フローズン チョコバナナ」を世界一詳しく調査しました。   公式YouTubeチャンネル【進 […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海自 特別警備隊をインド太平洋地域に派遣 海上保安機関支援へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240416/k10014423751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240416/k10014423751000.html"/>
+        <updated>2024-04-16T11:11:34.000Z</updated>
+        <summary type="html"><![CDATA[海上自衛隊は、不審船などに対応する特殊部隊の「特別警備隊」をインド太平洋地域に派遣し、海上保安機関に対し立ち入り検査などに関する能力構築の支援を初めて行うと明らかにしました。この地域で中国の影響力が増すなか、支援を通じて地域の国々との関係を強化したいねらいがあるとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
