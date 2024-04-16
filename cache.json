@@ -1354,6 +1354,46 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423731000.html",
+          "author": null,
+          "description": "派閥の政治資金パーティーをめぐる問題で、自民党は離党勧告の処分となった安倍派の塩谷元文部科学大臣が請求していた処分の再審査を認めないことを決めました。これにより塩谷氏の処分が確定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423731000.html",
+          "publishedOn": "2024-04-16T09:58:55.000Z",
+          "wordCount": 718,
+          "title": "自民党 塩谷元文科相の離党勧告処分の再審査認めず 処分が確定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423731_2404161857_0416185857_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423631000.html",
+          "author": null,
+          "description": "能登半島地震の被災地への義援金を募るため、62年ぶりとなる「勧進大相撲」が東京 両国の国技館で開催され、石川県や富山県の出身力士などがファンを沸かせました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423631000.html",
+          "publishedOn": "2024-04-16T09:48:37.000Z",
+          "wordCount": 796,
+          "title": "「勧進大相撲」62年ぶりに 能登半島地震の被災地に義援金募る",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423631_2404161842_0416184519_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423621000.html",
+          "author": null,
+          "description": "上空の寒気などの影響で西日本や東日本を中心に大気の状態が不安定になり、局地的に激しい雨が降っています。大気の不安定な状態は17日にかけて続く見込みで、気象庁は落雷や竜巻などの激しい突風に注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423621000.html",
+          "publishedOn": "2024-04-16T09:43:59.000Z",
+          "wordCount": 624,
+          "title": "西～東日本 17日にかけ大気不安定 落雷や激しい突風に注意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423621_2404161734_0416173517_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423691000.html",
+          "author": null,
+          "description": "16日の東京外国為替市場は、アメリカで早期の利下げ観測が後退したことなどから円相場は一時、およそ34年ぶりの円安ドル高水準となる1ドル＝154円台半ばまで値下がりしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240416/k10014423691000.html",
+          "publishedOn": "2024-04-16T09:32:15.000Z",
+          "wordCount": 674,
+          "title": "円相場 一時1ドル＝154円台半ばに 約34年ぶりの円安ドル高水準",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240416/K10014423691_2404161805_0416183218_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240416/k10014423611000.html",
           "author": null,
           "description": "スマートフォンの基本ソフトなどで優越的な地位にある巨大IT企業を規制するための新たな法案が明らかになりました。競争の妨げとなる禁止行為をあらかじめ示したうえで、違反した場合には売り上げの20％を課徴金として支払わせるとしています。",
@@ -9401,6 +9441,16 @@
       "siteUrl": "https://www.famitsu.com/news/switch/",
       "articles": [
         {
+          "id": "https://www.famitsu.com/news/202404/16339344.html",
+          "author": null,
+          "description": "ネクソンは、ハイブリッド海洋アドベンチャーゲーム『デイヴ・ザ・ダイバー』をPlayStation4（PS4）、PlayStation5（PS5）向けに本日2024年4月16日より発売する。",
+          "link": "https://www.famitsu.com/news/202404/16339344.html",
+          "publishedOn": "2024-04-16T10:00:00.000Z",
+          "wordCount": 1715,
+          "title": "『デイヴ・ザ・ダイバー』PS4，PS5版が本日（4/16）より発売。DualSense ワイヤレスコントローラーに対応しリアルな漁獲体験を可能に",
+          "imageUrl": "https://www.famitsu.com/images/000/339/344/z_661dfc08e5e4f.jpg"
+        },
+        {
           "id": "https://www.famitsu.com/news/202404/16339277.html",
           "author": null,
           "description": "週刊ファミ通2024年5月2日号（No.1846／2024年4月18日発売）では、『百英雄伝』の発売記念特集記事を掲載。キャラクター紹介や開発者ロングインタビューなど盛りだくさんの内容でお届け。",
@@ -10464,6 +10514,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/121078/",
+          "author": null,
+          "description": "4月12日～14日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、4月12日公開の劇場版27作目「名探偵コナン 100万ドルの五稜星（みちしるべ）」が、今年最高のオープニング...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/121078/",
+          "publishedOn": "2024-04-16T10:00:00.000Z",
+          "wordCount": 1681,
+          "title": "【週末アニメ映画ランキング】「名探偵コナン 100万ドルの五稜星」が前作上回る今年最高の大ヒット発進、シリーズ累計1180億円突破",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121076/",
           "author": null,
