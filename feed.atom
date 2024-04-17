@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T03:13:31.630Z</updated>
+    <updated>2024-04-17T03:25:15.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【マクドナルド】マックフィズ 3種のかんきつミックス【期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=242476</id>
+        <link href="https://foodfighter.jp/mcdonalds-mcfizz-kankitsu"/>
+        <updated>2024-04-17T03:17:37.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪・関西万博 アメリカが夢洲でパビリオンの起工式]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424251000.html"/>
+        <updated>2024-04-17T03:12:30.000Z</updated>
+        <summary type="html"><![CDATA[来年の大阪・関西万博に参加するアメリカは、17日に会場となる大阪市の夢洲でパビリオンの起工式を行いました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエル対抗措置検討か “戦時内閣で意見対立”米有力紙]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240417/k10014424241000.html</id>

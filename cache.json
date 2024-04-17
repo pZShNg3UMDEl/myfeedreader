@@ -1364,6 +1364,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424251000.html",
+          "author": null,
+          "description": "来年の大阪・関西万博に参加するアメリカは、17日に会場となる大阪市の夢洲でパビリオンの起工式を行いました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424251000.html",
+          "publishedOn": "2024-04-17T03:12:30.000Z",
+          "wordCount": 674,
+          "title": "大阪・関西万博 アメリカが夢洲でパビリオンの起工式",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424251_2404171145_0417121232_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424241000.html",
           "author": null,
           "description": "イランによる大規模攻撃を受けて、イスラエル政府は対抗措置を検討しているものとみられます。こうした中、アメリカの有力紙は、イスラエルの戦時内閣のメンバーのあいだで意見対立があると伝え、どのような対応をとるのか見通せない状況となっています。",
@@ -13599,6 +13609,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=242476",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
+          "link": "https://foodfighter.jp/mcdonalds-mcfizz-kankitsu",
+          "publishedOn": "2024-04-17T03:17:37.000Z",
+          "wordCount": 1850,
+          "title": "【マクドナルド】マックフィズ 3種のかんきつミックス【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/8f8b19546d2ec6daf6236ef487df4abf.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=242451",
           "author": "foodfighter",
