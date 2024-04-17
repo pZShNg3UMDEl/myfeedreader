@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T23:36:52.641Z</updated>
+    <updated>2024-04-17T23:50:31.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -60,6 +60,26 @@
         <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425521000.html"/>
         <updated>2024-04-17T21:58:30.000Z</updated>
         <summary type="html"><![CDATA[アメリカのバイデン大統領は東部ペンシルベニア州にある鉄鋼業界の労働組合の本部を訪れて演説し、日本製鉄による大手鉄鋼メーカー、USスチールの買収計画について「完全にアメリカ企業であり続けるべきだ」と述べて買収に否定的な考えを改めて強調しました。秋の大統領選挙を前に労働者の支持を拡大する狙いがあるとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新潟水俣病集団訴訟 きょう判決 新潟地裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014425131000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425131000.html"/>
+        <updated>2024-04-17T21:56:24.000Z</updated>
+        <summary type="html"><![CDATA[新潟水俣病と認定されなかったり、特別措置法による救済策でも対象から外れたりした新潟県に住む人など47人が、国と原因企業に賠償を求めている裁判の判決が18日、新潟地方裁判所で言い渡されます。同様の集団訴訟では去年大阪地方裁判所が原告全員を水俣病と認めて国などに賠償を命じた一方、先月熊本地方裁判所は原告の訴えを退けていて、新潟地裁の判断が注目されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人口減少進む奄美群島 観光振興や住宅整備など支援検討 財務省]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014424941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014424941000.html"/>
+        <updated>2024-04-17T21:48:20.000Z</updated>
+        <summary type="html"><![CDATA[財務省が橋渡し役となってほかの省庁と連携しながら地域の活性化を支援する国の新たな取り組みが始まることになりました。人口減少が進む鹿児島県の奄美群島で観光振興や住宅の整備などの支援を検討します。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
