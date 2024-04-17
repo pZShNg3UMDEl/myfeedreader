@@ -1364,6 +1364,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424241000.html",
+          "author": null,
+          "description": "イランによる大規模攻撃を受けて、イスラエル政府は対抗措置を検討しているものとみられます。こうした中、アメリカの有力紙は、イスラエルの戦時内閣のメンバーのあいだで意見対立があると伝え、どのような対応をとるのか見通せない状況となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424241000.html",
+          "publishedOn": "2024-04-17T03:00:56.000Z",
+          "wordCount": 661,
+          "title": "イスラエル対抗措置検討か “戦時内閣で意見対立”米有力紙",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424241_2404171144_0417115347_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424221000.html",
           "author": null,
           "description": "日本の鈴木財務大臣と韓国のチェ・サンモク（崔相穆）副首相兼企画財政相が訪問先のアメリカで会談しました。韓国政府の発表では両国が通貨安について深刻な懸念を共有したうえで、急激な為替の変動に対しては適切な措置をとることができるという認識を確認したということです。",
@@ -10884,6 +10894,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121058/",
+          "author": null,
+          "description": "アヌシー国際アニメーション映画祭最高賞をはじめ、世界各国の映画祭でグランプリを連続受賞した、アニメーション映画「リンダはチキンがたべたい！」（公開中）の日本語吹替版で、安藤サクラとリリー・フラン...",
+          "link": "https://anime.eiga.com/news/121058/",
+          "publishedOn": "2024-04-17T03:00:00.000Z",
+          "wordCount": 1603,
+          "title": "安藤サクラ＆リリー・フランキー、海外アニメ「リンダはチキンがたべたい！」吹替版で「万引き家族」以来の共演　本編映像公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/rinkaipj/121081/",
           "author": null,
