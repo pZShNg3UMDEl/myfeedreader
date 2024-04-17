@@ -1394,6 +1394,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424751000.html",
+          "author": null,
+          "description": "自民党の派閥の政治資金パーティーをめぐる問題に関連し、茂木派は、17日の会合で、政治団体を解消することを決めました。一方で、グループとしての活動は継続する方針で、運営のあり方などを今後検討していくことにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424751000.html",
+          "publishedOn": "2024-04-17T09:09:03.000Z",
+          "wordCount": 704,
+          "title": "自民 茂木派 政治団体を解消へ グループの活動は継続する方針",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424751_2404171747_0417175636_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424721000.html",
+          "author": null,
+          "description": "新型コロナワクチンの接種後に死亡した人の遺族など、合わせて13人が国に対し「副反応などのマイナス情報を広報せずに被害を広げた」として、合わせて9100万円余りの賠償を求める訴えを起こしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424721000.html",
+          "publishedOn": "2024-04-17T08:57:31.000Z",
+          "wordCount": 502,
+          "title": "新型コロナワクチン接種後死亡 遺族らが国に賠償求め提訴",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424721_2404171752_0417175319_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424701000.html",
           "author": null,
           "description": "16日、栃木県那須町の山あいで全身が焼かれた2人の遺体が見つかった事件で、警察が事件について何らかの事情を知っているとみられる20代の男から任意で話を聴いていることが捜査関係者への取材でわかりました。警察は複数の人物が関わっている可能性があるとみてさらに詳しい調べを進めています。",
@@ -11104,6 +11124,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121084/",
+          "author": null,
+          "description": "「名探偵コナン 100万ドルの五稜星（みちしるべ）」の大ヒット御礼記念として、ファッション誌「CanCam」6月号（小学館刊）にスペシャルコラボアイテム「せやかて工藤!!! ふせん」が付属する。...",
+          "link": "https://anime.eiga.com/news/121084/",
+          "publishedOn": "2024-04-17T09:00:00.000Z",
+          "wordCount": 1632,
+          "title": "「CanCam」6月号付録は服部平次の「せやかて工藤!!! ふせん」　「名探偵コナン」とコラボ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121058/",
           "author": null,
