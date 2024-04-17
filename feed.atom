@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T03:50:23.826Z</updated>
+    <updated>2024-04-17T04:16:50.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YOSHIKIさん ドジャースタジアムで試合前のアメリカ国歌を演奏]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424321000.html"/>
+        <updated>2024-04-17T04:11:46.000Z</updated>
+        <summary type="html"><![CDATA[ミュージシャンのYOSHIKIさんが16日に、大リーグ、ドジャースの試合前にピアノでアメリカ国歌を演奏し、ベンチで大谷翔平選手や山本由伸投手と交流する場面がありました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3歳女児転落事故 自分で踏み台出しベランダの柵こえたか 広島]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424291000.html"/>
+        <updated>2024-04-17T03:43:37.000Z</updated>
+        <summary type="html"><![CDATA[16日夕方、広島市中区の高層マンションから3歳の女の子が転落して死亡した事故で、女の子はベランダに自分で出した踏み台から誤って柵をこえて転落したとみられることが、警察への取材で分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「PS5 Pro Enhanced」詳細判明か。未修正ゲームも「ウルトラブースト」で高画質化？]]></title>
         <id>https://gadget.phileweb.com/?p=73768</id>
@@ -19755,22 +19775,6 @@ HSINCHU, Feb. 22, 2024 /PRNewswire/ -- Artilux, the renowned leader of GeSi (ger
         <summary type="html"><![CDATA[ネクスペリアは、1.8V電子システムの監視、保護向けアナログスイッチ「NMUX1308」「NMUX1309」を発表した。車載向けのAEC-Q100準拠モデルと、家電製品などの民生、産業用途に適した標準モデルをそろえる。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikon to acquire RED.com]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/03/nikon-to-acquire-redcom.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/03/nikon-to-acquire-redcom.html"/>
-        <updated>2024-03-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From Nikon newsroom: https://www.nikon.com/company/news/2024/0307_01.html
-Nikon to Acquire US Cinema Camera Manufacturer RED.com, LLC
-March 7, 2024
-TOKYO - Nikon Corporation (Nikon) hereby announces its entry into an agreement to acquire 100% of the outstanding membership interests of RED.com, LLC (RED) whereby RED will become a wholly-owned subsidiary of Nikon, pursuant to a Membership Interest Purchase Agreement with Mr. James Jannard, its founder, and Mr. Jarred Land, its current President, subject to the satisfaction of certain closing conditions thereunder.
-Since its establishment in 2005, RED has been at the forefront of digital cinema cameras, introducing industry-defining products such as the original RED ONE 4K to the cutting-edge V-RAPTOR [X] with its proprietary RAW compression technology. RED's contributions to the film industry have not only earned it an Academy Award but have also made it the camera of choice for numerous Hollywood productions, celebrated by directors and cinematographers worldwide for its commitment to innovation and image quality optimized for the highest levels of filmmaking and video production.
-This agreement was reached as a result of the mutual desires of Nikon and RED to meet the customers’ needs and offer exceptional user experiences that exceed expectations, merging the strengths of both companies. Nikon's expertise in product development, exceptional reliability, and know-how in image processing, as well as optical technology and user interface along with RED’s knowledge in cinema cameras, including unique image compression technology and color science, will enable the development of distinctive products in the professional digital cinema camera market.
-Nikon will leverage this acquisition to expand the fast-growing professional digital cinema camera market, building on both companies' business foundations and networks, promising an exciting future of product development that will continue to push the boundaries of what is possible in film and video production.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>

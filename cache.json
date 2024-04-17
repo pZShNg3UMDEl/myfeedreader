@@ -1338,16 +1338,6 @@
           "wordCount": 4963,
           "title": "Artilux announces room temperature GeSi SPAD",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/03/nikon-to-acquire-redcom.html",
-          "author": null,
-          "description": "From Nikon newsroom: https://www.nikon.com/company/news/2024/0307_01.html\nNikon to Acquire US Cinema Camera Manufacturer RED.com, LLC\nMarch 7, 2024\nTOKYO - Nikon Corporation (Nikon) hereby announces its entry into an agreement to acquire 100% of the outstanding membership interests of RED.com, LLC (RED) whereby RED will become a wholly-owned subsidiary of Nikon, pursuant to a Membership Interest Purchase Agreement with Mr. James Jannard, its founder, and Mr. Jarred Land, its current President, subject to the satisfaction of certain closing conditions thereunder.\nSince its establishment in 2005, RED has been at the forefront of digital cinema cameras, introducing industry-defining products such as the original RED ONE 4K to the cutting-edge V-RAPTOR [X] with its proprietary RAW compression technology. RED's contributions to the film industry have not only earned it an Academy Award but have also made it the camera of choice for numerous Hollywood productions, celebrated by directors and cinematographers worldwide for its commitment to innovation and image quality optimized for the highest levels of filmmaking and video production.\nThis agreement was reached as a result of the mutual desires of Nikon and RED to meet the customers’ needs and offer exceptional user experiences that exceed expectations, merging the strengths of both companies. Nikon's expertise in product development, exceptional reliability, and know-how in image processing, as well as optical technology and user interface along with RED’s knowledge in cinema cameras, including unique image compression technology and color science, will enable the development of distinctive products in the professional digital cinema camera market.\nNikon will leverage this acquisition to expand the fast-growing professional digital cinema camera market, building on both companies' business foundations and networks, promising an exciting future of product development that will continue to push the boundaries of what is possible in film and video production.",
-          "link": "http://image-sensors-world.blogspot.com/2024/03/nikon-to-acquire-redcom.html",
-          "publishedOn": "2024-03-18T16:00:00.000Z",
-          "wordCount": 4682,
-          "title": "Nikon to acquire RED.com",
-          "imageUrl": null
         }
       ]
     },
@@ -1373,6 +1363,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424321000.html",
+          "author": null,
+          "description": "ミュージシャンのYOSHIKIさんが16日に、大リーグ、ドジャースの試合前にピアノでアメリカ国歌を演奏し、ベンチで大谷翔平選手や山本由伸投手と交流する場面がありました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424321000.html",
+          "publishedOn": "2024-04-17T04:11:46.000Z",
+          "wordCount": 759,
+          "title": "YOSHIKIさん ドジャースタジアムで試合前のアメリカ国歌を演奏",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424321_2404171254_0417131148_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424291000.html",
+          "author": null,
+          "description": "16日夕方、広島市中区の高層マンションから3歳の女の子が転落して死亡した事故で、女の子はベランダに自分で出した踏み台から誤って柵をこえて転落したとみられることが、警察への取材で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424291000.html",
+          "publishedOn": "2024-04-17T03:43:37.000Z",
+          "wordCount": 662,
+          "title": "3歳女児転落事故 自分で踏み台出しベランダの柵こえたか 広島",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424291_2404171157_0417124339_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424301000.html",
           "author": null,
