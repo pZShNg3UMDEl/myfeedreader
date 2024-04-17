@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T13:14:10.572Z</updated>
+    <updated>2024-04-17T13:26:08.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インドネシアで大規模噴火 津波の有無や日本への影響調査中]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014425151000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014425151000.html"/>
+        <updated>2024-04-17T13:11:58.000Z</updated>
+        <summary type="html"><![CDATA[今夜、インドネシアの火山で大規模な噴火が発生しました。気象庁は、噴火による津波の有無や日本への影響を調べています。気象庁によりますと、日本時間の17日午後9時ごろ、インドネシアのルアング火山で大規模な噴火が発生しました。大規模な噴火が起きると、気圧波による津波が発生することがあり、今回の噴火で津波が発生して日本に到達する場合、早いところで沖縄県で17日午後11時ごろと予想されています。この時間は、あくまで津波が発生したと仮定した場合の予想です。日本に影響があるかは、海外の検潮所での観測結果や気象衛星の画像などで調べることにしていて、今後の情報に注意してください。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米 バイデン政権 中国製の鉄鋼など関税3倍に引き上げ検討]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240417/k10014425041000.html</id>
