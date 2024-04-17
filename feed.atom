@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T14:50:16.852Z</updated>
+    <updated>2024-04-17T15:16:17.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】愛媛県と高知県で震度6弱 被害まとめ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014425241000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014425241000.html"/>
+        <updated>2024-04-17T15:10:17.000Z</updated>
+        <summary type="html"><![CDATA[17日午後11時14分ごろ、愛媛県と高知県で震度6弱の揺れを観測する地震がありました。各地の被害について随時更新でお伝えします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊方原子力発電所 これまでに地震による異常は確認されず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014425251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014425251000.html"/>
+        <updated>2024-04-17T14:59:04.000Z</updated>
+        <summary type="html"><![CDATA[原子力規制庁によりますと、先ほどの地震で震度4の揺れを観測した愛媛県伊方町にある伊方原子力発電所では、3号機が運転中で、これまでのところ先ほどの地震による異常は確認されていないということです。また、周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[気象庁が会見へ 愛媛県と高知県で震度6弱の地震受け]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014425211000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014425211000.html"/>
+        <updated>2024-04-17T14:48:49.000Z</updated>
+        <summary type="html"><![CDATA[17日午後11時すぎに愛媛県と高知県で震度6弱の揺れを観測した地震について、気象庁は18日午前1時10分から会見を開き、警戒すべき点や地震のメカニズムなどについて説明することにしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「白い錠剤で意識失い」「撮影直前まで暴行」元人気女優・若林志穂さんが告白「若い私を待ち受けていた“悪しき芸能界”」]]></title>
         <id>https://itainews.com/archives/2034790.html</id>
@@ -20388,15 +20418,6 @@ HSINCHU, Feb. 22, 2024 /PRNewswire/ -- Artilux, the renowned leader of GeSi (ger
 続きをみる]]></summary>
         <author>
             <name>暇空茜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ドラクエウォーク】しんぴの水晶を獲れなくても大丈夫!?まもなく終了の占い師ミネア装備の入手できない無課金勇者向けのお話。]]></title>
-        <id>https://www.youtube.com/watch?v=rOaCKNsmeOo</id>
-        <link href="https://www.youtube.com/watch?v=rOaCKNsmeOo"/>
-        <updated>2024-03-19T03:00:33.000Z</updated>
-        <author>
-            <name>YoshiZo</name>
         </author>
     </entry>
 </feed>
