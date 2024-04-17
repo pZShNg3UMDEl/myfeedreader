@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T22:38:23.502Z</updated>
+    <updated>2024-04-17T22:50:14.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【動画】震度5弱の愛媛 大洲 国道に大きな石など散乱 落石か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014425531000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425531000.html"/>
+        <updated>2024-04-17T22:38:41.000Z</updated>
+        <summary type="html"><![CDATA[18日午前7時ごろにNHKのヘリコプターが上空から撮影した愛媛県大洲市肱川地区の映像です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【記者解説】震度6弱 南海トラフの想定震源域との関連は]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240418/k10014425541000.html</id>
@@ -20656,17 +20666,6 @@ HSINCHU, Feb. 22, 2024 /PRNewswire/ -- Artilux, the renowned leader of GeSi (ger
         <updated>2024-03-20T06:00:02.000Z</updated>
         <author>
             <name>ドラゴンクエストウォーク公式</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家賠償請求訴訟③結審しました]]></title>
-        <id>https://note.com/hima_kuuhaku/n/n2f83a7c980f6</id>
-        <link href="https://note.com/hima_kuuhaku/n/n2f83a7c980f6"/>
-        <updated>2024-03-19T10:48:35.000Z</updated>
-        <summary type="html"><![CDATA[ひ「どうも、認知プロファイリング探偵暇空茜です」
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
