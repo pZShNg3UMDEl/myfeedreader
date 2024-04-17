@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73780",
+          "author": "多根清史",
+          "description": "ソニーは1990年代後半から2000年代にかけて、「PlayStation Experience Truck」と呼ばれる18輪の大型トラックで全米を巡回していた。トラックが停車すると側面が展開されてゲーム機とディスプレイがずらりと姿を現し、ファンはその場で新作や発売予定のゲームを体験できた。 その2 […]",
+          "link": "https://gadget.phileweb.com/post-73780/",
+          "publishedOn": "2024-04-17T04:52:36.000Z",
+          "wordCount": 770,
+          "title": "全米巡回した「PlayStationトレーラー」、約1000万円で販売中。別名「動くE3会場」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/ps.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73768",
           "author": "多根清史",
           "description": "ソニーがPS5の強化型、通称「PS5 Pro」を準備中であり、すでに開発者にテストキットを配布中であること、そして2024年内に発売する予定であるとの噂話は、昨日も報じたばかりだ。 それと合わせて、PS5 Proで強化されるゲームには「PS5 Pro Enhanced」ラベルが付与されるとの自称リー […]",
@@ -1363,6 +1373,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424391000.html",
+          "author": null,
+          "description": "天皇陛下は、17日に皇居で稲の種もみをまかれました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424391000.html",
+          "publishedOn": "2024-04-17T04:50:25.000Z",
+          "wordCount": 651,
+          "title": "天皇陛下 皇居内にある苗代で稲の種もみをまかれる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424391_2404171321_0417135027_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424381000.html",
           "author": null,
