@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T02:39:24.203Z</updated>
+    <updated>2024-04-17T02:50:23.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日韓財務相会談 “急激な為替変動には適切な措置 認識を確認”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424221000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424221000.html"/>
+        <updated>2024-04-17T02:38:30.000Z</updated>
+        <summary type="html"><![CDATA[日本の鈴木財務大臣と韓国のチェ・サンモク（崔相穆）副首相兼企画財政相が訪問先のアメリカで会談しました。韓国政府の発表では両国が通貨安について深刻な懸念を共有したうえで、急激な為替の変動に対しては適切な措置をとることができるという認識を確認したということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中学校の昇降口に車突っ込む けが人の情報なし 茨城 小美玉]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240417/k10014424211000.html</id>
