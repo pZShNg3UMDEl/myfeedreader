@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T14:13:57.249Z</updated>
+    <updated>2024-04-17T14:27:45.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【地震速報】愛媛県と高知県で震度6弱 津波の心配なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014425191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014425191000.html"/>
+        <updated>2024-04-17T14:17:05.000Z</updated>
+        <summary type="html"><![CDATA[１７日午後１１時１４分ごろ地震がありました。この地震による津波の心配はありません。震源地は豊後水道で震源の深さは５０キロ、地震の規模を示すマグニチュードは６．４と推定されます。各市町村の震度は以下のとおりです。▼震度６弱が、愛媛県愛南町、高知県宿毛市。▼震度５強が、愛媛県宇和島市。▼震度５弱が、愛媛県八幡浜市、愛媛県大洲市、愛媛県西予市、愛媛県内子町、愛媛県鬼北町、大分県佐伯市、大分県津久見市。▼震度４が、広島県呉市、広島県江田島市、広島県府中町、広島県大崎上島町、山口県防府市、山口県柳井市、山口県周防大島町、愛媛県松山市、愛媛県今治市、愛媛県西条市、愛媛県伊予市、愛媛県東温市、愛媛県久万高原町、愛媛県松前町、愛媛県砥部町、愛媛県伊方町、愛媛県松野町、高知県土佐清水市、高知県四万十市、高知県梼原町、高知県四万十町、高知県大月町、高知県三原村、高知県黒潮町、熊本県阿蘇市、熊本県産山村、熊本県高森町、熊本県あさぎり町、大分市、大分県別府市、大分県臼杵市、大分県竹田市、大分県宇佐市、大分県豊後大野市、大分県国東市、大分県姫島村、宮崎県延岡市、宮崎県えびの市、宮崎県高原町、宮崎県美郷町、宮崎県高千穂町、鹿児島県湧水町。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大泉洋と行く豪華客船クルーズ YOソロー! レポート6(2日目昼)]]></title>
         <id>https://logipara.com/?p=9943</id>
