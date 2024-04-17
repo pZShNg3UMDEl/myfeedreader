@@ -284,16 +284,6 @@
           "wordCount": 2593,
           "title": "電磁気学入門（8）ロイヤープッシュプル自励発振トランスとは",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/18/cover_news081.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/19/news043.html",
-          "author": null,
-          "description": "ネクスペリアは、1.8V電子システムの監視、保護向けアナログスイッチ「NMUX1308」「NMUX1309」を発表した。車載向けのAEC-Q100準拠モデルと、家電製品などの民生、産業用途に適した標準モデルをそろえる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/19/news043.html",
-          "publishedOn": "2024-03-19T00:00:00.000Z",
-          "wordCount": 2584,
-          "title": "1.8V電子システムの監視／保護用アナログスイッチ",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/19/cover_news043.jpg"
         }
       ]
     },
@@ -1403,6 +1393,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014425001000.html",
+          "author": null,
+          "description": "カンヌ映画祭などで数々の賞を受賞した是枝裕和監督らが17日、政府に対し、コンテンツ産業の活性化には、クリエーターの労働環境の改善や若手の育成が欠かせないとして、官民で業界を支える仕組みづくりなどを求めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014425001000.html",
+          "publishedOn": "2024-04-17T12:21:32.000Z",
+          "wordCount": 662,
+          "title": "是枝裕和監督や山崎貴監督らが政府にコンテンツ産業支援求める",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014425001_2404172114_0417211850_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424991000.html",
+          "author": null,
+          "description": "国土の大部分が砂漠地帯の国、中東のUAE＝アラブ首長国連邦は16日、記録的な大雨となりました。最大都市のドバイでは各地で浸水被害があり、世界有数の利用客数を誇るドバイ国際空港ではフライトの欠航や遅れが相次ぐなど、影響が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424991000.html",
+          "publishedOn": "2024-04-17T12:16:55.000Z",
+          "wordCount": 741,
+          "title": "UAEで記録的大雨 ドバイでは浸水被害 国際空港にも影響広がる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424991_2404172105_0417210825_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014425011000.html",
+          "author": null,
+          "description": "サッカー元日本代表でドイツ1部リーグのフランクフルトでプレーする40歳の長谷部誠選手が今シーズンかぎりで現役を引退することを表明しました。長谷部選手は、日本代表として通算114試合に出場し、ワールドカップでは2018年のロシア大会まで3大会連続でキャプテンを務めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014425011000.html",
+          "publishedOn": "2024-04-17T11:55:11.000Z",
+          "wordCount": 529,
+          "title": "長谷部誠 今シーズンで現役引退を表明 サッカー元日本代表主将",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014425011_2404172051_0417205513_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424621000.html",
+          "author": null,
+          "description": "赤や青、それに緑の交差点も。このところ、白線と白線の間に「カラー舗装」が施された横断歩道を見かけるようになりました。沖縄で、その背景を取材しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424621000.html",
+          "publishedOn": "2024-04-17T11:41:56.000Z",
+          "wordCount": 1204,
+          "title": "横断歩道 なぜカラーに？",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424621_2404172005_0417201351_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424781000.html",
           "author": null,
@@ -11174,6 +11204,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121086/",
+          "author": null,
+          "description": "サンエックスが展開する人気キャラクター「すみっコぐらし」初の舞台化が決定した。「パペットミュージカル すみっコぐらし とびだす絵本とひみつのコ」として、8月16日～9月1日に東京・品川プリンスホ...",
+          "link": "https://anime.eiga.com/news/121086/",
+          "publishedOn": "2024-04-17T12:00:00.000Z",
+          "wordCount": 1735,
+          "title": "「すみっコぐらし」今夏に初の舞台化　映画「とびだす絵本とひみつのコ」をパペットミュージカルに",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121085/",
           "author": null,
