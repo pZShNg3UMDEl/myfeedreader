@@ -1404,6 +1404,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424781000.html",
+          "author": null,
+          "description": "読売新聞社は、小林製薬の紅麹の成分を含むサプリメントの問題についての記事で、取引先の企業の談話にねつ造があったとして、17日の夕刊におわびの記事を掲載しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424781000.html",
+          "publishedOn": "2024-04-17T10:58:38.000Z",
+          "wordCount": 764,
+          "title": "読売新聞社 “紅麹サプリメント問題” 記事の談話をねつ造",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424781_2404171901_0417190900_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424881000.html",
+          "author": null,
+          "description": "投資ファンドのもとで経営の再建を進める東芝が国内の従業員の削減を検討していることが分かりました。削減の規模は全体のおよそ6％にあたる4000人前後となる可能性があり、今後、労働組合側と協議を行う方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424881000.html",
+          "publishedOn": "2024-04-17T10:54:44.000Z",
+          "wordCount": 729,
+          "title": "経営再建中の東芝 国内の従業員削減を検討 4000人前後の可能性",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424881_2404171932_0417194011_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424231000.html",
+          "author": null,
+          "description": "「美食の国」フランス・パリで開かれるこの夏のオリンピック。大会期間中、選手や観客やボランティアに提供される食事は、なるべく肉類を使わないようにするといいます。大会が掲げる目標に関係しているということですが、一体どういうことなのでしょうか？開幕まで17日で100日となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424231000.html",
+          "publishedOn": "2024-04-17T10:43:35.000Z",
+          "wordCount": 1322,
+          "title": "“美食の国” フランスで…掲げた目標とは? 五輪開幕まで100日",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424231_2404171857_0417185905_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424751000.html",
           "author": null,
           "description": "自民党の派閥の政治資金パーティーをめぐる問題に関連し、茂木派は、17日の会合で、政治団体を解消することを決めました。一方で、グループとしての活動は継続する方針で、運営のあり方などを今後検討していくことにしています。",
@@ -10958,6 +10988,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QTAJPw_kdos",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QTAJPw_kdos",
+          "publishedOn": "2024-04-17T11:03:22.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】バフ消し武器初ゲットなるか!?世界樹の天杖ガチャ他計30連で大勝利を狙う無課金勇者!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5bQMWHvjDc0",
           "author": null,
           "description": "",
@@ -11134,6 +11174,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121085/",
+          "author": null,
+          "description": "公開中の「劇場版ハイキュー!! ゴミ捨て場の決戦」の第5弾入場者特典が、原作者・古舘春一氏によるイラストを用いた原作単行本第37巻の「掛け替えカバー」に決定した。4月20日から配布を開始する。 ...",
+          "link": "https://anime.eiga.com/news/121085/",
+          "publishedOn": "2024-04-17T11:00:00.000Z",
+          "wordCount": 1666,
+          "title": "「劇場版ハイキュー!!」第5弾入場特典は音駒高校イラストの第37巻掛け替えカバー　応援上映の追加開催も決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/konki_ranking/121083/",
           "author": null,
