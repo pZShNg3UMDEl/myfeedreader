@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T15:50:23.318Z</updated>
+    <updated>2024-04-17T16:17:00.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sony IMX900 videos]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/04/sony-imx900-videos.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/04/sony-imx900-videos.html"/>
+        <updated>2024-04-17T16:00:00.001Z</updated>
+        <summary type="html"><![CDATA[This video presents Sony's 1/3.1" global shutter image sensor IMX900 with approx. 3.2 effective megapixels that is compact, high-resolution, and has improved near-infrared sensitivity. Here are its three features.
+================================= 
+Chapters
+ =================================
+0:00 Opening
+0:40 Compact, high resolution（1/3.1" 3.2MP）
+1:12 Improved incident light angle dependency
+3:00 Enhanced NIR region sensitivity
+3:41 Ending
+------------------------------------------------------------ 
+
+
+
+
+This video presents Sony's IMX900 global shutter image sensor, which is ideal for industrial applications such as barcode reading, picking robot, and AMR (autonomous mobile robots).　
+Here are the three functions that support optimal imaging for different scenarios.
+================================= 
+Chapters
+ =================================
+0:00 Opening
+0:27 Fast Auto Exposure
+1:42 Quad HDR（High Dynamic Range）
+2:22 Quad Shutter Control]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】高速道路や鉄道への影響]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014425341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425341000.html"/>
+        <updated>2024-04-17T15:53:18.000Z</updated>
+        <summary type="html"><![CDATA[地震による高速道路と鉄道への影響です。一部で通行止めや運転見合わせの区間があります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【専門家解説】震度6弱「南海トラフのプレート境界とは別」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240418/k10014425321000.html</id>
