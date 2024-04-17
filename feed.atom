@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T23:50:25.095Z</updated>
+    <updated>2024-04-17T00:59:11.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[次世代SDV車両の開発を簡素化する車載ソフトウェアプラットフォーム]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2404/17/news059.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2404/17/news059.html"/>
+        <updated>2024-04-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NXPセミコンダクターズは、車載ソフトウェアプラットフォーム「S32 CoreRide」を発表した。プロセッシング、車載ネットワーキングなど、同社の多様なハードウェア製品と統合ソフトウェアを組み合わせている。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マクドナルド】チキンタツタ（名探偵コナン）【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=242451</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“中国の物資がロシア武器生産に”米国務長官 懸念伝える考え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424091000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424091000.html"/>
+        <updated>2024-04-16T22:34:14.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ国務省は、中国からロシアに渡った物資が武器の生産に使われているとして、近く中国を訪れる予定のブリンケン国務長官が直接、懸念を伝えるとの見通しを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>

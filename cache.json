@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/17/news059.html",
+          "author": null,
+          "description": "NXPセミコンダクターズは、車載ソフトウェアプラットフォーム「S32 CoreRide」を発表した。プロセッシング、車載ネットワーキングなど、同社の多様なハードウェア製品と統合ソフトウェアを組み合わせている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/17/news059.html",
+          "publishedOn": "2024-04-17T00:00:00.000Z",
+          "wordCount": 2600,
+          "title": "次世代SDV車両の開発を簡素化する車載ソフトウェアプラットフォーム",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/17/cover_news059.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/16/news058.html",
           "author": null,
           "description": "「EE Times Japan×EDN Japan 統合電子版」の2024年4月号を発行しました。今号のEE Exclusive（電子版限定先行公開記事）は、『カスタムか、標準か：メモリベンダーの「生き残り戦略」を考察する』です。",
@@ -1353,6 +1363,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240417/k10014424091000.html",
+          "author": null,
+          "description": "アメリカ国務省は、中国からロシアに渡った物資が武器の生産に使われているとして、近く中国を訪れる予定のブリンケン国務長官が直接、懸念を伝えるとの見通しを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240417/k10014424091000.html",
+          "publishedOn": "2024-04-16T22:34:14.000Z",
+          "wordCount": 701,
+          "title": "“中国の物資がロシア武器生産に”米国務長官 懸念伝える考え",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240417/K10014424091_2404170728_0417073416_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240417/k10014422911000.html",
           "author": null,
