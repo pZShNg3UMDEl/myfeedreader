@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T05:12:57.026Z</updated>
+    <updated>2024-04-17T05:27:19.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トヨタ 「プリウス」 13万5000台余でリコール]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424341000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424341000.html"/>
+        <updated>2024-04-17T05:16:20.000Z</updated>
+        <summary type="html"><![CDATA[トヨタ自動車が、製造した「プリウス」について後部座席のドアを開けるスイッチの防水性能が不十分で、最悪の場合、走行中にドアが開くおそれがあるとして、13万5000台あまりのリコールを国土交通省に届け出ました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“北朝鮮軍事偵察衛星 近く打ち上げるための準備続く” 米分析]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424411000.html"/>
+        <updated>2024-04-17T05:12:44.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのシンクタンクは、北朝鮮の軍事偵察衛星の発射場の衛星写真を公表しました。分析から、打ち上げをいったん延期したものの、近く打ち上げるための準備が続いているとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全米巡回した「PlayStationトレーラー」、約1000万円で販売中。別名「動くE3会場」]]></title>
         <id>https://gadget.phileweb.com/?p=73780</id>
