@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T18:16:40.523Z</updated>
+    <updated>2024-04-17T18:36:10.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛媛 伊方原発 運転中の3号機の出力約2％低下 運転に影響なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014425471000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425471000.html"/>
+        <updated>2024-04-17T18:23:10.000Z</updated>
+        <summary type="html"><![CDATA[四国電力によりますと、震度4の揺れを観測した愛媛県伊方町にある伊方原子力発電所は運転中の3号機の出力がおよそ2％低下していることが確認されましたが、運転に影響はないとしています。また周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。四国電力はこの地震によって施設内の設備に異常がないかどうか引き続き、点検を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony IMX900 videos]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/04/sony-imx900-videos.html</id>
