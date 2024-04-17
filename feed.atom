@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T21:36:23.791Z</updated>
+    <updated>2024-04-17T21:50:32.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“確認できたロシア兵の死者5万人超” 英BBCなどの独自調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014425061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425061000.html"/>
+        <updated>2024-04-17T21:22:19.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナへの侵攻後、確認できたロシア兵の死者の数が5万人を超えたとイギリスの公共放送BBCが独自調査の結果として伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マクドナルド】シャカシャカポテト 焼きとうもろこし味【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=242552</id>
