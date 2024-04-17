@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T07:14:10.310Z</updated>
+    <updated>2024-04-17T07:24:06.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株価 500円以上値下がり 2か月ぶり3万8000円台割り込む]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240417/k10014424581000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240417/k10014424581000.html"/>
+        <updated>2024-04-17T07:12:33.000Z</updated>
+        <summary type="html"><![CDATA[17日の東京株式市場、日経平均株価は500円以上値下がりし、終値として、ことし2月以来、2か月ぶりに3万8000円台を割り込みました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【話題】惜しまれつつ1月に閉店した「トイザらス厚木店」に動きが！解体工事がスタートしていました。［厚木市妻田東］]]></title>
         <id>https://atsugi-lab.com/?p=42414</id>
