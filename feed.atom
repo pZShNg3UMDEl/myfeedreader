@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T03:36:35.009Z</updated>
+    <updated>2024-04-18T03:50:11.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[G20財務相・中央銀行総裁会議開幕 日米韓“円安など懸念共有”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014425691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425691000.html"/>
+        <updated>2024-04-18T03:40:39.000Z</updated>
+        <summary type="html"><![CDATA[G20＝主要20か国の財務相・中央銀行総裁会議が日本時間の18日朝、アメリカのワシントンで開幕し、世界経済の課題などについて意見を交わしました。これに先だって開かれた日米韓3か国の財務相会談では、最近の急速な円安や韓国の通貨、ウォンの値下がりに対する日本と韓国の深刻な懸念を共有し、外国為替市場の動向について緊密に協議していくことを確認しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 18で「メモアプリ」大幅強化？ ボイスメモや数学メモが追加、OneNote対抗か]]></title>
         <id>https://gadget.phileweb.com/?p=73851</id>
