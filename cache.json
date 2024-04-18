@@ -1494,6 +1494,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426361000.html",
+          "author": null,
+          "description": "能登半島地震の影響を受けた観光業を支援する「北陸応援割」について、石川県は大型連休明けの来月7日から2回目を実施し、2次避難している被災者を受け入れている宿泊施設に予算枠の追加配分を行うと発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014426361000.html",
+          "publishedOn": "2024-04-18T11:04:01.000Z",
+          "wordCount": 861,
+          "title": "石川県「北陸応援割」大型連休明けの来月7日から2回目を実施",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014426361_2404181932_0418194102_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426091000.html",
           "author": null,
           "description": "愛媛県と高知県で震度6弱を観測した地震が発生した直後から、旧ツイッターのXには人工地震だとする偽情報などが多く投稿されました。地震の専門家は「人工地震という主張は『違う』と言える」と否定しています。なぜ「違う」と言えるのか。そもそも、大地震のたびに拡散する「人工地震」とは？",
@@ -11844,6 +11854,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121091/",
+          "author": null,
+          "description": "「シティーハンター」「キャッツアイ」などで知られる漫画家・北条司氏の展覧会「北条司展 The road to 『CITY HUNTER』40th anniversary 2025 ～Limite...",
+          "link": "https://anime.eiga.com/news/121091/",
+          "publishedOn": "2024-04-18T11:00:00.000Z",
+          "wordCount": 1680,
+          "title": "「北条司展」6月23日まで都内で開催中　デビュー作から連載作品まで約170点の原画を展示",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121093/",
           "author": null,
