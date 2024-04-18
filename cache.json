@@ -1494,6 +1494,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426241000.html",
+          "author": null,
+          "description": "高野連＝日本高校野球連盟は、ことしから導入した反発力を抑えた新基準の金属バットのうち、5つのメーカーのバットが基準を満たしていないことがわかったとして、19日から使用を禁止すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014426241000.html",
+          "publishedOn": "2024-04-18T12:04:54.000Z",
+          "wordCount": 661,
+          "title": "新基準の金属バット 5社が基準満たさず使用禁止に 高野連",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014426241_2404182052_0418210434_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426161000.html",
           "author": null,
           "description": "岸田総理大臣は、政治資金規正法の改正を今の国会で実現するため、与党の協議を通じて自民党としての考え方もできるだけ早く明らかにしたいという意向を示しました。",
@@ -11874,6 +11884,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121089/",
+          "author": null,
+          "description": "「ファイアパンチ」「チェンソーマン」で知られる漫画家・藤本タツキ氏の読み切り作品を劇場アニメ化する「ルックバック」の本予告映像とメインビジュアルが、このほど公開された。 コミック配信サイト「ジャ...",
+          "link": "https://anime.eiga.com/news/121089/",
+          "publishedOn": "2024-04-18T12:00:00.000Z",
+          "wordCount": 1653,
+          "title": "藤本タツキ原作の劇場アニメ「ルックバック」本予告映像公開　河合優実＆吉田美月喜の“声”が心を揺さぶる",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121091/",
           "author": null,
