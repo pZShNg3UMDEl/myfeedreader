@@ -1414,6 +1414,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425661000.html",
+          "author": null,
+          "description": "運送業界の人手不足などに対応するため、警察庁は、道路交通法の施行規則を改正し、トラックやバスなど大型や中型の車両についても、普通車と同じように、オートマチック車限定の免許で運転できるようにする新たな制度を導入する方針を固めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014425661000.html",
+          "publishedOn": "2024-04-18T02:57:25.000Z",
+          "wordCount": 580,
+          "title": "大型・中型車に「AT限定」免許 再来年から導入へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014425661_2404181136_0418113743_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425671000.html",
           "author": null,
           "description": "16日、栃木県那須町の山あいで全身が焼かれた2人の遺体が見つかった事件で、現場近くの林道から河原まで遺体を引きずったような跡があったことが捜査関係者への取材で分かりました。警察は別の場所から車で運ばれて遺棄された疑いがあるとみて捜査を進めています。",
@@ -11544,6 +11554,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121047/",
+          "author": null,
+          "description": "日本最大級の“声優”特化型イベント「超声優祭 2024 Powered by dwango , Supported by ディズニープラス」が、4月22日～28日にネット開催される。そのメインで...",
+          "link": "https://anime.eiga.com/news/121047/",
+          "publishedOn": "2024-04-18T03:00:00.000Z",
+          "wordCount": 1762,
+          "title": "「超声優祭 2024」MCの緑川光、諏訪部順一ら出演者発表　「Kis-My-Ft2」玉森裕太が初参加、宮田俊哉は3年連続",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121087/",
           "author": null,
