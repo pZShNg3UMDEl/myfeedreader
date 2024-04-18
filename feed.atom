@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T14:50:36.679Z</updated>
+    <updated>2024-04-18T15:13:42.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[長野自動車道一部通行止め ペットボトル散乱 トラック事故]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014426751000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014426751000.html"/>
+        <updated>2024-04-18T14:57:43.000Z</updated>
+        <summary type="html"><![CDATA[長野県塩尻市の長野自動車道で、大型トラックが単独事故を起こし、積み荷のペットボトルが路上に散乱しました。長野自動車道は現場付近で一時、上下線とも通行止めになっていましたが、下り線の通行止めは解除されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政府 地震調査委員会 南海トラフ地震“特段の変化観測されず”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014426701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014426701000.html"/>
+        <updated>2024-04-18T14:54:59.000Z</updated>
+        <summary type="html"><![CDATA[17日夜遅く、愛媛県と高知県で震度6弱の揺れを観測した地震について、政府の地震調査委員会は「南海トラフ地震が起きる可能性がふだんと比べて高まったと考えられる特段の変化は観測されていない」と評価したうえで、巨大地震の切迫性が高い状態は続いているとして、日頃からの備えを呼びかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[命がけで飼い主を守った犬は瀕死の重体…酔ったナンパ男4人、被害女性の犬を暴行し逃走「酷い、鬼です！」「絶対に許せない」]]></title>
         <id>https://itainews.com/archives/2034815.html</id>
