@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T21:21:46.516Z</updated>
+    <updated>2024-04-18T21:35:29.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[身寄りのない高齢者の生活支援 自治体の負担明らかに 実態調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014426501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014426501000.html"/>
+        <updated>2024-04-18T21:22:07.000Z</updated>
+        <summary type="html"><![CDATA[寄りのない高齢者の生活支援については、家族に代わって自治体や社会福祉協議会、それに民間の事業者も担っていますが、それぞれどの程度の負担があるのか国が実態を調査したところ、公的な手続き以外にもニーズが多岐にわたることから自治体などのほうがより負担を感じていることが明らかになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G20財務相・中央銀行総裁会議が閉幕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014426491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014426491000.html"/>
+        <updated>2024-04-18T21:20:25.000Z</updated>
+        <summary type="html"><![CDATA[ワシントンで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は、気候変動や途上国支援に関する議論を行い閉幕しました。鈴木財務大臣は記者会見で、円安ドル高が進むなか、あわせて開かれた日本、アメリカ、韓国の3か国やG7＝主要7か国の財務相の会合で為替市場の動向について緊密に意思疎通ができたと成果を述べました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那須町遺体遺棄事件 被害者の男性 飲食店のトラブル複数証言]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240419/k10014426691000.html</id>
