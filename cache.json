@@ -1484,6 +1484,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426221000.html",
+          "author": null,
+          "description": "北海道の浦幌町にあるアイヌの団体が川でサケをとることは先住民の権利、先住権によって認められるとして法律などで規制されないことの確認を求めた裁判で、札幌地方裁判所は18日、訴えを退ける判決を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014426221000.html",
+          "publishedOn": "2024-04-18T10:09:45.000Z",
+          "wordCount": 741,
+          "title": "“川でサケ漁” アイヌ先住権訴訟 訴え退ける判決 札幌地裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014426221_2404181850_0418190750_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426121000.html",
           "author": null,
           "description": "地図アプリの中で利用者の数が日本で最も多いとされるグーグルマップに表示される「クチコミ」に、不当な内容が投稿されても削除してもらえず、利益が侵害されたなどとして、都内の医師など63の個人と団体がグーグルに対し、あわせて140万円あまりの損害賠償を求める訴えを起こしました。",
@@ -11814,6 +11824,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121093/",
+          "author": null,
+          "description": "板垣恵介氏による漫画「刃牙」シリーズの最新作「刃牙らへん」のコミックス1巻の発売を記念して、4月18日発売の「週刊少年チャンピオン」20号（秋田書店刊）で「刃牙ワールド大集結祭」が実施されている...",
+          "link": "https://anime.eiga.com/news/121093/",
+          "publishedOn": "2024-04-18T10:00:00.000Z",
+          "wordCount": 1616,
+          "title": "「週刊少年チャンピオン」で“刃牙ワールド大集結祭”　「刃牙らへん」が巻頭カラー、外伝漫画の出張掲載も",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121094/",
           "author": null,
