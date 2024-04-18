@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T21:50:22.741Z</updated>
+    <updated>2024-04-18T22:11:54.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パレスチナの国連加盟めぐる決議案 アメリカが拒否権行使 否決]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014426571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014426571000.html"/>
+        <updated>2024-04-18T21:55:50.000Z</updated>
+        <summary type="html"><![CDATA[国連で「オブザーバー国家」の地位にあるパレスチナについて、正式な加盟国になることを勧告する決議案が安全保障理事会に提出され、日本時間の19日午前6時すぎに採決が行われました。その結果、理事国15か国のうち日本を含む12か国が賛成しましたが、イギリスとスイスが棄権し、アメリカが拒否権を行使して、決議案は否決されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[身寄りのない高齢者の生活支援 自治体の負担明らかに 実態調査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240419/k10014426501000.html</id>
