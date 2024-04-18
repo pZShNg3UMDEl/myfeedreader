@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T19:21:03.005Z</updated>
+    <updated>2024-04-18T19:36:13.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パキスタン アフガニスタン各地で洪水 あわせて100人以上死亡]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014426741000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014426741000.html"/>
+        <updated>2024-04-18T19:33:14.000Z</updated>
+        <summary type="html"><![CDATA[パキスタンと、アフガニスタンでは、断続的に大雨が降り続いた影響で、各地で洪水が発生するなどして、これまでにあわせて100人以上が死亡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋田県全域 運用開始から最も早い「ツキノワグマ出没警報」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240419/k10014426471000.html</id>
