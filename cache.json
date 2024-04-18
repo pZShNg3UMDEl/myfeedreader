@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73867",
+          "author": "多根清史",
+          "description": "主にゲーマーに人気の高いコミュニケーション・プラットフォームDiscordでは、公開サーバー上で無数のやり取りが飛びかっている。Spy Petというオンラインサービスが、そうした40億以上メッセージをスクレイピング（収集）して販売している。 米ニュースメディア404 Mediaによると、Spy Pe […]",
+          "link": "https://gadget.phileweb.com/post-73867/",
+          "publishedOn": "2024-04-18T04:19:39.000Z",
+          "wordCount": 768,
+          "title": "Discordユーザー約6億人のメッセージを販売するスパイサービスの存在が明らかに",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_2333858283.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73850",
           "author": "Munenori Taniguchi",
           "description": "TikTokが準備していると言われていたInstagram競合の新サービス「TikTok Notes」が、試験的な展開をカナダおよびオーストラリア市場で開始した。アプリは両国のApp Store、Google Play Storeからダウンロード可能になっている。 各ストアの説明には「TikTok  […]",
@@ -1433,6 +1443,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425861000.html",
+          "author": null,
+          "description": "日本製鉄によるUSスチールの買収計画をめぐりアメリカのバイデン大統領が「完全にアメリカ企業であり続けるべきだ」と述べたことについて、両社が声明を発表し、「USスチールはアメリカの象徴的な企業であり続ける」などとして、買収がアメリカ全体にとっても利益をもたらすものだと強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014425861000.html",
+          "publishedOn": "2024-04-18T04:29:34.000Z",
+          "wordCount": 705,
+          "title": "“米の象徴的な企業であり続ける”日本製鉄とUSスチールが声明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014425861_2404181315_0418132936_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425851000.html",
+          "author": null,
+          "description": "北日本から西日本の広い範囲に黄砂が飛来し、黄砂で見通しが悪くなっている地域があるほか、東京の都心でも観測されています。見通しが悪くなった場合は交通への影響が出るおそれがあり、気象庁が注意を呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014425851000.html",
+          "publishedOn": "2024-04-18T04:27:42.000Z",
+          "wordCount": 718,
+          "title": "北～西日本 広範囲に黄砂飛来 東京都心も観測 交通影響に注意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014425851_2404181305_0418131306_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425711000.html",
           "author": null,
