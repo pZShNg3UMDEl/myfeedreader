@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73850",
+          "author": "Munenori Taniguchi",
+          "description": "TikTokが準備していると言われていたInstagram競合の新サービス「TikTok Notes」が、試験的な展開をカナダおよびオーストラリア市場で開始した。アプリは両国のApp Store、Google Play Storeからダウンロード可能になっている。 各ストアの説明には「TikTok  […]",
+          "link": "https://gadget.phileweb.com/post-73850/",
+          "publishedOn": "2024-04-18T03:59:59.000Z",
+          "wordCount": 774,
+          "title": "TikTok、Instagram風サービス「TikTok Notes」テスト開始。カナダとオーストラリアにて",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/TTN_SC1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73851",
           "author": "多根清史",
           "description": "次期iOS 18は「史上最大級のアップデート」になるといわれ、Siriへの生成AI機能の導入やホーム画面のアプリアイコン配置が自由になるとの噂も伝えられてきた。その一方で、既存アプリがどう更新されるか、新規アプリは存在するのかといった具体的な情報は乏しかった。 そんななか、標準メモアプリ（英語名No […]",
@@ -1423,6 +1433,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425711000.html",
+          "author": null,
+          "description": "能登半島地震で震度7の揺れを観測した石川県志賀町では、今も水道が出にくかったり、建物の修理のめどが立たなかったりする状況が続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014425711000.html",
+          "publishedOn": "2024-04-18T03:55:37.000Z",
+          "wordCount": 772,
+          "title": "震度7観測の石川 志賀町 水道が出にくい状況が続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014425711_2404181248_0418125539_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425761000.html",
+          "author": null,
+          "description": "東京 渋谷区でインターネット広告の代理店や、ウェブサイトの運営会社を経営している44歳の会社役員が、架空の外注費などを計上する手口で、法人税などおよそ1億9000万円を脱税したとして、東京国税局から告発されました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014425761000.html",
+          "publishedOn": "2024-04-18T03:44:19.000Z",
+          "wordCount": 742,
+          "title": "約1億9000万円脱税か ネット広告代理店経営の会社役員を告発",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014425761_2404181231_0418124420_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425691000.html",
           "author": null,
