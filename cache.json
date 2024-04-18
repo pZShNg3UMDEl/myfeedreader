@@ -1484,6 +1484,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426131000.html",
+          "author": null,
+          "description": "バドミントンの男子シングルス、元世界ランキング1位の桃田賢斗選手が18日、記者会見を開き「気持ちと体のギャップが続き、世界一を目指すところまでいけないと判断した」と述べ、日本代表を引退することを明らかにしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014426131000.html",
+          "publishedOn": "2024-04-18T08:52:58.000Z",
+          "wordCount": 734,
+          "title": "バドミントン 桃田賢斗 日本代表を引退へ 選手活動は継続",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014426131_2404181724_0418175300_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425991000.html",
           "author": null,
           "description": "首都圏の1都3県で先月発売された新築マンションの平均価格は7623万円で、5か月ぶりに前の年の同じ月を下回りました。去年、高額物件の発売が相次いだ反動で下落しましたが、建設コストの上昇で価格は引き続き高い水準となっています。",
@@ -11794,6 +11804,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121094/",
+          "author": null,
+          "description": "藤原ここあさんのラブコメディ漫画をテレビアニメ化する「かつて魔法少女と悪は敵対していた。」に、三木眞一郎、伊瀬茉莉也、緑川光が出演することが決定した。第2弾PV「～Side 魔法少女～」も公開さ...",
+          "link": "https://anime.eiga.com/news/121094/",
+          "publishedOn": "2024-04-18T09:00:00.000Z",
+          "wordCount": 1715,
+          "title": "「かつて魔法少女と悪は敵対していた。」ドラマCD出演の三木眞一郎、伊瀬茉莉也、緑川光が再集結　新PVも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121047/",
           "author": null,
