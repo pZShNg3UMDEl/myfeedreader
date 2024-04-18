@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T05:14:08.557Z</updated>
+    <updated>2024-04-18T05:28:33.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“なりすまし広告”で被害 責任求めメタ社の日本法人を提訴へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014425881000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014425881000.html"/>
+        <updated>2024-04-18T05:10:11.000Z</updated>
+        <summary type="html"><![CDATA[有名人などになりすましたニセの広告による詐欺などの被害が相次いでいますが、真実かどうかを調べずに広告を掲載したSNSの運営会社に責任があるとして国内の被害者4人が、「フェイスブック」の運営元のメタ社の日本法人を相手取り、近く、損害賠償を求める訴えを起こすことになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歌舞伎町 売春目的の客待ち問題で宿泊施設に初の一斉立ち入り]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240418/k10014425841000.html</id>
