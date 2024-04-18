@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T06:50:32.715Z</updated>
+    <updated>2024-04-18T07:13:25.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秋篠宮さま 石川 穴水町を訪問 被災の農家をお見舞い]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014426041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014426041000.html"/>
+        <updated>2024-04-18T07:10:02.000Z</updated>
+        <summary type="html"><![CDATA[秋篠宮さまは、能登半島地震で甚大な被害を受けた石川県穴水町を訪れ、被災した農家を見舞われました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boston Dynamics、人型ロボ「Atlas」後継機を公開。完全電動式に進化]]></title>
+        <id>https://gadget.phileweb.com/?p=73896</id>
+        <link href="https://gadget.phileweb.com/post-73896/"/>
+        <updated>2024-04-18T07:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Boston Dynamics社は、油圧式の二足歩行ロボット「Atlas」の引退を発表。2013年に初公開され、身長は約1.8m、重量は約150kg。当時としては世界最高峰の技術が使われ、ジャンプをしたりバク宙をしたり、パルクールを実演したりと注目を集めた。その有終の美を飾るように、これまで見たこと […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR総武快速線 東京駅～千葉駅 上下線で運転見合わせ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240418/k10014426061000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240418/k10014426061000.html"/>
+        <updated>2024-04-18T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[JR総武快速線は、午後3時半ごろに千葉市にある稲毛駅で起きた人身事故の影響で、東京駅と千葉駅の間の上下線で運転を見合わせています。JRによりますと運転再開は午後4時半ごろを見込んでいるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『GTA』販売元Take-Twoが従業員の約5％を削減、複数のタイトルも開発中止へ]]></title>
         <id>https://gadget.phileweb.com/?p=73880</id>

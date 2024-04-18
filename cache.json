@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73896",
+          "author": "多根清史",
+          "description": "Boston Dynamics社は、油圧式の二足歩行ロボット「Atlas」の引退を発表。2013年に初公開され、身長は約1.8m、重量は約150kg。当時としては世界最高峰の技術が使われ、ジャンプをしたりバク宙をしたり、パルクールを実演したりと注目を集めた。その有終の美を飾るように、これまで見たこと […]",
+          "link": "https://gadget.phileweb.com/post-73896/",
+          "publishedOn": "2024-04-18T07:04:40.000Z",
+          "wordCount": 757,
+          "title": "Boston Dynamics、人型ロボ「Atlas」後継機を公開。完全電動式に進化",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/header.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73880",
           "author": "Munenori Taniguchi",
           "description": "Rockstar Games、2Kといったゲーム開発会社の親会社であるTake-Twoが、全世界の従業員の「約5％」を解雇し、いくつかのプロジェクトを廃止することを明らかにした。 火曜日に発表した米証券取引委員会（SEC）への提出書類では、年間1億6500万ドル以上を目標とする「コスト削減プログラム […]",
@@ -1453,6 +1463,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426041000.html",
+          "author": null,
+          "description": "秋篠宮さまは、能登半島地震で甚大な被害を受けた石川県穴水町を訪れ、被災した農家を見舞われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014426041000.html",
+          "publishedOn": "2024-04-18T07:10:02.000Z",
+          "wordCount": 692,
+          "title": "秋篠宮さま 石川 穴水町を訪問 被災の農家をお見舞い",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014426041_2404181543_0418160512_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240418/k10014426061000.html",
+          "author": null,
+          "description": "JR総武快速線は、午後3時半ごろに千葉市にある稲毛駅で起きた人身事故の影響で、東京駅と千葉駅の間の上下線で運転を見合わせています。JRによりますと運転再開は午後4時半ごろを見込んでいるということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240418/k10014426061000.html",
+          "publishedOn": "2024-04-18T06:58:00.000Z",
+          "wordCount": 718,
+          "title": "JR総武快速線 東京駅～千葉駅 上下線で運転見合わせ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240418/K10014426061_2404181555_0418155802_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240418/k10014425921000.html",
           "author": null,
