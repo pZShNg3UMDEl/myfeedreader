@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T20:35:49.242Z</updated>
+    <updated>2024-04-19T20:50:13.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高速道路舗装工事 契約と異なる使用済み材料を使用 NIPPO]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014427991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014427991000.html"/>
+        <updated>2024-04-19T20:44:03.000Z</updated>
+        <summary type="html"><![CDATA[道路の舗装工事などを手がける大手の「NIPPO」が請け負った高速道路の工事で、新品のアスファルトを使う契約だったにもかかわらず、使用済みの材料を使って施工していたことが分かりました。国土交通省は路面の耐久性に問題がないかなどについて調査するよう求めていて、会社は「国に初期の報告を行った。公表することも含めて検討している」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政治資金規正法改正 自民 来週前半にも党の案をまとめる方針]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014427711000.html</id>
