@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T04:35:36.742Z</updated>
+    <updated>2024-04-19T04:50:19.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パキスタン南部のカラチ 車が襲撃され日本人男性1人けが]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427231000.html"/>
+        <updated>2024-04-19T04:38:22.000Z</updated>
+        <summary type="html"><![CDATA[パキスタン南部の都市カラチにある日本総領事館によりますと、現地時間の19日午前、カラチに住む日本人の企業関係者が乗った車が何者かに襲撃され、日本人の男性1人が軽いけがをしたということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナワクチン 約2億4000万回分 額で6600億円余が廃棄へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240419/k10014427101000.html</id>
