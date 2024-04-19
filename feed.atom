@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T04:15:25.753Z</updated>
+    <updated>2024-04-19T04:35:36.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナワクチン 約2億4000万回分 額で6600億円余が廃棄へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427101000.html"/>
+        <updated>2024-04-19T04:03:10.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナワクチンの無料接種が先月末で終了したことに伴い、廃棄されるワクチンが合わせておよそ2億4000万回分、額にして6600億円余りに上ることがわかりました。武見厚生労働大臣は「獲得競争の中で確保したもので、むだとは考えていない」としています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愛媛・高知 余震相次ぐ 20日夜からは土砂災害に注意]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240419/k10014427071000.html</id>
