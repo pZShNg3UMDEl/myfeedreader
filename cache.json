@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/18/news063.html",
+          "author": null,
+          "description": "「EDN Japan」に掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、新入社員が知っておきたい超入門「電気・電源の仕組み」に関するおすすめ記事をまとめました。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/18/news063.html",
+          "publishedOn": "2024-04-19T03:30:00.000Z",
+          "wordCount": 2587,
+          "title": "身近な半導体技術　～電気・電源の仕組みをおさらいしよう～",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/18/81458_w190.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/18/news162.html",
           "author": null,
           "description": "ロームは、VCSELをレーザー光向けの樹脂製光拡散材で封止した赤外線光源「VCSELED」を開発した。照射角度や発光波長幅、温度変化、応答速度などに優れる。",
@@ -1488,16 +1498,6 @@
           "wordCount": 3761,
           "title": "A Job Opening with Euresys",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/03/artilux-announces-room-temperature-gesi.html",
-          "author": null,
-          "description": "From PR NewsWire: https://www.prnewswire.com/news-releases/artilux-announces-groundbreaking-gesi-spad-research-published-in-nature-journal-302068638.html\n \nHSINCHU, Feb. 22, 2024 /PRNewswire/ -- Artilux, the renowned leader of GeSi (germanium-silicon) photonics technology for CMOS (complementary metal-oxide-semiconductor) based SWIR (short-wavelength infrared) sensing and imaging, announced today that the research team at Artilux has made a breakthrough in advancing SWIR GeSi SPAD (single-photon avalanche diode) technology, which has been recognized and published by Nature, one of the world's most prestigious scientific journals. The paper, titled \"Room temperature operation of germanium-silicon single-photon avalanche diode,\" presented the Geiger-mode operation of a high-performing GeSi a…",
-          "link": "http://image-sensors-world.blogspot.com/2024/03/artilux-announces-room-temperature-gesi.html",
-          "publishedOn": "2024-03-20T16:03:00.000Z",
-          "wordCount": 4963,
-          "title": "Artilux announces room temperature GeSi SPAD",
-          "imageUrl": null
         }
       ]
     },
@@ -1523,6 +1523,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427071000.html",
+          "author": null,
+          "description": "17日に震度6弱の揺れを観測した愛媛県と高知県ではその後も余震が相次いでいて、気象庁は揺れの強かった地域では今後1週間ほどは最大震度6弱程度の地震に注意するよう呼びかけています。一方、20日夜から21日にかけて大気が不安定な状態が続く見込みで気象台は揺れの大きかった地域は地盤が緩んでいる可能性があるとして土砂災害に十分注意するよう呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427071000.html",
+          "publishedOn": "2024-04-19T03:58:10.000Z",
+          "wordCount": 761,
+          "title": "愛媛・高知 余震相次ぐ 20日夜からは土砂災害に注意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427071_2404191248_0419125306_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427081000.html",
+          "author": null,
+          "description": "急速に普及が進むAI＝人工知能の開発に必要なスーパーコンピューターの国内での整備を後押ししようと、経済産業省は、通信大手のKDDIなど5社に対し、合わせて最大725億円を補助すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427081000.html",
+          "publishedOn": "2024-04-19T03:50:52.000Z",
+          "wordCount": 689,
+          "title": "AI開発へ スーパーコンピューター国内整備で最大725億円を補助",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427081_2404191229_0419125054_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427031000.html",
           "author": null,
@@ -12245,16 +12265,6 @@
           "publishedOn": "2024-03-22T08:43:25.000Z",
           "wordCount": null,
           "title": "【ドラクエウォーク】ギガモンデスパレス戦を円月輪＋ＳＰ装備で上位を狙う!!装備難民向け1週目攻略!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lpTVNWqw4Bg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lpTVNWqw4Bg",
-          "publishedOn": "2024-03-20T16:14:01.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォーク】超強力ブレス武器実装!!ドランゴの闘斧!!無課金勇者はドランゴ装備ガチャにジェム投入して全力で引くべきなのか!?",
           "imageUrl": null
         }
       ]
