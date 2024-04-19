@@ -1524,6 +1524,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427121000.html",
+          "author": null,
+          "description": "兵庫県の宝塚音楽学校で入学式が行われ、40人が舞台人への第一歩を踏み出しました。校長は、去年、宝塚歌劇団の劇団員が死亡した問題に触れ、「時代の変化に合わせて組織風土の改革や改善をしていきたい」と述べました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427121000.html",
+          "publishedOn": "2024-04-19T05:00:02.000Z",
+          "wordCount": 682,
+          "title": "宝塚音楽学校 入学式 校長「時代の変化に合わせ組織風土改革」",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427121_2404191234_0419135638_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427231000.html",
           "author": null,
           "description": "パキスタン南部の都市カラチにある日本総領事館によりますと、現地時間の19日午前、カラチに住む日本人の企業関係者が乗った車が何者かに襲撃され、日本人の男性1人が軽いけがをしたということです。",
@@ -12294,6 +12304,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121101/",
+          "author": null,
+          "description": "「ユーリ!!! on ICE 劇場版 ICE ADOLESCENCE」の製作中止が発表された。 同作は、当初2019年の公開を予定していたが、同年に公開延期となり、20年11月に「公開時期につい...",
+          "link": "https://anime.eiga.com/news/121101/",
+          "publishedOn": "2024-04-19T05:10:00.000Z",
+          "wordCount": 1641,
+          "title": "劇場版「ユーリ!!! on ICE」製作中止",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121039/",
           "author": null,
