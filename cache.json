@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/18/news162.html",
+          "author": null,
+          "description": "ロームは、VCSELをレーザー光向けの樹脂製光拡散材で封止した赤外線光源「VCSELED」を開発した。照射角度や発光波長幅、温度変化、応答速度などに優れる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/18/news162.html",
+          "publishedOn": "2024-04-19T00:00:00.000Z",
+          "wordCount": 2583,
+          "title": "垂直共振器型面発光レーザー素子と光拡散材を組み合わせた赤外線光源",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/18/cover_news162.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/18/news012.html",
           "author": null,
           "description": "自動車の新機能採用やソフトウェア定義型自動車（SDV）などの成長中のトレンドを実現するために必要なゾーンアーキテクチャおよびイーサネットについて解説します。",
@@ -1493,6 +1503,46 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014426861000.html",
+          "author": null,
+          "description": "警視庁によりますと19日午前7時ごろ、東京 渋谷区本町の路上で、警察官が車で向かってきた男に対し拳銃を発砲しました。男は20代とみられ、公務執行妨害の疑いでその場で逮捕され、現在、病院に運ばれて手当てを受けていますが、命に別状はないということです。当時、警察官は110番通報を受けて自転車で現場に向かっていたということで、警視庁が詳しい状況を調べています。現場は京王線 初台駅から北西に500メートルほど離れた住宅街です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014426861000.html",
+          "publishedOn": "2024-04-19T00:56:54.000Z",
+          "wordCount": 688,
+          "title": "東京 渋谷 警察官が車で向かってきた男に発砲 命に別状なし",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014426861_2404190857_0419085858_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014426871000.html",
+          "author": null,
+          "description": "19日の東京株式市場、日経平均株価は700円以上、値下がりしています。アメリカでこのところの経済指標の発表などを受けて早期の利下げ観測が後退したことから、18日のニューヨーク市場ではハイテク関連の銘柄などが値下がりしました。この流れを受けて19日の東京市場でも取引開始直後から半導体関連などの銘柄を中心に売り注文が広がっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014426871000.html",
+          "publishedOn": "2024-04-19T00:33:24.000Z",
+          "wordCount": 580,
+          "title": "株価700円以上値下がり NY市場の流れ受けて",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014426871_2404190923_0419093326_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014426481000.html",
+          "author": null,
+          "description": "イタリアで開かれているG7＝主要7か国の外相会合はウクライナ情勢をめぐって討議を行いました。上川外務大臣は、ロシアに対する厳しい制裁とウクライナへの支援を継続していく方針を強調しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014426481000.html",
+          "publishedOn": "2024-04-19T00:11:00.000Z",
+          "wordCount": 677,
+          "title": "G7外相会合 ウクライナめぐり討議 上川外相“支援を継続”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014426481_2404190907_0419091041_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014426781000.html",
+          "author": null,
+          "description": "ドイツの検察当局は、軍事施設などへの破壊工作を計画していたなどとしてドイツとロシア双方の国籍を持つ2人を逮捕したと発表しました。ウクライナへの軍事支援の妨害をねらっていたとされ、地元メディアはウクライナ軍の兵士が訓練を受ける軍事施設などが標的とされていたと伝えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014426781000.html",
+          "publishedOn": "2024-04-19T00:08:49.000Z",
+          "wordCount": 721,
+          "title": "ドイツ “軍事施設への破壊工作計画” 2人逮捕",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014426781_2404190906_0419090827_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014426831000.html",
           "author": null,
