@@ -323,6 +323,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=74005",
+          "author": "編集部：伴 修二郎",
+          "description": "Jackery Japanは、最新ポータブル電源とソーラーパネルのメディア向け体験会を都内某所で開催した。体験会の模様をレポートしていく。 “ちょうどいい”仕様を実現した中容量モデル「600 Plus」 「Jackery Solar Generator 600 Plus 100W」は、リン酸鉄リチウ […]",
+          "link": "https://gadget.phileweb.com/post-74005/",
+          "publishedOn": "2024-04-19T10:26:35.000Z",
+          "wordCount": 902,
+          "title": "Jackeryの新ポータブル電源「600 Plus」体験会。“ちょうどいい”仕様で需要喚起",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/DSC09074.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73984",
           "author": "編集部：松永達矢",
           "description": "SB C&Sは、CORSAIRの配信向けデバイスブランド「Elgato（エルガト）」より、親しみやすいデザインと手頃な価格をコンセプトとした配信向けデバイス「Elgato Neoシリーズ」を、4月20日（土）より順次発売する。ラインナップ、および税込予想実売価格は以下の通り。 ・「Strea […]",
@@ -1563,6 +1573,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427221000.html",
+          "author": null,
+          "description": "女性1人が一生に出産する子どもの数を示した出生率の5年間の全国平均は1.33でした。特に東京23区や政令指定都市などの都市部で低い傾向が続いていて、専門家は「都市部は独身者が多く出生率は低くなりやすい。結婚・出産を支援する環境づくりが重要だ」と話しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427221000.html",
+          "publishedOn": "2024-04-19T10:19:32.000Z",
+          "wordCount": 925,
+          "title": "「合計特殊出生率」東京23区など低い傾向に",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427221_2404191525_0419163455_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427651000.html",
+          "author": null,
+          "description": "「セブン‐イレブン」の大阪 東大阪市にあった店舗の元オーナーが24時間営業を自発的にやめたあと、本部から契約を解除されたことなどをめぐる裁判で、最高裁判所は19日までに上告を退ける決定をし、本部側の訴えを認めて元オーナーに店舗の明け渡しなどを命じた判決が確定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427651000.html",
+          "publishedOn": "2024-04-19T10:15:22.000Z",
+          "wordCount": 685,
+          "title": "セブン元オーナーに店舗の明け渡しなど命じた判決確定 最高裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427651_2404191839_0419191525_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427661000.html",
           "author": null,
