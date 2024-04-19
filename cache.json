@@ -323,6 +323,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73984",
+          "author": "編集部：松永達矢",
+          "description": "SB C&Sは、CORSAIRの配信向けデバイスブランド「Elgato（エルガト）」より、親しみやすいデザインと手頃な価格をコンセプトとした配信向けデバイス「Elgato Neoシリーズ」を、4月20日（土）より順次発売する。ラインナップ、および税込予想実売価格は以下の通り。 ・「Strea […]",
+          "link": "https://gadget.phileweb.com/post-73984/",
+          "publishedOn": "2024-04-19T09:22:19.000Z",
+          "wordCount": 810,
+          "title": "Elgato、シンプルデザインと手頃な価格の配信デバイス「Neoシリーズ」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/0001.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73982",
           "author": "Munenori Taniguchi",
           "description": "ケンブリッジ大学臨床医学部が発表した最新の研究で、OpenAIのGPT-4が眼科医師向けの多肢選択式の模擬試験を行い、研修医やまだ経験の浅い若手の医師よりも高いスコアを記録したと発表した。 PLOS Digital Healthに掲載されたこの研究には、眼科専門医5人、眼科研修医3人、専門外の若手医 […]",
@@ -1553,6 +1563,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014426841000.html",
+          "author": null,
+          "description": "「高い！」大型連休を前にホテルを予約しようとしたとき、そう感じた方もいるのではないでしょうか。昨年度の平均の消費者物価指数が発表され、ホテルなどの「宿泊料」は、前の年度より25点5％上昇しました。影響は、働く人の「出張」にも…。上昇はいつまで続くのか、取材しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014426841000.html",
+          "publishedOn": "2024-04-19T09:11:32.000Z",
+          "wordCount": 1194,
+          "title": "ホテルが高い…観光需要の回復などで「宿泊料」25％余上昇",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014426841_2404191328_0419161847_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427001000.html",
           "author": null,
