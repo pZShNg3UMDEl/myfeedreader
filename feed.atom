@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T22:11:44.930Z</updated>
+    <updated>2024-04-19T22:26:56.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[緑の花を咲かせる桜「御衣黄」が見頃 奈良 春日大社の植物園]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014427501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014427501000.html"/>
+        <updated>2024-04-19T22:16:40.000Z</updated>
+        <summary type="html"><![CDATA[奈良市の春日大社にある植物園で緑色の花を咲かせる桜「御衣黄（ぎょいこう）」が見頃を迎えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「支援金制度」創設 子ども・子育て支援法など改正案 参院へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014427721000.html</id>
