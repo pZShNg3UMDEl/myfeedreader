@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T17:12:19.271Z</updated>
+    <updated>2024-04-19T17:27:20.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -336,6 +336,16 @@ The high sensitivity, resolution, and global shutter of this sensor along with m
         <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427691000.html"/>
         <updated>2024-04-19T10:38:00.000Z</updated>
         <summary type="html"><![CDATA[安定的な皇位継承のあり方をめぐり、自民党は、政府の有識者会議の報告書に盛り込まれた皇族数を確保する方策に沿った党の考えをまとめ、来週にも衆参両院の議長に報告することになりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川県 能登半島地震踏まえた被害想定 今年度中に取りまとめへ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427681000.html"/>
+        <updated>2024-04-19T10:33:03.000Z</updated>
+        <summary type="html"><![CDATA[石川県の防災会議が震災対策部会の会合を開き、能登半島地震の影響を踏まえた新たな被害想定を今年度中にまとめる方針を確認しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
