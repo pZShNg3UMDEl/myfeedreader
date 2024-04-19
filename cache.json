@@ -323,6 +323,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73964",
+          "author": "Munenori Taniguchi",
+          "description": "チームコラボレーションツールのSlackは、生成AIツール「Slack AI」をすべての有料プランユーザーに開放。また4月18日から日本語サポートの提供を開始した。 これまでEnterpriseプラン加入者のみに提供していたが、ProプランやBusinessプラン加入者でも有料アドオンとして利用可能 […]",
+          "link": "https://gadget.phileweb.com/post-73964/",
+          "publishedOn": "2024-04-19T06:58:57.000Z",
+          "wordCount": 760,
+          "title": "Slack、生成AIツール「Slack AI」を全有料ユーザーに開放。日本語サポートも開始",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/SlakAI1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73966",
           "author": "多根清史",
           "description": "マイクロソフトはWindows 11の次期大型アップデート「24H2」にて、高度なAI機能を統合すると噂されている。その目玉機能といわれるのが「AIエクスプローラー」である。 これは同社が標榜する「AI PC」と非AI PCを分かつ画期的なAI体験であり、PC上で行ったすべての操作を自然言語により検 […]",
@@ -1533,6 +1543,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427331000.html",
+          "author": null,
+          "description": "全国有数の桜の名所、青森県の弘前公園で19日、園内のソメイヨシノが満開を迎え、セレモニーが行われました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427331000.html",
+          "publishedOn": "2024-04-19T06:53:33.000Z",
+          "wordCount": 664,
+          "title": "青森 弘前公園でソメイヨシノが満開 セレモニー開催",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427331_2404191549_0419155335_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427351000.html",
           "author": null,
