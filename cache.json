@@ -1554,6 +1554,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427001000.html",
+          "author": null,
+          "description": "高野連＝日本高校野球連盟などは、ことしの夏の全国高校野球について、新たな暑さ対策として、試合を午前と夕方に分けて行う2部制を開幕から3日間に限って、導入することを決めました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427001000.html",
+          "publishedOn": "2024-04-19T09:10:57.000Z",
+          "wordCount": 972,
+          "title": "高校野球 夏の甲子園 午前と夕方の2部制を一部導入 暑さ対策で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427001_2404191535_0419175714_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427521000.html",
+          "author": null,
+          "description": "「外貨建て一時払い保険」という金融商品をめぐり、金融庁が、不適切な販売を行う金融機関が相次いでいると指摘したことを受けて、生命保険協会の清水博会長は、販売に関する指針を見直すなど対策を強化していく考えを示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427521000.html",
+          "publishedOn": "2024-04-19T08:48:10.000Z",
+          "wordCount": 741,
+          "title": "外貨建て一時払い保険 “販売の指針見直す” 生命保険協会会長",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427521_2404191739_0419174638_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427261000.html",
           "author": null,
           "description": "17日に震度6弱の揺れを観測した愛媛県と高知県では、余震が相次ぎ、影響が続いています。影響や19日の動きをまとめました。",
@@ -12484,6 +12504,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121109/",
+          "author": null,
+          "description": "MBS/TBS系28局「スーパーアニメイズム TURBO」枠内で放送中のテレビアニメ「WIND BREAKER」に、戸谷菊之介、梅原裕一郎、小林千晃、水中雅章、峯田大夢の出演が決定した。 にいさ...",
+          "link": "https://anime.eiga.com/news/121109/",
+          "publishedOn": "2024-04-19T09:00:00.000Z",
+          "wordCount": 1625,
+          "title": "「WIND BREAKER」獅子頭連メンバー役に戸谷菊之介、梅原裕一郎、小林千晃、水中雅章、峯田大夢",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121101/",
           "author": null,
