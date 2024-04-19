@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T23:15:15.966Z</updated>
+    <updated>2024-04-19T23:26:43.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国軍「情報支援部隊」創設 “軍の現代化を加速” 習主席]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428001000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428001000.html"/>
+        <updated>2024-04-19T23:13:20.000Z</updated>
+        <summary type="html"><![CDATA[中国軍は、軍の情報システムを統括する「情報支援部隊」を創設し、習近平国家主席は「国防と軍の現代化を加速させるうえで大きな意義がある」と強調しました。2015年に創設され、サイバー空間や宇宙の分野などを担ったとされる「戦略支援部隊」は廃止され部隊の再編が進められる見通しです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[千葉県 災害で孤立のおそれ 約500集落 能登半島地震受け調査]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014427791000.html</id>
@@ -98,6 +108,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428091000.html"/>
         <updated>2024-04-19T21:46:05.000Z</updated>
         <summary type="html"><![CDATA[北朝鮮は、ミサイル総局が19日午後、朝鮮半島西側の黄海で新型の地対空ミサイルの発射実験を実施したと、20日、国営の朝鮮中央通信を通じて発表しました。また、あわせて戦略巡航ミサイルの弾頭の威力を確認する実験も実施したとしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（4月20日の動き）]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014389551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014389551000.html"/>
+        <updated>2024-04-19T21:40:14.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる20日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
