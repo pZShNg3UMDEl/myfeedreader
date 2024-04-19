@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T22:37:19.380Z</updated>
+    <updated>2024-04-19T22:50:28.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[収賄容疑で医師逮捕 “6年前から使用率が大幅増加”捜査関係者]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014427731000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014427731000.html"/>
+        <updated>2024-04-19T22:35:07.000Z</updated>
+        <summary type="html"><![CDATA[東京労災病院の医師が、都内の医療機器メーカーの製品を優先的に使う見返りに、現金を受け取ったとして逮捕された事件で、メーカーの担当者が営業を始めた6年前から使用率が大幅に上がったことが捜査関係者への取材で分かりました。警視庁はメーカー側との関係を深めたいきさつを調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大阪】不十分な濃度測定が原因　万博会場工事のガス爆発]]></title>
         <id>https://itainews.com/archives/2034845.html</id>
