@@ -304,16 +304,6 @@
           "wordCount": 2583,
           "title": "105℃の高温環境に対応する、2016サイズの小型差動出力水晶発振器",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/22/cover_news088.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html",
-          "author": null,
-          "description": "ケイデンス・デザイン・システムズは、車載向けのDSP（デジタルシグナルプロセッサ） IPコア「Vision 341 DSP」「Vision 331 DSP」を発表した。4Dイメージングレーダー用途向けの「Cadence Tensilica Vision 4DR Accelerator」との併用で、3倍以上の性能向上が可能になる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html",
-          "publishedOn": "2024-03-21T00:00:00.000Z",
-          "wordCount": 2648,
-          "title": "積和演算性能が最大6倍に、車載向けDSP IPコア",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/21/cover_news047.jpg"
         }
       ]
     },
@@ -1573,6 +1563,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427701000.html",
+          "author": null,
+          "description": "岡山県にある国立ハンセン病療養所では患者本人の承諾を得たとして遺体の解剖が行われていましたが療養所が記録の一部を抽出して調査したところ、およそ2割は承諾を取ったとされる日に患者の死後の日付が記入され記録がねつ造された可能性があることが分かりました。専門家は「同意がないまま解剖が行われ、患者の人権が守られていなかったのではないか」と指摘しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427701000.html",
+          "publishedOn": "2024-04-19T12:16:58.000Z",
+          "wordCount": 931,
+          "title": "岡山 ハンセン病療養所 遺体の解剖記録 ねつ造された可能性",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427701_2404192052_0419211140_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427481000.html",
           "author": null,
@@ -12645,6 +12645,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121110/",
+          "author": null,
+          "description": "声優の江口拓也が世界観設定、キャラクターデザインを手がけたカードゲーム「EGUMI LEGACY（エグミレガシー）」のアニメ化が決定した。「貝社員」のモリ・マサが監督を務め、江口も声優として出演...",
+          "link": "https://anime.eiga.com/news/121110/",
+          "publishedOn": "2024-04-19T12:00:00.000Z",
+          "wordCount": 1649,
+          "title": "江口拓也がキャラ原案　カードゲーム「EGUMI LEGACY」が「貝社員」監督によりアニメ化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121092/",
           "author": null,
           "description": "アニメ「おぼっちゃまくん」の特別映像「友だちんこエピソードまとめぶぁ～い！」が、YouTubeの「おぼっちゃまくん」公式チャンネルで公開中だ。 「友だちんこ」は、「おぼっちゃまくん」で友達同士の...",
@@ -15611,16 +15626,6 @@
           "wordCount": 1178,
           "title": "【業態変更・リニューアル】「ワイン酒場 ゴルゴン9」がいつの間にか閉店→「スマイリ商店 ハナレ」として4月1日オープン予定［厚木市中町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/gorgon9-202404.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=41767",
-          "author": "comomo",
-          "description": "3月に入ると、桜の開花予想が気になりソワソワしてしまうももこ＠あつらぼです。 本厚木駅徒歩圏内で桜の名所といえば、相模川三川合流地点河川敷の桜ですよね！ 今年も、厚木北地区青少年広場で桜祭りが開催されるそうですよー♪ 「第41回　厚木観光桜…",
-          "link": "https://atsugi-lab.com/event-sakuramatsuri202403/",
-          "publishedOn": "2024-03-21T00:14:58.000Z",
-          "wordCount": 1141,
-          "title": "【イベント】「第41回　厚木観光桜祭り」が3月24日に厚木北地区青少年広場で開催予定★前夜には花火もあるらしい！［厚木市厚木］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/event-sakuramatsuri202403.jpg"
         }
       ]
     },

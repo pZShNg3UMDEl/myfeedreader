@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T11:50:36.463Z</updated>
+    <updated>2024-04-19T12:24:15.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岡山 ハンセン病療養所 遺体の解剖記録 ねつ造された可能性]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427701000.html"/>
+        <updated>2024-04-19T12:16:58.000Z</updated>
+        <summary type="html"><![CDATA[岡山県にある国立ハンセン病療養所では患者本人の承諾を得たとして遺体の解剖が行われていましたが療養所が記録の一部を抽出して調査したところ、およそ2割は承諾を取ったとされる日に患者の死後の日付が記入され記録がねつ造された可能性があることが分かりました。専門家は「同意がないまま解剖が行われ、患者の人権が守られていなかったのではないか」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江口拓也がキャラ原案　カードゲーム「EGUMI LEGACY」が「貝社員」監督によりアニメ化]]></title>
+        <id>https://anime.eiga.com/news/121110/</id>
+        <link href="https://anime.eiga.com/news/121110/"/>
+        <updated>2024-04-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[声優の江口拓也が世界観設定、キャラクターデザインを手がけたカードゲーム「EGUMI LEGACY（エグミレガシー）」のアニメ化が決定した。「貝社員」のモリ・マサが監督を務め、江口も声優として出演...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「1人もお客さんが来ませんでした」アイドルの告白に反響　観客0のステージで歌う姿に「プロ過ぎ」「胸にくる」]]></title>
         <id>https://itainews.com/archives/2034837.html</id>
@@ -22551,26 +22571,6 @@ Sales Manager - Europe            Liège, Belgium or Schongau, Germany 
         <summary type="html"><![CDATA[お酒の中ではワインが一番好きなふみえ＠あつらぼです。 先日、厚木公園（はとぽっぽ公園）近くを歩いていたところ、 すぐ横にある「ワイン酒場 ゴルゴン9 本厚木店」が閉店していてびっくりー！！ 「ワイン酒場 ゴルゴン9 本厚木店」場所は…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【イベント】「第41回　厚木観光桜祭り」が3月24日に厚木北地区青少年広場で開催予定★前夜には花火もあるらしい！［厚木市厚木］]]></title>
-        <id>https://atsugi-lab.com/?p=41767</id>
-        <link href="https://atsugi-lab.com/event-sakuramatsuri202403/"/>
-        <updated>2024-03-21T00:14:58.000Z</updated>
-        <summary type="html"><![CDATA[3月に入ると、桜の開花予想が気になりソワソワしてしまうももこ＠あつらぼです。 本厚木駅徒歩圏内で桜の名所といえば、相模川三川合流地点河川敷の桜ですよね！ 今年も、厚木北地区青少年広場で桜祭りが開催されるそうですよー♪ 「第41回　厚木観光桜…]]></summary>
-        <author>
-            <name>comomo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[積和演算性能が最大6倍に、車載向けDSP IPコア]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/21/news047.html"/>
-        <updated>2024-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ケイデンス・デザイン・システムズは、車載向けのDSP（デジタルシグナルプロセッサ） IPコア「Vision 341 DSP」「Vision 331 DSP」を発表した。4Dイメージングレーダー用途向けの「Cadence Tensilica Vision 4DR Accelerator」との併用で、3倍以上の性能向上が可能になる。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
