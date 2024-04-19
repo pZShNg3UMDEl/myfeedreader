@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T21:12:18.769Z</updated>
+    <updated>2024-04-19T21:22:08.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゼレンスキー大統領「高性能防空システム 少なくとも7基必要」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428041000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428041000.html"/>
+        <updated>2024-04-19T21:16:40.000Z</updated>
+        <summary type="html"><![CDATA[イタリアで開かれたG7＝主要7か国の外相会合ではロシアの軍事侵攻が続くウクライナを支援するため、防空システムの供与に連携して取り組むことが確認されました。このあとゼレンスキー大統領は「パトリオットかそれと同等の高性能な防空システムが少なくとも7基必要だ」と訴え、今後は必要とされる数の防空システムを供与できるかが焦点となります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル 海外の通信アプリ 中国当局の指示で削除か 米有力紙]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014428011000.html</id>
