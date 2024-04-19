@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T05:13:00.302Z</updated>
+    <updated>2024-04-19T05:27:22.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東京原油市場 先物価格 一時2％以上上昇 中東情勢の緊迫化懸念]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427251000.html"/>
+        <updated>2024-04-19T05:14:17.000Z</updated>
+        <summary type="html"><![CDATA[中東情勢が一段と緊迫化することへの懸念から、東京原油市場では、中東産の原油の先物価格が一時、2％以上上昇しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[劇場版「ユーリ!!! on ICE」製作中止]]></title>
         <id>https://anime.eiga.com/news/121101/</id>
