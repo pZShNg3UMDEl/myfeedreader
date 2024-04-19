@@ -1564,6 +1564,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427661000.html",
+          "author": null,
+          "description": "有権者が10億人近くにのぼり、世界最大の選挙と言われるインドの総選挙の投票が19日からはじまりました。強いリーダーシップで高い経済成長をけん引し、3期目を目指すモディ首相率いる与党が政権運営に必要な過半数の議席を維持し、どこまで支持を伸ばせるかが焦点となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427661000.html",
+          "publishedOn": "2024-04-19T10:00:36.000Z",
+          "wordCount": 711,
+          "title": "“世界最大”インドの総選挙 有権者10億人近く 投票始まる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427661_2404191850_0419185840_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427541000.html",
+          "author": null,
+          "description": "栃木県那須町で全身が焼かれた男女の遺体が見つかった事件で、被害者の男性が使っていた自転車が事件のあと都内に止められたままになっていたことがわかりました。近くの防犯カメラには事件発覚の前日に自転車を押す男性の姿が写っていて、警察は自転車を置いたあと何者かと接触し事件に巻き込まれたとみて、捜査しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427541000.html",
+          "publishedOn": "2024-04-19T09:53:49.000Z",
+          "wordCount": 788,
+          "title": "那須町遺体遺棄事件 被害者男性の自転車 都内で見つかる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427541_2404191841_0419185136_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427621000.html",
           "author": null,
           "description": "新潟水俣病をめぐって認定されなかったり国の救済策でも対象から外れたりした人などが賠償を求めた裁判で、18日、新潟地方裁判所が原因企業に賠償を命じた判決を不服として企業が控訴しました。",
@@ -12388,6 +12408,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5HgTegL6gqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5HgTegL6gqY",
+          "publishedOn": "2024-04-19T10:00:05.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】4.5周年こころメダルの交換はコレ!!そこまでやりこんでない勇者こそ間違えないで!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QTAJPw_kdos",
           "author": null,
           "description": "",
@@ -12554,6 +12584,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/121108/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、本日公開の「劇場版ブルー...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/121108/",
+          "publishedOn": "2024-04-19T10:00:00.000Z",
+          "wordCount": 1920,
+          "title": "【入場特典リスト 4月最新版】「劇場版ブルーロック」は原作者描き下ろし漫画　「ハイキュー!!」は新特典登場",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121109/",
           "author": null,
