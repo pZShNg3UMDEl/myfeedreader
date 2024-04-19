@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T21:22:08.412Z</updated>
+    <updated>2024-04-19T21:36:18.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“中国がロシア防衛産業の再建手助け” 米国務長官 中国を批判]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428021000.html"/>
+        <updated>2024-04-19T21:27:32.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのブリンケン国務長官は19日、ウクライナ情勢をめぐり、中国が半導体など軍事転用可能な物資をロシアに供与し、防衛産業の再建を手助けしていると指摘し、批判しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゼレンスキー大統領「高性能防空システム 少なくとも7基必要」]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014428041000.html</id>
