@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T08:35:30.771Z</updated>
+    <updated>2024-04-19T08:50:17.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛媛・高知 震度6弱 地震の影響 被害受けた地域では【19日】]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427261000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427261000.html"/>
+        <updated>2024-04-19T08:46:17.000Z</updated>
+        <summary type="html"><![CDATA[17日に震度6弱の揺れを観測した愛媛県と高知県では、余震が相次ぎ、影響が続いています。影響や19日の動きをまとめました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[池袋暴走事故から5年 遺族が現場で交通事故防止への思いを訴え]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427431000.html"/>
+        <updated>2024-04-19T08:41:40.000Z</updated>
+        <summary type="html"><![CDATA[東京・池袋で高齢ドライバーの車が暴走し、母親と幼い娘が死亡した事故から5年となる19日、遺族が現場を訪れ、亡くなった2人を悼むとともに、交通事故防止への思いを訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4、眼科医の専門性評価試験で研修医をしのぐ好成績。ただし懸念も]]></title>
+        <id>https://gadget.phileweb.com/?p=73982</id>
+        <link href="https://gadget.phileweb.com/post-73982/"/>
+        <updated>2024-04-19T08:36:36.000Z</updated>
+        <summary type="html"><![CDATA[ケンブリッジ大学臨床医学部が発表した最新の研究で、OpenAIのGPT-4が眼科医師向けの多肢選択式の模擬試験を行い、研修医やまだ経験の浅い若手の医師よりも高いスコアを記録したと発表した。 PLOS Digital Healthに掲載されたこの研究には、眼科専門医5人、眼科研修医3人、専門外の若手医 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福島第一原発事故 避難者訴訟 2審も国の責任認めず 東京高裁]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240419/k10014427491000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240419/k10014427491000.html"/>
+        <updated>2024-04-19T08:33:49.000Z</updated>
+        <summary type="html"><![CDATA[東京電力福島第一原子力発電所の事故で福島県から新潟県に避難した人たちが国と東京電力に賠償を求めた集団訴訟で、2審の東京高等裁判所は1審に続き国の責任を認めず、東京電力のみに賠償を命じる判決を言い渡しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】無名の21歳の地下アイドルが「あの頃の橋本環奈すぎる」と話題　「これは次くる」本人驚きの大バズリ]]></title>
         <id>https://itainews.com/archives/2034830.html</id>

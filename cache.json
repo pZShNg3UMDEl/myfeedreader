@@ -323,6 +323,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=73982",
+          "author": "Munenori Taniguchi",
+          "description": "ケンブリッジ大学臨床医学部が発表した最新の研究で、OpenAIのGPT-4が眼科医師向けの多肢選択式の模擬試験を行い、研修医やまだ経験の浅い若手の医師よりも高いスコアを記録したと発表した。 PLOS Digital Healthに掲載されたこの研究には、眼科専門医5人、眼科研修医3人、専門外の若手医 […]",
+          "link": "https://gadget.phileweb.com/post-73982/",
+          "publishedOn": "2024-04-19T08:36:36.000Z",
+          "wordCount": 805,
+          "title": "GPT-4、眼科医の専門性評価試験で研修医をしのぐ好成績。ただし懸念も",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/mingazitdinov_Shutterstock.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=73964",
           "author": "Munenori Taniguchi",
           "description": "チームコラボレーションツールのSlackは、生成AIツール「Slack AI」をすべての有料プランユーザーに開放。また4月18日から日本語サポートの提供を開始した。 これまでEnterpriseプラン加入者のみに提供していたが、ProプランやBusinessプラン加入者でも有料アドオンとして利用可能 […]",
@@ -1543,6 +1553,36 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427261000.html",
+          "author": null,
+          "description": "17日に震度6弱の揺れを観測した愛媛県と高知県では、余震が相次ぎ、影響が続いています。影響や19日の動きをまとめました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427261000.html",
+          "publishedOn": "2024-04-19T08:46:17.000Z",
+          "wordCount": 1492,
+          "title": "愛媛・高知 震度6弱 地震の影響 被害受けた地域では【19日】",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427261_2404191716_0419173623_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427431000.html",
+          "author": null,
+          "description": "東京・池袋で高齢ドライバーの車が暴走し、母親と幼い娘が死亡した事故から5年となる19日、遺族が現場を訪れ、亡くなった2人を悼むとともに、交通事故防止への思いを訴えました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427431000.html",
+          "publishedOn": "2024-04-19T08:41:40.000Z",
+          "wordCount": 703,
+          "title": "池袋暴走事故から5年 遺族が現場で交通事故防止への思いを訴え",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427431_2404191716_0419174143_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427491000.html",
+          "author": null,
+          "description": "東京電力福島第一原子力発電所の事故で福島県から新潟県に避難した人たちが国と東京電力に賠償を求めた集団訴訟で、2審の東京高等裁判所は1審に続き国の責任を認めず、東京電力のみに賠償を命じる判決を言い渡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240419/k10014427491000.html",
+          "publishedOn": "2024-04-19T08:33:49.000Z",
+          "wordCount": 613,
+          "title": "福島第一原発事故 避難者訴訟 2審も国の責任認めず 東京高裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240419/K10014427491_2404191715_0419173351_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240419/k10014427461000.html",
           "author": null,
