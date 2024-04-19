@@ -1360,6 +1360,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/04/canon-releases-li5030-sensor.html",
+          "author": null,
+          "description": "Canon’s 2.8 MP LI7060 CMOS sensor is equipped with an HDR drive function that achieves a wide 120 dB range at low noise levels. This wide range results in a greater ability to extract usable information even where there is a substantial difference between the lightest and darkest areas of an image. Even when using the sensor during normal drive operation, the sensor can achieve a dynamic range of 75 dB.\n\n\n\nThe LI5040 and 3U5MGXSBA global shutter image sensor employs an advanced pixel design introducing drive readout and gathering structures which help significantly reduce noise, and contributing to a wide dynamic range with a power consumption of 500mW. Equipped with a 3.4μm pixel size and all pixel progressive reading at 120fps, the 2/3” sensor size with 5.33 million effective pixels (2592 x 2056) easily allows for applications in machine vision and other industrial environments where smaller size and high performance are required. It is available in RGB, Monochrome, and a specialized RGB‐NIR color filter.\n\n\nLI5030SA is a CMOS type of solid-state image sensor with a 35mm full frame effective pixel array of 19 Megapixels. It uses a global shutter function instead of a conventional rolling shutter. It enables simultaneous exposure timing for all 19 megapixels. It can output an effective 5688 x 3334 pixels of video at 57.99 fps and 12bit via 24 channels of digital signal output. LI5030SA series consists of LI5030SAC (color), LI5030SAI (RGBIR), LI5030SAM (monochrome), and LI5030SAN (Naked). LI5030SAN does not have a microlens or color filter.\nThe high sensitivity, resolution, and global shutter of this sensor along with multiple color filter variations makes the LI5030 a great choice for a wide array of applications such as microscopes, factory automation, traffic surveillance, drone vision, etc.",
+          "link": "http://image-sensors-world.blogspot.com/2024/04/canon-releases-li5030-sensor.html",
+          "publishedOn": "2024-04-19T15:59:00.001Z",
+          "wordCount": 4003,
+          "title": "Canon releases LI5030 sensor",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tzGkvWlz5mvaIQ_Rmao9uvxwCO4xQ-NZpxPwfk4jPAvEbm0sll9h0PvnbUcmfFeXexPXuDE5eP9VV9PdZY3SxxewkK5lsIyu3prHuVWqFKRwiv_A=w1200-h630-n-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/04/sony-imx900-videos.html",
           "author": null,
           "description": "This video presents Sony's 1/3.1\" global shutter image sensor IMX900 with approx. 3.2 effective megapixels that is compact, high-resolution, and has improved near-infrared sensitivity. Here are its three features.\n================================= \nChapters\n =================================\n0:00 Opening\n0:40 Compact, high resolution（1/3.1\" 3.2MP）\n1:12 Improved incident light angle dependency\n3:00 Enhanced NIR region sensitivity\n3:41 Ending\n------------------------------------------------------------ \n\n\n\n\nThis video presents Sony's IMX900 global shutter image sensor, which is ideal for industrial applications such as barcode reading, picking robot, and AMR (autonomous mobile robots).　\nHere are the three functions that support optimal imaging for different scenarios.\n================================= \nChapters\n =================================\n0:00 Opening\n0:27 Fast Auto Exposure\n1:42 Quad HDR（High Dynamic Range）\n2:22 Quad Shutter Control",
@@ -1563,6 +1573,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240420/k10014427841000.html",
+          "author": null,
+          "description": "ダイハツ工業による国の認証取得の不正問題で、国土交通省は19日、「ムーヴ キャンバス」など3車種について基準への適合が確認できたとして出荷停止の指示を解除しました。これによって、ダイハツは不正が発覚する前に国内向けに生産していたすべての車種で出荷ができるようになります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240420/k10014427841000.html",
+          "publishedOn": "2024-04-19T16:12:12.000Z",
+          "wordCount": 435,
+          "title": "ダイハツ 不正発覚前の国内向け生産の全車種で出荷再開へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240420/K10014427841_2404192158_0419220538_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240420/k10014427761000.html",
+          "author": null,
+          "description": "今月17日の地震で、住宅の瓦が落下するなどの被害が出た愛媛県大洲市では、被災した人が公的な支援を受けるために必要な「り災証明書」と「り災届出証明書」の申請の受け付けが行われています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240420/k10014427761000.html",
+          "publishedOn": "2024-04-19T15:59:33.000Z",
+          "wordCount": 631,
+          "title": "愛媛 大洲 「り災証明書」「り災届出証明書」申請受け付け開始",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240420/K10014427761_2404200043_0420005817_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240420/k10014428061000.html",
           "author": null,

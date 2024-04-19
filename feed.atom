@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T15:50:28.440Z</updated>
+    <updated>2024-04-19T16:18:09.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダイハツ 不正発覚前の国内向け生産の全車種で出荷再開へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014427841000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014427841000.html"/>
+        <updated>2024-04-19T16:12:12.000Z</updated>
+        <summary type="html"><![CDATA[ダイハツ工業による国の認証取得の不正問題で、国土交通省は19日、「ムーヴ キャンバス」など3車種について基準への適合が確認できたとして出荷停止の指示を解除しました。これによって、ダイハツは不正が発覚する前に国内向けに生産していたすべての車種で出荷ができるようになります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛媛 大洲 「り災証明書」「り災届出証明書」申請受け付け開始]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014427761000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014427761000.html"/>
+        <updated>2024-04-19T15:59:33.000Z</updated>
+        <summary type="html"><![CDATA[今月17日の地震で、住宅の瓦が落下するなどの被害が出た愛媛県大洲市では、被災した人が公的な支援を受けるために必要な「り災証明書」と「り災届出証明書」の申請の受け付けが行われています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canon releases LI5030 sensor]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/04/canon-releases-li5030-sensor.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/04/canon-releases-li5030-sensor.html"/>
+        <updated>2024-04-19T15:59:00.001Z</updated>
+        <summary type="html"><![CDATA[Canon’s 2.8 MP LI7060 CMOS sensor is equipped with an HDR drive function that achieves a wide 120 dB range at low noise levels. This wide range results in a greater ability to extract usable information even where there is a substantial difference between the lightest and darkest areas of an image. Even when using the sensor during normal drive operation, the sensor can achieve a dynamic range of 75 dB.
+
+
+
+The LI5040 and 3U5MGXSBA global shutter image sensor employs an advanced pixel design introducing drive readout and gathering structures which help significantly reduce noise, and contributing to a wide dynamic range with a power consumption of 500mW. Equipped with a 3.4μm pixel size and all pixel progressive reading at 120fps, the 2/3” sensor size with 5.33 million effective pixels (2592 x 2056) easily allows for applications in machine vision and other industrial environments where smaller size and high performance are required. It is available in RGB, Monochrome, and a specialized RGB‐NIR color filter.
+
+
+LI5030SA is a CMOS type of solid-state image sensor with a 35mm full frame effective pixel array of 19 Megapixels. It uses a global shutter function instead of a conventional rolling shutter. It enables simultaneous exposure timing for all 19 megapixels. It can output an effective 5688 x 3334 pixels of video at 57.99 fps and 12bit via 24 channels of digital signal output. LI5030SA series consists of LI5030SAC (color), LI5030SAI (RGBIR), LI5030SAM (monochrome), and LI5030SAN (Naked). LI5030SAN does not have a microlens or color filter.
+The high sensitivity, resolution, and global shutter of this sensor along with multiple color filter variations makes the LI5030 a great choice for a wide array of applications such as microscopes, factory automation, traffic surveillance, drone vision, etc.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レスリング男子フリースタイル 清岡と石黒 パリ五輪代表内定]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014428061000.html</id>
