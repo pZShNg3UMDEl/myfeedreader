@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T23:38:23.763Z</updated>
+    <updated>2024-04-19T23:50:29.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -148,6 +148,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428011000.html"/>
         <updated>2024-04-19T21:03:07.000Z</updated>
         <summary type="html"><![CDATA[アメリカのIT大手アップルが中国で、iPhoneなどにアプリを配信する「アップストア」から海外の通信アプリを中国当局の指示で削除したとアメリカの有力紙、ウォール・ストリート・ジャーナルが伝えました。中国当局によるネット上の締めつけ強化の一環とみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【20日詳細】イランの爆発 イスラエルが対抗措置として攻撃か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428071000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428071000.html"/>
+        <updated>2024-04-19T21:00:54.000Z</updated>
+        <summary type="html"><![CDATA[イラン中部のイスファハン州で19日、爆発があり、アメリカの複数のメディアは、イスラエルがイランによる大規模攻撃への対抗措置として攻撃したと伝えました。イラン政府は被害は出ていないとしながらも、イスラエルがさらに攻撃を続けた場合には反撃する構えを示し、予断を許さない状況が続いています。※イスラエルやパレスチナに関する日本時間4月20日の動きを随時更新してお伝えします。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
