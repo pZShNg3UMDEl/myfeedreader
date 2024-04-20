@@ -284,16 +284,6 @@
           "wordCount": 2583,
           "title": "フルロック構造を採用した、製品幅8.1mmの車載イーサネットコネクター",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/25/cover_news056.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2403/22/news009.html",
-          "author": null,
-          "description": "保全業務は生産設備の安定稼働には欠かせないが、いまだに多くの製造現場は紙で点検記録を行っており、点検作業・転記作業などが大きな負担になっている。この点検業務の簡略化を目指して設備点検プラットフォーム「MONiPLAT（モニプラット）」を2023年にリリースしたのが、化学製品メーカーのバルカーだ。ソフトウェア事業を強化するバルカーの取り組みと、既に利用社数が400を超え、一つの潮流となりつつあるMONiPLATがもたらす価値を紹介する。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2403/22/news009.html",
-          "publishedOn": "2024-03-22T01:00:00.000Z",
-          "wordCount": 1804,
-          "title": "PR: いつまで紙で記録を続けるつもり？　点検管理システムが変える設備保全の在り方",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2403/22/cover_news009.jpg"
         }
       ]
     },
@@ -1662,6 +1652,16 @@
           "wordCount": 980,
           "title": "“捜査段階の精神鑑定”急増 鑑定医 育成追いつかず質低下懸念",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240420/K10014428301_2404201716_0420172016_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240420/k10014428361000.html",
+          "author": null,
+          "description": "核兵器のない世界の実現を目指し、被爆者の団体や若者などが参加した新しい団体が発足しました。日本政府に対して2030年までに核兵器禁止条約に参加することを求めて働きかけるなどの活動をしていく方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240420/k10014428361000.html",
+          "publishedOn": "2024-04-20T09:39:22.000Z",
+          "wordCount": 724,
+          "title": "日本政府に核兵器禁止条約参加求め新団体 被爆者団体など参加",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240420/K10014428361_2404201812_0420183924_01_03.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240420/k10014428391000.html",
@@ -13205,6 +13205,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121020/",
+          "author": null,
+          "description": "麻雀ゲームアプリ「雀魂」が原作の新作アニメ「じゃんたま カン!!」が、4月25日午後10時から「雀魂」の公式YouTubeチャンネルでプレミア配信されることが分かった。あわせてメインPVも披露さ...",
+          "link": "https://anime.eiga.com/news/121020/",
+          "publishedOn": "2024-04-20T13:00:00.000Z",
+          "wordCount": 1686,
+          "title": "「雀魂」原作の新作アニメ「じゃんたま カン!!」4月25日からYouTubeで配信開始",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121100/",
           "author": null,
           "description": "劇場アニメ「デッドデッドデーモンズデデデデデストラクション 後章」の本予告映像が公開された。 浅野いにお氏による漫画「デッドデッドデーモンズデデデデデストラクション」を映画化した2部作の後編。宇...",
@@ -19813,6 +19828,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71038",
+          "author": "299",
+          "description": "飼い主さんの帰宅が遅い日は、猫たちにはウェットフードを与えているようです。 この日も、帰宅が遅かったので美味しいウェットフードに舌鼓をうっている猫さんたちです。 黒猫さんのほうはあっという間にフードをぺろりと完食。隣でま...\n残りものを狙う猫たち first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71038",
+          "publishedOn": "2024-04-20T13:00:49.000Z",
+          "wordCount": 1336,
+          "title": "残りものを狙う猫たち",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71038.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71033",
           "author": "299",
