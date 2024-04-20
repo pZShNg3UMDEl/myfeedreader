@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T23:35:34.335Z</updated>
+    <updated>2024-04-20T23:50:14.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新藤経済再生相 靖国神社に参拝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240421/k10014428681000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240421/k10014428681000.html"/>
+        <updated>2024-04-20T23:44:08.000Z</updated>
+        <summary type="html"><![CDATA[新藤経済再生担当大臣は午前8時半ごろ、春の例大祭が行われている東京 九段の靖国神社に参拝しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岩手 宮古の山林火災 延焼続く 消火活動難航で上空から放水]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240421/k10014428651000.html</id>
