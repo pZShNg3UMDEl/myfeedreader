@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T15:50:12.964Z</updated>
+    <updated>2024-04-20T16:16:01.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海上自衛隊のヘリコプター2機と連絡とれず 伊豆諸島の鳥島周辺]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240421/k10014428611000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240421/k10014428611000.html"/>
+        <updated>2024-04-20T16:08:50.000Z</updated>
+        <summary type="html"><![CDATA[防衛省関係者によりますと20日夜10時半ごろ、伊豆諸島の鳥島周辺で海上自衛隊のヘリコプター2機と連絡がとれなくなったということで、自衛隊が捜索を行っているということです。ヘリコプターはいずれも「SH60哨戒ヘリコプター」の可能性があるということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子猫達を初めてお風呂に入れてみた]]></title>
         <id>https://2-9-9.com/?p=71065</id>
