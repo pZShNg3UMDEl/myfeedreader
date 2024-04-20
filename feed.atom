@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T10:40:34.412Z</updated>
+    <updated>2024-04-20T10:50:39.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 サッカー元代表がチャリティー試合]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428311000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428311000.html"/>
+        <updated>2024-04-20T10:41:43.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地の復旧や復興を応援しようと、Jリーグで活躍したOBたちが参加するサッカーのチャリティーマッチが金沢市で行われました。また、地域の祭りや、漁業や観光など生業の再生に向けた動きも各地で見られました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ホリエモン「Facebookは詐欺を放置、舐めてんのか！」→Facebook、ホリエモンAI学校の垢を凍結]]></title>
         <id>https://itainews.com/archives/2034854.html</id>
