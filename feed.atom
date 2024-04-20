@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T11:50:35.334Z</updated>
+    <updated>2024-04-20T12:23:00.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全米自動車労働組合 フォルクスワーゲン工場で労組結成を発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428511000.html"/>
+        <updated>2024-04-20T12:04:10.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのUAW＝全米自動車労働組合は、アメリカにあるドイツのフォルクスワーゲンの工場で、労働組合を結成すると発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イベント中に自作の装置破裂 1歳女児と男性けが 香川 さぬき]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428521000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428521000.html"/>
+        <updated>2024-04-20T12:01:54.000Z</updated>
+        <summary type="html"><![CDATA[20日午後、香川県さぬき市で、イベント中にパフォーマーが使用していた筒状の発射装置が破裂する事故があり、見物していた1歳の女の子とパフォーマーの49歳の男性が軽いけがをしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[車いすバスケ女子 日本 パリパラリンピック出場決定 2大会連続]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428461000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428461000.html"/>
+        <updated>2024-04-20T12:01:17.000Z</updated>
+        <summary type="html"><![CDATA[パリパラリンピックの出場権をかけた車いすバスケットボール女子の最終予選で、日本はオーストラリアに50対26で快勝し、2大会連続のパラリンピック出場を決めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「デデデデ」後章の本予告映像が公開　謎の少年・大葉圭太が正体を明かし、物語は劇場版オリジナルの結末へ]]></title>
+        <id>https://anime.eiga.com/news/121100/</id>
+        <link href="https://anime.eiga.com/news/121100/"/>
+        <updated>2024-04-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[劇場アニメ「デッドデッドデーモンズデデデデデストラクション 後章」の本予告映像が公開された。 浅野いにお氏による漫画「デッドデッドデーモンズデデデデデストラクション」を映画化した2部作の後編。宇...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【なんだこれｗ】　全裸にパンプスの男性の遺体が路上で見つかる　警察「状況的に事故の可能性が高い」]]></title>
         <id>https://itainews.com/archives/2034858.html</id>
@@ -23586,16 +23626,6 @@ Sales Manager - Europe            Liège, Belgium or Schongau, Germany 
         <link href="https://monoist.itmedia.co.jp/mn/articles/2403/22/news009.html"/>
         <updated>2024-03-22T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[保全業務は生産設備の安定稼働には欠かせないが、いまだに多くの製造現場は紙で点検記録を行っており、点検作業・転記作業などが大きな負担になっている。この点検業務の簡略化を目指して設備点検プラットフォーム「MONiPLAT（モニプラット）」を2023年にリリースしたのが、化学製品メーカーのバルカーだ。ソフトウェア事業を強化するバルカーの取り組みと、既に利用社数が400を超え、一つの潮流となりつつあるMONiPLATがもたらす価値を紹介する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[105℃の高温環境に対応する、2016サイズの小型差動出力水晶発振器]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/22/news088.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/22/news088.html"/>
-        <updated>2024-03-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本電波工業は、小型光通信モジュール向けに、2016サイズの差動出力水晶発振器「NP2016SA」「NP2016SB」を開発した。105℃の高温に対応し、位相ジッタは70フェムト秒となっている。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>
