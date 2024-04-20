@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T12:45:27.825Z</updated>
+    <updated>2024-04-20T12:57:21.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[陸上 男子110mハードル 泉谷駿介がパリ五輪日本代表に内定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428561000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428561000.html"/>
+        <updated>2024-04-20T12:52:23.000Z</updated>
+        <summary type="html"><![CDATA[中国で開かれた陸上のダイヤモンドリーグの今シーズン初戦で、男子110メートルハードルの日本記録保持者の泉谷駿介選手が13秒17のタイムで3位に入り、参加標準記録を切ったためパリオリンピックの日本代表に内定しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全米自動車労働組合 フォルクスワーゲン工場で労組結成を発表]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014428511000.html</id>
