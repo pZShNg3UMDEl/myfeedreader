@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T06:50:25.227Z</updated>
+    <updated>2024-04-20T07:11:07.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ライブ速報】岩手 宮古で山林火災 延焼中 けが人の情報なし]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240420/k10014428291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240420/k10014428291000.html"/>
+        <updated>2024-04-20T07:09:28.000Z</updated>
+        <summary type="html"><![CDATA[消防によりますと20日午後、岩手県宮古市の山林で火災が発生したということです。午後3時半現在も延焼中で、地元の消防と県の防災ヘリコプターが出て消火活動にあたっています。現場は宮古市刈屋の国道に近い山林で、これまでのところけが人の情報はないということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドジャース 大谷翔平 1安打1打点 山本由伸 先発 6回9奪三振]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240420/k10014428281000.html</id>
