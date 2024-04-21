@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T20:13:58.384Z</updated>
+    <updated>2024-04-21T20:26:36.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 靖国神社 春の例大祭にあわせ「真榊」奉納 中国 反発]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240422/k10014429231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240422/k10014429231000.html"/>
+        <updated>2024-04-21T20:18:38.000Z</updated>
+        <summary type="html"><![CDATA[岸田総理大臣が21日から始まった靖国神社の春の例大祭にあわせて「真榊」と呼ばれる鉢植えの供え物を奉納したことなどについて、東京にある中国大使館の報道官は「日本の行いは被害を受けた国の国民感情を傷つけるもので、断固反対する」と反発しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[医師の偏在是正へ 財務相の諮問機関 ”診療報酬に地域差を”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240422/k10014429081000.html</id>
