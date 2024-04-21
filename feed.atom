@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T06:17:36.951Z</updated>
+    <updated>2024-04-21T06:36:30.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海上自衛隊ヘリコプター2機墜落 海自に事故調査委員会を設置]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240421/k10014428851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240421/k10014428851000.html"/>
+        <updated>2024-04-21T06:16:22.000Z</updated>
+        <summary type="html"><![CDATA[20日夜、伊豆諸島沖で海上自衛隊のヘリコプター2機が訓練中に墜落し、隊員1人が死亡、7人が行方不明になっている事故で、海上自衛隊トップの酒井良 海上幕僚長は21日午後に会見を開き、事故調査委員会を設置したうえで、原因の究明と7人の捜索を急ぐ考えを示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高知 宿毛 地震で屋根壊れるなど被害 20日からの雨で不安の声]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240421/k10014428821000.html</id>
