@@ -1534,6 +1534,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240421/k10014428921000.html",
+          "author": null,
+          "description": "ローイングのオリンピックアジア・オセアニア予選が韓国で行われ、男女の軽量級ダブルスカルで日本のペアが優勝し、それぞれパリ大会の代表に内定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240421/k10014428921000.html",
+          "publishedOn": "2024-04-21T09:09:07.000Z",
+          "wordCount": 828,
+          "title": "ローイング 軽量級ダブルスカル 男女ともにパリ五輪代表に内定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240421/K10014428921_2404211723_0421180422_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240421/k10014428951000.html",
+          "author": null,
+          "description": "熊本県の川辺川に国が建設する予定のダムによって、一部が水没すると想定されている五木村で住民を対象とした集会が開かれ、木下丈二 村長が建設を受け入れる考えを表明しました。住民の間に反対意見が残る中、着工へ一歩進んだ形となりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240421/k10014428951000.html",
+          "publishedOn": "2024-04-21T08:51:43.000Z",
+          "wordCount": 766,
+          "title": "熊本 川辺川のダム建設で一部水没想定 五木村長が受け入れ表明",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240421/K10014428951_2404211727_0421175144_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240421/k10014428911000.html",
           "author": null,
           "description": "能登半島地震のあと、ペットとともに避難生活を続けている人たちを支援しようと、餌などを無料で配ったり交流の場を提供したりする催しが石川県珠洲市で開かれました。",
@@ -13444,6 +13464,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121074/",
+          "author": null,
+          "description": "大友克洋が製作総指揮・総監督を務めるオムニバスアニメ映画「MEMORIES」が、4月26日から東京・渋谷のホワイトシネクイントでリバイバル上映される。4月22日午後8時から行われる先行上映は、す...",
+          "link": "https://anime.eiga.com/news/121074/",
+          "publishedOn": "2024-04-21T09:00:00.000Z",
+          "wordCount": 1602,
+          "title": "大友克洋「MEMORIES」初DCP化、4月26日からホワイトシネクイントでリバイバル上映開始",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121096/",
           "author": null,
