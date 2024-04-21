@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T08:15:23.576Z</updated>
+    <updated>2024-04-21T08:36:19.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛媛・高知 震度6弱 専門家が現地調査「備えの見直しを」]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240421/k10014428901000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240421/k10014428901000.html"/>
+        <updated>2024-04-21T08:05:24.000Z</updated>
+        <summary type="html"><![CDATA[愛媛県と高知県で震度6弱の揺れを観測した地震を受けて専門家が現地で調査を行い「今回は比較的被害は少なかったが、これを機会に南海トラフ巨大地震への備えを見直すべきだ」と指摘しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“性的マイノリティーへの差別のない社会を” 渋谷でパレード]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240421/k10014428881000.html</id>
