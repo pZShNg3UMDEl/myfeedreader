@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T05:12:59.882Z</updated>
+    <updated>2024-04-21T05:27:24.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岩手 宮古の山林火災 消火活動続く ヘリによる上空から放水も]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240421/k10014428801000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240421/k10014428801000.html"/>
+        <updated>2024-04-21T05:19:41.000Z</updated>
+        <summary type="html"><![CDATA[20日午後、岩手県宮古市の山林で発生した火災で現場では21日も消火活動が続いています。これまでにけが人の情報はなく、ヘリコプターによる上空からの放水が続けられています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年4月14日から4月20日】]]></title>
         <id>https://foodfighter.jp/?p=242961</id>
