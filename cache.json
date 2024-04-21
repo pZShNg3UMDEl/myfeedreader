@@ -1544,6 +1544,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240421/k10014428741000.html",
+          "author": null,
+          "description": "イランとイスラエルの緊張が高まる中、アメリカ議会下院は、イスラエルへの支援として総額およそ263億ドル、日本円にして4兆円余りの緊急予算案を超党派の賛成多数で可決しました。オースティン国防長官はイスラエルのイランなどからの防衛を支援することになるとコメントしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240421/k10014428741000.html",
+          "publishedOn": "2024-04-21T02:56:49.000Z",
+          "wordCount": 725,
+          "title": "米議会下院 イスラエル支援に約263億ドルの緊急予算案 可決",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240421/K10014428741_2404211142_0421115651_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240421/k10014428721000.html",
+          "author": null,
+          "description": "東京労災病院の医師が都内の医療機器メーカーの製品を優先的に使う見返りに現金を受け取ったとして逮捕された事件で、この医師がほかの医師にも同じメーカーの製品を使うよう促していたことが捜査関係者への取材でわかりました。ほかの医師が使用した場合も逮捕された医師に現金が渡されていたとみられ、警視庁が詳しい経緯を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240421/k10014428721000.html",
+          "publishedOn": "2024-04-21T02:14:58.000Z",
+          "wordCount": 660,
+          "title": "東京労災病院 医師収賄事件 ほかの医師にも製品の使用促したか",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240421/K10014428721_2404211053_0421111500_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240421/k10014428701000.html",
           "author": null,
           "description": "若手バレエダンサーの登竜門として知られる「ユース・アメリカ・グランプリ」がニューヨークで開かれ、9歳から11歳の「クラシック」の部門で、札幌市の中学1年生、山田優七さんが女子の1位に選ばれました。",
@@ -13344,6 +13364,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121082/",
+          "author": null,
+          "description": "「きまぐれオレンジ☆ロード 40周年記念展」が、4月26日～5月12日に東京・有楽町マルイ、6月15～30日に大阪・なんばマルイで開催される。 同展では、2020年に亡くなった原作者・まつもと泉...",
+          "link": "https://anime.eiga.com/news/121082/",
+          "publishedOn": "2024-04-21T03:00:00.000Z",
+          "wordCount": 1600,
+          "title": "「きまぐれオレンジ☆ロード」40周年記念展、東京・大阪で開催　まつもと泉さん、高田明美のイラストなど展示",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121020/",
           "author": null,
