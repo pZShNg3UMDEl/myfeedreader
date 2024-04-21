@@ -1340,6 +1340,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/04/job-postings-week-of-21-april-2024.html",
+          "author": null,
+          "description": "Omnivision\nPrincipal Image Sensor Technology\n  Engineer \nSanta Clara, California, USA\nLink\nNIST\nRAP opportunity - Metrology for\n  Faint Photonics\nBoulder, Colorado, USA\nLink\nInnovative Scientific Solutions,\n  Inc. \nResearch Engineer\nWPAFB (Dayton), Ohio, USA\nLink\nOIP Sensor Systems\nSenior Electronics Design\n  Engineer \nOudenaarde,\n  Belgium \nLink\nTU Delft\nJunior researcher \nDelft, Netherlands\nLink\nTeledyne e2v\nProject Manager\nChelmsford, England, UK\nLink\nST Microelectronics\nValidation Team Manager \nEdinburgh, Scotland, UK\nLink\nThe Open University UK\nSpace Detector Calibration\n  Scientist\nMilton Keynes, England, UK\nLink\nUniversity of Trento\nPh.D. position on 3D silicon\n  detector development\nTrento, Italy\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/04/job-postings-week-of-21-april-2024.html",
+          "publishedOn": "2024-04-21T20:00:00.000Z",
+          "wordCount": 3828,
+          "title": "Job Postings - Week of 21 April 2024",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/04/canon-releases-li5030-sensor.html",
           "author": null,
           "description": "Canon’s 2.8 MP LI7060 CMOS sensor is equipped with an HDR drive function that achieves a wide 120 dB range at low noise levels. This wide range results in a greater ability to extract usable information even where there is a substantial difference between the lightest and darkest areas of an image. Even when using the sensor during normal drive operation, the sensor can achieve a dynamic range of 75 dB.\n\n\n\nThe LI5040 and 3U5MGXSBA global shutter image sensor employs an advanced pixel design introducing drive readout and gathering structures which help significantly reduce noise, and contributing to a wide dynamic range with a power consumption of 500mW. Equipped with a 3.4μm pixel size and all pixel progressive reading at 120fps, the 2/3” sensor size with 5.33 million effective pixels (2592 x 2056) easily allows for applications in machine vision and other industrial environments where smaller size and high performance are required. It is available in RGB, Monochrome, and a specialized RGB‐NIR color filter.\n\n\nLI5030SA is a CMOS type of solid-state image sensor with a 35mm full frame effective pixel array of 19 Megapixels. It uses a global shutter function instead of a conventional rolling shutter. It enables simultaneous exposure timing for all 19 megapixels. It can output an effective 5688 x 3334 pixels of video at 57.99 fps and 12bit via 24 channels of digital signal output. LI5030SA series consists of LI5030SAC (color), LI5030SAI (RGBIR), LI5030SAM (monochrome), and LI5030SAN (Naked). LI5030SAN does not have a microlens or color filter.\nThe high sensitivity, resolution, and global shutter of this sensor along with multiple color filter variations makes the LI5030 a great choice for a wide array of applications such as microscopes, factory automation, traffic surveillance, drone vision, etc.",
@@ -1533,6 +1543,56 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429081000.html",
+          "author": null,
+          "description": "医師の偏在を是正し、限られた医療資源を適正に配分するため、財務大臣の諮問機関は、医療機関に支払われる診療報酬の単価について、医師が不足している地域では引き上げる一方、過剰となっている地域では引き下げるよう求めています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429081000.html",
+          "publishedOn": "2024-04-21T20:10:45.000Z",
+          "wordCount": 712,
+          "title": "医師の偏在是正へ 財務相の諮問機関 ”診療報酬に地域差を”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429081_2404212134_0422051046_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429051000.html",
+          "author": null,
+          "description": "全国初のカスタマーハラスメントいわゆる「カスハラ」を防ぐ条例の制定に向けて、東京都は、カスハラを定義づけるとともに、店側のミスで法外な金額を要求するなどの具体的な行為を例示する方向で検討していることがわかりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429051000.html",
+          "publishedOn": "2024-04-21T20:06:13.000Z",
+          "wordCount": 456,
+          "title": "「カスハラ」防止 全国初の条例制定へ 定義づけなど検討 東京",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429051_2404212045_0422045355_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429111000.html",
+          "author": null,
+          "description": "栃木県那須町で、全身が焼かれた男女の遺体が見つかった事件で、警視庁と栃木県警の合同捜査本部は、翌日に都内の交番に出頭した25歳の容疑者を21日、遺体を損壊した疑いで逮捕しました。事件に使用された疑いがあるとして押収された車は容疑者の名義だったということで、警察が詳しいいきさつを調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429111000.html",
+          "publishedOn": "2024-04-21T19:59:39.000Z",
+          "wordCount": 973,
+          "title": "栃木 那須町男女遺体遺棄事件 押収された車は容疑者の名義",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429111_2404212138_0422045844_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429061000.html",
+          "author": null,
+          "description": "日銀は今週、金融政策決定会合を開きます。3月、マイナス金利政策を解除したあとの経済・物価情勢を議論することにしていて、賃上げの広がりや歴史的な円安の物価への影響を分析するほか、今後の政策対応の方向性についても意見が交わされる見通しです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429061000.html",
+          "publishedOn": "2024-04-21T19:57:17.000Z",
+          "wordCount": 620,
+          "title": "日銀 今週 金融政策決定会合 円安の物価影響など意見交換へ",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429061_2404212119_0422045440_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429101000.html",
+          "author": null,
+          "description": "20日、伊豆諸島沖で海上自衛隊のヘリコプター2機が訓練中に墜落した事故は、部隊の技量を幹部が確認する「査閲」と呼ばれる検定の最中に起きていたことが防衛省関係者への取材でわかりました。海上自衛隊は、2機が空中で衝突して墜落した可能性が高いとみて、当時の詳しいいきさつを調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429101000.html",
+          "publishedOn": "2024-04-21T19:51:24.000Z",
+          "wordCount": 808,
+          "title": "海自ヘリ2機墜落事故 部隊の技量確認する「査閲」の最中に発生",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429101_2404212140_0421224314_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429091000.html",
           "author": null,
@@ -20498,6 +20558,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71151",
+          "author": "299",
+          "description": "初めてワクチン接種のために子猫たちを動物病院へ連れていきました。キャリーバッグを出してきて、まずは子猫たちを自由に出入りさせて慣れさせます。 好奇心旺盛な子猫たちは早速キャリーバッグのなかに出たり入ったりして遊び始めてく...\nワクチン接種で初めての動物病院へGO! first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71151",
+          "publishedOn": "2024-04-21T20:00:28.000Z",
+          "wordCount": 1338,
+          "title": "ワクチン接種で初めての動物病院へGO!",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71151.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71194",
           "author": "299",
