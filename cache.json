@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=74112",
+          "author": "山本 敦",
+          "description": "ロジクールがBluetoothワイヤレスキーボード「Singnature Slim K950」を4月25日に発売する。価格はオープンだが、ロジクールオンラインストアでは10,890円（税込）で販売される、ミドルレンジクラスの “使い倒せる” キーボードだ。今回、発売に先行してロジクールより実機をお借 […]",
+          "link": "https://gadget.phileweb.com/post-74112/",
+          "publishedOn": "2024-04-22T21:30:00.000Z",
+          "wordCount": 809,
+          "title": "中価格帯キーボードの注目モデル！ ロジクール「Singnature Slim K950」発売前先行レビュー。MacとiPadでの使用感は？",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/P1_3.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=74183",
           "author": "編集部：伴 修二郎",
           "description": "ロア・インターナショナルは、Haylou（ハイロー）のスマートウォッチ「Solar Pro」の先行販売を、クラウドファンディングサイト・Makuakeにて開始した。本記事執筆時点での価格は、先着350名限定の「早割」プランで7,767円（税込）。カラーバリエーションはブラック、ホワイト、ブラウン、ブ […]",
@@ -1643,6 +1653,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430071000.html",
+          "author": null,
+          "description": "イスラエル軍の軍事作戦が続くガザ地区では南部の病院で200人以上の遺体が埋められているのが見つかり、イスラム諸国からは戦争犯罪の疑いがあるとして捜査を求める声があがっています。一方、イスラエル軍は情報部門のトップがハマスによる越境攻撃を許した責任をとって辞任すると発表しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014430071000.html",
+          "publishedOn": "2024-04-22T21:31:06.000Z",
+          "wordCount": 721,
+          "title": "ガザ地区南部の病院 埋められた200人以上の遺体見つかる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014430071_2404230615_0423063107_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430361000.html",
+          "author": null,
+          "description": "北朝鮮は、キム・ジョンウン（金正恩）総書記の立ち会いのもと、核兵器による反撃を想定して「超大型ロケット砲」と呼ぶ短距離弾道ミサイルを発射する訓練を22日に実施したと、朝鮮労働党機関紙「労働新聞」などを通じて23日朝に発表しました。「超大型ロケット砲」は戦術核弾頭の搭載が可能だとされていて、北朝鮮は韓国全域が射程に入ると主張しています。韓国軍は、北朝鮮が22日午後、首都ピョンヤン付近から日本海に向けて短距離弾道ミサイルと推定される数発を発射したと明らかにしていて、発表はこのミサイルを指すとみられます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014430361000.html",
+          "publishedOn": "2024-04-22T21:27:46.000Z",
+          "wordCount": 711,
+          "title": "北朝鮮 “超大型ロケット砲の発射訓練を22日に実施”と発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014430361_2404230628_0423063009_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430201000.html",
           "author": null,
