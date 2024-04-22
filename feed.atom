@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T15:14:06.119Z</updated>
+    <updated>2024-04-22T15:25:42.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サッカー男子 パリ五輪アジア最終予選 日本は韓国に敗れる]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240423/k10014430271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240423/k10014430271000.html"/>
+        <updated>2024-04-22T15:11:33.000Z</updated>
+        <summary type="html"><![CDATA[パリオリンピックアジア最終予選に臨んでいるサッカー男子、23歳以下の日本代表は22日、1次リーグの第3戦で韓国と対戦し0対1で敗れました。日本は1次リーグを2勝1敗として勝ち点6でグループ2位通過となり、決勝トーナメントの準々決勝で開催国のカタールと対戦します。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷い猫を救出してみた]]></title>
         <id>https://2-9-9.com/?p=71198</id>
