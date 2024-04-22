@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T03:14:26.433Z</updated>
+    <updated>2024-04-22T03:27:19.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サッカー 南野拓実 今季8ゴール目で勝利に貢献 仏1部 モナコ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240422/k10014429331000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240422/k10014429331000.html"/>
+        <updated>2024-04-22T03:14:19.000Z</updated>
+        <summary type="html"><![CDATA[サッカーのフランス1部リーグ、モナコの南野拓実選手が21日、アウェーで行われたブレスト戦で今シーズン8ゴール目を決め、チームの勝利に貢献しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームキューブ/WiiエミュレータDolphiniOS、なぜApp Storeで公開できないか公式説明]]></title>
         <id>https://gadget.phileweb.com/?p=74103</id>
