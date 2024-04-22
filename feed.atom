@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T21:36:36.948Z</updated>
+    <updated>2024-04-22T21:50:26.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ前大統領 “業務記録を改ざんした罪” 裁判の冒頭陳述]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240423/k10014430101000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240423/k10014430101000.html"/>
+        <updated>2024-04-22T21:34:36.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのトランプ前大統領が不倫の口止め料をめぐり業務記録を改ざんした罪に問われている裁判の冒頭陳述が行われました。検察側は「トランプ被告は犯罪を隠ぺいした」と述べたのに対し、弁護側は無罪を主張しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ガザ地区南部の病院 埋められた200人以上の遺体見つかる]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240423/k10014430071000.html</id>
