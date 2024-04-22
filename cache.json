@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=74183",
+          "author": "編集部：伴 修二郎",
+          "description": "ロア・インターナショナルは、Haylou（ハイロー）のスマートウォッチ「Solar Pro」の先行販売を、クラウドファンディングサイト・Makuakeにて開始した。本記事執筆時点での価格は、先着350名限定の「早割」プランで7,767円（税込）。カラーバリエーションはブラック、ホワイト、ブラウン、ブ […]",
+          "link": "https://gadget.phileweb.com/post-74183/",
+          "publishedOn": "2024-04-22T09:21:24.000Z",
+          "wordCount": 756,
+          "title": "Haylou、鮮やか大画面のアウトドア向けスマートウォッチ「Solar Pro」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/samune-1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=74129",
           "author": "Munenori Taniguchi",
           "description": "オーストリア・リンツにあるヨハネス・ケプラー大学の研究者は、小型ドローンに自律的に電力を供給する超薄型太陽電池を開発した。 いまや一般にも普及したドローンだが、その飛行時間は長くて数十分しかないものがほとんど。その理由は、ドローンは飛行するために可能な限り小型軽量なバッテリーを搭載する必要があり、小 […]",
@@ -1623,6 +1633,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429761000.html",
+          "author": null,
+          "description": "今月17日の地震で屋根が壊れる被害が相次いだ愛媛県宇和島市では、23日、大雨が予想される中、被災した人から不安の声があがっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429761000.html",
+          "publishedOn": "2024-04-22T09:20:52.000Z",
+          "wordCount": 710,
+          "title": "震度5強 愛媛 宇和島 あす大雨予想で被災者から不安の声",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429761_2404221806_0422181842_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429731000.html",
           "author": null,
