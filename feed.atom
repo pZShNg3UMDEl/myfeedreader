@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T20:50:18.078Z</updated>
+    <updated>2024-04-22T21:11:52.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知床観光船 沈没事故2年 斜里町で午後に追悼式 犠牲者に祈り]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240423/k10014430201000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240423/k10014430201000.html"/>
+        <updated>2024-04-22T21:02:19.000Z</updated>
+        <summary type="html"><![CDATA[北海道の知床半島沖で観光船が沈没し、20人が死亡、6人の行方が分からなくなった事故から23日で2年となります。地元の斜里町では午後、追悼式が予定され、犠牲者に祈りをささげるとともに事故の再発防止への誓いを新たにします。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Vポイント」サービス復旧 統合初日に一部利用できない状態に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240423/k10014430351000.html</id>
