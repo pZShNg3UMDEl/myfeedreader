@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T11:11:01.682Z</updated>
+    <updated>2024-04-22T11:21:16.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -33,6 +33,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240422/k10014429911000.html"/>
         <updated>2024-04-22T10:39:40.000Z</updated>
         <summary type="html"><![CDATA[ロシアの首都モスクワ郊外で140人以上の市民が死亡したテロ事件から、4月22日で1か月となります。事件は過激派組織IS＝イスラミックステートの戦闘員による犯行とみられていますが、ロシア政府はウクライナが関与したとの主張を強めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「自動物流道路」の新たな整備 首相 夏ごろまでの計画策定指示]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240422/k10014429971000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240422/k10014429971000.html"/>
+        <updated>2024-04-22T10:38:12.000Z</updated>
+        <summary type="html"><![CDATA[物流の人手不足への対応策として、岸田総理大臣は、荷物を無人で運べる専用インフラ「自動物流道路」を各地の高速道路に新たに整備するため、ルートの選定を含めた基本的な計画を、夏ごろまでに策定するよう関係閣僚に指示しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
