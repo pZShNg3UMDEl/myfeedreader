@@ -1634,6 +1634,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014430191000.html",
+          "author": null,
+          "description": "22日、「Tポイント」とサービスが統合した「Vポイント」で、一部のサービスが利用できなくなるトラブルが起きています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014430191000.html",
+          "publishedOn": "2024-04-22T11:56:03.000Z",
+          "wordCount": 576,
+          "title": "「Vポイント」一部サービスでトラブル 残高など確認できず",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014430191_2404222053_0422205412_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240422/k10014430151000.html",
           "author": null,
           "description": "大相撲春場所で優勝争いに加わった23歳の大の里が去年9月、同じ部屋の未成年の力士と酒を飲んだとして、日本相撲協会は大の里と、師匠で元横綱 稀勢の里の二所ノ関親方を厳重注意しました。",
@@ -1712,6 +1722,16 @@
           "wordCount": 569,
           "title": "三重 愛宕川で中学生溺れたか 意識不明の重体",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014430131_2404221926_0422192818_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429941000.html",
+          "author": null,
+          "description": "政治資金規正法の改正に向けて、自民党は近くとりまとめる党独自の案に、収支報告書の内容に間違いがないことを示す「確認書」の作成を議員本人に義務づける方向で調整に入りました。内容を確認せずに形式的に作成していた場合は、議員本人に罰則を科すことなどが盛り込まれる見通しです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429941000.html",
+          "publishedOn": "2024-04-22T10:15:13.000Z",
+          "wordCount": 684,
+          "title": "自民 政治資金規正法改正の独自案 「確認書」義務づけで調整",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429941_2404221900_0422191039_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429921000.html",
@@ -14145,6 +14165,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121122/",
+          "author": null,
+          "description": "テレビアニメ「ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで」の放送が7月からTBSほかでスタートすることが決定した。鈴木崚汰、宮下早紀、津久井彩文、小清水亜美の出演と、オー...",
+          "link": "https://anime.eiga.com/news/121122/",
+          "publishedOn": "2024-04-22T12:00:00.000Z",
+          "wordCount": 1588,
+          "title": "「ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで」7月放送開始　鈴木崚汰、宮下早紀、小清水亜美ら出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121118/",
           "author": null,
           "description": "原作・ほったゆみ氏、漫画・小畑健氏による囲碁を題材にした漫画「ヒカルの碁」の舞台化が決定した。「歌絵巻『ヒカルの碁』序の一手」と題して、7月5～14日に東京・サンシャイン劇場で上演される。 原作...",
@@ -17399,6 +17434,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=243101",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、赤城乳業株式会社の新商品「トッピンぎゅ〜！」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]",
+          "link": "https://foodfighter.jp/topping-ice-cream",
+          "publishedOn": "2024-04-22T12:01:26.000Z",
+          "wordCount": 1791,
+          "title": "赤城乳業 トッピンぎゅ〜！【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/2b5d6d219e84b8121e7bb7e4637a59b1.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=243082",
           "author": "foodfighter",
