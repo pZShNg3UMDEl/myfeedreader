@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=74090",
+          "author": "多根清史",
+          "description": "Nintendo Switch後継モデル、通称「スイッチ2」に関する噂話や自称リークは数多く届けられてきたが、「CPUやGPU性能は控えめにして、機械学習により表現を底上げする」方向性以外は、ほぼ謎に包まれている。 そんななか、スイッチ2のゲームカード（ソフトのカートリッジ）や内蔵ストレージには、従 […]",
+          "link": "https://gadget.phileweb.com/post-74090/",
+          "publishedOn": "2024-04-22T02:26:36.000Z",
+          "wordCount": 767,
+          "title": "Nintendo Switch後継モデル、サムスン製の第5世代V-NAND採用でゲーム読み込みを高速化か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_1576017835.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=74005",
           "author": "編集部：伴 修二郎",
           "description": "Jackery Japanは、最新ポータブル電源とソーラーパネルのメディア向け体験会を都内某所で開催した。体験会の模様をレポートしていく。 “ちょうどいい”仕様を実現した中容量モデル「600 Plus」 「Jackery Solar Generator 600 Plus 100W」は、リン酸鉄リチウ […]",
@@ -1553,6 +1563,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429321000.html",
+          "author": null,
+          "description": "女子ゴルフの海外メジャー、今シーズンの第1戦は21日、アメリカ・テキサス州で第3ラウンドの残りと最終ラウンドが行われ、勝みなみ選手が通算5アンダーで日本勢最高の9位でした。アメリカのネリー・コルダ選手がメジャー通算2勝目を挙げて出場5大会連続の優勝となり、アメリカ女子ツアーの最多記録に並びました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429321000.html",
+          "publishedOn": "2024-04-22T02:12:43.000Z",
+          "wordCount": 588,
+          "title": "女子ゴルフ 海外メジャー今季第1戦 勝みなみが日本勢最高の9位",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429321_2404221107_0422111245_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240422/k10014389571000.html",
           "author": null,
