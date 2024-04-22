@@ -1624,6 +1624,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429731000.html",
+          "author": null,
+          "description": "去年、徳島市の阿波おどりで提供された1人20万円の「プレミアム桟敷席」の階段の幅などが、法律の基準を満たしていなかった問題で、実行委員会の当時の委員長代行が、必要な検査済証の交付を受けずに観客に席を提供したとして、建築基準法違反の疑いで書類送検されたことが捜査関係者への取材で分かりました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429731000.html",
+          "publishedOn": "2024-04-22T08:44:48.000Z",
+          "wordCount": 633,
+          "title": "阿波おどり“プレミアム桟敷席”建築基準法違反疑いで書類送検",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429731_2404221722_0422172753_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429611000.html",
+          "author": null,
+          "description": "国民スポーツ大会の開催方法をめぐり、全国知事会長を務める宮城県の村井知事は、知事会が行ったアンケートが大幅な見直しを求める方向になっていると明らかにしました。今後、知事会として日本スポーツ協会などと協議していくことになるということです。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429611000.html",
+          "publishedOn": "2024-04-22T08:38:33.000Z",
+          "wordCount": 660,
+          "title": "“国民スポーツ大会 大幅な見直し求める方向に”宮城 村井知事",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429611_2404221723_0422173246_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429651000.html",
           "author": null,
           "description": "アメリカの「グーグル」が、「検索連動型」と呼ばれるインターネット広告の配信事業で、競合する「LINEヤフー」の事業を不当に制限し、独占禁止法に違反した疑いがあるとして、公正取引委員会は審査を行ってきましたが、22日、グーグル側から提出されていた再発防止の計画を認定したと発表しました。",
@@ -14004,6 +14024,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121113/",
+          "author": null,
+          "description": "「劇場版すとぷり はじまりの物語 Strawberry School Festival!!!」の公開日が7月19日に決定し、特報とティザービジュアル第2弾が披露された。 また、4月26日から全国...",
+          "link": "https://anime.eiga.com/news/121113/",
+          "publishedOn": "2024-04-22T09:00:00.000Z",
+          "wordCount": 1501,
+          "title": "「劇場版すとぷり」7月19日公開決定　夏を謳歌するメンバー描く特報＆ティザービジュアル披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121114/",
           "author": null,
