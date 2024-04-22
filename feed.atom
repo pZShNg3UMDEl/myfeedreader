@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T23:37:07.844Z</updated>
+    <updated>2024-04-22T23:50:12.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ウクライナ大統領電話会談 “予算案可決し次第 重要な支援”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240423/k10014430321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240423/k10014430321000.html"/>
+        <updated>2024-04-22T23:27:08.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン大統領は、ロシアによる軍事侵攻が続くウクライナのゼレンスキー大統領と電話で会談し、議会上院がウクライナへの追加の軍事支援のための緊急予算案を可決ししだい、防空能力の強化などの重要な支援を速やかに行うと伝えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【コメダ珈琲店】シロノワール ガーナミルク ミニサイズ【ロッテガーナチョコレートコラボ、新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=243134</id>
