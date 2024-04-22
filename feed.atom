@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T05:38:21.295Z</updated>
+    <updated>2024-04-22T05:50:22.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国電力 山口 上関町で中間貯蔵施設建設に向け地質調査開始へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240422/k10014429481000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240422/k10014429481000.html"/>
+        <updated>2024-04-22T05:37:54.000Z</updated>
+        <summary type="html"><![CDATA[中国電力は使用済み核燃料を一時保管する中間貯蔵施設の建設に向けて、山口県上関町で23日にも施設の建設が地質的に可能かどうかを確認するボーリング調査を始める方針を地元自治体などに伝えたことが関係者への取材で分かりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国、水泳の授業が有名無実化「見学する」「水泳は嫌」「そもそもプールがない」]]></title>
         <id>https://itainews.com/archives/2034899.html</id>
