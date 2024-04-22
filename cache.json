@@ -303,6 +303,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=74160",
+          "author": "Munenori Taniguchi",
+          "description": "アップルがApp Storeのガイドラインで、レトロゲームエミュレーターアプリを解禁したことで、いくつかのエミュレーターがすでに登場している。そしてその類いの最新アプリとして「Provenance」と称するプロジェクトがApp Storeでのリリースに向けて取り組んでいる エミュレーターソフトウェア […]",
+          "link": "https://gadget.phileweb.com/post-74160/",
+          "publishedOn": "2024-04-22T06:49:13.000Z",
+          "wordCount": 773,
+          "title": "初代PlayStationやセガサターン対応のエミュレーターアプリがApp Storeに登場へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/Provenance.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=74164",
+          "author": "多根清史",
+          "description": "PlayStation 5の強化型モデル、通称「PS5 Pro」の噂話は、一時は下火となっていたこともある。すでにソニーの関心は真の次世代機「PlayStation 6」へと移り、PS5世代は着脱式ドライブ対応の改訂モデルで一区切りするとみられたからだ。 しかし、昨年末に改訂版（ディスクドライブ着脱 […]",
+          "link": "https://gadget.phileweb.com/post-74164/",
+          "publishedOn": "2024-04-22T06:41:08.000Z",
+          "wordCount": 847,
+          "title": "PlayStation 5 Pro（仮）、三位一体の強化モデルで2024年末発売？これまでの噂を振り返る",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/shutterstock_1981293320.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=74150",
           "author": "多根清史",
           "description": "Googleの「Pixel 8a」、すなわち「Pixel 8シリーズ」と多くの要素が共通しながら廉価にした新型スマートフォンは、昨年末にダミーモデルと称されるものが登場。その後、ほぼ完全なスペック情報や全4色のカラーバリエーションを含む予想CG画像 など、数々の自称リークが相次いでいた。 それに続き […]",
@@ -1593,6 +1613,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429281000.html",
+          "author": null,
+          "description": "共通ポイントの先駆けとしてレンタル事業大手の運営会社が展開してきた「Tポイント」が、大手金融グループが展開する「Vポイント」と22日、統合しました。ポイント経済圏をめぐって携帯大手などが存在感を高める中、統合を通じ巻き返しを図れるかが注目されます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240422/k10014429281000.html",
+          "publishedOn": "2024-04-22T06:44:01.000Z",
+          "wordCount": 1077,
+          "title": "VポイントとTポイントが統合 ポイント経済圏はどう変わる？",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240422/K10014429281_2404221441_0422144320_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240422/k10014429531000.html",
           "author": null,
