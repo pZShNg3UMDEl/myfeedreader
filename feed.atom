@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T05:37:23.727Z</updated>
+    <updated>2024-04-23T05:50:28.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Vポイント」一部アプリのトラブル復旧]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240423/k10014430701000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240423/k10014430701000.html"/>
+        <updated>2024-04-23T05:48:43.000Z</updated>
+        <summary type="html"><![CDATA[22日、「Tポイント」とサービスが統合した「Vポイント」の一部のアプリが23日朝から利用しにくくなるトラブルが続いていましたが、運営会社によりますと、23日午後1時までに改善に向けた作業を終え、復旧したということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Snapdragon X Plus」を搭載した「Surface Pro 10」のベンチマーク結果が出現]]></title>
         <id>https://gadget.phileweb.com/?p=74251</id>
