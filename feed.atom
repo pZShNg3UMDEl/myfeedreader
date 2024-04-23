@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T04:50:18.834Z</updated>
+    <updated>2024-04-23T05:12:43.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゆうちょ銀行システムトラブル ほかの金融機関からの入金遅延]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240423/k10014430691000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240423/k10014430691000.html"/>
+        <updated>2024-04-23T05:07:36.000Z</updated>
+        <summary type="html"><![CDATA[ゆうちょ銀行は、23日から行内のシステムでトラブルが起き、ほかの金融機関からの入金が遅延する影響が出ているということです。一方、ゆうちょ銀行からほかの金融機関への送金は通常どおり行えるとしています。会社は、復旧作業を急ぐとともに、「お客さまにご不便をおかけしておりますことを深くおわび申し上げます」とコメントしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山口 上関町 中間貯蔵施設建設に向けボーリング調査開始]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240423/k10014430611000.html</id>
