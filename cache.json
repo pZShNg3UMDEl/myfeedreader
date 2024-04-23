@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/25/news002.html",
+          "author": null,
+          "description": "今回からステップアップ形DC/DCコンバーターについて説明していきます。まずは、ステップアップコンバーターの基本回路と動作原理について解説します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/25/news002.html",
+          "publishedOn": "2024-04-23T01:00:00.000Z",
+          "wordCount": 2588,
+          "title": "ステップアップ形DC/DCコンバーターの設計（1）基本回路と動作原理",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/25/l_tt240225_Middle_001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/23/news075.html",
           "author": null,
           "description": "STマイクロエレクトロニクスは、RS-485トランシーバー「ST4E1240」を発表した。40Mビット/秒（bps）の速度、PROFIBUSフィールドバス規格に準拠の出力、過渡保護、ホットスワップ保護を備える。",
@@ -1664,6 +1674,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430431000.html",
+          "author": null,
+          "description": "円相場が一時、およそ34年ぶりの円安ドル高水準まで値下がりするなど外国為替市場の動きについて鈴木財務大臣は「各国の関係する当局と緊密に意思疎通をしつつ、適切に対応する」と述べて、市場の動きを改めてけん制しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014430431000.html",
+          "publishedOn": "2024-04-23T01:47:38.000Z",
+          "wordCount": 692,
+          "title": "円安で鈴木財務相 “各国と緊密に意思疎通し適切に対応”",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014430431_2404231026_0423104216_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430421000.html",
+          "author": null,
+          "description": "能登半島地震の被災地支援のため、政府は、今年度予算の予備費から、およそ1400億円を追加で支出することを決めました。また、岸田総理大臣は、公費による被災家屋の解体・撤去を加速する必要があるとして、態勢を強化するよう指示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014430421000.html",
+          "publishedOn": "2024-04-23T01:31:03.000Z",
+          "wordCount": 718,
+          "title": "政府 能登半島地震の被災地支援で約1400億円の追加支出決定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014430421_2404231012_0423102559_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430391000.html",
+          "author": null,
+          "description": "22日、「Tポイント」とサービスが統合した「Vポイント」で一部のアプリでバーコードが表示できないトラブルが続いています。運営会社によりますとアクセスが集中していることが原因だとしていて、サーバーの容量を増やすなど改善に向けた作業を進めているということです。「Vポイント」をめぐってはサービスを始めた22日からポイント残高の確認ができないなど一部のサービスが利用できなくなるトラブルが発生しましたが、会社は23日午前3時ごろに復旧したと明らかにしていました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014430391000.html",
+          "publishedOn": "2024-04-23T01:03:55.000Z",
+          "wordCount": 555,
+          "title": "「Vポイント」一部でバーコード表示できないトラブル続く",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014430391_2404230954_0423100357_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430011000.html",
           "author": null,
           "description": "ことし7月の新たな紙幣の発行にあわせて券売機などの設備を更新する企業の中にはキャッシュレス決済だけの対応に切り替える動きも出ています。",
@@ -1682,6 +1722,16 @@
           "wordCount": 764,
           "title": "米ウクライナ大統領電話会談 “予算案可決し次第 重要な支援”",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014430321_2404230436_0423082710_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430041000.html",
+          "author": null,
+          "description": "今年度、ベースアップを行う中堅・中小企業は、全体の6割以上に上るという国の調査結果がまとまりました。ただ、同じ調査では、人件費を十分に取引価格に上乗せできていない企業が全体の半数前後に上っていて、持続的な賃上げに向けては、取引先の理解をいかに得ていくかが課題となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014430041000.html",
+          "publishedOn": "2024-04-22T22:40:46.000Z",
+          "wordCount": 649,
+          "title": "“中小企業 賃上げ広がるも人件費の価格転嫁は不十分” 国調査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014430041_2404230740_0423074047_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430061000.html",
@@ -17166,16 +17216,6 @@
           "publishedOn": "2024-03-25T13:03:28.000Z",
           "wordCount": 4410,
           "title": "ボクの乳首を守って",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9687",
-          "author": "watanabe@logipara.com",
-          "description": "今日、警視庁から 「あなたのお子様は窃盗容疑で逮捕され、被害者に280万円の賠償金を支払う必要があります。」 との連絡がありました。 まさか……うちの子が……そんな……！うちの子は、そんなことするように育てた覚えはないの […]",
-          "link": "https://logipara.com/diary-text/2024-03-25",
-          "publishedOn": "2024-03-24T13:28:24.000Z",
-          "wordCount": 4388,
-          "title": "窃盗容疑",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
