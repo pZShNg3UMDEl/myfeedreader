@@ -304,16 +304,6 @@
           "wordCount": 2599,
           "title": "修理途中で投げ出された電源ユニットを修理（後編）",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/26/l_tt240326_002.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/25/news056.html",
-          "author": null,
-          "description": "SMKは、製品幅8.1mmの車載イーサネットコネクター「SE-R1」を開発した。100BASE-T1および1000BASE-T1の伝送速度に対応し、優れた接続性や衝撃耐久性を備える。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/25/news056.html",
-          "publishedOn": "2024-03-25T00:00:00.000Z",
-          "wordCount": 2583,
-          "title": "フルロック構造を採用した、製品幅8.1mmの車載イーサネットコネクター",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/25/cover_news056.jpg"
         }
       ]
     },
@@ -1743,6 +1733,26 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014431221000.html",
+          "author": null,
+          "description": "パナソニックホールディングスの子会社は、電動アシスト自転車用のバッテリーパックが発火するおそれがあるとしてリコールを届け出ました。会社は、対象となる14万個余りについて無償で交換する方針です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014431221000.html",
+          "publishedOn": "2024-04-23T12:14:32.000Z",
+          "wordCount": 695,
+          "title": "パナソニック 電動自転車のバッテリーパック 14万個余リコール",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014431221_2404232035_0423211021_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240423/k10014431051000.html",
+          "author": null,
+          "description": "イギリスで、難民認定を申請するため不法に入国した人たちをアフリカのルワンダに強制的に移送するための法案が議会で可決されました。難民の支援団体などは強く反対していますが、来年1月までに行われる総選挙を見据えて、不法移民の阻止を主要政策に掲げてきたスナク政権は、ことし7月ごろ移送を始めたい意向です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240423/k10014431051000.html",
+          "publishedOn": "2024-04-23T11:55:27.000Z",
+          "wordCount": 914,
+          "title": "英 “不法入国者をルワンダに強制移送” 法案が議会で可決",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240423/K10014431051_2404231955_0423195558_01_03.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240423/k10014430951000.html",
           "author": null,
@@ -14774,6 +14784,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121132/",
+          "author": null,
+          "description": "夢枕獏氏の格闘小説「餓狼伝」を原作とするNetflixアニメシリーズ「餓狼伝: The Way of the Lone Wolf」が、5月23日から世界配信されることが決定した。原作の主人公・丹...",
+          "link": "https://anime.eiga.com/news/121132/",
+          "publishedOn": "2024-04-23T12:00:00.000Z",
+          "wordCount": 1413,
+          "title": "夢枕獏の小説が原作「餓狼伝: The Way of the Lone Wolf」5月23日からNetflixで独占配信　藤巻十三役に竹内良太、丹波文七役に稲田徹",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121130/",
           "author": null,
