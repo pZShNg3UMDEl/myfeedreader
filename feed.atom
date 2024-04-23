@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T20:37:06.274Z</updated>
+    <updated>2024-04-23T20:50:25.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“信長を気にかける貴重な資料” 義父 斎藤道三の書状を発見]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240424/k10014431231000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240424/k10014431231000.html"/>
+        <updated>2024-04-23T20:48:05.000Z</updated>
+        <summary type="html"><![CDATA[戦国武将、織田信長の義理の父にあたる斎藤道三が、信長について「若造で至らない点もあるが末永くつきあってほしい」と近隣の領主にお願いした書状が見つかりました。専門家は「道三が信長のことを気にかけているとわかる貴重な資料だ」と指摘しています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マレーシアの海軍ヘリ２機　訓練飛行中に衝突墜落　１０人全員死亡]]></title>
         <id>https://itainews.com/archives/2034947.html</id>
