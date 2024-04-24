@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T20:36:56.659Z</updated>
+    <updated>2024-04-24T20:50:24.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[熊本城の「監物櫓」 大型連休中の特別公開を前に報道公開]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240425/k10014431941000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240425/k10014431941000.html"/>
+        <updated>2024-04-24T20:41:11.000Z</updated>
+        <summary type="html"><![CDATA[熊本地震で大きな被害を受け、復旧工事を終えた熊本城の国の重要文化財「監物櫓（けんもつやぐら）」が、大型連休中の特別公開を前に、報道機関に公開されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[滋賀 びわ湖学ぶ学習船「うみのこ」運航始まる 長浜で出航式]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240425/k10014431951000.html</id>
