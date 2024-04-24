@@ -1824,6 +1824,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240424/k10014431881000.html",
+          "author": null,
+          "description": "政治資金規正法の改正に向けて焦点となっているいわゆる「連座制」について、自民・公明両党の実務者は、議員に対して収支報告書の「確認書」の作成を義務づけ、内容を確かめずに作成していた場合は公民権を停止するとした内容で導入を図ることで一致しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240424/k10014431881000.html",
+          "publishedOn": "2024-04-24T09:08:25.000Z",
+          "wordCount": 784,
+          "title": "政治資金規正法改正へ 自公実務者が議員の責任強化で協議",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240424/K10014431881_2404241748_0424180826_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240424/k10014431671000.html",
+          "author": null,
+          "description": "愛媛県と高知県で震度6弱の揺れを観測した地震から24日で1週間です。気象庁は地震活動が活発な状態が続いているとして、引き続き注意を呼びかけています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240424/k10014431671000.html",
+          "publishedOn": "2024-04-24T09:03:08.000Z",
+          "wordCount": 1196,
+          "title": "愛媛・高知 被害を受けた地域は 今後の課題は",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240424/K10014431671_2404241735_0424173744_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240424/k10014431861000.html",
           "author": null,
           "description": "タイの首都バンコク近郊で日本人の男性が切断された遺体で見つかり、タイ警察は、殺人事件として捜査するとともに事件に関わったとみられる日本人の男2人の行方を追っています。",
@@ -15274,6 +15294,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121146/",
+          "author": null,
+          "description": "人気アニメ「おそ松さん」の舞台版となる「新・喜劇『おそ松さん』」（全10公演）が、8月29日～9月2日に東京・サンシャイン劇場で上演されることが決定した。キャストは2023年公演の舞台「おそ松さ...",
+          "link": "https://anime.eiga.com/news/121146/",
+          "publishedOn": "2024-04-24T09:00:00.000Z",
+          "wordCount": 1045,
+          "title": "新・喜劇「おそ松さん」8月29日～9月2日に上演決定　舞台「2nd SEASON」のキャストが“お笑い”に挑戦",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121139/",
           "author": null,
