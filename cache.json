@@ -284,16 +284,6 @@
           "wordCount": 2619,
           "title": "汎用性が高い1.4mm角の小型LEDチップ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/27/cover_news077.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html",
-          "author": null,
-          "description": "今回はDC/DCコンバーターを設計する上で欠かせない「過電流保護回路」について説明します。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html",
-          "publishedOn": "2024-03-26T02:00:00.000Z",
-          "wordCount": 2593,
-          "title": "ステップダウン形DC/DCコンバーターの設計（5）",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/21/l_tt240326_DCDC_001.jpg"
         }
       ]
     },
@@ -1833,6 +1823,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240424/k10014432161000.html",
+          "author": null,
+          "description": "パリパラリンピックのバドミントンの代表に、新たに5人の選手が内定しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240424/k10014432161000.html",
+          "publishedOn": "2024-04-24T13:24:55.000Z",
+          "wordCount": 688,
+          "title": "パラバドミントン パリ大会代表に新たに5人が内定",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240424/K10014432161_2404242130_0424220855_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240424/k10014432171000.html",
           "author": null,
@@ -18979,6 +18979,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=243387",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/mcdonalds-cream-soda-2024",
+          "publishedOn": "2024-04-24T14:02:08.000Z",
+          "wordCount": 1842,
+          "title": "【マクドナルド】クリームソーダ（マックフロート メロン）【喫茶マック、期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2023/04/210adc608834c0b8bbaa5e8c3116cb37.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=243362",
           "author": "foodfighter",

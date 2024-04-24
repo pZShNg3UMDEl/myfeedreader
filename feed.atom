@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T13:50:17.032Z</updated>
+    <updated>2024-04-24T14:13:34.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【マクドナルド】クリームソーダ（マックフロート メロン）【喫茶マック、期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=243387</id>
+        <link href="https://foodfighter.jp/mcdonalds-cream-soda-2024"/>
+        <updated>2024-04-24T14:02:08.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲報】楽天モバイル、SIMが乗っ取られる事案が発生したとして注意喚起]]></title>
         <id>https://itainews.com/archives/2034964.html</id>
@@ -22,6 +32,16 @@
 楽天モバイルのスマホが乗っ取られる事案　同社が回線停止や楽天ID／パスワード変更などを呼びかけ - ITmedia Mobile https://t.co/S8uFXZ8dWq— 名無しの道化師Japan人生色々 (@eternalcity5963) Apri...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パラバドミントン パリ大会代表に新たに5人が内定]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240424/k10014432161000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240424/k10014432161000.html"/>
+        <updated>2024-04-24T13:24:55.000Z</updated>
+        <summary type="html"><![CDATA[パリパラリンピックのバドミントンの代表に、新たに5人の選手が内定しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
@@ -27700,16 +27720,6 @@ disciplines stand to take advantage of larger and larger SPAD image sensors with
         <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです♪ あっという間にもうすぐ新年度ですねー！ お子さんや、またはご自身の新しい習い事を始めたいな♡とお考えの方も多くいらっしゃるのではないでしょうか？ ですが忙しい日々の中で曜日などのスケジュールを組むのが難し…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステップダウン形DC/DCコンバーターの設計（5）]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/21/news166.html"/>
-        <updated>2024-03-26T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今回はDC/DCコンバーターを設計する上で欠かせない「過電流保護回路」について説明します。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
