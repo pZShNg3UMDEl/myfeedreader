@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T04:50:33.732Z</updated>
+    <updated>2024-04-24T05:14:09.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240424/k10014431611000.html"/>
         <updated>2024-04-24T04:32:03.000Z</updated>
         <summary type="html"><![CDATA[民間の有識者グループ「人口戦略会議」は全体の4割にあたる744の自治体で、2050年までに20代から30代の女性が半減し、「最終的には消滅する可能性がある」とした分析を公表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岐阜 池田町長に「辞職相当」セクハラ認定 第三者委調査報告書]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240424/k10014431571000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240424/k10014431571000.html"/>
+        <updated>2024-04-24T04:24:06.000Z</updated>
+        <summary type="html"><![CDATA[岐阜県池田町の町長のセクハラの疑いを調査していた第三者委員会は、女性職員など15人に対するセクハラがあったと認定し、町長に反省や改善の態度が見られないとして「辞職相当」だとする調査報告書を町に提出しました。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
