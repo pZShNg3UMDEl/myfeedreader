@@ -313,6 +313,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=74342",
+          "author": "多根清史",
+          "description": "アップルは日本時間5月7日午後11時からスペシャルイベント「Let loose」を開催すると発表した。アップル公式サイトやApple TVアプリ等でリアルタイム配信される予定だ。 同社からの招待状はすべて「スペシャルイベントの視聴」とされており、完全バーチャルイベントであることを示している。大手メデ […]",
+          "link": "https://gadget.phileweb.com/post-74342/",
+          "publishedOn": "2024-04-24T02:55:09.000Z",
+          "wordCount": 839,
+          "title": "アップル、5月7日23時から「Let loose」イベント開催。新型iPad ProとiPad Air発表か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/スクリーンショット-2024-04-24-105934.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=74273",
           "author": "編集部：伴 修二郎",
           "description": "Razerは、eスポーツ向けゲーミングマウスのフラグシップモデル「Viper V3 Pro」を、4月26日に発売。本日4月24日より予約受付を開始する。価格は26,480円（税込）。カラーバリエーションはブラックとホワイトの2色を展開する。 「Viper V3 Pro」は、世界トップクラスのeスポー […]",
@@ -1763,6 +1773,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240424/k10014431501000.html",
+          "author": null,
+          "description": "東京電力によりますと、24日午前10時43分ごろ、福島第一原子力発電所で所内の設備に電気を供給する系統の一部が停止したということです。この影響で、今月19日から行われている処理水の海への放出も止まっているということです。周辺の放射線量を測定するモニタリングポストなどの値に異常はないということです。東京電力が原因を調べています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240424/k10014431501000.html",
+          "publishedOn": "2024-04-24T03:04:39.000Z",
+          "wordCount": 609,
+          "title": "福島第一原発 電気供給系統の一部が停止 処理水の放出止まる",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240424/K10014431501_2404241201_0424120441_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240424/k10014431471000.html",
           "author": null,
@@ -15044,6 +15064,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121138/",
+          "author": null,
+          "description": "「名探偵コナン 100万ドルの五稜星（みちしるべ）」の公開を記念して、Huluで「名探偵コナン」劇場版シリーズ過去作・全26作品が配信されている。東京・新宿と、「100万ドルの五稜星」の舞台とな...",
+          "link": "https://anime.eiga.com/news/121138/",
+          "publishedOn": "2024-04-24T03:00:00.000Z",
+          "wordCount": 931,
+          "title": "新宿に「名探偵コナン」探偵と怪盗の名シーンを収めた15メートル広告登場　函館には“五稜星”仕様の広告",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121063/",
           "author": null,
