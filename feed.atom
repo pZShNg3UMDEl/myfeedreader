@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T08:36:42.436Z</updated>
+    <updated>2024-04-24T08:50:38.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】にんにくスタミナ豚焼肉丼【新作コンビニ弁当】]]></title>
+        <id>https://foodfighter.jp/?p=243339</id>
+        <link href="https://foodfighter.jp/711sej-stamina-yakiniku-don"/>
+        <updated>2024-04-24T08:43:35.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「にんにくスタミナ豚焼肉丼」を世界一詳しく調査しました。   公式YouTubeチャンネル【進 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイで日本人男性の切断遺体 背景に日本人どうしのトラブルか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240424/k10014431861000.html</id>
@@ -42,6 +52,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240424/k10014431831000.html"/>
         <updated>2024-04-24T08:27:39.000Z</updated>
         <summary type="html"><![CDATA[中国との関係が争点の1つとなっていた、南太平洋の島国、ソロモン諸島の総選挙の結果が判明し、中国との関係を深めてきた与党は第1党となったものの、過半数を獲得することができず、今後、連立政権に向けた交渉が本格化することになります。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染症対策の行動計画改定案 有識者会議で大筋了承]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240424/k10014431871000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240424/k10014431871000.html"/>
+        <updated>2024-04-24T08:20:47.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナの教訓を踏まえた政府による感染症対策の行動計画の改定案が、24日の有識者会議で大筋で了承されました。医療ひっ迫のおそれがあれば、科学的な知見が不十分な段階でも緊急事態宣言を含めた強い措置を講じると明記しています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
