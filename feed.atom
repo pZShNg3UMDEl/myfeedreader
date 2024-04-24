@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T22:14:07.216Z</updated>
+    <updated>2024-04-24T22:29:52.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国連安保理 日米提出の宇宙非核決議案否決 ロシアが拒否権]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240425/k10014432431000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240425/k10014432431000.html"/>
+        <updated>2024-04-24T22:21:43.000Z</updated>
+        <summary type="html"><![CDATA[国連の安全保障理事会では、宇宙空間に核兵器などの大量破壊兵器を配備しないよう求める決議案を日本とアメリカが提出し、日本時間の25日に行われた採決の結果、理事国15か国のうち▽13か国が賛成しましたが▽中国が棄権し▽ロシアが拒否権を行使して、決議案は否決されました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消毒液を「抱き合わせ販売」医療機器販売会社に排除措置命令へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240425/k10014431841000.html</id>
