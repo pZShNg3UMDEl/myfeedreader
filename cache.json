@@ -294,16 +294,6 @@
           "wordCount": 2593,
           "title": "ステップダウン形DC/DCコンバーターの設計（5）",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/21/l_tt240326_DCDC_001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/26/news047.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、突入電流制限PTCサーミスター「PTCEL13R」「PTCEL17R」を発表した。最大エネルギー処理能力は240Jで、複数組み合わせることで、1000J以上のエネルギー処理が可能だ。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/26/news047.html",
-          "publishedOn": "2024-03-26T00:00:00.000Z",
-          "wordCount": 2586,
-          "title": "最大エネルギー処理能力が240Jの突入電流制限PTCサーミスター",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/26/cover_news047.jpg"
         }
       ]
     },
@@ -1843,6 +1833,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240424/k10014432181000.html",
+          "author": null,
+          "description": "24日のロンドン外国為替市場では円安が一段と加速し、円相場は一時、1ドル＝155円台まで値下がりしました。1ドル＝155円台となるのは1990年6月以来、およそ34年ぶりです。アメリカ経済が堅調なことから市場ではFRB＝連邦準備制度理事会の利下げが遅れるとの見方が広がっていて日米の金利差が意識されやすく、円を売ってドルを買う動きが強まっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240424/k10014432181000.html",
+          "publishedOn": "2024-04-24T12:16:43.000Z",
+          "wordCount": 177,
+          "title": "円安が加速 円相場 一時1ドル＝155円台に 約34年ぶり",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240424/K10014432181_2404242118_0424211846_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240424/k10014432141000.html",
           "author": null,
@@ -15415,6 +15415,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121142/",
+          "author": null,
+          "description": "東宝による新たな才能支援プロジェクト「GEMSTONE Creative Label」の初の劇場公開作品となるオムニバス映画「GEMNIBUS vol.1」の製作発表会見が、4月23日に開催され...",
+          "link": "https://anime.eiga.com/news/121142/",
+          "publishedOn": "2024-04-24T12:00:00.000Z",
+          "wordCount": 1046,
+          "title": "東宝の短編オムニバス映画の発表会見に、ちな監督が登壇　アニメーターが主人公の物語を手がける",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121140/",
           "author": null,
           "description": "人気スマートフォン向けアプリをテレビアニメ化する「魔法使いの約束」の出演キャスト22人が明らかになった。スタッフの陣容も発表されている。 株式会社colyが展開する原作ゲームは、2019年11月...",
@@ -18138,6 +18153,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=10027",
+          "author": "watanabe@logipara.com",
+          "description": "最初から読む方はこちら(その1)から。レポートその7の続きです。 　 夕食 二日目夜のショー「洋ちゃんを褒めちぎる会」も終了。 まだまだ褒めたりない、なんなら一晩中褒めちぎりたい我々ですが、次は夕食です。 オフィスキュー […]",
+          "link": "https://logipara.com/everepo/yosoro8",
+          "publishedOn": "2024-04-24T12:28:34.000Z",
+          "wordCount": 4521,
+          "title": "大泉洋と行く豪華客船クルーズ YOソロー! レポート8(二日目夜)",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/04/pic61.jpg"
+        },
         {
           "id": "https://logipara.com/?p=10021",
           "author": "watanabe@logipara.com",
