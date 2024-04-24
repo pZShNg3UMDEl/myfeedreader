@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T05:38:41.161Z</updated>
+    <updated>2024-04-24T05:50:11.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国製「黒鉛電極」不当に安く輸入か 関税上乗せ必要性を調査]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240424/k10014431551000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240424/k10014431551000.html"/>
+        <updated>2024-04-24T04:47:59.000Z</updated>
+        <summary type="html"><![CDATA[鉄スクラップをリサイクルするため高温で溶かす際に使う「黒鉛電極」と呼ばれる製品をめぐって、政府は中国製のものが不当に安く輸入され、日本企業に損害を与えている可能性があるとして、関税を上乗せする「反ダンピング課税」を適用する必要があるか、調査を始めました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“消滅する可能性がある”744自治体 全体の4割に 人口戦略会議]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240424/k10014431611000.html</id>
