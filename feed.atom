@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T03:37:58.490Z</updated>
+    <updated>2024-04-24T03:50:13.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IHI原動機 燃料消費率の測定データを改ざん 国交省が調査へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240424/k10014431511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240424/k10014431511000.html"/>
+        <updated>2024-04-24T03:32:44.000Z</updated>
+        <summary type="html"><![CDATA[船舶用のエンジンを製造するIHI原動機が燃料消費率の測定データを改ざんしていたことが関係者への取材でわかりました。このデータは試運転の際に測定して取引先に報告するもので、国土交通省は会社側に事実関係の報告を求めるともに詳しいいきさつを調査する方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲報】東京、人が多過ぎて座れるカフェがなく、若者が道端に座り始める]]></title>
         <id>https://itainews.com/archives/2034956.html</id>
