@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T11:50:24.992Z</updated>
+    <updated>2024-04-25T12:20:36.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ジブリパークとジブリ展」東京会場チケットは4月26日発売　「昭和食堂船」もオープン]]></title>
+        <id>https://anime.eiga.com/news/121112/</id>
+        <link href="https://anime.eiga.com/news/121112/"/>
+        <updated>2024-04-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京・天王洲で開催される「ジブリパークとジブリ展」東京会場のチケットが、4月26日から発売される。 2022年11月、愛知県の愛・地球博記念公園内に「ジブリパーク」が開園。公園の木々と調和するよ...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三重 四日市 発電所で清掃作業中の男性2人転落 意識不明の重体]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240425/k10014433421000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240425/k10014433421000.html"/>
+        <updated>2024-04-25T11:52:04.000Z</updated>
+        <summary type="html"><![CDATA[25日夕方、三重県四日市市の発電所で、ボイラー施設の清掃作業をしていた男性2人が高所から転落する事故があり、病院に搬送されましたが、意識不明の重体になっています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【兵庫】全裸透明レインコート男あらわる]]></title>
         <id>https://itainews.com/archives/2034986.html</id>
@@ -28941,16 +28961,6 @@ disciplines stand to take advantage of larger and larger SPAD image sensors with
         <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです♪ 今回は本厚木駅徒歩圏内で、オープン日が未定だったり、休業していた店舗など、 「あれからどうなった？」が気になるお店の現在の情報をまとめてみました！ 全部で4件、一気にどうぞ☆ 【3月22日グランドオープン…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汎用性が高い1.4mm角の小型LEDチップ]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html"/>
-        <updated>2024-03-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ams OSRAMは、汎用性が高いLEDチップ「OSLON Pure 1414」を発表した。サイズは1.4×1.4mmと小型で、屋内や店舗、舞台、建築、医療用の照明に適する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>

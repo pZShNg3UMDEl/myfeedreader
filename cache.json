@@ -294,16 +294,6 @@
           "wordCount": 2613,
           "title": "電力損失を最大70％削減した、ソリッドステートアイソレーター",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/28/cover_news092.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html",
-          "author": null,
-          "description": "ams OSRAMは、汎用性が高いLEDチップ「OSLON Pure 1414」を発表した。サイズは1.4×1.4mmと小型で、屋内や店舗、舞台、建築、医療用の照明に適する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/27/news077.html",
-          "publishedOn": "2024-03-27T00:00:00.000Z",
-          "wordCount": 2619,
-          "title": "汎用性が高い1.4mm角の小型LEDチップ",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/27/cover_news077.jpg"
         }
       ]
     },
@@ -1913,6 +1903,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240425/k10014433421000.html",
+          "author": null,
+          "description": "25日夕方、三重県四日市市の発電所で、ボイラー施設の清掃作業をしていた男性2人が高所から転落する事故があり、病院に搬送されましたが、意識不明の重体になっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240425/k10014433421000.html",
+          "publishedOn": "2024-04-25T11:52:04.000Z",
+          "wordCount": 708,
+          "title": "三重 四日市 発電所で清掃作業中の男性2人転落 意識不明の重体",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240425/K10014433421_2404252043_0425205206_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240425/k10014433411000.html",
           "author": null,
@@ -16214,6 +16214,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121112/",
+          "author": null,
+          "description": "東京・天王洲で開催される「ジブリパークとジブリ展」東京会場のチケットが、4月26日から発売される。 2022年11月、愛知県の愛・地球博記念公園内に「ジブリパーク」が開園。公園の木々と調和するよ...",
+          "link": "https://anime.eiga.com/news/121112/",
+          "publishedOn": "2024-04-25T12:00:00.000Z",
+          "wordCount": 1063,
+          "title": "「ジブリパークとジブリ展」東京会場チケットは4月26日発売　「昭和食堂船」もオープン",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121124/",
           "author": null,
