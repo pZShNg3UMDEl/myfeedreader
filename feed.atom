@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T23:14:19.220Z</updated>
+    <updated>2024-04-25T23:26:14.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433701000.html"/>
         <updated>2024-04-25T23:13:28.000Z</updated>
         <summary type="html"><![CDATA[東京メトロによりますと銀座線は上野駅での信号確認のため、午前7時23分ごろから全線で運転を見合わせていましたが、その後区間が縮小し、浅草駅と三越前駅の間の上下線で運転の見合わせが続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米 ウクライナ軍事支援巡り ロシア側からけん制する発言相次ぐ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433371000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433371000.html"/>
+        <updated>2024-04-25T23:06:01.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナへの軍事支援を巡りアメリカ政府が射程の長いミサイルをウクライナに供与したと明らかにしたことに対し、ロシア側からけん制する発言が相次いでいます。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
@@ -42,6 +52,16 @@
 （大阪）大阪市生野区巽中２丁目で金銭授与　４月２４日夕方 https://t.co/2Pb3lYuleG 女児に声をかけ、紙幣を置き、いなくなった。「これでジュース買い」※北巽駅— 日本不審者情報センター (...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「8Coin」と呼ばれる暗号資産を違法販売か 会社社長ら2人逮捕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433591000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433591000.html"/>
+        <updated>2024-04-25T22:31:07.000Z</updated>
+        <summary type="html"><![CDATA[「8Coin」と呼ばれる暗号資産を無登録で販売したとして、千葉県の会社社長ら2人が逮捕されました。北海道警は、2人が全国の顧客にあわせて少なくとも数億円分の暗号資産を違法に販売していたとみて調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
