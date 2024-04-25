@@ -1904,6 +1904,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240425/k10014433471000.html",
+          "author": null,
+          "description": "ウクライナの原子力発電公社エネルゴアトムのコティン総裁は、NHKの単独インタビューに対し、攻撃が相次ぐ南部のザポリージャ原子力発電所について「最も危険なことは経験豊富な職員がいないことだ」と述べ、専門知識を持つ人たちがロシア側によって追い出され、有事に対応できる能力などが著しく低下していると危機感を示しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240425/k10014433471000.html",
+          "publishedOn": "2024-04-25T13:02:40.000Z",
+          "wordCount": 631,
+          "title": "ザポリージャ原発 “経験豊富な職員がいない” 原発公社総裁",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240425/K10014433471_2404252142_0425220242_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240425/k10014433441000.html",
           "author": null,
           "description": "アメリカのことし1月から3月までのGDP＝国内総生産が25日に発表され、前の3か月と比べた伸び率は、年率に換算してプラス1.6％となりました。7期連続のプラス成長ですが2.5％程度を見込んでいた市場予想を大きく下回りました。",
@@ -16225,6 +16235,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121103/",
+          "author": null,
+          "description": "ディズニー100周年記念作品「ウィッシュ」が、4月26日からディズニープラスで見放題独占配信される。 本作は、どんな願いも叶うとされる魔法の王国を舞台に、願い星に選ばれた少女アーシャが、全ての願...",
+          "link": "https://anime.eiga.com/news/121103/",
+          "publishedOn": "2024-04-25T13:00:00.000Z",
+          "wordCount": 1003,
+          "title": "「ウィッシュ」4月26日からディズニープラスで配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121112/",
           "author": null,
           "description": "東京・天王洲で開催される「ジブリパークとジブリ展」東京会場のチケットが、4月26日から発売される。 2022年11月、愛知県の愛・地球博記念公園内に「ジブリパーク」が開園。公園の木々と調和するよ...",
@@ -24223,6 +24248,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71366",
+          "author": "299",
+          "description": "飼い主さんに寄りかかるようにして立ち上がって愛情を示してくれる猫のジャスパーくん。 とってもスリムボディな白猫さんですが、伸びると驚くほど長くて一瞬、ワンコかと思ってしまうほどです。飼い主さんが動けば、それにくっついて素...\nありったけの愛情を注いでくれる白猫ジャスパー first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71366",
+          "publishedOn": "2024-04-25T13:00:57.000Z",
+          "wordCount": 1338,
+          "title": "ありったけの愛情を注いでくれる白猫ジャスパー",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71366.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71362",
           "author": "299",
