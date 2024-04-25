@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T22:12:02.985Z</updated>
+    <updated>2024-04-25T22:26:58.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ前大統領 議会乱入事件での免責 連邦最高裁で弁論]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433361000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433361000.html"/>
+        <updated>2024-04-25T22:20:58.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで3年前に起きた議会乱入事件を巡り、起訴されたトランプ前大統領が在任中の大統領としての行動は刑事責任を問われないと訴えていることについて連邦最高裁判所で弁論が開かれました。アメリカのメディアは審理には時間がかかり、議会乱入事件をめぐる裁判が11月の大統領選挙後まで始まらない可能性もあると伝えています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「日の丸飛行隊」笠谷幸生さん死去 80歳 札幌五輪で金メダル]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240426/k10014433671000.html</id>
