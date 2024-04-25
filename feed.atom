@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T07:36:25.098Z</updated>
+    <updated>2024-04-25T07:50:15.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国 北京モーターショー始まる 「新エネルギー車」をアピール]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240425/k10014433021000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240425/k10014433021000.html"/>
+        <updated>2024-04-25T07:47:51.000Z</updated>
+        <summary type="html"><![CDATA[中国 北京で、世界最大規模のモーターショーが、25日から始まりました。中国では、EV＝電気自動車など「新エネルギー車」の販売台数が全体の3分の1を占めていて、各社とも「新エネ車」の最新モデルを展示し、アピールしています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[家庭訪問中、教員がコンビニでトイレ休憩→「けしからん」と学校にクレーム電話]]></title>
         <id>https://itainews.com/archives/2034977.html</id>
@@ -31,6 +41,16 @@
         <link href="http://www3.nhk.or.jp/news/html/20240425/k10014432991000.html"/>
         <updated>2024-04-25T06:57:37.000Z</updated>
         <summary type="html"><![CDATA[大型連休を含む今月26日からの11日間に成田空港から出入国する人は83万人余りと、去年の同じ時期と比べて1.3倍になる見込みです。空港会社は保安検査などに時間がかかるため早めに空港に来るよう呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能登半島地震 被災した人向け 車の無料貸し出し 申し込み増]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240425/k10014432951000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240425/k10014432951000.html"/>
+        <updated>2024-04-25T06:55:04.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で被災した人向けに車両を無料で貸し出すサービスを行っている団体には、大型連休を前に、片付けのために車を借りたいという申し込みが増えています。]]></summary>
         <author>
             <name>NHKニュース</name>
         </author>
