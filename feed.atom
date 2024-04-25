@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T04:35:23.906Z</updated>
+    <updated>2024-04-25T04:50:11.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宮沢博行前防衛副大臣が議員辞職]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240425/k10014432821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240425/k10014432821000.html"/>
+        <updated>2024-04-25T04:38:23.000Z</updated>
+        <summary type="html"><![CDATA[妻以外の女性と金銭的な援助を伴う同棲生活を送っていたなどと報じられた宮沢博行前防衛副大臣が、25日に議員を辞職しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲痛】大阪万博の建設作業員「食堂まで歩いて30分。行って帰って1時間で飯食う時間ないねん」]]></title>
         <id>https://itainews.com/archives/2034980.html</id>
