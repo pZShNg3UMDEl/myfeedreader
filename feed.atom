@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T09:50:16.881Z</updated>
+    <updated>2024-04-25T10:14:03.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「アニサマ2024」第2弾出演アーティスト5組が発表　アニサマ初出演のAimerが意気込み]]></title>
+        <id>https://anime.eiga.com/news/121123/</id>
+        <link href="https://anime.eiga.com/news/121123/"/>
+        <updated>2024-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[さいたまスーパーアリーナで8月30日から9月1日の3日間にわたり開催される世界最大のアニソンライブイベント「Animelo Summer Live 2024 -Stargazer-」の第2弾出演...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国 スペインにパンダ貸し出しへ 欧米との関係安定化の思惑か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240425/k10014433171000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240425/k10014433171000.html"/>
+        <updated>2024-04-25T09:48:59.000Z</updated>
+        <summary type="html"><![CDATA[中国は、スペインの動物園に今月からジャイアントパンダを貸し出すことになりました。貴重なパンダを活用したいわゆる「パンダ外交」で、欧米との関係の安定化を図りたい中国側の思惑もありそうです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイで日本人男性の切断遺体 男2人は特殊詐欺グループだったか]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240425/k10014433181000.html</id>
