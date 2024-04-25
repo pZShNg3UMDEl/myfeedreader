@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/25/news046.html",
+          "author": null,
+          "description": "テレダインe2vは、2D（次元）画像と3D深度マップとの組み合わせが可能なフルHD CMOSイメージセンサー「Topaz5D」を開発した。検出したコントラストに基づき、3Dオブジェクトを視覚化できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/25/news046.html",
+          "publishedOn": "2024-04-25T00:00:00.000Z",
+          "wordCount": 2546,
+          "title": "3次元深度マップを生成可能なフルHD CMOSイメージセンサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/25/cover_news046.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/24/news079.html",
           "author": null,
           "description": "マイクロチップ・テクノロジーは、組み込みセキュリティソリューションの利用が容易になるプラットフォームRoT（Root of Trust）コントローラー「CEC1736 TrustFLEX」デバイスを発表した。",
@@ -1844,6 +1854,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240425/k10014432541000.html",
+          "author": null,
+          "description": "エンジンメーカーのIHI原動機が船舶用のエンジンなどで燃料消費率の測定データを改ざんしていた問題で、国土交通省は25日、船舶安全法に基づき、新潟市と群馬県太田市の工場で立ち入り検査を始めました。午前9時半ごろに国土交通省の担当者、あわせて11人が相次いで2つの工場に歩いて入りました。国土交通省はエンジンの製造に携わる関係者に聞き取りを行うなどして詳しい事実関係を確認することにしています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240425/k10014432541000.html",
+          "publishedOn": "2024-04-25T00:55:47.000Z",
+          "wordCount": 702,
+          "title": "IHI子会社工場に国交省が立ち入り検査 測定データ改ざん問題で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240425/K10014432541_2404250950_0425095548_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240425/k10014432531000.html",
+          "author": null,
+          "description": "25日の東京株式市場、日経平均株価は、500円以上値下がりしています。24日、日経平均株価が900円を超える大幅な上昇となった反動で当面の利益を確定しようという動きが出ていることや、日本時間の25日朝アメリカのIT大手が発表した業績見通しが市場の予想を下回ったと伝わったことで、半導体関連などの銘柄に売り注文が出ています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240425/k10014432531000.html",
+          "publishedOn": "2024-04-25T00:48:38.000Z",
+          "wordCount": 638,
+          "title": "日経平均株価 500円以上値下がり",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240425/K10014432531_2404250931_0425094840_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240425/k10014432511000.html",
           "author": null,
           "description": "沖縄電力によりますと、沖縄県の宮古島では25日午前3時すぎから大規模な停電が発生しています。",
@@ -1852,6 +1882,16 @@
           "wordCount": 673,
           "title": "沖縄 宮古島 ほぼ全戸の2万5490戸が停電 復旧のめど立たず",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240425/K10014432511_2404250834_0425083911_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240425/k10014432491000.html",
+          "author": null,
+          "description": "動画共有アプリTikTokは、簡易版アプリの一部のサービスをヨーロッパで自主的に停止すると発表しました。EU＝ヨーロッパ連合がサービスをめぐって未成年に対する中毒性のリスクが懸念されるなどとして調査を始めるなか、TikTokは「示された懸念に対応するまでの措置だ」としています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240425/k10014432491000.html",
+          "publishedOn": "2024-04-24T23:23:26.000Z",
+          "wordCount": 683,
+          "title": "TikTok EUで簡易版アプリの一部サービス 自主的停止を発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240425/K10014432491_2404250821_0425082205_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240425/k10014432391000.html",
@@ -15745,6 +15785,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121143/",
+          "author": null,
+          "description": "「劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師」の第1弾特報映像が公開された。テレビアニメ「忍たま乱太郎」でもおなじみの楽曲「勇気100％」のイントロで幕が上がるも、普段の「忍たま」とは異なる...",
+          "link": "https://anime.eiga.com/news/121143/",
+          "publishedOn": "2024-04-25T01:00:00.000Z",
+          "wordCount": 1054,
+          "title": "劇場版「忍たま乱太郎」土井先生が行方不明になる第1弾特報が公開　きり丸が土井先生に問いかける姿も",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121057/",
           "author": null,
           "description": "「ゴジラ×コング 新たなる帝国」の日本版主題歌が、Yaffle x AIの「RISE TOGETHER feat. OZworld」に決定、このほど本楽曲を使用した日本語吹替版予告が公開された。...",
@@ -19259,6 +19314,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=243427",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」へ […]",
+          "link": "https://foodfighter.jp/komeda-jellico-ghana-milk",
+          "publishedOn": "2024-04-25T00:30:00.000Z",
+          "wordCount": 1959,
+          "title": "【コメダ珈琲店】ジェリコ ガーナミルク【ロッテガーナチョコレートコラボ、新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/f469ef908fa52076a519f6091d91a09d.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=243405",
           "author": "foodfighter",
@@ -23513,6 +23578,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71371",
+          "author": "299",
+          "description": "ブリーダーさんのところからやってきた新しい家族のマンチカン猫のソソル。 最初は同居犬であるポメラニアンのソウンと仲良くできるか不安もありましたが、7日目には新しいお家にもすっかり慣れてくれて、爪とぎポールで楽しそうに遊ん...\nたった7日間で強い絆の一つのファミリーができあがりました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71371",
+          "publishedOn": "2024-04-25T00:00:27.000Z",
+          "wordCount": 1342,
+          "title": "たった7日間で強い絆の一つのファミリーができあがりました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71371.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71338",
           "author": "299",
