@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T11:50:25.615Z</updated>
+    <updated>2024-04-26T12:24:51.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全国指名手配 上地恵栄容疑者 事件翌年には死亡明らかに]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014434811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014434811000.html"/>
+        <updated>2024-04-26T12:08:52.000Z</updated>
+        <summary type="html"><![CDATA[19年前の2005年に東京・三鷹市で居酒屋の副店長を殺害したとして全国に指名手配されていた元暴力団員の上地恵栄容疑者が事件の翌年には、石川県内で死亡していたことがわかりました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山田尚子監督「きみの色」、アヌシー映画祭コンペ部門に　場面カット11点披露]]></title>
+        <id>https://anime.eiga.com/news/121168/</id>
+        <link href="https://anime.eiga.com/news/121168/"/>
+        <updated>2024-04-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[山田尚子監督最新作「きみの色」が、6月9～15日（現地時間）に開催される世界最大のアニメーション映画祭として知られる、アヌシー国際アニメーション映画祭の長編コンペティション部門に出品されることが...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キッコーマン社長 “円安で業績押し上げ 海外展開強化へ”]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240426/k10014434761000.html</id>
@@ -30395,16 +30415,6 @@ disciplines stand to take advantage of larger and larger SPAD image sensors with
         <summary type="html"><![CDATA[ロンドンを拠点とするInvisibility Shield Co.が、社名そのままの製品「Invisibility Shield 2.0」を商品化すべく、Kickstarterでクラウドファンディングを行っている。大きさは3種類あり、最も小さな約30.5×20cm（A3サイズぐらい）の大きさのものな […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電力損失を最大70％削減した、ソリッドステートアイソレーター]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2403/28/news092.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2403/28/news092.html"/>
-        <updated>2024-03-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インフィニオン テクノロジーズは、ソリッドステートアイソレーターの新しい製品ファミリーを発表した。電力損失を最大70％抑えてスイッチングを高速化する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
