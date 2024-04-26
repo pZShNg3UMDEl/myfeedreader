@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T15:50:15.970Z</updated>
+    <updated>2024-04-26T16:17:35.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lecture on Noise in Event Cameras and "SciDVS" camera]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/04/lecture-on-noise-in-event-cameras-and.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/04/lecture-on-noise-in-event-cameras-and.html"/>
+        <updated>2024-04-26T16:10:00.005Z</updated>
+        <summary type="html"><![CDATA[Talk title:   "Noise Limits of Event Cameras" presented at the Cambridge Huawei Frontiers in image Sensing 2024
+
+Speaker: Prof. Tobi Delbruck 
+
+Abstract: "Cameras that mimic biological eyes have a 50 year history and the DVS event camera pixel is now nearly 20 years old. Event camera academic and industrial development is active, but it is only in the last few years that we understand more about the ultimate limits on their noise performance. This talk will be about those limits: What are the smallest changes that we can detect at a particular light intensity and particular speed? What are the main sources of noise in event cameras and what are the limits on these? I will discuss these results in the context of our PhD student Rui Graca’s work on SciDVS, a large-pixel DVS that targets scientific applications such as neural imaging and space domain awareness."]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年4月20日から4月26日】]]></title>
         <id>https://foodfighter.jp/?p=243592</id>
@@ -30542,26 +30556,6 @@ disciplines stand to take advantage of larger and larger SPAD image sensors with
         <summary type="html"><![CDATA[Googleは今年初めから、一部の最新Androidスマートフォンを対象に「かこって検索」（Circle to Search）機能を提供している。画像やテキスト、動画を観ているときに、気になる箇所を丸で囲んだりなぞることで、アプリを切り替えずにすぐに検索できるというものだ。 同社はこの機能をアップデ […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone SE4、“低価格の可能性”が高まる。有機ELパネルを中国BOEが独占供給か]]></title>
-        <id>https://gadget.phileweb.com/?p=72624</id>
-        <link href="https://gadget.phileweb.com/post-72624/"/>
-        <updated>2024-03-28T04:06:11.000Z</updated>
-        <summary type="html"><![CDATA[アップルがiPhone廉価モデルの後継機、通称「iPhone SE4」を準備中であり、これまでの液晶に替えて有機ELディスプレイを採用することも有力視されている。そのデザインはTouch ID内蔵ホームボタンも廃止してFace ID（顔認証）へと移行することで、「ほぼiPhone 14標準モデル」に […]]]></summary>
-        <author>
-            <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光学迷彩？隠れたモノが透けて見えなくなる「Invisibility Shield 2.0」]]></title>
-        <id>https://gadget.phileweb.com/?p=72637</id>
-        <link href="https://gadget.phileweb.com/post-72637/"/>
-        <updated>2024-03-28T03:59:49.000Z</updated>
-        <summary type="html"><![CDATA[ロンドンを拠点とするInvisibility Shield Co.が、社名そのままの製品「Invisibility Shield 2.0」を商品化すべく、Kickstarterでクラウドファンディングを行っている。大きさは3種類あり、最も小さな約30.5×20cm（A3サイズぐらい）の大きさのものな […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>

@@ -1711,26 +1711,6 @@
           "wordCount": 784,
           "title": "Googleの「かこって検索」が翻訳にも対応。Galaxy S23など過去モデルでも利用可能に",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/スクリーンショット-2024-03-28-140117.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=72624",
-          "author": "多根清史",
-          "description": "アップルがiPhone廉価モデルの後継機、通称「iPhone SE4」を準備中であり、これまでの液晶に替えて有機ELディスプレイを採用することも有力視されている。そのデザインはTouch ID内蔵ホームボタンも廃止してFace ID（顔認証）へと移行することで、「ほぼiPhone 14標準モデル」に […]",
-          "link": "https://gadget.phileweb.com/post-72624/",
-          "publishedOn": "2024-03-28T04:06:11.000Z",
-          "wordCount": 787,
-          "title": "iPhone SE4、“低価格の可能性”が高まる。有機ELパネルを中国BOEが独占供給か",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_1585865983.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=72637",
-          "author": "Munenori Taniguchi",
-          "description": "ロンドンを拠点とするInvisibility Shield Co.が、社名そのままの製品「Invisibility Shield 2.0」を商品化すべく、Kickstarterでクラウドファンディングを行っている。大きさは3種類あり、最も小さな約30.5×20cm（A3サイズぐらい）の大きさのものな […]",
-          "link": "https://gadget.phileweb.com/post-72637/",
-          "publishedOn": "2024-03-28T03:59:49.000Z",
-          "wordCount": 784,
-          "title": "光学迷彩？隠れたモノが透けて見えなくなる「Invisibility Shield 2.0」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/001-6.jpg"
         }
       ]
     },
@@ -1739,6 +1719,16 @@
       "feedUrl": "http://image-sensors-world.blogspot.com/feeds/posts/default",
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/04/lecture-on-noise-in-event-cameras-and.html",
+          "author": null,
+          "description": "Talk title:   \"Noise Limits of Event Cameras\" presented at the Cambridge Huawei Frontiers in image Sensing 2024\n\nSpeaker: Prof. Tobi Delbruck \n\nAbstract: \"Cameras that mimic biological eyes have a 50 year history and the DVS event camera pixel is now nearly 20 years old. Event camera academic and industrial development is active, but it is only in the last few years that we understand more about the ultimate limits on their noise performance. This talk will be about those limits: What are the smallest changes that we can detect at a particular light intensity and particular speed? What are the main sources of noise in event cameras and what are the limits on these? I will discuss these results in the context of our PhD student Rui Graca’s work on SciDVS, a large-pixel DVS that targets scientific applications such as neural imaging and space domain awareness.\"",
+          "link": "http://image-sensors-world.blogspot.com/2024/04/lecture-on-noise-in-event-cameras-and.html",
+          "publishedOn": "2024-04-26T16:10:00.005Z",
+          "wordCount": 3966,
+          "title": "Lecture on Noise in Event Cameras and \"SciDVS\" camera",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_taaeFrVn7UHbSs5BrY-eFjnRZuZk2zUFzqup7Sz_szkP7bRBuEjIdhuDWjIgGwMLBDbtwSGeDTJD0iWP-Ez0PKMIf7ZCcC8IYpBkLCRi04YrJFiA=w1200-h630-n-k-no-nu"
+        },
         {
           "id": "http://image-sensors-world.blogspot.com/2024/04/a-review-of-event-cameras-for.html",
           "author": null,
