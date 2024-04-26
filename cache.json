@@ -1944,6 +1944,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240426/k10014434011000.html",
+          "author": null,
+          "description": "親が子どもに宗教活動を強制するなど、保護者による宗教の信仰を背景にした児童虐待の実態についてこども家庭庁が初めて調査を行いました。その結果、児童相談所が虐待にあたると判断した事例は去年9月までの1年半に、全国で47件あったことがわかりました。いわゆる「宗教2世」への聞き取りや書面での調査では「誰に相談してよいかわからなかった」といった声が寄せられ、子どもが助けを求めることができる環境の整備が課題となっています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240426/k10014434011000.html",
+          "publishedOn": "2024-04-26T03:01:10.000Z",
+          "wordCount": 814,
+          "title": "宗教の信仰背景の児童虐待 こども家庭庁が初の実態調査",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240426/K10014434011_2404261140_0426115218_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240426/k10014433931000.html",
+          "author": null,
+          "description": "日銀の金融政策決定会合は26日が2日目で、このあと当面の金融政策の方針を公表します。日銀は、先月マイナス金利政策を解除したあとも緩和的な金融環境が続くという見解を示し、その後、急速に円安が進んでいますが、こうした状況を踏まえどのような政策スタンスを示すのかが焦点となります。",
+          "link": "http://www3.nhk.or.jp/news/html/20240426/k10014433931000.html",
+          "publishedOn": "2024-04-26T02:50:52.000Z",
+          "wordCount": 945,
+          "title": "日銀 金融政策方針 公表へ 円安のなか政策スタンスは",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240426/K10014433931_2404261121_0426115055_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240426/k10014433981000.html",
           "author": null,
           "description": "北日本や東日本を中心に晴れて午前中から気温が上がり、夏日となっているところがあります。午後はさらに気温が上がり、特に北日本では夏の暑さが予想されていて、この時期はまだ体が暑さに慣れていないため熱中症に注意が必要です。",
@@ -16615,6 +16635,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121150/",
+          "author": null,
+          "description": "「名探偵コナン 100万ドルの五稜星（みちしるべ）」が大ヒット公開中です。 劇場版「名探偵コナン」といえば、毎回のゲスト声優も注目ポイントのひとつ。そこで、アニメ・声優・イベント情報サイト「アニ...",
+          "link": "https://anime.eiga.com/news/121150/",
+          "publishedOn": "2024-04-26T03:00:00.000Z",
+          "wordCount": 1148,
+          "title": "劇場版「名探偵コナン」好きなゲスト声優は誰？【アンケート実施中】",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121103/",
           "author": null,
           "description": "ディズニー100周年記念作品「ウィッシュ」が、4月26日からディズニープラスで見放題独占配信される。 本作は、どんな願いも叶うとされる魔法の王国を舞台に、願い星に選ばれた少女アーシャが、全ての願...",
@@ -20234,6 +20269,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=243521",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム クレープ アップルシナモン」を世界一詳しく調査しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/711sej-crepe-apple-cinnamon",
+          "publishedOn": "2024-04-26T02:53:44.000Z",
+          "wordCount": 1805,
+          "title": "【セブンイレブン】セブンプレミアム クレープ アップルシナモン【新作コンビニ冷凍食品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/8d23aa2e9297521ab9659330557f6215.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=243496",
           "author": "foodfighter",
