@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T02:38:04.779Z</updated>
+    <updated>2024-04-26T02:50:29.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北・東日本中心に気温上昇 夏日のところも 熱中症に注意]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433981000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433981000.html"/>
+        <updated>2024-04-26T02:47:32.000Z</updated>
+        <summary type="html"><![CDATA[北日本や東日本を中心に晴れて午前中から気温が上がり、夏日となっているところがあります。午後はさらに気温が上がり、特に北日本では夏の暑さが予想されていて、この時期はまだ体が暑さに慣れていないため熱中症に注意が必要です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国防総省 ガザ地区に仮設ふ頭建設開始 海から支援物資搬入へ]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433991000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433991000.html"/>
+        <updated>2024-04-26T02:46:34.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスによる戦闘の影響でガザ地区で深刻な人道状況が続く中、アメリカ国防総省は、ガザ地区に海から食料などの支援物資の搬入に使う仮設のふ頭の建設を始めたことを明らかにしました。バイデン政権としては、人道状況の改善に取り組む姿勢をアピールするねらいがあるとみられます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AirでもProでもない「新たなiPad」が年末登場との予測]]></title>
         <id>https://gadget.phileweb.com/?p=74543</id>
