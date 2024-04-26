@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T07:13:28.414Z</updated>
+    <updated>2024-04-26T07:23:39.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[石川 大型連休で多くのボランティア見込み “遠慮せず依頼を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014434291000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014434291000.html"/>
+        <updated>2024-04-26T07:10:42.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震の被災地では、27日からの大型連休に合わせて多くのボランティアが訪れると見込まれ、石川県は被災者に対し遠慮せず作業を依頼してほしいと呼びかけています。ボランティアに対しては、休憩や水分補給をこまめに行い体調管理への注意を呼びかけています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石川 志賀町 地震で被害のすし店 約4か月ぶりに営業再開]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240426/k10014434301000.html</id>
