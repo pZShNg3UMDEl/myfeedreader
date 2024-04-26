@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T17:28:16.972Z</updated>
+    <updated>2024-04-26T17:38:44.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR東日本「カスハラ」対処方針策定 乗客から罵声など後絶たず]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014434851000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014434851000.html"/>
+        <updated>2024-04-26T17:24:41.000Z</updated>
+        <summary type="html"><![CDATA[鉄道の乗務員や駅員などが乗客から罵声を浴びせられるなどのカスタマーハラスメントいわゆる「カスハラ」が後を絶たないとして、JR東日本は初めて「カスハラ」への対処方針を策定しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ チョルノービリ原発事故から38年 現地で追悼式典]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014434871000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014434871000.html"/>
+        <updated>2024-04-26T17:19:49.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ北部のチョルノービリ原子力発電所の事故から38年となった26日、現地で式典が開かれ、犠牲者を悼みました。ゼレンスキー大統領は惨事を繰り返さないためにもロシアが占拠を続ける南部のザポリージャ原発を解放しすべての原子力施設をロシアの攻撃から守る必要があると訴えました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天皇皇后両陛下 6月下旬に国賓としてイギリス公式訪問へ]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240427/k10014434771000.html</id>
