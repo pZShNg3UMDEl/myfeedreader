@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T09:14:06.523Z</updated>
+    <updated>2024-04-26T09:25:27.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -74,6 +74,16 @@
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、お店で手巻きした食感と風味豊かな味わいの元祖焼き餃子が人気のチェーン店「大阪王将」へ進撃しました。 & […]]]></summary>
         <author>
             <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローソン KDDIが共同経営に加わるためのTOB成立を発表]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014434451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014434451000.html"/>
+        <updated>2024-04-26T08:34:23.000Z</updated>
+        <summary type="html"><![CDATA[コンビニ大手のローソンは、親会社の三菱商事とともに通信大手のKDDIが新たに共同経営に加わるための、TOB＝株式の公開買い付けが、26日に成立したと発表しました。ことし夏ごろをめどに株式を非上場化し、異業種の連携による事業の強化を進める方針です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
         </author>
     </entry>
     <entry>
