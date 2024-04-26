@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T00:59:30.571Z</updated>
+    <updated>2024-04-26T01:55:24.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[柏崎刈羽原発7号機 原子炉に核燃料入れる作業完了 東京電力]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433821000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433821000.html"/>
+        <updated>2024-04-26T01:21:02.000Z</updated>
+        <summary type="html"><![CDATA[東京電力は、新潟県にある柏崎刈羽原子力発電所7号機で進めていた原子炉に核燃料を入れる作業が26日未明に完了したと発表しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幹部自衛官5人を懲戒処分「特定秘密」資格ない隊員に伝えたか]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433791000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433791000.html"/>
+        <updated>2024-04-26T01:11:46.000Z</updated>
+        <summary type="html"><![CDATA[防衛省は、国の安全などに関わるとして高度な情報保全が求められる「特定秘密」の情報を取り扱う資格のない隊員に伝えたなどとして、幹部自衛官5人を停職などの懲戒処分にしました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約34年ぶりの円安 鈴木財務相“市場動向を注視 万全の対応を”]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240426/k10014433781000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240426/k10014433781000.html"/>
+        <updated>2024-04-26T00:59:51.000Z</updated>
+        <summary type="html"><![CDATA[外国為替市場で、円相場が1ドル155円台後半まで値下がりし、およそ34年ぶりの円安水準となっていることについて、鈴木財務大臣は、市場の動向を注視したうえで万全の対応をとるという考えを改めて強調しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佳子さま ギリシャ公式訪問へ 正式決定 外交関係樹立から125年]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240426/k10014433741000.html</id>
