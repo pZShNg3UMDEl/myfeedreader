@@ -284,16 +284,6 @@
           "wordCount": 2595,
           "title": "64ビット「Arm Cortex-A35コア」を搭載したマイクロプロセッサ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/01/cover_news024.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2403/29/news079.html",
-          "author": null,
-          "description": "マクニカは、近藤電子工業と共同で、AlteraのAgilex 5デバイス搭載評価ボード「Mpression Sulfur」を開発した。Agilex 5 FPGA & SoC Eシリーズを搭載していて、SOMと豊富なインタフェースを搭載したキャリアボードをセットにした。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2403/29/news079.html",
-          "publishedOn": "2024-03-29T00:00:00.000Z",
-          "wordCount": 2642,
-          "title": "Alteraの「Agilex 5」デバイスを搭載した評価ボード",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2403/29/cover_news079.jpg"
         }
       ]
     },
@@ -17535,6 +17525,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121131/",
+          "author": null,
+          "description": "「ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章」の特報映像が披露された。また、同作がMX4D、4DX、ドルビーアトモス、ドルビーシネマでも公開されることも分かった。 「ラブライブ...",
+          "link": "https://anime.eiga.com/news/121131/",
+          "publishedOn": "2024-04-27T12:00:00.000Z",
+          "wordCount": 876,
+          "title": "「ラブライブ！ニジガク」劇場アニメ第1作、沖縄が舞台の特報披露　4D、ドルビーシネマの公開も決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121141/",
           "author": null,
           "description": "放送中のテレビアニメ「ザ・ファブル」が、YouTubeチャンネル「フル☆アニメTV」で全話無料配信されることが決定した。4月28日から順次配信中。■各話の配信スケジュール1～3話：4月28日午後...",
@@ -20514,6 +20519,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10059",
+          "author": "watanabe@logipara.com",
+          "description": "やあやあこんにちは。謎の花粉に苦しめられている男です。 いろんな花の受粉要求に苛まれているということは、これはモテているということでは？違いますかそうですか(早期の撤収)。 　 とある漫画を読んでいたら、男性が既婚か […]",
+          "link": "https://logipara.com/diary-text/2024-04-28",
+          "publishedOn": "2024-04-27T12:17:27.000Z",
+          "wordCount": 4378,
+          "title": "日本語って難しい",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=10052",
           "author": "watanabe@logipara.com",
           "description": "...",
@@ -21226,16 +21241,6 @@
           "wordCount": 1162,
           "title": "【衝撃！閉店】ラーメン通の間で話題になっていた「らーめん丸心」が4月15日をもって閉店だって…！［厚木市中町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/close-marushin202403.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=41943",
-          "author": "fumie",
-          "description": "こんにちは、ふみえ＠あつらぼです！ 今回は3月30日（土）午前7時オープン予定！と情報をお伝えした 自家焙煎のコーヒーショップ「summer blue coffee」のプレオープンにお邪魔して参りましたー！ 早速取れたてのレポートをどうぞ☆…",
-          "link": "https://atsugi-lab.com/openreport-summerbluecoffee202403/",
-          "publishedOn": "2024-03-29T00:20:00.000Z",
-          "wordCount": 1225,
-          "title": "【プレオープンに行ってきた♪】3月30日7時オープン・自家焙煎のコーヒーショップ「summer blue coffee」［厚木市中町］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/03/sbc20240330.jpg"
         }
       ]
     },
@@ -21244,6 +21249,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=243663",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「キムパ＆チュモッパセット　ヤンニョムチキン・卵焼き」を世界一詳しく調査しました。   公式Y […]",
+          "link": "https://foodfighter.jp/711sej-gimbap-chumoppa",
+          "publishedOn": "2024-04-27T12:17:31.000Z",
+          "wordCount": 1798,
+          "title": "【セブンイレブン】キムパ＆チュモッパセット　ヤンニョムチキン・卵焼き【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/4424d40696dd672b0c148a438a98b8b0.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=243637",
           "author": "foodfighter",
@@ -22653,16 +22668,6 @@
           "wordCount": 1789,
           "title": "【ミニストップ】ソフトクリームバニラ・マンゴー＆パッションフルーツソース【新作コールドスイーツ】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/043039b93fe8faf6802803b5ec285f28.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=240574",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”挽きたて”・”打ちたて”・”茹でたて”にこだわる江戸切りそばチェーン「ゆで太郎（もつ次郎併設）」へ […]",
-          "link": "https://foodfighter.jp/motsujiro-motsunabe-ramen",
-          "publishedOn": "2024-03-29T00:02:57.000Z",
-          "wordCount": 1832,
-          "title": "【もつ次郎】もつ鍋ラーメン小盛ごはんセット【定番メニュー・ゆで太郎併設】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/03/8e9e522bc3309441b646e879bb88e200.jpg"
         }
       ]
     },
