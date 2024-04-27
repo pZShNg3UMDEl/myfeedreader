@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T03:39:26.230Z</updated>
+    <updated>2024-04-27T03:50:26.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン大統領 “喜んで” トランプ氏との討論会 応じる意向]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435181000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435181000.html"/>
+        <updated>2024-04-27T03:41:33.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのバイデン大統領は、ことし11月の大統領選挙で対決することになるトランプ前大統領との討論会について「喜んで討論する」と述べ、これまでの慎重な姿勢から一転して応じる意向を初めて示しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アホすぎ】日本ファクトチェックセンターがミスリードして炎上]]></title>
         <id>https://itainews.com/archives/2035041.html</id>
