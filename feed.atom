@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T13:50:36.429Z</updated>
+    <updated>2024-04-27T14:10:45.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大型連休初日 生活困窮者への食料無料配布に500人超の長い列]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435501000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435501000.html"/>
+        <updated>2024-04-27T13:54:09.000Z</updated>
+        <summary type="html"><![CDATA[大型連休初日の27日、都内の公園で生活困窮者のための食料の無料配布が行われ、500人を超える人が長い列を作りました。食品や光熱費の値上がりが続く中、新型コロナウイルスの5類移行後も利用者の数は高止まりしているということです。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戦闘続くスーダン 武力衝突から1年 避難生活送る人は]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240427/k10014435301000.html</id>
@@ -31272,17 +31282,6 @@ disciplines stand to take advantage of larger and larger SPAD image sensors with
         <summary type="html"><![CDATA[PlayStation 5 Proを強化した中世代機（次世代機までの中継ぎモデル）、通称「PS5 Pro」の強化はもっぱらGPU周りに集中し、CPUはクロックアップ程度に留まると噂されてきた。だが、予想以上に機能強化されるとのリーク情報が届けられている。 主にAMDの未発表製品に詳しい（PS5搭載チ […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目覚めたら猫さんがゴキゲンで足の間に挟まって寝ていた]]></title>
-        <id>https://2-9-9.com/?p=70530</id>
-        <link href="https://2-9-9.com/archives/70530"/>
-        <updated>2024-03-29T02:00:28.000Z</updated>
-        <summary type="html"><![CDATA[飼い主さんが目覚めると、なんと両足の間にすっぽりとおさまって気持ちよさそうに爆睡しているにゃんこの姿が目に入りました。 足の間、つまり股の間は猫さんにとっては、しっかり安定した体勢で眠ることができるので人気の場所なのです...
-目覚めたら猫さんがゴキゲンで足の間に挟まって寝ていた first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
         </author>
     </entry>
 </feed>
