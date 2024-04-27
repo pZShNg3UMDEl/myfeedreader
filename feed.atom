@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T13:35:23.488Z</updated>
+    <updated>2024-04-27T13:50:36.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[戦闘続くスーダン 武力衝突から1年 避難生活送る人は]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435301000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435301000.html"/>
+        <updated>2024-04-27T13:48:06.000Z</updated>
+        <summary type="html"><![CDATA[国連によりますとスーダンでは4月26日現在少なくとも870万人が住む場所を追われて国内外での避難生活を余儀なくされています。隣国のエジプトには50万人が身を寄せていますが、戦闘が続く中、スーダンへの帰国を諦める人がいる一方、危険を承知で帰国を決める人も出てきています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NHKのインターネット受信料「プロバイダやSIMに月額1100円程度上乗せ」衆議院可決]]></title>
         <id>https://itainews.com/archives/2035048.html</id>
