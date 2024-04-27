@@ -1631,16 +1631,6 @@
           "wordCount": 796,
           "title": "「PS5 Pro Enhanced」ラベル付きゲームは60fps安定表示・レイトレーシングありの噂",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/shutterstock_1860533935.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=72746",
-          "author": "Munenori Taniguchi",
-          "description": "イリノイ大学アーバナ・シャンペーン校のジュヒョン・キム准教授らは、モノホイールタイプの自律走行ロボット「Ringbot」を開発した。 モノホイールとは、リング状のレールに取り付けられた電動プラットフォームにライダーが座り、そのレールが1つの大きな車輪の内側を形成する乗り物のこと。映画『MIB』のシリ […]",
-          "link": "https://gadget.phileweb.com/post-72746/",
-          "publishedOn": "2024-03-29T09:28:13.000Z",
-          "wordCount": 778,
-          "title": "『スター・ウォーズ』グリーヴァス将軍の乗り物から着想、2本足モノホイールロボット「Ringbot」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/mh1.jpg"
         }
       ]
     },
@@ -1883,6 +1873,16 @@
       "feedUrl": "https://www.nhk.or.jp/rss/news/cat0.xml",
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435451000.html",
+          "author": null,
+          "description": "イスラエルとイスラム組織ハマスの戦闘が続くパレスチナのガザ地区では屋外で避難生活を送る人も多く、厳しい暑さで子どもが死亡するケースも出ています。エジプトなどの仲介で、戦闘の休止や人質の解放に向けた交渉が行われていますが、イスラエル側は、多くの住民が避難する南部への地上作戦を実行に移す構えを崩しておらず緊迫した状況が続いています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240428/k10014435451000.html",
+          "publishedOn": "2024-04-27T21:18:35.000Z",
+          "wordCount": 648,
+          "title": "“厳しい暑さで子ども死亡のケースも” パレスチナ ガザ地区で",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240428/K10014435451_2404280424_0428061837_01_02.jpg"
+        },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435511000.html",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T21:21:37.401Z</updated>
+    <updated>2024-04-27T21:35:26.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“厳しい暑さで子ども死亡のケースも” パレスチナ ガザ地区で]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240428/k10014435451000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240428/k10014435451000.html"/>
+        <updated>2024-04-27T21:18:35.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルとイスラム組織ハマスの戦闘が続くパレスチナのガザ地区では屋外で避難生活を送る人も多く、厳しい暑さで子どもが死亡するケースも出ています。エジプトなどの仲介で、戦闘の休止や人質の解放に向けた交渉が行われていますが、イスラエル側は、多くの住民が避難する南部への地上作戦を実行に移す構えを崩しておらず緊迫した状況が続いています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高齢者との対話や展示を通じ老いについて考える催し 東京]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240428/k10014435511000.html</id>
@@ -31351,16 +31361,6 @@ disciplines stand to take advantage of larger and larger SPAD image sensors with
         <summary type="html"><![CDATA[コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、公開中の「劇場版ハイキュ...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『スター・ウォーズ』グリーヴァス将軍の乗り物から着想、2本足モノホイールロボット「Ringbot」]]></title>
-        <id>https://gadget.phileweb.com/?p=72746</id>
-        <link href="https://gadget.phileweb.com/post-72746/"/>
-        <updated>2024-03-29T09:28:13.000Z</updated>
-        <summary type="html"><![CDATA[イリノイ大学アーバナ・シャンペーン校のジュヒョン・キム准教授らは、モノホイールタイプの自律走行ロボット「Ringbot」を開発した。 モノホイールとは、リング状のレールに取り付けられた電動プラットフォームにライダーが座り、そのレールが1つの大きな車輪の内側を形成する乗り物のこと。映画『MIB』のシリ […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
