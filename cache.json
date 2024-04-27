@@ -1944,6 +1944,26 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240427/k10014435161000.html",
+          "author": null,
+          "description": "27日から大型連休が始まり、交通機関や高速道路は午前中から混雑しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240427/k10014435161000.html",
+          "publishedOn": "2024-04-27T03:12:46.000Z",
+          "wordCount": 858,
+          "title": "大型連休スタート 交通機関や高速道路 午前中から混雑",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240427/K10014435161_2404271154_0427121248_01_03.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240427/k10014435151000.html",
+          "author": null,
+          "description": "アメリカ中西部のネブラスカ州で竜巻が発生し、地元メディアは家屋などが倒壊して5人がけがをしたと伝えています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240427/k10014435151000.html",
+          "publishedOn": "2024-04-27T03:07:29.000Z",
+          "wordCount": 650,
+          "title": "“米 ネブラスカ州で複数の竜巻発生 5人がけが”地元メディア",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240427/K10014435151_2404271136_0427120731_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240427/k10014435121000.html",
           "author": null,
           "description": "能登半島地震の被災地では、27日からの大型連休に合わせて多くのボランティアが訪れると見込まれています。初日の27日も朝から各地で、ボランティアたちが災害廃棄物の片づけなどの作業に当たっています。",
@@ -17294,6 +17314,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121166/",
+          "author": null,
+          "description": "「TIGER & BUNNY」（通称「タイバニ」）シリーズに登場するヒーロー、ワイルドタイガーの誕生日を祝して開催されるイベント「WILD TIGER Birthday Party 2024」に...",
+          "link": "https://anime.eiga.com/news/121166/",
+          "publishedOn": "2024-04-27T03:00:00.000Z",
+          "wordCount": 960,
+          "title": "「TIGER & BUNNY」ワイルドタイガーの誕生日パーティ、ホテルニューオータニで開催　追加ゲスト発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121126/",
           "author": null,
