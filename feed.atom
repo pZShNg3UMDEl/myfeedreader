@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T20:35:46.306Z</updated>
+    <updated>2024-04-27T20:50:35.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高齢者との対話や展示を通じ老いについて考える催し 東京]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240428/k10014435511000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240428/k10014435511000.html"/>
+        <updated>2024-04-27T20:44:12.000Z</updated>
+        <summary type="html"><![CDATA[高齢者との対話や老いに関する展示を通じて、年を取るというのはどういうことなのかを考えてもらう催しが27日から東京 港区で行われています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大阪】知的障害の男性に繰り返し暴行　４人目の障害者施設職員を逮捕]]></title>
         <id>https://itainews.com/archives/2035057.html</id>
