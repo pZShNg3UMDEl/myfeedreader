@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T19:35:10.786Z</updated>
+    <updated>2024-04-27T19:50:21.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[衆議院補欠選挙 きょう投票 東京15区 島根1区 長崎3区]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240428/k10014435251000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240428/k10014435251000.html"/>
+        <updated>2024-04-27T19:37:40.000Z</updated>
+        <summary type="html"><![CDATA[衆議院の東京15区、島根1区、長崎3区の3つの補欠選挙は28日、投票が行われます。選挙結果は岸田総理大臣の今後の政権運営や衆議院の解散戦略に影響を与えることも予想されます。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ペットショップからやってきた子猫のレオのお部屋大冒険！]]></title>
         <id>https://2-9-9.com/?p=71571</id>
