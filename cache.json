@@ -1874,6 +1874,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435461000.html",
+          "author": null,
+          "description": "ウクライナのエネルギー関連施設への攻撃を激化させているロシア軍は、27日にかけてウクライナの発電所に被害を与える一方、ウクライナ軍はロシア国内の製油所を攻撃しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240428/k10014435461000.html",
+          "publishedOn": "2024-04-27T22:04:42.000Z",
+          "wordCount": 771,
+          "title": "ロシア軍 ウクライナ軍 双方がエネルギー関連施設を攻撃",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240428/K10014435461_2404280503_0428070444_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435451000.html",
           "author": null,
           "description": "イスラエルとイスラム組織ハマスの戦闘が続くパレスチナのガザ地区では屋外で避難生活を送る人も多く、厳しい暑さで子どもが死亡するケースも出ています。エジプトなどの仲介で、戦闘の休止や人質の解放に向けた交渉が行われていますが、イスラエル側は、多くの住民が避難する南部への地上作戦を実行に移す構えを崩しておらず緊迫した状況が続いています。",
@@ -20478,21 +20488,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/tokuten_list/120947/",
-          "author": null,
-          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者プレゼント、来場者特典）を紹介する。 今週末は、公開中の「劇場版ハイキュ...",
-          "link": "https://anime.eiga.com/news/column/tokuten_list/120947/",
-          "publishedOn": "2024-03-29T10:00:00.000Z",
-          "wordCount": 1844,
-          "title": "【入場特典リスト3月・4月最新版】「劇場版ハイキュー!!」は原作者描き下ろしアイテム、「ガンダムSEED」は特典2個セット配布",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -26023,6 +26018,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71536",
+          "author": "299",
+          "description": "このお家は、まさにマンチカン王国！部屋の中を見渡す限りマンチカンだらけなのです。 部屋の中には猫たちが遊べるようにと、キャットマンションが建てられていて、上の部屋のなかでボス猫さんみたいに貫禄のある猫さんがまったりしてい...\nマンチカンファミリーは今日もパワフル！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71536",
+          "publishedOn": "2024-04-27T22:00:24.000Z",
+          "wordCount": 1347,
+          "title": "マンチカンファミリーは今日もパワフル！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71536.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71532",
           "author": "299",
