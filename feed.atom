@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T06:50:12.752Z</updated>
+    <updated>2024-04-27T07:11:25.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不正投票？ 選挙に関する“偽情報”を調べてみると…]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014432631000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014432631000.html"/>
+        <updated>2024-04-27T06:58:44.000Z</updated>
+        <summary type="html"><![CDATA[「選挙結果はあらかじめ決められている」「期日前投票は書き換えられる」「開票所で使うムサシの機械で票が操作されている」選挙があるたび、こうした偽情報がSNSで広がります。不正選挙は本当にないのか。そして、こうした偽情報が広がるとどのようなことが懸念されるのか。選挙事務のプロなどに取材して調べました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】トマトと生ハムとチーズの冷製パスタ【コンビニ弁当新商品】]]></title>
         <id>https://foodfighter.jp/?p=243637</id>
