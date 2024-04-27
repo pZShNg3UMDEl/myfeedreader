@@ -1944,6 +1944,36 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240427/k10014435051000.html",
+          "author": null,
+          "description": "アメリカのバイデン政権は、ウクライナに対し、防空システム「パトリオット」のミサイルなど支援額としてはこれまでで最大の60億ドル、日本円にして9400億円余りの追加の軍事支援を行うと発表しました。バイデン政権がウクライナへの支援を表明するのは今週2回目で、支援を主導する姿勢を強調するねらいがあると見られます。",
+          "link": "http://www3.nhk.or.jp/news/html/20240427/k10014435051000.html",
+          "publishedOn": "2024-04-27T01:38:33.000Z",
+          "wordCount": 746,
+          "title": "米 ウクライナに“過去最大の60億ドル”追加の軍事支援発表",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240427/K10014435051_2404270835_0427103834_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240427/k10014435071000.html",
+          "author": null,
+          "description": "アメリカ中西部オハイオ州で、黒人男性が交通事故の通報で駆けつけた白人の警察官2人に床にうつ伏せで押さえつけられたあと死亡しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240427/k10014435071000.html",
+          "publishedOn": "2024-04-27T01:29:38.000Z",
+          "wordCount": 702,
+          "title": "米 黒人男性が白人警察官2人に押さえつけられたあと死亡",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240427/K10014435071_2404270959_0427102940_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240427/k10014435111000.html",
+          "author": null,
+          "description": "27日から大型連休が始まりました。各地の高速道路の状況をライブ配信しています。",
+          "link": "http://www3.nhk.or.jp/news/html/20240427/k10014435111000.html",
+          "publishedOn": "2024-04-27T01:10:11.000Z",
+          "wordCount": 846,
+          "title": "高速道路 各地の状況は【ライブ配信】",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240427/K10014435111_2404270959_0427095957_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240427/k10014435061000.html",
           "author": null,
           "description": "大リーグ、ドジャースの大谷翔平選手が26日、相手の本拠地トロントで行われているブルージェイズ戦に2番指名打者で先発出場し、1回の第1打席に3試合ぶりとなる今シーズン7号の先制ソロホームランを打ちました。",
@@ -20102,21 +20132,6 @@
           "publishedOn": "2024-03-29T03:00:00.000Z",
           "wordCount": 1540,
           "title": "「スパイダーマン　スパイダーバース」の新作短編アニメがYouTubeで無料公開中",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120817/",
-          "author": null,
-          "description": "「モンスター・ヴァース」シリーズ最新作「ゴジラ×コング 新たなる帝国」の最新ポスタービジュアルが、このほど公開された。また“ゴジラ史上最大”のラージフォーマット上映の展開も決定した。 2023年...",
-          "link": "https://anime.eiga.com/news/120817/",
-          "publishedOn": "2024-03-28T13:00:00.000Z",
-          "wordCount": 1548,
-          "title": "「ゴジラ×コング　新たなる帝国」“爆走”ポスター公開　“ゴジラ史上最大”のラージフォーマット上映も決定",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
