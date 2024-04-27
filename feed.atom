@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T11:36:49.909Z</updated>
+    <updated>2024-04-27T11:50:12.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【プロ野球結果】ソフトバンク 西武にサヨナラ勝ちで4連勝]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435411000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435411000.html"/>
+        <updated>2024-04-27T11:33:19.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球は6試合が行われ、パ・リーグ首位のソフトバンクは延長10回、川瀬晃選手のサヨナラヒットで西武に勝ち4連勝です。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラグビーリーグワン第15節 ワイルドナイツが連勝「15」に]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240427/k10014435421000.html</id>
