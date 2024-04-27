@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T10:14:31.260Z</updated>
+    <updated>2024-04-27T10:30:54.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海自ヘリ2機墜落事故 向かい合う形で接近して衝突か]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435321000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435321000.html"/>
+        <updated>2024-04-27T10:22:58.000Z</updated>
+        <summary type="html"><![CDATA[今月20日、伊豆諸島沖で海上自衛隊のヘリコプター2機が訓練中に墜落した事故で、2機は事故の直前、向かい合う形で接近して衝突した可能性があることが関係者への取材で分かりました。海上自衛隊によりますと通常、複数で飛行する際には衝突などを防ぐため異なる高度で飛行するよう指示が出されるということで、当時の指示の内容などを調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【数土直志の「月刊アニメビジネス」】初開催「高知アニクリ祭」から見たアニメイベントと行政の関係]]></title>
         <id>https://anime.eiga.com/news/column/sudo_business/121147/</id>
