@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T07:11:25.990Z</updated>
+    <updated>2024-04-27T07:21:14.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鉄道車両の陸上輸送 日中に特別公開 山口 下松]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435191000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435191000.html"/>
+        <updated>2024-04-27T07:13:48.000Z</updated>
+        <summary type="html"><![CDATA[山口県下松市で、ふだんは深夜に行われる鉄道車両の陸上輸送が日中に特別に公開され、多くの鉄道ファンが詰めかけました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千葉 自宅で殺傷能力ある銃を密造か 26歳容疑者逮捕]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435281000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435281000.html"/>
+        <updated>2024-04-27T07:11:24.000Z</updated>
+        <summary type="html"><![CDATA[殺傷能力のある手製の銃を自宅で密造したなどとして、千葉市の26歳の容疑者が逮捕されました。調べに対し「世の中に失望し、こんな国にした者たちを攻撃することを想像していた」などと供述していて、警察は密造したいきさつについて詳しく調べています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石川 舳倉島 住民が被害状況など確認するため一時帰宅]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240427/k10014435271000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240427/k10014435271000.html"/>
+        <updated>2024-04-27T07:09:21.000Z</updated>
+        <summary type="html"><![CDATA[能登半島地震で津波の被害を受けた石川県輪島市の舳倉島に船が入港できるようになり、住民が被害状況などを確認するため一時帰宅しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不正投票？ 選挙に関する“偽情報”を調べてみると…]]></title>
         <id>http://www3.nhk.or.jp/news/html/20240427/k10014432631000.html</id>
