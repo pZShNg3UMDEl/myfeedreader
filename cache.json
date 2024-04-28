@@ -1874,6 +1874,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435731000.html",
+          "author": null,
+          "description": "中国南部の広東省で27日に竜巻が発生し、これまでに5人が死亡、30人余りがけがをしました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240428/k10014435731000.html",
+          "publishedOn": "2024-04-28T08:54:49.000Z",
+          "wordCount": 605,
+          "title": "【動画】中国 広東省で竜巻発生 5人死亡 30人超けが",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240428/K10014435731_2404281457_0428175451_01_03.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435811000.html",
           "author": null,
           "description": "競馬のG1レース「春の天皇賞」が京都競馬場で行われ、1番人気のテーオーロイヤルが優勝し、G1レース初勝利を挙げました。競馬のG1レースで長距離ナンバーワンを決める「春の天皇賞」は京都競馬場の芝3200メートルで行われ、17頭が出走しました。",
@@ -1882,6 +1892,16 @@
           "wordCount": 695,
           "title": "競馬 春の天皇賞 1番人気のテーオーロイヤルがG1初勝利",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20240428/K10014435811_2404281600_0428160153_01_02.jpg"
+        },
+        {
+          "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435781000.html",
+          "author": null,
+          "description": "アメリカのバイデン大統領はホワイトハウスの記者会の夕食会に出席し、不安視されている自身の年齢についての批判をジョークを交えてかわすとともに、秋の大統領選挙で対決することになるトランプ前大統領について「民主主義への攻撃を公言してきた」と述べ、強く批判しました。",
+          "link": "http://www3.nhk.or.jp/news/html/20240428/k10014435781000.html",
+          "publishedOn": "2024-04-28T07:07:41.000Z",
+          "wordCount": 717,
+          "title": "バイデン大統領“トランプ氏は民主主義への攻撃を公言”と批判",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240428/K10014435781_2404281547_0428154819_01_02.jpg"
         },
         {
           "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435721000.html",
@@ -17735,6 +17755,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121136/",
+          "author": null,
+          "description": "五示正司氏のライトノベルが原作のテレビアニメ「ひとりぼっちの異世界攻略」が10月からスタートすることが決定し、白石晴香、直田姫奈、夏目響平、峯田大夢、山口智広の出演が明らかになった。メインスタッ...",
+          "link": "https://anime.eiga.com/news/121136/",
+          "publishedOn": "2024-04-28T09:00:00.000Z",
+          "wordCount": 984,
+          "title": "「ひとりぼっちの異世界攻略」10月放送開始　白石晴香、直田姫奈、夏目響平、峯田大夢、山口智広がクラスメイト役に",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121133/",
           "author": null,
           "description": "テレビアニメ「サザエさん」の過去の放送から厳選された5つのエピソードが、4月29日～5月3日の各日18時50分～19時に、「ゴールデン『サザエさん』ウィーク傑作選」と題してフジテレビで放送される...",
@@ -21384,6 +21419,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=243716",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝食メニュー、”挽きたて”・”打ちたて”・”茹でたて”にこだわる江戸切りそばチェーン「ゆで太郎」へ進撃しました。  […]",
+          "link": "https://foodfighter.jp/yudetaro-breakfast-curry",
+          "publishedOn": "2024-04-28T08:52:16.000Z",
+          "wordCount": 1839,
+          "title": "【ゆで太郎】朝食セット（カレー）【朝食メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/456784b70bc6f6b9aef2d6b7a8ca579f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=243690",
           "author": "foodfighter",
