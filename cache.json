@@ -1874,6 +1874,16 @@
       "siteUrl": "http://www3.nhk.or.jp/news/",
       "articles": [
         {
+          "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435641000.html",
+          "author": null,
+          "description": "28日は全国的に晴れて午前中から気温が上がり東北や関東では30度に迫る暑さとなっているところがあります。午後はさらに気温が上がる見込みで、熱中症に注意が必要です。",
+          "link": "http://www3.nhk.or.jp/news/html/20240428/k10014435641000.html",
+          "publishedOn": "2024-04-28T02:56:19.000Z",
+          "wordCount": 718,
+          "title": "東北 関東 30度迫る暑さ 午後は真夏日予想の地点も 熱中症注意",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20240428/K10014435641_2404281153_0428115621_01_02.jpg"
+        },
+        {
           "id": "http://www3.nhk.or.jp/news/html/20240428/k10014435661000.html",
           "author": null,
           "description": "大リーグ、レッドソックスの吉田正尚選手は27日のカブス戦に6試合ぶりに先発出場し、今シーズン初めての4安打をマークする活躍でチームも大勝しました。",
@@ -17645,6 +17655,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121133/",
+          "author": null,
+          "description": "テレビアニメ「サザエさん」の過去の放送から厳選された5つのエピソードが、4月29日～5月3日の各日18時50分～19時に、「ゴールデン『サザエさん』ウィーク傑作選」と題してフジテレビで放送される...",
+          "link": "https://anime.eiga.com/news/121133/",
+          "publishedOn": "2024-04-28T03:00:00.000Z",
+          "wordCount": 883,
+          "title": "【4月29日～5月3日】「サザエさん」1970～2016年のエピソードをGWに5日連続放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121037/",
           "author": null,
           "description": "ディズニー＆ピクサー「インサイド・ヘッド」の続編「インサイド・ヘッド2」の特報映像が公開された。前作でも描かれた感情たちに加えて、新たにシンパイ、イイナー、ダリィ、ハズカシの新しい4つの感情たち...",
@@ -25995,16 +26020,6 @@
           "wordCount": 3089,
           "title": "【兵庫】飲食店座席の鉄板上にカセットこんろ置き爆発　ボンベ当たった女性が死亡　77歳男性店主を起訴",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/a/7ade1604-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034248.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：Anonymous ★：2024/03/29(金) 12:36:11.29 ID:iBH6/IlC9.net\n\n\n\n\n\n\n\n\nアニメは1、2話を見て絶望し、1度は視聴を断念友達の支えにより3、4話を見たが、ギブアップ半年ショックで執筆できず、酒浸り売上は1巻だけで22ヶ月で19回重版(全巻なら54回)したが、アニメ後は3...",
-          "link": "https://itainews.com/archives/2034248.html",
-          "publishedOn": "2024-03-29T15:01:10.000Z",
-          "wordCount": 4231,
-          "title": "ライトノベル作家　アニメ化した自身の作品「1、2話を見て絶望、4話でギブアップ」「1巻は22ヶ月で19回重版したが、アニメ後は0回」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/ab624647-s.png"
         }
       ]
     },
