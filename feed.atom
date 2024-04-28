@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T07:35:29.241Z</updated>
+    <updated>2024-04-28T07:50:32.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[競馬 春の天皇賞 1番人気のテーオーロイヤルがG1初勝利]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240428/k10014435811000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240428/k10014435811000.html"/>
+        <updated>2024-04-28T07:46:15.000Z</updated>
+        <summary type="html"><![CDATA[競馬のG1レース「春の天皇賞」が京都競馬場で行われ、1番人気のテーオーロイヤルが優勝し、G1レース初勝利を挙げました。競馬のG1レースで長距離ナンバーワンを決める「春の天皇賞」は京都競馬場の芝3200メートルで行われ、17頭が出走しました。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無職(63)、金がなく空腹に耐えかねやむなく観光客に人気の有名洋菓子店のチョコを万引きし店前で食う]]></title>
         <id>https://itainews.com/archives/2035062.html</id>
