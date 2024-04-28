@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T09:12:20.333Z</updated>
+    <updated>2024-04-28T09:22:55.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[広島市中区 繁華街のビルで火災 消防が消火活動]]></title>
+        <id>http://www3.nhk.or.jp/news/html/20240428/k10014435921000.html</id>
+        <link href="http://www3.nhk.or.jp/news/html/20240428/k10014435921000.html"/>
+        <updated>2024-04-28T09:11:06.000Z</updated>
+        <summary type="html"><![CDATA[広島市消防局によりますと、28日午後6時前、広島市中区の中心部にある繁華街の流川で「ビルの屋上から炎が見える」と通報がありました。NHKが設置したカメラの映像では、ビルの屋上で激しい炎と黒い煙があがっています。消防が消火活動にあたるとともに、けが人や逃げ遅れた人がいないか確認を進めています。]]></summary>
+        <author>
+            <name>NHKニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ひとりぼっちの異世界攻略」10月放送開始　白石晴香、直田姫奈、夏目響平、峯田大夢、山口智広がクラスメイト役に]]></title>
         <id>https://anime.eiga.com/news/121136/</id>
