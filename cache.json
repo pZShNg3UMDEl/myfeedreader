@@ -2688,6 +2688,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121035/",
+          "author": null,
+          "description": "村上春樹原作初の長編アニメ映画「めくらやなぎと眠る女」の公開日が7月26日に決定、このほど日本版ビジュアルと予告映像が披露された。また、村上氏との共著もある米文学者で翻訳家の柴田元幸氏からコメン...",
+          "link": "https://anime.eiga.com/news/121035/",
+          "publishedOn": "2024-04-29T12:00:00.000Z",
+          "wordCount": 855,
+          "title": "村上春樹原作、初のアニメ映画化「めくらやなぎと眠る女」日本版ビジュアル＆予告公開　柴田元幸がコメント",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121155/",
           "author": null,
           "description": "石原まこちん氏の人気漫画を映像化した脱力系コメディ「THE3名様」。このほど「THE3名様Ωプロジェクト2024」として、フジテレビが運営する動画配信サービスFODで5月24日午後8時から完全新...",
@@ -6392,6 +6407,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/23820a5e4daa19d7ebc1f7d60d22a4cfb2402a30?source=rss",
+          "author": null,
+          "description": "２９日に行われた柔道の全日本選手権は２３歳の中野寛太（旭化成）が初優勝した。８年ぶりに復活した旗判定にもつれ込んだ決勝戦。自らの勝利を示す赤い旗が２本上がったのを確認すると、中野は喜びに酔いしれた。「",
+          "link": "https://news.yahoo.co.jp/articles/23820a5e4daa19d7ebc1f7d60d22a4cfb2402a30?source=rss",
+          "publishedOn": "2024-04-29T11:56:53.000Z",
+          "wordCount": 745,
+          "title": "全日本柔道で初優勝の中野寛太「ロス五輪目指す」　旗判定制し、天理大出身者11年ぶり頂点(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240429-00000128-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6e51cf7ced5b36489bb0d0b9ce1e75abccaf84c6?source=rss",
+          "author": null,
+          "description": "【シンガポール＝森浩】南太平洋の島嶼（とうしょ）国、ソロモン諸島のソガバレ首相は２９日、１７日投票の議会（定数５０）選挙を受けて５月２日に実施される首相選出投票に立候補しないことを明らかにした。与党側",
+          "link": "https://news.yahoo.co.jp/articles/6e51cf7ced5b36489bb0d0b9ce1e75abccaf84c6?source=rss",
+          "publishedOn": "2024-04-29T11:56:15.000Z",
+          "wordCount": 723,
+          "title": "親中派首相、続投断念「新しい指導部迎える」　ソロモン諸島(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1bb77ac0897c2b098ca2fb578561a5ca13287fa2?source=rss",
+          "author": null,
+          "description": "２９日午前１０時４０分ごろ、兵庫県西宮市今津港町のホームセンター「コーナン西宮今津店」の駐車場で、乗用車をバック方向から止めようとしていた無職の女性（７９）＝同県芦屋市＝運転の乗用車が突然、暴走。近く",
+          "link": "https://news.yahoo.co.jp/articles/1bb77ac0897c2b098ca2fb578561a5ca13287fa2?source=rss",
+          "publishedOn": "2024-04-29T11:47:27.000Z",
+          "wordCount": 767,
+          "title": "「ブレーキとアクセル踏み間違えた」７９歳女性運転の車暴走　親子はねられ重傷(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240429-00000124-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/0ec2234ff6ba79815bb70d3b96ba01b2d26a4366?source=rss",
           "author": null,
