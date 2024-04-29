@@ -2471,6 +2471,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QL5dLoYOSn8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QL5dLoYOSn8",
+          "publishedOn": "2024-04-29T09:00:16.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】カルベロ無し勇者に必中周回武器は訪れるのか!?竜の女王装備40連で竜の女王のツメを獲得したい無課金勇者!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=giKXwu_kPyo",
           "author": null,
           "description": "",
@@ -2647,6 +2657,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121171/",
+          "author": null,
+          "description": "「乃木坂46」一期生・高山一実の小説家デビュー作をアニメーション映画化した「トラペジウム」のプレミア試写会が4月25日に都内で行われ、原作者の高山と、声優を務めた結川あさきと木全翔也（JO1）、...",
+          "link": "https://anime.eiga.com/news/121171/",
+          "publishedOn": "2024-04-29T09:00:00.000Z",
+          "wordCount": 870,
+          "title": "「トラペジウム」乃木坂46一期生・高山一実、小説家デビュー作のアニメ映画化に感慨　JO1木全翔也「僕の人生と重なるところがあった」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121167/",
           "author": null,
@@ -6307,6 +6332,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c5c361ae7199b8e7364db08b4d4951a946848dfd?source=rss",
+          "author": null,
+          "description": "今月になって引退を撤回した歌手の橋幸夫さんが２９日、自身が名誉館長を務める「吉田正音楽記念館」（茨城県日立市）の開館２０周年記念式典に出席後、同館で講演。昨年５月の〝引退表明〟を「軽はずみな発言だった",
+          "link": "https://news.yahoo.co.jp/articles/c5c361ae7199b8e7364db08b4d4951a946848dfd?source=rss",
+          "publishedOn": "2024-04-29T09:02:39.000Z",
+          "wordCount": 733,
+          "title": "橋幸夫さん、〝引退表明〟を改めて反省　「軽はずみな発言」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240429-00000095-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b2f261e8e93b5e91e7c5b4dc468df1ee82237a02?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国外務省は２９日、習近平国家主席がフランス、セルビア、ハンガリーを５月５日から１０日までの日程で訪問すると発表した。米国が対中圧力の拡大を同盟国などに呼び掛ける中、中国は欧州各国と",
+          "link": "https://news.yahoo.co.jp/articles/b2f261e8e93b5e91e7c5b4dc468df1ee82237a02?source=rss",
+          "publishedOn": "2024-04-29T08:45:10.000Z",
+          "wordCount": 782,
+          "title": "習近平氏、５月５日からフランス・セルビア・ハンガリー歴訪　米の対中圧力にらみ関係強化(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cd7c7b0674efd51d3d58fb33412bea18d793a9c8?source=rss",
+          "author": null,
+          "description": "自民党は２８日投開票の衆院３補欠選挙で候補者擁立を見送り不戦敗となった選挙区も含めて全敗した。派閥の政治資金パーティー収入不記載事件が直撃した形で、岸田文雄首相（党総裁）の政権運営は厳しさを増す。野党",
+          "link": "https://news.yahoo.co.jp/articles/cd7c7b0674efd51d3d58fb33412bea18d793a9c8?source=rss",
+          "publishedOn": "2024-04-29T08:43:14.000Z",
+          "wordCount": 783,
+          "title": "衆院補選全敗でどうなる政局、自民は誰も責任とらず…　ＧＷ明け国会で野党攻勢(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240429-00000093-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/48bdec12934a1caae74f464a5c049fd12634cfe6?source=rss",
           "author": null,
