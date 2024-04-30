@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/795/G079553/20240430010/",
+          "author": null,
+          "description": "CobraTekkuGamesは本日，TurtleKnightGamesが手掛ける「Footgun:Underground」をSteamでリリースした。本作は，ローグライクアクションとサッカーを融合したタイトルだ。プレイヤーは，地下世界を脱出するため，襲い掛かるモンスターたちにシュートを放って撃破していく。",
+          "link": "https://www.4gamer.net/games/795/G079553/20240430010/",
+          "publishedOn": "2024-04-30T12:00:00.000Z",
+          "wordCount": 7533,
+          "title": "モンスターたちにシュートを放て！ サッカーとローグライクアクションを融合した「Footgun: Underground」Steamで本日リリース",
+          "imageUrl": "https://www.4gamer.net/games/795/G079553/20240430010/SS/007.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/763/G076390/20240430058/",
           "author": null,
           "description": "Plariumは2024年4月29日，ファンタジーRPG「RAID:ShadowLegends」にて，総勢40名のVTuberが参加する大型イベント「VTuberお肉争奪GP」を，5月1日18：00から5月14日23：59まで開催すると発表した。これは40名のVTuberがそれぞれクランを立ち上げ，視聴者と協力してポイントを稼いでいくランキングイベントだ。",
@@ -1441,16 +1451,6 @@
           "wordCount": 2582,
           "title": "部品面積を72％削減、民生／産機向けDC-DCコンバーターIC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/02/cover_news023.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/01/news024.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、第2世代のマイクロプロセッサ「STM32MP2」シリーズを発表した。同社製品では初という、64ビットArm Cortex-A35コアを搭載した汎用マイクロプロセッサだ。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/01/news024.html",
-          "publishedOn": "2024-04-01T00:00:00.000Z",
-          "wordCount": 2595,
-          "title": "64ビット「Arm Cortex-A35コア」を搭載したマイクロプロセッサ",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/01/cover_news024.jpg"
         }
       ]
     },
@@ -3267,6 +3267,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121176/",
+          "author": null,
+          "description": "劇場版「BanG Dream! It's MyGO!!!!!」の公開時期が、「BanG Dream! It's MyGO!!!!! 前編 春の陽だまり、迷い猫」は初秋、「BanG Dream! ...",
+          "link": "https://anime.eiga.com/news/121176/",
+          "publishedOn": "2024-04-30T12:00:00.000Z",
+          "wordCount": 926,
+          "title": "劇場版「BanG Dream! It's MyGO!!!!!」前・後編、今秋公開決定　前編のキービジュアルも披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121177/",
           "author": null,
@@ -6977,6 +6992,106 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/9a90274155ce1c745d5f252441740b032d0c5be4?source=rss",
+          "author": null,
+          "description": "芸は身を助ける、ということわざがあります。人々が持つ芸術的な才能や技能が、人々が困難な状況や問題に直面したとき、克服する手段として役立つという意味です。自らの才能や能力を信じ、活用することの重要性を示",
+          "link": "https://news.yahoo.co.jp/articles/9a90274155ce1c745d5f252441740b032d0c5be4?source=rss",
+          "publishedOn": "2024-04-30T12:08:02.000Z",
+          "wordCount": 738,
+          "title": "ミラーセラピー効果で半身まひの脳障害を乗り越えた女性　　脳疾患とくらし(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000215-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6298ece550459fcb1bda7872a1f574448ff3028a?source=rss",
+          "author": null,
+          "description": "今月２４日に人口戦略会議が公表した「消滅可能性自治体」が世間を騒がせているが、打開策のヒントは「地域経済循環」にあるのではないかと思う。地域経済が活発であれば、所得は上がり、自治体の税収も確保でき、住",
+          "link": "https://news.yahoo.co.jp/articles/6298ece550459fcb1bda7872a1f574448ff3028a?source=rss",
+          "publishedOn": "2024-04-30T12:06:09.000Z",
+          "wordCount": 742,
+          "title": "津波３４メートルのまち高知県黒潮町、生き残りかけ災害食の備蓄循環推進へ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8a210bd968aaea1b118d9c291e26985acbaa783f?source=rss",
+          "author": null,
+          "description": "呼吸不全のため７８歳で亡くなったことが３０日に分かった、詩画作家の星野富弘さん。若くして手足が不自由になって以降、口にくわえた筆で書く詩や花の絵画に生きる喜びを見出し、創作を重ねた姿は、多くの人に勇気",
+          "link": "https://news.yahoo.co.jp/articles/8a210bd968aaea1b118d9c291e26985acbaa783f?source=rss",
+          "publishedOn": "2024-04-30T12:05:06.000Z",
+          "wordCount": 717,
+          "title": "「辛いという字はもう少しで幸せになれそうな字」　星野富弘さん、詩画で生きる勇気伝える(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5d6e5ee3ef3610eb51bde68545708e57c6552970?source=rss",
+          "author": null,
+          "description": "桜満開のときは例年より少し遅れてやってきた。「Ｃａｎｃｅｒ　Ｓｕｐｐｏｒｔ　神戸なごみの家」の玄関も花が咲きそろってきた。「春に三日の晴れなし」というように満開の頃には雨が降ることも多く、今年も雨風に",
+          "link": "https://news.yahoo.co.jp/articles/5d6e5ee3ef3610eb51bde68545708e57c6552970?source=rss",
+          "publishedOn": "2024-04-30T12:01:34.000Z",
+          "wordCount": 770,
+          "title": "コロナと奮闘の看護部長、がん闘病記を遺作として出版　がん相談の窓口から(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000210-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a3de92880f2f4bb8f59808533bb453d595610abb?source=rss",
+          "author": null,
+          "description": "サンケイ（産経）新聞の元サイゴン支局長近藤紘一氏の著作に、「サイゴンから来た妻と娘」がある。ベトナム人妻との暮らしをいきいきと描き、一九七九年に大宅壮一ノンフィクション賞を受賞した名著だ。異文化で育っ",
+          "link": "https://news.yahoo.co.jp/articles/a3de92880f2f4bb8f59808533bb453d595610abb?source=rss",
+          "publishedOn": "2024-04-30T11:57:34.000Z",
+          "wordCount": 768,
+          "title": "アジア好きが高じて元産経記者、近藤紘一氏の名著が家族の愛読書に　　写真紀行・瀬戸内家族(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000208-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8fbdc0fcdc2455928f451ee9758837424b4ee5ef?source=rss",
+          "author": null,
+          "description": "ミャンマーを二人で旅してみないか？　前回まで記したように、長男長女にそんな提案をしたのは今から四年前のことになる。\n\n子供らも乗り気となり、ミャンマーでホテル＆カフェを営む日本人の友人が現地を案内して",
+          "link": "https://news.yahoo.co.jp/articles/8fbdc0fcdc2455928f451ee9758837424b4ee5ef?source=rss",
+          "publishedOn": "2024-04-30T11:57:07.000Z",
+          "wordCount": 752,
+          "title": "小中学生の子供ふたりのアジア旅行で成長に期待　　写真紀行・瀬戸内家族(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000207-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/178b6ea85dbf7de4265a18d29382725b383e3813?source=rss",
+          "author": null,
+          "description": "さいたま市は５月１日から、公立保育所で「紙おむつ等定額制サービス」を本格導入する。保護者が一定額を負担すれば、園内での紙おむつとおしり拭きは使い放題で利用できるようになる。保護者はおむつを持参する手間",
+          "link": "https://news.yahoo.co.jp/articles/178b6ea85dbf7de4265a18d29382725b383e3813?source=rss",
+          "publishedOn": "2024-04-30T11:54:53.000Z",
+          "wordCount": 720,
+          "title": "さいたま市、公立保育所で「紙おむつ等定額制サービス」本格導入　５月１日から(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000205-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9c31372c72219c75076e033d5ce4b6e716aa273c?source=rss",
+          "author": null,
+          "description": "ロシアの侵略を受けるウクライナのゼレンスキー大統領は４月２９日、首都キーウ（キエフ）を訪問した北大西洋条約機構（ＮＡＴＯ）のストルテンベルグ事務総長と会談した。会談後の共同記者会見でゼレンスキー氏は「",
+          "link": "https://news.yahoo.co.jp/articles/9c31372c72219c75076e033d5ce4b6e716aa273c?source=rss",
+          "publishedOn": "2024-04-30T11:54:15.000Z",
+          "wordCount": 745,
+          "title": "ゼレンスキー大統領、軍事支援の早期到着求める　ＮＡＴＯ事務総長と会談(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0914e0639defd42ddeb15724811abd6e7ce7be0f?source=rss",
+          "author": null,
+          "description": "次期衆院選に向けて野党共闘の「再構築」を目指す共産党が、立憲民主党への圧力を強めている。先の衆院３補欠選挙では、共産は自らの擁立予定者を降ろすなどして立民の全勝に貢献した。共産は今回は例外的な対応だっ",
+          "link": "https://news.yahoo.co.jp/articles/0914e0639defd42ddeb15724811abd6e7ce7be0f?source=rss",
+          "publishedOn": "2024-04-30T11:43:39.000Z",
+          "wordCount": 747,
+          "title": "３補選で「黒子」に徹した共産　次期衆院選、共闘の再構築は遠く(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000203-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/82e15a03326f658878320f68563de277fa201c26?source=rss",
+          "author": null,
+          "description": "拡張型心筋症と診断され、昨年国内で心臓移植を受けた川崎市の五十嵐好乃さん（１２）を支援してきた「このちゃんを救う会」が３月、重い心臓病の子供たちを支援する「あけみちゃん基金」（産経新聞厚生文化事業団運",
+          "link": "https://news.yahoo.co.jp/articles/82e15a03326f658878320f68563de277fa201c26?source=rss",
+          "publishedOn": "2024-04-30T11:43:05.000Z",
+          "wordCount": 778,
+          "title": "「このちゃんを救う会」が「あけみちゃん基金」に５０００万円を寄付　募金活動の余剰金(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000202-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/3b03de530ab08a9a0eeb9822d582300ea0e0a7c4?source=rss",
           "author": null,
