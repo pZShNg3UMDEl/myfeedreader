@@ -653,6 +653,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2404/30/news043.html",
+          "author": null,
+          "description": "NXPセミコンダクターズは、SDV（Software Defined Vehicle）のセントラルコンピューティングシステム向けプロセッサ「S32N55」を発表した。アイソレーションされた実行環境で、車両機能を安全に統合でき、従来は機能ごとに必要だったECUの数や配線を削減できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2404/30/news043.html",
+          "publishedOn": "2024-04-30T00:00:00.000Z",
+          "wordCount": 2559,
+          "title": "Cortex-R52を16個搭載、SDVのセントラルコンピューティングシステム向けプロセッサ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/30/cover_news043.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/25/news170.html",
           "author": null,
           "description": "オンセミは、低電流かつ高精度な電気化学センシングに対応するアナログフロントエンド「CEM102」を発表した。小型かつ低消費電力で、電池駆動の電気化学センサーを用いたアプリケーションに適している。",
@@ -2708,16 +2718,6 @@
           "publishedOn": "2024-03-31T15:00:07.000Z",
           "wordCount": null,
           "title": "【ご報告】重大決断!!課金解禁します!!ガチャ回します!!無課金を貫いてきたよしぞうからのお知らせ。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kr5qMo1JY60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Kr5qMo1JY60",
-          "publishedOn": "2024-03-31T12:35:04.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォークLIVE】１位取りたい!!ギガモンデスパレス戦をライブで狩っていく無課金勇者！！3月31日夜の部！",
           "imageUrl": null
         }
       ]
@@ -5591,21 +5591,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120953/",
-          "author": null,
-          "description": "世界的人気を誇るゲームシリーズを映画化した「ソニック・ザ・ムービー」「ソニック・ザ・ムービー ソニック VS ナックルズ」に続く、実写オリジナルドラマシリーズ「ナックルズ」が2024年初夏にPa...",
-          "link": "https://anime.eiga.com/news/120953/",
-          "publishedOn": "2024-03-31T12:00:00.000Z",
-          "wordCount": 1549,
-          "title": "「ソニック」実写ドラマシリーズ新作、主人公は最強の戦士ナックルズ　初夏配信",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -6116,6 +6101,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=42482",
+          "author": "comomo",
+          "description": "カレーと言えば近年はマッサマンカレーが好きなももこ＠あつらぼです。 今回は海老名のイベント情報♪GWのイベントになりますー★ ビナウォークにて大型カレーフェス初開催ですーー！ 「EBINA CURRY&SPICE FESTIVAL …",
+          "link": "https://atsugi-lab.com/event-ebina-curry2024fes/",
+          "publishedOn": "2024-04-30T00:58:26.000Z",
+          "wordCount": 1162,
+          "title": "【海老名・イベント】カレーフェス初開催！「EBINA CURRY&SPICE FESTIVAL 2024」5月5・6日@ビナウォーク",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/04/ebina-curry2024.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=42609",
           "author": "田原",
           "description": "こんにちは！タハラ＠あつらぼです。 今まで様々な事情でお受けできなかった インフルエンサーの間で主流となっている「ギフティングPR」ですが この度飲食店限定でスタートしました！ 宣伝したい！と思っても 飲食店のかたはなかなか広告費を割けない…",
@@ -6382,6 +6377,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ef337ace5f6896697021aad14252ed76d9eba97b?source=rss",
+          "author": null,
+          "description": "ロシアによるウクライナ侵略で、ウクライナ南部オデッサ州のキペル知事は２９日、州都オデッサが露軍のミサイル攻撃を受け、民間人４人が死亡し、４歳の女児や１２歳の少年を含む少なくとも３２人が重軽傷を負ったと",
+          "link": "https://news.yahoo.co.jp/articles/ef337ace5f6896697021aad14252ed76d9eba97b?source=rss",
+          "publishedOn": "2024-04-30T00:46:39.000Z",
+          "wordCount": 737,
+          "title": "露軍のミサイル攻撃で４人死亡、３０人超負傷　ウクライナ南部オデッサ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/36e5bae794ddd24feab6119b50388d68aec22aa4?source=rss",
+          "author": null,
+          "description": "世の中に、ついていけなくなってきた。この頃は、パソコンで複雑な制度などについて調べていると、最後は、おおむね「ＡＩ（人工知能）に聞きましょう」と提案される。けれど、その「ＡＩ」がよく分からない。私は切",
+          "link": "https://news.yahoo.co.jp/articles/36e5bae794ddd24feab6119b50388d68aec22aa4?source=rss",
+          "publishedOn": "2024-04-30T00:05:00.000Z",
+          "wordCount": 789,
+          "title": "のほほんと生きてきて、思った以上に悩ましいわが晩年・・・私はいったいどうするんだろう　家族がいてもいなくても(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000036-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/853c0827a30b590dd9a2bcc4b591ea311a0e5b39?source=rss",
+          "author": null,
+          "description": "２９日の外国為替市場で円相場が一時急騰したことについて、財務省の神田真人財務官は３０日、記者団の取材に応じ、「過度な変動が国民生活に悪影響を与えてしまう場合はしっかりと対応したい」と語った。為替介入の",
+          "link": "https://news.yahoo.co.jp/articles/853c0827a30b590dd9a2bcc4b591ea311a0e5b39?source=rss",
+          "publishedOn": "2024-04-30T00:00:22.000Z",
+          "wordCount": 748,
+          "title": "東京円は１５６円台前半　神田真人財務官「過度な変動は国民生活に悪影響」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/afba298b7639ea5c659770c67492b1b86a5ff279?source=rss",
+          "author": null,
+          "description": "「天皇陛下さん、ありがとう、ありがとうね」「皇后さまー」\n\nがれきの残る町を行く銀色のマイクロバスに向かい、次々と感謝の声が飛んだ。３月と４月の２度にわたり、天皇、皇后両陛下が足を運ばれた能登半島地震",
+          "link": "https://news.yahoo.co.jp/articles/afba298b7639ea5c659770c67492b1b86a5ff279?source=rss",
+          "publishedOn": "2024-04-30T00:00:00.000Z",
+          "wordCount": 821,
+          "title": "「じかに」重ねた被災地訪問で示された思い　コロナ禍では工夫凝らされ　令和皇室の現在地　ご即位５年㊤(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240430-00000033-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/619a03be47172f788c2dead866ac948dac56ee74?source=rss",
           "author": null,
@@ -7529,6 +7564,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=243865",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、定番メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。 […]",
+          "link": "https://foodfighter.jp/matsunoya-karaage-teishoku",
+          "publishedOn": "2024-04-30T00:49:23.000Z",
+          "wordCount": 1852,
+          "title": "【松のや】本格唐揚げ定食（5個）【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/5a23e31f1585e7c50e2557b1259dd94f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=243844",
           "author": "foodfighter",
@@ -12452,16 +12497,6 @@
           "wordCount": 2394,
           "title": "【東京】文科省の掲示板に「FREE GAZA」　落書きの現行犯で30代男を逮捕",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/9/c9bda727-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034297.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2024/03/29(金) 09:58:23.11 ID:rx//tuLd9.net\n\n\n\n\n\n\n\n「もふもふプッシュにご用心」愛犬がガスコンロのスイッチを…室内飼いのペットによる火災が10年で61件　NITEが注意喚起 #FNNプライムオンライン https://t.co/P7fU1sJTEb— FNNプライムオンライン...",
-          "link": "https://itainews.com/archives/2034297.html",
-          "publishedOn": "2024-03-31T12:02:36.000Z",
-          "wordCount": 2423,
-          "title": "【犬猫】「もふもふプッシュ」にご用心　ガスコンロのスイッチを…室内飼いのペットによる火災が10年で61件　NITEが注意喚起",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/d/fd5a5064-s.png"
         }
       ]
     },
@@ -12470,6 +12505,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71701",
+          "author": "299",
+          "description": "今回ご紹介するのは子育てが大変すぎる母猫です。 なんと16匹もの子猫ちゃんが母猫のオッパイを求めて群がっていました。 あまりの大変だったのか、飼い主さんに向かってニャ～と鳴く場面も。 それではキャパオーバーだよね・・・と...\n子育てが大変すぎる母猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71701",
+          "publishedOn": "2024-04-30T00:00:05.000Z",
+          "wordCount": 1341,
+          "title": "子育てが大変すぎる母猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71701.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71666",
           "author": "299",
