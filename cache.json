@@ -1941,16 +1941,6 @@
           "wordCount": 2584,
           "title": "IrDAに準拠した赤外線トランシーバーモジュール",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/03/cover_news058.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/02/news023.html",
-          "author": null,
-          "description": "ロームは、2.8×2.9mmの小型DC-DCコンバーターIC「BD9E105FP4-Z」「BD9E202FP4-Z」「BD9E304FP4-LBZ」「BD9A201FP4-LBZ」を開発した。4.9×6.0mmの一般的なSOP-J8パッケージに比べ、部品面積を約72％縮小できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/02/news023.html",
-          "publishedOn": "2024-04-02T00:00:00.000Z",
-          "wordCount": 2582,
-          "title": "部品面積を72％削減、民生／産機向けDC-DCコンバーターIC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/02/cover_news023.jpg"
         }
       ]
     },
@@ -3777,6 +3767,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/konki_ranking/121192/",
+          "author": null,
+          "description": "5月第1週の2024年春アニメ録画ランキングは、「転生したらスライムだった件（第3期）」が4週連続で首位となった。2位の「怪獣8号」とのポイント差は、先週の17ポイントから12ポイントに縮まって...",
+          "link": "https://anime.eiga.com/news/column/konki_ranking/121192/",
+          "publishedOn": "2024-05-01T12:00:00.000Z",
+          "wordCount": 990,
+          "title": "【今期TVアニメランキング】1位「転スラ」と2位「怪獣8号」の差、縮まる",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/eiga_ranking/121195/",
           "author": null,
@@ -7532,6 +7537,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/79487b85c6d9ecbb985d59644b2d231c928c3f02?source=rss",
+          "author": null,
+          "description": "栃木県那須町で会社役員の宝島龍太郎さん（５５）夫妻の遺体が見つかった事件で、警視庁・栃木県警合同捜査本部は１日、死体損壊容疑で実行役とみられる、いずれも住所、職業不詳、姜光紀（カングァンギ）容疑者（２",
+          "link": "https://news.yahoo.co.jp/articles/79487b85c6d9ecbb985d59644b2d231c928c3f02?source=rss",
+          "publishedOn": "2024-05-01T11:49:10.000Z",
+          "wordCount": 744,
+          "title": "出会ったばかりで名前も知らない容疑者ら…緩い結びつき、ちらつくカネ　那須２遺体事件(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000193-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2a835a170aec6433e620f8d05a4a98e0c3bfd873?source=rss",
           "author": null,
@@ -11618,16 +11633,6 @@
           "wordCount": 1821,
           "title": "【やよい軒】牛焼きしゃぶとたっぷり野菜の定食【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/ab7124ed55eb6412df0d0f8bddd562fd.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=240875",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「不二家 ネクタージェラート」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
-          "link": "https://foodfighter.jp/711sej-nectar-gelato",
-          "publishedOn": "2024-04-01T23:51:22.000Z",
-          "wordCount": 1794,
-          "title": "【セブンイレブン】不二家 ネクタージェラート【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/9342ffb011333d8101d42b67ede9f2ab.jpg"
         }
       ]
     },
