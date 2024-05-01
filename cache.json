@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/999/G999905/20240419036/",
+          "author": null,
+          "description": "4月13日に，セレッソ大阪のホームスタジアムであるヨドコウ桜スタジアムで「カプコンサポーティングマッチ」が開催された。モンスターハンターの世界観に包まれたスタジアム内外で，初めてサッカー観戦をする筆者が感じた魅力や，スタジアムを彩る多彩なエンタメの様子をレポートしよう。",
+          "link": "https://www.4gamer.net/games/999/G999905/20240419036/",
+          "publishedOn": "2024-05-01T01:00:00.000Z",
+          "wordCount": 7329,
+          "title": "「モンスターハンター」とのコラボが楽しめたセレッソ大阪「カプコンサポーティングマッチ」観戦レポート",
+          "imageUrl": "https://www.4gamer.net/games/999/G999905/20240419036/SS/017.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/786/G078674/20240428010/",
           "author": null,
           "description": "見て覚えるゲームの英単語帳――略して「ゲーたん！」。本日の単語は「empty/えんぷてぃー」。意味は空っぽ。状態を表す単語で，インベントリにアイテムがないときや，水筒の水がなくなったとき，残弾がゼロになったときなんかに見かけるかな。",
@@ -1212,6 +1222,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2405/01/news069.html",
+          "author": null,
+          "description": "日本航空電子工業は、IEC規格に適合したイーサネット用小型防水コネクター「JB12」シリーズの販売を開始した。産業機器内でも取り回しが可能なねじ嵌合タイプで、M12 XコードとM12 Dコードに対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2405/01/news069.html",
+          "publishedOn": "2024-05-01T00:00:00.000Z",
+          "wordCount": 2541,
+          "title": "IEC規格のイーサネット用小型防水コネクター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/01/cover_news069.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2404/30/news043.html",
           "author": null,
@@ -6141,21 +6161,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/120964/",
-          "author": null,
-          "description": "3月31日に最終回を迎えたテレビアニメ「俺だけレベルアップな件」の第2期制作が決定した。タイトルは「俺だけレベルアップな件 Season 2 -Arise from the Shadow-」とな...",
-          "link": "https://anime.eiga.com/news/120964/",
-          "publishedOn": "2024-04-01T12:00:00.000Z",
-          "wordCount": 1556,
-          "title": "「俺だけレベルアップな件」第2期制作決定　新規映像を収録したスペシャルPVも公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -6942,6 +6947,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/72711c1b7715a1f8730cdde62980a811cd04326f?source=rss",
+          "author": null,
+          "description": "１日の東京株式市場の日経平均株価は反落して始まった。寄り付きは前日比２９８円２８銭安の３万８１０７円３８銭。\n\n米連邦準備制度理事会（ＦＲＢ）の利下げ開始が遅れるとの観測から前日のニューヨーク株式市場",
+          "link": "https://news.yahoo.co.jp/articles/72711c1b7715a1f8730cdde62980a811cd04326f?source=rss",
+          "publishedOn": "2024-05-01T00:22:20.000Z",
+          "wordCount": 756,
+          "title": "東証、反落して始まる　米株安受け一時３００円安　半導体関連に売り(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000044-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6964fb083862783a93d11504d02774b3832188da?source=rss",
+          "author": null,
+          "description": "日本の２０代女性の５人に１人が「やせ」の状態にあるという。「やせ」の中に、「やせメタボ」と呼ばれるような糖尿病のリスクになりうる人がいることが最近の研究で分かってきた。情報発信を強化しようと今年３月、",
+          "link": "https://news.yahoo.co.jp/articles/6964fb083862783a93d11504d02774b3832188da?source=rss",
+          "publishedOn": "2024-05-01T00:13:09.000Z",
+          "wordCount": 864,
+          "title": "若い女性の「やせていてもメタボ」に警鐘　不妊や骨粗鬆症、糖尿病のリスクも　みんなで考える　思いやりのカタチ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000043-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c7a32132b0cd6471379537b8689e515a3fedde3d?source=rss",
+          "author": null,
+          "description": "料理、掃除、洗濯…と家事は一生続きますが、やらなくて済むことも意外と多いもの。たとえば、本当に毎日部屋中に掃除機をかける必要はありますか？\n\n掃除の目的は健康な体を保つこと。それならば、健康に影響のあ",
+          "link": "https://news.yahoo.co.jp/articles/c7a32132b0cd6471379537b8689e515a3fedde3d?source=rss",
+          "publishedOn": "2024-05-01T00:11:32.000Z",
+          "wordCount": 779,
+          "title": "掃除機は毎日かけなくても大丈夫　やることを手放して暮らしを楽に　ゼロ家事のススメ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000042-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/81eed120b46508a03b74c07f53d6c7505fc2bf8d?source=rss",
+          "author": null,
+          "description": "魅力あるデザインの福祉施設はケアに影響し、地域の人の意識も変えるのではないか－。その観点に立ち、優れた設計デザインの福祉施設の建築に助成金を支給する、日本財団の「みらいの福祉施設建築プロジェクト」の助",
+          "link": "https://news.yahoo.co.jp/articles/81eed120b46508a03b74c07f53d6c7505fc2bf8d?source=rss",
+          "publishedOn": "2024-05-01T00:07:52.000Z",
+          "wordCount": 794,
+          "title": "デザインの力で福祉を変える　施設建築５プロジェクトに助成(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000041-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/edb50969c4272c686dec90d66d750f932d0375b9?source=rss",
+          "author": null,
+          "description": "【ニューヨーク＝平田雄介】トランプ前米大統領の不倫口止め料を巡る会計不正処理事件で、東部ニューヨーク州地裁のメルシャン判事は４月３０日の公判で、トランプ氏が交流サイト（ＳＮＳ）などへの投稿で証人や陪審",
+          "link": "https://news.yahoo.co.jp/articles/edb50969c4272c686dec90d66d750f932d0375b9?source=rss",
+          "publishedOn": "2024-05-01T00:05:50.000Z",
+          "wordCount": 748,
+          "title": "トランプ氏に罰金１４０万円、ＳＮＳ投稿で箝口令違反　米ニューヨーク州地裁(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000040-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/44163e7be3300263da02803231a6a6b8f19b4682?source=rss",
+          "author": null,
+          "description": "【カイロ＝佐藤貴生】イスラエルのネタニヤフ首相は４月３０日、パレスチナ自治区ガザで続くイスラム原理主義組織ハマスとの戦闘について、「全ての目標を達成する前にやめるのは論外だ」とし、休戦合意の有無に関わ",
+          "link": "https://news.yahoo.co.jp/articles/44163e7be3300263da02803231a6a6b8f19b4682?source=rss",
+          "publishedOn": "2024-04-30T23:57:42.000Z",
+          "wordCount": 772,
+          "title": "「休戦合意に関わらずラファ攻撃」イスラエルのネタニヤフ首相　ブリンケン米国務長官と１日に会談　政権内対立深刻化(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/93e1e74ecb702ec6b2c0e87d341751aff04df667?source=rss",
           "author": null,
@@ -13952,16 +14017,6 @@
           "wordCount": 2367,
           "title": "temu「1万6千円でお前の個人情報無制限に使う」客「ふざけんな」teme「違う。誤解。そういう意味じゃ」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/e/0e0a85dc-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034333.html",
-          "author": "damono3856",
-          "description": "1 名前：(栃木県)(庭)：2024/04/01(月) 12:04:16.24 ID:4ijxfmxI0●.net\n\n\n\n\n\n\n\nなぜ日本に北朝鮮の映像が流れるのか？そこが問題#ラヴィット【騒然】『ラヴィット！』で北朝鮮の軍事パレード映像、約8秒間流れSNS騒然 pic.twitter.com/VjLSlhkncY— 井戸端ステーション ...",
-          "link": "https://itainews.com/archives/2034333.html",
-          "publishedOn": "2024-04-01T12:01:02.000Z",
-          "wordCount": 2528,
-          "title": "【放送事故】　TBSのラヴィットが数秒間北朝鮮に電波ジャックされる",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/f/bf610521-s.png"
         }
       ]
     },
@@ -13970,6 +14025,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71771",
+          "author": "299",
+          "description": "手のひらに寄りかかって寝ている赤ちゃん猫は、生まれてからすぐにとても過酷な時間を過ごしてきたことが容易に想像できるぐらいに弱っています。 ですが保護されて暖かいお家で優しい飼い主さんにお世話をしてもらうことで少しずつ体力...\n親から見捨てられてしまった赤ちゃん猫が幸せを掴みました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71771",
+          "publishedOn": "2024-05-01T00:00:20.000Z",
+          "wordCount": 1335,
+          "title": "親から見捨てられてしまった赤ちゃん猫が幸せを掴みました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/71771.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71737",
           "author": "299",
@@ -16049,16 +16114,6 @@
           "wordCount": 1339,
           "title": "子猫を見た弟の反応がこちら",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70609.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=70602",
-          "author": "299",
-          "description": "保護されてやってきた白猫のゆきちゃんがつめとぎハウスの周囲を探検中です。いろいろなものに興味を示すお年頃だけあって、なんでも気になるようです。 気が済むまで探検をしたら、かわいくヨチヨチ歩きでこっちのほうにやってきました...\nお兄ちゃん子猫に挑みかかるお転婆ゆきちゃん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/70602",
-          "publishedOn": "2024-04-01T13:00:45.000Z",
-          "wordCount": 1336,
-          "title": "お兄ちゃん子猫に挑みかかるお転婆ゆきちゃん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70602.jpeg"
         }
       ]
     },
