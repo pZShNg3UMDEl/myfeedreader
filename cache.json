@@ -6,6 +6,46 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/795/G079597/20240501013/",
+          "author": null,
+          "description": "Headupは本日（2024年5月1日），DvoraStudioが開発するサバイバルホラーADV「TheComa2B:Catacomb」を2024年内に発売すると発表した。第1作「TheComa:CuttingClass」と，続編「TheComa2:ViciousSisters」をつなぐ物語が描かれる。",
+          "link": "https://www.4gamer.net/games/795/G079597/20240501013/",
+          "publishedOn": "2024-05-01T04:11:52.000Z",
+          "wordCount": 7183,
+          "title": "人気サバイバルホラーADVの最新作「The Coma 2B: Catacomb」，2024年内にリリース。Steamではフランチャイズセール開催中",
+          "imageUrl": "https://www.4gamer.net/games/795/G079597/20240501013/SS/003.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/795/G079598/20240501017/",
+          "author": null,
+          "description": "シュールなパズルアドベンチャーでお馴染みのインディーゲームスタジオRustyLakeが，「RustyLakePenandPaper」のトレーラーを初公開した。紙とペンとゲームマスターさえいれば遊べる密室脱出ゲームになりそうだ。",
+          "link": "https://www.4gamer.net/games/795/G079598/20240501017/",
+          "publishedOn": "2024-05-01T04:10:37.000Z",
+          "wordCount": 7158,
+          "title": "Rusty Lakeの次回作はアナログゲーム？　「Rusty Lake Pen and Paper」のトレーラーを初公開",
+          "imageUrl": "https://www.4gamer.net/games/795/G079598/20240501017/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/739/G073983/20240501015/",
+          "author": null,
+          "description": "スクウェア・エニックスは，「SaGaEmeraldBeyondOriginalSoundtrack」を本日（2024年5月1日）発売した。価格は3520円（税込）。本商品は，RPG「サガ」シリーズの最新作で，4月25日に発売された「サガエメラルドビヨンド」の楽曲をCD3枚組に収録したものだ。",
+          "link": "https://www.4gamer.net/games/739/G073983/20240501015/",
+          "publishedOn": "2024-05-01T04:00:59.000Z",
+          "wordCount": 7425,
+          "title": "シリーズ最新作「サガ エメラルド ビヨンド」のサントラ，本日リリース。ゲームの楽曲をCD3枚組に収録",
+          "imageUrl": "https://www.4gamer.net/games/739/G073983/20240501015/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/243/G024357/20240426040/",
+          "author": null,
+          "description": "アイドル育成リズム＆アドベンチャーゲーム「Tokyo7thシスターズ」とサンリオキャラクターズのコラボカフェが，東京の上野にある「サンリオキャラクターズガーデンカフェ」で開催されている。「777☆SISTERS」のメンバーとサンリオキャラクターがペアになったイラストが可愛い，コラボカフェを紹介しよう。",
+          "link": "https://www.4gamer.net/games/243/G024357/20240426040/",
+          "publishedOn": "2024-05-01T03:54:53.000Z",
+          "wordCount": 7479,
+          "title": "「Tokyo 7th シスターズ」とサンリオキャラクターズのコラボカフェが開催中。描き下ろしイラストを使用したグッズの販売やパネルの展示も",
+          "imageUrl": "https://www.4gamer.net/games/243/G024357/20240426040/SS/016.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/619/G061991/20240501010/",
           "author": null,
           "description": "リーメントは本日，2024年8月12日に発売を予定しているインテリアフィギュア「ポケットモンスター森の小さなおはなし」の商品画像を公式Xで公開した。本商品は，全6種のうち1種がランダムで封入されるというもので，森で気ままに過ごすポケモンたちを立体化している。価格は1つ1265円（税込）。",
@@ -3195,16 +3235,6 @@
           "wordCount": 4222,
           "title": "Toppan shifts image sensor production to China",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html",
-          "author": null,
-          "description": "In a preprint titled \"Metasurface-based planar microlenses for SPAD pixels\", J. Vaillant et al. of STMicroelectronics and CEA LETI write:\nIn this paper we present two design generations of metasurface-based planar microlenses implemented on Front-Side Illumination SPAD pixels. This kind of microlens is an alternative to conventional reflow microlens. It offers more degrees of freedom in term of design, especially the capability to design off-axis microlens to gather light around the SPAD photodiode. The two generations of microlenses have been fabricated on STMicroelectronics SPAD and characterized. We validated the sensitivity improvement offered by extended metasurface-based microlens. We also confirmed the impact of lithography capability on metasurface performances, highlighting the need have access to advance deep-UV lithography.",
-          "link": "http://image-sensors-world.blogspot.com/2024/04/stmicroelectronics-and-cea-leti-develop.html",
-          "publishedOn": "2024-04-01T16:15:00.000Z",
-          "wordCount": 3779,
-          "title": "STMicroelectronics and CEA LETI develop microlenses for SPADs",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcCKnIAaR5NHCRM0y8NCscSsZBXL-ogLx33UM6jFSlBac4ZBHDV2KyU9kEo4XoEHLeLGX3K8lh4gJ13-S-8jqw5SRm65k9HDy1bIsq-joLrQDS7GVyLHvUlywKYWE1q9ntgaMrvZJWbjMTT2RLEg2eqhEZ1q0Kizz9B41EO1FDIB1hUinLLniG/w1200-h630-p-k-no-nu/Capture1.PNG"
         }
       ]
     },
@@ -7077,6 +7107,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/99712ae5beb0728ceda31613d59e0f7d75183669?source=rss",
+          "author": null,
+          "description": "飛鳥美人で親しまれる奈良県明日香村の高松塚古墳壁画が国宝指定から５０周年を迎えたことにちなんで、日本画家の平山郁夫さんらが描いた壁画の模写が、同村奥山の奈良文化財研究所・飛鳥資料館で公開されている。壁",
+          "link": "https://news.yahoo.co.jp/articles/99712ae5beb0728ceda31613d59e0f7d75183669?source=rss",
+          "publishedOn": "2024-05-01T04:02:52.000Z",
+          "wordCount": 739,
+          "title": "「飛鳥美人」鮮やかに　平山郁夫さんらが模写した高松塚壁画を公開(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000085-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f0a72151f9c8410013e28bd094f58ed241e07b8d?source=rss",
           "author": null,
@@ -14335,6 +14375,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=71746",
+          "author": "299",
+          "description": "ダンボールに穴を開けてそこから指を出したり引っ込めたりする、いわゆるもぐらたたきの遊びに猫が夢中になっています。 ダンボールの前に立ち上がって真剣な表情で飛び出してくる指をキャッチしようとしている茶トラの猫さんの表情がと...\nもぐらたたきに夢中な猫さん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/71746",
+          "publishedOn": "2024-05-01T04:00:53.000Z",
+          "wordCount": 1335,
+          "title": "もぐらたたきに夢中な猫さん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/71746.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=71741",
           "author": "299",
