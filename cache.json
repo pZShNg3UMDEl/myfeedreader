@@ -6,6 +6,26 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/482/G048219/20240501046/",
+          "author": null,
+          "description": "東京・有明GYM-EXで開催された格闘ゲームイベント「EVOJapan2024」のRiotGamesブースに，「LeagueofLegends」を題材にした格闘ゲーム「2XKO」が試遊出展されていた。圧倒的クオリティで描かれる同作のプレイフィールを確かめてきたので，その内容をお届けする。",
+          "link": "https://www.4gamer.net/games/482/G048219/20240501046/",
+          "publishedOn": "2024-05-01T09:14:03.000Z",
+          "wordCount": 7386,
+          "title": "［EVO Japan］LoL格ゲー「2XKO」試遊レポート。圧倒的クオリティで描かれるハイスピードバトルは圧巻のひと言",
+          "imageUrl": "https://www.4gamer.net/games/482/G048219/20240501046/SS/014.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/796/G079624/20240501039/",
+          "author": null,
+          "description": "GrayMuscatは本日，PCゲーム「TheReeve」をSteamでリリースした。本作は，新しく派遣された見習い行政官として，中世の村を管理していくシミュレーションゲームだ。選択肢を選ぶと，「民意」「秩序」「軍事」「物資」などの指標が変動する。",
+          "link": "https://www.4gamer.net/games/796/G079624/20240501039/",
+          "publishedOn": "2024-05-01T09:10:42.000Z",
+          "wordCount": 7172,
+          "title": "見習い行政官として決断し，中世の村に迫る危機を乗り越えよう。村管理シム「The Reeve」，Steamで本日リリース",
+          "imageUrl": "https://www.4gamer.net/games/796/G079624/20240501039/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/456/G045622/20240501021/",
           "author": null,
           "description": "イベント「ニコニコ超会議2024」が，2024年4月27日と28日の2日間，千葉の幕張メッセで開催された。「勝利の女神：NIKKE」と「HookahHaze」「NEEDYGIRLOVERDOSE」のブースを中心に，写真多めで会場の様子をお届けする。",
@@ -1850,6 +1870,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=74718",
+          "author": "Munenori Taniguchi",
+          "description": "アップルは、SNSで指摘が相次いでいる「iPhoneのアラームが鳴らない」問題についてソフトウェアのバグが原因であることを認め「修正に取り組んでいる」とNBCに対して述べた。 このバグは、今年3月中旬頃から発生し始めた。またすべてのiPhoneで問題が共通しているわけではなく、正常にアラームが鳴るi […]",
+          "link": "https://gadget.phileweb.com/post-74718/",
+          "publishedOn": "2024-05-01T08:50:23.000Z",
+          "wordCount": 765,
+          "title": "iPhoneにアラームが鳴らないバグ。アップルも問題認知、修正取組中",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/05/Media-Whale-Stock_Shutterstock.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=74704",
           "author": "Munenori Taniguchi",
           "description": "AIの性能を比較するサイトLMSYS Chatbot Arenaに、謎の「gpt2-chatbot」が登場した。そして、AI界隈ではこのモデルがOpenAIが開発したものだという憶測が有力になりつつある。なぜなら、このモデルがこのサイトの登場する少し前に、OpenAIのサム・アルトマンCEOが「私は […]",
@@ -3657,6 +3687,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/121198/",
+          "author": null,
+          "description": "5月に入り、放送中の春アニメが本格的に盛り上がってきましたが、皆さんの“推し作品”は決まりましたか？ アニメ・声優・イベント情報サイト「アニメハック」では、4月2～21日の期間中、今期アニメを対...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/121198/",
+          "publishedOn": "2024-05-01T09:00:00.000Z",
+          "wordCount": 1104,
+          "title": "【みんなが継続視聴を決めた春アニメランキング】「転スラ」「このすば」「怪獣8号」は何位？ 「Lv2チート」が大健闘",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121197/",
           "author": null,
@@ -7342,6 +7387,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/1a3530f21f50892fe3af8934086c6f86f3e5c81b?source=rss",
+          "author": null,
+          "description": "能登半島地震の発生から１日で４カ月となった。大規模な停電の復旧へ全国の大手電力会社が応援を派遣したが、約９割復旧するまで約１カ月かかった。１週間前後で同じ程度まで復旧した過去の大地震と比べて遅れたのは",
+          "link": "https://news.yahoo.co.jp/articles/1a3530f21f50892fe3af8934086c6f86f3e5c81b?source=rss",
+          "publishedOn": "2024-05-01T09:00:52.000Z",
+          "wordCount": 800,
+          "title": "能登半島地震４カ月　遅れた電力復旧　道路寸断、断水、さらに電力会社の現場連携が不十分(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240501-00000147-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7957e84c84220d774ca761b24d698be149864f97?source=rss",
           "author": null,
