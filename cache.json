@@ -4171,6 +4171,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YzN7QqJnLfY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YzN7QqJnLfY",
+          "publishedOn": "2024-05-02T10:00:30.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】ラスト天杖＋αの勝負!!世界樹の天杖ガチャ他計30連でＰＵ武器を狙う無課金勇者!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z1i0Clb4iSU",
           "author": null,
           "description": "",
@@ -4347,6 +4357,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121208/",
+          "author": null,
+          "description": "永井豪氏原作のロボットアニメ「グレンダイザーU」の放送が7月からテレビ東京、BSテレビ東京ほかでスタートすることが決定し、新規メカニックと第2弾PVが公開された。また、高橋伸也、杉山里穂、近藤浩...",
+          "link": "https://anime.eiga.com/news/121208/",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 1041,
+          "title": "「グレンダイザーU」7月放送開始　GLAYの主題歌を収めたPV、新メカも登場",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121207/",
           "author": null,
@@ -8072,6 +8097,76 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/7c6d8fdd9dec0d29898aa1e50316e385f5c55283?source=rss",
+          "author": null,
+          "description": "果物に被害を及ぼす「果樹カメムシ」が関西を中心に大量発生しており、各県が注意を呼び掛けている。一般にカメムシの発生は隔年周期で、今年は発生の多い「表年」。今後、越冬したカメムシの活動の活発化が懸念され",
+          "link": "https://news.yahoo.co.jp/articles/7c6d8fdd9dec0d29898aa1e50316e385f5c55283?source=rss",
+          "publishedOn": "2024-05-02T09:58:19.000Z",
+          "wordCount": 741,
+          "title": "「カメムシ注意報」全国で続々、香川県では平年の９４倍と大量発生　越冬し活動が活発化(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000193-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7c702e183b72efa97c1de692d8c5d64c63477e17?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国南部、広東省の梅州市で１日未明に高速道路の路面が突然崩落する事故が発生し、中国国営新華社通信によると２日午後までに４８人の死亡が確認された。けが人は３０人で、これまでに外国人の被",
+          "link": "https://news.yahoo.co.jp/articles/7c702e183b72efa97c1de692d8c5d64c63477e17?source=rss",
+          "publishedOn": "2024-05-02T09:55:33.000Z",
+          "wordCount": 732,
+          "title": "中国・広東省で高速道路が崩落、２３台巻き込まれ４８人死亡　大型連休で被害が拡大(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000192-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a99f6d78a542d3a4e19f8cc8ef093c45e119307c?source=rss",
+          "author": null,
+          "description": "大阪府枚方寝屋川消防組合は２日、約５年半にわたり部下６人にハラスメント発言を繰り返したとして、枚方東消防署の男性消防司令補（３９）を減給３カ月（１０分の１）の懲戒処分にしたと発表した。\n\n組合によると",
+          "link": "https://news.yahoo.co.jp/articles/a99f6d78a542d3a4e19f8cc8ef093c45e119307c?source=rss",
+          "publishedOn": "2024-05-02T09:54:48.000Z",
+          "wordCount": 764,
+          "title": "「親の顔が見たい」 部下に５年半ハラスメント発言　３９歳消防司令補を減給　大阪(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000191-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/275cbf48d9221ec2345d588cd4570354fb3d07ae?source=rss",
+          "author": null,
+          "description": "鋼球を発射する「スリングピストル」で４０代男性にけがをさせたとして男２人が逮捕された事件で、大阪府警は２日、傷害と脅迫の疑いで、新たに無職、小薗（こぞの）健次容疑者（５１）＝大阪市東淀川区＝を逮捕した",
+          "link": "https://news.yahoo.co.jp/articles/275cbf48d9221ec2345d588cd4570354fb3d07ae?source=rss",
+          "publishedOn": "2024-05-02T09:53:02.000Z",
+          "wordCount": 716,
+          "title": "「スリングピストル」で鋼球撃ち込む、傷害容疑でリーダー格の男逮捕(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000190-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fe9a36a14347eaf0bfc2fa85232592958e4fc155?source=rss",
+          "author": null,
+          "description": "２日午後３時５分ごろ、京都府井手町多賀内垣内のＪＲ奈良線山城多賀駅で、通過中の京都発奈良行き快速電車（６両編成）に成人男性とみられる人物がはねられ、その場で死亡が確認された。\n\n京都府警田辺署によると",
+          "link": "https://news.yahoo.co.jp/articles/fe9a36a14347eaf0bfc2fa85232592958e4fc155?source=rss",
+          "publishedOn": "2024-05-02T09:50:40.000Z",
+          "wordCount": 763,
+          "title": "ＪＲ山城多賀駅で成人男性？はねられ死亡 ７千人に影響(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000189-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6904397db1008823024af3bb97b9b042754d4aa0?source=rss",
+          "author": null,
+          "description": "中国を念頭に置いた経済安全保障戦略で日米の連携が進む中、欧州連合（ＥＵ）とも関係が強化される意義は大きい。\n\nＥＵは地理的に中国が直接的な脅威となりにくく、日本とはスタンスの異なる状態が続いてきた。足",
+          "link": "https://news.yahoo.co.jp/articles/6904397db1008823024af3bb97b9b042754d4aa0?source=rss",
+          "publishedOn": "2024-05-02T09:49:44.000Z",
+          "wordCount": 783,
+          "title": "ＥＵの対中姿勢軟化に注意　日欧連携の意義は大きい　りそな総研の荒木秀之主席研究員(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000187-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2aa5d77e96e361564d0ae747688fb656000157b3?source=rss",
+          "author": null,
+          "description": "経済安全保障の懸案の一つとなっている太陽電池。現在普及するシリコン太陽電池は中国が世界シェアの大部分を占めるため、日本は次世代太陽電池で巻き返しを図る。ただ、ここでも量産化で中国に先を越されており、欧",
+          "link": "https://news.yahoo.co.jp/articles/2aa5d77e96e361564d0ae747688fb656000157b3?source=rss",
+          "publishedOn": "2024-05-02T09:49:07.000Z",
+          "wordCount": 734,
+          "title": "中国台頭で撤退、縮小相次ぐ日本の太陽電池　次世代型の実用化に日欧連携の後押し期待(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000186-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/d02417b30e62f209056372563e22bd83bec7f8c2?source=rss",
           "author": null,
@@ -16482,16 +16577,6 @@
           "wordCount": 2439,
           "title": "Z世代、入社初日で退職代行を使い飛びまくる",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/2/62373b5c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034367.html",
-          "author": "damono3856",
-          "description": "1 名前：おっさん友の会 ★：2024/04/02(火) 10:57:48.74 ID:UballAV99.net\n\n\n\n\n\n\n\n能登被災地でミカン窃盗、愛知教育大生を退学処分 https://t.co/3waUpNabvZ— 毎日新聞ニュース (@mainichijpnews) April 1, 2024  \n\n\n\n\n\n\n愛知教育大（愛知県刈谷市）は1日、在学してい...",
-          "link": "https://itainews.com/archives/2034367.html",
-          "publishedOn": "2024-04-02T22:02:08.000Z",
-          "wordCount": 2352,
-          "title": "【能登地震】ミカン窃盗した愛知教育大生を退学処分…大麻でも",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/6/863d8971-s.png"
         }
       ]
     },
@@ -18707,6 +18792,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IoLPCaalPP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IoLPCaalPP8",
+          "publishedOn": "2024-05-02T10:00:25.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】5月8日水曜よる７時〜▼おもしろ商店街の人選手権▼ブレイクアーティスト選手権【予告】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4DAnLt1RaxQ",
           "author": null,
