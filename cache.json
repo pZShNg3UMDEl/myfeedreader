@@ -2551,16 +2551,6 @@
           "wordCount": 2611,
           "title": "Linuxベースの「ctrlX OS」に対応した機能検証済みCOM",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/04/cover_news061.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/03/news058.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、IrDA準拠の赤外線トランシーバーモジュール「TFBS4xx」「TFDU4xx」シリーズのアップグレードを発表した。20％長いリンク距離と2kVまで向上したESD耐久性を提供する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/03/news058.html",
-          "publishedOn": "2024-04-03T00:00:00.000Z",
-          "wordCount": 2584,
-          "title": "IrDAに準拠した赤外線トランシーバーモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/03/cover_news058.jpg"
         }
       ]
     },
@@ -4437,6 +4427,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121205/",
+          "author": null,
+          "description": "5月3日に放送される「金曜ロードショー」内で、「猫の恩返し」終了後の5月3日午後10時41分から、「名探偵コナン 100万ドルの五稜星（みちしるべ）」本編映像冒頭10分が放送される。 怪盗キッド...",
+          "link": "https://anime.eiga.com/news/121205/",
+          "publishedOn": "2024-05-02T12:00:00.000Z",
+          "wordCount": 937,
+          "title": "5月3日「金曜ロードショー」内で映画「名探偵コナン」最新作の冒頭10分を放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121059/",
           "author": null,
@@ -8207,6 +8212,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/77e791164d195084fe44f29e3f7981a0dc7c4663?source=rss",
+          "author": null,
+          "description": "憲法記念日を翌日にした２日、憲法改正を目指す「美しい日本の憲法をつくる群馬県民の会」が前橋市の前橋商工会議所で「群馬憲法フォーラム」を開催した。同会代表の参院議員、中曽根弘文氏の挨拶に続き日本政策研究",
+          "link": "https://news.yahoo.co.jp/articles/77e791164d195084fe44f29e3f7981a0dc7c4663?source=rss",
+          "publishedOn": "2024-05-02T12:15:28.000Z",
+          "wordCount": 789,
+          "title": "「憲法改正発議、解散と同時実施を」　群馬憲法フォーラムで小坂実氏が逆風下の首相に提言(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000218-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f012b57faab07a71370d8a5e537a10357b8b3135?source=rss",
+          "author": null,
+          "description": "衆院憲法審査会の議論が煮詰まっていることを受け、自民党は早期の憲法改正を目指す構えだ。ただ、肝心の改憲案作りは進んでおらず、岸田文雄首相（自民総裁）が目標に掲げる「今年秋までの改憲」や、令和６年運動方",
+          "link": "https://news.yahoo.co.jp/articles/f012b57faab07a71370d8a5e537a10357b8b3135?source=rss",
+          "publishedOn": "2024-05-02T12:09:01.000Z",
+          "wordCount": 821,
+          "title": "憲法改正「年内困難」で通常国会に条文提出案も…懸念は「参院の壁」　３日は憲法記念日(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240502-00000215-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/91e5337a3afc851439c73ee9ccb3f0e799629fe0?source=rss",
           "author": null,
