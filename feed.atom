@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T09:36:32.125Z</updated>
+    <updated>2024-05-03T09:50:16.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーバーツーリズムどう防ぐ？　鎌倉で「歩き」促す実証実験(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/37aa393e00924bd7cb267cbde3d4fe91d4da8479?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/37aa393e00924bd7cb267cbde3d4fe91d4da8479?source=rss"/>
+        <updated>2024-05-03T09:35:48.000Z</updated>
+        <summary type="html"><![CDATA[観光客の増加で交通渋滞やゴミのポイ捨てなどに悩まされてきた観光地で、観光と地域の暮らしの両立を図る取り組みが芽生え始めた。ゴールデンウイーク（ＧＷ）の後半が始まった３日、神奈川県鎌倉市では交通機関を使]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佐藤健からのDM「二人だけで何日も過ごしたい」ロマンス詐欺で女性（40代）が157万円だまし取られる　長崎]]></title>
         <id>https://itainews.com/archives/2035207.html</id>
@@ -23270,16 +23280,6 @@ JR東、今度はエスカレーター撤去するのかよww pic.twitter.com/0H
         <summary type="html"><![CDATA[コンガテックは、機能検証済みのCOMパッケージ「aReady.COM」を発表した。第1弾として、ボッシュ・レックスロスのOSである「ctrlX OS」に対応した製品を提供する。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Galaxy S24」で“SIMフリー”大幅強化、サムスンが日本市場に抱く危機感]]></title>
-        <id>https://gadget.phileweb.com/?p=72906</id>
-        <link href="https://gadget.phileweb.com/post-72906/"/>
-        <updated>2024-04-03T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[4月に入り、夏の商戦期に向けたスマートフォン新機種発表が徐々に始まるシーズンとなったが、その先陣を切ってスマートフォン新機種の投入を発表したのがサムスン電子である。同社は4月3日に、フラグシップモデル「Galaxy S」の2024年モデル「Galaxy S24」シリーズ2機種を、日本市場に向けて発売 […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>
