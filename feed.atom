@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T15:50:24.407Z</updated>
+    <updated>2024-05-03T16:17:30.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Foveon sensor development "still in design stage"]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/05/foveon-sensor-development-still-in.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/05/foveon-sensor-development-still-in.html"/>
+        <updated>2024-05-03T16:00:00.001Z</updated>
+        <summary type="html"><![CDATA[https://www.dpreview.com/interviews/6004010220/sigma-full-frame-foveon
+Full-frame Foveon sensor "still at design stage" says Sigma CEO, "but I'm still passionate"
+"Unfortunately, we have not made any significant progress since last year," says Sigma owner and CEO Kazuto Yamaki, when asked about the planned full-frame Foveon camera. But he still believes in the project and discussed what such a camera could still offer.
+"We made a prototype sensor but found some design errors," he says: "It worked but there are some issues, so we re-wrote the schematics and submitted them to the manufacturer and are waiting for the next generation of prototypes." This isn't quite a return to 'square one,' but it means there's still a long road ahead.
+"We are still in the design phase for the image sensor," …]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年4月27日から5月3日】]]></title>
+        <id>https://foodfighter.jp/?p=244254</id>
+        <link href="https://foodfighter.jp/ranking-2024-0504"/>
+        <updated>2024-05-03T15:57:28.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年4月27日から5月3日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキン […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日米豪比防衛相、中国に「深刻な懸念」表明　３カ国で先進技術協力も(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2b15afd3bf8ef4e6543c18854a9c329506c4ea3f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2b15afd3bf8ef4e6543c18854a9c329506c4ea3f?source=rss"/>
+        <updated>2024-05-03T15:47:43.000Z</updated>
+        <summary type="html"><![CDATA[木原稔防衛相は２日（日本時間３日）、米ハワイで米国のオースティン国防長官、オーストラリアのマールズ、フィリピンのテオドロ両国防相と会談した。力による一方的な現状変更や緊張を高める行為への反対を確認し、]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お父さん猫と子猫の初対面の日]]></title>
         <id>https://2-9-9.com/?p=71906</id>
@@ -23606,16 +23640,6 @@ JR東、今度はエスカレーター撤去するのかよww pic.twitter.com/0H
 「『多様性を認めろ！』と言う人たちに限って、自分が気に入らない「多様性」は暴力を用いて排除する」具体的にどういう事例か教えてください。 https://t.co/bkJrIyJQhe— ラサール石井 (@bwkZ...]]></summary>
         <author>
             <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stability AI、CD音質で3分間の曲を生成できる「Stable Audio 2.0」発表]]></title>
-        <id>https://gadget.phileweb.com/?p=72940</id>
-        <link href="https://gadget.phileweb.com/post-72940/"/>
-        <updated>2024-04-04T03:58:34.000Z</updated>
-        <summary type="html"><![CDATA[Stability AIは、同社のAI音楽生成プラットフォームをアップグレードした「Stable Audio 2.0」を発表した。このツールは無料で、同社のウェブサイトで一般公開されている。 このAIは、ユーザーが楽曲をイメージする文章を入力することで、最大3分のオーディオデータを生成できる。前バー […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
