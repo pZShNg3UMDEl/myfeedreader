@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/677/G067742/20240502068/",
+          "author": null,
+          "description": "AlFineは本日，デッキ構築型ローグライクRPG「クロノアーク」をSteamで正式リリースする。DLC「サマートワイライト」の配信も開始される。2019年12月からアーリーアクセスが始まった本作がついに完成し，歯ごたえがありつつも，秀逸なバランスの戦闘が楽しめる。力の入ったメインストーリーや，20人のキャラによるリプレイ性も見どころだ。",
+          "link": "https://www.4gamer.net/games/677/G067742/20240502068/",
+          "publishedOn": "2024-05-03T09:00:00.000Z",
+          "wordCount": 7181,
+          "title": "デッキ構築型ローグライクRPG「クロノアーク」が正式リリース＆水着DLC配信。2019年から展開してきた秀逸な戦闘バランスの一作がついに完成",
+          "imageUrl": "https://www.4gamer.net/games/677/G067742/20240502068/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/999/G999905/20240426072/",
           "author": null,
           "description": "レトロゲームを遊びたい，とくにセガサターンやドリームキャスト，初代Xboxが！　というわけで，現代の環境で遊ぼうと思ったが，いくつかのハードルを越える必要があり，実現には四苦八苦してしまった。この経験は誰かの参考になるかもしれないので，その時のことをまとめてみた。",
@@ -4478,6 +4488,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121062/",
+          "author": null,
+          "description": "世界的に人気のNFTプロジェクト「Azuki」のアニメ化が決定し、3部構成のアニメアンソロジーシリーズ「Enter The Garden」として展開することがわかった。シリーズ全体のクリエイティ...",
+          "link": "https://anime.eiga.com/news/121062/",
+          "publishedOn": "2024-05-03T09:00:00.000Z",
+          "wordCount": 999,
+          "title": "NFTプロジェクト「Azuki」谷口悟朗をクリエイティブプロデューサーに迎えてアニメ化　EP1には杉田智和、鬼頭明里が出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121072/",
           "author": null,
           "description": "静岡県を主な舞台とする「ゆるキャン△」と「ラブライブ！サンシャイン!!」の2作品によるコラボレーションプロジェクト「Meets SHIZUOKA ～ゆるキャン△ × ラブライブ！サンシャイン!!...",
@@ -8257,6 +8282,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/369fb5298c93a5c3191d1d49720db1ee6ee9b032?source=rss",
+          "author": null,
+          "description": "４月１３～１４日に行われたイランの大規模攻撃で、イスラエル側は大半の弾道・巡航ミサイルや無人機（ドローン）を迎撃し、「前例のない防空戦」（英紙フィナンシャル・タイムズ、ＦＴ）を制した。イスラエル軍の防",
+          "link": "https://news.yahoo.co.jp/articles/369fb5298c93a5c3191d1d49720db1ee6ee9b032?source=rss",
+          "publishedOn": "2024-05-03T08:56:14.000Z",
+          "wordCount": 779,
+          "title": "イスラエルが制した「前例なき防空戦」　国際迎撃網が真価発揮　コストは最大２０００億円(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240503-00000145-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/48e983c31fa0118fd4aaf895d1ebe65406dd412d?source=rss",
+          "author": null,
+          "description": "環境に優しい自転車利用促進や安全利用のための啓発活動などを強化する、５月の「自転車月間」に合わせ、東京都と警視庁は３日、タレントの武井壮さんと稲村亜美さん、パラサイクリング選手の木村和平さんを隊長に任",
+          "link": "https://news.yahoo.co.jp/articles/48e983c31fa0118fd4aaf895d1ebe65406dd412d?source=rss",
+          "publishedOn": "2024-05-03T08:46:21.000Z",
+          "wordCount": 720,
+          "title": "努力義務の自転車ヘルメット着用１割未満　武井壮さんが自転車月間で啓発「ルール守って安全に駆け回りたい」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240503-00000143-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/877db1189e27844e19a093f12a5aa50736f8563d?source=rss",
           "author": null,
