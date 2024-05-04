@@ -4488,6 +4488,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121188/",
+          "author": null,
+          "description": "テレビアニメ「2.5次元の誘惑（リリサ）」の連続2クール放送が決定し、追加キャストとして鈴代紗弓、渡部紗弓の出演も明らかとなった。あわせて、新たなキャラクターPVも公開されている。 同作は、集英...",
+          "link": "https://anime.eiga.com/news/121188/",
+          "publishedOn": "2024-05-04T10:00:00.000Z",
+          "wordCount": 982,
+          "title": "「2.5次元の誘惑」連続2クールで放送　追加キャストの鈴代紗弓、渡部紗弓演じるキャラの新PV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121173/",
           "author": null,
           "description": "7月24日にリリースされる、上坂すみれ初のベストアルバムのタイトルが「SUMIRE CATALOG」に決定し、収録楽曲が発表された。リード曲は、シンガーソングライターや声優として幅広く活躍する桃...",
@@ -8337,6 +8352,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3d4ea0f900ecce2537a095f7b3b82e96dc80bb7c?source=rss",
+          "author": null,
+          "description": "薬を過剰摂取するオーバードーズ（ＯＤ）が若者を中心に広がっている。中には依存の果てに生死をさまよったり、悪質な性犯罪に巻き込まれたりするケースも。厚生労働省は販売規制強化に乗り出しているが、交流サイト",
+          "link": "https://news.yahoo.co.jp/articles/3d4ea0f900ecce2537a095f7b3b82e96dc80bb7c?source=rss",
+          "publishedOn": "2024-05-04T10:00:00.000Z",
+          "wordCount": 777,
+          "title": "「ずっと嘔吐している感じだった」…オーバードーズの「沼」にハマった20代の壮絶体験(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240504-00000138-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ac91d85c6e5c24a014bce1da95f2197cc170c5c2?source=rss",
+          "author": null,
+          "description": "北朝鮮による拉致被害者家族らが４日、被害者の早期帰国に向けた協力を求めるため訪れていた米ワシントンから帰国し、「われわれの心のうちにある苦しみを（米側に）深く伝えられた」と手応えを口にした。\n\n４月２",
+          "link": "https://news.yahoo.co.jp/articles/ac91d85c6e5c24a014bce1da95f2197cc170c5c2?source=rss",
+          "publishedOn": "2024-05-04T09:59:46.000Z",
+          "wordCount": 766,
+          "title": "拉致家族が訪米終え帰国　「心の苦しみ、伝えられた」手応え(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240504-00000139-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/84dd43151b5a7a727990887e990cc13b618cde4f?source=rss",
           "author": null,
