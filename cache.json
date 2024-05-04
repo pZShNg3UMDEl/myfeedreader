@@ -4321,6 +4321,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=N6PuPe8UdkQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N6PuPe8UdkQ",
+          "publishedOn": "2024-05-04T11:44:19.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】ＤＱウォークをプレイする勇者の口コミを15件紹介します。2024年4月Ver.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YzN7QqJnLfY",
           "author": null,
           "description": "",
@@ -8377,6 +8387,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/33faf0aded71e87b07fc92144733a6840a3072ad?source=rss",
+          "author": null,
+          "description": "「堺市の小学校は授業をやりすぎているのではないか」。昨年末の同市議会でこうした指摘があがった。同市立小では、新型コロナウイルスの感染防止を目的に行事を授業に置き換えたことで、低学年を中心に年間授業時間",
+          "link": "https://news.yahoo.co.jp/articles/33faf0aded71e87b07fc92144733a6840a3072ad?source=rss",
+          "publishedOn": "2024-05-04T11:43:30.000Z",
+          "wordCount": 790,
+          "title": "堺市の小学校は授業をやりすぎか　国の基準を大幅超過　「不登校増加」の要因と指摘も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240504-00000162-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2ef7f0f07c7bd34183e56d05afa2382b0f326621?source=rss",
+          "author": null,
+          "description": "女子ゴルフのワールド・サロンパス・カップ第３日は４日、茨城県茨城ＧＣ（６６６５ヤード、パー７２）で行われ、昨年の韓国ツアー賞金女王、李叡源（韓国）が５バーディー、ボギーなしの６７を出し、通算１０アンダ",
+          "link": "https://news.yahoo.co.jp/articles/2ef7f0f07c7bd34183e56d05afa2382b0f326621?source=rss",
+          "publishedOn": "2024-05-04T11:33:45.000Z",
+          "wordCount": 717,
+          "title": "２位浮上の山下美夢有、最終日は首位・李叡源との〝日韓女王対決〟へ　女子ゴルフ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b9046daeb85737a4b04377eb6b298ab225f6345e?source=rss",
           "author": null,
