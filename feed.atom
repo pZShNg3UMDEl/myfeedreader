@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-05T03:37:21.447Z</updated>
+    <updated>2024-05-05T03:50:12.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明治 エッセル スーパーカップ ブルーベリーヨーグルト味【新作アイス】]]></title>
+        <id>https://foodfighter.jp/?p=244340</id>
+        <link href="https://foodfighter.jp/super-cup-blueberry-yogurt"/>
+        <updated>2024-05-05T03:49:04.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、明治の新商品「明治 エッセル スーパーカップ ブルーベリーヨーグルト味」を世界一詳しく調査しました。   公式You […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【野球】元プロ野球選手・三ツ間卓也氏、農家転身で活躍も「同業者からイジメ」　被害内容に「酷い」の声]]></title>
         <id>https://itainews.com/archives/2035247.html</id>
@@ -24420,16 +24430,6 @@ LGの...]]></summary>
         <updated>2024-04-05T16:25:00.000Z</updated>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年3月30日から4月5日】]]></title>
-        <id>https://foodfighter.jp/?p=241304</id>
-        <link href="https://foodfighter.jp/ranking-2024-0406"/>
-        <updated>2024-04-05T15:39:12.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年3月30日から4月5日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキン […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
