@@ -4468,6 +4468,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121212/",
+          "author": null,
+          "description": "「マギ」アラジン役、「お兄ちゃんはおしまい」緒山みはり役、「愚かな天使は悪魔と踊る」リーリヤ役などで知られる石原夏織の1st写真集が、石原の誕生日である8月6日に発売される。4月26日から予約を...",
+          "link": "https://anime.eiga.com/news/121212/",
+          "publishedOn": "2024-05-05T09:00:00.000Z",
+          "wordCount": 979,
+          "title": "石原夏織の1st写真集が発売決定　水着姿を披露、プライベートショットも収録予定【写真多数掲載】",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121202/",
           "author": null,
           "description": "劇場版「名探偵コナン」シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」（公開中）と、舘ひろしと柴田恭兵のコンビによる人気刑事ドラマの映画最新作「帰ってきた あぶない刑事」（5月...",
@@ -8332,6 +8347,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2ab4be0863ef9afb512d284d9d3fc5b5c6eafb8e?source=rss",
+          "author": null,
+          "description": "昭和４１年に静岡県内でみそ製造会社の専務一家４人が殺害された事件で死刑が確定した袴田巌さん（８８）の再審公判が、静岡地裁（国井恒志裁判長）で大詰めを迎えている。実質的な審理は第１４回公判でほぼ終わり、",
+          "link": "https://news.yahoo.co.jp/articles/2ab4be0863ef9afb512d284d9d3fc5b5c6eafb8e?source=rss",
+          "publishedOn": "2024-05-05T09:00:00.000Z",
+          "wordCount": 795,
+          "title": "異例ずくめの袴田さん再審公判大詰め　依然続く全面対決、夏ごろ判決か(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240505-00000116-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e3f080d2127f8066b3164b6d0a77030f19c3ba4d?source=rss",
+          "author": null,
+          "description": "「こどもの日」の５日、子供たちの健やかな成長と健康を祈る「泣き相撲」が北野天満宮（京都市上京区）で行われ、華やかな化粧まわしをした赤ちゃんが「泣きっぷり」を競い合った。\n\n「相撲の祖」とされる野見宿禰",
+          "link": "https://news.yahoo.co.jp/articles/e3f080d2127f8066b3164b6d0a77030f19c3ba4d?source=rss",
+          "publishedOn": "2024-05-05T08:59:00.000Z",
+          "wordCount": 748,
+          "title": "決まり手は「泣きっぷり」　北野天満宮で泣き相撲(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240505-00000115-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/69f59a6bd676aa2b83daa7b852d2aaa0edd7a029?source=rss",
           "author": null,
