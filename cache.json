@@ -4478,6 +4478,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121040/",
+          "author": null,
+          "description": "アニメ「鬼滅の刃」の公式ラジオ「鬼滅ラヂヲ」が、5月12日からニッポン放送でレギュラー放送される。毎週土曜もしくは日曜に放送され、初回は5月12日午後7時、第2回は5月18日午後7時からスタート...",
+          "link": "https://anime.eiga.com/news/121040/",
+          "publishedOn": "2024-05-05T12:00:00.000Z",
+          "wordCount": 958,
+          "title": "アニメ「鬼滅の刃」公式ラジオ、5月12日からニッポン放送で開始　初回ゲストは花江夏樹、鬼頭明里、下野紘、松岡禎丞",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121191/",
           "author": null,
           "description": "NHK WORLD JAPANの海外向け番組「ANIME MANGA EXPLOSION」で、82歳の現役アニメプロデューサー丸山正雄氏の特集番組が放送され、無料でアーカイブ配信されている（ht...",
@@ -8387,6 +8402,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d7dad40328d91aa9cea338f6bd77a9accfd2721a?source=rss",
+          "author": null,
+          "description": "富山県の黒部峡谷鉄道（路線距離約２０キロ）の終点・欅平（けやきだいら）駅と黒部ダムを結ぶ関西電力の工事用輸送路（同、約１８キロ）を見学できる「黒部宇奈月キャニオンルート」の一般開放が、能登半島地震の影",
+          "link": "https://news.yahoo.co.jp/articles/d7dad40328d91aa9cea338f6bd77a9accfd2721a?source=rss",
+          "publishedOn": "2024-05-05T12:00:00.000Z",
+          "wordCount": 759,
+          "title": "能登地震で開業３カ月延期の「黒部キャニオンルート」　紅葉シーズンに向け復興シンボルへ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/726e4bb873d73a632ae47cb47888fe6a56f7b33b?source=rss",
           "author": null,
