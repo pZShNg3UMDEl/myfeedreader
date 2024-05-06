@@ -4498,6 +4498,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/editor_bookshelf/121160/",
+          "author": null,
+          "description": "テレビアニメと同様に、日本の実写ドラマも何十本もの新作が毎クールごとに送りだされているが、筆者は実写ドラマを最近ほとんど見られていない。1話30分が基本のテレビアニメに対して、深夜ドラマをのぞく...",
+          "link": "https://anime.eiga.com/news/column/editor_bookshelf/121160/",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 929,
+          "title": "【編集Gのサブカル本棚】第37回　アニメ「あの花」ファンに見てもらいたい実写ドラマ「いちばんすきな花」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121163/",
           "author": null,
           "description": "「マッドマックス」シリーズ最新作「マッドマックス フュリオサ」の日本語吹き替え版キャストが発表され、怒りの戦士・フュリオサの声をファイルーズあい、宿敵・ディメンタス将軍の声を三宅健太が務めるほか...",
@@ -8412,6 +8427,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8127621de400206b84842b1c0a0af9e2e11c02fa?source=rss",
+          "author": null,
+          "description": "青森県八戸市を拠点にした社会人の女子バスケットボールチーム「ＳＷＥＥＴＹ」（スウィーティー）を運営する一般社団法人の理事長に就任した泉山裕子さん（４３）。今夏のパリ五輪でバスケットボールが男女とも出場",
+          "link": "https://news.yahoo.co.jp/articles/8127621de400206b84842b1c0a0af9e2e11c02fa?source=rss",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 788,
+          "title": "女性の社会進出のシンボルに　社会人女子バスケチーム理事長　泉山裕子さん（４３）　令和人国記(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240506-00000094-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/9811a6d8240c1a7b51d368e1122b9f617744dd5b?source=rss",
           "author": null,
