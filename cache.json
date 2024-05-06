@@ -4508,6 +4508,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121157/",
+          "author": null,
+          "description": "5月に創刊50周年を迎える少女漫画誌「花とゆめ」（白泉社刊）の歴史をたどる展覧会「創刊50周年記念 花とゆめ展」が、5月24日～6月30日に六本木ヒルズ森タワー52階の東京シティビューで行われる...",
+          "link": "https://anime.eiga.com/news/121157/",
+          "publishedOn": "2024-05-06T03:00:00.000Z",
+          "wordCount": 912,
+          "title": "「花とゆめ」歴代付録や原画200点を展示　創刊50周年記念の展覧会が5月24日から開催",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121213/",
           "author": null,
           "description": "6月6日からNetflixで全世界独占配信される映画「範馬刃牙 VS ケンガンアシュラ」の対戦カードが発表された。さらに、オープニング主題歌が「新しい学校のリーダーズ」の新曲「Fly High」...",
@@ -8367,6 +8382,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/858adcc4ec979608224f7b8a16e44a4e05403aec?source=rss",
+          "author": null,
+          "description": "《堺の大叔父宅から母と移ったのは大阪市大正区の製材所の一角にある３畳一間だった》\n\n\n\n母は製材所の手伝い仕事をするようになりました。周辺は大阪市でもはずれの土地で、夜になると真っ暗になる寂しい場所。",
+          "link": "https://news.yahoo.co.jp/articles/858adcc4ec979608224f7b8a16e44a4e05403aec?source=rss",
+          "publishedOn": "2024-05-06T03:00:00.000Z",
+          "wordCount": 800,
+          "title": "水が引くまで病院に１週間、いかだから川に転落も　話の肖像画　落語家・桂文枝＜５＞　(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240506-00000050-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/df0f850959c82677c0c8ad6ff2cb8aca6f744381?source=rss",
+          "author": null,
+          "description": "「山形弁研究家」として、方言を駆使し、テレビ番組などで活躍するダニエル・カールさん（６４）は山形県を〝第二の故郷〟として、東京都内に住まいを移した今も、思いを寄せる。山形に住んだ期間は３年だが、方言の",
+          "link": "https://news.yahoo.co.jp/articles/df0f850959c82677c0c8ad6ff2cb8aca6f744381?source=rss",
+          "publishedOn": "2024-05-06T03:00:00.000Z",
+          "wordCount": 844,
+          "title": "「ん」で始まる日本語があった　方言の奥深さに魅せられて　山形弁研究家、ダニエル・カールさん（６４）　令和人国記(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240506-00000049-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2ad09517003c96dea2a3d3e3db0a1e613cbf9037?source=rss",
           "author": null,
