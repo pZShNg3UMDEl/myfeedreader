@@ -4508,6 +4508,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121127/",
+          "author": null,
+          "description": "2大ヒーローによる豪華2本立て映画「仮面ライダー THE SUMMER MOVIE 2024／仮面ライダーガッチャード＆爆上戦隊ブンブンジャー」が、 7月26日に公開されることが決定。あわせて、...",
+          "link": "https://anime.eiga.com/news/121127/",
+          "publishedOn": "2024-05-06T12:00:00.000Z",
+          "wordCount": 876,
+          "title": "映画「仮面ライダーガッチャード」「爆上戦隊ブンブンジャー」7月26日から2本立てで公開　特報＆ビジュアル披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121104/",
           "author": null,
           "description": "「トランスフォーマー」シリーズ最新作となる3DCGアニメーション「トランスフォーマー ONE」が、2024年に日本公開されることが決定。あわせて、特報映像が世界同時解禁された。 本作では、トラン...",
@@ -8452,6 +8467,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8eae62f709aa6bf892042b4b77a79ae42d82cd78?source=rss",
+          "author": null,
+          "description": "ボクシングの世界戦４試合が６日、東京ドームで行われ、世界ボクシング協会（ＷＢＡ）フライ級王者のユーリ阿久井政悟（倉敷守安）は同級３位の桑原拓（大橋）を３―０の判定で破り、初防衛に成功した。\n\n◇\n\n３",
+          "link": "https://news.yahoo.co.jp/articles/8eae62f709aa6bf892042b4b77a79ae42d82cd78?source=rss",
+          "publishedOn": "2024-05-06T12:16:24.000Z",
+          "wordCount": 733,
+          "title": "ユーリ阿久井政悟が桑原拓との再戦制し初防衛「きょうは僕の日」　ボクシングＷＢＡフライ級(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240506-00000122-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2a8d22679a7e93f3c287719d93273cc8d39e6e27?source=rss",
+          "author": null,
+          "description": "ボクシングの世界戦４試合が６日、東京ドームで行われ、世界ボクシング協会（ＷＢＡ）フライ級王者のユーリ阿久井政悟（倉敷守安）は同級３位の桑原拓（大橋）を３―０の判定で破り、初防衛に成功した。\n\n◇\n\n桑",
+          "link": "https://news.yahoo.co.jp/articles/2a8d22679a7e93f3c287719d93273cc8d39e6e27?source=rss",
+          "publishedOn": "2024-05-06T12:15:35.000Z",
+          "wordCount": 732,
+          "title": "桑原拓は得意のスピード生かせず　ボクシングＷＢＡフライ級(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240506-00000121-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/71024ea610d173a324d40cc2efc82511e7e1a9c3?source=rss",
           "author": null,
@@ -14280,6 +14315,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=244470",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「赤城乳業 たべる牧場パフェ クッキー＆クリーム」を世界一詳しく調査しました。   公式Yo […]",
+          "link": "https://foodfighter.jp/famima-taberu-milk-parfait-2024",
+          "publishedOn": "2024-05-06T11:51:12.000Z",
+          "wordCount": 1806,
+          "title": "【ファミマ】赤城乳業 たべる牧場パフェ クッキー＆クリーム【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/877544d7ede319df788e558b8802750a.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=244451",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、24時間営業でいつでもどこでも食べられる有名蕎麦チェーン「名代 富士そば」へ進撃しました。 &nbs […]",
@@ -15718,16 +15763,6 @@
           "wordCount": 1793,
           "title": "【セブンイレブン】醤の旨味引き立つ麻婆丼【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/5ab4d406bb489d873b8f0c38b077c254.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=241424",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム ちいさな贅沢シューアイス バニラ 6個入」を世界一詳しく調査しました。   […]",
-          "link": "https://foodfighter.jp/711sej-cream-puff-ice-vanilla",
-          "publishedOn": "2024-04-07T00:04:19.000Z",
-          "wordCount": 1807,
-          "title": "【セブンイレブン】セブンプレミアム ちいさな贅沢シューアイス バニラ 6個入【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/29ceecf19b1d859b0b5223a84c6b7b11.jpg"
         }
       ]
     },
