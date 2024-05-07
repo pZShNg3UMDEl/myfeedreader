@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/367/G036702/20240507047/",
+          "author": null,
+          "description": "アトラスは本日，同社が10月11日に発売を予定している「メタファー：リファンタジオ」の最新情報を公開した。今回は，アクションとコマンドバトルを融合したバトルシステム「ファスト＆スクワッド」や，心に宿る英雄像の力「アーキタイプ」といった，戦闘関連の詳細情報が明らかにされている。",
+          "link": "https://www.4gamer.net/games/367/G036702/20240507047/",
+          "publishedOn": "2024-05-07T09:54:35.000Z",
+          "wordCount": 7614,
+          "title": "「メタファー：リファンタジオ」コマンドバトルの進化系「ファスト＆スクワッド」や，心に宿る英雄像の力「アーキタイプ」が明らかに",
+          "imageUrl": "https://www.4gamer.net/games/367/G036702/20240507047/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/999/G999905/20240507045/",
           "author": null,
           "description": "任天堂は本日（2024年5月7日），2024年3月期（2023年4月1日〜2024年3月31日）の連結業績を発表した。決算短信によると，売上高は1兆6718億円（前期比4.4％増），営業利益は5289億円（同4.9％増）。そして当期純利益は4906億円（前期比13.4％増）となっている。",
@@ -5028,6 +5038,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/121215/",
+          "author": null,
+          "description": "5月3日～5日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「名探偵コナン 100万ドルの五稜星（みちしるべ）」がゴールデンウィークも絶好調をキープし、4週連続で首位を獲得...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/121215/",
+          "publishedOn": "2024-05-07T10:00:00.000Z",
+          "wordCount": 930,
+          "title": "【週末アニメ映画ランキング】「名探偵コナン」興収120億円、「劇場版ハイキュー!!」100億円、「劇場版ブルーロック」10億円を突破",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121224/",
           "author": null,
           "description": "「劇場版ブルーロック EPISODE 凪」の主人公・凪誠士郎の誕生日である5月6日に舞台挨拶が行われ、「ブルーロック」テレビシリーズ第2期が10月から放送されることが発表された。あわせて、原作漫...",
@@ -8932,6 +8957,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c76c6b0d07341ac899571049cb86c44a9db2cf2e?source=rss",
+          "author": null,
+          "description": "東京ドームで３４年ぶりに行われたボクシングの世界戦、スーパーバンタム級４団体タイトルマッチで防衛を果たした統一王者の井上尚弥（大橋）が試合から一夜明けた７日、横浜市の大橋ジムで記者会見し、表情を引き締",
+          "link": "https://news.yahoo.co.jp/articles/c76c6b0d07341ac899571049cb86c44a9db2cf2e?source=rss",
+          "publishedOn": "2024-05-07T10:08:26.000Z",
+          "wordCount": 738,
+          "title": "井上尚弥、激闘から一夜明け無敗街道邁進誓う「これからも期待していただきたい」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240507-00000154-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1612b2adb8ed41ccecd2f389838956a1d1fcd36c?source=rss",
+          "author": null,
+          "description": "天皇、皇后両陛下と長女の敬宮（としのみや）愛子さまは７日、静養のため滞在していた栃木県高根沢町の御料牧場から、車で帰京された。ご一家は２日に栃木県に入り、馬の放牧地を散策するなどして過ごされた。御料牧",
+          "link": "https://news.yahoo.co.jp/articles/1612b2adb8ed41ccecd2f389838956a1d1fcd36c?source=rss",
+          "publishedOn": "2024-05-07T10:01:06.000Z",
+          "wordCount": 740,
+          "title": "天皇ご一家、御料牧場からご帰京　静養終えられる(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240507-00000152-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/857e2fd1ce5d22cab191dfee301c425a54192532?source=rss",
+          "author": null,
+          "description": "昭和改元から令和８（２０２６）年で１００周年となるのを前に、超党派で作る「国による昭和１００年記念式典の実現を目指す議員連盟」が７日、国会内で設立総会を開き、政府主催の式典開催を求める要望書を取りまと",
+          "link": "https://news.yahoo.co.jp/articles/857e2fd1ce5d22cab191dfee301c425a54192532?source=rss",
+          "publishedOn": "2024-05-07T10:00:38.000Z",
+          "wordCount": 736,
+          "title": "超党派「昭和１００年式典議連」が設立総会　政府へ式典開催を要望へ「平和と繁栄の出発点」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240507-00000151-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/32de126b271a85abae2ba24bdf04b945c00685f8?source=rss",
+          "author": null,
+          "description": "千葉県浦安市の東京ディズニーシー（ＴＤＳ）で６月６日に開業する新エリア「ファンタジースプリングス」が７日、報道陣に公開された。人気映画「ピーター・パン」「アナと雪の女王」「塔の上のラプンツェル」の３作",
+          "link": "https://news.yahoo.co.jp/articles/32de126b271a85abae2ba24bdf04b945c00685f8?source=rss",
+          "publishedOn": "2024-05-07T09:57:05.000Z",
+          "wordCount": 742,
+          "title": "６月開業のＴＤＳ新エリア　アナ雪など３作品の世界観、細部までこだわり演出(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240507-00000150-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/df3112cb9e3548b447b3443a7232c8689b5f55eb?source=rss",
+          "author": null,
+          "description": "江戸時代に紀州（現在の和歌山県）から銚子に移り住んだ先人の子孫でつくる親睦団体「銚子木国会」が６日、千葉県銚子市の妙福寺で先祖法要を営んだ。「移住碑」を前に、参列者約１００人が漁業や醤油醸造といった銚",
+          "link": "https://news.yahoo.co.jp/articles/df3112cb9e3548b447b3443a7232c8689b5f55eb?source=rss",
+          "publishedOn": "2024-05-07T09:51:13.000Z",
+          "wordCount": 792,
+          "title": "「開拓精神を誇りに」　紀州出身の先人しのぶ　醤油醸造や漁業、千葉・銚子の繁栄築く(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240507-00000149-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/ad6b3d3c8ba79815c88d6959e8ea212a909bd171?source=rss",
           "author": null,
@@ -16868,16 +16943,6 @@
           "wordCount": 1795,
           "title": "【ハーゲンダッツ】グリーンクラフト 豆乳バナナショコラ【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/69d5d91f6ba02555b347ce3a93e76087.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=241542",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝食メニュー、”挽きたて”・”打ちたて”・”茹でたて”にこだわる江戸切りそばチェーン「ゆで太郎」へ進撃しました。  […]",
-          "link": "https://foodfighter.jp/yudetaro-breakfast-zaru-ramen",
-          "publishedOn": "2024-04-07T22:00:36.000Z",
-          "wordCount": 1835,
-          "title": "【ゆで太郎】朝ラーメン（ざるラーメン）【朝食メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/762ac8847e7b6895ea733477037ecbbe.jpg"
         }
       ]
     },
