@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/450/G045004/20240502047/",
+          "author": null,
+          "description": "ゲームからインスピレーションを受けた詩を紹介する本連載。第3回は歌人の笠木拓さんが，「アイドルマスターシャイニーカラーズ」より，SHHisのふたりをモチーフにして22首の連作を書き下ろしてくれました。アイドルたちの輝きを，短歌という形で受け取ってみませんか。",
+          "link": "https://www.4gamer.net/games/450/G045004/20240502047/",
+          "publishedOn": "2024-05-07T23:00:00.000Z",
+          "wordCount": 7036,
+          "title": "ゲームをうたう：第3回は笠木 拓さんと「アイドルマスター シャイニーカラーズ」。22首連作「奈落にてきみと甘露を」を掲載します",
+          "imageUrl": "https://www.4gamer.net/games/450/G045004/20240502047/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/786/G078674/20240505006/",
           "author": null,
           "description": "見て覚えるゲームの英単語帳――略して「ゲーたん！」。本日の単語は「intelligence/いんてりじぇんす」。意味は知性，知力。ステータスの知力を表す単語として使われていて，ゲームによっては略語の“int”と表記されることもあるよ。",
@@ -5158,6 +5168,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121227/",
+          "author": null,
+          "description": "「名探偵コナン」の青山剛昌氏による漫画「YAIBA」が再アニメ化されることが決定し、アニメ化決定ビジュアルと特報映像が披露された。青山氏がシナリオを完全監修し、“完全アニメ化”がうたわれている。...",
+          "link": "https://anime.eiga.com/news/121227/",
+          "publishedOn": "2024-05-07T23:00:00.000Z",
+          "wordCount": 913,
+          "title": "「YAIBA」青山剛昌シナリオ完全監修で再アニメ化、特報映像公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121164/",
           "author": null,
           "description": "松本まりかが、高橋一生主演で24年ぶりにテレビドラマ化される「ブラック・ジャック」に出演していることがわかった。劇中で演じているのは、原作にも登場する奇病“獅子面病”を患い、絶望の淵に立たされた...",
@@ -8276,21 +8301,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121011/",
-          "author": null,
-          "description": "実写映画「シティーハンター」が4月25日からNetflixで独占配信されることを記念して、WEBゼノン編集部で原作漫画・全336話が期間限定で無料公開される。同サイトでは、4月26日に原作者・北...",
-          "link": "https://anime.eiga.com/news/121011/",
-          "publishedOn": "2024-04-08T11:00:00.000Z",
-          "wordCount": 1578,
-          "title": "漫画「シティーハンター」期間限定で全話無料公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9057,6 +9067,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b6885e7cfde51d0922a61f58b036eed9081abae9?source=rss",
+          "author": null,
+          "description": "第２９回大和郡山ロータリークラブ学童軟式野球大会（同クラブ主催、産経新聞社など後援）が４月２７、２９の両日、奈良県大和郡山市のならっきー球場などで行われ、リトルジャイアンツが８年ぶり２度目の優勝を果た",
+          "link": "https://news.yahoo.co.jp/articles/b6885e7cfde51d0922a61f58b036eed9081abae9?source=rss",
+          "publishedOn": "2024-05-07T23:05:16.000Z",
+          "wordCount": 740,
+          "title": "リトルジャイアンツが８年ぶりＶ　奈良・大和郡山ＲＣ学童野球(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000035-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/bf05ef4141f7d002350490e4b64f7170e0380562?source=rss",
           "author": null,
@@ -20827,16 +20847,6 @@
           "wordCount": 2412,
           "title": "「留学先はカナダに決まったの」「良かったねぇ」数時間後「警察です娘さんが車カスに轢かれ救急に」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/c/7c2be077-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034530.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2024/04/08(月) 10:10:48.52 ID:Tmx3Q2el9.net\n\n\n\n\n\n\n\nエレベーターの扉が開いたら「かご」がなく…約２０メートル転落　ホテルでエレベーター点検中の男性が両足骨折の重傷 https://t.co/Qep6O5EkoW#SBC #ニュースワイド #信越放送— SBCニュースワイ...",
-          "link": "https://itainews.com/archives/2034530.html",
-          "publishedOn": "2024-04-08T11:06:27.000Z",
-          "wordCount": 2348,
-          "title": "【長野】エレベーターの扉が開いたら「かご」がなく…約20メートル転落",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/692f43fc-s.png"
         }
       ]
     },
