@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/748/G074875/20240502063/",
+          "author": null,
+          "description": "2024年5月9日にリリースを控えた，colyの新作スマホアプリ「ブレイクマイケース」。本稿では，先行体験版ではプレイできなかった，「SNAP’NSPIN」「SIDE-C」「JUKEBOX」の3つを体験したプレイレポートをお届けしよう。",
+          "link": "https://www.4gamer.net/games/748/G074875/20240502063/",
+          "publishedOn": "2024-05-08T12:10:00.000Z",
+          "wordCount": 1076,
+          "title": "「ブレイクマイケース」は本編やパズル以外の要素もリッチ！　撮影が楽しい「SNAP’N SPIN」，パーソナルソングも聴ける「JUKEBOX」を体験",
+          "imageUrl": "https://www.4gamer.net/games/748/G074875/20240502063/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/461/G046174/20240508065/",
           "author": null,
           "description": "コロプラは本日（2024年5月8日），2024年9月期第2四半期（2023年10月1日〜2024年3月31日）の連結業績を発表した。決算短信によると，売上高は127億1400万円（前年同期比20％減），営業利益は2億7300万円（同85．9％減）。そして当期純利益は1億2000万円（前年同期比87.1％減）となっている。",
@@ -3911,16 +3921,6 @@
           "wordCount": 2584,
           "title": "電磁気学入門（9）フォワードコンバーターのトランス設計",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/09/cover_news063.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/09/news046.html",
-          "author": null,
-          "description": "日本航空電子工業は、車載スペックに対応したコネクターを「車載ICTコネクタ」として発売する。第1弾として、基板対基板コネクター「WP26DK」シリーズとUSB Type-Cコネクター「DX07」シリーズの販売を開始する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/09/news046.html",
-          "publishedOn": "2024-04-09T00:00:00.000Z",
-          "wordCount": 2601,
-          "title": "車載環境相当の耐熱／耐震試験をクリアしたICTコネクター",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/09/cover_news046.jpg"
         }
       ]
     },
@@ -5827,6 +5827,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121223/",
+          "author": null,
+          "description": "「山川純一アニメ劇場」が、初夏にアニメ配信サイト「AnimeFesta」でスタートすることが分かった。AnimeFestaの公式Xでは、本編映像を使用した特報PVが披露されている。 同作は、漫画...",
+          "link": "https://anime.eiga.com/news/121223/",
+          "publishedOn": "2024-05-08T12:00:00.000Z",
+          "wordCount": 881,
+          "title": "「山川純一アニメ劇場」初夏にAnimeFestaで配信開始　「くそみそテクニック」など3エピソードで構成",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121230/",
           "author": null,
@@ -9812,6 +9827,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/1b14670e7c0055f1452414a7a6b476f345c0d9d9?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスが「５類」に移行し、８日で１年となった。日本の空の玄関口、成田空港（千葉県）では入国者への厳しい水際措置は終わったが、コロナ禍で講じられた対策の一部がいまも続く。関係機関とも連携しな",
+          "link": "https://news.yahoo.co.jp/articles/1b14670e7c0055f1452414a7a6b476f345c0d9d9?source=rss",
+          "publishedOn": "2024-05-08T12:06:36.000Z",
+          "wordCount": 718,
+          "title": "成田空港はコロナ対策一部続く　次の感染症危機に関係機関、連携強化へ　「５類」移行１年(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/efa06f597f473b12634ad6f58c96e988be6fb322?source=rss",
+          "author": null,
+          "description": "大阪ガスが８日発表した令和６年３月期連結決算は、最終利益が前期比約２・３倍の１３２６億円で過去最高となった。前期に高騰した液化天然ガス（ＬＮＧ）の価格が落ち着き、調達コストが縮小。実際のガス・電気料金",
+          "link": "https://news.yahoo.co.jp/articles/efa06f597f473b12634ad6f58c96e988be6fb322?source=rss",
+          "publishedOn": "2024-05-08T11:51:29.000Z",
+          "wordCount": 784,
+          "title": "大ガス、燃料価格低下で過去最高益　６年３月期　「米シェールガスなどで調達多様化」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000201-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7705de9a26ba64bff9c55436fd779e4c6b14b1eb?source=rss",
           "author": null,
