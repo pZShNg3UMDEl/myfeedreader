@@ -4581,16 +4581,6 @@
           "wordCount": 2586,
           "title": "メモリ容量が1MバイトのCortex-M4搭載モーター制御マイコン",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/11/cover_news060.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/10/news058.html",
-          "author": null,
-          "description": "三菱電機は、デジタルコヒーレント通信方式用の光源「波長モニタ内蔵 DFB-CAN（形名：ML973A71）」を開発した。複数の光学部品を1チップに統合した波長モニターチップとDFBレーザーチップをTO-56CANに内蔵した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/10/news058.html",
-          "publishedOn": "2024-04-10T00:00:00.000Z",
-          "wordCount": 2591,
-          "title": "TO-56CANを採用のデジタルコヒーレント通信方式用光源",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/10/cover_news058.jpg"
         }
       ]
     },
@@ -6467,6 +6457,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121158/",
+          "author": null,
+          "description": "米Amazonが新ドラマ「フォールアウト」のシーズン2への継続を正式発表した。 同作は核戦争によって荒廃したアメリカを舞台に展開する人気RPGシリーズを、SFドラマ「ウエストワールド」を手がけた...",
+          "link": "https://anime.eiga.com/news/121158/",
+          "publishedOn": "2024-05-09T12:00:00.000Z",
+          "wordCount": 882,
+          "title": "Amazonが実写ドラマ「フォールアウト」のシーズン2への継続を正式発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121234/",
           "author": null,
@@ -10412,6 +10417,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8b247f9822b0030165d437ecbea25d4fd7ea39ec?source=rss",
+          "author": null,
+          "description": "東京都新宿区のマンション敷地内で住人の平沢俊乃さん（２５）が過去にストーカー被害に遭っていた男に刃物で刺されて死亡した事件で、平沢さんには数十カ所以上の刺し傷があったことが９日、警視庁新宿署への取材で",
+          "link": "https://news.yahoo.co.jp/articles/8b247f9822b0030165d437ecbea25d4fd7ea39ec?source=rss",
+          "publishedOn": "2024-05-09T12:15:49.000Z",
+          "wordCount": 751,
+          "title": "新宿ストーカー刺殺　女性に数十カ所以上の刺し傷　容疑者を殺人容疑で送検(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240509-00000220-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f9c3fb5f66f85bf1752689a79df7d3866f46b53b?source=rss",
+          "author": null,
+          "description": "明治天皇陵（京都市伏見区）のちょうず鉢などが黒いスプレーで落書きされた事件で、京都府警伏見署が器物損壊の疑いで、事件に関与したとみられる少年を任意で事情聴取していることが９日、同署への取材で分かった。",
+          "link": "https://news.yahoo.co.jp/articles/f9c3fb5f66f85bf1752689a79df7d3866f46b53b?source=rss",
+          "publishedOn": "2024-05-09T12:09:20.000Z",
+          "wordCount": 733,
+          "title": "明治天皇陵「落書き」関与ほのめかす少年聴取　京都府警(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240509-00000219-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/81231deb044341e9f07723abc385752a72eb8a5e?source=rss",
+          "author": null,
+          "description": "兵庫県の男性職員が斎藤元彦知事らの言動を「違法」などと告発する文書を作成し停職処分を受けた問題で、大阪府の吉村洋文知事は９日、県が職員からの公益通報窓口を県庁内にしか設置していないことについて、「職員",
+          "link": "https://news.yahoo.co.jp/articles/81231deb044341e9f07723abc385752a72eb8a5e?source=rss",
+          "publishedOn": "2024-05-09T11:56:27.000Z",
+          "wordCount": 721,
+          "title": "告発の兵庫県職員停職、吉村知事は「外部の通報機関も設置を」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240509-00000213-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/589e9954fa6b601f05b4a681addbdd78a99fa91f?source=rss",
+          "author": null,
+          "description": "川勝平太氏の辞職に伴い９日に告示された静岡県知事選は、新人６氏による戦いが確定した。立候補者数は、５人が争った平成１３年の知事選を上回り、過去最多となる。注目度の高いリニア中央新幹線の静岡工区への対応",
+          "link": "https://news.yahoo.co.jp/articles/589e9954fa6b601f05b4a681addbdd78a99fa91f?source=rss",
+          "publishedOn": "2024-05-09T11:56:12.000Z",
+          "wordCount": 771,
+          "title": "静岡県知事選、最多６氏の争い確定　リニア賛否で舌戦、浜松新球場や浜岡原発再稼働も争点(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240509-00000214-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f684b7b1fd5b91d79737132d224049a50ebf7553?source=rss",
           "author": null,
