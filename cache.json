@@ -9601,21 +9601,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121016/",
-          "author": null,
-          "description": "「機動武闘伝Gガンダム」「新機動戦記ガンダムW」「機動新世紀ガンダムX」それぞれの30周年を記念する「ガンダム GWX 30周年プロジェクト」の実施が決定した。また「ガンダム」シリーズの45周年...",
-          "link": "https://anime.eiga.com/news/121016/",
-          "publishedOn": "2024-04-10T03:30:00.000Z",
-          "wordCount": 1658,
-          "title": "「G」「W」「X」ガンダム3作品30周年企画で「Gガン」新キャラを公開　「ガンダム」45周年で全国巡回イベントも",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -10412,6 +10397,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c29a4d3ac5549c180074aaf1dacf5d5c030d5e92?source=rss",
+          "author": null,
+          "description": "９日午後６時１０分ごろ、奈良県大和高田市日之出町の近鉄大阪線大和高田駅－松塚駅間の踏切で、大阪上本町発伊勢中川行き急行電車（６両編成）に男性がはねられて死亡した。奈良県警高田署によると、男性は同市選出",
+          "link": "https://news.yahoo.co.jp/articles/c29a4d3ac5549c180074aaf1dacf5d5c030d5e92?source=rss",
+          "publishedOn": "2024-05-09T15:28:23.000Z",
+          "wordCount": 721,
+          "title": "近鉄の人身事故、死亡したのは維新の奈良県議　踏切に立ち入ったか(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240510-00000001-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/07b3f2d2598d43b179e02547ad51db2eb4a73dbb?source=rss",
+          "author": null,
+          "description": "大阪府八尾市の市立斎場をめぐる加重収賄などの事件で、市が９日に開設した専門窓口には、市民らから電話で計２０件（同日午後５時現在）の問い合わせがあった。「自分の個人情報は該当するのか」という不安の声や批",
+          "link": "https://news.yahoo.co.jp/articles/07b3f2d2598d43b179e02547ad51db2eb4a73dbb?source=rss",
+          "publishedOn": "2024-05-09T15:14:06.000Z",
+          "wordCount": 730,
+          "title": "斎場の個人情報漏洩に批判など問い合わせ２０件　大阪・八尾市、相次ぐ職員逮捕(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240510-00000000-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7b96e87c5cc821b139249bab507c9d4bf276fa1d?source=rss",
           "author": null,
