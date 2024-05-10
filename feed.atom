@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T09:36:34.581Z</updated>
+    <updated>2024-05-10T09:50:17.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「呪術廻戦」，TVアニメとファンパレ，戦華双乱の最新情報を公開する連合特番を5月19日20：00に配信]]></title>
+        <id>https://www.4gamer.net/games/720/G072040/20240510056/</id>
+        <link href="https://www.4gamer.net/games/720/G072040/20240510056/"/>
+        <updated>2024-05-10T09:41:09.000Z</updated>
+        <summary type="html"><![CDATA[東宝は本日（2024年5月10日），「呪術廻戦」のアニメとゲームの最新情報を公開する連合特番を，5月19日にYouTube「TOHOanimationチャンネル」で配信すると発表した。番組には，五条悟役の中村悠一さん，夏油傑役の櫻井孝宏さんらが出演する予定だ。]]></summary>
+        <author>
+            <name>4Gamer.net − 注目の記事のみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「THE CHAIN HUNTERS」，報酬プール総額1000万円相当のオープンβテストを近日開催。ゲーム特化型ブロックチェーン「Oasys」の採用も決定]]></title>
         <id>https://www.4gamer.net/games/789/G078914/20240510058/</id>
@@ -32375,16 +32385,6 @@ https://www.j-cast.c...]]></summary>
         <summary type="html"><![CDATA[東芝デバイス＆ストレージは、Arm Cortex-M4コアを搭載した、32ビットのモーター制御マイコン「TXZ＋ファミリー アドバンスクラス」の「M4K」グループに、フラッシュメモリ容量1Mバイトと512Kバイト製品を追加した。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonで「dポイント」が貯まる、使える。ドコモが協業強化に踏み切ったワケ]]></title>
-        <id>https://gadget.phileweb.com/?p=73405</id>
-        <link href="https://gadget.phileweb.com/post-73405/"/>
-        <updated>2024-04-10T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年に入り、積極的に施策を打ち出しているNTTドコモ。先日も新しいプラン「ドコモポイ活プラン」を発表したばかりだが、昨日4月10日にも新たな発表会を実施している。 ドコモがAmazonと協業。「dポイント」との連携が可能に そこで発表されたのが、米Amazon.comの日本法人であるアマゾンジ […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>
