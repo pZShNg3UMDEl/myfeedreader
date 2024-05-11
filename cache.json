@@ -5391,16 +5391,6 @@
           "wordCount": 2586,
           "title": "MPUベースのシステムと同等性能を実現する汎用32ビットMCU",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/15/cover_news030.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/12/news077.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、「FRED Pt 500 A Ultrafastソフトリカバリーダイオード」モジュールの「VS-VSUD505CW60」「VS-VSUD510CW60」を発表した。前世代品よりも信頼性、耐久性が向上している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/12/news077.html",
-          "publishedOn": "2024-04-12T00:00:00.000Z",
-          "wordCount": 2603,
-          "title": "TO-244 Gen IIIパッケージを採用したソフトリカバリダイオードモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/12/cover_news077.jpg"
         }
       ]
     },
@@ -7187,6 +7177,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121185/",
+          "author": null,
+          "description": "松本若菜がGP帯連続ドラマ初主演を果たし、松村北斗（「SixTONES」）が共演する新ドラマ「西園寺さんは家事をしない」が、TBSの7月期・火曜ドラマ枠で放送されることがわかった。原作は、「ホタ...",
+          "link": "https://anime.eiga.com/news/121185/",
+          "publishedOn": "2024-05-11T12:00:00.000Z",
+          "wordCount": 913,
+          "title": "ラブコメ漫画「西園寺さんは家事をしない」実写ドラマ化　松本若菜が主役、松村北斗がシングルファザー役",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121246/",
           "author": null,
@@ -11097,6 +11102,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a8f0a1242da9d46802a9ad52ec651b74b1d1df3d?source=rss",
+          "author": null,
+          "description": "天皇、皇后両陛下の長女、敬宮（としのみや）愛子さまは１１日、東京都千代田区の国立公文書館を訪れ、特別展「夢みる光源氏－公文書館で平安文学ナナメ読み！－」を鑑賞された。宮内庁によると、愛子さまがお一方で",
+          "link": "https://news.yahoo.co.jp/articles/a8f0a1242da9d46802a9ad52ec651b74b1d1df3d?source=rss",
+          "publishedOn": "2024-05-11T12:01:04.000Z",
+          "wordCount": 734,
+          "title": "愛子さま「夢みる光源氏」展をご覧に　初の単独ご公務、国立公文書館で(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/16a609995baf52ec3055b29807ef2ab89b4fc9c3?source=rss",
+          "author": null,
+          "description": "神戸４－１Ｃ大阪（１１日、明治安田Ｊ１リーグ）\n\n４得点で快勝した神戸が今季初めて首位に立った。Ｃ大阪から敵地での勝利は実に１０年ぶり。先制点を決めた山口は「僕が神戸に（移籍して）来てからアウェーで勝",
+          "link": "https://news.yahoo.co.jp/articles/16a609995baf52ec3055b29807ef2ab89b4fc9c3?source=rss",
+          "publishedOn": "2024-05-11T11:47:52.000Z",
+          "wordCount": 768,
+          "title": "山口蛍が古巣相手に先制点「嫌われてるのは分かっている」　流れ引き寄せ、神戸が首位浮上(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000181-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/84535a1284007fb72034afc265e6f62071a3bdf6?source=rss",
+          "author": null,
+          "description": "明治７（１８７４）年に神戸－大阪間で関西初となる鉄道が開業してから１５０年となったことを記念して１１日夜、ＪＲ神戸駅北口駅前広場（神戸市中央区）では、駅の建物に電車などを投影したプロジェクションマッピ",
+          "link": "https://news.yahoo.co.jp/articles/84535a1284007fb72034afc265e6f62071a3bdf6?source=rss",
+          "publishedOn": "2024-05-11T11:47:11.000Z",
+          "wordCount": 743,
+          "title": "神戸の夜彩るプロジェクションマッピング　大阪－神戸鉄道開業１５０年　12日も開催(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000180-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/9b8d947ce9f1750efe07a7c7d767dfde6f4a6eab?source=rss",
           "author": null,
