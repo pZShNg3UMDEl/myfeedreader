@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T21:12:31.788Z</updated>
+    <updated>2024-05-11T21:23:18.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -33735,16 +33735,6 @@ https://www.j-cast.c...]]></summary>
         <updated>2024-04-12T09:34:58.000Z</updated>
         <author>
             <name>YoshiZo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google DeepMind、AI搭載の二足歩行ロボにサッカーをプレイ。シュートブロックも可能に]]></title>
-        <id>https://gadget.phileweb.com/?p=73571</id>
-        <link href="https://gadget.phileweb.com/post-73571/"/>
-        <updated>2024-04-12T09:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Google DeepMind は深層強化学習（Deep RL）を使用して、小さな二足歩行ロボットにサッカーを教え、そのプレイする様子をX（Twitter）に投稿した。 DeepMindの研究者らはDeep RLを用いてマルチロボットサッカー用の市販ロボットを訓練。トレーニング方法は大きく2段階に分 […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
