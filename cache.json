@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/709/G070952/20240511005/",
+          "author": null,
+          "description": "AlephOneDevelopersは本日，「ClassicMarathon」の配信をSteamで開始した。「Destiny2」などで知られるBungieが1994年にリリースし，ヒットを記録したFPS「Marathon」を最新エンジンで復刻したタイトルで，価格は無料。Marathon三部作の残りの2作品も近日中にリリースされるようだ。",
+          "link": "https://www.4gamer.net/games/709/G070952/20240511005/",
+          "publishedOn": "2024-05-11T10:56:11.000Z",
+          "wordCount": 7343,
+          "title": "傑作FPS「Marathon」を復刻した「Classic Marathon」，本日Steamで無料配信を開始",
+          "imageUrl": "https://www.4gamer.net/games/709/G070952/20240511005/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/038/G003821/20240511002/",
           "author": null,
           "description": "今週発売・発表されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，世界的な評価を得たローグライクアクション「Hades」の続編や，MMORPGのレイドバトルに焦点を当てたローグライクアクションゲーム「RabbitandSteel」などがリリースされた。",
@@ -7178,6 +7188,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121246/",
+          "author": null,
+          "description": "映画、映像を中心とした事業を展開するK2 Pictures社が、国際的な作品製作のため、日本発の映画製作ファンド「K2P Film Fund Ⅰ（読み：ケーツーピー フィルム ファンド ファース...",
+          "link": "https://anime.eiga.com/news/121246/",
+          "publishedOn": "2024-05-11T11:00:00.000Z",
+          "wordCount": 940,
+          "title": "日本発映画製作ファンド「K2P Film Fund Ⅰ」設立　岩井俊二、是枝裕和、白石和彌、西川美和、MAPPA、三池崇史らが賛同",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121231/",
           "author": null,
           "description": "「機動戦士Zガンダム」「機動戦士ガンダムF91」などの主題歌で知られる森口博子が、アニメソングカバーアルバム「ANISON COVERS 2」を、自身のデビュー記念日である8月7日にリリースする...",
@@ -11082,6 +11107,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/1c3fded325c3e0fd826051d19e642cf3f6900192?source=rss",
+          "author": null,
+          "description": "堺市は、付近の住民や通行人に危険だとして、空き家対策特別措置法に基づき、同市北区大豆塚町の家屋を解体する行政代執行に着手した。\n\n同市によると、家屋は木造２階建てで築年数不明。台風で屋根、外壁が損壊す",
+          "link": "https://news.yahoo.co.jp/articles/1c3fded325c3e0fd826051d19e642cf3f6900192?source=rss",
+          "publishedOn": "2024-05-11T11:04:02.000Z",
+          "wordCount": 751,
+          "title": "空き家を行政代執行で解体　瓦が近隣住宅に落下する被害も　費用の回収不透明(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000171-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0e67fdb7c2cc67b74cecd9699cdac2da9bc3fb98?source=rss",
+          "author": null,
+          "description": "栃木県那須町の河川敷で会社役員の宝島龍太郎さん（５５）夫妻の焼損した遺体が見つかった事件で、警視庁・栃木県警合同捜査本部は１１日、殺人容疑で埼玉県越谷市花田の建設業、平山綾拳（りょうけん）容疑者（２５",
+          "link": "https://news.yahoo.co.jp/articles/0e67fdb7c2cc67b74cecd9699cdac2da9bc3fb98?source=rss",
+          "publishedOn": "2024-05-11T11:01:03.000Z",
+          "wordCount": 717,
+          "title": "那須２遺体事件で平山容疑者を殺人容疑で逮捕　全容解明へ捜査は新局面に(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/de0caf7adc2640bf96a9f591122d3eaa5fa59f7d?source=rss",
+          "author": null,
+          "description": "神戸市のベイエリアで大型の集客施設の整備が進んでいる。神戸ポートタワーが４月にリニューアルオープンし、６月には水族館「神戸須磨シーワールド」が開業。大型アリーナを中核とした新エリアの開業も来春に控える",
+          "link": "https://news.yahoo.co.jp/articles/de0caf7adc2640bf96a9f591122d3eaa5fa59f7d?source=rss",
+          "publishedOn": "2024-05-11T11:00:00.000Z",
+          "wordCount": 815,
+          "title": "関西インバウンド「一人負け」の神戸　ベイエリアてこ入れで港町復活なるか　大型集客施設相次ぐ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000167-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/bf6955625faab61dc58a6fb1593a109437ab2a61?source=rss",
           "author": null,
@@ -26840,6 +26895,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=72415",
+          "author": "299",
+          "description": "白猫さんがたくさんの子猫たちを引き連れて歩いています。どうやら白猫さんはお母さん猫で、ちびっこたちはこのお母さんの子供たちのようです。 お母さん猫が歩くと子猫たちも一斉にお母さん猫の後を追いかけます。短い足でトコトコと大...\nお母さん猫の後をくっついて歩く子猫たちが可愛い first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/72415",
+          "publishedOn": "2024-05-11T11:00:50.000Z",
+          "wordCount": 1290,
+          "title": "お母さん猫の後をくっついて歩く子猫たちが可愛い",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72415.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=72411",
           "author": "299",
