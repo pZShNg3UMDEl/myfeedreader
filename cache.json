@@ -7178,6 +7178,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121231/",
+          "author": null,
+          "description": "「機動戦士Zガンダム」「機動戦士ガンダムF91」などの主題歌で知られる森口博子が、アニメソングカバーアルバム「ANISON COVERS 2」を、自身のデビュー記念日である8月7日にリリースする...",
+          "link": "https://anime.eiga.com/news/121231/",
+          "publishedOn": "2024-05-11T10:00:00.000Z",
+          "wordCount": 905,
+          "title": "森口博子がジャケ写で34年ぶりにビキニ姿を披露　「おジャ魔女カーニバル!!」「鳥の詩」などをカバーしたアルバム、8月発売",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121247/",
           "author": null,
           "description": "「放浪息子」「青い花」などで知られる志村貴子氏の漫画「淡島百景（あわじまひゃっけい）」がアニメ化されることが分かった。 同作は、舞台に立つことを夢みる少女たちが集まる「淡島（あわじま）歌劇学校」...",
@@ -11067,6 +11082,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8324a8a27697e3ac2ad1625d695967ebc681152e?source=rss",
+          "author": null,
+          "description": "単一自治体による水道事業経営が曲がり角を迎えている。人口が減少し料金収入が右肩下がりとなれば、水道管の耐震化の費用も確保できなくなる。将来の水道料金の値上げ率が全国平均で48%に上るとの民間推計も。国",
+          "link": "https://news.yahoo.co.jp/articles/8324a8a27697e3ac2ad1625d695967ebc681152e?source=rss",
+          "publishedOn": "2024-05-11T10:03:39.000Z",
+          "wordCount": 804,
+          "title": "単一自治体での水道経営曲がり角　人口減少で料金収入減、平均48%値上げの推計も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000157-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e22bd29c153186d03fe9e2e35837eb47e8e683b2?source=rss",
+          "author": null,
+          "description": "ビール大手各社がビールに特化したイベントを相次ぎ開いている。人口減少や若い世代のアルコール離れが進む中、直営店舗などでさまざまな「体験型」の仕掛けを施し、昨年１０月の酒税法改正で税率が下がったビールの",
+          "link": "https://news.yahoo.co.jp/articles/e22bd29c153186d03fe9e2e35837eb47e8e683b2?source=rss",
+          "publishedOn": "2024-05-11T10:00:00.000Z",
+          "wordCount": 749,
+          "title": "ビール大手が「体験型」の仕掛け　「とりあえずビール」でアルコール離れの食い止め狙う(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000156-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2e1294bab3f5c4b724809826832dd0450cf76392?source=rss",
           "author": null,
