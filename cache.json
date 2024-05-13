@@ -7667,6 +7667,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121253/",
+          "author": null,
+          "description": "テレビアニメ「魔法使いの約束」の放送開始時期が2025年1月に決定し、超ティザービジュアルとPV第1弾が披露された。 同作は、colyが展開するスマホ向けゲームが原作。魔法使いと人間が共存する世...",
+          "link": "https://anime.eiga.com/news/121253/",
+          "publishedOn": "2024-05-13T12:00:00.000Z",
+          "wordCount": 875,
+          "title": "「魔法使いの約束」25年1月放送開始　ティザービジュアル＆PV披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121255/",
           "author": null,
           "description": "テレビアニメ「かつて魔法少女と悪は敵対していた。」に、鈴村健一、川澄綾子、下野紘、東山奈央、山崎たくみ、土師孝也の出演が決定した。第3弾PVも公開されている。また、初回放送スケジュールも明らかに...",
@@ -11596,6 +11611,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/41c9f11f4dd8c4a4f5b9a137a41d0924e84b5fca?source=rss",
+          "author": null,
+          "description": "メッセンジャーＲＮＡ（ｍＲＮＡ）の技術を用いたワクチンを開発している米モデルナの日本法人、モデルナ・ジャパン（東京）の長山和正社長は１３日、オンラインで産経新聞のインタビューに応じ、「新型コロナウイル",
+          "link": "https://news.yahoo.co.jp/articles/41c9f11f4dd8c4a4f5b9a137a41d0924e84b5fca?source=rss",
+          "publishedOn": "2024-05-13T12:10:20.000Z",
+          "wordCount": 751,
+          "title": "モデルナ・ジャパン社長、コロナワクチン定期接種化後も「供給進める」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/919f7fc466bb2eace127ef213a13a7123f61644f?source=rss",
+          "author": null,
+          "description": "「おもてなしして喜んでもらえるのが好き」。東京・浅草の観光人力車「東京力車」の車夫、大利弥里（おおとし・みさと）さん（３０）は、国内外のファンから指名を受けるほどの人気者だ。日本らしさを感じられる娯楽",
+          "link": "https://news.yahoo.co.jp/articles/919f7fc466bb2eace127ef213a13a7123f61644f?source=rss",
+          "publishedOn": "2024-05-13T12:09:10.000Z",
+          "wordCount": 810,
+          "title": "「浅草の人力車のおかみ」はフォロワー５・４万人　大利弥里さん「お客さまの笑顔に全力」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000182-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/196049e506921c05d5442cb004c44ffdab57bd79?source=rss",
+          "author": null,
+          "description": "横浜市消防局は１３日、保土ケ谷消防署権太坂救急隊が急病人の８０代女性を救急車で病院に搬送する際、経路を間違えたために到着が約１３分遅れるミスがあったと発表した。女性は病院到着後、死亡した。到着の遅延が",
+          "link": "https://news.yahoo.co.jp/articles/196049e506921c05d5442cb004c44ffdab57bd79?source=rss",
+          "publishedOn": "2024-05-13T11:56:39.000Z",
+          "wordCount": 742,
+          "title": "救急車が経路間違えて病院への到着１３分遅れる、急病の８０代女性が死亡　横浜市消防局(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000179-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/738e60a63ca42ae490ae1a66f88ca3252411a7cc?source=rss",
+          "author": null,
+          "description": "小林製薬の「紅麹（べにこうじ）」成分入りサプリメントによる健康被害問題は、摂取した５人が死亡、２００人以上が入院するという深刻な事態に発展している。日本腎臓学会の最新の調査では、患者の９割以上で尿細管",
+          "link": "https://news.yahoo.co.jp/articles/738e60a63ca42ae490ae1a66f88ca3252411a7cc?source=rss",
+          "publishedOn": "2024-05-13T11:53:48.000Z",
+          "wordCount": 813,
+          "title": "紅麹サプリ、短期間の摂取でも尿細管機能が低下　「強い作用物質」か　患者9割がファンコニー症候群(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000178-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/4193e94fa9ac482b9c645173581c0468eb3ebb69?source=rss",
           "author": null,
