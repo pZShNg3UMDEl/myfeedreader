@@ -5760,6 +5760,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=75298",
+          "author": "Munenori Taniguchi",
+          "description": "1月、アップルは米国でのiOSアプリの販売に関し、サードバーティのウェブサイトでの支払いを認め、アプリに外部リンクを含めることを許可すると発表した。しかしそれ以来、アップルがアプリ内購入を提供する推定6万5000のアプリ開発者のうち、外部リンクの利用申請を行ったのは38件にとどまると、アップルは先週 […]",
+          "link": "https://gadget.phileweb.com/post-75298/",
+          "publishedOn": "2024-05-13T06:59:27.000Z",
+          "wordCount": 707,
+          "title": "米App Storeの外部決済リンク、開発者約6.5万のうち利用申請はわずか38件",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/05/App-Store.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=75339",
           "author": "編集部：伴 修二郎",
           "description": "ベンキュージャパンは、 “ScreenBarシリーズ” 最大の照明範囲を実現するモニター専用ライト「ScreenBar Pro」を、本日5月13日に発売した。価格はオープンだが、税込19,900円前後での実売が予想される。カラーバリエーションはブラック、シルバーの2色を展開する。 中央照度1000ル […]",
@@ -11361,6 +11371,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/bef937213111f933d0301f54e65407ea24d76932?source=rss",
+          "author": null,
+          "description": "ファミリーマートは１３日、夢洲（ゆめしま）（大阪市此花区）の大阪・関西万博の会場の建設現場で、太陽光発電や衛星経由のインターネット通信を使う、無人運営や移動が可能な新店舗「ファミリーマート舞洲／Ｎ店」",
+          "link": "https://news.yahoo.co.jp/articles/bef937213111f933d0301f54e65407ea24d76932?source=rss",
+          "publishedOn": "2024-05-13T07:09:39.000Z",
+          "wordCount": 738,
+          "title": "ファミマが万博会場で初の移動型無人店舗　労働環境の改善に一役(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000093-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b1735b3524a072d7de5746f00c02e4663ea18385?source=rss",
+          "author": null,
+          "description": "昨年度に過去最多の人的被害をもたらしたクマ対策を巡り、市街地での銃猟実施の必要性が高まっている。このところの被害実態では、「アーバンベア」と呼ばれる人里に近い山で暮らすクマが市街地に出没し、住民らを襲",
+          "link": "https://news.yahoo.co.jp/articles/b1735b3524a072d7de5746f00c02e4663ea18385?source=rss",
+          "publishedOn": "2024-05-13T07:00:00.000Z",
+          "wordCount": 756,
+          "title": "過去最悪のクマ被害、市街地での銃猟規制見直しへ議論開始　ハンターと警察連携に課題(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000092-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8a01890864affe984f7c5019983d12d4d476585a?source=rss",
+          "author": null,
+          "description": "ＳＵＢＡＲＵ（スバル）は１３日、かねて令和８年末までに投入するとしていたスポーツ用多目的車（ＳＵＶ）の電気自動車（ＥＶ）４車種について、トヨタ自動車と共同開発すると発表した。車両の生産でも相互供給で補",
+          "link": "https://news.yahoo.co.jp/articles/8a01890864affe984f7c5019983d12d4d476585a?source=rss",
+          "publishedOn": "2024-05-13T06:59:00.000Z",
+          "wordCount": 748,
+          "title": "ＳＵＢＡＲＵ、トヨタとＥＶ４車種を共同開発へ　生産供給でも協業(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000091-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/94d70cbc1a2a6dea8a7fa0a3c2bb9da14cf6d284?source=rss",
+          "author": null,
+          "description": "ラグビーの元日本代表でワールドカップ（Ｗ杯）３大会に出場し、今季限りでの現役引退を表明している京都出身の田中史朗（ふみあき）選手（３９）＝ＮＥＣグリーンロケッツ東葛＝が１２日、京都府警の一日鉄道警察隊",
+          "link": "https://news.yahoo.co.jp/articles/94d70cbc1a2a6dea8a7fa0a3c2bb9da14cf6d284?source=rss",
+          "publishedOn": "2024-05-13T06:55:57.000Z",
+          "wordCount": 774,
+          "title": "ラグビー「小さな巨人」が一日隊長に、電車での痴漢・盗撮撲滅訴え(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000090-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a01846315c6a2c8e36fb2c02ee9eaf48ed733896?source=rss",
+          "author": null,
+          "description": "４月２８日に投開票された衆院東京１５区補欠選挙に出馬した政治団体「つばさの党」幹事長の根本良輔氏は１３日、警視庁捜査２課が公職選挙法違反（自由妨害）の疑いで同団体本部などを家宅捜索したことについて、Ｘ",
+          "link": "https://news.yahoo.co.jp/articles/a01846315c6a2c8e36fb2c02ee9eaf48ed733896?source=rss",
+          "publishedOn": "2024-05-13T06:55:11.000Z",
+          "wordCount": 738,
+          "title": "つばさの党の根本良輔氏「証拠はユーチューブに残っており無意味」　選挙妨害疑い家宅捜索(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000089-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/4959682af1903356d3a2da4bee03d18bb3ba4ac1?source=rss",
           "author": null,
