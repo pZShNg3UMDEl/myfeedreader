@@ -10790,21 +10790,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121049/",
-          "author": null,
-          "description": "テレビアニメ「ちはやふる」第1期（全25話）が、講談社が運営するYouTubeチャンネル「フル☆アニメTV」にて5月12日まで無料公開中だ。 同作は、末次由紀氏による漫画が原作。競技かるたに情熱...",
-          "link": "https://anime.eiga.com/news/121049/",
-          "publishedOn": "2024-04-14T03:00:00.000Z",
-          "wordCount": 1680,
-          "title": "「ちはやふる」第1期、5月12日まで全話無料公開中　続編漫画単行本第1巻の発売記念",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -11631,6 +11616,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a14a5282bbb621e205b9e78301ed1163ad4464d2?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】韓国の趙兌烈（チョ・テヨル）外相が１３日、中国・北京を訪問し、王毅（おう・き）共産党政治局員兼外相と会談した。韓国外相が訪中するのは２０２２年８月以来で、北京訪問は１７年以来となった",
+          "link": "https://news.yahoo.co.jp/articles/a14a5282bbb621e205b9e78301ed1163ad4464d2?source=rss",
+          "publishedOn": "2024-05-13T15:07:28.000Z",
+          "wordCount": 700,
+          "title": "中韓外相「日中韓サミット」に向けて協力で一致　韓国外相が１年９カ月ぶり訪中(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b67282057b96500ba0ec0253c5338c4d84aeeb98?source=rss",
           "author": null,
@@ -23628,6 +23623,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=245304",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアムゴールド 金のアイス ワッフルコーン 手摘み宇治抹茶」を世界一詳しく調査しました。 & […]",
+          "link": "https://foodfighter.jp/711sej-gold-ice-matcha-2024",
+          "publishedOn": "2024-05-13T15:04:07.000Z",
+          "wordCount": 1758,
+          "title": "【セブンイレブン】セブンプレミアムゴールド 金のアイス ワッフルコーン 手摘み宇治抹茶【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/5e0167aae4a2b3229a8c6804d850acc7.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=245282",
           "author": "foodfighter",
