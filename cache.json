@@ -11375,21 +11375,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121068/",
-          "author": null,
-          "description": "アニメ「僕のヒーローアカデミア」7期のエンディングテーマが、ピアノトリオバンド「Omoinotake」の書き下ろし新曲「蕾」に決定した。 同バンドは、「連載当初から愛読しておりました、作品に携わ...",
-          "link": "https://anime.eiga.com/news/121068/",
-          "publishedOn": "2024-04-15T10:00:00.000Z",
-          "wordCount": 1627,
-          "title": "「ヒロアカ」7期エンディングテーマはOmoinotakeの書き下ろし新曲「蕾」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -12196,6 +12181,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a6bf3e97c25903234ca04e7c76ac6b257c31533c?source=rss",
+          "author": null,
+          "description": "奈良市教育委員会は１４日、市内の公立小中学校７校で給食の米飯に羽虫が混入していたと発表した。健康被害はないという。\n\n４月２６日から今月１３日にかけて、市立の中学校３校と小学校４校から報告があり、９日",
+          "link": "https://news.yahoo.co.jp/articles/a6bf3e97c25903234ca04e7c76ac6b257c31533c?source=rss",
+          "publishedOn": "2024-05-14T22:06:33.000Z",
+          "wordCount": 728,
+          "title": "給食のごはんに羽虫が混入　ごはん提供取りやめも(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000015-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d60d9fda89cad5746ccf6bff41ee1d01bbacf868?source=rss",
+          "author": null,
+          "description": "４月の衆院東京１５区補欠選挙を巡る自由妨害疑惑を巡り、出馬していた複数の陣営の選挙カーが、政治団体「つばさの党」の選挙カーから執拗（しつよう）な追跡を受け、警察署に避難する事態となっていたことが１４日",
+          "link": "https://news.yahoo.co.jp/articles/d60d9fda89cad5746ccf6bff41ee1d01bbacf868?source=rss",
+          "publishedOn": "2024-05-14T22:05:27.000Z",
+          "wordCount": 740,
+          "title": "つばさの党、選挙カー追跡　「交通の便妨げる行為」適用も視野に捜査　警視庁(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000014-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f28144b0eede821703a6c2e637bedd6511230a82?source=rss",
+          "author": null,
+          "description": "東京都は１４日、国際的アートイベント「東京お台場トリエンナーレ２０２５」を令和７年１０～１２月に東京・お台場で開催すると発表した。都と同イベント実行委員会の共催。台場公園やフジテレビなどが会場となる。",
+          "link": "https://news.yahoo.co.jp/articles/f28144b0eede821703a6c2e637bedd6511230a82?source=rss",
+          "publishedOn": "2024-05-14T22:05:00.000Z",
+          "wordCount": 746,
+          "title": "「東京お台場トリエンナーレ２０２５」開催へ　令和７年１０～１２月(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000013-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d36b7285002c0106c433d207daf5cb599cfab0ff?source=rss",
+          "author": null,
+          "description": "１４日午後１０時２０分ごろ、大阪市港区南市岡の住宅で「包丁で人を刺した」と１１９番があった。住宅内で男性が腹部を刺されており、病院に搬送されたが死亡が確認された。大阪府警港署は殺人未遂の疑いで、住人の",
+          "link": "https://news.yahoo.co.jp/articles/d36b7285002c0106c433d207daf5cb599cfab0ff?source=rss",
+          "publishedOn": "2024-05-14T22:02:12.000Z",
+          "wordCount": 737,
+          "title": "「夫と口論になり刺した」住宅で男性死亡、容疑の64歳女性逮捕　大阪・港区(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000012-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/80070fb71a2f4f423f36ebf23b3265bc869550e4?source=rss",
           "author": null,
@@ -30794,6 +30819,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=72652",
+          "author": "299",
+          "description": "今回ご紹介するのは飼い主さんと一緒眠りたがる猫ちゃん達です。 一匹はお布団の上から、もう一匹はお布団の中に入って離れようとしません。 飼い主さんに撫でてもらい、デレデレになっている姿がとっても可愛らしいのでご覧ください。...\n飼い主さんに添い寝する猫達 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/72652",
+          "publishedOn": "2024-05-14T22:00:10.000Z",
+          "wordCount": 1294,
+          "title": "飼い主さんに添い寝する猫達",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72652.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=72647",
           "author": "299",
