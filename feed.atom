@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T14:12:55.605Z</updated>
+    <updated>2024-05-14T14:28:30.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本製鉄名誉顧問の新宮康男氏が死去　９８歳(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f9a949ad243c6cc8fc73092d3c91b330cfffd279?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f9a949ad243c6cc8fc73092d3c91b330cfffd279?source=rss"/>
+        <updated>2024-05-14T14:16:27.000Z</updated>
+        <summary type="html"><![CDATA[住友金属工業（現日本製鉄）の社長、会長を歴任し、関西経済連合会会長や関西国際空港会社会長など財界の要職を担った新宮康男（しんぐう・やすお）氏が１０日、老衰のため死去したことがわかった。９８歳。日本製鉄]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美容専門学校が5月末閉校を突然決定 新入生は入学金等約100万円中5万円程しか返金されず]]></title>
         <id>https://itainews.com/archives/2035530.html</id>
@@ -38156,16 +38166,6 @@ https://www.egistec.com/en/]]></summary>
         <link href="https://gadget.phileweb.com/post-73615/"/>
         <updated>2024-04-15T02:43:45.000Z</updated>
         <summary type="html"><![CDATA[Googleの次期スマートフォン「Pixel 9」シリーズや次世代折りたたみ機「Pixel Fold2」、それに5G対応のPixel Tabletには新たなモデムが搭載され、近年のiPhoneのように衛星通信が可能になるとの噂が報じられている。 同社は「Pixel 6」以降、クアルコム製のSnapd […]]]></summary>
-        <author>
-            <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify、まもなくロスレスオーディオを“アドオン”として提供？]]></title>
-        <id>https://gadget.phileweb.com/?p=73600</id>
-        <link href="https://gadget.phileweb.com/post-73600/"/>
-        <updated>2024-04-15T02:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Spotifyがロスレスストリーミングサービス「Spotify Hi-fi」を発表してから3年以上が経過したが、いまだに実現していない。昨年3月には幹部が「ある時点で登場」と予告し、同年6月には最高額の定額プラン「Supremium」で提供するとの噂もあったが、続報は途絶えている。 そんななか、An […]]]></summary>
         <author>
             <name>多根清史</name>
         </author>
