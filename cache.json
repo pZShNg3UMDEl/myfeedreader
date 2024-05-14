@@ -8357,6 +8357,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121265/",
+          "author": null,
+          "description": "放送中のテレビアニメ「無職転生II ～異世界行ったら本気だす～」（第2クール）が、5月26日放送の第19話「砂漠の旅」から新章「転移迷宮編」に突入することをうけて、新キービジュアルとPVが公開さ...",
+          "link": "https://anime.eiga.com/news/121265/",
+          "publishedOn": "2024-05-14T13:00:00.000Z",
+          "wordCount": 865,
+          "title": "「無職転生II」5月26日から新章「転移迷宮編」突入　キービジュアル＆PV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121264/",
           "author": null,
           "description": "「呪術廻戦」のスペシャルイベント「じゅじゅフェス2024」が、8月25日に神奈川・ぴあアリーナMMで開催されることが決まり、キャラクターが集合したイベントビジュアルが公開された。 同イベントは、...",
@@ -11506,6 +11521,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10171",
+          "author": "watanabe@logipara.com",
+          "description": "ひさしぶりに、ド平日にお酒を飲みたくなりました。 こういう気持ち、優しく、大切に、健やかに、育んで抱きしめていきたいよね―――(スーパーへダッシュ)(ビール購入)(一気飲み)(ﾌﾟﾊｰ) 　 最近、ノイズキャンセリングイ […]",
+          "link": "https://logipara.com/diary-text/2024-05-15",
+          "publishedOn": "2024-05-14T13:05:59.000Z",
+          "wordCount": 4388,
+          "title": "(のん)ある気分",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=10168",
           "author": "watanabe@logipara.com",
           "description": "最近、おにぎりにハマっています。 おにぎりといえば、買うまで4時間待ち、むしろ人はおにぎりを買うために4時間待てるんだ……と思わせる超絶有名店「ぼんご」があります。 我が家の近くにも、そこまで有名ではないものの、美味しい […]",
@@ -12276,6 +12301,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d551d6747fc886d98b2c6c349ab57e0e527ec690?source=rss",
+          "author": null,
+          "description": "バレーボール男子のイタリア１部リーグ王者、ペルージャは１４日、日本代表主将のアタッカー、石川祐希（２８）が２０２４～２５年シーズンから加入すると発表した。ペルージャは世界クラブ選手権を２連覇中の強豪。",
+          "link": "https://news.yahoo.co.jp/articles/d551d6747fc886d98b2c6c349ab57e0e527ec690?source=rss",
+          "publishedOn": "2024-05-14T12:57:51.000Z",
+          "wordCount": 763,
+          "title": "バレー石川祐希、伊の強豪ペルージャへ移籍　背番号にちなみ発表は「１４」日「１４」時(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1c2b9e6ef39b6cf1b06cc343918ee15bc5bb69df?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国商務省は１４日発表した報道官談話で、バイデン米政権による中国製の電気自動車（ＥＶ）などへの関税引き上げに対し「断固とした反対」を表明した。措置の撤回を求めるとともに「中国は断固と",
+          "link": "https://news.yahoo.co.jp/articles/1c2b9e6ef39b6cf1b06cc343918ee15bc5bb69df?source=rss",
+          "publishedOn": "2024-05-14T12:52:21.000Z",
+          "wordCount": 739,
+          "title": "中国商務省が米の関税引き上げに「断固反対」　対抗措置も示唆(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240514-00000251-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d788bfe99580fb8da7cd3df55e5615f843440a8?source=rss",
+          "author": null,
+          "description": "栃木県那須町の河川敷で会社役員夫妻の焼損遺体が見つかった事件で、仲介役の平山綾拳容疑者（２５）＝殺人容疑で再逮捕＝が、実行役２人と、殺害を完了したことについて連絡を取り合っていたことが１４日、捜査関係",
+          "link": "https://news.yahoo.co.jp/articles/1d788bfe99580fb8da7cd3df55e5615f843440a8?source=rss",
+          "publishedOn": "2024-05-14T12:49:50.000Z",
+          "wordCount": 746,
+          "title": "「終わりました」実行役、殺害直後に仲介役へ連絡か　那須２遺体(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240514-00000250-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/e9e3ce80e3338ed1fe3d5e91ff2b07a11f78dc1e?source=rss",
           "author": null,
@@ -27278,6 +27333,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2035529.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/05/14(火) 11:20:12.80 ID:Yq/k8EYA0.net\n\n\n\n\n\n\n\n昨日起きた首都高速のタクシー事故、隣を走行してたためドライブレコーダーに事件時の映像残ってました。何かのお力になればと思いポストします。 pic.twitter.com/myUOWVQFKg— 68...",
+          "link": "https://itainews.com/archives/2035529.html",
+          "publishedOn": "2024-05-14T13:01:27.000Z",
+          "wordCount": 2489,
+          "title": "【動画】出光タンカー社長の首都高死亡事故ドラレコが流出",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/c/2c93ff15-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2035516.html",
           "author": "damono3856",
           "description": "1 名前：!omikuji：2024/05/14(火) 07:24:54.40 ID:+9QXbl+s0.net\n\n\n\n\n\n\n\n国家公務員一般職、申込者が過去最少に　7.9%減https://t.co/vE9xIAAT4g— 日本経済新聞 電子版（日経電子版） (@nikkei) May 13, 2024  \n\n\n\n\n\n\n人事院は13日、2024年度の国家公務員試験で一般職...",
@@ -30834,6 +30899,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=72617",
+          "author": "299",
+          "description": "ピンクの猫用ベッドのなかをそーっと覗くと子猫のひのきが、ちんまりと中におさまっていました。しきりに舌を出し入れしながらぺろぺろしています。 そんな子猫のひのきが飼い主さんと目が合うと、さっとベッドから飛び出してこようとし...\nベッドの中より飼い主さんの膝を選ぶ子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/72617",
+          "publishedOn": "2024-05-14T13:00:43.000Z",
+          "wordCount": 1285,
+          "title": "ベッドの中より飼い主さんの膝を選ぶ子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72617.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=72613",
           "author": "299",
