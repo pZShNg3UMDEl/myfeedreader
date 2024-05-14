@@ -11370,21 +11370,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121069/",
-          "author": null,
-          "description": "テレビアニメ「Dr.STONE」5周年記念のスペシャルイベント「Dr.STONE 石の宴」の詳細が発表された。描き下ろしイベントビジュアルも公開されている。 イベントではキャストの小林裕介、鈴木...",
-          "link": "https://anime.eiga.com/news/121069/",
-          "publishedOn": "2024-04-15T11:00:00.000Z",
-          "wordCount": 1688,
-          "title": "「Dr.STONE」5周年イベントの詳細発表　小林裕介らによる朗読劇やSENKU’Sコーラの販売も",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -12191,6 +12176,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/093ca63c9ad2786f820fa620d5c8fc078d904a84?source=rss",
+          "author": null,
+          "description": "局アナ時代にも医療取材を重ねてきたが、がん患者となってみると、視点が変わり、新たな気づきがたくさんあった。フリーアナウンサーの笠井信輔さん（６１）はそんな風に語ります。医師と患者の関係、患者としての闘",
+          "link": "https://news.yahoo.co.jp/articles/093ca63c9ad2786f820fa620d5c8fc078d904a84?source=rss",
+          "publishedOn": "2024-05-14T23:00:00.000Z",
+          "wordCount": 848,
+          "title": "病室でがっつり即席麺食べがん闘病　昭和患者から令和患者に　病と生きる　フリーアナウンサー・笠井信輔さん④(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000034-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6149884afbdfddd3bef617918bdcabed315d8480?source=rss",
+          "author": null,
+          "description": "スマートフォンを使って平城宮跡歴史公園（奈良市）を巡りながら謎解きを楽しむゲームを、奈良先端科学技術大学院大学の学生団体「Ｑ－２０３」が開発し、同公園で公開している。奈良時代の平城京で起きた犬を巡る架",
+          "link": "https://news.yahoo.co.jp/articles/6149884afbdfddd3bef617918bdcabed315d8480?source=rss",
+          "publishedOn": "2024-05-14T22:50:00.000Z",
+          "wordCount": 738,
+          "title": "迷い犬はどこへ？平城宮跡で謎解き　奈良先端大の学生たちがゲーム開発(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000033-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/534ef7d991a2e804b187140f3b9d43d5271fe906?source=rss",
           "author": null,
