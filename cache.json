@@ -12080,21 +12080,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121077/",
-          "author": null,
-          "description": "スナック菓子「ベビースターラーメン」と「名探偵コナン 100万ドルの五稜星（みちしるべ）」（公開中）がコラボレーションした「名探偵コナン 100万ドルの五稜星 × ベビースターラーメン（チキン味...",
-          "link": "https://anime.eiga.com/news/121077/",
-          "publishedOn": "2024-04-16T11:00:00.000Z",
-          "wordCount": 1613,
-          "title": "「劇場版コナン」がベビースターラーメンとコラボ　“ナゾトキ”付きパッケージが発売",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -12901,6 +12886,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/61e53fa03040e835d57ba165cf746cf6734874af?source=rss",
+          "author": null,
+          "description": "脚本家の三谷幸喜さんと安住紳一郎アナウンサーが司会を務め、１週間のニュースを振り返る「情報７ｄａｙｓニュースキャスター」が２位に。新宿タワマン女性刺殺の続報や、水原一平被告ドラマ化構想などが注目された",
+          "link": "https://news.yahoo.co.jp/articles/61e53fa03040e835d57ba165cf746cf6734874af?source=rss",
+          "publishedOn": "2024-05-15T23:07:49.000Z",
+          "wordCount": 818,
+          "title": "「情報7daysニュースキャスター」が２位　タワマン刺殺と、水原通訳ドラマに注目　　週間視聴率トップ１０（５月６～１２日）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000024-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d04f488b109d48f8858f7230e051f5797a8c1972?source=rss",
+          "author": null,
+          "description": "ステージ４の血液がんの闘病を経て、ライフワークが見つかった、とフリーアナウンサーの笠井信輔さん（６１）は言います。\n\n「ステージ４でしたが生き残りました」と言いづらい、という感覚もあるんですよね。それ",
+          "link": "https://news.yahoo.co.jp/articles/d04f488b109d48f8858f7230e051f5797a8c1972?source=rss",
+          "publishedOn": "2024-05-15T23:00:01.000Z",
+          "wordCount": 786,
+          "title": "「元気なあなたがむかつく」と言われても「生還した」と発信続ける　病と生きる　フリーアナウンサー・笠井信輔さん⑤(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000022-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f68b42d7851eb86e1f07f6a1494b4e85a0f6ef69?source=rss",
+          "author": null,
+          "description": "新型コロナウイルス禍でライブ・エンターテインメント業界が起死回生の策として打ち出したオンライン配信が、コロナ禍の打撃が沈静化した後も存在感を保っている。歌舞伎や落語といった伝統芸能の分野でもオンライン",
+          "link": "https://news.yahoo.co.jp/articles/f68b42d7851eb86e1f07f6a1494b4e85a0f6ef69?source=rss",
+          "publishedOn": "2024-05-15T22:58:12.000Z",
+          "wordCount": 791,
+          "title": "歌舞伎や落語、伝統芸能もオンラインで　コロナ禍経て「新たな楽しみ方」定着(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000021-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/731840f53169fe5a82155aa9f1effc0cc26bdc70?source=rss",
           "author": null,
