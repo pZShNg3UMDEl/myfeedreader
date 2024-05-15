@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/656/G065622/20240515056/",
+          "author": null,
+          "description": "Ubisoftは本日（2024年5月16日），アサシンクリードシリーズの最新作「アサシンクリードシャドウズ」のトレイラーを公開し，2024年11月15日に発売すると発表した。本作は「アサシンクリードコードネームRED」として発表されていたタイトルで，日本が舞台になることが知られていたが，ついにお披露目となった。",
+          "link": "https://www.4gamer.net/games/656/G065622/20240515056/",
+          "publishedOn": "2024-05-15T16:05:00.000Z",
+          "wordCount": 7107,
+          "title": "日本を舞台にした「アサシン クリード シャドウズ」は2024年11月15日発売。安土桃山時代を舞台に忍と侍，2人の主人公が活躍",
+          "imageUrl": "https://www.4gamer.net/games/656/G065622/20240515056/SS/007.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/999/G999902/20240514028/",
           "author": null,
           "description": "米国時間2024年5月15日，Intelは，高速インタフェース規格「Thunderbolt5，4」を使って，2台のPCでファイルやデスクトップを共有する「ThunderboltShare」を発表した。Thunderbolt4であれば，双方向40Gbpsという超高速でファイルやデスクトップを共有できる。",
@@ -8666,6 +8676,16 @@
       "feedUrl": "http://image-sensors-world.blogspot.com/feeds/posts/default",
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/05/photonic-electronic-integrated-circuit.html",
+          "author": null,
+          "description": "Lukashchuk et al. recently published a paper titled \"Photonic-electronic integrated circuit-based coherent LiDAR engine\" in the journal Nature Communications.\n\nOpen access link: https://www.nature.com/articles/s41467-024-47478-z\nAbstract: Chip-scale integration is a key enabler for the deployment of photonic technologies. Coherent laser ranging or FMCW LiDAR, a perception technology that benefits from instantaneous velocity and distance detection, eye-safe operation, long-range, and immunity to interference. However, wafer-scale integration of these systems has been challenged by stringent requirements on laser coherence, frequency agility, and the necessity for optical amplifiers. Here, we demonstrate a photonic-electronic LiDAR source composed of a micro-electronic-based high-voltage arb…",
+          "link": "http://image-sensors-world.blogspot.com/2024/05/photonic-electronic-integrated-circuit.html",
+          "publishedOn": "2024-05-15T16:12:00.001Z",
+          "wordCount": 4482,
+          "title": "Photonic-electronic integrated circuit-based coherent LiDAR engine",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tjJ0BsQSuxG_ZPIGdibXBNtNtJPlAKHFauGPgfkc9hQaDikdgaSjZgI4w7zRueuWCcFMf51NCHjbAEcP1vK7HQtLbnpyZ-BPo2JdzAQi1cqQHacn1wHVzaAeUZZWxcdrFxbUQuRpUA6gsBlcUF2RlsK_T3u1SRQChZiGPqit9X-sQ9szD_FxGN0Y2mUT5bTwaZgQrkoYo-kZ2K-Y4mnY3GA6hUO3tbQTjudXL2w8V8FjQNHcuL7w=w1200-h630-p-k-no-nu"
+        },
         {
           "id": "http://image-sensors-world.blogspot.com/2024/05/si-sensors-introduces-custom-cis-design.html",
           "author": null,

@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T15:50:35.292Z</updated>
+    <updated>2024-05-15T16:17:15.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photonic-electronic integrated circuit-based coherent LiDAR engine]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/05/photonic-electronic-integrated-circuit.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/05/photonic-electronic-integrated-circuit.html"/>
+        <updated>2024-05-15T16:12:00.001Z</updated>
+        <summary type="html"><![CDATA[Lukashchuk et al. recently published a paper titled "Photonic-electronic integrated circuit-based coherent LiDAR engine" in the journal Nature Communications.
+
+Open access link: https://www.nature.com/articles/s41467-024-47478-z
+Abstract: Chip-scale integration is a key enabler for the deployment of photonic technologies. Coherent laser ranging or FMCW LiDAR, a perception technology that benefits from instantaneous velocity and distance detection, eye-safe operation, long-range, and immunity to interference. However, wafer-scale integration of these systems has been challenged by stringent requirements on laser coherence, frequency agility, and the necessity for optical amplifiers. Here, we demonstrate a photonic-electronic LiDAR source composed of a micro-electronic-based high-voltage arb…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本を舞台にした「アサシン クリード シャドウズ」は2024年11月15日発売。安土桃山時代を舞台に忍と侍，2人の主人公が活躍]]></title>
+        <id>https://www.4gamer.net/games/656/G065622/20240515056/</id>
+        <link href="https://www.4gamer.net/games/656/G065622/20240515056/"/>
+        <updated>2024-05-15T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoftは本日（2024年5月16日），アサシンクリードシリーズの最新作「アサシンクリードシャドウズ」のトレイラーを公開し，2024年11月15日に発売すると発表した。本作は「アサシンクリードコードネームRED」として発表されていたタイトルで，日本が舞台になることが知られていたが，ついにお披露目となった。]]></summary>
+        <author>
+            <name>4Gamer.net − 注目の記事のみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スロバキア・フィツォ首相が銃撃される　重体、男を拘束(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/3b658608f609127ac0792b7e84dff82341d410dd?source=rss</id>
