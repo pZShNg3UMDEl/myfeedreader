@@ -6263,6 +6263,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2405/15/news065.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、PowerPAK 8×8LRパッケージの第4世代600V EシリーズパワーMOSFET「SiHR080N60E」を発表した。従来のD2PAKパッケージよりも小さいフットプリントで、より高い電流を提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2405/15/news065.html",
+          "publishedOn": "2024-05-15T00:00:00.000Z",
+          "wordCount": 2537,
+          "title": "性能指数3.1Ω×nCの600V耐圧 小型パワーMOSFET",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/15/cover_news065.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2405/14/news056.html",
           "author": null,
           "description": "キオクシアは、新世代のUFS4.0対応組み込み式フラッシュメモリ製品のサンプル出荷を開始した。256Gバイト、512Gバイト、1Tバイトの3つの容量を提供する。パッケージは9×13mmサイズの153ボールBGAで、前世代より約18％小型化している。",
@@ -11340,36 +11350,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121027/",
-          "author": null,
-          "description": "瀬戸利樹が主演し、久保田悠来、池田匡志が共演するテレビ大阪の深夜ドラマ「買われた男」（各話30分・全10話）のキービジュアルが披露された。あわせて、菊川怜、小島梨里杏、佐藤玲、花柳のぞみ、片山萌...",
-          "link": "https://anime.eiga.com/news/121027/",
-          "publishedOn": "2024-04-15T13:00:00.000Z",
-          "wordCount": 1698,
-          "title": "“女性用風俗”が舞台　コミック原作の実写ドラマ「買われた男」瀬戸利樹らがベッドに横たわるキービジュアル披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121071/",
-          "author": null,
-          "description": "劇場版シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」（上映中）が、初日3日間（4月12～14日）で、観客動員220万人、興行収入33億円を突破。シリーズ歴代No.1ヒット作で...",
-          "link": "https://anime.eiga.com/news/121071/",
-          "publishedOn": "2024-04-15T12:00:00.000Z",
-          "wordCount": 1623,
-          "title": "「名探偵コナン 100万ドルの五稜星」3日間で観客動員220万人、興行収入33億円突破　「黒鉄の魚影」対比106.5％の歴代No.1スタート",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -11684,16 +11664,6 @@
           "wordCount": 4435,
           "title": "花粉除けスプレー",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=9912",
-          "author": "watanabe@logipara.com",
-          "description": "最初から読む方はこちら(その1)から。レポートその4の続きです。 　 　 船内放送 「寝ても覚めても大泉洋」の通り、朝はキャプテン大泉の船内放送で幕開けです。 　 大泉洋「みなさァん……おはようございますｩ……大泉洋で […]",
-          "link": "https://logipara.com/everepo/yororo5",
-          "publishedOn": "2024-04-15T13:01:04.000Z",
-          "wordCount": 4514,
-          "title": "大泉洋と行く豪華客船クルーズ YOソロー! レポート5(2日目午前)",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/04/S__54771720.jpg"
         }
       ]
     },
@@ -12176,6 +12146,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2b4cb0b67deb6232767dffe3d73a2ab209f89647?source=rss",
+          "author": null,
+          "description": "【ワシントン＝大内清】米東部ニューヨーク州で進むトランプ前大統領（共和党）の刑事裁判に共和党の有力者らが相次いで応援に駆けつけ、トランプ氏への忠誠心を競い合っている。トランプ氏は、１１月の大統領選での",
+          "link": "https://news.yahoo.co.jp/articles/2b4cb0b67deb6232767dffe3d73a2ab209f89647?source=rss",
+          "publishedOn": "2024-05-15T00:53:46.000Z",
+          "wordCount": 731,
+          "title": "米大統領選共和ランニングメート候補ら忠誠競う　トランプ裁判は「オーディション」の様相(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000049-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ff7beec5afbc2966a3fece11b7706fac12cb616?source=rss",
+          "author": null,
+          "description": "小児がんへの理解と支援を広げるチャリティーイベント「ゴールドリボンウオーキング２０２４」（同実行委員会主催）が４月２０日、東京・お台場で開かれた。\n\n東京で平成１９年に始まり、大阪、福岡などでも開催す",
+          "link": "https://news.yahoo.co.jp/articles/0ff7beec5afbc2966a3fece11b7706fac12cb616?source=rss",
+          "publishedOn": "2024-05-15T00:28:42.000Z",
+          "wordCount": 773,
+          "title": "もっと知って小児がんのこと　「ゴールドリボンウオーキング」で広がる支援と理解の輪(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000047-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a2321aa1f715dc9c333340e04a88ed66d8756eb4?source=rss",
+          "author": null,
+          "description": "一枚でサマになるシンプルなオールインワンは今年のトレンド。薄くてやわらかい生地が使われていたり、胸元に切り返しや飾りがあったり、背中のカットに凝っていたり。大人世代にもしっくりなじむ、上質で品のある素",
+          "link": "https://news.yahoo.co.jp/articles/a2321aa1f715dc9c333340e04a88ed66d8756eb4?source=rss",
+          "publishedOn": "2024-05-15T00:27:44.000Z",
+          "wordCount": 756,
+          "title": "若者だけじゃない　大人世代向けの上質で品あるオールインワン　大人流素敵!の見つけ方（２３０）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000046-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d1ec958e65d742bad641d75d9ba14be253d3b23a?source=rss",
+          "author": null,
+          "description": "味わったことのない嫌な感覚は、今も体の奥に残っている。２年前の４月２４日、全日本個人総合選手権決勝。徳洲会体操クラブの藤巻竣平は跳馬でロペス（伸身カサマツ跳び２回ひねり）に挑むも、空中で体をひねり切る",
+          "link": "https://news.yahoo.co.jp/articles/d1ec958e65d742bad641d75d9ba14be253d3b23a?source=rss",
+          "publishedOn": "2024-05-15T00:24:43.000Z",
+          "wordCount": 828,
+          "title": "右膝大けがの藤巻と岡　刺激し合った再起　五輪、ナショナル入り　ＮＨＫ杯に懸ける　　革新　徳洲会体操クラブの挑戦（５）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000045-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a86403c1660ad9ba0e75481c89030db4a4931b86?source=rss",
+          "author": null,
+          "description": "和歌山県南部の８市町でつくる「南紀エリアスポーツ合宿誘致推進協議会」は、令和５年度に県外からスポーツ合宿などで訪れた人数が前年度（７万７７３３人）比１１・６％増の８万６７８３人だったと明らかにした。目",
+          "link": "https://news.yahoo.co.jp/articles/a86403c1660ad9ba0e75481c89030db4a4931b86?source=rss",
+          "publishedOn": "2024-05-15T00:23:27.000Z",
+          "wordCount": 724,
+          "title": "和歌山・南紀スポーツ合宿５年度は過去最多　「５類」移行で(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000044-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7c2828ae3b02648ea4f8585df83e68493afee555?source=rss",
+          "author": null,
+          "description": "ロシア軍によるウクライナ東部ハリコフ州への越境攻撃で、ウクライナ国防省情報総局のブダノフ局長は、増援部隊の到着などにより「今後数日間」で前線を安定させられるとし、近く露軍の前進を停止させられるとする観",
+          "link": "https://news.yahoo.co.jp/articles/7c2828ae3b02648ea4f8585df83e68493afee555?source=rss",
+          "publishedOn": "2024-05-14T23:54:15.000Z",
+          "wordCount": 769,
+          "title": "ウクライナ軍高官「ロシア軍が北部スムイ州にも越境攻撃の可能性」　米紙に危機感語る(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000038-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/80978e0f4d0849ce523617a1a7f5d1186f0e8f55?source=rss",
           "author": null,
@@ -25524,6 +25554,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=245498",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの菓子パン「お抹茶あんぱん」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグル […]",
+          "link": "https://foodfighter.jp/711sej-matcha-anpan",
+          "publishedOn": "2024-05-15T00:16:55.000Z",
+          "wordCount": 1740,
+          "title": "【セブンイレブン】お抹茶あんぱん【新作コンビニ菓子パン】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/599397c3420aab600a636a09cbc4f0a2.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=245477",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「抹茶イチゴクリームフラペチーノ」を世界一詳しく調査しました。   公式 […]",
@@ -30846,16 +30886,6 @@
           "wordCount": 2316,
           "title": "【相談】「どこからでも切れます」ラー油の袋開けに苦戦、口で開けたら目に飛び散る惨事に…治療費払ってもらえる？",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/6/b64f1814-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034720.html",
-          "author": "damono3856",
-          "description": "1 名前：夜のけいちゃん ★：2024/04/15(月) 11:56:34.93 ID:TirL0Q329.net\n\n\n\n\n\n\n\n護衛艦「かが」空母化に中国激怒 「平和憲法に従い、専守防衛を堅持せよ」https://t.co/UBUvqFxAdK戦闘機の発着が可能となった海上自衛隊の大型護衛艦「#かが」の甲板が今月８日、母港の...",
-          "link": "https://itainews.com/archives/2034720.html",
-          "publishedOn": "2024-04-15T12:32:49.000Z",
-          "wordCount": 2336,
-          "title": "護衛艦「かが」空母化に中国激怒 「平和憲法に従い、専守防衛を堅持せよ」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/d/2d46c50d-s.png"
         }
       ]
     },
@@ -30864,6 +30894,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=72685",
+          "author": "299",
+          "description": "今回ご紹介するのは未熟児として生まれた子猫ちゃんの成長記録です。 小さいながらも頑張って生きた姿をご覧ください。 母猫の傍にいるのが未熟児として生まれた子猫のめいちゃん。 生まれた時は心肺停止状態だったというのですから、...\n未熟児だった子猫の成長記録 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/72685",
+          "publishedOn": "2024-05-15T00:00:19.000Z",
+          "wordCount": 1290,
+          "title": "未熟児だった子猫の成長記録",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72685.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=72652",
           "author": "299",
@@ -34063,16 +34103,6 @@
           "wordCount": 1344,
           "title": "寝るわけにはいかないニャ・・と睡魔に耐える子猫が可愛い",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70934.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=70927",
-          "author": "299",
-          "description": "横になっているお母さん猫のお腹のところに３匹の子猫たちがぴったりくっついて甘えています。お母さん猫は爆睡しているようですが子猫たちは、これから寝落ちしようとしているところのようです。 すでに１匹の子猫はお母さんのお腹にし...\nあっという間に寝落ちしてしまう子猫たちの可愛さに癒されます first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/70927",
-          "publishedOn": "2024-04-15T13:00:21.000Z",
-          "wordCount": 1337,
-          "title": "あっという間に寝落ちしてしまう子猫たちの可愛さに癒されます",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70927.jpeg"
         }
       ]
     },
