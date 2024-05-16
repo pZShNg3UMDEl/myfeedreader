@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/040/G004083/20240514061/",
+          "author": null,
+          "description": "今週の「男色ディーノのゲイムヒヒョーゼロ」で紹介するのは，バンダイナムコエンターテインメントから発売中の「SANDLAND」。ディーノ選手は何の気なしに買って遊んでみたところ，思っていた以上に面白かったそうで，そのあたりを深堀りしていきます。",
+          "link": "https://www.4gamer.net/games/040/G004083/20240514061/",
+          "publishedOn": "2024-05-16T02:00:00.000Z",
+          "wordCount": 7196,
+          "title": "男色ディーノのゲイムヒヒョー ゼロ：第786回「ちょっとした選択が正解だったとき，人間はうれしくなってしまう」",
+          "imageUrl": "https://www.4gamer.net/games/040/G004083/20240514061/TN/009.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/799/G079964/20240515050/",
           "author": null,
           "description": "Tencentのグローバル向けゲームブランドであるLevelInfiniteは，スマートフォン用MOBA「HonorofKings（オナー・オブ・キングス）」のグローバルローンチに先駆け，メディア向けオンラインブリーフィングを開催した。本作のメインデザイナー，eスポーツ担当者が登壇し，グローバルローンチの展望を語ったので，その内容をお届けする。",
@@ -7220,6 +7230,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=75676",
+          "author": "編集部：平山洸太",
+          "description": "アンカー・ジャパンは、Ankerブランドのモバイルバッテリー「Anker Power Bank (10000mAh, 22.5W)」を5月16日に発売する。価格は3,490円（税込）。カラーバリエーションは、ブラックを発売後、ホワイトとパープルを順次追加予定としている。また発売を記念し、Amazon […]",
+          "link": "https://gadget.phileweb.com/post-75676/",
+          "publishedOn": "2024-05-16T02:00:00.000Z",
+          "wordCount": 733,
+          "title": "Anker、“ブランド史上最多販売”モバイルバッテリーの次世代機「Anker Power Bank (10000mAh, 22.5W)」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/05/anker1.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=75691",
+          "author": "編集部：小野佳希",
+          "description": "EPEIOS JAPANは、スマートフォンアプリから電源や風量調整など各種操作を行えるサーキューレーター「EPEIOS LOOP スマートサーキュレーターファン」を発売した。オープン価格だが税込15,950円前後での実売が予想される。 DCモーターを搭載し、新たにIoT機能を備えるなどで機能を強化。 […]",
+          "link": "https://gadget.phileweb.com/post-75691/",
+          "publishedOn": "2024-05-16T01:57:44.000Z",
+          "wordCount": 710,
+          "title": "EPEIOS、スマホから操作できるスマートサーキュレーター「LOOP」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/05/EPEIOS_LOOP001.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=75669",
           "author": "Munenori Taniguchi",
           "description": "Googleは、Gemini 1.5 Proを搭載するサイドバーをGmail、Google Docs、Google Driveに導入する。 Gmail、ドライブ、ドキュメント、ワークシート、スライドが含まれるGoogle Workspaceでは、各アプリを離れることなく、サイドパネル上で各ドキュメン […]",
@@ -12394,16 +12424,6 @@
           "wordCount": 4525,
           "title": "大泉洋と行く豪華客船クルーズ YOソロー! レポート6(2日目昼)",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/04/image-5-17.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=9940",
-          "author": "watanabe@logipara.com",
-          "description": "花粉症です。(病弱っ子アピール) 花粉という小憎たらしいあんちくしょうを避けるために、花粉除けスプレーを使っています。顔に吹きかけると、静電気の力などで花粉が付着しにくくなるそうです。 その花粉除けスプレー、花粉の時期に […]",
-          "link": "https://logipara.com/diary-text/2024-04-17",
-          "publishedOn": "2024-04-16T13:54:27.000Z",
-          "wordCount": 4435,
-          "title": "花粉除けスプレー",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -12886,6 +12906,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c371a6df7f04632220e9108ae7b35e9b9abe1736?source=rss",
+          "author": null,
+          "description": "自民党派閥の政治資金パーティー収入不記載事件を受けた政治資金規正法改正を巡り、自民が取りまとめた条文案の概要が１６日、判明した。政策活動費の使途公開に関しては、政党から５０万円超を受け取った政治家が、",
+          "link": "https://news.yahoo.co.jp/articles/c371a6df7f04632220e9108ae7b35e9b9abe1736?source=rss",
+          "publishedOn": "2024-05-16T01:54:16.000Z",
+          "wordCount": 724,
+          "title": "自民の規正法改正案、概要判明　政策活動費は「５０万円超」受領で使途公開(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000051-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8c8fd68537d02fde1b9672ed37f01a89487ab845?source=rss",
+          "author": null,
+          "description": "岸田文雄首相は１６日、中欧のスロバキアでフィツォ首相が男に銃撃されて重体となった事件について「強い衝撃を覚えます。（フィツォ氏の）一日も早い回復をお祈りします。このような民主主義に対する暴力行為を断固",
+          "link": "https://news.yahoo.co.jp/articles/8c8fd68537d02fde1b9672ed37f01a89487ab845?source=rss",
+          "publishedOn": "2024-05-16T01:50:04.000Z",
+          "wordCount": 708,
+          "title": "岸田首相、スロバキア首相の銃撃に「断固として非難」とＸに投稿(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000049-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3d4b6f97841bdbee25cd167011a4a118ef7a5a9f?source=rss",
+          "author": null,
+          "description": "「やっとここまでたどりついた…」。大阪府泉佐野市に今春誕生した市立佐野中学校夜間学級。5月8日に行われた開級式・入学式の様子を、会場の体育館後方で感慨深げに見守る男性がいた。同市教委教育総務課の夜間中",
+          "link": "https://news.yahoo.co.jp/articles/3d4b6f97841bdbee25cd167011a4a118ef7a5a9f?source=rss",
+          "publishedOn": "2024-05-16T01:41:52.000Z",
+          "wordCount": 815,
+          "title": "胃がんと闘い、「夜間中学」開設に奔走　不要論者から必要論者に一転した市教委参事の信念(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000048-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0026cbed50bde50352b80bee01a45200c74d39c2?source=rss",
+          "author": null,
+          "description": "14日に93歳で死去した作曲家のキダ・タローさんは、「と～れとれ、ぴ～ちぴち、カニ料理」という印象的なフレーズで有名な「かに道楽」をはじめ、数々のテレビやラジオ番組のテーマ曲、コマーシャルソングを手掛",
+          "link": "https://news.yahoo.co.jp/articles/0026cbed50bde50352b80bee01a45200c74d39c2?source=rss",
+          "publishedOn": "2024-05-16T01:29:12.000Z",
+          "wordCount": 747,
+          "title": "「モーツァルトは大嫌い」なキダ・タローさん　音楽で体現した反権威と関西愛(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000047-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/313b338fe23886785f622f90936d864ebaa7bb72?source=rss",
           "author": null,
@@ -32606,16 +32666,6 @@
           "wordCount": 2351,
           "title": "自民党｢多文化共生社会の実現へ向け、日本人はクルド人の理解をお願いします｣",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/b/4be093b1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034752.html",
-          "author": "damono3856",
-          "description": "1 名前：PARADISE ★垢版\n2024/04/16(火) 11:44:03.44ID:U2Z7n6hd9\n\n\n\n\n\n\n\n置き配の盗難被害者が“おとり”置く…玄関先から段ボール盗んだか 49歳女逮捕 中に位置情報追跡できる機器(東海テレビ)#Yahooニュースhttps://t.co/3GB01VFyjj— ニルツク (@kounyu_batu) April...",
-          "link": "https://itainews.com/archives/2034752.html",
-          "publishedOn": "2024-04-16T13:28:55.000Z",
-          "wordCount": 2423,
-          "title": "置き配の盗難被害者が“おとり”置く　玄関先から段ボール盗んだか　49歳女逮捕　中に位置情報追跡できる機器",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/e/4e7ade9d-s.png"
         }
       ]
     },
@@ -32624,6 +32674,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=72721",
+          "author": "299",
+          "description": "今回ご紹介するのは甘えっぷりが可愛い子猫ちゃんです。 お腹が大きくなると甘えたくなったのでしょう。 飼い主さんのところへ集まって遊んでニャ！と甘えに行く様子が可愛らしいのでご覧ください。 最初は子猫ちゃんにミルクをあげる...\n食後に甘えに来る子猫が可愛い first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/72721",
+          "publishedOn": "2024-05-16T02:00:08.000Z",
+          "wordCount": 1292,
+          "title": "食後に甘えに来る子猫が可愛い",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72721.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=72745",
           "author": "299",
@@ -36029,6 +36089,16 @@
           "publishedOn": "2024-04-20T03:00:33.000Z",
           "wordCount": null,
           "title": "【有吉の壁】4月24日水曜よる７時〜▼即興男女ユニットの壁を超えろ！おもしろ法政大学の人選手権【予告】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uHaezMmbDXI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uHaezMmbDXI",
+          "publishedOn": "2024-04-20T03:00:06.000Z",
+          "wordCount": null,
+          "title": "【大波乱】ピンクの電話・清水よし子が初参戦！男女ユニット抽選会【有吉の壁】【オープニング先行】",
           "imageUrl": null
         },
         {
