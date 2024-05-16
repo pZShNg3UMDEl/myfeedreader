@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/800/G080024/20240516055/",
+          "author": null,
+          "description": "SerialProjectは本日（2024年5月16日），新作PC用ソフト「シリアルワールド」のSteamストアページを公開した。不思議な生物「アニマ」の力を借りつつ，街で発生する異変の解決に挑むRPGだ。3体のアニマでパーティ構築と，デッキ構築ローグライクの要素を取り入れたバトルが特徴となっている。",
+          "link": "https://www.4gamer.net/games/800/G080024/20240516055/",
+          "publishedOn": "2024-05-16T12:09:02.000Z",
+          "wordCount": 6847,
+          "title": "デッキ構築ローグライクの要素を取り入れた新作RPG「シリアルワールド」，Steamストアページを公開。「BitSummit2024」に出展予定",
+          "imageUrl": "https://www.4gamer.net/games/800/G080024/20240516055/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/800/G080021/20240516054/",
           "author": null,
           "description": "「Supernormal」で知られるHitoriDeProductionsは本日，一人称視点の新作ホラーゲーム「Supernatural」のSteamストアページをオープンした。大声で叫べば叫ぶほど，恐怖のイベントが出現するというマイク必須のホラーゲームで，メイド失踪事件を捜査中の刑事が，不気味な館で恐怖の体験をするという。",
@@ -7691,16 +7701,6 @@
           "wordCount": 2606,
           "title": "色度座標や順電圧など、各LEDの測定データに連携した個別IDを提供",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/18/cover_news038.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/17/news059.html",
-          "author": null,
-          "description": "NXPセミコンダクターズは、車載ソフトウェアプラットフォーム「S32 CoreRide」を発表した。プロセッシング、車載ネットワーキングなど、同社の多様なハードウェア製品と統合ソフトウェアを組み合わせている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/17/news059.html",
-          "publishedOn": "2024-04-17T00:00:00.000Z",
-          "wordCount": 2600,
-          "title": "次世代SDV車両の開発を簡素化する車載ソフトウェアプラットフォーム",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/17/cover_news059.jpg"
         }
       ]
     },
@@ -9656,6 +9656,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121275/",
+          "author": null,
+          "description": "「ガンダム」シリーズの45周年を記念し、全国の映画館で劇場アニメ5作品を上映する「ガンダムシネマフェス」の開催が決定した。6月7日の埼玉・MOVIX三郷を皮切りに、12月5日まで各地で順次展開さ...",
+          "link": "https://anime.eiga.com/news/121275/",
+          "publishedOn": "2024-05-16T12:00:00.000Z",
+          "wordCount": 924,
+          "title": "ガンダム劇場版5作品を上映する「ガンダムシネマフェス」全国で開催　「GUNDAM NEXT FUTURE」と連動",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121281/",
           "author": null,
@@ -13546,6 +13561,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/85f8cd4642e17eaa385437521f0a3b95a72aefec?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】ロシアのプーチン大統領は１６日、北京を訪問し、中国の習近平国家主席と人民大会堂で会談した。中国国営中央テレビ（電子版）によると、両首脳は「新時代の全面的な戦略的協力パートナー関係の深",
+          "link": "https://news.yahoo.co.jp/articles/85f8cd4642e17eaa385437521f0a3b95a72aefec?source=rss",
+          "publishedOn": "2024-05-16T12:11:53.000Z",
+          "wordCount": 741,
+          "title": "中露首脳、結束を誇示　米欧主導の対露制裁打破狙う　共同声明で処理水「懸念」も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f8f2b745e74dadaf41fa0835c0ec42ef13d6c129?source=rss",
+          "author": null,
+          "description": "歌手の吉川晃司さん（５８）とギタリストの布袋寅泰さん（６２）による音楽ユニット、ＣＯＭＰＬＥＸが１６日、１３年ぶりに〝復活〟し、能登半島地震被災地の復興支援を目的に「日本一心」と題したコンサートを東京",
+          "link": "https://news.yahoo.co.jp/articles/f8f2b745e74dadaf41fa0835c0ec42ef13d6c129?source=rss",
+          "publishedOn": "2024-05-16T11:57:26.000Z",
+          "wordCount": 768,
+          "title": "吉川晃司さん、布袋寅泰さんのＣＯＭＰＬＥＸが復活コンサート　能登地震の復興支援(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000232-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b595100636260eda3cfdae52fd8bf8907d601c5d?source=rss",
           "author": null,
@@ -28824,6 +28859,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=245668",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/mcdonalds-cheese-dabuchi-set",
+          "publishedOn": "2024-05-16T12:00:11.000Z",
+          "wordCount": 1794,
+          "title": "【マクドナルド】チーズチーズダブルチーズバーガーセット（チーチーダブチ）【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/7d04236951f83b81040df1f3d10097f8.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=245646",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
@@ -30301,6 +30346,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCC5DuAAbx4uqBxnlmiHfGFg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LtXmjkSwB5I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LtXmjkSwB5I",
+          "publishedOn": "2024-05-16T12:00:30.000Z",
+          "wordCount": null,
+          "title": "堀口英利、学習院でハラスメント地獄だったらしい【note考古学 #3】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pIDFIrfKzCA",
           "author": null,
           "description": "",
@@ -30637,6 +30692,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2035592.html",
+          "author": "dqnplus",
+          "description": "1 名前：!omikuji：2024/05/15(水) 07:24:33.32 ID:SBzlucn60.net \n\n\n\n\n\n\n\n11歳がショベル運転…　東海市の自立支援施設の代表らを逮捕、自身の建設会社で少年を働かせた疑い▼記事はこちら https://t.co/RFRGKIA9JF— 中日新聞 (@chunichi_denhen) May 14, 2024 \n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2035592.html",
+          "publishedOn": "2024-05-16T12:01:14.000Z",
+          "wordCount": 2501,
+          "title": "11歳男児にショベルカーを操作させ働かせた疑い　人手不足が原因か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46fe82d6-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2035570.html",
           "author": "yonepo665sfr",
