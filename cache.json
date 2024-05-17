@@ -7533,6 +7533,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2405/17/news076.html",
+          "author": null,
+          "description": "マイクロチップ・テクノロジーは、宇宙グレードの耐放射線絶縁型50W DC-DCパワーコンバーター「LE50-28」ファミリーを発表した。シングル出力、トリプル出力を備える3.3～28Vまでの9種を提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2405/17/news076.html",
+          "publishedOn": "2024-05-17T00:00:00.000Z",
+          "wordCount": 2529,
+          "title": "宇宙グレードの放射線耐性を持つ50W DC-DCパワーコンバーター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/17/cover_news076.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2405/16/news069.html",
           "author": null,
           "description": "STマイクロエレクトロニクスは、車載用DCモーター向けゲートドライバーIC「L99H92」を発表した。プログラミングや診断用のSPIポート、チャージポンプ回路、各種保護機能、2つの電流センスアンプを備える。",
@@ -9656,6 +9666,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121280/",
+          "author": null,
+          "description": "5月24日に公開される「デッドデッドデーモンズデデデデデストラクション」後章の入場特典が明らかになり、特別映像が公開された。公開前日に、前章と後章の一挙上映が行われることも決定した。 原作は、浅...",
+          "link": "https://anime.eiga.com/news/121280/",
+          "publishedOn": "2024-05-17T01:00:00.000Z",
+          "wordCount": 836,
+          "title": "映画「デデデデ」後章の入場特典は原作者描き下ろしイラストカード　公開前日に前章と後章の一挙上映も実施",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121275/",
           "author": null,
@@ -12665,36 +12690,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121065/",
-          "author": null,
-          "description": "山﨑賢人が主演する映画「陰陽師0」の第1弾入場者特典が、創作集団「CLAMP」が描く若き晴明のイラストカード（A5サイズ）に決定した。公開初日の4月19日から、一部を除く劇場で先着数量限定で配布...",
-          "link": "https://anime.eiga.com/news/121065/",
-          "publishedOn": "2024-04-17T13:00:00.000Z",
-          "wordCount": 1705,
-          "title": "「陰陽師0」入場特典はCLAMPのイラストカード　佐藤嗣麻子監督、呪術監修・加門七海氏からコメントも",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121086/",
-          "author": null,
-          "description": "サンエックスが展開する人気キャラクター「すみっコぐらし」初の舞台化が決定した。「パペットミュージカル すみっコぐらし とびだす絵本とひみつのコ」として、8月16日～9月1日に東京・品川プリンスホ...",
-          "link": "https://anime.eiga.com/news/121086/",
-          "publishedOn": "2024-04-17T12:00:00.000Z",
-          "wordCount": 1735,
-          "title": "「すみっコぐらし」今夏に初の舞台化　映画「とびだす絵本とひみつのコ」をパペットミュージカルに",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -13491,6 +13486,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/bee377999eacb644f82c3047c26d7c757ca5a80e?source=rss",
+          "author": null,
+          "description": "４月２８日投開票の衆院東京１５区補欠選挙で別陣営の演説を妨害したとして、警視庁捜査２課は１７日、公選法違反（自由妨害）の疑いで、政治団体「つばさの党」代表、黒川敦彦容疑者ら３人を逮捕した。捜査関係者へ",
+          "link": "https://news.yahoo.co.jp/articles/bee377999eacb644f82c3047c26d7c757ca5a80e?source=rss",
+          "publishedOn": "2024-05-17T00:32:36.000Z",
+          "wordCount": 738,
+          "title": "つばさの党代表ら３人を逮捕　公選法違反容疑　衆院東京１５区補選で妨害(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000033-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4b2fa705789594b4be2793be9bdf4be52cf55d57?source=rss",
+          "author": null,
+          "description": "平安時代に創建され、琵琶湖疏水（山科疏水）のそばにたたずむ安祥寺（京都市山科区）が新たに庭を整備し、１８日から期間限定で公開を始める。安祥寺は長い間非公開だったが、所有する「木像五智（ごち）如来坐像」",
+          "link": "https://news.yahoo.co.jp/articles/4b2fa705789594b4be2793be9bdf4be52cf55d57?source=rss",
+          "publishedOn": "2024-05-17T00:30:00.000Z",
+          "wordCount": 793,
+          "title": "戦国時代に寺宝が散逸した京都山科「安祥寺」　120年間不在の国宝・五智如来を庭に再現(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000032-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a7d0217d817c588c6c3d82fca21e9d75f8e84edb?source=rss",
+          "author": null,
+          "description": "【ロンドン＝黒瀬悦成】中欧スロバキアのフィツォ首相（５９）が銃撃された事件で、地元警察は現場で拘束した男（７１）を殺人未遂の疑いで逮捕し、動機などに関し本格的な捜査を開始した。\n\nロイター通信によると",
+          "link": "https://news.yahoo.co.jp/articles/a7d0217d817c588c6c3d82fca21e9d75f8e84edb?source=rss",
+          "publishedOn": "2024-05-17T00:30:00.000Z",
+          "wordCount": 747,
+          "title": "スロバキア首相銃撃で７１歳男を殺人未遂で逮捕　単独犯の見方も露メディアは「背後にウクライナ」と主張(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/edda388103601966b21a91472a6a0101367cb945?source=rss",
+          "author": null,
+          "description": "松本まりか（３９）にとって、この映画の撮影は人生の大きな転換点になったという。「湖の女たち」（大森立嗣監督）。人間の本性に潜む不快な側面を暴きたてるような問題作だ。松本も自身を極限まで追い込んで役に臨",
+          "link": "https://news.yahoo.co.jp/articles/edda388103601966b21a91472a6a0101367cb945?source=rss",
+          "publishedOn": "2024-05-17T00:05:00.000Z",
+          "wordCount": 809,
+          "title": "映画「湖の女たち」福士蒼汰とダブル主演の松本まりか「長いトンネル抜けた大切な作品」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000030-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/577564d70219ead4a702e954674388c754664afa?source=rss",
+          "author": null,
+          "description": "黒くてにょろにょろしたこの魚に、ナゼに日本人はこれほどに魅了され、執着するのか、わからんでもない。かくいうワタクシとてご多分に漏れず、物心ついて初めてウナギを口にした瞬間をありありと覚えているし、以後",
+          "link": "https://news.yahoo.co.jp/articles/577564d70219ead4a702e954674388c754664afa?source=rss",
+          "publishedOn": "2024-05-17T00:05:00.000Z",
+          "wordCount": 775,
+          "title": "大切に食べてこそのウナギよな　うだるような熱気と日差しの記憶とともに　ウエカツ流サカナ道一直線(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000029-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5c204ccaf8fa69caba30d0adf2fe91051be88d48?source=rss",
           "author": null,
@@ -34241,16 +34286,6 @@
           "wordCount": 2308,
           "title": "【悲報】女優さん新幹線で豚まん食っただけで正義マンから誹謗中傷されSNS休止に追い込まれる",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/5/657498c4-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034783.html",
-          "author": "damono3856",
-          "description": "1 名前：＠蚤の市 ★ 警備員[Lv.15][苗]垢版\n2024/04/17(水) 10:11:58.03ID:fseaQvFW9\n\n\n\n\n\n\n\nいなりずし万引き容疑で女性を誤認逮捕　知人にもらった品物と判明 https://t.co/EroXa7aAb4— 毎日新聞ニュース (@mainichijpnews) April 17, 2024  \n\n\n\n\n\n\n　滋賀県警近江八...",
-          "link": "https://itainews.com/archives/2034783.html",
-          "publishedOn": "2024-04-17T12:31:23.000Z",
-          "wordCount": 2419,
-          "title": "いなりずし万引き容疑で女性を誤認逮捕　知人にもらった品物と判明 近江八幡署",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/5/e59b7c89-s.png"
         }
       ]
     },
@@ -34259,6 +34294,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=72814",
+          "author": "299",
+          "description": "草むらのなかを茶トラ猫さんがズンズンと歩いていきますが、その後ろに立派なニワトリさんもくっついて一緒にまっすぐを見つめながら前へ前へと進んでいきます。 一見おかしなコンビに見えるのですがこの1匹と一羽は普段から大の仲良し...\n猫がニワトリを連れて川縁へのお散歩にでかけます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/72814",
+          "publishedOn": "2024-05-17T00:00:15.000Z",
+          "wordCount": 1288,
+          "title": "猫がニワトリを連れて川縁へのお散歩にでかけます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72814.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=72780",
           "author": "299",
@@ -37618,16 +37663,6 @@
           "wordCount": 1335,
           "title": "交差点のど真ん中に子猫が！奇跡の救出劇に感動！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70979.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=70971",
-          "author": "299",
-          "description": "今回ご紹介するのは食べながら寝落ちしてしまう子猫ちゃんです。 ご飯を美味しそうに食べているな～と思ったら、一瞬で寝落ちして急に動かなくなってしまいます。 寝落ちしながらもご飯を食べ続ける姿が可愛らしいのでご覧ください。 ...\n食べながら寝落ちする子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/70971",
-          "publishedOn": "2024-04-17T13:00:16.000Z",
-          "wordCount": 1340,
-          "title": "食べながら寝落ちする子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/70971.jpeg"
         }
       ]
     },
