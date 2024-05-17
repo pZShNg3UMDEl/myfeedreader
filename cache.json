@@ -12900,21 +12900,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121087/",
-          "author": null,
-          "description": "「宇宙戦艦ヤマト」リメイクシリーズ最新作「ヤマトよ永遠（とわ）に REBEL（レベル）3199」の第1章「黒の侵略」の特報第2弾が公開された。 同映像は、初公開カットで構成され、新キャラクターや...",
-          "link": "https://anime.eiga.com/news/121087/",
-          "publishedOn": "2024-04-17T15:30:00.000Z",
-          "wordCount": 1671,
-          "title": "「ヤマトよ永遠に REBEL3199」第1章、初公開カット収めた特報第2弾公開　新場面写真も披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -13711,6 +13696,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/964bcdc8a266954ad883230ef3dedec072300152?source=rss",
+          "author": null,
+          "description": "４月に行われた京都府京丹後市長選で無投票で５度目の当選を果たした中山泰市長（６４）が１６日、市役所に初登庁した。市役所玄関前に集まった市民や市職員、市議ら約１５０人が拍手で出迎えた。\n\n職員から花束を",
+          "link": "https://news.yahoo.co.jp/articles/964bcdc8a266954ad883230ef3dedec072300152?source=rss",
+          "publishedOn": "2024-05-17T03:29:17.000Z",
+          "wordCount": 714,
+          "title": "「稼ぐ地方創生」訴え 京丹後・中山市長の５期目スタート(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000074-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e874282f0c1fe23662507a961cb1ab3327b85e1d?source=rss",
+          "author": null,
+          "description": "イスラエルのスモトリッチ財務相は１６日、トルコとの自由貿易協定（ＦＴＡ）を廃止し、トルコからの輸入品に１００％の関税を課す方針を示した。トルコは５月初め、イスラム原理主義組織ハマスが実効支配するパレス",
+          "link": "https://news.yahoo.co.jp/articles/e874282f0c1fe23662507a961cb1ab3327b85e1d?source=rss",
+          "publishedOn": "2024-05-17T03:23:54.000Z",
+          "wordCount": 761,
+          "title": "トルコ製品に関税１００％　イスラエル財務相が方針示す　トルコの貿易停止に報復(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/0fb691a782ff11e0d2781b2d935101003f033b82?source=rss",
           "author": null,
@@ -30845,6 +30850,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC5DuAAbx4uqBxnlmiHfGFg",
       "siteUrl": "https://www.youtube.com/channel/UCC5DuAAbx4uqBxnlmiHfGFg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cplJqT7MGJk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cplJqT7MGJk",
+          "publishedOn": "2024-05-17T03:15:03.000Z",
+          "wordCount": null,
+          "title": "堀口英利、土曜日に帰って来るかも／ガシマンテの正体、ついに判明する？なんと正体はあの人だった可能性が浮上",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LtXmjkSwB5I",
           "author": null,
