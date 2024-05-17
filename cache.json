@@ -8431,16 +8431,6 @@
           "wordCount": 2568,
           "title": "ゾーンアーキテクチャとイーサネットが自動車の将来を推進",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/18/cover_news012.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/18/news038.html",
-          "author": null,
-          "description": "ams OSRAMは、各LEDの測定データにリンクした、個別IDを提供する。LEDパッケージ上の2次元コードが、各LED製造時に測定した色度座標や順電圧、光度などのデータにリンクする。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/18/news038.html",
-          "publishedOn": "2024-04-18T00:00:00.000Z",
-          "wordCount": 2606,
-          "title": "色度座標や順電圧など、各LEDの測定データに連携した個別IDを提供",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/18/cover_news038.jpg"
         }
       ]
     },
@@ -10396,6 +10386,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121290/",
+          "author": null,
+          "description": "8月2日から全国公開される劇場アニメ「僕のヒーローアカデミア THE MOVIE ユアネクスト」から、11点の場面写真が公開された。 同作は、堀越耕平氏が「週刊少年ジャンプ」（集英社刊）で連載中...",
+          "link": "https://anime.eiga.com/news/121290/",
+          "publishedOn": "2024-05-17T12:00:00.000Z",
+          "wordCount": 913,
+          "title": "「僕のヒーローアカデミア THE MOVIE ユアネクスト」の場面写真11点公開　物語のカギを握るオリジナルキャラの姿も",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121284/",
           "author": null,
@@ -13501,6 +13506,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10180",
+          "author": "watanabe@logipara.com",
+          "description": "今週末ですが、旅行に行ってきます！ 週末は 「ドキッ(心疾患的な意味で)！アラフィフ男3人の豪華旅行！ポロリもあるよ(これはリアルに)！」 をお送りいたします。全身にオーバーツーリズムの風を浴びてくるぜ！！！(真顔)",
+          "link": "https://logipara.com/diary-text/2024-05-18",
+          "publishedOn": "2024-05-17T11:55:17.000Z",
+          "wordCount": 4377,
+          "title": "週末は旅行です",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=10177",
           "author": "watanabe@logipara.com",
           "description": "今日は、職場の飲み会でした。 とはいってもコンプライアンス厳しい昨今です。飲み会といっても無理に誘ってはいけない。たとえ来てもらっても、むやみに長引かせてはいけない。さっと切り上げなければ。 というわけで、「1時間だ […]",
@@ -14271,6 +14286,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3fba78a2c969b96d59c358d79627feaaadce4851?source=rss",
+          "author": null,
+          "description": "全国知事会の大阪・関西万博推進本部は１７日、一般ドライバーが自家用車で客を運ぶ「ライドシェア」について、万博に合わせて大阪府内全域での運行など大幅な規制緩和を認めるよう国に求める提言をまとめ、近く政府",
+          "link": "https://news.yahoo.co.jp/articles/3fba78a2c969b96d59c358d79627feaaadce4851?source=rss",
+          "publishedOn": "2024-05-17T12:16:19.000Z",
+          "wordCount": 730,
+          "title": "ライドシェア制度、円滑移動に「大幅緩和を」　全国知事会の万博推進本部が国に提言へ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000229-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/35a28fc7f10f91871ea672c643fdde0724d6ce86?source=rss",
+          "author": null,
+          "description": "ロシアのプーチン大統領は１７日、露軍によるウクライナ東部ハリコフ州への越境攻撃について、目標は露領土との間に「緩衝地帯」を確保することだとし、州都ハリコフの占領は「現時点で計画していない」と主張した。",
+          "link": "https://news.yahoo.co.jp/articles/35a28fc7f10f91871ea672c643fdde0724d6ce86?source=rss",
+          "publishedOn": "2024-05-17T12:07:49.000Z",
+          "wordCount": 767,
+          "title": "プーチン氏、ハリコフ州越境攻撃「緩衝地帯確保が目標」「州都占領計画なし」と主張(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000228-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9d5a5603b3cac91ad45382061ec5c2c87700bd5a?source=rss",
+          "author": null,
+          "description": "一方的な決着に館内がどよめいた。新小結の大の里が大関琴桜との１敗対決を完勝で制した。\n\n左を固めてきた琴桜に対して、大の里は一度、体をぶつけてから右をねじ込む。左上手を許し、やや半身になりかけたが、こ",
+          "link": "https://news.yahoo.co.jp/articles/9d5a5603b3cac91ad45382061ec5c2c87700bd5a?source=rss",
+          "publishedOn": "2024-05-17T12:02:32.000Z",
+          "wordCount": 757,
+          "title": "大の里、琴桜にも完勝で５勝目　１横綱２大関撃破　大相撲夏場所６日目(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000227-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/67c72c47b3366b2baf90b81887da4c78e54cb0e9?source=rss",
+          "author": null,
+          "description": "「薪能（たきぎのう）」の元祖として知られ、奈良発祥の４流派（観世、金春、宝生、金剛＝かんぜ、こんぱる、ほうしょう、こんごう）が競演する伝統行事「薪御能（たきぎおのう）」が１７日、奈良市の興福寺南大門跡",
+          "link": "https://news.yahoo.co.jp/articles/67c72c47b3366b2baf90b81887da4c78e54cb0e9?source=rss",
+          "publishedOn": "2024-05-17T12:01:48.000Z",
+          "wordCount": 726,
+          "title": "かがり火が照らす風雅な舞、薪御能始まる　奈良の興福寺(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000225-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6d393895fe1e6b146ca22ab192bf8c5e286e8edf?source=rss",
           "author": null,
@@ -32147,16 +32202,6 @@
           "wordCount": 1841,
           "title": "【CoCo壱番屋（ココイチ）】THEチキンカレー・ライス350g【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/4dd90d1b859c74d56fa503b0f0b78c64.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=242574",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、すべての店で粉から作る讃岐うどんが人気のチェーン「讃岐釜揚げうどん　丸亀製麺」へ進撃しました。 &nb […]",
-          "link": "https://foodfighter.jp/marugameshakeudon-torikara",
-          "publishedOn": "2024-04-17T23:52:06.000Z",
-          "wordCount": 1850,
-          "title": "【丸亀製麺】丸亀シェイクうどん「鶏から塩レモンシェイクうどん」【持ち帰り限定・新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/c0bc35b6ff8ae3fcd142361b8a12ca3f.jpg"
         }
       ]
     },
@@ -32532,6 +32577,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2035630.html",
+          "author": "dqnplus",
+          "description": "1 名前：＠おっさん友の会 ★：2024/05/17(金) 10:23:52.35 ID:Y9DWVpsZ9\n\n\n\n\n\n\n\n\n14歳米少年、激辛チップス1枚食べて死亡 SNSチャレンジ企画 https://t.co/21h09U3SoT— AFPBB News (@afpbbcom) May 17, 2024 \n\n\n\n\n\n\n【5月17日 AFP】米国で10代の少年が激辛トルティーヤ...",
+          "link": "https://itainews.com/archives/2035630.html",
+          "publishedOn": "2024-05-17T12:03:57.000Z",
+          "wordCount": 2425,
+          "title": "【アメリカ】SNS「ワン・チップ・チャレンジ」で棺桶型パッケージの激辛チップ1枚食べた14歳少年死亡",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/7/c78a4aa1-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2035620.html",
           "author": "damono3856",
