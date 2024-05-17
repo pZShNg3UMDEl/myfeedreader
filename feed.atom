@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-17T15:50:27.223Z</updated>
+    <updated>2024-05-17T16:16:20.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Fortnite Festival」，シーズン3を本日スタート。ビリー・アイリッシュさんの新曲が，アルバムのリリースと同時にゲーム内に登場]]></title>
+        <id>https://www.4gamer.net/games/144/G014484/20240518002/</id>
+        <link href="https://www.4gamer.net/games/144/G014484/20240518002/"/>
+        <updated>2024-05-17T16:11:01.000Z</updated>
+        <summary type="html"><![CDATA[EpicGamesは本日（2024年5月18日），オンラインゲーム「フォートナイト」内のリズムゲーム「FortniteFestival」のシーズン3をスタートし，新たなシーズンパス「シーズン3Festivalパス」をリリースした。シーズン3のアイコンになるのは，アーティストのビリー・アイリッシュさんだ。]]></summary>
+        <author>
+            <name>4Gamer.net − 注目の記事のみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One man's (event camera) noise is another man's signal]]></title>
         <id>http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html</id>
@@ -44037,16 +44047,6 @@ https://imgur.com/vJtarLz.jpeg]]></summary>
         <summary type="html"><![CDATA[主にゲーマーに人気の高いコミュニケーション・プラットフォームDiscordでは、公開サーバー上で無数のやり取りが飛びかっている。Spy Petというオンラインサービスが、そうした40億以上メッセージをスクレイピング（収集）して販売している。 米ニュースメディア404 Mediaによると、Spy Pe […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok、Instagram風サービス「TikTok Notes」テスト開始。カナダとオーストラリアにて]]></title>
-        <id>https://gadget.phileweb.com/?p=73850</id>
-        <link href="https://gadget.phileweb.com/post-73850/"/>
-        <updated>2024-04-18T03:59:59.000Z</updated>
-        <summary type="html"><![CDATA[TikTokが準備していると言われていたInstagram競合の新サービス「TikTok Notes」が、試験的な展開をカナダおよびオーストラリア市場で開始した。アプリは両国のApp Store、Google Play Storeからダウンロード可能になっている。 各ストアの説明には「TikTok  […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
