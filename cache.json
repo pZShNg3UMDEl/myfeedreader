@@ -10057,6 +10057,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html",
+          "author": null,
+          "description": "In a preprint titled \"Noise2Image: Noise-Enabled Static Scene Recovery for Event Cameras\" Cao et al. propose a method to use the inherent pixel noise present in even camera sensors to recover scene intensity maps.\nAbstract:\nEvent cameras capture changes of intensity over time as a stream of ‘events’ and generally cannot measure intensity itself; hence, they are only used for imaging dynamic scenes. However, fluctuations\ndue to random photon arrival inevitably trigger noise events, even for static scenes. While previous efforts have been focused on filtering out these undesirable noise events to improve signal quality, we find that,\nin the photon-noise regime, these noise events are correlated with the static scene intensity. We analyze the noise event generation and model its relationship to illuminance. Based on this understanding, we propose a method, called Noise2Image, to leverage the illuminance-dependent noise characteristics to recover the static parts of a scene, which are otherwise invisible to event cameras. We experimentally collect a dataset of noise events on static scenes to train and validate Noise2Image. Our results show that Noise2Image can robustly recover intensity images solely from noise events, providing a novel approach for capturing static scenes in event cameras, without additional hardware.\n\nLink: https://arxiv.org/abs/2404.01298",
+          "link": "http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html",
+          "publishedOn": "2024-05-17T15:50:00.006Z",
+          "wordCount": 3961,
+          "title": "One man's (event camera) noise is another man's signal",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsg495Z__dJ8z4ocKJEaoEUBg9DeqRL8M8XqbMHzOW7lI0I0O7gn1qshf_1ZtC268y6azm54Z840BklNePZ-PDFMEac5KFR0vg4CG3enbG3YePiXnzk31ahwF9UzhPTvoRIEeVXPwp_ApVx4iYt1egmM_guy7AKW_v06PzOMW8NNHZvkv8ypWc/w1200-h630-p-k-no-nu/Capture1.PNG"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/05/photonic-electronic-integrated-circuit.html",
           "author": null,
           "description": "Lukashchuk et al. recently published a paper titled \"Photonic-electronic integrated circuit-based coherent LiDAR engine\" in the journal Nature Communications.\n\nOpen access link: https://www.nature.com/articles/s41467-024-47478-z\nAbstract: Chip-scale integration is a key enabler for the deployment of photonic technologies. Coherent laser ranging or FMCW LiDAR, a perception technology that benefits from instantaneous velocity and distance detection, eye-safe operation, long-range, and immunity to interference. However, wafer-scale integration of these systems has been challenged by stringent requirements on laser coherence, frequency agility, and the necessity for optical amplifiers. Here, we demonstrate a photonic-electronic LiDAR source composed of a micro-electronic-based high-voltage arb…",

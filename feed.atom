@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-17T15:37:26.902Z</updated>
+    <updated>2024-05-17T15:50:27.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One man's (event camera) noise is another man's signal]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html"/>
+        <updated>2024-05-17T15:50:00.006Z</updated>
+        <summary type="html"><![CDATA[In a preprint titled "Noise2Image: Noise-Enabled Static Scene Recovery for Event Cameras" Cao et al. propose a method to use the inherent pixel noise present in even camera sensors to recover scene intensity maps.
+Abstract:
+Event cameras capture changes of intensity over time as a stream of ‘events’ and generally cannot measure intensity itself; hence, they are only used for imaging dynamic scenes. However, fluctuations
+due to random photon arrival inevitably trigger noise events, even for static scenes. While previous efforts have been focused on filtering out these undesirable noise events to improve signal quality, we find that,
+in the photon-noise regime, these noise events are correlated with the static scene intensity. We analyze the noise event generation and model its relationship to illuminance. Based on this understanding, we propose a method, called Noise2Image, to leverage the illuminance-dependent noise characteristics to recover the static parts of a scene, which are otherwise invisible to event cameras. We experimentally collect a dataset of noise events on static scenes to train and validate Noise2Image. Our results show that Noise2Image can robustly recover intensity images solely from noise events, providing a novel approach for capturing static scenes in event cameras, without additional hardware.
+
+Link: https://arxiv.org/abs/2404.01298]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[動物のトレーニング施設を経営するシミュレーションゲーム「Animal Trainer Simulator」，体験版の配信をスタート。日本語にも対応]]></title>
         <id>https://www.4gamer.net/games/800/G080042/20240518001/</id>
