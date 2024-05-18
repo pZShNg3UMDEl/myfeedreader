@@ -10007,6 +10007,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/05/a-diy-copper-oxide-camera-sensor.html",
+          "author": null,
+          "description": "Can we make photosensitive pixels from Copper Oxide? Youtuber \"Breaking Taps\" answers:",
+          "link": "http://image-sensors-world.blogspot.com/2024/05/a-diy-copper-oxide-camera-sensor.html",
+          "publishedOn": "2024-05-18T23:42:00.000Z",
+          "wordCount": 3764,
+          "title": "A DIY copper oxide camera sensor",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vim-bVK0w4PCNBaIU27tqGFloNX8e5oyH5mITPsURjkU9FfsYJROgfevdPDtqZYK0-kQT_xYgoYUF2zMa5D7ScA5mzo_xb9LfJMIV6fIMWZqqKYw=w1200-h630-n-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html",
           "author": null,
           "description": "In a preprint titled \"Noise2Image: Noise-Enabled Static Scene Recovery for Event Cameras\" Cao et al. propose a method to use the inherent pixel noise present in even camera sensors to recover scene intensity maps.\nAbstract:\nEvent cameras capture changes of intensity over time as a stream of ‘events’ and generally cannot measure intensity itself; hence, they are only used for imaging dynamic scenes. However, fluctuations\ndue to random photon arrival inevitably trigger noise events, even for static scenes. While previous efforts have been focused on filtering out these undesirable noise events to improve signal quality, we find that,\nin the photon-noise regime, these noise events are correlated with the static scene intensity. We analyze the noise event generation and model its relationship to illuminance. Based on this understanding, we propose a method, called Noise2Image, to leverage the illuminance-dependent noise characteristics to recover the static parts of a scene, which are otherwise invisible to event cameras. We experimentally collect a dataset of noise events on static scenes to train and validate Noise2Image. Our results show that Noise2Image can robustly recover intensity images solely from noise events, providing a novel approach for capturing static scenes in event cameras, without additional hardware.\n\nLink: https://arxiv.org/abs/2404.01298",
@@ -14186,6 +14196,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c9cf1386d209d4885050c8e9c5da34e87b7afdb3?source=rss",
+          "author": null,
+          "description": "奈良県は、世界的ピアニストの反田恭平氏（２９）が社長を務め、奈良を拠点に音楽活動を展開する「ジャパン・ナショナル・オーケストラ（ＪＮＯ）」と県文化会館（奈良市）の活用で連携・協力するとの覚書を締結し、",
+          "link": "https://news.yahoo.co.jp/articles/c9cf1386d209d4885050c8e9c5da34e87b7afdb3?source=rss",
+          "publishedOn": "2024-05-18T23:39:10.000Z",
+          "wordCount": 727,
+          "title": "世界的ピアニスト・反田恭平氏が奈良県文化会館の芸術監督に就任(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000033-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/00a0aab557dc79129203b897a9253c55321c19d8?source=rss",
           "author": null,
