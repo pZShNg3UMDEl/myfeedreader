@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T14:12:20.777Z</updated>
+    <updated>2024-05-18T14:26:29.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[指示役も殺人容疑で再逮捕へ　那須２遺体(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/03e72be3f565556d06bab364062ccaa5ba3e0aef?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/03e72be3f565556d06bab364062ccaa5ba3e0aef?source=rss"/>
+        <updated>2024-05-18T14:12:12.000Z</updated>
+        <summary type="html"><![CDATA[栃木県那須町の河川敷で会社役員の宝島龍太郎さん（５５）夫妻の焼損遺体が見つかった事件で、警視庁・栃木県警合同捜査本部は１９日にも殺人容疑で指示役の佐々木光容疑者（２８）＝死体損壊容疑で逮捕＝を再逮捕す]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【最新コンビニ弁当】美味しい・おすすめランキング【2024年5月12日から5月18日】]]></title>
         <id>https://foodfighter.jp/?p=245976</id>
@@ -45097,16 +45107,6 @@ https://www.techspot.com/images2/news/bigimage...]]></summary>
         <summary type="html"><![CDATA[山﨑賢人が主演する映画「陰陽師0」（4月19日公開）のために、日本を代表する漫画家である高橋留美子氏、貞本義行氏、寺田克也氏、水上悟志氏、桂正和氏、藤原カムイ氏、椎橋寛氏、田島昭宇氏が若き晴明を...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【日高屋】日高ちゃんぽん【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=242704</id>
-        <link href="https://foodfighter.jp/hidakaya-champon-2024"/>
-        <updated>2024-04-19T02:21:28.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”お手頃価格で大きな満足。”がコンセプトのちょい飲み可能な有名人気チェーン「熱烈中華食堂　日高屋」へ進 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
