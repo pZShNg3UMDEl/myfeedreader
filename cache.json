@@ -8531,16 +8531,6 @@
           "wordCount": 2587,
           "title": "身近な半導体技術　～電気・電源の仕組みをおさらいしよう～",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/18/81458_w190.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/18/news162.html",
-          "author": null,
-          "description": "ロームは、VCSELをレーザー光向けの樹脂製光拡散材で封止した赤外線光源「VCSELED」を開発した。照射角度や発光波長幅、温度変化、応答速度などに優れる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/18/news162.html",
-          "publishedOn": "2024-04-19T00:00:00.000Z",
-          "wordCount": 2583,
-          "title": "垂直共振器型面発光レーザー素子と光拡散材を組み合わせた赤外線光源",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/18/cover_news162.jpg"
         }
       ]
     },
@@ -10446,6 +10436,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121285/",
+          "author": null,
+          "description": "山本崇一朗氏の大人気コミックを実写映画化した「からかい上手の高木さん」の完成披露試写会が5月16日、都内で行われた。映画版は中学生時代から10年後の再会を描く、オリジナルストーリー。大人になった...",
+          "link": "https://anime.eiga.com/news/121285/",
+          "publishedOn": "2024-05-18T12:00:00.000Z",
+          "wordCount": 853,
+          "title": "【何があったの？】“高木さん”永野芽郁＆“西片”高橋文哉、ステージ上で見つめ合って急接近",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121283/",
           "author": null,
@@ -13566,6 +13571,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10185",
+          "author": "watanabe@logipara.com",
+          "description": "ただいま京都旅行中です。 見せてもらおうか！本場のオーバーツーリズムってやつをよ！！ …という意気込みで挑んだのですが、観光客は多いものの、いまのところスムーズに移動できております。 今回は「せっかくだから俺は高いメニュ […]",
+          "link": "https://logipara.com/trip/2024-05-19",
+          "publishedOn": "2024-05-18T12:15:52.000Z",
+          "wordCount": 4389,
+          "title": "京都お大尽旅行 1日目",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/05/pxl_20240518_0215497682625129362339577862-576x1024.jpg"
+        },
+        {
           "id": "https://logipara.com/?p=10180",
           "author": "watanabe@logipara.com",
           "description": "今週末ですが、旅行に行ってきます！ 週末は 「ドキッ(心疾患的な意味で)！アラフィフ男3人の豪華旅行！ポロリもあるよ(これはリアルに)！」 をお送りいたします。全身にオーバーツーリズムの風を浴びてくるぜ！！！(真顔)",
@@ -14326,6 +14341,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3b15f6f96bf5b7e160edcc272e2041afa75d3ace?source=rss",
+          "author": null,
+          "description": "エースの意地で苦境を勝ち抜いた。大会数日前から左脚に違和感が出ていた宮田は、この日全体トップの５４・２９９点をマークし、ＮＨＫ杯３連覇を達成。万全な状態ではなかったことで細かいミスも出たが、初の五輪代",
+          "link": "https://news.yahoo.co.jp/articles/3b15f6f96bf5b7e160edcc272e2041afa75d3ace?source=rss",
+          "publishedOn": "2024-05-18T12:07:18.000Z",
+          "wordCount": 757,
+          "title": "エースとして苦境でも勝ち切った宮田笙子「パリで思い切った演技ができるように」　体操ＮＨＫ杯(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240518-00000202-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/12f53802b16b05df4f9ed6a57faa5fad1aab9305?source=rss",
+          "author": null,
+          "description": "平成１２年の初演時、２１歳で東京・帝国劇場史上最年少座長となったＫｉｎＫｉ　Ｋｉｄｓの堂本光一は、「王子」そのもののアイドルだった。そして４５歳の今も、細身のパンツ姿で踊り、４度のフライングや今作名物",
+          "link": "https://news.yahoo.co.jp/articles/12f53802b16b05df4f9ed6a57faa5fad1aab9305?source=rss",
+          "publishedOn": "2024-05-18T12:00:00.000Z",
+          "wordCount": 762,
+          "title": "これぞ帝劇、堂本光一の演出力　機構フル活用の「ＳＨＯＣＫ」豪華な最終年に　ステージ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240518-00000198-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/d002b93ef45734914743f210b5dd20a96009dcf8?source=rss",
           "author": null,
@@ -33317,6 +33352,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2035668.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(愛媛県) [US]：2024/05/18(土) 12:06:11.31 ID:dIpYd3kS0●.net\n\n\n\n\n\n\n\n\n\n「万博中止」と「政権交代」は毎日一回は唱えて、Twitterに書いておくようにします。言葉って繰り返してゆくうちに固有の「呪力」を発揮しますから。 https://t.co/kx...",
+          "link": "https://itainews.com/archives/2035668.html",
+          "publishedOn": "2024-05-18T12:01:51.000Z",
+          "wordCount": 2433,
+          "title": "内田樹「万博中止と政権交代は毎日一回唱えます。言葉って繰り返してゆくうちに呪力を発揮します」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/0/4074cab2-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2035658.html",
           "author": "damono3856",
