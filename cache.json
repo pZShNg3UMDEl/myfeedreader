@@ -10397,6 +10397,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121259/",
+          "author": null,
+          "description": "8月30日から9月1日の3日間にさいたまスーパーアリーナで開催される世界最大のアニソンライブイベント「Animelo Summer Live 2024 -Stargazer-」の第3弾出演アーテ...",
+          "link": "https://anime.eiga.com/news/121259/",
+          "publishedOn": "2024-05-19T10:00:00.000Z",
+          "wordCount": 1014,
+          "title": "「アニサマ2024」にFIELD OF VIEWが初出演　早見沙織、蒼井翔太、fripSideなどの参加も決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121233/",
           "author": null,
           "description": "「鬼滅の刃」宇髄天元役などで知られる小西克幸の書籍「小西克幸フォトブック 524」が、5月24日に発売される。価格は4400円（東京ニュース通信社刊）。 自身の名字にちなんで「524」と名付けら...",
@@ -14276,6 +14291,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/e12810c59964883cdc1729467c30fb13bc3db982?source=rss",
+          "author": null,
+          "description": "米欧の当局や民間機関などの分析により、ウクライナ侵略でロシアが弾道ミサイル「火星１１」を含む北朝鮮製ミサイルを使用した実態が明らかになった。問題はミサイルの残骸から日本企業のマークを記した部品が見つか",
+          "link": "https://news.yahoo.co.jp/articles/e12810c59964883cdc1729467c30fb13bc3db982?source=rss",
+          "publishedOn": "2024-05-19T10:08:10.000Z",
+          "wordCount": 734,
+          "title": "電子部品メーカーに迫られる厳しい対応　ロシアの北朝鮮製ミサイルに日本企業のマーク(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/239e51281f3c37cf6752f02ae11309e51ae9292b?source=rss",
+          "author": null,
+          "description": "衆院東京１５区補欠選挙を巡る政治団体「つばさの党」による選挙妨害事件で、公選法違反（自由妨害）容疑で逮捕された党代表、黒川敦彦容疑者（４５）ら３人が、複数の陣営に対して少なくとも１５回以上にわたり妨害",
+          "link": "https://news.yahoo.co.jp/articles/239e51281f3c37cf6752f02ae11309e51ae9292b?source=rss",
+          "publishedOn": "2024-05-19T10:00:26.000Z",
+          "wordCount": 767,
+          "title": "つばさの党、複数陣営に１５回以上の選挙妨害行為　逮捕の３人に協力者の存在も浮上(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000120-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e65c869164ae2ddc684be8cd85dccded3ede1c0f?source=rss",
+          "author": null,
+          "description": "日本自動車連盟（ＪＡＦ）が調査している、信号機のない横断歩道での「車の一時停止率」が８年連続日本一の長野県。最新の令和５年調査で８４・４％。全国平均４５・１％に比べ明らかに多い。本当に長野の車は止まる",
+          "link": "https://news.yahoo.co.jp/articles/e65c869164ae2ddc684be8cd85dccded3ede1c0f?source=rss",
+          "publishedOn": "2024-05-19T10:00:00.000Z",
+          "wordCount": 806,
+          "title": "信号機がない横断歩道で「車の停止率」８割超、８年連続日本一の長野県が抱えるジレンマ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000118-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/706979f97428ddf740da3730a49c18f86101c931?source=rss",
+          "author": null,
+          "description": "上川陽子外相が静岡県知事選の応援演説で自民党推薦候補の当選に向け「この方を私たち女性がうまずして何が女性でしょうか」と発言したことについて、「不適切」だとする声の一方で、発言の一部分を切り取った「曲解",
+          "link": "https://news.yahoo.co.jp/articles/706979f97428ddf740da3730a49c18f86101c931?source=rss",
+          "publishedOn": "2024-05-19T09:47:04.000Z",
+          "wordCount": 748,
+          "title": "上川外相「うまずして」発言　ＳＮＳで「曲解」批判相次ぐ　専門家「状況を考慮する必要」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d921c361985c3a859fdaae782aa05b25367506d?source=rss",
+          "author": null,
+          "description": "６月２０日の告示まで１カ月となる中、東京都知事選（７月７日投開票）の構図が固まらない。小池百合子知事の３選出馬が有力視されるが、まだ意思表明はない。国政政党の動きも鈍く、自民は小池氏との連携に傾き、立",
+          "link": "https://news.yahoo.co.jp/articles/1d921c361985c3a859fdaae782aa05b25367506d?source=rss",
+          "publishedOn": "2024-05-19T09:46:06.000Z",
+          "wordCount": 843,
+          "title": "東京都知事選告示まで１カ月も固まらない構図　小池百合子知事はいまだ意思表明せず(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000114-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/ebf0c6c9a31cb4b18fa3abab4959d01b3ec9d911?source=rss",
           "author": null,
@@ -33728,6 +33793,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2035689.html",
+          "author": "damono3856",
+          "description": "1 名前：香味焙煎 ★：2024/05/19(日) 07:17:11.83 ID:LALhNxbQ9.net\n\n\n\n\n\n\n\n演説妨害、５回以上確認　「カーチェイス」も立件検討―つばさの党選挙妨害事件・警視庁 https://t.co/sCNiTknht7— 時事ドットコム（時事通信ニュース） (@jijicom) May 18, 2024  \n\n\n\n\n\n\n　...",
+          "link": "https://itainews.com/archives/2035689.html",
+          "publishedOn": "2024-05-19T10:02:27.000Z",
+          "wordCount": 2338,
+          "title": "【つばさの党選挙妨害事件】演説妨害、５回以上確認　「カーチェイス」も立件検討―警視庁",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/0/008b88c2-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2035684.html",
           "author": "damono3856",
           "description": "1 名前： ：2024/05/19(日) 00:10:13.84 ID:7SOVTO7B0●.net\n\n\n\n\n\n\n\nEVが売れると自転車が爆発する...EV大国の中国で次々に明らかになる落とし穴 ――中国の地方都市で「EVを買って後悔した」が過半数に。充電インフラだけじゃない、先行する中国から見えるEV完全普及へ...",
@@ -40913,16 +40988,6 @@
           "wordCount": 1339,
           "title": "仲良く添い寝する猫達が可愛らしい",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71077.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=71069",
-          "author": "299",
-          "description": "今回ご紹介するのはゴミ箱の中が気になって仕方のない猫ちゃんです。 猫って狭くて暗い場所を好む性質がありますし、この猫ちゃん的にはドストライクだったのでしょう。 ゴミ箱の中へ入ろう！と頑張る姿が可愛らしいのでご覧ください。...\nゴミ箱に興味津々な猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/71069",
-          "publishedOn": "2024-04-19T22:00:37.000Z",
-          "wordCount": 1342,
-          "title": "ゴミ箱に興味津々な猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71069.jpeg"
         }
       ]
     },
