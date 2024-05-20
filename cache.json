@@ -8700,6 +8700,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=75913",
+          "author": "多根清史",
+          "description": "アップルは生成AIブームの渦中で後手に回っているが、それを挽回すべく次期「iOS 18」では多くのAI機能を発表すると噂されてきた。これまでは「音声アシスタントSiriが賢くなる」などの漠然とした予想だったが、より具体的な見通しをBloombergが伝えている。 同社の内部事情に詳しい記者・Mark […]",
+          "link": "https://gadget.phileweb.com/post-75913/",
+          "publishedOn": "2024-05-20T03:35:22.000Z",
+          "wordCount": 725,
+          "title": "iOS 18ではiPhoneが通知やニュースを要約？OpenAIはユーザー殺到に備えサーバー増強か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/05/shutterstock_2449598473.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=75881",
           "author": "多根清史",
           "description": "アップルは新型iPad Proを「史上最高の薄さ」としたが、そこには数々の新技術や工夫が加えられている。たとえばYouTuberらの折り曲げテストでは意外な頑丈さを証明し、筐体の中央に金属製のカウリングが通されて剛性を補っていることが確認されていた。 それに続き複数の分解動画が公開され、前面カメラが […]",
@@ -14351,6 +14361,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d76808c1a373d623329f067b9da745595e81f877?source=rss",
+          "author": null,
+          "description": "米大リーグ、パドレスのダルビッシュ有投手が１９日、アトランタで行われたブレーブス戦で今季４勝目を挙げ、野茂英雄、黒田博樹に次いで日本選手３人目となる日米通算２００勝を達成した。試合後のインタビューでダ",
+          "link": "https://news.yahoo.co.jp/articles/d76808c1a373d623329f067b9da745595e81f877?source=rss",
+          "publishedOn": "2024-05-20T03:22:50.000Z",
+          "wordCount": 767,
+          "title": "「２０１勝目できるようにしっかり調整」　日米通算２００勝達成のダルビッシュ一問一答(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2568b53e03c2981efa54ce535781131ecaed68ed?source=rss",
+          "author": null,
+          "description": "築３００年の古民家を改装した奈良県宇陀市榛原八滝の「うだ薬湯の宿　やたきや」（田中太見夫（たみお）代表）で、薬草やジビエなど宇陀地域の魅力を紹介するイベントが開かれた。無農薬栽培の大和野菜を使った料理",
+          "link": "https://news.yahoo.co.jp/articles/2568b53e03c2981efa54ce535781131ecaed68ed?source=rss",
+          "publishedOn": "2024-05-20T03:20:44.000Z",
+          "wordCount": 749,
+          "title": "築３００年の古民家で里山文化継承へ地域の魅力紹介　薬草を使ったディナーも(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240520-00000052-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3a0bde98cdf9356d071dd7e770d07cdd714c26e5?source=rss",
+          "author": null,
+          "description": "日本ハム時代のダルビッシュの試合後の言葉を聞くのは楽しみだった。当時、報道陣の取材に応じる機会は少なかったが、試合後は比較的、詳細に話してくれた。その内容は驚くことばかりだった。\n\n鮮明に覚えているの",
+          "link": "https://news.yahoo.co.jp/articles/3a0bde98cdf9356d071dd7e770d07cdd714c26e5?source=rss",
+          "publishedOn": "2024-05-20T03:13:04.000Z",
+          "wordCount": 735,
+          "title": "変化恐れず、進化求めるダルビッシュ有　日本ハム時代から柔軟な発想力(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/84b8dfc7ce3270163442140c4af1a4a2459d002f?source=rss",
           "author": null,
