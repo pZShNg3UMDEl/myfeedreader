@@ -8393,6 +8393,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2405/20/news023.html",
+          "author": null,
+          "description": "コンガテックは、「Intel Atom x7000RE」または「インテル Core i3」プロセッサを備えた、産業用途向けのSMARCモジュール「conga-SA8」を発表した。前世代品の2倍となる8個のプロセッサコアを備える。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2405/20/news023.html",
+          "publishedOn": "2024-05-20T00:00:00.000Z",
+          "wordCount": 2594,
+          "title": "AI機能を搭載した産業用8コアSMARCモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/20/cover_news023.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2405/17/news116.html",
           "author": null,
           "description": "「EE Times Japan×EDN Japan 統合電子版」の2024年5月号を発行しました。今号のEE Exclusive（電子版限定先行公開記事）は、『米Advent Diamondが攻勢　商用利用が近づく「ダイヤモンド半導体」』です。",
@@ -13440,36 +13450,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121020/",
-          "author": null,
-          "description": "麻雀ゲームアプリ「雀魂」が原作の新作アニメ「じゃんたま カン!!」が、4月25日午後10時から「雀魂」の公式YouTubeチャンネルでプレミア配信されることが分かった。あわせてメインPVも披露さ...",
-          "link": "https://anime.eiga.com/news/121020/",
-          "publishedOn": "2024-04-20T13:00:00.000Z",
-          "wordCount": 1686,
-          "title": "「雀魂」原作の新作アニメ「じゃんたま カン!!」4月25日からYouTubeで配信開始",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121100/",
-          "author": null,
-          "description": "劇場アニメ「デッドデッドデーモンズデデデデデストラクション 後章」の本予告映像が公開された。 浅野いにお氏による漫画「デッドデッドデーモンズデデデデデストラクション」を映画化した2部作の後編。宇...",
-          "link": "https://anime.eiga.com/news/121100/",
-          "publishedOn": "2024-04-20T12:00:00.000Z",
-          "wordCount": 1684,
-          "title": "「デデデデ」後章の本予告映像が公開　謎の少年・大葉圭太が正体を明かし、物語は劇場版オリジナルの結末へ",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14276,6 +14256,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/853e1f2967718928cb03ce7ca606026d5c608ec8?source=rss",
+          "author": null,
+          "description": "大阪府熊取町で平成１５年５月、当時小学４年の吉川友梨さんが行方不明になった事件から２１年となった２０日、大阪府警は現在３０歳になった友梨さんを推定した似顔絵を公開した。似顔絵は骨格の加齢による変化を研",
+          "link": "https://news.yahoo.co.jp/articles/853e1f2967718928cb03ce7ca606026d5c608ec8?source=rss",
+          "publishedOn": "2024-05-20T00:48:28.000Z",
+          "wordCount": 742,
+          "title": "行方不明から２１年、吉川友梨さんの「３０歳」の似顔絵公開　骨格の成長から推定(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240520-00000027-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5dedf9a9caa877a5a27034dda0ae0acc4a7e23b9?source=rss",
+          "author": null,
+          "description": "イランのライシ大統領らが搭乗するヘリコプターが異常着陸したとされる問題で、イランと友好関係にあるロシアのプーチン大統領は、ヘリの捜索と救助活動に携わるチームをイランに派遣するよう露非常事態当局に命じた",
+          "link": "https://news.yahoo.co.jp/articles/5dedf9a9caa877a5a27034dda0ae0acc4a7e23b9?source=rss",
+          "publishedOn": "2024-05-20T00:31:35.000Z",
+          "wordCount": 769,
+          "title": "プーチン露大統領、救援チーム派遣を指示　イラン大統領搭乗のヘリ異常着陸で６０人規模(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240520-00000026-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/00dbbf5a6aefac384f3941ab1d65ccf18db553bb?source=rss",
+          "author": null,
+          "description": "伊藤沙莉をヒロインに日本初の女性弁護士で、のちに裁判官になった三淵嘉子さんの人生をもとにした物語を描く朝ドラ「虎に翼」。5月21日（火）放送回のあらすじを紹介する。\n\n※次回は5月21日（火）午前8時",
+          "link": "https://news.yahoo.co.jp/articles/00dbbf5a6aefac384f3941ab1d65ccf18db553bb?source=rss",
+          "publishedOn": "2024-05-20T00:04:25.000Z",
+          "wordCount": 768,
+          "title": "明日の「虎に翼」　優三（仲野太賀）との子供を授かる寅子（伊藤沙莉）＜5月21日放送＞(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240520-00000025-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/dcdd6b6715cfbc60771df9e6937d75c441aaa183?source=rss",
           "author": null,
@@ -32204,6 +32214,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=246078",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝マックメニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/mcdonalds-pancake-set",
+          "publishedOn": "2024-05-20T00:37:04.000Z",
+          "wordCount": 1796,
+          "title": "【マクドナルド】ホットケーキセット【朝マックメニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/2d4e4879e79ae87f6dab9abbc51f183c.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=246063",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 濃いキウイサイダー」を世界一詳しく調査しました。   公式YouTubeチ […]",
@@ -37665,6 +37685,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=73015",
+          "author": "299",
+          "description": "まんまるなお顔が可愛いキジ白の子猫が、おすわりをしたまま必死に眠気と戦っています。目はしょぼしょぼ、そして体はゆらゆらしていて今にもバタンと倒れて寝入ってしまいそうです。 なんとか目を閉じまいとしていますが睡魔の波は止ま...\n可愛すぎ〜！座ったまま寝てしまった子猫のクー first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/73015",
+          "publishedOn": "2024-05-20T00:00:27.000Z",
+          "wordCount": 1285,
+          "title": "可愛すぎ〜！座ったまま寝てしまった子猫のクー",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73015.jpeg"
+        },
+        {
           "id": "https://2-9-9.com/?p=72983",
           "author": "299",
           "description": "今日はドキドキハラハラの動物病院の診察日です。子猫たちはワクチン接種をするために3匹一緒にキャリーのなかに入れられて病院に連れていかれました。 狭いキャリーのなかで目をまんまるくして、どこへいくの？と不安そうにしている子...\nドキドキ〜子猫たちがワクチン接種のため動物病院へ！ first appeared on 肉球ドットコム（299.com）.",
@@ -41193,16 +41223,6 @@
           "wordCount": 1355,
           "title": "子猫達を初めてお風呂に入れてみた",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71065.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=71038",
-          "author": "299",
-          "description": "飼い主さんの帰宅が遅い日は、猫たちにはウェットフードを与えているようです。 この日も、帰宅が遅かったので美味しいウェットフードに舌鼓をうっている猫さんたちです。 黒猫さんのほうはあっという間にフードをぺろりと完食。隣でま...\n残りものを狙う猫たち first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/71038",
-          "publishedOn": "2024-04-20T13:00:49.000Z",
-          "wordCount": 1336,
-          "title": "残りものを狙う猫たち",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71038.jpeg"
         }
       ]
     },
