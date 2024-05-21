@@ -9421,16 +9421,6 @@
           "wordCount": 2569,
           "title": "FA機器に適したRS-485トランシーバー、速度は40Mbps",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/23/cover_news075.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/22/news046.html",
-          "author": null,
-          "description": "ユーブロックスは、Bluetooth LEモジュールのポートフォリオに「ALMA-B1」「NORA-B2」の2種を加した。ノルディックセミコンダクターのSoC「nRF54」シリーズを搭載している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/22/news046.html",
-          "publishedOn": "2024-04-22T00:00:00.000Z",
-          "wordCount": 2604,
-          "title": "消費電流を最大50％削減、ノルディック製SoCを搭載したBLEモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/22/cover_news046.jpg"
         }
       ]
     },
@@ -11386,6 +11376,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121301/",
+          "author": null,
+          "description": "人気SF映画シリーズの新たなオリジナルドラマシリーズ「スター・ウォーズ アコライト」の日本版声優が明らかになった。すでに発表されているファイルーズあい、諏訪部順一に加えて、武内駿輔、M・A・O、...",
+          "link": "https://anime.eiga.com/news/121301/",
+          "publishedOn": "2024-05-21T12:00:00.000Z",
+          "wordCount": 899,
+          "title": "武内駿輔、M・A・O、日野由利加が共演　「スター・ウォーズ　アコライト」日本版声優",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121311/",
           "author": null,
@@ -15226,6 +15231,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/dd2cffeab11357f6cd0dc7fa4a4ee3f6ec7bc578?source=rss",
+          "author": null,
+          "description": "大阪府東大阪市衣摺（きずり）の民家で顔や手などにあざがある状態で見つかり、死亡した住人の高田悦子さん（９４）について、大阪府警は２１日、司法解剖の結果、死因はくも膜下出血や脳挫傷による多発外傷と発表し",
+          "link": "https://news.yahoo.co.jp/articles/dd2cffeab11357f6cd0dc7fa4a4ee3f6ec7bc578?source=rss",
+          "publishedOn": "2024-05-21T12:10:07.000Z",
+          "wordCount": 735,
+          "title": "９４歳女性は殴られて死亡か、死因は多発外傷　複数骨折も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240521-00000229-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d8aa729018e11b41e86242e8360a589d2a626a69?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国の王毅（おう・き）共産党政治局員兼外相は２１日、台湾の総統に就任した頼清徳氏について「民族と祖先に背く恥ずべき行為」をしていると名指しで非難した。中国外務省が同日発表した。改めて",
+          "link": "https://news.yahoo.co.jp/articles/d8aa729018e11b41e86242e8360a589d2a626a69?source=rss",
+          "publishedOn": "2024-05-21T12:08:41.000Z",
+          "wordCount": 750,
+          "title": "中国外相が台湾の頼新総統を名指しで非難　「民族と祖先に背く恥ずべき行為」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240521-00000227-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/03d555173abcba5de8651476c6b0dd3bef469085?source=rss",
+          "author": null,
+          "description": "教員による性犯罪事件の公判をめぐり、横浜市教育委員会が職員を大量動員し、一般市民を傍聴席から閉め出した問題は、教育行政のトップである教育長の了承のもとで行われ、集団で傍聴したことが分からないようにする",
+          "link": "https://news.yahoo.co.jp/articles/03d555173abcba5de8651476c6b0dd3bef469085?source=rss",
+          "publishedOn": "2024-05-21T12:05:19.000Z",
+          "wordCount": 782,
+          "title": "揺らぐ教育行政への信頼　横浜市教委の教員性犯罪公判への職員動員、教育長も了承(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240521-00000226-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cdf11ce0e2787af0f9eaef1bad9879a7e26256fb?source=rss",
+          "author": null,
+          "description": "○宝富士（寄り切り）●一山本（夏場所１０日目＝２１日）\n\n勝って引き揚げてきた宝富士に気の早いファンから「優勝だ」の声が降り注いだ。２敗を守って、幕内の勝ち越し一番乗り。花道の奥で、近大相撲部の同期で",
+          "link": "https://news.yahoo.co.jp/articles/cdf11ce0e2787af0f9eaef1bad9879a7e26256fb?source=rss",
+          "publishedOn": "2024-05-21T12:02:04.000Z",
+          "wordCount": 734,
+          "title": "宝富士、２敗守って幕内勝ち越し一番乗り　大相撲夏場所１０日目(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240521-00000225-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0105b2a536a7d1eba5bb5c9554620fdc5b935054?source=rss",
+          "author": null,
+          "description": "大阪府枚方市中宮東之町のマンション一室で住人の大学生、渡辺華蓮（かれん）さん（１９）が殺害された事件で、殺人容疑で逮捕された無職の西光勝容疑者（２６）＝兵庫県明石市魚住町長坂寺＝が、「借金があり、渡辺",
+          "link": "https://news.yahoo.co.jp/articles/0105b2a536a7d1eba5bb5c9554620fdc5b935054?source=rss",
+          "publishedOn": "2024-05-21T11:59:49.000Z",
+          "wordCount": 743,
+          "title": "女子大生殺害、50カ所の刃物傷　逮捕の男「借金あり秘密にしていた」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240521-00000224-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d37112ac67faf9694ae946056565cf353e4a87a3?source=rss",
+          "author": null,
+          "description": "２０２５年大阪・関西万博を運営する日本国際博覧会協会は２１日、会場となる夢洲（ゆめしま）（大阪市此花区）で建設中の大屋根（リング）の夜間照明を点灯させ、報道陣に公開した。パビリオンなどの建設が進む真っ",
+          "link": "https://news.yahoo.co.jp/articles/d37112ac67faf9694ae946056565cf353e4a87a3?source=rss",
+          "publishedOn": "2024-05-21T11:53:49.000Z",
+          "wordCount": 741,
+          "title": "万博リングで試験点灯　暗闇に巨大な木組みが浮かび上がる(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240521-00000223-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/451000cac07446b65590a54941268fd171fe8c83?source=rss",
           "author": null,
@@ -44093,16 +44158,6 @@
           "wordCount": 1336,
           "title": "そろそろミルクの時間にゃね？",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71160.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=71190",
-          "author": "299",
-          "description": "今回ご紹介するのは可愛すぎる子猫ちゃんです。 あまりの可愛さに兄弟猫だけでなく飼い主さんまでメロメロ状態になっていました。 それでは子猫ちゃんの愛らしい姿をご覧ください。 最初は兄弟猫のレオくんが子猫のココちゃんにハマっ...\n兄弟猫だけでなく飼い主さんまでメロメロにしてしまう魔性の子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/71190",
-          "publishedOn": "2024-04-22T00:00:42.000Z",
-          "wordCount": 1342,
-          "title": "兄弟猫だけでなく飼い主さんまでメロメロにしてしまう魔性の子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71190.jpeg"
         }
       ]
     },
