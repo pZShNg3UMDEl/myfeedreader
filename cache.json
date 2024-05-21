@@ -8783,6 +8783,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2405/21/news064.html",
+          "author": null,
+          "description": "NXPセミコンダクターズは、産業およびIoT用途向けのワイヤレスマイクロコントローラー「MCX W」シリーズを発表した。MCXファミリーに多様な接続性が加わることで、IoTデバイスの開発を支援する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2405/21/news064.html",
+          "publishedOn": "2024-05-21T00:00:00.000Z",
+          "wordCount": 2541,
+          "title": "無線サブシステムを搭載した産業／IoT向けワイヤレスMCU",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/21/cover_news064.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2405/20/news083.html",
           "author": null,
           "description": "温室効果ガスの排出量を実質ゼロに抑える「ネット・ゼロ」を世界レベルで達成するためには、通信用インフラのデジタル化が必要不可欠です。本稿では、シングルペアイーサネットを導入することにより、ビルのデジタル化を図る方法について説明します。",
@@ -13920,21 +13930,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121088/",
-          "author": null,
-          "description": "森山未來が出演する日仏合作アニメーション映画「化け猫あんずちゃん」が、第77回カンヌ国際映画祭「監督週間」に選出された。 実写映像を元にアニメに描き起こすロトスコープの手法を用いた制作方法でも注...",
-          "link": "https://anime.eiga.com/news/121088/",
-          "publishedOn": "2024-04-21T12:00:00.000Z",
-          "wordCount": 1592,
-          "title": "久野遥子＆山下敦弘監督の日仏合作アニメ「化け猫あんずちゃん」第77回カンヌ国際映画祭監督週間に出品",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14731,6 +14726,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d0f9ca9d5a07d159b62470027e6a85e96be70f79?source=rss",
+          "author": null,
+          "description": "イスラエルとイスラム原理主義組織ハマスの戦闘を巡り、国際刑事裁判所（ＩＣＣ）のカーン主任検察官は２０日、イスラエルのネタニヤフ首相やガラント国防相のほか、ハマスのハニヤ最高指導者ら３人の逮捕状を請求し",
+          "link": "https://news.yahoo.co.jp/articles/d0f9ca9d5a07d159b62470027e6a85e96be70f79?source=rss",
+          "publishedOn": "2024-05-21T00:53:02.000Z",
+          "wordCount": 699,
+          "title": "ＩＣＣ検察官、イスラエルとハマスの５人の逮捕状請求　双方から批判の声(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7acb5678ca411cd6cf97ad522c0184404d3520a9?source=rss",
+          "author": null,
+          "description": "【ワシントン＝大内清】米ホワイトハウスのカービー大統領補佐官は２０日のオンライン記者会見で、イランのライシ大統領がヘリコプター事故で死亡したことに「弔意」を表明した。一方でカービー氏は、ライシ師は「手",
+          "link": "https://news.yahoo.co.jp/articles/7acb5678ca411cd6cf97ad522c0184404d3520a9?source=rss",
+          "publishedOn": "2024-05-21T00:52:18.000Z",
+          "wordCount": 697,
+          "title": "米、イラン大統領は「血塗られている」　事故死に「弔意」も武装勢力支援を批判(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6bbe289092fec2c0ac691e20572e6710472861d1?source=rss",
+          "author": null,
+          "description": "栃木県那須町の河川敷で会社役員夫妻の焼損遺体が見つかった事件で、警視庁・栃木県警合同捜査本部が２１日、殺人の疑いで実行役の姜光紀容疑者（２０）と若山耀人（きらと）容疑者（２０）を再逮捕したことが捜査関",
+          "link": "https://news.yahoo.co.jp/articles/6bbe289092fec2c0ac691e20572e6710472861d1?source=rss",
+          "publishedOn": "2024-05-21T00:50:05.000Z",
+          "wordCount": 715,
+          "title": "殺人容疑で実行役２人を再逮捕　那須２遺体(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/42145dacf4005ac5b3fe9b4f84d42338621b4cf9?source=rss",
           "author": null,
@@ -33649,6 +33674,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=246207",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ハーゲンダッツ クリーミーコーン レモンホワイトチョコレート＆マカデミア」を世界一詳しく調査しました。 […]",
+          "link": "https://foodfighter.jp/711sej-hd-lemon-white-cone",
+          "publishedOn": "2024-05-21T00:21:40.000Z",
+          "wordCount": 1769,
+          "title": "【セブンイレブン】ハーゲンダッツ クリーミーコーン レモンホワイトチョコレート＆マカデミア【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/a024c5ce9309a0b9b4b478e16b0f2171.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=246174",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム チョコミントアイス」を世界一詳しく調査しました。   公式YouTubeチ […]",
@@ -39151,16 +39186,6 @@
           "wordCount": 2360,
           "title": "アメリカ「戦車は、ゴミです。1000万＄のエイブラムス戦車が500＄のドローンで破壊されました」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/9/79a42ca2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2034888.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/04/21(日) 10:49:45.97 ID:i//qaUBG0●.net\n\n\n\n\n\n\n\n高さ約１メートルの段差に気付かず自転車ごと転落か５５歳の男性死亡…津山市で交通死亡事故【岡山】続きは→https://t.co/fldAjB9QmV pic.twitter.com/kzWvDkTO4q— 岡山・香川...",
-          "link": "https://itainews.com/archives/2034888.html",
-          "publishedOn": "2024-04-21T12:30:04.000Z",
-          "wordCount": 2390,
-          "title": "自転車で擁壁に気づかず、１メートルの高さからダイブして死亡",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/2/92a18f28-s.png"
         }
       ]
     },
@@ -39169,6 +39194,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=73076",
+          "author": "299",
+          "description": "ピンクのふかふかベッドの中に入って寝転がっている子猫のひのきですが、なんだか変な格好でくつろいでいます。ベッドの使い方がどう見てもおかしいですね。 あおむけになった状態で周囲をキョロキョロしながら眺めています。ひのきの目...\n上下逆さまの世界を楽しむ子猫のひのき first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/73076",
+          "publishedOn": "2024-05-21T00:00:35.000Z",
+          "wordCount": 1284,
+          "title": "上下逆さまの世界を楽しむ子猫のひのき",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73076.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=73045",
           "author": "299",
@@ -42698,16 +42733,6 @@
           "wordCount": 1334,
           "title": "野良の子猫たちが時間をかけて人間に慣れてくる様子にウルっとします",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71137.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=71119",
-          "author": "299",
-          "description": "小さなスツールの下でポカーンとした表情の子猫のうりちゃん。あどけない表情が可愛すぎます。その上にはクリアボウルが置いてありますが、中には子猫のコロちゃんが入り込んでいます。 コロちゃんはなぜだかこのボウルの中に入るのが超...\nちっちゃくてもパワフルな喧嘩をする赤ちゃん猫兄妹 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/71119",
-          "publishedOn": "2024-04-21T13:00:27.000Z",
-          "wordCount": 1335,
-          "title": "ちっちゃくてもパワフルな喧嘩をする赤ちゃん猫兄妹",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71119.jpeg"
         }
       ]
     },
