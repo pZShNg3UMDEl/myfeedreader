@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T20:15:04.712Z</updated>
+    <updated>2024-05-22T20:27:04.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -53,6 +53,16 @@
         <link href="https://ninten-switch.com/orbwars-for-nintendo-switch-2024-0523-released"/>
         <updated>2024-05-22T19:42:52.000Z</updated>
         <summary type="html"><![CDATA[Nintendo Switch用ソフト『OrbWars』が、国内向けとして2024年5月23日から配信開始となりました。 販売価格は1,600円(税込)に設定されています。 本作は、ドイツのインディースタジオNeox G […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch用ソフト『Scarlet Tower』が2024年5月23日から配信開始！]]></title>
+        <id>https://ninten-switch.com/?p=360694</id>
+        <link href="https://ninten-switch.com/scarlet-tower-for-nintendo-switch-2024-0523-released"/>
+        <updated>2024-05-22T19:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Scarlet Tower』が、2024年5月23日から配信開始となりました。 販売価格は499円(税込)に設定されています。 本作は、Pyxeralia LLCによって開発された […]]]></summary>
         <author>
             <name>管理人</name>
         </author>
