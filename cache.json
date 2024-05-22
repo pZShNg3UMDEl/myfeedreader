@@ -6,6 +6,36 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/585/G058501/20240522013/",
+          "author": null,
+          "description": "Ubisoftは本日，「エックスディファイアント」の配信を開始した。本作は，「ディビジョン」「スプリンターセル」など同社作品からインスパイアを受けた勢力が登場する基本プレイ無料の新作FPSだ。ゲームモードは，ゾーンを制圧するアリーナと，攻撃/防御側で戦うリニアが用意されている。",
+          "link": "https://www.4gamer.net/games/585/G058501/20240522013/",
+          "publishedOn": "2024-05-22T04:06:51.000Z",
+          "wordCount": 7148,
+          "title": "Ubisoft作品から勢力が参戦して戦う基本無料FPS「エックスディファイアント」，本日配信",
+          "imageUrl": "https://www.4gamer.net/games/585/G058501/20240522013/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/460/G046000/20240522014/",
+          "author": null,
+          "description": "セガは本日，PlayStationStoreおよびニンテンドーeショップで販売中のDL版タイトルを割引価格で販売する「セガ5月スペシャルセール」を開始した。期間は6月5日まで。本セールでは，「龍が如く7光と闇の行方」「ペルソナ5タクティカ」「世界樹の迷宮I･II･IIIHDREMASTER」などが割引対象となる。",
+          "link": "https://www.4gamer.net/games/460/G046000/20240522014/",
+          "publishedOn": "2024-05-22T04:05:14.000Z",
+          "wordCount": 7288,
+          "title": "「龍が如く7 光と闇の行方」が20％オフ，「ペルソナ5 タクティカ」が30％オフ。「セガ 5月スペシャルセール」が本日開始",
+          "imageUrl": "https://www.4gamer.net/games/460/G046000/20240522014/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/714/G071458/20240522010/",
+          "author": null,
+          "description": "Kwaleeは2024年5月21日，アクションアドベンチャー「ThePrecinct」のムービーを公開した。主人公の新人警察官であるニック・コーデル・ジュニアが駐車違反や落書き，銀行強盗など，自動生成されるさまざまな事件に対処するシーンが確認できる。",
+          "link": "https://www.4gamer.net/games/714/G071458/20240522010/",
+          "publishedOn": "2024-05-22T03:53:00.000Z",
+          "wordCount": 7073,
+          "title": "“アメリカ警察24時”なアクションADV「The Precinct」のムービー公開。自動生成される事件に対処し，市民の安全を守れ",
+          "imageUrl": "https://www.4gamer.net/games/714/G071458/20240522010/SS/006.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/390/G039084/20240522012/",
           "author": null,
           "description": "Yostarが配信するスマホアプリ「アズールレーン」で，新イベント「赫輝のマルティリウム」が6月13日のメンテナンスまで開催されている。今回は，指揮官がアイリス陣営の艦船たちと共に作戦に挑む物語が展開される。また，UR戦艦「アルザス」を含む新たな艦船たちが先行実装された。",
@@ -11285,16 +11315,6 @@
           "wordCount": 4146,
           "title": "TriEye and Vertilas 1.3μm VCSEL-Driven SWIR Sensing Solutions",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/04/camera-identification-from.html",
-          "author": null,
-          "description": "In a recent article in Optics Express titled \"Watching the watchers: camera identification and characterization using retro-reflections,\", Seets et al. from University of Wisconsin-Madison write:\nA focused imaging system such as a camera will reflect light directly back at a light source in a retro-reflection (RR) or cat-eye reflection. RRs provide a signal that is largely independent of distance providing a way to probe cameras at very long ranges. We find that RRs provide a rich source of information on a target camera that can be used for a variety of remote sensing tasks to characterize a target camera including predictions of rotation and camera focusing depth as well as cell phone model classification. We capture three RR datasets to explore these problems with both large commercial lenses and a variety of cell phones. We then train machine learning models that take as input a RR and predict different parameters of the target camera. Our work has applications as an input device, in privacy protection, identification, and image validation.\n Link: https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-13836&id=548474",
-          "link": "http://image-sensors-world.blogspot.com/2024/04/camera-identification-from.html",
-          "publishedOn": "2024-04-22T16:12:00.006Z",
-          "wordCount": 3912,
-          "title": "Camera identification from retroreflection signatures",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU6tZ253rJ4RDdmotuLbGdQYZ7FeAbmH5HyC9fj9jqZSTAE20f5mICelEfHZLgz1TuJ5BrmUef-W0u_uOhzXpmWEltwN65MKF2Iqs14H3JUFj36CdIk0umcgB8bb2ASIKUHKDM_CTms9MwAXxz_DPdUnL3KnpDHBgTlD0DOG_fcirMbuEiOcFh/w1200-h630-p-k-no-nu/Capture1.PNG"
         }
       ]
     },
@@ -15256,6 +15276,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/bf6793b2c6cbc6a44649dc0dc883b474f32b28fc?source=rss",
+          "author": null,
+          "description": "醸造大手のキッコーマンが、千葉県野田市に建設した子会社「キッコーマンフードテック」の新工場の竣工式が２１日、開かれた。最新技術を導入し、自動化・省人化を図ることで、生産効率はこれまでの約３倍に向上する",
+          "link": "https://news.yahoo.co.jp/articles/bf6793b2c6cbc6a44649dc0dc883b474f32b28fc?source=rss",
+          "publishedOn": "2024-05-22T03:54:44.000Z",
+          "wordCount": 738,
+          "title": "キッコーマンが創業の地の千葉県野田市に新工場　しょうゆ関連調味料の生産体制強化(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000063-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e70f6711f46b3cffe37d07f3bb322d15583b54cc?source=rss",
+          "author": null,
+          "description": "山梨県富士河口湖町で、外国人観光客に人気の富士山撮影スポット、通称「富士山ローソン」で目隠し幕が設置されたことを契機に、各国メディアが相次いで日本のオーバーツーリズム問題をとりあげている。\n\n■「崖っ",
+          "link": "https://news.yahoo.co.jp/articles/e70f6711f46b3cffe37d07f3bb322d15583b54cc?source=rss",
+          "publishedOn": "2024-05-22T03:50:36.000Z",
+          "wordCount": 785,
+          "title": "日本が誇るおもてなし精神もついに限界か　「富士山ローソン」契機に外国メディアも論議(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000062-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/106ed555382df7bad92b758eecfe50076469852f?source=rss",
           "author": null,
@@ -40884,6 +40924,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=73117",
+          "author": "299",
+          "description": "ふかふかのお布団の隙間からひょっこり小さな顔がのぞいています。生後1ヶ月の子猫がお布団のなかでかくれんぼをしているようです。 するととんがった爪が飼い主さんの着ていたシャツにひっかかってしまいました。 前足を必死に上下に...\n飼い主さんに甘えていたら爪がひっかかっちゃった子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/73117",
+          "publishedOn": "2024-05-22T04:00:50.000Z",
+          "wordCount": 1288,
+          "title": "飼い主さんに甘えていたら爪がひっかかっちゃった子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73117.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=73113",
           "author": "299",
