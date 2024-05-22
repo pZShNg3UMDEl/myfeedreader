@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/999/G999905/20240522052/",
+          "author": null,
+          "description": "TVアニメ「ポケットモンスター」のメンズ向けアパレルアイテムが全国のドン・キホーテにて2024年5月25日から販売される。登場するのは，ミミッキュやシャリタツ，パモなどが描かれたかわいらしいデザインのパイル上下セット7種と，裏毛ハーフパンツ8種だ。",
+          "link": "https://www.4gamer.net/games/999/G999905/20240522052/",
+          "publishedOn": "2024-05-22T11:02:06.000Z",
+          "wordCount": 7344,
+          "title": "ミミッキュやシャリタツ，パモなどをデザインした「ポケモン」のアパレル商品が登場。全国のドン・キホーテで5月25日から販売",
+          "imageUrl": "https://www.4gamer.net/games/999/G999905/20240522052/SS/004.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/274/G027460/20240522046/",
           "author": null,
           "description": "静嘉堂文庫美術館の公式Xで本日，刀剣育成シミュレーション「刀剣乱舞ONLINE」とのコラボで，ナイトミュージアムイベントを7月27日から8月11日まで開催すると発表した。本イベントは，「超・日本刀入門revive―鎌倉時代の名刀に学ぶ」展の会期中，閉館後に貸し切った美術館にて行われるもの。",
@@ -11727,6 +11737,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/konki_ranking/121314/",
+          "author": null,
+          "description": "5月第4週の2024年春アニメ録画ランキングは、「鬼滅の刃 柱稽古編」が2週連続で首位となった。2位の「転生したらスライムだった件（第3期）」とのポイント差は約3倍まで開き、ランキング内で一強の...",
+          "link": "https://anime.eiga.com/news/column/konki_ranking/121314/",
+          "publishedOn": "2024-05-22T11:00:00.000Z",
+          "wordCount": 906,
+          "title": "【今期TVアニメランキング】「鬼滅の刃 柱稽古編」2週連続首位　「転スラ」「怪獣8号」が高順位",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/stage_sugoi/121315/",
           "author": null,
           "description": "久保帯人氏による人気漫画「BLEACH」が原作の「ROCK MUSICAL BLEACH」。初演は2005年で、当時も大きな話題を集めた2.5次元舞台の先駆けのような作品です。16年に上演された...",
@@ -15591,6 +15616,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ead42aee347cecdffab52428d00e6735c177f238?source=rss",
+          "author": null,
+          "description": "一般ドライバーが自家用車を使って乗客を有償で運ぶ「ライドシェア」が４月に条件付きで解禁されて１カ月余り。政府は全面解禁に向けた論点整理を進めるが、乗客の安全やドライバー確保といった課題がなお山積し、「",
+          "link": "https://news.yahoo.co.jp/articles/ead42aee347cecdffab52428d00e6735c177f238?source=rss",
+          "publishedOn": "2024-05-22T11:00:00.000Z",
+          "wordCount": 803,
+          "title": "「移動難民の解消になお課題」　ライドシェア解禁「住民の足」確保へ続く模索(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000187-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ed725790d0bbe3651e5eebabf9cf4aa1d8502ff1?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国政府は２２日、米国の防衛関連企業１２社と幹部ら１０人に制裁を科すと発表した。ウクライナに侵略したロシアを巡る米国の制裁に中国企業が含まれていることに加え、米国の台湾への武器売却を",
+          "link": "https://news.yahoo.co.jp/articles/ed725790d0bbe3651e5eebabf9cf4aa1d8502ff1?source=rss",
+          "publishedOn": "2024-05-22T10:55:55.000Z",
+          "wordCount": 750,
+          "title": "中国が米軍需企業に制裁　台湾への武器売却やロシア巡る対中制裁に反発　３日連続対米制裁(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8b6d2d3f6aa931167d3ae1769b0dbdb0d519c9f4?source=rss",
+          "author": null,
+          "description": "農林中央金庫が令和７年３月期に５千億円超もの最終赤字を計上する見通しとなった背景には、農業協同組合（ＪＡ）などから預かった資金の運用を外国債に依存していたことがある。リーマン・ショック時にリスクの高い",
+          "link": "https://news.yahoo.co.jp/articles/8b6d2d3f6aa931167d3ae1769b0dbdb0d519c9f4?source=rss",
+          "publishedOn": "2024-05-22T10:51:24.000Z",
+          "wordCount": 749,
+          "title": "農林中金が巨額赤字へ、外国債依存で裏目　米金利動向見通せず(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000185-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f7eb24dd257b992f926c0309743b4b76ff343ea4?source=rss",
+          "author": null,
+          "description": "岸田文雄首相（自民党総裁）は２２日の参院予算委員会で、派閥の政治資金パーティー収入不記載事件を受けた政治資金規正法改正の自民案を巡り集中砲火を受けた。野党は批判を続け、連立与党の公明党も不十分だと指摘",
+          "link": "https://news.yahoo.co.jp/articles/f7eb24dd257b992f926c0309743b4b76ff343ea4?source=rss",
+          "publishedOn": "2024-05-22T10:50:02.000Z",
+          "wordCount": 759,
+          "title": "政治資金規正法、自民孤立か　公明は「不十分」、野党は批判で前途多難　参院予算委(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000184-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2ee96102603b9117dde4232df0b250a047a4fe63?source=rss",
           "author": null,
@@ -36219,6 +36284,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=246388",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム ふわもちロールケーキ ミルク」を世界一詳しく調査しました。   公式You […]",
+          "link": "https://foodfighter.jp/711sej-roll-cake-milk",
+          "publishedOn": "2024-05-22T10:50:28.000Z",
+          "wordCount": 1765,
+          "title": "【セブンイレブン】セブンプレミアム ふわもちロールケーキ ミルク【新作スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/a57a03856956e803bd2ab01ec89b5ade.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=246366",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャン […]",
@@ -37657,16 +37732,6 @@
           "wordCount": 1819,
           "title": "【松屋】ポーランド風ミエロニィハンバーグ定食【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/d3e7f8f54071132fceaa6a168c790ea1.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=243134",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」へ […]",
-          "link": "https://foodfighter.jp/komeda-shiro-noir-ghana-milk",
-          "publishedOn": "2024-04-22T23:01:19.000Z",
-          "wordCount": 1970,
-          "title": "【コメダ珈琲店】シロノワール ガーナミルク ミニサイズ【ロッテガーナチョコレートコラボ、新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/04/18001a5b5dd730eb2b88c7d1cebdc35c-rotated.jpg"
         }
       ]
     },
@@ -41849,6 +41914,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=73129",
+          "author": "299",
+          "description": "子猫の豆大福が寝転がっていたお兄ちゃんのお腹の上に早速のぼってきました。 豆大福は、もともとお兄ちゃんのことが大のお気に入りということもあり、お兄ちゃんが横になっているとすかさず上に乗ってくるのです。 お兄ちゃんのお腹の...\nお兄ちゃんのお腹の上でぐっすり眠る子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/73129",
+          "publishedOn": "2024-05-22T11:00:13.000Z",
+          "wordCount": 1284,
+          "title": "お兄ちゃんのお腹の上でぐっすり眠る子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73129.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=73125",
           "author": "299",
