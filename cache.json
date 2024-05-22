@@ -9831,16 +9831,6 @@
           "wordCount": 2588,
           "title": "ステップアップ形DC/DCコンバーターの設計（1）基本回路と動作原理",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/25/l_tt240225_Middle_001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2404/23/news075.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、RS-485トランシーバー「ST4E1240」を発表した。40Mビット/秒（bps）の速度、PROFIBUSフィールドバス規格に準拠の出力、過渡保護、ホットスワップ保護を備える。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2404/23/news075.html",
-          "publishedOn": "2024-04-23T00:00:00.000Z",
-          "wordCount": 2569,
-          "title": "FA機器に適したRS-485トランシーバー、速度は40Mbps",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2404/23/cover_news075.jpg"
         }
       ]
     },
@@ -11746,6 +11736,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121279/",
+          "author": null,
+          "description": "福本莉子とジェシー（「SixTONES」）が、人気漫画を実写映画化する「お嬢と番犬くん」で初共演し、ともに主演を務めることがわかった。撮影は6～8月に行われ、公開は2025年春を予定している。 ...",
+          "link": "https://anime.eiga.com/news/121279/",
+          "publishedOn": "2024-05-22T12:00:00.000Z",
+          "wordCount": 906,
+          "title": "ジェシーが福本莉子の“番犬”に　溺愛ラブコメ「お嬢と番犬くん」が実写映画化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/konki_ranking/121314/",
           "author": null,
@@ -15626,6 +15631,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/42aa6c40454778f2738ab54ca0c774ba9ce197a6?source=rss",
+          "author": null,
+          "description": "悪質なホストクラブなどで女性客が多額の売掛金（ツケ払い）による借金を背負い、売春などを強いられる問題を巡り、被害当事者と保護者、支援団体が２２日、厚生労働省で武見敬三厚労相らと面会した。武見氏は「この",
+          "link": "https://news.yahoo.co.jp/articles/42aa6c40454778f2738ab54ca0c774ba9ce197a6?source=rss",
+          "publishedOn": "2024-05-22T12:16:44.000Z",
+          "wordCount": 789,
+          "title": "悪質ホストクラブ問題　武見敬三厚労相が相談体制強化の考え示す　海外売春被害者らと面会(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000209-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7f6ac318c1bb08b6d0717d5fce6088115c87ad83?source=rss",
+          "author": null,
+          "description": "日本生命保険は２２日、２０２５年大阪・関西万博の「大阪ヘルスケアパビリオン」（大阪館）に出展する「人生ゲーム」の詳細な内容を発表した。同名のボードゲームとタイアップした企画で、参加者は未来の大阪で「い",
+          "link": "https://news.yahoo.co.jp/articles/7f6ac318c1bb08b6d0717d5fce6088115c87ad83?source=rss",
+          "publishedOn": "2024-05-22T12:10:20.000Z",
+          "wordCount": 739,
+          "title": "万博で人生ゲーム　「いのち・健康」競う　日本生命、大阪館の企画詳細を発表(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/07d79e671fef8e30ef7006216550dcc9a6276276?source=rss",
+          "author": null,
+          "description": "昭和４１年、静岡県でみそ製造会社の専務ら一家４人が殺害された事件で死刑が確定した袴田巌さんの再審公判で２２日、検察側は再び死刑を求刑した。犯行着衣とされた「５点の衣類」に捏造（ねつぞう）の可能性が指摘",
+          "link": "https://news.yahoo.co.jp/articles/07d79e671fef8e30ef7006216550dcc9a6276276?source=rss",
+          "publishedOn": "2024-05-22T12:06:49.000Z",
+          "wordCount": 740,
+          "title": "袴田さん死刑求刑　検察、証拠並べ「極刑、避けられない」　「負け戦」批判も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000206-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/da5760c3d77b36963622787584f6ea810b73848a?source=rss",
+          "author": null,
+          "description": "バス運転手の時間外労働時間の上限が規制される「２０２４年問題」をめぐる人手不足が修学旅行にも影響している。旅行業界大手の近畿日本ツーリストが中学校の修学旅行で貸し切りバスを手配できず、一部行程を変更す",
+          "link": "https://news.yahoo.co.jp/articles/da5760c3d77b36963622787584f6ea810b73848a?source=rss",
+          "publishedOn": "2024-05-22T12:04:09.000Z",
+          "wordCount": 801,
+          "title": "２０２４年問題が修学旅行を直撃　バス運転手を確保できず　路線バスの大幅減便も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000205-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b79e3a2b79ccbfe6e7b000426ff58e88f5fa7691?source=rss",
+          "author": null,
+          "description": "「安全保障や貿易、科学技術など各分野で米国と協力関係を深めたい。台米関係のさらなる発展を期待している」\n\n２０日午後、就任式を終えた直後の台湾の新総統、頼清徳氏は総統府でアーミテージ元国務副長官ら米国",
+          "link": "https://news.yahoo.co.jp/articles/b79e3a2b79ccbfe6e7b000426ff58e88f5fa7691?source=rss",
+          "publishedOn": "2024-05-22T12:03:52.000Z",
+          "wordCount": 815,
+          "title": "「もしトラ」で関係構築急ぐ、対日の先行きにも懸念　台湾・頼清徳政権の行方（下）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000204-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cef69ba3937a0ee2ab5159ea3bab0d2189d8a192?source=rss",
+          "author": null,
+          "description": "ホストクラブで女性客が高額な売掛金（つけ払い）を支払うため売春するケースが相次いでいる問題を巡っては、大阪市の繁華街ミナミを管轄する大阪府警も取り締まりを強化している。ホストが飲食代を肩代わりして客に",
+          "link": "https://news.yahoo.co.jp/articles/cef69ba3937a0ee2ab5159ea3bab0d2189d8a192?source=rss",
+          "publishedOn": "2024-05-22T11:56:35.000Z",
+          "wordCount": 743,
+          "title": "ホストが借金の保証人に　「女性追い込む構造は売掛金と同じ」　大阪府警も取り締まり強化(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240522-00000203-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/ebe36dcbd6c3c8a6771bd095b37daa19b56c33b5?source=rss",
           "author": null,
@@ -45513,16 +45578,6 @@
           "wordCount": 1336,
           "title": "日を追うごとにできることが増えてくる子猫の成長を見守るしあわせ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71218.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=71243",
-          "author": "299",
-          "description": "遊び疲れた子猫がソファの上でお行儀よく座った姿勢のままでユーラユーラと揺れながら寝落ち寸前になっています。 ちょっと油断すれば目が閉じてしまうほどの睡魔に襲われているのですが、なんとか踏ん張っている様子がキュートです。 ...\nちょこんとお座りポーズのまま寝落ち寸前の子猫が可愛い！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/71243",
-          "publishedOn": "2024-04-23T00:00:11.000Z",
-          "wordCount": 1335,
-          "title": "ちょこんとお座りポーズのまま寝落ち寸前の子猫が可愛い！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/04/71243.jpeg"
         }
       ]
     },
@@ -45531,6 +45586,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wlSwxvYOakM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wlSwxvYOakM",
+          "publishedOn": "2024-05-22T12:00:59.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】同期5人で仲良し大反省会を覗き見【チョコレートプラネット／シソンヌ／パンサー向井】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IB8HxgWwahs",
           "author": null,
