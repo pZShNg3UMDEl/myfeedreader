@@ -4472,6 +4472,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121370/",
+          "author": null,
+          "description": "俳優の高橋文哉が、7月にスタートするテレビ朝日系連続ドラマ「伝説の頭（ヘッド） 翔」（毎週金曜午後11時15分）に主演することがわかった。原作は、「クロサギ」や「正直不動産」など、多くの実写化漫...",
+          "link": "https://anime.eiga.com/news/121370/",
+          "publishedOn": "2024-06-09T12:00:00.000Z",
+          "wordCount": 789,
+          "title": "「伝説の頭 翔」高橋文哉主演で実写ドラマ化　初の一人二役で“最強と最弱”を演じ分ける",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121385/",
           "author": null,
           "description": "M・ナイト・シャマラン監督の娘であるイシャナ・ナイト・シャマランが長編初監督を務めたホラー「ザ・ウォッチャーズ」の特別映像が公開された。ホラー好きで「鬼滅の刃」我妻善逸役などで知られる声優・下野...",
@@ -7315,21 +7330,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121252/",
-          "author": null,
-          "description": "公開中の「劇場版ブルーロック EPIOSODE 凪」で上映される、週替わりミニアニメ「あでぃしょなる・たいむ！」に小林千晃の出演が決定した。 小林が演じるのは、テレビアニメ第1期や劇場版でも姿だ...",
-          "link": "https://anime.eiga.com/news/121252/",
-          "publishedOn": "2024-05-11T00:00:00.000Z",
-          "wordCount": 887,
-          "title": "「劇場版ブルーロック」併映のミニアニメ最新エピソードに小林千晃が黒名蘭世役で出演",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -8286,6 +8286,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ded0980d0cf4a4da59b7b823c5fe74e8964ccaa4?source=rss",
+          "author": null,
+          "description": "ペン立てに靴べら、孫の手…。折れた木製バットを多様な日用品に再加工する。付加価値を持たせて廃棄物を生まれ変わらせる「アップサイクル」と呼ばれる取り組みで、近年プロ野球チームや大手スポーツ用品メーカーな",
+          "link": "https://news.yahoo.co.jp/articles/ded0980d0cf4a4da59b7b823c5fe74e8964ccaa4?source=rss",
+          "publishedOn": "2024-06-09T12:00:00.000Z",
+          "wordCount": 811,
+          "title": "折れたバットの再生で社会貢献　靴べら・ペン立てに変身…　ドジャース大砲にもプレゼント(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240609-00000121-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/83347ec420f883cf56fcabc4ee804b36108b144f?source=rss",
           "author": null,
@@ -35995,16 +36005,6 @@
           "wordCount": 817,
           "title": "今季のボールは飛ばない？　プロ野球で本塁打大幅減　投手の能力向上を指摘する声も　　プロ野球通信(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000049-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5f8468f436963e8455106af52beae1866e72afaf?source=rss",
-          "author": null,
-          "description": "４月の韓国総選挙で韓国のテレビ記者団体から選挙特番について特派員の目から論評してほしいとの依頼があり、各局の特番をじっくり見比べてみた。多くの局が投票日の午後から翌日未明まで特番を流し続ける力の入れ方",
-          "link": "https://news.yahoo.co.jp/articles/5f8468f436963e8455106af52beae1866e72afaf?source=rss",
-          "publishedOn": "2024-05-11T00:00:00.000Z",
-          "wordCount": 744,
-          "title": "韓国の選挙特番、絶えぬ苦労　候補者、ＣＧ映像や映画の名シーンに合成も　ソウルからヨボセヨ(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240511-00000048-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -36013,6 +36013,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=248503",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、定番メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」 […]",
+          "link": "https://foodfighter.jp/komeda-ogura-toast-2024",
+          "publishedOn": "2024-06-09T11:47:29.000Z",
+          "wordCount": 1926,
+          "title": "【コメダ珈琲店】小倉トースト【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/63b7d32a7bc49cb4871bd6c2b6746aa4.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=248483",
           "author": "foodfighter",
@@ -37560,6 +37570,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036397.html",
+          "author": "damono3856",
+          "description": "1 名前： ：2024/06/09(日) 09:14:10.36 ID:eMXCByJm0●.net\n\n\n\n\n\n\n\nH5N1型鳥インフルのヒト感染、豪で初確認 インド帰りの女児 WHO https://t.co/uHpsYHJarT— AFPBB News (@afpbbcom) June 8, 2024  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n引用元\nhttps://news.goo.ne.jp/article/afpbb/wo...",
+          "link": "https://itainews.com/archives/2036397.html",
+          "publishedOn": "2024-06-09T12:01:41.000Z",
+          "wordCount": 2538,
+          "title": "【悲報】オーストラリア、女児が鳥インフルエンザに感染したと発表　＼(^o^)／ｵﾜﾀ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/5/95f3f44c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036384.html",
           "author": "damono3856",
@@ -45386,16 +45406,6 @@
           "wordCount": 1288,
           "title": "ママ猫を探して鳴き続ける子猫がやっとママを見つけました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72399.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72425",
-          "author": "299",
-          "description": "朝になりお母さんがカーテンを開けるとベッドの上には柴犬のももと猫の天と空が仲良く寝ていました。カーテンが開いていきなり明るくなったので全員びっくり顔で目覚めていました。 柴犬のももは、なぜか空のことをクッションにしていて...\nワンコとニャンコのまったりライフに癒される first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72425",
-          "publishedOn": "2024-05-11T00:00:51.000Z",
-          "wordCount": 1292,
-          "title": "ワンコとニャンコのまったりライフに癒される",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72425.jpeg"
         }
       ]
     },
