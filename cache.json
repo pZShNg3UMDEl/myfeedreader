@@ -4602,6 +4602,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121452/",
+          "author": null,
+          "description": "テレビアニメ「【推しの子】」第2期の番宣CMが公開された。 番宣CMは、2.5次元舞台「東京ブレイド」に挑むアクアらの姿を収録。演技合戦のようにぶつかりあう有馬かなと新キャラクターの姫川大輝、凛...",
+          "link": "https://anime.eiga.com/news/121452/",
+          "publishedOn": "2024-06-10T11:00:00.000Z",
+          "wordCount": 715,
+          "title": "「【推しの子】」第2期、番宣CM公開　2.5次元舞台に向けて「絶対に負けない」と火花散らす",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121445/",
           "author": null,
           "description": "テレビアニメ「わんだふるぷりきゅあ！」の最新第19話で、キュアワンダフル（CV：長縄まりあ）、キュアフレンディ（種崎敦美）、キュアニャミー（松田颯水）に続き、猫屋敷まゆが変身する4人目のプリキュ...",
@@ -8431,6 +8446,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/1bef2655cf295581c147ed462249c90fd44d172c?source=rss",
+          "author": null,
+          "description": "閑静な住宅街の青い屋根の一軒家。９４歳の母親への傷害致死容疑で逮捕された弁護士の長男、高田豊暢（とよのぶ）容疑者（５８）が暮らしていた住宅は、ブロック塀と生け垣に囲まれた広大な敷地にあり、近所では「裕",
+          "link": "https://news.yahoo.co.jp/articles/1bef2655cf295581c147ed462249c90fd44d172c?source=rss",
+          "publishedOn": "2024-06-10T11:05:22.000Z",
+          "wordCount": 730,
+          "title": "「地元の名士」「まじめ」…弁護士のサッカー世界大会では「得点王」、94歳母親死なせ逮捕の長男(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240610-00000169-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/17a535f480d761917e6b82d6c875c799e5f2a313?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子知事（７１）が、１２日の都議会定例会最終日に３選を目指して都知事選（２０日告示、７月７日投開票）への出馬を表明する方向で最終調整を進めていることが１０日、関係者への取材で分かった。小",
+          "link": "https://news.yahoo.co.jp/articles/17a535f480d761917e6b82d6c875c799e5f2a313?source=rss",
+          "publishedOn": "2024-06-10T11:00:17.000Z",
+          "wordCount": 734,
+          "title": "小池百合子知事が都議会最終日に都知事選出馬表明で最終調整(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240610-00000168-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/25258700216ae7a04406cb27c3da55c355efd492?source=rss",
+          "author": null,
+          "description": "体育館に舞うスケートボード、校庭を疾走するライダーたち－。\n\n少子化によって全国で増える廃校。文部科学省によると、廃校になった公立小中学校は平成１４年度から令和２年度で計８５８０校に及ぶ。\n\nそんな中",
+          "link": "https://news.yahoo.co.jp/articles/25258700216ae7a04406cb27c3da55c355efd492?source=rss",
+          "publishedOn": "2024-06-10T11:00:00.000Z",
+          "wordCount": 738,
+          "title": "体操、BMX、スケボー…廃校から世界へ飛躍　　探訪(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240610-00000166-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/98765d648499c2282689c31ca1bf9f77f188fd0e?source=rss",
           "author": null,
@@ -36300,16 +36345,6 @@
           "wordCount": 756,
           "title": "明日の「虎に翼」　雲野（塚地武雅）の元で実務を学ぶ寅子（伊藤沙莉）＜5月13日放送＞(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240512-00000032-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/db6b56c263adae1e9b4c93cb3989ec206e256256?source=rss",
-          "author": null,
-          "description": "フリーアナウンサーの笠井信輔さん（６１）は、フジテレビ退職直後の令和元年、血液がんの一種「悪性リンパ腫」と診断されました。闘病しながらＳＮＳ（交流サイト）で発信を続け、完全寛解となったあとも講演や啓発",
-          "link": "https://news.yahoo.co.jp/articles/db6b56c263adae1e9b4c93cb3989ec206e256256?source=rss",
-          "publishedOn": "2024-05-11T23:00:00.000Z",
-          "wordCount": 804,
-          "title": "独立２カ月で血液がんに「闘病してわかったこと」　当事者の視点で発信続ける　病と生きる　フリーアナウンサー・笠井信輔さん①(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240512-00000026-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -36318,6 +36353,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=248607",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、赤城乳業株式会社の新商品「ガツン、とフルーツオレ」を世界一詳しく調査しました。   公式YouTubeチャンネル【進 […]",
+          "link": "https://foodfighter.jp/akagi-gatsun-fruit-au-lait",
+          "publishedOn": "2024-06-10T10:58:06.000Z",
+          "wordCount": 1752,
+          "title": "赤城乳業 ガツン、とフルーツオレ【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/53c67f515efe8d71336c01271dd4b4df.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=248579",
           "author": "foodfighter",
@@ -42142,6 +42187,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74342",
+          "author": "299",
+          "description": "「子猫がカリカリ食べてたら母猫がやって来た」の動画を観て、心が温まりました。小さな子猫が一生懸命カリカリを食べている姿はとても可愛らしく、その純粋な姿に癒されました。 食事中の子猫に気づいた母猫がやって来るシーンは、親子...\n母猫の愛 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74342",
+          "publishedOn": "2024-06-10T11:00:42.000Z",
+          "wordCount": 1284,
+          "title": "母猫の愛",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74342.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74338",
           "author": "299",
