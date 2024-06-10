@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T21:14:09.722Z</updated>
+    <updated>2024-06-10T21:26:23.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「tvOS 18」発表。機械学習で俳優の声をクリアにする「対話を強調」など対応]]></title>
+        <id>https://gadget.phileweb.com/?p=77455</id>
+        <link href="https://gadget.phileweb.com/post-77455/"/>
+        <updated>2024-06-10T21:23:04.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、同社ストリーミングデバイス向けの新OS「tvOS 18」を今秋に無料のアップデートとして提供することを発表。デベロッパ向けベータ版は本日より提供開始となる。 アップデートでは、機械学習とコンピュテーショナルオーディオを使って話し声をクリアにすることで、俳優の声がハッキリ聴こえるようにする […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Vision Proがジェスチャー操作やウルトラワイドディスプレイ対応、「visionOS 2」発表]]></title>
         <id>https://gadget.phileweb.com/?p=77447</id>
