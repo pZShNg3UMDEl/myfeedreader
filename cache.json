@@ -4602,6 +4602,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121445/",
+          "author": null,
+          "description": "テレビアニメ「わんだふるぷりきゅあ！」の最新第19話で、キュアワンダフル（CV：長縄まりあ）、キュアフレンディ（種崎敦美）、キュアニャミー（松田颯水）に続き、猫屋敷まゆが変身する4人目のプリキュ...",
+          "link": "https://anime.eiga.com/news/121445/",
+          "publishedOn": "2024-06-10T10:30:00.000Z",
+          "wordCount": 756,
+          "title": "「わんだふるぷりきゅあ！」4人目のプリキュアはキュアリリアン　上田麗奈と松田颯水が喜びのコメント",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121446/",
           "author": null,
           "description": "10月から放送を開始するテレビアニメ「メカウデ」に、悠木碧と日笠陽子の出演が決定した。キービジュアル第2弾も公開されている。 同作は「SUSHI POLICE」（美術監督）を手がけたアニメーショ...",
@@ -8416,6 +8431,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a2e7ab3dc8d1bb03da3be6bc0b4384a32a51cc09?source=rss",
+          "author": null,
+          "description": "「栄養」から日本代表選手の活躍を支える味の素と日本オリンピック委員会（ＪＯＣ）の共同事業「ビクトリープロジェクト」。長年牽引してきたのが、サポートディレクターの栗原秀文さん（４８）だ。今夏も競泳選手団",
+          "link": "https://news.yahoo.co.jp/articles/a2e7ab3dc8d1bb03da3be6bc0b4384a32a51cc09?source=rss",
+          "publishedOn": "2024-06-10T10:30:00.000Z",
+          "wordCount": 819,
+          "title": "「栄養」の枠超え、食を後押し　味の素ビクトリープロジェクト・栗原秀文さん　パリ五輪開幕まで５０日　支える人⑤(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240610-00000163-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4a1171c29d0d6c580587559078b3885b04ac2581?source=rss",
+          "author": null,
+          "description": "文部科学大臣杯第２０回小・中学校将棋団体戦（日本将棋連盟、産経新聞社主催）の東京都大会中学校の部が９日、新宿区の東京富士大二上講堂で開かれた。\n\n都内４５校から３人１組の９４チームが参加し、それぞれ５",
+          "link": "https://news.yahoo.co.jp/articles/4a1171c29d0d6c580587559078b3885b04ac2581?source=rss",
+          "publishedOn": "2024-06-10T10:29:02.000Z",
+          "wordCount": 708,
+          "title": "小・中学校将棋団体戦　中学校の部・東京都代表５チーム決まる　文部科学大臣杯(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4e8176480e55fe1f6e3f9695fb1795cbe6926f20?source=rss",
+          "author": null,
+          "description": "京都府警宇治署は１０日、同府久御山町の畑で栽培されていた九条ねぎ約１００キロ（約９万円相当）が盗まれる被害があったと発表した。窃盗事件として捜査している。\n\n宇治署によると、１０日午前４時１０分ごろ、",
+          "link": "https://news.yahoo.co.jp/articles/4e8176480e55fe1f6e3f9695fb1795cbe6926f20?source=rss",
+          "publishedOn": "2024-06-10T10:19:10.000Z",
+          "wordCount": 718,
+          "title": "累計被害は「1トン超」…九条ねぎ100キロ盗まれる、京都の畑(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240610-00000160-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c7c210f0182b0fddb8b873303b969fad9fb16ec8?source=rss",
+          "author": null,
+          "description": "９月開幕のサッカーＷ杯アジア最終予選の前では最後の実戦となるシリア戦を控え、森保監督が「最終予選に向けて積み上げを目指す」と力を込める。６日のミャンマー戦から選手を大幅に入れ替えた上で再び攻撃的な３バ",
+          "link": "https://news.yahoo.co.jp/articles/c7c210f0182b0fddb8b873303b969fad9fb16ec8?source=rss",
+          "publishedOn": "2024-06-10T10:14:06.000Z",
+          "wordCount": 722,
+          "title": "最終予選仕様で臨むシリア戦、森保監督「積み上げを目指す」　サッカーＷ杯２次予選(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c182021ba8b1e9ebfd9820c430d0500cfbf47b3b?source=rss",
+          "author": null,
+          "description": "千葉県は国の令和７年度予算編成に向けた重点提案・要望事項計９０件をまとめた。近く公表する。前年度よりも８件増えた。熊谷俊人知事の肝いりで、元日に施行された「千葉県多様性が尊重され誰もが活躍できる社会の",
+          "link": "https://news.yahoo.co.jp/articles/c182021ba8b1e9ebfd9820c430d0500cfbf47b3b?source=rss",
+          "publishedOn": "2024-06-10T10:13:09.000Z",
+          "wordCount": 749,
+          "title": "＜独自＞千葉県、国の７年度予算編成で９０件を重点要望へ　多様性尊重の社会実現求める(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/0ea9d828535e6789decf380383472821e09098b5?source=rss",
           "author": null,
@@ -36235,46 +36300,6 @@
           "wordCount": 804,
           "title": "独立２カ月で血液がんに「闘病してわかったこと」　当事者の視点で発信続ける　病と生きる　フリーアナウンサー・笠井信輔さん①(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240512-00000026-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4417f82301a06c0b4c6d9e8cb88d3615cff5a877?source=rss",
-          "author": null,
-          "description": "■Ｑ\n\n１８人の５歳児を受け持っている保育士です。自分の思いを伝えたい気持ちが強く、私や友達の話をすぐに遮ってしまう女の子がクラスにいます。自分の言いたいことばかりを言って話の腰を折り、会話にもなりま",
-          "link": "https://news.yahoo.co.jp/articles/4417f82301a06c0b4c6d9e8cb88d3615cff5a877?source=rss",
-          "publishedOn": "2024-05-11T22:30:00.000Z",
-          "wordCount": 736,
-          "title": "自分の思いばかり話す子供　悪気なし、ユーモアで指導が大事　原坂一郎の子育て相談(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240512-00000020-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9fd2b288141136911f849ddbd86e1f9e6b07d98b?source=rss",
-          "author": null,
-          "description": "ロシアのミシュスチン首相は１１日、プーチン大統領の通算５期目の大統領就任に伴う新内閣発足手続きの一環として、副首相と閣僚の人事案を露下院に提出した。人事案は今後、下院での審査と承認を経て、プーチン氏の",
-          "link": "https://news.yahoo.co.jp/articles/9fd2b288141136911f849ddbd86e1f9e6b07d98b?source=rss",
-          "publishedOn": "2024-05-11T22:27:03.000Z",
-          "wordCount": 729,
-          "title": "ロシア首相、新内閣人事案を提出　第１副首相を交代　大幅刷新は回避(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c019f4657599550697f1540be26dd45fab61b2b1?source=rss",
-          "author": null,
-          "description": "ロシアの侵略を受けるウクライナのゼレンスキー大統領は１１日、東部ハリコフ州のロシアとの国境地帯にある複数の集落周辺で、露軍に対する「防衛作戦が進行中だ」とビデオ声明を通じて明らかにした。\n\n露軍は最近",
-          "link": "https://news.yahoo.co.jp/articles/c019f4657599550697f1540be26dd45fab61b2b1?source=rss",
-          "publishedOn": "2024-05-11T22:26:25.000Z",
-          "wordCount": 755,
-          "title": "ゼレンスキー氏「防衛作戦が進行中」　露軍のハリコフ州越境攻撃で(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d5c7ab751ce79f5fd1a5114968f6f4795e72e1af?source=rss",
-          "author": null,
-          "description": "裁判員制度の施行から今月で１５年。市民が刑事裁判に参加する中で、さまざまな課題も浮かび上がっている。\n\n神戸地裁姫路支部で２月、稲美町で令和３年１１月に起きた放火殺人事件の裁判員裁判の判決が言い渡され",
-          "link": "https://news.yahoo.co.jp/articles/d5c7ab751ce79f5fd1a5114968f6f4795e72e1af?source=rss",
-          "publishedOn": "2024-05-11T22:20:59.000Z",
-          "wordCount": 711,
-          "title": "「食欲なくなり、涙出た」裁判員裁判の制度から１５年　判決後のＳＮＳ上の誹謗中傷、命の重みへの苦悩…(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
