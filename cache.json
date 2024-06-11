@@ -284,16 +284,6 @@
           "wordCount": 2539,
           "title": "従来比で18％小型化したUFS4.0対応組み込み式フラッシュメモリ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/14/cover_news056.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2405/13/news048.html",
-          "author": null,
-          "description": "ルネサス エレクトロニクスは、ジッタアッテネーターおよびクロックジェネレーター「FemtoClock 3」ファミリーの量産と販売を開始した。ジッタ性能が25フェムト秒 RMSとなっている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2405/13/news048.html",
-          "publishedOn": "2024-05-13T00:00:00.000Z",
-          "wordCount": 2554,
-          "title": "ジッタ性能が25フェムト秒 RMSのタイミングデバイス",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/13/cover_news048.jpg"
         }
       ]
     },
@@ -4902,6 +4892,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121464/",
+          "author": null,
+          "description": "実写映画「はたらく細胞」に、永野芽郁が赤血球役、佐藤健が白血球役で主演することが6月11日、都内で行われた製作発表会見で明らかになった。会見には永野、佐藤に加えて、メガホンをとる武内英樹監督（「...",
+          "link": "https://anime.eiga.com/news/121464/",
+          "publishedOn": "2024-06-11T12:00:00.000Z",
+          "wordCount": 779,
+          "title": "【実写映画「はたらく細胞」】永野芽郁が赤血球、佐藤健は白血球　「半分、青い。」以来の共演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121461/",
           "author": null,
           "description": "テレビアニメ「ハイキュー!!」放送開始10周年記念ビジュアルの第2弾が公開された。 4月6日にスタートした10周年プロジェクト「アニメ『ハイキュー!!』10th Anniversary ―繋ぐ―...",
@@ -8696,6 +8701,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/85e196436eabff88d92a5aeeed61717eca3ad511?source=rss",
+          "author": null,
+          "description": "大量リードを奪った日本は３分の追加タイムも危なげなく乗り切り、シリアに５－０で快勝した。日本は不戦勝を含めてＷ杯アジア２次予選は６戦全勝、全試合無失点のＢ組１位で、９月に始まる最終予選に進んだ。",
+          "link": "https://news.yahoo.co.jp/articles/85e196436eabff88d92a5aeeed61717eca3ad511?source=rss",
+          "publishedOn": "2024-06-11T12:23:30.000Z",
+          "wordCount": 747,
+          "title": "日本、５－０で快勝　６戦全勝＆無失点でＷ杯最終予選へ　サッカー日本代表速報　シリア戦（８完）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000224-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a8f0e3b3a8635e83c0a7e9520d6c7b89641dbfa0?source=rss",
+          "author": null,
+          "description": "日本は後半２８分、相馬がＰＫをける前に４人目の交代。田中に代わって川村拓夢（広島）が起用された。３１分には負傷以外では珍しいＧＫの交代も行われ、大迫に代わって谷晃生（町田）が送り出された。\n\n４０分、",
+          "link": "https://news.yahoo.co.jp/articles/a8f0e3b3a8635e83c0a7e9520d6c7b89641dbfa0?source=rss",
+          "publishedOn": "2024-06-11T12:11:48.000Z",
+          "wordCount": 746,
+          "title": "日本が５点目　南野が冷静に追加点決める　サッカー日本代表速報　シリア戦（７）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000222-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/597270d74896d6a874bd699c493d25219e6a6390?source=rss",
+          "author": null,
+          "description": "後半開始から、日本は中村に代えて伊藤洋輝（シュツットガルト）を起用。布陣を３バックから４バックに変更した。\n\n１７分、日本は遠藤、久保を下げて鎌田大地（ラツィオ）相馬勇紀（カザピア）を投入。２３分には",
+          "link": "https://news.yahoo.co.jp/articles/597270d74896d6a874bd699c493d25219e6a6390?source=rss",
+          "publishedOn": "2024-06-11T11:59:46.000Z",
+          "wordCount": 751,
+          "title": "日本が４点目　相馬がＰＫを決める　サッカー日本代表速報　シリア戦（６）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000218-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/73a5edfa2bb16e83fdf249207af16d0f16a4d236?source=rss",
+          "author": null,
+          "description": "衆院議院運営委員会の与野党各会派代表者は１１日、国会のデジタル化を目指す検討会の会合を国会内で開き、委員会でのオンラインによる参考人質疑を認めるため、衆院規則改正案を本会議に諮ることで大筋合意した。近",
+          "link": "https://news.yahoo.co.jp/articles/73a5edfa2bb16e83fdf249207af16d0f16a4d236?source=rss",
+          "publishedOn": "2024-06-11T11:56:25.000Z",
+          "wordCount": 762,
+          "title": "衆院の参考人質疑、オンラインでも　今国会中に規則改正へ　被災者や海外居住者ら念頭(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000217-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7cd033dc9f2b8efd5d3f498ed8447462daddac06?source=rss",
+          "author": null,
+          "description": "東京消防庁神田消防署が５月８日、管内での火災による死者ゼロ５０００日を達成した。都内消防署における更新中のものでは３番目の長さ。建物の難燃化や消火設備の拡充など、時代とともに火を封じ込める環境は整って",
+          "link": "https://news.yahoo.co.jp/articles/7cd033dc9f2b8efd5d3f498ed8447462daddac06?source=rss",
+          "publishedOn": "2024-06-11T11:51:42.000Z",
+          "wordCount": 795,
+          "title": "「やぶそば」も祝福、神田消防署が火災死者ゼロ５０００日　背景に住民との団結(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000216-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cc737892810ebfe8687c68288971303d0380606d?source=rss",
+          "author": null,
+          "description": "学校法人の土地取引を巡る横領事件で大阪地検特捜部に逮捕、起訴され、無罪が確定した不動産会社「プレサンスコーポレーション」元社長の山岸忍氏（６１）が違法捜査を訴えて国に８億円近くの賠償を求めた訴訟の口頭",
+          "link": "https://news.yahoo.co.jp/articles/cc737892810ebfe8687c68288971303d0380606d?source=rss",
+          "publishedOn": "2024-06-11T11:49:28.000Z",
+          "wordCount": 758,
+          "title": "机たたき「検察なめんな」は「不穏当だった」元特捜検事、プレサンス国賠訴訟の証人尋問で(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/e56e6aee8613c6fab636dcc07b6010a29bd3cce7?source=rss",
           "author": null,
@@ -37195,26 +37260,6 @@
           "wordCount": 739,
           "title": "東証、反落して始まる　前週末の反動、売り買いが交錯(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000037-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f620bfa2458b90507b6a2d39d450b62f55032cd5?source=rss",
-          "author": null,
-          "description": "【ロンドン＝黒瀬悦成】スペインのカタルーニャ自治州で１２日、州議会選挙（定数１３５）が行われ、同州のスペインからの分離独立を目指す勢力が過半数割れする見通しとなった。独立に反対する中道左派の社会党が第",
-          "link": "https://news.yahoo.co.jp/articles/f620bfa2458b90507b6a2d39d450b62f55032cd5?source=rss",
-          "publishedOn": "2024-05-13T00:03:02.000Z",
-          "wordCount": 720,
-          "title": "スペイン・カタルーニャ州の独立派が過半数割れ　州議会選挙(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/56b8ddd6d2d150e714819dc017bc3dabdc1eb1ef?source=rss",
-          "author": null,
-          "description": "埼玉県川口市は、市内に生息する４１２種の生き物の写真を掲載した「川口いきもの図鑑」を初めて作成した。同市は東京都に隣接しながらも、荒川河川沿いなどに多くの自然が残り多様な生態系が築かれている。図鑑には",
-          "link": "https://news.yahoo.co.jp/articles/56b8ddd6d2d150e714819dc017bc3dabdc1eb1ef?source=rss",
-          "publishedOn": "2024-05-13T00:00:00.000Z",
-          "wordCount": 841,
-          "title": "市民参加で４百種超の生物図鑑作成　国内初の定着確認「タケオオツクツク」も　埼玉・川口(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000035-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -38752,16 +38797,6 @@
           "wordCount": 1796,
           "title": "【天下一品】チャーハン定食（こってりラーメン）【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/50f0040f70fd016a776910085ef46931.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=245229",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、赤城乳業株式会社の新商品「平日夜の濃香バニラ」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]",
-          "link": "https://foodfighter.jp/weekdays-vanilla-ice-cream",
-          "publishedOn": "2024-05-13T00:11:15.000Z",
-          "wordCount": 1739,
-          "title": "赤城乳業 平日夜の濃香バニラ【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/103798bffe3ada28ab27aeee395ea521.jpg"
         }
       ]
     },
@@ -38770,6 +38805,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036456.html",
+          "author": "dqnplus",
+          "description": "1 名前：＠シャチ ★：2024/06/10(月) 22:04:41.15 ID:VzV/r9tU9.net\n\n\n\n\n\n\n\n\n【独自】「土下座しろ！」銀座天ぷら店でカスハラ…会計間違いで激高し謝罪も10分間怒鳴り退店　専門家「典型的カスハラ」 #FNNプライムオンライン https://t.co/y9oyJH49MK— FNNプライムオ...",
+          "link": "https://itainews.com/archives/2036456.html",
+          "publishedOn": "2024-06-11T12:01:52.000Z",
+          "wordCount": 2643,
+          "title": "【社会】「土下座しろ！この野郎！」　天ぷら店でカスハラ…会計間違いで激高し謝罪も10分間怒鳴り退店",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/1/c1b83ed0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036442.html",
           "author": "yonepo665sfr",
@@ -46656,16 +46701,6 @@
           "wordCount": 1284,
           "title": "威嚇する子猫に、パパ猫もすけがナイス対応！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72530.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72557",
-          "author": "299",
-          "description": "可愛い子猫たちがケージの中で外に出せにゃ〜と大騒ぎをしています。この子猫たちが保護されて間もない時の様子です。 どの子も元気いっぱいで狭いケージの中に閉じ込められているのがめちゃくちゃ不服のようですね。子の兄妹子猫たちの...\n保護猫のお嫁入り先に行って久しぶりの再会 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72557",
-          "publishedOn": "2024-05-13T00:00:35.000Z",
-          "wordCount": 1287,
-          "title": "保護猫のお嫁入り先に行って久しぶりの再会",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72557.jpeg"
         }
       ]
     },
