@@ -4705,6 +4705,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DDWsS40HHSE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DDWsS40HHSE",
+          "publishedOn": "2024-06-11T09:57:35.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】装備難民はこの立ち回りが一番楽!!4ターン楽勝ソロ攻略!!防具もアクセも回復も不要!!使うのは武器１本だけ!!星３メガモンラーミアを簡単ソロ裸攻略する!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EgMYVNjtS6w",
           "author": null,
           "description": "",
@@ -4891,6 +4901,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121459/",
+          "author": null,
+          "description": "「劇場総集編ぼっち・ざ・ろっく！ Re:」の2週目入場特典（来場者特典、来場者プレゼント）として、スズキハルカ描き下ろしのマナー映像カットを使用した「ジッパーバッグ付きステッカーセット」が6月1...",
+          "link": "https://anime.eiga.com/news/121459/",
+          "publishedOn": "2024-06-11T10:00:00.000Z",
+          "wordCount": 816,
+          "title": "「劇場総集編ぼっち・ざ・ろっく！ Re:」2週目入場特典はジッパーバッグ付きステッカーセット",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/eiga_ranking/121460/",
           "author": null,
@@ -8656,6 +8681,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/48821f125748111cf0d4f416cdd39c38abe6eb58?source=rss",
+          "author": null,
+          "description": "【台北＝西見由章】台湾の海巡署（海上保安庁に相当）は１１日までに、小型ボートで北部・新北市の淡水河河口に侵入した中国籍の男を入出国移民法違反などの容疑で逮捕したと発表した。台湾メディアによると、男は「",
+          "link": "https://news.yahoo.co.jp/articles/48821f125748111cf0d4f416cdd39c38abe6eb58?source=rss",
+          "publishedOn": "2024-06-11T10:02:50.000Z",
+          "wordCount": 708,
+          "title": "中国軍退役少佐が台北近郊河口にボートで侵入　「自由求め投降」供述、グレーゾーン作戦か(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/338ed1c890de29b66c9d11eed9b432b1ffa12ddb?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスワクチン接種の関連業務を京都市から委託された「日本トータルテレマーケティング」（東京）が市に過大請求した問題を巡り、京都府警は１１日、人件費を水増しする手口で市から約２７００万円をだ",
+          "link": "https://news.yahoo.co.jp/articles/338ed1c890de29b66c9d11eed9b432b1ffa12ddb?source=rss",
+          "publishedOn": "2024-06-11T10:02:04.000Z",
+          "wordCount": 717,
+          "title": "京都市のコロナ委託料巡り業者の２人を逮捕、２７００万円詐取疑い(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000178-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4e912a38a33800104c4cc7f8d33080f179ef8ff0?source=rss",
+          "author": null,
+          "description": "ＮＨＫは１１日、東京都渋谷区の放送センターで情報番組「あさイチ」と大河ドラマ「光る君へ」の舞台裏を報道陣に公開した。環境省が６月を「環境月間」と定めていることから、新たな技術を活用したセットの軽量化や",
+          "link": "https://news.yahoo.co.jp/articles/4e912a38a33800104c4cc7f8d33080f179ef8ff0?source=rss",
+          "publishedOn": "2024-06-11T10:00:28.000Z",
+          "wordCount": 782,
+          "title": "「光る君へ」屋根はゴムシート、「あさイチ」セットは再生素材　ＮＨＫが環境配慮アピール(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000177-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8eb0bec1b50e8bce593f69c8811158d79669b568?source=rss",
+          "author": null,
+          "description": "過激なポーズや水着での撮影が行われているとして令和５年、埼玉県営プールを管理する県公園緑地協会が突然中止を要請するも、大野元裕知事が「一律の中止は適切ではない」と表明し、６年３月に新ルールが公表される",
+          "link": "https://news.yahoo.co.jp/articles/8eb0bec1b50e8bce593f69c8811158d79669b568?source=rss",
+          "publishedOn": "2024-06-11T10:00:00.000Z",
+          "wordCount": 776,
+          "title": "過激水着やポーズ禁止の埼玉県営プールで撮影会開催　混乱なしも経費増で先行きに不透明感(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000176-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/33a25278116f74a00906b40d97b9274f0b85a543?source=rss",
+          "author": null,
+          "description": "サッカー日本代表は１１日午後７時１０分から、広島市のエディオンピースウイング広島で２０２６年ワールドカップ（Ｗ杯）アジア２次予選のＢ組最終戦に臨み、シリアと対戦する。試合に先立ち、両チームの先発メンバ",
+          "link": "https://news.yahoo.co.jp/articles/33a25278116f74a00906b40d97b9274f0b85a543?source=rss",
+          "publishedOn": "2024-06-11T09:53:09.000Z",
+          "wordCount": 732,
+          "title": "久保建英、冨安健洋らが先発　ミャンマー戦から９人入れ替え　サッカー日本代表速報　シリア戦（１）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/219b4928474134e0b99484183ce4ef14cb68c4c7?source=rss",
           "author": null,
@@ -36995,26 +37070,6 @@
           "wordCount": 840,
           "title": "たとえかっこ悪くても… 西城秀樹さんから学んだ誰かの励みになれること　病と生きる　フリーアナウンサー・笠井信輔さん②(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000026-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/47f6130cd3abe15983079bd64da8e2b2a78e9509?source=rss",
-          "author": null,
-          "description": "ロシア軍によるウクライナ東部ハリコフ州への越境攻撃で、露国防省は１２日、国境地帯にある集落４カ所を新たに制圧したと主張した。同省は１１日にも、国境地帯の集落５カ所を制圧したと主張した。\n\nウクライナの",
-          "link": "https://news.yahoo.co.jp/articles/47f6130cd3abe15983079bd64da8e2b2a78e9509?source=rss",
-          "publishedOn": "2024-05-12T22:04:05.000Z",
-          "wordCount": 722,
-          "title": "ロシア国防省、新たに４集落制圧と主張　ウクライナ東部ハリコフ州への越境攻撃(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cf8d5cf1c60b05e78a416d5eb0c1f7b119006326?source=rss",
-          "author": null,
-          "description": "完全閉鎖循環式のサバの陸上養殖場としては、東日本最大級の施設が福島県浪江町に完成、６月から養殖に乗り出す。来春の初出荷を目指すが、施設の主な目的はサバの陸上養殖に関する技術開発。人工知能（ＡＩ）などを",
-          "link": "https://news.yahoo.co.jp/articles/cf8d5cf1c60b05e78a416d5eb0c1f7b119006326?source=rss",
-          "publishedOn": "2024-05-12T22:00:00.000Z",
-          "wordCount": 794,
-          "title": "ＡＩ駆使し勘頼みの作業を「見える化」　サバの陸上養殖で技術確立、気になる生食も可能に　深層リポート(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000010-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -38570,6 +38625,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036448.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/06/10(月) 22:37:08.05 ID:plFM/AQC0●.net\n\n\n\n\n\n\n\n秋田の山中に出没した「人喰いグマ」の「ヤバすぎる正体」…！報じられない地元の証言「どう見てもツキノワグマじゃねえ」「デカすぎる」 : https://t.co/gDr3MiCM7f #現代ビジネ...",
+          "link": "https://itainews.com/archives/2036448.html",
+          "publishedOn": "2024-06-11T10:02:41.000Z",
+          "wordCount": 2632,
+          "title": "『どう見てもツキノワグマじゃねえ』秋田に赤カブトが出現 熊犬・銀の投入が待たれる",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/d/4df5cdc2-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036441.html",
           "author": "yonepo665sfr",
@@ -46436,16 +46501,6 @@
           "wordCount": 1287,
           "title": "保護猫のお嫁入り先に行って久しぶりの再会",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72557.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72526",
-          "author": "299",
-          "description": "大きな大きなゴールデンレトリバーのワンコがベッドの上に横になってお昼寝をしようとしています。 ところがそばには子猫がちょこまかと動き回っているので、なかなか思うように眠りにつくことができません。 子猫はワンコの迷惑をかえ...\nゴールデンレトリバーが子猫に昼寝を邪魔されてうんざり顔 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72526",
-          "publishedOn": "2024-05-12T22:00:34.000Z",
-          "wordCount": 1293,
-          "title": "ゴールデンレトリバーが子猫に昼寝を邪魔されてうんざり顔",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72526.jpeg"
         }
       ]
     },
