@@ -4902,6 +4902,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121461/",
+          "author": null,
+          "description": "テレビアニメ「ハイキュー!!」放送開始10周年記念ビジュアルの第2弾が公開された。 4月6日にスタートした10周年プロジェクト「アニメ『ハイキュー!!』10th Anniversary ―繋ぐ―...",
+          "link": "https://anime.eiga.com/news/121461/",
+          "publishedOn": "2024-06-11T11:00:00.000Z",
+          "wordCount": 772,
+          "title": "「ハイキュー!!」アニメ10周年“繋がるビジュアル”に青葉城西、伊達工、白鳥沢、梟谷が登場",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121459/",
           "author": null,
           "description": "「劇場総集編ぼっち・ざ・ろっく！ Re:」の2週目入場特典（来場者特典、来場者プレゼント）として、スズキハルカ描き下ろしのマナー映像カットを使用した「ジッパーバッグ付きステッカーセット」が6月1...",
@@ -8681,6 +8696,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/958b978daa526aedf6a17925c60dea897f55ba77?source=rss",
+          "author": null,
+          "description": "兵庫県の西播磨県民局長だった男性（６０）が斎藤元彦知事のパワハラ疑惑などを告発する文書を作成し、懲戒処分を受けた問題で、県議会最大会派の自民は１１日の議会運営委員会で、地方自治法に基づく調査特別委員会",
+          "link": "https://news.yahoo.co.jp/articles/958b978daa526aedf6a17925c60dea897f55ba77?source=rss",
+          "publishedOn": "2024-06-11T11:00:00.000Z",
+          "wordCount": 725,
+          "title": "百条委設置動議、１３日に最大会派「自民」など提出へ　斎藤兵庫県知事の告発文書問題(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000199-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f5355a29a2ab98e229a87789b7b5f2f9c1ab5be3?source=rss",
+          "author": null,
+          "description": "１１日に示された「骨太方針」原案には、リニア中央新幹線の全線開業時期として「最速令和１９年」が明記された。関西では全線開業により、他の経済圏との交流が活発化し、リニアの乗り入れが想定される新大阪駅を軸",
+          "link": "https://news.yahoo.co.jp/articles/f5355a29a2ab98e229a87789b7b5f2f9c1ab5be3?source=rss",
+          "publishedOn": "2024-06-11T11:00:00.000Z",
+          "wordCount": 731,
+          "title": "骨太方針にリニア全線開業「最速2037年」明記　関西の財界・鉄道業界高評価、都市開発加速(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000198-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/38c70c436af829d0fe435ac383e7e16cc69e198a?source=rss",
+          "author": null,
+          "description": "東京都知事選（２０日告示、７月７日投開票）に出馬表明した立憲民主党の蓮舫参院議員を巡り、共産党都委員会の機関紙の「号外」が物議を醸している。機関紙は蓮舫氏が都知事選に挑戦することを周知する内容だが、紙",
+          "link": "https://news.yahoo.co.jp/articles/38c70c436af829d0fe435ac383e7e16cc69e198a?source=rss",
+          "publishedOn": "2024-06-11T10:58:12.000Z",
+          "wordCount": 739,
+          "title": "都知事選「どう見ても蓮舫氏の政策ビラ」機関紙で物議　共産党「公約とは書いていない」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000197-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/683f73409d1cdf4fedcd3209689cea35a4d76086?source=rss",
+          "author": null,
+          "description": "２点を先制後も、たたみかける日本。前半２１分、久保のスルーパスが相手選手の足に当たり、そのままゴールへ。日本はシリアのオウンゴールでリードを３点に広げた。",
+          "link": "https://news.yahoo.co.jp/articles/683f73409d1cdf4fedcd3209689cea35a4d76086?source=rss",
+          "publishedOn": "2024-06-11T10:54:16.000Z",
+          "wordCount": 731,
+          "title": "日本が３点目　久保のパスが相手のオウンゴール誘う　サッカー日本代表速報　シリア戦（４）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/986c1a7cadd85ce1f3b05b3931aad26f71437dca?source=rss",
+          "author": null,
+          "description": "先制した日本は前半１９分、久保が中央をドリブルで駆け上がり、右の堂安にラストパス。堂安は落ち着いたボールさばきで相手をかわし、左足で流し込んで２点目を奪った。",
+          "link": "https://news.yahoo.co.jp/articles/986c1a7cadd85ce1f3b05b3931aad26f71437dca?source=rss",
+          "publishedOn": "2024-06-11T10:47:05.000Z",
+          "wordCount": 747,
+          "title": "日本が２点目、堂安が追加点　サッカー日本代表速報　シリア戦（３）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000193-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f3db3b211a1466af4d2bc3da4934fb6191f197c0?source=rss",
           "author": null,
@@ -37110,16 +37175,6 @@
           "wordCount": 760,
           "title": "ダルビッシュ有が日米通算１９９勝目　７回無失点７Ｋで今季３勝目　大谷翔平は欠場(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cf7af6e85a06a60ab688400206bae07fb3404f56?source=rss",
-          "author": null,
-          "description": "フジテレビの番組「とくダネ！」の生放送でがんになったことを公表し、交流サイト（ＳＮＳ）で闘病の様子を発信してきたフリーアナウンサーの笠井信輔さん（６１）。その行動を支えたのが、報道人としての矜恃と、闘",
-          "link": "https://news.yahoo.co.jp/articles/cf7af6e85a06a60ab688400206bae07fb3404f56?source=rss",
-          "publishedOn": "2024-05-12T23:00:00.000Z",
-          "wordCount": 840,
-          "title": "たとえかっこ悪くても… 西城秀樹さんから学んだ誰かの励みになれること　病と生きる　フリーアナウンサー・笠井信輔さん②(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000026-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -37128,6 +37183,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=248745",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの菓子パン「プリンみたいなパン1998年」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
+          "link": "https://foodfighter.jp/famima-pudding-bread",
+          "publishedOn": "2024-06-11T11:02:47.000Z",
+          "wordCount": 1753,
+          "title": "【セブンイレブン】プリンみたいなパン1998年（人気商品が復刻）【新作コンビニ菓子パン】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/4913005933be41a76c53601e621748cd.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=248719",
           "author": "foodfighter",
@@ -38657,16 +38722,6 @@
           "wordCount": 1739,
           "title": "赤城乳業 平日夜の濃香バニラ【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/103798bffe3ada28ab27aeee395ea521.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=245202",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”挽きたて”・”打ちたて”・”茹でたて”にこだわる江戸切りそばチェーン「ゆで太郎（もつ次郎併設）」へ […]",
-          "link": "https://foodfighter.jp/motsujiro-motsuni-set",
-          "publishedOn": "2024-05-12T22:52:13.000Z",
-          "wordCount": 1758,
-          "title": "【もつ次郎】もつ煮セット定食・アジフライ・ごはん大盛り【定番メニュー・ゆで太郎併設】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/4c48fa0c3d846ac1e519f61a9f5b7093.jpg"
         }
       ]
     },
@@ -43022,6 +43077,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74408",
+          "author": "299",
+          "description": "画面に映るのは1匹の母猫と6匹の子猫達。子猫達は授乳タイム。皆一生懸命ママのおっぱいを吸っています。授乳後、母猫は飼い主さんの膝の上で寛ぎます。 まだ甘えたい盛りの子猫達の世話を焼きつつ、飼い主さんに労わってもらいます。...\n子育ての疲れを飼い主さんに癒してもらう母猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74408",
+          "publishedOn": "2024-06-11T11:00:55.000Z",
+          "wordCount": 1285,
+          "title": "子育ての疲れを飼い主さんに癒してもらう母猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74408.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74403",
           "author": "299",
