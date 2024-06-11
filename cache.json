@@ -303,6 +303,36 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=77641",
+          "author": "編集部：岡本雄",
+          "description": "Zepp Health Corporationは、スマートウォッチブランドのAmazfit（アマズフィット）から、エントリーモデル「Amazfit Bip5 Unity」を6月11日より発売する。価格は11,900円（税込）。 同社の「Amazfit Bit5」の後継モデルで、「Go Bigger, […]",
+          "link": "https://gadget.phileweb.com/post-77641/",
+          "publishedOn": "2024-06-11T05:14:26.000Z",
+          "wordCount": 726,
+          "title": "Amazfit、スタイリッシュでハイC/Pな入門機「Amazfit Bip5 Unity」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/bip5unity_main.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=77593",
+          "author": "多根清史",
+          "description": "長年にわたりユーザーがiPhoneに要望してきた機能の1つは「電話の録音」だろう。一応はコントロールセンターの「画面収録」からできるが、とっさには難しく、サードパーティから背面に磁力で取り付けるICレコーダーが発売されていたりもする。 ようやく正式発表されたiOS 18では、アップル版AIこと「Ap […]",
+          "link": "https://gadget.phileweb.com/post-77593/",
+          "publishedOn": "2024-06-11T05:03:17.000Z",
+          "wordCount": 725,
+          "title": "iOS 18で電話の「録音と文字起こし」可能に。日本語にも対応",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/apple_record_transcribe_phone_calls.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=77612",
+          "author": "多根清史",
+          "description": "アップルは年次開発者イベント「WWDC 2024」にて、iOS 18、iPadOS 18およびmacOS Sequoia（macOS 15）ではSiriを通じて、ユーザーの明示的な許可がある場合に限り、ChatGPTを利用可能にすると発表した。 この方針に対して実業家のイーロン・マスク氏は、もしアッ […]",
+          "link": "https://gadget.phileweb.com/post-77612/",
+          "publishedOn": "2024-06-11T05:02:42.000Z",
+          "wordCount": 797,
+          "title": "イーロン・マスク、アップル製品を社内で使用禁止にすると発言",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/shutterstock_2263612621.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=77550",
           "author": "多根清史",
           "description": "Googleの次期スマートウォッチ「Pixel Watch 3」は例年通りであれば、2024年後半にリリースされる可能性が高い。すでにディスプレイやバッテリー、サイズに関する噂も届けられていたなか、著名リーカーの情報に基づく予想CG画像が登場した。 インドメディア91Mobilesは、数々の実績ある […]",
@@ -8581,6 +8611,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/64126accb4c12ba8892da3582c613f2dafd8892f?source=rss",
+          "author": null,
+          "description": "現在の住まいは東京都内になりますが、小中高はさいたま市（大宮区）で過ごし、思い出もたくさんあります。中でも、埼玉の高校球児の聖地でもある県営大宮公園野球場には強い思い入れがあります。スカウト担当をして",
+          "link": "https://news.yahoo.co.jp/articles/64126accb4c12ba8892da3582c613f2dafd8892f?source=rss",
+          "publishedOn": "2024-06-11T05:00:00.000Z",
+          "wordCount": 737,
+          "title": "選手に寄り添い「反復」の必要伝える　大島裕行コーチ㊦　埼玉西武ライオンズ　埼玉ゆかりの仲間たち(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ce7699d0975dcf7a8c82b71b39758e4a485324c6?source=rss",
+          "author": null,
+          "description": "２０～３０代のベトナムとカンボジア国籍の男５人を不法就労させたとして、警視庁八王子署は入管難民法違反（不法就労助長）の疑いで、神奈川県海老名市、解体工事会社「エムティ」役員、富士強容疑者（４０）を逮捕",
+          "link": "https://news.yahoo.co.jp/articles/ce7699d0975dcf7a8c82b71b39758e4a485324c6?source=rss",
+          "publishedOn": "2024-06-11T04:59:18.000Z",
+          "wordCount": 745,
+          "title": "「犯罪と分かっていた」　外国人労働者を不法就労させた疑い　会社役員の男逮捕(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000078-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/09c2ba021b26da715ce46b6b54fb0b38241e8815?source=rss",
+          "author": null,
+          "description": "外国人の男女が誤って乗車した京都市バスの回送バスが、２人を乗せたまま約２０分間も走行するトラブルがあったことが１１日、京都市交通局への取材で分かった。２人は外国語で降車の意思を伝えようとしたが、運転手",
+          "link": "https://news.yahoo.co.jp/articles/09c2ba021b26da715ce46b6b54fb0b38241e8815?source=rss",
+          "publishedOn": "2024-06-11T04:49:32.000Z",
+          "wordCount": 722,
+          "title": "外国人男女が回送バスに誤乗車、「言葉通じず」20分走行トラブル(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240611-00000077-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/10fde55e11cc8c2661df68276447a39277a991f7?source=rss",
           "author": null,
@@ -38075,6 +38135,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036459.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/06/11(火) 11:21:44.82 ID:t7atqmAH0●.net\n\n\n\n\n\n\n\n📨 東京韓国学校で催涙スプレー誤噴射か 23人けが 新宿区 https://t.co/KihQzEySlK— ANYWHERE (@AWNEWSHUB) June 11, 2024  \n\n\n\n\n\n\n　東京消防庁によりますと、東京・新宿区の東...",
+          "link": "https://itainews.com/archives/2036459.html",
+          "publishedOn": "2024-06-11T05:02:18.000Z",
+          "wordCount": 2470,
+          "title": "東京韓国学校で催涙スプレー誤噴射　23人けが　詳しい原因不明",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/d/ed7e7904-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036438.html",
           "author": "yonepo665sfr",
