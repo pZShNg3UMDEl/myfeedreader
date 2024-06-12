@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=77753",
+          "author": "Munenori Taniguchi",
+          "description": "『Banana』は、画面上に表示されたバナナのイラストをマウスでクリックすると、画面上に数字が表示され、クリック数に応じてカウントアップされていく、ただそれだけのゲームだ。 ところが、PCゲーム販売プラットフォームSteamでは、数々の人気ゲーム、大作ゲームに紛れて、この『Banana』が「最もプレ […]",
+          "link": "https://gadget.phileweb.com/post-77753/",
+          "publishedOn": "2024-06-12T08:30:12.000Z",
+          "wordCount": 706,
+          "title": "バナナをクリックするだけの謎ゲー『Banana』が突如人気に。『APEX』『CoD』抜き、1日数十万人がプレイ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/Banana1.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=77732",
           "author": "多根清史",
           "description": "アップルが「折りたたみ式iPhone」を開発していることは確実視されながらも、どのようなフォームファクターかは情報がほとんどない。サムスンの“Galaxy Z Flipシリーズ” のようなクラムシェル（縦折り）型や、“Galaxy Z Foldシリーズ” のような内側に折りたたむ横折りになる可能性も […]",
@@ -8480,6 +8490,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=43395",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです。 先日、ビナウォーク5番館3Fに 子ども向けキャラクター育成プレイグラウンド「らくがキッズ」が7月12日オープン予定とお知らせしましたが、 同日7月12日（金）、同フロアに更にスポーツエンターテインメント施…",
+          "link": "https://atsugi-lab.com/open-bootverse-ebina202407/",
+          "publishedOn": "2024-06-12T08:24:37.000Z",
+          "wordCount": 1167,
+          "title": "【開店・海老名】ビナウォークに仲間で楽しめるスポーツエンターテインメント施設「BOOTVERSE」7月12日にオープン予定！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/bootv202407.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=43411",
           "author": "comomo",
           "description": "こんにちは、ももこ＠あつらぼです♪ 今回は2021年秋に本厚木駅北口側から南口側に移転したインドレストラン「パリワール」のランチレポートです★ 早速場所からどうぞーー！ インドレストラン「パリワール」場所は厚木市旭町。本厚木駅南口から徒歩3…",
@@ -8726,6 +8746,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d575f8bf0fd9f55718da04204dc6995543d8b7a1?source=rss",
+          "author": null,
+          "description": "自民党岸田派（宏池会）で名誉会長を務めた古賀誠元幹事長と同派の国会議員９人は１２日、宏池会会長を務めた大平正芳元首相の命日に合わせ、東京都府中市にある多磨霊園で墓参りをした。\n\n古賀氏は昭和５５年に初",
+          "link": "https://news.yahoo.co.jp/articles/d575f8bf0fd9f55718da04204dc6995543d8b7a1?source=rss",
+          "publishedOn": "2024-06-12T08:28:12.000Z",
+          "wordCount": 720,
+          "title": "岸田派議員らが大平元首相の命日に墓参り　古賀誠氏「次の選挙は厳しいが勝ち抜いて」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000166-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6c34c5e2426782cf8a8955ce7525fd988533dc36?source=rss",
+          "author": null,
+          "description": "大阪市の横山英幸市長は１２日、平成１５～１９年に市長を務めた関淳一氏が亡くなったことを受け、「職員厚遇やカラ残業が問題になったときに改革を進められ、大阪の改革の礎となった。ご冥福をお祈りする」と述べた",
+          "link": "https://news.yahoo.co.jp/articles/6c34c5e2426782cf8a8955ce7525fd988533dc36?source=rss",
+          "publishedOn": "2024-06-12T08:13:49.000Z",
+          "wordCount": 714,
+          "title": "「改革の礎になった」関淳一・元大阪市長死去、横山英幸市長が悼む(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000165-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/ae04eb45a8091639b3c3c491b8eed9cf43f4991c?source=rss",
           "author": null,
@@ -43249,16 +43289,6 @@
           "wordCount": 2314,
           "title": "【大塚食品】『ポカリ粉末』入れた袋に異物混入を指摘の社員…公益通報後に異動命じられ“うつ病”を発症 会社側に慰謝料など求め提訴",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/f/3f5e83ac-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035491.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：少考さん ★：2024/05/13(月) 10:43:08.36 ID:fHRsVCK/9.net\n\n\n\n\n\n\n\n\n髪の毛ほど薄いのに音を75％カット！MIT開発の「革新的防音カーテン」https://t.co/49fi9fkHROMITは騒音を軽減する極薄の防音カーテンを開発。このカーテンは、「逆位相によるノイズの打ち消し」...",
-          "link": "https://itainews.com/archives/2035491.html",
-          "publishedOn": "2024-05-13T20:31:37.000Z",
-          "wordCount": 2261,
-          "title": "髪の毛ほど薄いのに音を75％カット！MIT開発の「革新的防音カーテン」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/d/2dd89865-s.png"
         }
       ]
     },
