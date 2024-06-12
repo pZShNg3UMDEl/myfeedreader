@@ -4922,6 +4922,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121457/",
+          "author": null,
+          "description": "「アヌシー国際アニメーション映画祭」で詳細が明らかになった、「ロード・オブ・ザ・リング」（LOTR）シリーズ初となるオリジナル長編アニメーション映画「THE LORD OF THE RINGS：...",
+          "link": "https://anime.eiga.com/news/121457/",
+          "publishedOn": "2024-06-12T05:00:00.000Z",
+          "wordCount": 774,
+          "title": "神山健治監督、フィリッパ・ボウエンが語る長編アニメ「ロード・オブ・ザ・リング」企画の経緯、ヘルム王の娘が主人公になった理由",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121453/",
           "author": null,
           "description": "「呪術廻戦」の第2期「懐玉・玉折」をテーマにしたカフェ「呪術廻戦カフェ2024 懐玉・玉折」が、東京、大阪、名古屋に期間限定オープンする。東京会場は6月20日～8月18日にBOX cafe&sp...",
@@ -8681,6 +8696,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f9c0e755feddc18c02da203f4f2749c9e99ea3e6?source=rss",
+          "author": null,
+          "description": "競泳男子個人メドレーで、パリ五輪代表の瀬戸大也（ＣＨＡＲＩＳ）が１２日、オンラインで取材に応じ、３度目の五輪となるパリ五輪に向けて、「日がたつにつれて、ワクワク度は増している。過去最高の泳ぎをして、自",
+          "link": "https://news.yahoo.co.jp/articles/f9c0e755feddc18c02da203f4f2749c9e99ea3e6?source=rss",
+          "publishedOn": "2024-06-12T05:08:23.000Z",
+          "wordCount": 762,
+          "title": "競泳の瀬戸大也、３度目の五輪へ意気込み　「過去最高の泳ぎでメダル獲得目指す」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000099-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/dc0901fa93f2f5817739f9ed0a295c6cfcfb6d1b?source=rss",
+          "author": null,
+          "description": "シャープが９月までに生産停止することを決めた液晶パネル工場「堺ディスプレイプロダクト（ＳＤＰ）」。地元の堺市に思わぬ影響が及ぼうとしている。同社の液晶テレビ「アクオス」シリーズが、ふるさと納税返礼品か",
+          "link": "https://news.yahoo.co.jp/articles/dc0901fa93f2f5817739f9ed0a295c6cfcfb6d1b?source=rss",
+          "publishedOn": "2024-06-12T04:58:43.000Z",
+          "wordCount": 741,
+          "title": "シャープ堺工場停止でふるさと納税ピンチ　稼ぎ頭のアクオス消滅で寄付額減の可能性　堺市(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000097-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/50007c4a048f46e2c3e252cf3dee1703c868be3a?source=rss",
+          "author": null,
+          "description": "平成１５年に摘発を受けた指定暴力団山口組五菱会（当時）系ヤミ金グループの元メンバーの男らが逮捕された事件で、男らが顧客の信用情報を照会できるサイトを利用していたことが１２日、捜査関係者への取材で分かっ",
+          "link": "https://news.yahoo.co.jp/articles/50007c4a048f46e2c3e252cf3dee1703c868be3a?source=rss",
+          "publishedOn": "2024-06-12T04:57:11.000Z",
+          "wordCount": 729,
+          "title": "旧五菱会ヤミ金　独自の信用情報照会サイト「ｃａｓｕｕｍｏ（カスーモ）」で情報共有か(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000096-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b165b611f8064de00ee53bf2f46ac0cc3dca8ee9?source=rss",
           "author": null,
