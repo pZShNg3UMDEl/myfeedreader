@@ -284,16 +284,6 @@
           "wordCount": 2537,
           "title": "性能指数3.1Ω×nCの600V耐圧 小型パワーMOSFET",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/15/cover_news065.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2405/14/news056.html",
-          "author": null,
-          "description": "キオクシアは、新世代のUFS4.0対応組み込み式フラッシュメモリ製品のサンプル出荷を開始した。256Gバイト、512Gバイト、1Tバイトの3つの容量を提供する。パッケージは9×13mmサイズの153ボールBGAで、前世代より約18％小型化している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2405/14/news056.html",
-          "publishedOn": "2024-05-14T00:00:00.000Z",
-          "wordCount": 2539,
-          "title": "従来比で18％小型化したUFS4.0対応組み込み式フラッシュメモリ",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/14/cover_news056.jpg"
         }
       ]
     },
@@ -4982,6 +4972,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121454/",
+          "author": null,
+          "description": "長編アニメーション映画のコンペティション部門を持つアジア最大の祭典、新潟国際アニメーション映画祭。第3回の開催が2025年3月15日～20日に決定。7月1日から長編コンペティション部門の作品エン...",
+          "link": "https://anime.eiga.com/news/121454/",
+          "publishedOn": "2024-06-12T12:00:00.000Z",
+          "wordCount": 733,
+          "title": "第3回新潟国際アニメーション映画祭が25年3月15日開催決定、7月1日からコンペティション作品エントリー開始",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121471/",
           "author": null,
           "description": "テレビアニメ「魔法つかいプリキュア!!～MIRAI DAYS～」の新たなキャラクター設定が公開された。また、今年3月に高橋李依らキャスト4人に同作の制作が決定したことを告げる様子を撮影したサプラ...",
@@ -8836,6 +8841,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/4b2fd45841bb9aacbfe268ec3e6810d253ebb96b?source=rss",
+          "author": null,
+          "description": "２９日に全面開業する未来医療国際拠点「Ｎａｋａｎｏｓｈｉｍａ　Ｑｒｏｓｓ」（中之島クロス、大阪市北区中之島）の報道関係者向け内覧会が１２日に開かれた。施設内には人工多能性幹細胞（ｉＰＳ細胞）の研究開発",
+          "link": "https://news.yahoo.co.jp/articles/4b2fd45841bb9aacbfe268ec3e6810d253ebb96b?source=rss",
+          "publishedOn": "2024-06-12T12:16:10.000Z",
+          "wordCount": 790,
+          "title": "再生医療を社会で活用へ、２９日開業「中之島クロス」公開　産学医が連携(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000238-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a799b78f668ceae55d610b2dbef43605b3cec9f3?source=rss",
+          "author": null,
+          "description": "盗撮目的で学校に侵入し、体育館の鍵などを盗んだとして兵庫県警生活安全特別捜査隊は１２日、建造物侵入と窃盗の疑いで神戸市中央区熊内町の無職、中塚清人容疑者（３７）を逮捕した。「自分の性的欲求を満たすため",
+          "link": "https://news.yahoo.co.jp/articles/a799b78f668ceae55d610b2dbef43605b3cec9f3?source=rss",
+          "publishedOn": "2024-06-12T12:06:44.000Z",
+          "wordCount": 740,
+          "title": "「欲求満たすため侵入」体育館の女子更衣室にハンガー型カメラ　盗撮容疑で３７歳男逮捕(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000235-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5243ceff3ed61cda06a7f4796b953755e9a8dead?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子知事が３選出馬を表明した都議会の第２回定例会は１２日、知事選（２０日告示、７月７日投開票）に向けて、各会派が小池都政の評価で舌戦を繰り広げた。小池氏は議会閉会後、各会派にあいさつ回り",
+          "link": "https://news.yahoo.co.jp/articles/5243ceff3ed61cda06a7f4796b953755e9a8dead?source=rss",
+          "publishedOn": "2024-06-12T12:04:55.000Z",
+          "wordCount": 740,
+          "title": "小池氏出馬表明受け東京都議会で舌戦　立民は築地計画に疑問、都民ファ「大きく前進」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000234-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5c892dc26f060e8113713b21843a9bdb2fec4c82?source=rss",
+          "author": null,
+          "description": "兵庫県の西播磨県民局長だった男性（６０）が斎藤元彦知事のパワハラ疑惑などを告発する文書を作成し、懲戒処分を受けた問題で、片山安孝副知事が、地方自治法に基づく調査特別委員会（百条委員会）を設置しないよう",
+          "link": "https://news.yahoo.co.jp/articles/5c892dc26f060e8113713b21843a9bdb2fec4c82?source=rss",
+          "publishedOn": "2024-06-12T12:03:15.000Z",
+          "wordCount": 748,
+          "title": "「介入という形ではない」斎藤兵庫県知事　最大会派自民への副知事の「百条委やめて」働きかけに見解　斎藤兵庫県知事の告発文書問題(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000233-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e7a8eb8fc2fd6407a676b4777b42d64b09075229?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国商務省は１２日に報道官談話を発表し、欧州連合（ＥＵ）欧州委員会が中国製の電気自動車（ＥＶ）について「不当な補助金を受け取っている」と暫定的に判断したことに対し、「欧州側は事実や世",
+          "link": "https://news.yahoo.co.jp/articles/e7a8eb8fc2fd6407a676b4777b42d64b09075229?source=rss",
+          "publishedOn": "2024-06-12T11:54:25.000Z",
+          "wordCount": 732,
+          "title": "中国がＥＵに反発「中国側の強い反対を無視した」　ＥＶに関税最大３８％に対抗措置を示唆(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000230-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/93844fdbf7177179efd51e6ea2f87e9aaf60951e?source=rss",
+          "author": null,
+          "description": "パリ五輪でメダル獲得を目指すアーティスティックスイミング日本代表が１２日、東京都内で練習を公開した。ペアの変更を検討していたデュエットについて中島貴子ヘッドコーチ（ＨＣ）は、佐藤友花（ジョイフルアスレ",
+          "link": "https://news.yahoo.co.jp/articles/93844fdbf7177179efd51e6ea2f87e9aaf60951e?source=rss",
+          "publishedOn": "2024-06-12T11:51:47.000Z",
+          "wordCount": 718,
+          "title": "パリ五輪ＡＳデュエット日本代表は佐藤友花、比嘉もえ組で　佐藤「メダル獲得を考え練習」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f995a55edc3dbafeea66fe2f029803d9b48ddf85?source=rss",
           "author": null,
@@ -39201,6 +39266,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2036491.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。(みょ) [ﾆﾀﾞ]：2024/06/12(水) 10:09:03.08 ID:6pBw63SY0.net\n\n\n\n\n\n\n\n「まるで公開処刑」観光地の女子トイレの各個室に使用時間表示するタイマー設置―中国https://t.co/emMAtXsK91— レコードチャイナ (@recordchina) June 11, 2024  \n\n\n...",
+          "link": "https://itainews.com/archives/2036491.html",
+          "publishedOn": "2024-06-12T11:59:03.000Z",
+          "wordCount": 2522,
+          "title": "女さんのトイレ長いなぁ…せや！！",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/0/00a78dcb-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2036483.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。：2024/06/12(水) 00:06:11.39 ID:SDfcnama0●.net\n\n\n\n\n\n\n\nこれを森と言えない人には、坂本龍一氏や村上春樹氏、サザンオールスターズが再開発に反対する気持ちも理解できないのは仕方ないか。 pic.twitter.com/OZlUuuIuIx— 原田あきら（...",
@@ -47096,16 +47171,6 @@
           "wordCount": 1286,
           "title": "猫たちは、それぞれのスタイルで眠りに堕ちます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72597.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72622",
-          "author": "299",
-          "description": "マンチカンの子猫が先住猫にごあいさつをしようとしています。でも子猫の顔の何倍もあるような先住の大きな顔を目の前にしたらちょっと躊躇してしまいます。 でもそこは子猫。意外に先住猫に対して積極的にそばに近寄って行こうとします...\nおおらかな性格の子猫が先住猫に受け入れてもらえました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72622",
-          "publishedOn": "2024-05-14T00:00:21.000Z",
-          "wordCount": 1285,
-          "title": "おおらかな性格の子猫が先住猫に受け入れてもらえました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72622.jpeg"
         }
       ]
     },
