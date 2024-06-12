@@ -4872,6 +4872,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121453/",
+          "author": null,
+          "description": "「呪術廻戦」の第2期「懐玉・玉折」をテーマにしたカフェ「呪術廻戦カフェ2024 懐玉・玉折」が、東京、大阪、名古屋に期間限定オープンする。東京会場は6月20日～8月18日にBOX cafe&sp...",
+          "link": "https://anime.eiga.com/news/121453/",
+          "publishedOn": "2024-06-12T03:00:00.000Z",
+          "wordCount": 750,
+          "title": "「呪術廻戦カフェ2024 懐玉・玉折」が期間限定オープン　五条悟“覚醒のパンケーキ”などラインナップ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121456/",
           "author": null,
           "description": "フランスで開催中のアニメーション映画祭「アヌシー国際アニメーション映画祭」にて6月11日（現地時間）、「ロード・オブ・ザ・リング」シリーズ初となるオリジナル長編アニメーション映画「THE LOR...",
@@ -8616,6 +8631,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ccb3210f0560c55eafcd86dc3898991bf0bae5b?source=rss",
+          "author": null,
+          "description": "NHK大阪放送局は12日、令和7年秋開始予定の連続テレビ小説（朝ドラ）が「ばけばけ」に決まったと発表した。ヒロインのモデルは「怪談」で知られる明治時代の文豪ラフカディオ・ハーン（小泉八雲）の妻で松江の",
+          "link": "https://news.yahoo.co.jp/articles/0ccb3210f0560c55eafcd86dc3898991bf0bae5b?source=rss",
+          "publishedOn": "2024-06-12T03:03:39.000Z",
+          "wordCount": 720,
+          "title": "来秋のNHK朝ドラは「ばけばけ」　モデルは「怪談」ラフカディオ・ハーンの妻、小泉セツ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000073-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/481409049bdabffdb21b6c62ba753400782c4f56?source=rss",
+          "author": null,
+          "description": "岩手・花巻東高から９月に米名門のスタンフォード大へ進学する佐々木麟太郎内野手（１９）が１１日、今年のドラフト会議で指名有力候補選手が参加する「ＭＬＢドラフトリーグ」で、トレントン・サンダーの「４番・一",
+          "link": "https://news.yahoo.co.jp/articles/481409049bdabffdb21b6c62ba753400782c4f56?source=rss",
+          "publishedOn": "2024-06-12T03:01:55.000Z",
+          "wordCount": 739,
+          "title": "佐々木麟太郎が本塁打で米デビュー　ＭＬＢドラフトリーグで５打数２安打３打点(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000072-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/babdcc2edc67b2302ede9bec5a86b8b9e345a200?source=rss",
+          "author": null,
+          "description": "中井侍（なかいさむらい）駅に着いた。崖にへばりついたような駅だ。ホームの端を降りてすぐのところに人家があり、車掌さんが「敷地に入らないでください」と乗客に呼び掛けて回っていた。\n\n飯田線は、難読駅、珍",
+          "link": "https://news.yahoo.co.jp/articles/babdcc2edc67b2302ede9bec5a86b8b9e345a200?source=rss",
+          "publishedOn": "2024-06-12T03:00:00.000Z",
+          "wordCount": 840,
+          "title": "はるかなり秘境駅⑩　恐るべし！中井侍　帰ってきた令和阿房列車で行こう　第一列車　(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000071-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0c4251d89bac4947ac8fe6575bbcd9f63a565e9c?source=rss",
+          "author": null,
+          "description": "茶の文化に貢献した個人・団体を顕彰する第３回「福寿園・お茶の文化賞」の授賞式が１１日、京都市中京区の京都文化博物館であった。丸利吉田銘茶園の園主で、宇治茶生産の第一人者の吉田利一さん（７６）＝京都府宇",
+          "link": "https://news.yahoo.co.jp/articles/0c4251d89bac4947ac8fe6575bbcd9f63a565e9c?source=rss",
+          "publishedOn": "2024-06-12T02:47:50.000Z",
+          "wordCount": 734,
+          "title": "宇治茶生産の第一人者、吉田さんに「福寿園・お茶の文化賞」大賞(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000069-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/ba1d482e382238a3ed41235467fe13f46513ba0a?source=rss",
           "author": null,
@@ -36845,16 +36900,6 @@
           "wordCount": 728,
           "title": "ウェブマガジン「週刊たかメ～ル」１０００号、創刊２０年で金字塔(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240514-00000010-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a14a5282bbb621e205b9e78301ed1163ad4464d2?source=rss",
-          "author": null,
-          "description": "【北京＝三塚聖平】韓国の趙兌烈（チョ・テヨル）外相が１３日、中国・北京を訪問し、王毅（おう・き）共産党政治局員兼外相と会談した。韓国外相が訪中するのは２０２２年８月以来で、北京訪問は１７年以来となった",
-          "link": "https://news.yahoo.co.jp/articles/a14a5282bbb621e205b9e78301ed1163ad4464d2?source=rss",
-          "publishedOn": "2024-05-13T15:07:28.000Z",
-          "wordCount": 700,
-          "title": "中韓外相「日中韓サミット」に向けて協力で一致　韓国外相が１年９カ月ぶり訪中(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -38392,16 +38437,6 @@
           "wordCount": 1741,
           "title": "【セブンイレブン】がっつりチキン南蛮弁当【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/425e39b4a5ef67ff65d1cdcc6c1ab3a3.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=245304",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアムゴールド 金のアイス ワッフルコーン 手摘み宇治抹茶」を世界一詳しく調査しました。 & […]",
-          "link": "https://foodfighter.jp/711sej-gold-ice-matcha-2024",
-          "publishedOn": "2024-05-13T15:04:07.000Z",
-          "wordCount": 1758,
-          "title": "【セブンイレブン】セブンプレミアムゴールド 金のアイス ワッフルコーン 手摘み宇治抹茶【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/5e0167aae4a2b3229a8c6804d850acc7.jpg"
         }
       ]
     },
@@ -38410,6 +38445,26 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036471.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：フォーエバー ★：2024/06/11(火) 17:03:55.02 ID:/lHLKMvp9.net\n\n\n\n\n\n\n\n\n\n\n鈴木紗理奈　「スラムダンク世代」発言も中心選手わからず批判殺到「もう黙って」「ほんまにファンか？」/芸能/デイリースポーツ online https://t.co/5r7tMmaNpD #SLAM_DUNK #デイリースポ...",
+          "link": "https://itainews.com/archives/2036471.html",
+          "publishedOn": "2024-06-12T03:01:36.000Z",
+          "wordCount": 2468,
+          "title": "【芸能】鈴木紗理奈　「スラムダンク世代」発言も中心選手わからず批判殺到「もう黙って」「ほんまにファンか？」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/6/f65951cd-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2036469.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：令和大日本憂国義勇隊：2024/06/11(火) 15:24:23.13 ID:/i6wlBCP0.net\n\n\n\n\n\n\n\n\n\n障害児者数1164万人　精神が57％増で最多に（厚労省推計） https://t.co/Dm5Vn5r6ej— 福祉新聞 (@fukushishimbun) June 11, 2024 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n引用元\nhttps://news.yahoo.co.jp...",
+          "link": "https://itainews.com/archives/2036469.html",
+          "publishedOn": "2024-06-12T02:51:42.000Z",
+          "wordCount": 2779,
+          "title": "【速報】少子化なのに障害児数は1146万人に激増の超異常事態 日本国民の遺伝子に大規模な損傷か？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/f/ef14d6e8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036467.html",
           "author": "dqnplus",
