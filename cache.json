@@ -2293,6 +2293,31 @@
       "siteUrl": "https://ninten-switch.com",
       "articles": [
         {
+          "id": "https://ninten-switch.com/?p=362303",
+          "author": "管理人",
+          "description": "Triple Fault Gamesより、Nintendo Switch用ソフト『ハッペンランス (Happenlance)』が国内向けとして2024年7月4日に配信されることが決定しました。 販売価格は2,000円(税 […]",
+          "link": "https://ninten-switch.com/happenlance-for-nintendo-switch-2024-0704-released",
+          "publishedOn": "2024-06-12T16:12:35.000Z",
+          "wordCount": 11772,
+          "title": "Switch用ソフト『ハッペンランス』が2024年7月4日に配信決定！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/happenlance-for-nintendo-switch-2024-0704-released.jpg"
+        },
+        {
+          "id": "https://ninten-switch.com/?p=362566",
+          "author": "管理人",
+          "description": "Interaction Ideasより、Nintendo Switch用ソフト『WEJAM』が2024年7月11日に配信されることが決定しました。 販売価格は1,300円(税込)に設定されていますが、2024年7月10日 […]",
+          "link": "https://ninten-switch.com/wejam-for-nintendo-switch-2024-0711-released",
+          "publishedOn": "2024-06-12T15:57:18.000Z",
+          "wordCount": 12120,
+          "title": "Switch用ソフト『WEJAM』が2024年7月11日に配信決定！",
+          "enclosure": {
+            "url": "https://ninten-switch.com/wp-content/uploads/2024/06/wejam-for-nintendo-switch-2024-0711-pv.webm",
+            "length": "4331084",
+            "type": "video/webm"
+          },
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/wejam-for-nintendo-switch-2024-0711-released.jpg"
+        },
+        {
           "id": "https://ninten-switch.com/?p=363721",
           "author": "管理人",
           "description": "Nintendo Switch用ソフト『Super Woden GP II』が、2024年7月25日に配信されることが決定しました。 販売価格は1,800円(税込)に設定されています。 Super Woden GP 2  […]",
@@ -2351,6 +2376,16 @@
           "wordCount": 11793,
           "title": "PS4＆Switch用ソフト『アーケードアーカイブス VS. スターラスター』が2024年6月13日から配信開始！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/arcadearchives-vs-star-luster-for-ps4-and-switch-release.jpg"
+        },
+        {
+          "id": "https://ninten-switch.com/?p=362304",
+          "author": "管理人",
+          "description": "Nintendo Switch用ソフト『Hot Blood』が、2024年7月4日に配信されることが決定しました。 販売価格は1,500円(税込)に設定されています。 本作は、『Drunken Fist』のデベロッパーD […]",
+          "link": "https://ninten-switch.com/hot-blood-for-nintendo-switch-2024-0704-released",
+          "publishedOn": "2024-06-12T15:00:35.000Z",
+          "wordCount": 11775,
+          "title": "Switch用ソフト『Hot Blood』が2024年7月4日に配信決定！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/no-image-2024.webp"
         },
         {
           "id": "https://ninten-switch.com/?p=363890",
@@ -37540,56 +37575,6 @@
           "wordCount": 721,
           "title": "「いばらき花絶景」ＳＮＳで発信　観光誘客へ茨城県、名所をリレーで紹介(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9f0c7d6a700d6015cb91a6caedd123bd5b2876ef?source=rss",
-          "author": null,
-          "description": "警視庁機動隊の観閲式が１４日、東京都新宿区の明治神宮外苑で行われ、緒方禎己（よしみ）警視総監らの前で、約１７００人が行進した。隊員らは色とりどりの制服や出動服、装備に身を包んで整然と進み、観閲に応えた",
-          "link": "https://news.yahoo.co.jp/articles/9f0c7d6a700d6015cb91a6caedd123bd5b2876ef?source=rss",
-          "publishedOn": "2024-05-14T04:12:41.000Z",
-          "wordCount": 766,
-          "title": "色とりどりの制服、出動服で整然と行進　機動隊観閲式　警視庁１５０年(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240514-00000078-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c6a3c8dcf7aa5af3357bb1cca405ee3c916bcdf6?source=rss",
-          "author": null,
-          "description": "欧州の人権団体「セーフガード・ディフェンダーズ」は、中国が１０年間で国外在住の約１万２千人を強制帰国させたとする報告書を発表した。対象者リストには、日本にいた３人が含まれている。報告書は帰国を迫るため",
-          "link": "https://news.yahoo.co.jp/articles/c6a3c8dcf7aa5af3357bb1cca405ee3c916bcdf6?source=rss",
-          "publishedOn": "2024-05-14T03:55:53.000Z",
-          "wordCount": 723,
-          "title": "中国、国外在住１万２千人に帰国強制　日本からも３人　威嚇や拉致横行　人権団体が報告書(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/36a6250a29ce307ff4deb72da0306aca3684c9c4?source=rss",
-          "author": null,
-          "description": "ロシア国営タス通信は１４日、露捜査当局筋の話として、露国防省人事総局トップのクズネツォフ中将が刑事事件の容疑者として拘束されたと伝えた。容疑の詳細は不明としている。捜査当局はクズネツォフ容疑者の職場や",
-          "link": "https://news.yahoo.co.jp/articles/36a6250a29ce307ff4deb72da0306aca3684c9c4?source=rss",
-          "publishedOn": "2024-05-14T03:53:21.000Z",
-          "wordCount": 729,
-          "title": "露当局、国防省人事部門トップの中将を拘束　タス通信報道(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ab4edba9b6aec4e1d5e4851530a138bf191f8c81?source=rss",
-          "author": null,
-          "description": "奈良県北部地域の小学生野球チームが参加する「第２６回春季北和地区学童軟式野球大会」（主催・奈良市学童軟式野球連盟、後援・産経新聞社など）が１１、１２の両日、同市の西部生涯スポーツセンター球技場などで行",
-          "link": "https://news.yahoo.co.jp/articles/ab4edba9b6aec4e1d5e4851530a138bf191f8c81?source=rss",
-          "publishedOn": "2024-05-14T03:52:40.000Z",
-          "wordCount": 736,
-          "title": "春季北和地区学童軟式野球大会　大安寺アパッチライオンズがサヨナラで初Ｖ(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240514-00000074-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9226f2d0d48790f677b8e8979405500b48b65164?source=rss",
-          "author": null,
-          "description": "法隆寺（奈良県斑鳩町）は、昭和２４年１月に焼損した金堂壁画（重要文化財、７世紀末頃）を納める収蔵庫について、将来的に一般公開するため、クラウドファンディング（ＣＦ）サイト「レディーフォー」で資金を募っ",
-          "link": "https://news.yahoo.co.jp/articles/9226f2d0d48790f677b8e8979405500b48b65164?source=rss",
-          "publishedOn": "2024-05-14T03:51:48.000Z",
-          "wordCount": 731,
-          "title": "法隆寺金堂壁画ＣＦ支援者に公開　火災発生の生々しさ伝える(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -47031,16 +47016,6 @@
           "wordCount": 1285,
           "title": "地下通路に住んでいる三毛猫ちゃんはみんなのアイドル",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72605.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72601",
-          "author": "299",
-          "description": "ダンボールで作られたバスは子猫たちの大好きなおもちゃです。バスの中に入ると隠れ家のようになるのでワクワクするのでしょう。 でもこの大人気のバスは一台だけなのでどうしても子猫たちの取り合いが激しくなりがちです。 この日も先...\nバスのおもちゃの取り合いが意外にシビアだった first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72601",
-          "publishedOn": "2024-05-14T04:00:42.000Z",
-          "wordCount": 1285,
-          "title": "バスのおもちゃの取り合いが意外にシビアだった",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72601.jpeg"
         }
       ]
     },
