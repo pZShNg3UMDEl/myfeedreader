@@ -7700,21 +7700,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121253/",
-          "author": null,
-          "description": "テレビアニメ「魔法使いの約束」の放送開始時期が2025年1月に決定し、超ティザービジュアルとPV第1弾が披露された。 同作は、colyが展開するスマホ向けゲームが原作。魔法使いと人間が共存する世...",
-          "link": "https://anime.eiga.com/news/121253/",
-          "publishedOn": "2024-05-13T12:00:00.000Z",
-          "wordCount": 875,
-          "title": "「魔法使いの約束」25年1月放送開始　ティザービジュアル＆PV披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -8129,16 +8114,6 @@
           "wordCount": 4388,
           "title": "(のん)ある気分",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10168",
-          "author": "watanabe@logipara.com",
-          "description": "最近、おにぎりにハマっています。 おにぎりといえば、買うまで4時間待ち、むしろ人はおにぎりを買うために4時間待てるんだ……と思わせる超絶有名店「ぼんご」があります。 我が家の近くにも、そこまで有名ではないものの、美味しい […]",
-          "link": "https://logipara.com/diary-text/2024-05-14",
-          "publishedOn": "2024-05-13T12:42:13.000Z",
-          "wordCount": 4396,
-          "title": "おにぎりの型の話",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -8385,6 +8360,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=43477",
+          "author": "田原",
+          "description": "こんにちは、タハラ＠あつらぼです。 先日ご紹介させていただいた 「認定こども園 厚木幼稚園」さんの、0歳児から参加できるオープン幼稚園 初開催の7月9日は、申込み多数のため早くも締め切りに！ 今回は第2回の日程が届きました♬ まずは場所から…",
+          "link": "https://atsugi-lab.com/openday-atsugi-kg202408/",
+          "publishedOn": "2024-06-12T00:51:08.000Z",
+          "wordCount": 1186,
+          "title": "【要申込】土曜日開催★0歳児もOK！認定こども園 厚木幼稚園の「オープン幼稚園」が8月17日に開催★幼稚園の雰囲気を体感できます♪",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/atsugi-kg202408-image.png"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=43427",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです！ この春からプチリニューアルが進んでいる「ららぽーと海老名」。 その中でも注目ショップのルームウェアブランド「gelato pique（ジェラート ピケ）」の、 オープン予定日が当初より延びており気になって…",
@@ -8611,6 +8596,96 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/bfb8c2f26633c546ed9949606add7f29b5c7f031?source=rss",
+          "author": null,
+          "description": "【カイロ＝佐藤貴生】イスラム原理主義組織ハマスとイスラエルの停戦を仲介するカタールとエジプトは１１日、ハマスから新たな停戦案に対する回答を受け取ったと発表した。米ホワイトハウス当局者は、ハマスが回答し",
+          "link": "https://news.yahoo.co.jp/articles/bfb8c2f26633c546ed9949606add7f29b5c7f031?source=rss",
+          "publishedOn": "2024-06-12T00:57:48.000Z",
+          "wordCount": 731,
+          "title": "カタール「ハマスから停戦案の回答得た」　エジプトはイスラエルに停戦受け入れ求める(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000054-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/21d8edef722401ca12dc718346d53802ef06a8fc?source=rss",
+          "author": null,
+          "description": "１２日の東京株式市場の日経平均株価は反落で始まった。寄り付きは前日比２６９円６４銭安の３万８８６５円１５銭。\n\n前日の米株式市場でダウ工業株３０種平均が下落した流れを受け、東京市場でも売りが先行してい",
+          "link": "https://news.yahoo.co.jp/articles/21d8edef722401ca12dc718346d53802ef06a8fc?source=rss",
+          "publishedOn": "2024-06-12T00:36:41.000Z",
+          "wordCount": 756,
+          "title": "東証、反落で始まる　米ダウ平均下落で売りが先行　一時２００円超安(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000052-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c011b31afd05f82cf83b9ebfb4a44b62af1e2dad?source=rss",
+          "author": null,
+          "description": "【ワシントン＝渡辺浩生】バイデン米大統領（８１）の次男ハンター氏（５４）が薬物依存を申告せずに不法に銃を購入したとされる事件で、米東部デラウェア州の連邦地裁の陪審員は１１日、ハンター氏をめぐる３つの罪",
+          "link": "https://news.yahoo.co.jp/articles/c011b31afd05f82cf83b9ebfb4a44b62af1e2dad?source=rss",
+          "publishedOn": "2024-06-12T00:32:02.000Z",
+          "wordCount": 740,
+          "title": "米バイデン大統領次男に有罪評決、薬物依存を隠して銃を購入　再選に向け痛手(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000051-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5d2227e505484a07c1df5ad053ffb3d4683d2c86?source=rss",
+          "author": null,
+          "description": "神奈川、埼玉、千葉の首都圏３県が、子育て支援に絡み東京都が独自に実施する行政サービスとの「格差」に頭を悩ませている。同じ施策を行おうにも、財源の問題から実現は困難。人口流出などに危機感を募らせる３県は",
+          "link": "https://news.yahoo.co.jp/articles/5d2227e505484a07c1df5ad053ffb3d4683d2c86?source=rss",
+          "publishedOn": "2024-06-12T00:17:34.000Z",
+          "wordCount": 819,
+          "title": "「教育格差で東京に人口流出」危機感強める首都圏３県　背景に税収差、国に財源措置要望(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000050-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fcbd4a893b1cb1ff323df4182d00ff65e4a40aef?source=rss",
+          "author": null,
+          "description": "レトルトカレーやルーなどを製造するハウス食品の静岡工場（静岡県袋井市）に、都市ガスを使って発電する大規模な「ガスコージェネレーションシステム」が整備された。グループの８社１８拠点に電力を融通した上で、",
+          "link": "https://news.yahoo.co.jp/articles/fcbd4a893b1cb1ff323df4182d00ff65e4a40aef?source=rss",
+          "publishedOn": "2024-06-12T00:14:36.000Z",
+          "wordCount": 802,
+          "title": "発電の熱　レトルト食品に活用　ＳＤＧｓ　今、未来のために(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000049-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6f508aefae9db2bab014ceb455b577f353b3a482?source=rss",
+          "author": null,
+          "description": "令和７年卒業予定の大学生らの就職戦線は、空前の売り手市場となっています。そんな中、学生はどのように就職活動と向き合っているのでしょうか。就活を進める中で感じたことを川柳に詠んでもらいました。約５５０の",
+          "link": "https://news.yahoo.co.jp/articles/6f508aefae9db2bab014ceb455b577f353b3a482?source=rss",
+          "publishedOn": "2024-06-12T00:13:48.000Z",
+          "wordCount": 826,
+          "title": "空前の売り手市場、ホンネで一句…就活の長期化で疲労にじむ川柳も　就活リサーチ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000048-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/73340af880342684d058d23a219d5d9e3b28b375?source=rss",
+          "author": null,
+          "description": "日差しが強くなり、日中の気温はぐんぐん上昇し、本格的な夏の到来まであと少し。そろそろ足元は、軽快で涼しげなサンダルに履き替えたいところです。\n\nそのとき「サンダルは素足に履くもの」と決めつけてはいませ",
+          "link": "https://news.yahoo.co.jp/articles/73340af880342684d058d23a219d5d9e3b28b375?source=rss",
+          "publishedOn": "2024-06-12T00:12:43.000Z",
+          "wordCount": 755,
+          "title": "サンダルの季節到来　シースルーソックスで軽快・涼しげに　おしゃれは足元から　大人流素敵の見つけ方(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000047-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d088ef9ee0ec2a0ae439d14b7b7e77be74afb9bf?source=rss",
+          "author": null,
+          "description": "巨大なシャンデリアが照らすステージで、スポットライトを浴びるのは落語家の月亭太遊（４０）。ビールケースを積み上げた即席の高座から響く軽快な落語に会場が笑いに包まれる。昭和４４年創業当時のきらびやかな輝",
+          "link": "https://news.yahoo.co.jp/articles/d088ef9ee0ec2a0ae439d14b7b7e77be74afb9bf?source=rss",
+          "publishedOn": "2024-06-12T00:12:12.000Z",
+          "wordCount": 756,
+          "title": "異例の舞台で落語会　レトロ酒場に笑い咲く　大阪・十三・神戸・新開地　活写２０２４(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000046-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f37b1402a145516ce70438ee1b31a839baeae556?source=rss",
+          "author": null,
+          "description": "「高校１年の時に三島由紀夫の小説を読んで、はまったんです。登場人物の思索が自分の腑に落ちる形で描写されていて。自分もあんな文章を書けたらなと」\n\nそう話すのは『海を覗く』（新潮社）で昨年、新潮新人賞を",
+          "link": "https://news.yahoo.co.jp/articles/f37b1402a145516ce70438ee1b31a839baeae556?source=rss",
+          "publishedOn": "2024-06-12T00:08:53.000Z",
+          "wordCount": 752,
+          "title": "三島由紀夫ファンの高校生が描きだした「美」　１７歳で新潮新人賞受賞の伊良刹那さん(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000045-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/322265757ad602592fd226454c78d477b6be622e?source=rss",
           "author": null,
@@ -36660,66 +36735,6 @@
           "wordCount": 701,
           "title": "昨季王者・琉球がしぶとく４強入り　ＢリーグＣＳ準々決勝、Ａ東京との第３戦に１点差勝利(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f145525facf0a70a72836d6af49c6c72cc9aa189?source=rss",
-          "author": null,
-          "description": "ロイヤルホテルが１３日発表した令和６年３月期連結決算は、新型コロナウイルス禍が収束してインバウンド（訪日客）需要が回復するなどし、本業のもうけを示す営業損益が５億円（前期は２９億円の赤字）と５年ぶりに",
-          "link": "https://news.yahoo.co.jp/articles/f145525facf0a70a72836d6af49c6c72cc9aa189?source=rss",
-          "publishedOn": "2024-05-13T12:43:01.000Z",
-          "wordCount": 742,
-          "title": "ロイヤルホテルが２７年ぶり復配　Ｚ世代狙う新ブランド立ち上げも(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000185-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4c5ca160bb91fa4c64305b656b3fb98e89610168?source=rss",
-          "author": null,
-          "description": "エア・ウォーター、岩谷産業の産業ガス大手２社の令和６年３月期連結決算が１３日、出そろった。両社とも原料高に対して価格改定やコスト削減を進め、増益を実現。台湾積体電路製造（ＴＳＭＣ）の熊本県進出など投資",
-          "link": "https://news.yahoo.co.jp/articles/4c5ca160bb91fa4c64305b656b3fb98e89610168?source=rss",
-          "publishedOn": "2024-05-13T12:38:09.000Z",
-          "wordCount": 739,
-          "title": "産業ガス２社のエア・ウォーター、岩谷産業　半導体分野が収益に貢献、増益決算(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000184-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/41c9f11f4dd8c4a4f5b9a137a41d0924e84b5fca?source=rss",
-          "author": null,
-          "description": "メッセンジャーＲＮＡ（ｍＲＮＡ）の技術を用いたワクチンを開発している米モデルナの日本法人、モデルナ・ジャパン（東京）の長山和正社長は１３日、オンラインで産経新聞のインタビューに応じ、「新型コロナウイル",
-          "link": "https://news.yahoo.co.jp/articles/41c9f11f4dd8c4a4f5b9a137a41d0924e84b5fca?source=rss",
-          "publishedOn": "2024-05-13T12:10:20.000Z",
-          "wordCount": 751,
-          "title": "モデルナ・ジャパン社長、コロナワクチン定期接種化後も「供給進める」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/919f7fc466bb2eace127ef213a13a7123f61644f?source=rss",
-          "author": null,
-          "description": "「おもてなしして喜んでもらえるのが好き」。東京・浅草の観光人力車「東京力車」の車夫、大利弥里（おおとし・みさと）さん（３０）は、国内外のファンから指名を受けるほどの人気者だ。日本らしさを感じられる娯楽",
-          "link": "https://news.yahoo.co.jp/articles/919f7fc466bb2eace127ef213a13a7123f61644f?source=rss",
-          "publishedOn": "2024-05-13T12:09:10.000Z",
-          "wordCount": 810,
-          "title": "「浅草の人力車のおかみ」はフォロワー５・４万人　大利弥里さん「お客さまの笑顔に全力」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000182-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/196049e506921c05d5442cb004c44ffdab57bd79?source=rss",
-          "author": null,
-          "description": "横浜市消防局は１３日、保土ケ谷消防署権太坂救急隊が急病人の８０代女性を救急車で病院に搬送する際、経路を間違えたために到着が約１３分遅れるミスがあったと発表した。女性は病院到着後、死亡した。到着の遅延が",
-          "link": "https://news.yahoo.co.jp/articles/196049e506921c05d5442cb004c44ffdab57bd79?source=rss",
-          "publishedOn": "2024-05-13T11:56:39.000Z",
-          "wordCount": 742,
-          "title": "救急車が経路間違えて病院への到着１３分遅れる、急病の８０代女性が死亡　横浜市消防局(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000179-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/738e60a63ca42ae490ae1a66f88ca3252411a7cc?source=rss",
-          "author": null,
-          "description": "小林製薬の「紅麹（べにこうじ）」成分入りサプリメントによる健康被害問題は、摂取した５人が死亡、２００人以上が入院するという深刻な事態に発展している。日本腎臓学会の最新の調査では、患者の９割以上で尿細管",
-          "link": "https://news.yahoo.co.jp/articles/738e60a63ca42ae490ae1a66f88ca3252411a7cc?source=rss",
-          "publishedOn": "2024-05-13T11:53:48.000Z",
-          "wordCount": 813,
-          "title": "紅麹サプリ、短期間の摂取でも尿細管機能が低下　「強い作用物質」か　患者9割がファンコニー症候群(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000178-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -42614,16 +42629,6 @@
           "wordCount": 2264,
           "title": "「唐揚げ店」の倒産、過去最多27件　前年比9倍に急増　「ブームの一巡」も影響",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/1/21dfe293-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035485.html",
-          "author": "dqnplus",
-          "description": "1 名前：名無しさん＠涙目です。：2024/05/13(月) 09:29:14.34 ID:E3ltSvRg0.net\n\n\n\n\n\n\n\n\nゴミ箱撤去した人の面子が潰れるから再設置できないとかいかにも日本人って感じだね。スマートゴミ箱ってそんな有効なの？透明な袋にした方が言い訳に持ってきてるテロ対策にはい...",
-          "link": "https://itainews.com/archives/2035485.html",
-          "publishedOn": "2024-05-13T12:33:54.000Z",
-          "wordCount": 2427,
-          "title": "京都人、案の定陰湿で馬鹿だった。外国人がゴミを捨てるのでゴミ箱を撤去するもゴミで溢れかえるwwwwww",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/7/e7298e98-s.png"
         }
       ]
     },
@@ -42632,6 +42637,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74484",
+          "author": "299",
+          "description": "玄関で遊んでいた子猫のひのきが２階にいる飼い主さんに気づくと、一生懸命に小さな身体でぴょこぴょこと階段を登ろうとしています。 階段の一段の高さはひのきにはハードルが高くて、一段ずつゆっくりとよじ登るようにしているのでその...\n子猫が階段を全身の力を込めて登ってくる様子が可愛すぎ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74484",
+          "publishedOn": "2024-06-12T00:00:48.000Z",
+          "wordCount": 1284,
+          "title": "子猫が階段を全身の力を込めて登ってくる様子が可愛すぎ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74484.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74451",
           "author": "299",
@@ -46161,16 +46176,6 @@
           "wordCount": 1287,
           "title": "初対面とは思えないぐらいすぐに意気投合したワンコと子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72566.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72552",
-          "author": "299",
-          "description": "白地にブチ模様のでっぷりとした猫さんが飼い主さんにアゴ下を掻いてもらって気持ちよさそうにしています。 ずっとアゴ下を掻いてもらっている間、なぜか照明が暗くなったり明るくなったりと変化しています。どうやら飼い主さんが猫さん...\n超能力？！猫の鼻をポチっとすると照明が変わる！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72552",
-          "publishedOn": "2024-05-13T13:00:04.000Z",
-          "wordCount": 1290,
-          "title": "超能力？！猫の鼻をポチっとすると照明が変わる！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72552.jpeg"
         }
       ]
     },
