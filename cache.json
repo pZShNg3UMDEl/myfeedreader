@@ -293,6 +293,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=77687",
+          "author": "多根清史",
+          "description": "音楽ストリーミングサービスSpotifyは数年前にロスレスの「Spotify Hi-Fi」を発表したが、いまだに実現していない。昨年半ばにもHi-Fi機能を含めた「Supremium」という最高額プランを準備中と報じられたものの、それ以降も公式の動きはなかった。 しかし、ついに今年（2024年）内に […]",
+          "link": "https://gadget.phileweb.com/post-77687/",
+          "publishedOn": "2024-06-12T02:41:17.000Z",
+          "wordCount": 706,
+          "title": "Spotify、2024年内に「Hi-Fi」提供開始か。別プランではなく有料オプションの可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/shutterstock_2384779991.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=77683",
+          "author": "Gadget Gate",
+          "description": "任天堂は、同社ゲーム機「Nintendo Switch」のアップデートとして、システムバージョン18.1.0を配信開始した。 本バージョンにて、X（旧Twitter）との連携機能が終了。これにともない、Switch本体のメニュー等からX関連の項目が削除されている。具体的に削除されたのは、以下の3か所 […]",
+          "link": "https://gadget.phileweb.com/post-77683/",
+          "publishedOn": "2024-06-12T02:13:13.000Z",
+          "wordCount": 707,
+          "title": "Nintendo SwitchのX（旧Twitter）連携がついに終了、アップデートで項目削除",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/shutterstock_744960313.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=77592",
           "author": "Munenori Taniguchi",
           "description": "マイクロソフトXboxブランドの責任者であるフィル・スペンサーCEOは、ここ最近、Xboxの携帯型ゲーム機の可能性についてポロポロと発言を漏らしている。 2月には自身が「携帯型ゲーム機の大ファンだ」と述べ、3月にも「Lenovo Legion GoをXboxのように使いたい」という考えをインタビュー […]",
@@ -8596,6 +8616,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ba1d482e382238a3ed41235467fe13f46513ba0a?source=rss",
+          "author": null,
+          "description": "応援団の大学生を撮影するために朝日新聞社の元社員の名刺を不正に使用したとして、警視庁築地署は私印不正使用の疑いで、神奈川県鎌倉市岩瀬、市消防本部職員、野見山大地容疑者（３０）を逮捕した。「朝日新聞の記",
+          "link": "https://news.yahoo.co.jp/articles/ba1d482e382238a3ed41235467fe13f46513ba0a?source=rss",
+          "publishedOn": "2024-06-12T02:35:17.000Z",
+          "wordCount": 717,
+          "title": "朝日新聞記者に成りすまし図る　元社員の名刺の不正使用容疑で鎌倉市消防本部職員を逮捕(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000068-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4f4a922b13c3def8915c5a965d12fbc9f7770be3?source=rss",
+          "author": null,
+          "description": "長崎県の五島列島・宇久島（うくじま）と寺島（いずれも佐世保市）で来週、国内最大の太陽光発電所（メガソーラー）が本格着工する。完成すれば両島の面積の１割が中国で生産された太陽光パネルに覆われる。事業を主",
+          "link": "https://news.yahoo.co.jp/articles/4f4a922b13c3def8915c5a965d12fbc9f7770be3?source=rss",
+          "publishedOn": "2024-06-12T02:30:07.000Z",
+          "wordCount": 803,
+          "title": "パネルは中国生産、国内最大メガソーラー着工　長崎・宇久島、事業者「有人国境離島守る」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000067-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5e8269fef42392a0b86f5ceb9b1b14fa148362a8?source=rss",
+          "author": null,
+          "description": "水の恵みに感謝する「水神祭」が、奈良県東吉野村の丹生（にう）川上神社（中社（なかしゃ））で営まれた。全国の利水・治水関係者らが参列し、水に関連する産業の発展と安全を祈願した。\n\n水に関する一切をつかさ",
+          "link": "https://news.yahoo.co.jp/articles/5e8269fef42392a0b86f5ceb9b1b14fa148362a8?source=rss",
+          "publishedOn": "2024-06-12T02:25:40.000Z",
+          "wordCount": 746,
+          "title": "奈良・丹生川上神社で「水神祭」　全国の利水・治水関係者が参列(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000066-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/dc20e48bddfde7fe013635c51434239bc386cbe6?source=rss",
+          "author": null,
+          "description": "岸田文雄首相はアジサイ（紫陽花）のようだ。こう書くと、ほめ言葉に思われそうだが、そうではない。\n\nアジサイは一雨ごとに花の色が変わるところから「七変化」の別名がある。花言葉は「移り気」が知られる。正岡",
+          "link": "https://news.yahoo.co.jp/articles/dc20e48bddfde7fe013635c51434239bc386cbe6?source=rss",
+          "publishedOn": "2024-06-12T02:24:31.000Z",
+          "wordCount": 782,
+          "title": "首相独断「聞く力」どこへ　欲に駆られて再選危うし　書く書く鹿じか(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e28dbe29766a021879ce0a7fa585d6e200e3d066?source=rss",
+          "author": null,
+          "description": "奈良県の山下真知事は１１日、昨年末に男性１人が犠牲になった土砂崩れに伴う通行止めで、大きな影響が出ている同県下北山村を訪れ、地元関係者らと意見交換した。地元からは一般車両の早期通行再開を願う声が相次ぎ",
+          "link": "https://news.yahoo.co.jp/articles/e28dbe29766a021879ce0a7fa585d6e200e3d066?source=rss",
+          "publishedOn": "2024-06-12T02:22:29.000Z",
+          "wordCount": 750,
+          "title": "「観光客激減で死活問題」「住民に閉塞感」土砂崩れで通行止めの奈良・下北山村で意見交換(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240612-00000064-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/8c8ef550950ed4b5f69840e072314b217a1725bd?source=rss",
           "author": null,
@@ -36785,16 +36855,6 @@
           "wordCount": 700,
           "title": "中韓外相「日中韓サミット」に向けて協力で一致　韓国外相が１年９カ月ぶり訪中(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b67282057b96500ba0ec0253c5338c4d84aeeb98?source=rss",
-          "author": null,
-          "description": "バスケットボールＢリーグの王者を決めるプレーオフ、日本生命チャンピオンシップ（ＣＳ）は１３日、東京・有明コロシアムなどで２戦先勝方式の準々決勝第３戦が行われ、昨季王者の琉球が東地区２位のＡ東京に５８－",
-          "link": "https://news.yahoo.co.jp/articles/b67282057b96500ba0ec0253c5338c4d84aeeb98?source=rss",
-          "publishedOn": "2024-05-13T14:22:08.000Z",
-          "wordCount": 701,
-          "title": "昨季王者・琉球がしぶとく４強入り　ＢリーグＣＳ準々決勝、Ａ東京との第３戦に１点差勝利(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -36803,6 +36863,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=248834",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、毎日の暮らしの豊かさを食を通して提案しているイタリアンワイン&カフェレストランチェーン「サイゼ […]",
+          "link": "https://foodfighter.jp/saizeriya-mixed-grill",
+          "publishedOn": "2024-06-12T02:23:17.000Z",
+          "wordCount": 1819,
+          "title": "【サイゼリヤ】ミックスグリル（牛100％ハンバーグ・辛味チキン）【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/ffc9ca93de54fec5dfc384590be65771.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=248786",
           "author": "foodfighter",
@@ -42669,16 +42739,6 @@
           "wordCount": 2281,
           "title": "【まんが】やくみつるが最若手？　時事ネタの4コマ漫画、存亡の危機「現役で描いてる方、ほとんどいない」打開策は？",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/c/9ce2be35-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035488.html",
-          "author": "dqnplus",
-          "description": "1 名前：草井満子(茸) [JP]：2024/05/12(日) 20:05:34.13 ID:MYTpDRLE0●.net\n\n\n\n\n\n\n\n\n（京都）京都市山科区御陵久保町付近でにおい嗅ぎ　５月１１日夕方 https://t.co/ff5p1VI1wG 通行中の女子生徒が背後に気配を感じ、振り返ると、男性がこの女子生徒の背中のにおいを...",
-          "link": "https://itainews.com/archives/2035488.html",
-          "publishedOn": "2024-05-13T14:31:32.000Z",
-          "wordCount": 2295,
-          "title": "女子中学生「(ん？なんか後ろにいる...)」　男「はぁJCの背中ってなんていい匂いなの(ｸﾝｸﾝ)」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/e/9ea6b2a7-s.png"
         }
       ]
     },
@@ -46226,16 +46286,6 @@
           "wordCount": 1288,
           "title": "まんまるな猫さんが毛づくろいしようとするもコロコロ転がって失敗に終わる",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72635.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72566",
-          "author": "299",
-          "description": "子猫がひとりベッドの上にちょこんと乗っかっていました。 すると部屋のドアが開いて勢いよくジャーマンシェパードが入ってきて迷うことなく子猫のいるベッドの上にジャンプ！この日はじめてワンコは子猫とご対面をしています。 まずは...\n初対面とは思えないぐらいすぐに意気投合したワンコと子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72566",
-          "publishedOn": "2024-05-13T14:30:11.000Z",
-          "wordCount": 1287,
-          "title": "初対面とは思えないぐらいすぐに意気投合したワンコと子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72566.jpeg"
         }
       ]
     },
