@@ -294,16 +294,6 @@
           "wordCount": 2521,
           "title": "保護機能や診断機能を備えた車載用DCモーター向けゲートドライバーIC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/16/cover_news069.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2405/15/news065.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、PowerPAK 8×8LRパッケージの第4世代600V EシリーズパワーMOSFET「SiHR080N60E」を発表した。従来のD2PAKパッケージよりも小さいフットプリントで、より高い電流を提供する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2405/15/news065.html",
-          "publishedOn": "2024-05-15T00:00:00.000Z",
-          "wordCount": 2537,
-          "title": "性能指数3.1Ω×nCの600V耐圧 小型パワーMOSFET",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/15/cover_news065.jpg"
         }
       ]
     },
@@ -5317,6 +5307,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121483/",
+          "author": null,
+          "description": "テレビアニメ「戦国妖狐 千魔混沌編」に松岡禎丞、羽多野渉、伊藤静の出演が決定した。主題歌アーティストも明らかになり、キービジュアルとキャラクターPVが公開された。 原作は、2008～16年に「月...",
+          "link": "https://anime.eiga.com/news/121483/",
+          "publishedOn": "2024-06-13T12:00:00.000Z",
+          "wordCount": 803,
+          "title": "「戦国妖狐 千魔混沌編」に松岡禎丞、羽多野渉、伊藤静が出演　初回OA前に第1部の総集編を放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121474/",
           "author": null,
           "description": "テレビアニメ「SHY」の第2期「東京奪還編」に羽多野渉、下野紘、橘田いずみが出演し、オープニング主題歌をロックアイドルグループ「PassCode」が担当することが決定した。本PVとキービジュアル...",
@@ -9201,6 +9206,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/56af4cd4904d1d867b18368703035efbc966aa3b?source=rss",
+          "author": null,
+          "description": "外交官として在任中の２月、東京都港区の銭湯の脱衣所で男子中学生の裸を撮影したとして、警視庁少年育成課は１３日、東京都迷惑防止条例違反などの疑いで、在日シンガポール大使館（港区）の元参事官の男（５５）を",
+          "link": "https://news.yahoo.co.jp/articles/56af4cd4904d1d867b18368703035efbc966aa3b?source=rss",
+          "publishedOn": "2024-06-13T12:19:59.000Z",
+          "wordCount": 735,
+          "title": "シンガポール大使館元参事官を略式起訴　銭湯で中学生盗撮　東京都迷惑防止条例違反(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000244-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1560fb0b4ac0ebd5bd90c63d7ca06c99e661d71e?source=rss",
+          "author": null,
+          "description": "【ファサーノ（イタリア南部）＝千葉倫之】岸田文雄首相は１３日、イタリアで開幕した先進７カ国首脳会議（Ｇ７サミット）の初日の討議に臨んだ。一連の日程を通じ、昨年５月の広島サミットの成果の継承、発展を目指",
+          "link": "https://news.yahoo.co.jp/articles/1560fb0b4ac0ebd5bd90c63d7ca06c99e661d71e?source=rss",
+          "publishedOn": "2024-06-13T12:14:58.000Z",
+          "wordCount": 777,
+          "title": "Ｇ７サミットが開幕　「広島」の成果継承・発展へ　岸田首相、グローバルサウスも意識(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000243-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e175b01bcb994af51d9e5ba6f1321cfeb34ea7d6?source=rss",
+          "author": null,
+          "description": "府警は、７月１日から受け付けを始める令和６年度の第２回採用選考（高卒見込み以上）の募集ポスターを発表した。警察学校で鍛錬を積む様子を表現し、「必ず　大阪　守り抜く」と力強い言葉が添えられている。\n\nポ",
+          "link": "https://news.yahoo.co.jp/articles/e175b01bcb994af51d9e5ba6f1321cfeb34ea7d6?source=rss",
+          "publishedOn": "2024-06-13T12:10:40.000Z",
+          "wordCount": 814,
+          "title": "「必ず　大阪　守り抜く」大阪府警が採用ポスター　応募者は減少傾向、人材確保苦慮(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000242-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a9c8e886e633f1c9b74ec52c6257eaa1683cd59d?source=rss",
+          "author": null,
+          "description": "【ソウル＝桜井紀雄】韓国大統領府高官は１２日、ロシアのプーチン大統領が数日内に北朝鮮を訪問するとの見方を示した。根拠には言及しなかった。ロシア紙が１０日、プーチン氏が数週間内に北朝鮮とベトナムを訪れる",
+          "link": "https://news.yahoo.co.jp/articles/a9c8e886e633f1c9b74ec52c6257eaa1683cd59d?source=rss",
+          "publishedOn": "2024-06-13T11:58:55.000Z",
+          "wordCount": 730,
+          "title": "プーチン氏の訪朝は「数日内」と韓国高官　同時期に韓国と中国の外交・安全保障戦略対話(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/de4c1e5a49be9e482b5b9ccec091f756760f1b32?source=rss",
           "author": null,
@@ -37710,36 +37755,6 @@
           "wordCount": 756,
           "title": "若者だけじゃない　大人世代向けの上質で品あるオールインワン　大人流素敵!の見つけ方（２３０）(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000046-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d1ec958e65d742bad641d75d9ba14be253d3b23a?source=rss",
-          "author": null,
-          "description": "味わったことのない嫌な感覚は、今も体の奥に残っている。２年前の４月２４日、全日本個人総合選手権決勝。徳洲会体操クラブの藤巻竣平は跳馬でロペス（伸身カサマツ跳び２回ひねり）に挑むも、空中で体をひねり切る",
-          "link": "https://news.yahoo.co.jp/articles/d1ec958e65d742bad641d75d9ba14be253d3b23a?source=rss",
-          "publishedOn": "2024-05-15T00:24:43.000Z",
-          "wordCount": 828,
-          "title": "右膝大けがの藤巻と岡　刺激し合った再起　五輪、ナショナル入り　ＮＨＫ杯に懸ける　　革新　徳洲会体操クラブの挑戦（５）(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000045-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a86403c1660ad9ba0e75481c89030db4a4931b86?source=rss",
-          "author": null,
-          "description": "和歌山県南部の８市町でつくる「南紀エリアスポーツ合宿誘致推進協議会」は、令和５年度に県外からスポーツ合宿などで訪れた人数が前年度（７万７７３３人）比１１・６％増の８万６７８３人だったと明らかにした。目",
-          "link": "https://news.yahoo.co.jp/articles/a86403c1660ad9ba0e75481c89030db4a4931b86?source=rss",
-          "publishedOn": "2024-05-15T00:23:27.000Z",
-          "wordCount": 724,
-          "title": "和歌山・南紀スポーツ合宿５年度は過去最多　「５類」移行で(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000044-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7c2828ae3b02648ea4f8585df83e68493afee555?source=rss",
-          "author": null,
-          "description": "ロシア軍によるウクライナ東部ハリコフ州への越境攻撃で、ウクライナ国防省情報総局のブダノフ局長は、増援部隊の到着などにより「今後数日間」で前線を安定させられるとし、近く露軍の前進を停止させられるとする観",
-          "link": "https://news.yahoo.co.jp/articles/7c2828ae3b02648ea4f8585df83e68493afee555?source=rss",
-          "publishedOn": "2024-05-14T23:54:15.000Z",
-          "wordCount": 769,
-          "title": "ウクライナ軍高官「ロシア軍が北部スムイ州にも越境攻撃の可能性」　米紙に危機感語る(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000038-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -39277,16 +39292,6 @@
           "wordCount": 1801,
           "title": "【ケンタッキー】フリフリクリスピー のり塩【数量限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/a4f9cd33f057d28ccde5b27394a2d381.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=245498",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの菓子パン「お抹茶あんぱん」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグル […]",
-          "link": "https://foodfighter.jp/711sej-matcha-anpan",
-          "publishedOn": "2024-05-15T00:16:55.000Z",
-          "wordCount": 1740,
-          "title": "【セブンイレブン】お抹茶あんぱん【新作コンビニ菓子パン】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/599397c3420aab600a636a09cbc4f0a2.jpg"
         }
       ]
     },
@@ -39295,6 +39300,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036517.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/06/13(木) 07:24:42.56 ID:+Q6E6ouf0●.net\n\n\n\n\n\n\n\n\nSerio.O top 10 de 2023 so tem 1 filme que nao tem ou aborda os elementos de heroismo pq e baseado em historias reais.A chamada da Veja nao vale nem o clique.#pracegover ...",
+          "link": "https://itainews.com/archives/2036517.html",
+          "publishedOn": "2024-06-13T12:01:11.000Z",
+          "wordCount": 2745,
+          "title": "【悲報】お前ら「ポリコレは売れない！黒人アリエルは爆死！」→2023年の興行収入、全世界8位",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/e/de3d6f22.png"
+        },
         {
           "id": "https://itainews.com/archives/2036507.html",
           "author": "yonepo665sfr",
@@ -47161,16 +47176,6 @@
           "wordCount": 1296,
           "title": "母猫の激しい毛づくろいにコロンと倒れてしまう子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72656.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72685",
-          "author": "299",
-          "description": "今回ご紹介するのは未熟児として生まれた子猫ちゃんの成長記録です。 小さいながらも頑張って生きた姿をご覧ください。 母猫の傍にいるのが未熟児として生まれた子猫のめいちゃん。 生まれた時は心肺停止状態だったというのですから、...\n未熟児だった子猫の成長記録 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72685",
-          "publishedOn": "2024-05-15T00:00:19.000Z",
-          "wordCount": 1290,
-          "title": "未熟児だった子猫の成長記録",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72685.jpeg"
         }
       ]
     },
