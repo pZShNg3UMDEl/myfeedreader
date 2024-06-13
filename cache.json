@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/13/news044.html",
+          "author": null,
+          "description": "GPUをチップレットで構成する（これを「ghiplet」と呼ぶ）動きは活発になりつつある。この動きで先行するのはAMDとIntelだが、NVIDIAでは目立った動きはないようだ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/13/news044.html",
+          "publishedOn": "2024-06-13T01:00:00.000Z",
+          "wordCount": 2542,
+          "title": "GPUをチップレットで構成する「Ghiplet」　次世代の設計では主流に？",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/13/cover_news044.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2406/13/news080.html",
           "author": null,
           "description": "太陽誘電は、車載向けの積層メタル系パワーインダクター「LACN」シリーズを発表した。使用温度範囲は－55～＋165℃で、車載用受動部品規格「AEC-Q200」に準拠している。",
@@ -8514,16 +8524,6 @@
           "wordCount": 4379,
           "title": "構ってほしいから",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10171",
-          "author": "watanabe@logipara.com",
-          "description": "ひさしぶりに、ド平日にお酒を飲みたくなりました。 こういう気持ち、優しく、大切に、健やかに、育んで抱きしめていきたいよね―――(スーパーへダッシュ)(ビール購入)(一気飲み)(ﾌﾟﾊｰ) 　 最近、ノイズキャンセリングイ […]",
-          "link": "https://logipara.com/diary-text/2024-05-15",
-          "publishedOn": "2024-05-14T13:05:59.000Z",
-          "wordCount": 4388,
-          "title": "(のん)ある気分",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -9026,6 +9026,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/7935c60d69270607e38a7a3f156f0039d4cb66a6?source=rss",
+          "author": null,
+          "description": "天皇に次ぐ権力を握った大豪族・葛城氏のトップの墓とされる奈良県御所市の宮山古墳（５世紀初め、墳丘長２３８メートル）の被葬者について、金剛山麓に築かれた南郷遺跡群の大型建物で政治を行った「首長」との説を",
+          "link": "https://news.yahoo.co.jp/articles/7935c60d69270607e38a7a3f156f0039d4cb66a6?source=rss",
+          "publishedOn": "2024-06-13T01:32:54.000Z",
+          "wordCount": 787,
+          "title": "宮山古墳の被葬者、金剛山麓で政治支配　「生前の居館を埴輪で再現」橿考研・研究員見解(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000064-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e2a5faf16ffe72fe00dde41975db5075610cffc?source=rss",
+          "author": null,
+          "description": "約２００羽のフラミンゴが飼育されている神戸市立王子動物園（同市灘区）でベニイロフラミンゴのひなが生まれ、小さくてかわいいひなに来園者は夢中になっている。\n\nベニイロフラミンゴはキューバ周辺に生息し、赤",
+          "link": "https://news.yahoo.co.jp/articles/2e2a5faf16ffe72fe00dde41975db5075610cffc?source=rss",
+          "publishedOn": "2024-06-13T01:19:01.000Z",
+          "wordCount": 727,
+          "title": "ベニイロフラミンゴ赤ちゃん「成長していくさまがかわいらしい」と人気　神戸・王子動物園(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000063-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7d057f1d1c171bd8c14247d46c841901e9d9c140?source=rss",
+          "author": null,
+          "description": "【ファサーノ（イタリア南部）＝黒瀬悦成】ロシアに侵略されたウクライナのゼレンスキー大統領は１３～１５日にイタリアで開かれる先進７カ国首脳会議（Ｇ７サミット）に出席する。ゼレンスキー氏はサミットに加え、",
+          "link": "https://news.yahoo.co.jp/articles/7d057f1d1c171bd8c14247d46c841901e9d9c140?source=rss",
+          "publishedOn": "2024-06-13T01:06:36.000Z",
+          "wordCount": 770,
+          "title": "Ｇ７サミットきょう開幕　ゼレンスキー氏、サミットほか国際会議を奔走　「公正な勝利」への結束を図る(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/227fde35f0302ce1be1ecaf82b2d0b86a8981dc7?source=rss",
           "author": null,
@@ -42759,26 +42789,6 @@
           "wordCount": 2290,
           "title": "男子サッカー部員１５人が飲酒、ＳＮＳ投稿で発覚　熊本、東海大星翔高",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/e/7ec11d63-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035530.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：煮卵 ★：2024/05/14(火) 13:18:30.80 ID:pKlY7mTl9.net\n\n\n\n\n\n\n\n\n#ニュースONE #東海テレビ愛知県小牧市の「#愛知中央美容専門学校」が今月末での閉校を突然決定し、生徒や保護者から疑問の声が上がっています。 https://t.co/YV0KkOAiGl— 東海テレビニュースONE (@...",
-          "link": "https://itainews.com/archives/2035530.html",
-          "publishedOn": "2024-05-14T14:01:28.000Z",
-          "wordCount": 2300,
-          "title": "美容専門学校が5月末閉校を突然決定 新入生は入学金等約100万円中5万円程しか返金されず",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/7/e7354fda-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035525.html",
-          "author": "dqnplus",
-          "description": "1 名前：それでも動く名無し：2024/05/14(火) 07:30:51.25 ID:4rAOmdMn0.net\n\n\n\n\n\n\n\n\n最近になって、私は非モテの男を彼氏や旦那にしなきゃいけないレベルの女であることを自覚して受け入れ始めたんだけど、非モテの男がもう少しレベル高くあって欲しい。具体的にはルッ...",
-          "link": "https://itainews.com/archives/2035525.html",
-          "publishedOn": "2024-05-14T13:46:33.000Z",
-          "wordCount": 2289,
-          "title": "【悲報】婚活女子(35)「え、まって、もしかして私、チーズと結婚するしかない感じ……？」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/5/8564e24e-s.png"
         }
       ]
     },
@@ -42787,6 +42797,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74522",
+          "author": "299",
+          "description": "シャム系の子猫が母猫とはぐれてしまってひとりぼっちでいるところをお姉さんが保護してくれました。生まれてまもないというのに、すでに過酷な生活を強いられてきていた子猫です。 人間に対して不信感があるようでなかなかスンナリとな...\n親からはぐれた子猫を保護！すぐに素敵な里親さんが見つかりました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74522",
+          "publishedOn": "2024-06-13T02:00:37.000Z",
+          "wordCount": 1284,
+          "title": "親からはぐれた子猫を保護！すぐに素敵な里親さんが見つかりました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74522.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74548",
           "author": "299",
