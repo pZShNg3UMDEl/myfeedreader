@@ -5287,6 +5287,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121477/",
+          "author": null,
+          "description": "「僕のヒーローアカデミア THE MOVIE ユアネクスト」のキービジュアルが公開された。 同ビジュアルは、総勢19人のキャラクターが大集合。ビジュアル後方には、今作のサブタイトルの由来となった...",
+          "link": "https://anime.eiga.com/news/121477/",
+          "publishedOn": "2024-06-13T09:00:00.000Z",
+          "wordCount": 774,
+          "title": "「ヒロアカ THE MOVIE」19キャラ集合のキービジュアル公開　「次は君だ―」と指さすオールマイトの姿",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121407/",
           "author": null,
           "description": "長井龍雪（監督）、岡田麿里（脚本）、田中将賀（キャラクターデザイン・総作画監督）の3人によるアニメ制作チーム「超平和バスターズ」が再集結した最新作「ふれる。」の公開を記念して、同チームが手がけた...",
@@ -9111,6 +9126,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/10f11e5850bf23ef2e6daab6d9b1aee0bed2550d?source=rss",
+          "author": null,
+          "description": "群馬県の山本一太知事は１３日の定例記者会見で、難航する前副知事の宇留賀敬一氏（４３）の再任人事を巡り、任期を１年限りとする妥協案を１２日の県議会全員協議会で示したことについて「１年というのは議会に対す",
+          "link": "https://news.yahoo.co.jp/articles/10f11e5850bf23ef2e6daab6d9b1aee0bed2550d?source=rss",
+          "publishedOn": "2024-06-13T09:02:05.000Z",
+          "wordCount": 739,
+          "title": "群馬・山本一太知事、「法的問題はない」と強調　副知事再任１年限りの提案(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000185-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/80665eb4cc8bbd7a93a2052f27ba3cf0ef96299e?source=rss",
+          "author": null,
+          "description": "東本願寺（京都市下京区）の飛び地境内で国の名勝としても知られる渉成園（同区）で梅の実の収穫が行われた。同寺を中心とした地域活性化に取り組むグループの活動の一環。収穫した梅の実を使った商品開発を進め、売",
+          "link": "https://news.yahoo.co.jp/articles/80665eb4cc8bbd7a93a2052f27ba3cf0ef96299e?source=rss",
+          "publishedOn": "2024-06-13T09:01:26.000Z",
+          "wordCount": 722,
+          "title": "渉成園で梅の実収穫 門前地域の活性化つなげる(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000184-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/17fa4d24ae5703e6e58df7ff0f5040aeb0d8c945?source=rss",
+          "author": null,
+          "description": "【ファサーノ（イタリア南部）＝坂本一之】バイデン米大統領はイタリア南部プーリア州の先進７カ国首脳会議（Ｇ７サミット）で、ウクライナ侵略への制裁で凍結したロシア資産の活用を軌道に乗せ、ウクライナ支援への",
+          "link": "https://news.yahoo.co.jp/articles/17fa4d24ae5703e6e58df7ff0f5040aeb0d8c945?source=rss",
+          "publishedOn": "2024-06-13T08:59:22.000Z",
+          "wordCount": 769,
+          "title": "米、ウクライナ支援継続へ資金確保と兵器生産に注力　安保協定署名も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000183-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1adab518f895177b70fa12ec5857efa520437267?source=rss",
+          "author": null,
+          "description": "立憲民主党の泉健太代表は１３日のニッポン放送の番組で、次期衆院選後に他党との連立政権を樹立する場合、共産党に関しては「政権に入ることは想定はしていない」と語った。\n\n泉氏は、衆院選後に「立民だけで政権",
+          "link": "https://news.yahoo.co.jp/articles/1adab518f895177b70fa12ec5857efa520437267?source=rss",
+          "publishedOn": "2024-06-13T08:49:55.000Z",
+          "wordCount": 778,
+          "title": "立民・泉健太代表、共産との連立政権「想定していない」　維新など念頭に非自民で呼びかけ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000180-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3bd1735a9690fa43dc658f03824a049f8ced73ea?source=rss",
+          "author": null,
+          "description": "先の大戦末期の沖縄戦で、沖縄県民の協力と支援をたたえ、その窮状を訴えた電文を発信した旧海軍の大田実司令官ら幹部が自決してから７９年。豊見城市の司令部壕で１３日、慰霊祭が営まれ、約１５０人が参列した。",
+          "link": "https://news.yahoo.co.jp/articles/3bd1735a9690fa43dc658f03824a049f8ced73ea?source=rss",
+          "publishedOn": "2024-06-13T08:49:06.000Z",
+          "wordCount": 766,
+          "title": "「沖縄県民斯ク戦ヘリ」　沖縄・豊見城の旧海軍司令部壕で慰霊祭(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000179-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/cfe77d7e89375fac6f2022a0a43fa152ba2990b7?source=rss",
           "author": null,
@@ -39075,6 +39140,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036514.html",
+          "author": "dqnplus",
+          "description": "1 名前：煮卵 ★：2024/06/13(木) 09:50:09.48 ID:zTqtqmNU9.net\n\n\n\n\n\n\n\n日本のアダルトコンテンツが“モザイク破壊”されて中国の闇マーケットで大人気 専門家は「比較的簡単」な技術と説明(ABEMA TIMES)#Yahooニュースhttps://t.co/y7rmSfbRi4— ぺんさん　吉原暴威 (@...",
+          "link": "https://itainews.com/archives/2036514.html",
+          "publishedOn": "2024-06-13T09:02:33.000Z",
+          "wordCount": 2511,
+          "title": "日本のアダルトコンテンツが“モザイク破壊”されて中国の闇マーケットで大人気 専門家は「比較的簡単」な技術と説明",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/4/b443d156-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036502.html",
           "author": "yonepo665sfr",
