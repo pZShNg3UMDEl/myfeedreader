@@ -5307,6 +5307,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121366/",
+          "author": null,
+          "description": "眞栄田郷敦が主演し、山口つばさ氏による人気漫画を実写映画化する「ブルーピリオド」の本予告と本ポスターが披露された。映像には、主題歌に決定したWurtSの書き下ろし曲「NOISE」が使用されている...",
+          "link": "https://anime.eiga.com/news/121366/",
+          "publishedOn": "2024-06-13T13:00:00.000Z",
+          "wordCount": 796,
+          "title": "眞栄田郷敦主演「ブルーピリオド」本予告＆ポスター完成　薬師丸ひろ子、江口のりこら追加キャスト発表　主題歌はWurtS",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121483/",
           "author": null,
           "description": "テレビアニメ「戦国妖狐 千魔混沌編」に松岡禎丞、羽多野渉、伊藤静の出演が決定した。主題歌アーティストも明らかになり、キービジュアルとキャラクターPVが公開された。 原作は、2008～16年に「月...",
@@ -8336,6 +8351,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10282",
+          "author": "watanabe@logipara.com",
+          "description": "昨日は口腔外科で親知らずを抜いたのですが、今日は別の歯科で歯科矯正の相談です。 なんだろう、この、そこはかとなく漂う浮気感。 　 　 そこで、歯科矯正の先生に、 「これはやりがいがありますねぇ」 とコメントいただいたこと […]",
+          "link": "https://logipara.com/health/2024/06/13/",
+          "publishedOn": "2024-06-13T13:09:12.000Z",
+          "wordCount": 4349,
+          "title": "歯科矯正の相談",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=10275",
           "author": "watanabe@logipara.com",
           "description": "この日想でも幾度となく話題にしてきた、私の左下にある親知らず。 口腔外科でないと抜けないぐらいの難物、と聞いていたのですが、歯医者で病院の紹介状をゲットすることに成功しました。 口腔外科の予約を取り、いよいよ当日です。  […]",
@@ -9206,6 +9231,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/129ee304854dcba864b2690872d833ae91fd2537?source=rss",
+          "author": null,
+          "description": "阪神５－０オリックス（１３日、京セラ）\n\nオリックスとの関西ダービーで２戦連続零封負けを喫していた阪神が一矢を報いた。０－０の四回、２３イニングぶりにスコアボードに数字が刻まれた。突破口となったのは、",
+          "link": "https://news.yahoo.co.jp/articles/129ee304854dcba864b2690872d833ae91fd2537?source=rss",
+          "publishedOn": "2024-06-13T13:10:33.000Z",
+          "wordCount": 742,
+          "title": "阪神原口が「神の手」で決死の生還　２３イニングぶり得点でオリックスに一矢(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000256-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5a783b3bcf424c08ff66b8fce4e78664611787d3?source=rss",
+          "author": null,
+          "description": "２０２５年大阪・関西万博を運営する日本国際博覧会協会（万博協会）は、入札の不成立で建設業者が決まっていなかったトイレ１カ所の工事について、３回目の入札で約１億５３００万円（税抜き、撤去工事費含む）で落",
+          "link": "https://news.yahoo.co.jp/articles/5a783b3bcf424c08ff66b8fce4e78664611787d3?source=rss",
+          "publishedOn": "2024-06-13T12:49:31.000Z",
+          "wordCount": 731,
+          "title": "万博「２億円トイレ」３回目で落札　面積縮小などで約１億５千万円に価格引き下げ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240613-00000251-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/da934c1d902f6d76b519172ace0fa3f10c721a9d?source=rss",
           "author": null,
@@ -37715,46 +37760,6 @@
           "wordCount": 720,
           "title": "京都での記念行事開催に謝意 トルコ大使が京都知事を表敬訪問(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000054-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/25d40c25168426086abab9cb1e35102426f93ebc?source=rss",
-          "author": null,
-          "description": "債務保証会社の社債購入を無登録で勧誘したとして、警視庁生活経済課は金融商品取引法違反（無登録営業）の疑いで、金融コンサルタント会社「ＴＨＥ　ＧＲＡＮＳＨＩＥＬＤ（ザ・グランシールド）」社長、中村佳敬容",
-          "link": "https://news.yahoo.co.jp/articles/25d40c25168426086abab9cb1e35102426f93ebc?source=rss",
-          "publishedOn": "2024-05-15T01:13:15.000Z",
-          "wordCount": 786,
-          "title": "１３００人から約８０億円集金か　無登録で社債勧誘　容疑で金融コンサル会社社長ら８人逮捕(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000053-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9a20f811b3b80f2c978bc573d3952f6e3ca736e5?source=rss",
-          "author": null,
-          "description": "金融コンサルタント会社「ザ・グランシールド」社長らが約８０億円を集めたとされる金融商品取引法違反事件。同社は社債勧誘トラブルとは別に、同社運営の歯科医院を巡るトラブルも抱えていた。マウスピースを使った",
-          "link": "https://news.yahoo.co.jp/articles/9a20f811b3b80f2c978bc573d3952f6e3ca736e5?source=rss",
-          "publishedOn": "2024-05-15T01:11:43.000Z",
-          "wordCount": 767,
-          "title": "金融コンサルの歯科矯正トラブルから事件発覚　負債に苦しむ利用者ら「被害者の気持ち分かって」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000052-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/84016085bad1d5a581b779507c2aada7c2fc4fc1?source=rss",
-          "author": null,
-          "description": "俳優で歌手の中村雅俊（７３）が、デビュー５０周年を迎えた。昭和のテレビドラマを代表する青春スターとして活躍。「青春って言葉が、いまだにちょっと残っているって感じ」。目を細め、５０年前と変わらぬ笑顔で語",
-          "link": "https://news.yahoo.co.jp/articles/84016085bad1d5a581b779507c2aada7c2fc4fc1?source=rss",
-          "publishedOn": "2024-05-15T01:06:24.000Z",
-          "wordCount": 804,
-          "title": "「青春って言葉が残ってる」中村雅俊、演じて歌ってデビュー５０周年　６月は座長公演も(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000051-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2b4cb0b67deb6232767dffe3d73a2ab209f89647?source=rss",
-          "author": null,
-          "description": "【ワシントン＝大内清】米東部ニューヨーク州で進むトランプ前大統領（共和党）の刑事裁判に共和党の有力者らが相次いで応援に駆けつけ、トランプ氏への忠誠心を競い合っている。トランプ氏は、１１月の大統領選での",
-          "link": "https://news.yahoo.co.jp/articles/2b4cb0b67deb6232767dffe3d73a2ab209f89647?source=rss",
-          "publishedOn": "2024-05-15T00:53:46.000Z",
-          "wordCount": 731,
-          "title": "米大統領選共和ランニングメート候補ら忠誠競う　トランプ裁判は「オーディション」の様相(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000049-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -39300,6 +39305,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036519.html",
+          "author": "dqnplus",
+          "description": "1 名前：山下：2024/06/12(水) 13:11:58.49 ID:IscJaz2R0.net\n\n\n\n\n\n\n\n\n【速報】ネクタイに『警察』の文字「罰金払わな逮捕するぞ」警官装い繁華街で恐喝未遂の疑い　男を逮捕　大阪市北区 https://t.co/UWe7jP8KQ4— サルパリ (@sarsaparilllla) June 12, 2024 \n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2036519.html",
+          "publishedOn": "2024-06-13T13:02:11.000Z",
+          "wordCount": 2514,
+          "title": "派遣(36)、ネクタイに警察庁と刺繍し「大阪府警だ！罰金50万払え！」店長「…警察呼ぶわ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/6/16b6b4e0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036518.html",
           "author": "damono3856",
@@ -43657,6 +43672,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74544",
+          "author": "299",
+          "description": "茶トラの子猫のひろしが、待ちきれない様子でごはんが出てくるのを待っています。 飼い主さんが小さなガラスの容器にカリカリを入れて持ってくると、ひろしが立ち上がりながら、はやくちょうだいとせかしてきます。 やっとごはんがもら...\nごはんを取られまいと死守する子猫ひろし first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74544",
+          "publishedOn": "2024-06-13T13:00:39.000Z",
+          "wordCount": 1290,
+          "title": "ごはんを取られまいと死守する子猫ひろし",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74544.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74540",
           "author": "299",
