@@ -5317,6 +5317,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/121489/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者特典、入場者プレゼント、来場者特典）を紹介する。 今週末は、本日公開の「...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/121489/",
+          "publishedOn": "2024-06-14T10:00:00.000Z",
+          "wordCount": 1069,
+          "title": "【入場特典リスト6月最新版】本日公開「ツキウタ。」「ラーメン赤猫」に注目　「ぼっち・ざ・ろっく！」は新特典も豪華",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121488/",
           "author": null,
           "description": "「戦姫絶唱シンフォギア」やゲーム「ワイルドアームズ」で知られる金子彰史が企画原案を務めるテレビアニメ「プリンセッション・オーケストラ」が、2025年に放送されることが決定した。葵あずさ、藤本侑里...",
@@ -9166,6 +9181,76 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b1d42074d7b504f46ad6c689aae0e3126bb2f1d8?source=rss",
+          "author": null,
+          "description": "最大震度６弱を観測した大阪北部地震発生から、１８日で６年を迎えるのに合わせ、大阪府高槻市立丸橋小学校で教職員を対象にした避難訓練が行われた。市内の小学校や幼稚園などの教職員らも見学に訪れ、今後の課題な",
+          "link": "https://news.yahoo.co.jp/articles/b1d42074d7b504f46ad6c689aae0e3126bb2f1d8?source=rss",
+          "publishedOn": "2024-06-14T10:05:57.000Z",
+          "wordCount": 737,
+          "title": "大阪北部地震の記憶を忘れない、教職員らが実践さながらの避難訓練(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000183-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6953a950d29e1671cc30e98ed2dc1b463439e5df?source=rss",
+          "author": null,
+          "description": "新型コロナウイルス対策で滋賀県が県青年会館（大津市唐橋町）を借り上げ、実際には利用がなかったにもかかわらず１０９５万円を支出したのは違法だとして、市民グループが１４日、三日月大造知事に１０９５万円の損",
+          "link": "https://news.yahoo.co.jp/articles/6953a950d29e1671cc30e98ed2dc1b463439e5df?source=rss",
+          "publishedOn": "2024-06-14T10:05:22.000Z",
+          "wordCount": 785,
+          "title": "滋賀県のコロナ対策　「利用ゼロで１０９５万円支出は違法」　市民グループが提訴(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000182-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/61c3595c64dffc0053612b210bca776e314d845f?source=rss",
+          "author": null,
+          "description": "自民党の麻生太郎副総裁と茂木敏充幹事長は１４日夜、東京都内の日本料理店で会食した。今国会の会期末を２３日に控え、閉会後の政権運営や党内情勢について意見を交わしたとみられる。両氏は定期的に会食を重ねてい",
+          "link": "https://news.yahoo.co.jp/articles/61c3595c64dffc0053612b210bca776e314d845f?source=rss",
+          "publishedOn": "2024-06-14T10:00:50.000Z",
+          "wordCount": 748,
+          "title": "自民・麻生太郎副総裁と茂木敏充幹事長が会食　国会閉会後の政権運営で意見交換か(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000181-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/36995278a38ffa587f6d201891afd6297dae007e?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国自動車工業協会が１４日発表した５月の新車販売台数は前年同月比１・５％増の２４１万７０００台だった。電気自動車（ＥＶ）やプラグインハイブリッド車（ＰＨＶ）などからなる「新エネルギー",
+          "link": "https://news.yahoo.co.jp/articles/36995278a38ffa587f6d201891afd6297dae007e?source=rss",
+          "publishedOn": "2024-06-14T10:00:06.000Z",
+          "wordCount": 722,
+          "title": "５月の中国新車販売１・５％増　輸出は２３・９％増もＥＵ追加関税方針で今後に不透明感(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000180-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/22df7d690aaac8b6442b94a91ce087aa19de704d?source=rss",
+          "author": null,
+          "description": "日本銀行は１４日の金融政策決定会合で、長期国債の買い入れについて、現行の月６兆円程度から減らす方針を決めた。植田和男総裁は記者会見で「減額は相応の規模になる」と強調。投資家の意見を確認し、７月の次回会",
+          "link": "https://news.yahoo.co.jp/articles/22df7d690aaac8b6442b94a91ce087aa19de704d?source=rss",
+          "publishedOn": "2024-06-14T09:59:01.000Z",
+          "wordCount": 765,
+          "title": "日銀の金融政策「量的引き締め」の段階に　国債買い入れ減額方針決定(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000179-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b54b361e6773894138cfacf84b64341aa9613535?source=rss",
+          "author": null,
+          "description": "先の大戦で亡くなった画学生の絵画などを収蔵し展示している長野県上田市の戦没画学生慰霊美術館「無言館」の共同館主に就任した文筆家の内田也哉子さん（４８）が１４日、東京都千代田区の立命館東京キャンパスで記",
+          "link": "https://news.yahoo.co.jp/articles/b54b361e6773894138cfacf84b64341aa9613535?source=rss",
+          "publishedOn": "2024-06-14T09:58:04.000Z",
+          "wordCount": 759,
+          "title": "「稀有な美術館の存在を伝えたい」　「無言館」共同館主に就任した内田也哉子さん(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/632d0ddd1e941fad1b80931aefd914ff7d1ad335?source=rss",
+          "author": null,
+          "description": "華族出身の俳優、久我美子さんが９日、誤嚥（ごえん）性肺炎のため死去した。９３歳だった。気品漂う映画スターとして知られたが、周囲の大反対を押し切って映画界に入り、独立プロダクションで活動するなど、内には",
+          "link": "https://news.yahoo.co.jp/articles/632d0ddd1e941fad1b80931aefd914ff7d1ad335?source=rss",
+          "publishedOn": "2024-06-14T09:48:16.000Z",
+          "wordCount": 748,
+          "title": "華族出身のスター、久我美子さん　黒澤明、小津安二郎…名監督に愛された清純派(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000175-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/c51095766478c81dca72b769b01226cd78d18d18?source=rss",
           "author": null,
@@ -37804,6 +37889,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=249060",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/mcdonalds-samurai-triple-2024",
+          "publishedOn": "2024-06-14T09:55:19.000Z",
+          "wordCount": 1817,
+          "title": "【マクドナルド】サムライマック 炙り醤油風 トリプル肉厚ビーフ【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/9979811e80b3bc716d8c2cfeeb0c556a.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=249037",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、すべての店で粉から作る讃岐うどんが人気のチェーン「讃岐釜揚げうどん　丸亀製麺」へ進撃しました。  […]",
@@ -39350,6 +39445,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036549.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/06/14(金) 10:15:34.89 ID:l6XywmBE0.net\n\n\n\n\n\n\n\n\n\n【皆さんはどうしてますか？】鉄フライパンを育てる論争「洗剤はダメ」「洗っても別に変わらない」　実際はどうなの？…メーカーに聞いた https://t.co/5F71FcU903⬇️記事を読む— ま...",
+          "link": "https://itainews.com/archives/2036549.html",
+          "publishedOn": "2024-06-14T10:01:13.000Z",
+          "wordCount": 2500,
+          "title": "お前らの中にまさかフライパンを育ててるやつはいないよな？　あれ意味ないから→",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/7/6720ae45-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036539.html",
           "author": "yonepo665sfr",
@@ -47276,16 +47381,6 @@
           "wordCount": 1286,
           "title": "初めてケージから外に出してみたらお父さんのところへ直行しました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72745.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72717",
-          "author": "299",
-          "description": "今回ご紹介するのは飼い主さんの手と楽しそうに遊んでいる子猫ちゃんです。 興奮しすぎて我を失っているように見えるのですが、飼い主さんが手を指鉄砲の形にすると子猫ちゃんは両手をあげて万歳！ まるで拳銃を突き付けられてホールド...\n飼い主さんの指鉄砲に両前足にあげてしまう子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72717",
-          "publishedOn": "2024-05-15T22:00:13.000Z",
-          "wordCount": 1295,
-          "title": "飼い主さんの指鉄砲に両前足にあげてしまう子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72717.jpeg"
         }
       ]
     },
