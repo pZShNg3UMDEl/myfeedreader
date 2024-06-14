@@ -304,16 +304,6 @@
           "wordCount": 2529,
           "title": "宇宙グレードの放射線耐性を持つ50W DC-DCパワーコンバーター",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/17/cover_news076.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2405/16/news069.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、車載用DCモーター向けゲートドライバーIC「L99H92」を発表した。プログラミングや診断用のSPIポート、チャージポンプ回路、各種保護機能、2つの電流センスアンプを備える。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2405/16/news069.html",
-          "publishedOn": "2024-05-16T00:00:00.000Z",
-          "wordCount": 2521,
-          "title": "保護機能や診断機能を備えた車載用DCモーター向けゲートドライバーIC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/16/cover_news069.jpg"
         }
       ]
     },
@@ -5337,6 +5327,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121486/",
+          "author": null,
+          "description": "テレビアニメ「終末トレインどこへいく？」の最終話となる12話が、制作上の都合により放送延期となることが決まった。6月13日、公式X（Twitter）で発表された。 6月17日には総集編が放送され...",
+          "link": "https://anime.eiga.com/news/121486/",
+          "publishedOn": "2024-06-14T12:00:00.000Z",
+          "wordCount": 728,
+          "title": "「終末トレインどこへいく？」最終話が6月24日に放送延期　17日は総集編を放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121448/",
           "author": null,
           "description": "俳優の成田凌が、7月期に読売テレビ・日本テレビ系で放送される日曜ドラマ「降り積もれ孤独な死よ」に主演することがわかった。吉川愛、小日向文世が共演する。物語のカギとなる「謎のマーク」をあしらった3...",
@@ -9231,6 +9236,86 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/4bcdfe14c526e5a748782e87b8fcafcd934f1ec3?source=rss",
+          "author": null,
+          "description": "栃木県那須町の河川敷で４月、会社役員夫妻の焼損遺体が見つかった事件で、警視庁・栃木県警合同捜査本部は１４日、殺人の疑いで首謀者とみられる関根誠端（せいは）被告（３２）＝死体損壊罪などで起訴＝と、その知",
+          "link": "https://news.yahoo.co.jp/articles/4bcdfe14c526e5a748782e87b8fcafcd934f1ec3?source=rss",
+          "publishedOn": "2024-06-14T12:20:29.000Z",
+          "wordCount": 732,
+          "title": "飲食店の経営で路線対立、夫妻に不満　那須２遺体、殺人容疑で娘の内縁夫ら再逮捕(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000224-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2d4e1cf78b23c904ad3d8b8c6ab5a99d53be48d6?source=rss",
+          "author": null,
+          "description": "日本バレーボール協会は１４日、女子日本代表のパリ五輪出場が確定していたと発表した。６大会連続の五輪切符を手にした。主将の古賀は「出場権獲得がネーションズリーグでの目標だったので、素直にうれしい」と喜び",
+          "link": "https://news.yahoo.co.jp/articles/2d4e1cf78b23c904ad3d8b8c6ab5a99d53be48d6?source=rss",
+          "publishedOn": "2024-06-14T12:09:03.000Z",
+          "wordCount": 745,
+          "title": "バレー女子、６大会連続の五輪　「１年目の貯金」世界ランキングのポイント先行で切符(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000222-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8e2f6da5c30f60f6a186f9834884fe41cd098b08?source=rss",
+          "author": null,
+          "description": "国際バレーボール連盟（ＦＩＶＢ）が日本女子代表の五輪出場が事実上決まったと通知したのはカナダ戦から一夜明けた１４日のことだった。混乱が生じた背景には世界ランキングのポイントシステムの複雑な計算方法があ",
+          "link": "https://news.yahoo.co.jp/articles/8e2f6da5c30f60f6a186f9834884fe41cd098b08?source=rss",
+          "publishedOn": "2024-06-14T12:06:53.000Z",
+          "wordCount": 763,
+          "title": "バレー女子、一転五輪出場決定のワケ　複雑な世界ランキングの計算　混乱招く(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000221-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ef7f742a0fbb39d0a0f1639f2ea69b7f75ff24d9?source=rss",
+          "author": null,
+          "description": "女子ゴルフのニチレイ・レディース第１日の１４日、同組で回ったツアー２勝の堀奈津佳が圧倒された。「すごい。自分がギャラリーになった気分で見とれてました」。その視線の先にいたのは小林夢果である。スタートの",
+          "link": "https://news.yahoo.co.jp/articles/ef7f742a0fbb39d0a0f1639f2ea69b7f75ff24d9?source=rss",
+          "publishedOn": "2024-06-14T12:05:02.000Z",
+          "wordCount": 757,
+          "title": "小林夢果が６アンダー首位　〝ジャンボ尾崎〟も絶賛の飛距離　女子ゴルフのニチレイＬ初日(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000220-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7cf71c325dd36fa772dc7d0b3561e22f84c5df1f?source=rss",
+          "author": null,
+          "description": "学校法人の土地取引を巡る横領事件で大阪地検特捜部に逮捕、起訴され、無罪が確定した不動産会社「プレサンスコーポレーション」元社長の山岸忍氏（６１）が違法捜査を訴えて国に賠償を求めた訴訟の口頭弁論が１４日",
+          "link": "https://news.yahoo.co.jp/articles/7cf71c325dd36fa772dc7d0b3561e22f84c5df1f?source=rss",
+          "publishedOn": "2024-06-14T12:01:59.000Z",
+          "wordCount": 743,
+          "title": "主任検事は逮捕保留進言「記憶ない」、進言１時間半後に逮捕　プレサンス国賠訴訟(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000218-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8f632ee8a890363115fc9a25be6058dbf4d8bb32?source=rss",
+          "author": null,
+          "description": "スカイドライブ（愛知県豊田市）は１４日、２０２５年大阪・関西万博の目玉「空飛ぶクルマ」について、万博では乗客を乗せずにデモフライトを行うと発表した。乗客を乗せる「商用運航」を模索していたが、事実上の断",
+          "link": "https://news.yahoo.co.jp/articles/8f632ee8a890363115fc9a25be6058dbf4d8bb32?source=rss",
+          "publishedOn": "2024-06-14T11:53:08.000Z",
+          "wordCount": 757,
+          "title": "万博「空飛ぶクルマ」商用飛行を断念　スカイドライブ、デモフライトにとどめる(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000217-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aa99138aac41ba52d904f45ccc7cba3e306529bd?source=rss",
+          "author": null,
+          "description": "１４日午後２時半ごろ、大阪市東住吉区北田辺の民家で、「白煙が出ている」と近くの住民から１１９番があった。火は約１時間後にほぼ消し止められたが、２階建て住宅延べ約１００平方メートルが焼けた。焼け跡から年",
+          "link": "https://news.yahoo.co.jp/articles/aa99138aac41ba52d904f45ccc7cba3e306529bd?source=rss",
+          "publishedOn": "2024-06-14T11:46:33.000Z",
+          "wordCount": 736,
+          "title": "住宅火災で2人死亡、70代父と40代長女と連絡取れず　大阪・東住吉(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000216-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/502e190381adf4662de58c18f683286bf75ef479?source=rss",
+          "author": null,
+          "description": "技能実習に代わる外国人材受け入れの新制度「育成就労」を創設する技能実習適正化法などの改正案が１４日、参院本会議で可決、成立した。外国人材の長期就労にかじを切る今回の法改正。労働力不足に悩む関西の製造業",
+          "link": "https://news.yahoo.co.jp/articles/502e190381adf4662de58c18f683286bf75ef479?source=rss",
+          "publishedOn": "2024-06-14T11:46:04.000Z",
+          "wordCount": 769,
+          "title": "「歓迎すべき」「失踪助長の可能性」、増える関西の外国人材　受け入れ新制度に期待と疑問の声　(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000214-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a26f5ebbcb5882bbf84f499de4eabb95074ee55d?source=rss",
           "author": null,
@@ -37960,36 +38045,6 @@
           "wordCount": 745,
           "title": "ロシア、ウクライナ南部ロボティネを再び制圧と主張　東部ハリコフ州集落２カ所も新たに(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/31fd88bfa6c98e7f1acd9fb1512271bac8a0b029?source=rss",
-          "author": null,
-          "description": "２月の早稲田大創造理工学部の一般入試で、眼鏡型端末「スマートグラス」で試験問題を撮影し、Ｘ（旧ツイッター）を通じて外部に流出させたとして、警視庁は１６日、偽計業務妨害の疑いで、受験した東京都内の無職の",
-          "link": "https://news.yahoo.co.jp/articles/31fd88bfa6c98e7f1acd9fb1512271bac8a0b029?source=rss",
-          "publishedOn": "2024-05-16T00:24:00.000Z",
-          "wordCount": 719,
-          "title": "早大入試流出、偽計業務妨害疑いで１８歳書類送検　スマートグラス使用「反省している」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000043-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/52f662981ef004757be5f1175d71062069f475a6?source=rss",
-          "author": null,
-          "description": "【ロンドン＝黒瀬悦成】中欧スロバキアで１５日、フィツォ首相（５９）が男に銃撃されて重体となった事件で、同国のカリナク国防相は、フィツォ氏が搬送先の病院で約３時間半にわたり手術を受けたものの、予断を許さ",
-          "link": "https://news.yahoo.co.jp/articles/52f662981ef004757be5f1175d71062069f475a6?source=rss",
-          "publishedOn": "2024-05-16T00:07:53.000Z",
-          "wordCount": 744,
-          "title": "銃撃で重体のスロバキア首相、予断許さない状況続く　国際社会からも非難の声相次ぐ(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0a5f87402885f77528fd31cdc2dc1bd3ca254c2f?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本によると、１６日午前７時４９分ごろ、大阪府泉佐野市の阪和線日根野－長滝間の架線に何らかの飛来物が付着していることが分かり、現場確認のため、阪和線の天王寺－和歌山間、関西空港線の日根野－関西空",
-          "link": "https://news.yahoo.co.jp/articles/0a5f87402885f77528fd31cdc2dc1bd3ca254c2f?source=rss",
-          "publishedOn": "2024-05-15T23:56:15.000Z",
-          "wordCount": 731,
-          "title": "JR阪和線と関空線で運転見合わせ　架線に飛来物確認で　大阪・泉佐野(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000037-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -39565,6 +39620,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036553.html",
+          "author": "dqnplus",
+          "description": "1 名前：PARADISE ★：2024/06/14(金) 11:24:24.40 ID:DE6Yr0HO9.net\n\n\n\n\n\n\n\n\nがん療養中の町長に「早く死んで」　町議が議会で発言、謝罪し撤回 https://t.co/JO6mVEr2NC 宮崎県川南町で12日に開かれた町議会6月定例会本会議で町議が、食道がんの療養のため公務を欠席し...",
+          "link": "https://itainews.com/archives/2036553.html",
+          "publishedOn": "2024-06-14T12:02:05.000Z",
+          "wordCount": 2620,
+          "title": "【宮崎】がん療養中の町長に「早く死んで」　町議が議会で発言、謝罪し撤回",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/b/7ba9eaac-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036540.html",
           "author": "damono3856",
@@ -47511,16 +47576,6 @@
           "wordCount": 1292,
           "title": "食後に甘えに来る子猫が可愛い",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72721.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72745",
-          "author": "299",
-          "description": "子猫たちが狭いケージのなかで大はしゃぎして遊んでいます。子猫たちは遊びモードに一度火がつくと、もう止まりません。 もう、じゃれあっているだけなのか本気の喧嘩をしているのかの区別さえつきません。やんのか〜のポーズも、かなり...\n初めてケージから外に出してみたらお父さんのところへ直行しました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72745",
-          "publishedOn": "2024-05-16T00:00:41.000Z",
-          "wordCount": 1286,
-          "title": "初めてケージから外に出してみたらお父さんのところへ直行しました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72745.jpeg"
         }
       ]
     },
