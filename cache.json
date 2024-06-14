@@ -2283,6 +2283,16 @@
       "siteUrl": "https://ninten-switch.com",
       "articles": [
         {
+          "id": "https://ninten-switch.com/?p=364336",
+          "author": "管理人",
+          "description": "株式会社小学館が、ファミリーコンピュータ40周年を記念した『てれびくん』8月号増刊『ファミコン四十年生』を2024年7月1日ごろに発売することを発表しました。 以下、本書の詳細と予約先です。 予約先と詳細 今後、予約が開 […]",
+          "link": "https://ninten-switch.com/famicom-40th-anniversary-tvkun-zouka-yoyaku",
+          "publishedOn": "2024-06-14T10:49:09.000Z",
+          "wordCount": 12051,
+          "title": "ファミリーコンピュータ40周年を記念した『てれびくん』8月号増刊『ファミコン四十年生』が2024年7月1日に発売決定！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/famicom-40th-anniversary-tvkun-zouka-yoyaku1.jpg"
+        },
+        {
           "id": "https://ninten-switch.com/?p=364314",
           "author": "管理人",
           "description": "グラビティゲームアライズ株式会社が、『東京サイコデミック』『神箱』 『Aeruta』 『THE GOOD OLD DAYS』の各タイトルを、2024年6月22日にベルサール秋葉原で開催されるインディーゲームイベント「TO […]",
@@ -5316,6 +5326,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121448/",
+          "author": null,
+          "description": "俳優の成田凌が、7月期に読売テレビ・日本テレビ系で放送される日曜ドラマ「降り積もれ孤独な死よ」に主演することがわかった。吉川愛、小日向文世が共演する。物語のカギとなる「謎のマーク」をあしらった3...",
+          "link": "https://anime.eiga.com/news/121448/",
+          "publishedOn": "2024-06-14T11:00:00.000Z",
+          "wordCount": 766,
+          "title": "成田凌主演、サスペンス漫画「降り積もれ孤独な死よ」実写ドラマ化　吉川愛＆小日向文世が共演　7月7日放送開始",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121490/",
           "author": null,
@@ -9196,6 +9221,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/77f2418c2f4b3a2210cd6de3801c559b87bf7dc8?source=rss",
+          "author": null,
+          "description": "パナソニックが発売予定のカメラについて、このカメラで撮ったものではない外部の写真を使って宣伝していた問題に関し、関西経済同友会の宮部義幸代表幹事（パナソニックホールディングス副社長）は１４日の定例会見",
+          "link": "https://news.yahoo.co.jp/articles/77f2418c2f4b3a2210cd6de3801c559b87bf7dc8?source=rss",
+          "publishedOn": "2024-06-14T10:58:00.000Z",
+          "wordCount": 758,
+          "title": "パナソニックの広告で別カメラの写真使用問題　ＨＤの宮部副社長「想像力が欠如」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000197-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/abd0f17dae1fd751b1ce2faf53320d31466e0146?source=rss",
+          "author": null,
+          "description": "兵庫県の西播磨県民局長（部長級）だった男性（６０）が斎藤元彦知事のパワハラ疑惑などを告発する文書を作成し、懲戒処分を受けた問題で、県議会で１４日、告発文書の内容を調べる調査特別委員会（百条委員会）の第",
+          "link": "https://news.yahoo.co.jp/articles/abd0f17dae1fd751b1ce2faf53320d31466e0146?source=rss",
+          "publishedOn": "2024-06-14T10:46:59.000Z",
+          "wordCount": 754,
+          "title": "百条委第１回会合、委員長「真相解明に全力」　次回２７日に証人喚問のルール協議　斎藤兵庫県知事の告発文書問題(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000196-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/0b015f8d1da10f321a100a0fe9f1a682e8571942?source=rss",
           "author": null,
@@ -37935,36 +37980,6 @@
           "wordCount": 747,
           "title": "明日の「虎に翼」　優三（仲野太賀）と婚約する寅子（伊藤沙莉）＜5月17日放送＞(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000034-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/61e53fa03040e835d57ba165cf746cf6734874af?source=rss",
-          "author": null,
-          "description": "脚本家の三谷幸喜さんと安住紳一郎アナウンサーが司会を務め、１週間のニュースを振り返る「情報７ｄａｙｓニュースキャスター」が２位に。新宿タワマン女性刺殺の続報や、水原一平被告ドラマ化構想などが注目された",
-          "link": "https://news.yahoo.co.jp/articles/61e53fa03040e835d57ba165cf746cf6734874af?source=rss",
-          "publishedOn": "2024-05-15T23:07:49.000Z",
-          "wordCount": 818,
-          "title": "「情報7daysニュースキャスター」が２位　タワマン刺殺と、水原通訳ドラマに注目　　週間視聴率トップ１０（５月６～１２日）(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000024-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d04f488b109d48f8858f7230e051f5797a8c1972?source=rss",
-          "author": null,
-          "description": "ステージ４の血液がんの闘病を経て、ライフワークが見つかった、とフリーアナウンサーの笠井信輔さん（６１）は言います。\n\n「ステージ４でしたが生き残りました」と言いづらい、という感覚もあるんですよね。それ",
-          "link": "https://news.yahoo.co.jp/articles/d04f488b109d48f8858f7230e051f5797a8c1972?source=rss",
-          "publishedOn": "2024-05-15T23:00:01.000Z",
-          "wordCount": 786,
-          "title": "「元気なあなたがむかつく」と言われても「生還した」と発信続ける　病と生きる　フリーアナウンサー・笠井信輔さん⑤(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000022-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f68b42d7851eb86e1f07f6a1494b4e85a0f6ef69?source=rss",
-          "author": null,
-          "description": "新型コロナウイルス禍でライブ・エンターテインメント業界が起死回生の策として打ち出したオンライン配信が、コロナ禍の打撃が沈静化した後も存在感を保っている。歌舞伎や落語といった伝統芸能の分野でもオンライン",
-          "link": "https://news.yahoo.co.jp/articles/f68b42d7851eb86e1f07f6a1494b4e85a0f6ef69?source=rss",
-          "publishedOn": "2024-05-15T22:58:12.000Z",
-          "wordCount": 791,
-          "title": "歌舞伎や落語、伝統芸能もオンラインで　コロナ禍経て「新たな楽しみ方」定着(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000021-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -37973,6 +37988,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=249083",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「冷しごま豆乳担々麺」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]",
+          "link": "https://foodfighter.jp/711sej-hiyashi-tantanmen-2024",
+          "publishedOn": "2024-06-14T11:11:13.000Z",
+          "wordCount": 1757,
+          "title": "【セブンイレブン】冷しごま豆乳担々麺【コンビニ弁当新商品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/d7651bfdc3f7695f2079dfc60f4fec81-300x300.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=249060",
           "author": "foodfighter",
@@ -43937,6 +43962,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74604",
+          "author": "299",
+          "description": "まるでテディベアのような子猫が飼い主さんの膝の上でヘソ天になって爆睡しています。 文句なしに可愛い、この小さな生き物に身も心もとろけてしまいそうになりますね。 前足も少し折り曲げていて胸のところでちゃんと揃えているポーズ...\n子猫のヘソ天姿にどっぷり癒されてしまいます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74604",
+          "publishedOn": "2024-06-14T11:00:54.000Z",
+          "wordCount": 1289,
+          "title": "子猫のヘソ天姿にどっぷり癒されてしまいます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74604.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74599",
           "author": "299",
