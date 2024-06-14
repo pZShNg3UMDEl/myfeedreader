@@ -5307,6 +5307,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121487/",
+          "author": null,
+          "description": "テレビアニメ「ダンジョン飯」の第2期の制作が決定し、特報映像が公開された。 同作は、シリーズ累計1400万部を突破する九井諒子氏による漫画が原作。冒険者のライオスたちが、モンスターを食材にした料...",
+          "link": "https://anime.eiga.com/news/121487/",
+          "publishedOn": "2024-06-14T08:00:00.000Z",
+          "wordCount": 718,
+          "title": "「ダンジョン飯」第2期の制作が決定　新規映像＆セリフをおさめた特報映像公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121469/",
           "author": null,
           "description": "放送中の「僕のヒーローアカデミア」第7期のリアルタイム上映イベントが、6月22日に東京・TOHOシネマズ六本木ヒルズで開催される。「ヒロアカ」第7期のなかでも大きな注目を集めている轟焦凍と荼毘こ...",
@@ -9126,6 +9141,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d0e2f7eeb7e2c9f71257d40901b4f89e284cd7ee?source=rss",
+          "author": null,
+          "description": "国民民主党の榛葉賀津也幹事長は１４日の記者会見で、東京都知事選（２０日告示、７月７日投開票）に小池百合子都知事が３選を目指して出馬表明したことについて、「王道」として昭和プロレス界を支えたジャイアント",
+          "link": "https://news.yahoo.co.jp/articles/d0e2f7eeb7e2c9f71257d40901b4f89e284cd7ee?source=rss",
+          "publishedOn": "2024-06-14T08:01:19.000Z",
+          "wordCount": 755,
+          "title": "国民・榛葉幹事長「小池氏はジャイアント馬場。見せ方うまい」蓮舫氏は「かじ取りできぬ」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000148-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/13cfa0e9f74e9691f005cde503eecbf9d8735b1f?source=rss",
+          "author": null,
+          "description": "公開中の作品から、文化部映画担当の編集委員がピックアップした「シネマプレビュー」をお届けします。上映予定は予告なく変更される場合があります。最新の上映予定は各映画館にお問い合わせください。\n\n■「ブル",
+          "link": "https://news.yahoo.co.jp/articles/13cfa0e9f74e9691f005cde503eecbf9d8735b1f?source=rss",
+          "publishedOn": "2024-06-14T08:00:00.000Z",
+          "wordCount": 852,
+          "title": "胸を打つ、子供時代の「空想の友だち」との再会　映画「ブルー　きみは大丈夫」　シネマプレビュー　新作映画評(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000131-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f66724eff45da72528c6390b186f0c87c0471d8e?source=rss",
+          "author": null,
+          "description": "性風俗店の営業が禁止されている地域で性的サービスを提供したとして、警視庁渋谷署は風営法違反などの疑いで、東京都目黒区中目黒、会社役員、広川恭一郎容疑者（４８）と千葉県柏市の風俗店従業員、宮崎隆容疑者（",
+          "link": "https://news.yahoo.co.jp/articles/f66724eff45da72528c6390b186f0c87c0471d8e?source=rss",
+          "publishedOn": "2024-06-14T07:54:43.000Z",
+          "wordCount": 729,
+          "title": "小学校の校門の隣のマッサージ店で性的サービス提供の疑い　男らを逮捕(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000123-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/93faca0b2d1d613bc9b8bb1ead71ddae8edb4c17?source=rss",
+          "author": null,
+          "description": "マネックスグループの清明祐子ＣＥＯ（最高経営責任者）は１４日までに産経新聞の単独インタビューに応じ、マネックス証券が１月、ＮＴＴドコモの連結子会社となった資本業務提携について「国民の資産形成に大きなイ",
+          "link": "https://news.yahoo.co.jp/articles/93faca0b2d1d613bc9b8bb1ead71ddae8edb4c17?source=rss",
+          "publishedOn": "2024-06-14T07:54:04.000Z",
+          "wordCount": 846,
+          "title": "マネックスグループＣＥＯ　清明祐子さん「２５年の実績、次の３年で同じだけ成長する」　Ｍｙ　Ｖｉｓｉｏｎ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000122-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a821f81e1a61cade0d69e5ea107d59e317e5ca82?source=rss",
           "author": null,
@@ -39081,6 +39136,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2036548.html",
+          "author": "dqnplus",
+          "description": "1 名前：香味焙煎 ★：2024/06/14(金) 06:50:18.09 ID:7WcCG+wY9.net\n\n\n\n\n\n\n\n\n京都・祇園祭の山鉾巡行「ショーではない」…プレミアム席を八坂神社宮司が問題視、市観光協会理事辞任の意向https://t.co/peHg9guGMu#ニュース— 読売新聞オンライン (@Yomiuri_Online) June...",
+          "link": "https://itainews.com/archives/2036548.html",
+          "publishedOn": "2024-06-14T08:01:52.000Z",
+          "wordCount": 2521,
+          "title": "【京都】祇園祭の山鉾巡行「ショーではない」…プレミアム席を八坂神社宮司が問題視、市観光協会理事辞任の意向",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/2/326374de-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2036542.html",
           "author": "damono3856",
           "description": "1 名前：(新日本) [IN]：2024/06/13(木) 23:18:17.04 ID:●.net\n\n\n\n\n\n\n\nひろゆき氏「コロンブス」ＭＶ停止に疑問「叩きたい人が社会正義ごっこ」も賛否「前提条件つける意味不明」「どこが悪い」/芸能/デイリースポーツ online https://t.co/wBZNemSq1D #DailySports— ...",
@@ -43448,6 +43513,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=74599",
+          "author": "299",
+          "description": "ひのきと秀吉が喧嘩の真っ最中のようです。ひのきは秀吉と目を合わせないようにしながら、じっと固まっています。秀吉は真正面からひのきの顔を覗き込みながらずっと睨みをきかせています。 今にもひのきに飛びかかっていきそうな秀吉に...\n子猫のオハナの登場で猫たちが戦意喪失してしまいます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74599",
+          "publishedOn": "2024-06-14T08:00:30.000Z",
+          "wordCount": 1284,
+          "title": "子猫のオハナの登場で猫たちが戦意喪失してしまいます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74599.jpeg"
+        },
+        {
           "id": "https://2-9-9.com/?p=74595",
           "author": "299",
           "description": "マンチカンのプリンが玄関までママをお出迎えにきてくれました。 ママは1泊2日の旅行にでかけていたので、この2日間はプリンはパパとお留守番だったので寂しい思いをしていたようです。プリンは、やっぱりママっ子のようですね。 マ...\nママが旅行から帰宅！プリンは大興奮でべったりです first appeared on 肉球ドットコム（299.com）.",
@@ -46976,16 +47051,6 @@
           "wordCount": 1295,
           "title": "飼い主さんの指鉄砲に両前足にあげてしまう子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72717.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72712",
-          "author": "299",
-          "description": "今回ご紹介するのは可愛いマンチカン子猫ちゃん達がワチャワチャするシーンです。 前足で殴ろうとしても、マンチカンの短い前足では届きません。 ぶんぶん空振りする様子が可愛らしいのでご覧ください。 ソファーの上にふんわり毛並み...\nマンチカン子猫のワチャワチャが可愛すぎる件 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72712",
-          "publishedOn": "2024-05-15T20:00:12.000Z",
-          "wordCount": 1289,
-          "title": "マンチカン子猫のワチャワチャが可愛すぎる件",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72712.jpeg"
         }
       ]
     },
