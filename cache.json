@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/14/news064.html",
+          "author": null,
+          "description": "ユーブロックスは、Bluetooth LE AoAを備えた屋内測位ソリューション「u-locate」を発表した。測位ミドルウェアや測位エンジン、アンカーポイント、タグで構成される。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/14/news064.html",
+          "publishedOn": "2024-06-14T00:00:00.000Z",
+          "wordCount": 2536,
+          "title": "Bluetooth LE AoAを備えた屋内測位ソリューション",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/14/cover_news064.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2406/13/news044.html",
           "author": null,
           "description": "GPUをチップレットで構成する（これを「ghiplet」と呼ぶ）動きは活発になりつつある。この動きで先行するのはAMDとIntelだが、NVIDIAでは目立った動きはないようだ。",
@@ -8125,36 +8135,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121270/",
-          "author": null,
-          "description": "「ペンギン・ハイウェイ」「雨を告げる漂流団地」のスタジオコロリドが手がけるオリジナル長編アニメ「好きでも嫌いなあまのじゃく」の完成披露試写会が5月14日、都内で行われ、声優を務める小野賢章と富田...",
-          "link": "https://anime.eiga.com/news/121270/",
-          "publishedOn": "2024-05-15T13:00:00.000Z",
-          "wordCount": 917,
-          "title": "小野賢章、キャラ設定に衝撃「こ、こ、こ、こ、高校1年生だぞ」　「好きでも嫌いなあまのじゃく」完成披露試写会",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121274/",
-          "author": null,
-          "description": "「女神のカフェテラス」第2期に高橋李依、竹達彩奈、上田麗奈、花澤香菜、芹澤優が出演することが明らかになった。第1弾PV「Family ver.」と新キービジュアル、放送スケジュールも発表されてい...",
-          "link": "https://anime.eiga.com/news/121274/",
-          "publishedOn": "2024-05-15T12:00:00.000Z",
-          "wordCount": 901,
-          "title": "「女神のカフェテラス」第2期で高橋李依、竹達彩奈、上田麗奈、花澤香菜、芹澤優がライバル店の店員に",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -8568,16 +8548,6 @@
           "publishedOn": "2024-05-16T13:35:54.000Z",
           "wordCount": 4386,
           "title": "1時間だけ、1時間だけだから(先っちょだけだから)",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10175",
-          "author": "watanabe@logipara.com",
-          "description": "あなたが深遠を覗くとき、深淵はちょっとうれしい。",
-          "link": "https://logipara.com/diary-text/2024-05-16",
-          "publishedOn": "2024-05-15T12:47:20.000Z",
-          "wordCount": 4379,
-          "title": "構ってほしいから",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
@@ -9061,6 +9031,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/11fb4494476de15b62a9b341f29a476716fdcc2f?source=rss",
+          "author": null,
+          "description": "天皇、皇后両陛下のご訪英期間中の２２～２９日、皇嗣（こうし）の秋篠宮さまが国事行為を臨時代行されることが、１４日の閣議で決定した。出発前日の２１日、天皇陛下が秋篠宮さまに勅書（ちょくしょ）を渡される。",
+          "link": "https://news.yahoo.co.jp/articles/11fb4494476de15b62a9b341f29a476716fdcc2f?source=rss",
+          "publishedOn": "2024-06-14T00:33:31.000Z",
+          "wordCount": 740,
+          "title": "秋篠宮さまが国事行為臨時代行へ　閣議決定、両陛下のご訪英中(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000040-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/409875926f451df5a5beb2507256dd4ba6d5ce59?source=rss",
+          "author": null,
+          "description": "１４日の東京株式市場の日経平均株価は続落して始まった。ただ、値動きは小幅で方向感にやや乏しい展開。日本銀行のきょうの金融政策決定会合の結果次第で円相場が上下に大きく動く可能性もあり、様子見気分も広まっ",
+          "link": "https://news.yahoo.co.jp/articles/409875926f451df5a5beb2507256dd4ba6d5ce59?source=rss",
+          "publishedOn": "2024-06-14T00:32:56.000Z",
+          "wordCount": 733,
+          "title": "東京株、続落してスタート　日銀会合結果待ちで様子見気分も広まる(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000039-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ed2e5472a9a5976c8a829493105a982e2ade6a95?source=rss",
+          "author": null,
+          "description": "「蛇の道」は黒沢清監督（６８）が、平成１０年の同名自作の舞台をパリに置き換え、フランスのスタッフでまったく新たに撮り直したサスペンスだ。主演は、柴咲コウ（４２）。謎を秘めた難しい役。しかも、せりふは、",
+          "link": "https://news.yahoo.co.jp/articles/ed2e5472a9a5976c8a829493105a982e2ade6a95?source=rss",
+          "publishedOn": "2024-06-14T00:07:41.000Z",
+          "wordCount": 777,
+          "title": "柴崎コウ、フランス語猛レッスンで臨んだ映画「蛇の道」　パリ暮らしを現地で体になじませ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240614-00000037-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/be0f575bebae0cf4ccf391ab97a42eaf30287f1d?source=rss",
           "author": null,
@@ -36970,56 +36970,6 @@
           "wordCount": 700,
           "title": "柏の細谷が今季初得点の決勝ゴール、パリ五輪のエース格「お待たせしました」(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/57e6cab42ef9efb90f09d5e457f7cb8d59e50304?source=rss",
-          "author": null,
-          "description": "５大銀行グループの令和６年３月期決算が１５日、出そろった。三菱ＵＦＪフィナンシャル・グループ（ＦＧ）など３メガバンクの合計の連結最終利益は３兆円を突破した。三菱ＵＦＪＦＧと三井住友フィナンシャルグルー",
-          "link": "https://news.yahoo.co.jp/articles/57e6cab42ef9efb90f09d5e457f7cb8d59e50304?source=rss",
-          "publishedOn": "2024-05-15T12:57:46.000Z",
-          "wordCount": 775,
-          "title": "３メガバンク、最終利益３兆円突破　海外で利ざや拡大、円安・株高も追い風(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000248-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/591ca91143a41c790f566cb04b2ccc316c9f038b?source=rss",
-          "author": null,
-          "description": "東京都江戸川区は今月から、区職員がアロハシャツを着て勤務する「アロハデー」を始めた。姉妹都市である米ハワイ州ホノルル市のＰＲや、クールビズの推進のために始めた試みで、今年で３年目。年々対象の期間を拡大",
-          "link": "https://news.yahoo.co.jp/articles/591ca91143a41c790f566cb04b2ccc316c9f038b?source=rss",
-          "publishedOn": "2024-05-15T12:28:07.000Z",
-          "wordCount": 787,
-          "title": "東京・江戸川区で職員のアロハ着用開始　ホノルルと姉妹都市、３年目の夏(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000245-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/608a07d6f2907dcc411e55e80a5689e962c44f72?source=rss",
-          "author": null,
-          "description": "１５日に発表された日本郵政と大和証券グループ本社の提携拡大を後押ししたのは、「貯蓄から投資へ」の流れの加速だ。政府が「資産運用立国実現プラン」を打ち出し、３月には日本銀行がマイナス金利政策を解除するな",
-          "link": "https://news.yahoo.co.jp/articles/608a07d6f2907dcc411e55e80a5689e962c44f72?source=rss",
-          "publishedOn": "2024-05-15T12:11:24.000Z",
-          "wordCount": 750,
-          "title": "「貯蓄から投資」の流れ後押し　日本郵政、郵便局ネットワーク活用ににじむ期待(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000237-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/312bf1acc65e4ed7a167917b6c4988613138973d?source=rss",
-          "author": null,
-          "description": "日米両政府は１５日、北朝鮮や中国、ロシアが開発を進めている極超音速兵器を迎撃するための新型ミサイルの共同開発について、日米の役割分担などを定めた取り決め文書に署名した。日本側はミサイルのロケットモータ",
-          "link": "https://news.yahoo.co.jp/articles/312bf1acc65e4ed7a167917b6c4988613138973d?source=rss",
-          "publishedOn": "2024-05-15T11:59:13.000Z",
-          "wordCount": 778,
-          "title": "日米新型ミサイル共同開発が始動　極超音速を迎撃、日本側はモーターなど担当(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000235-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1b0f0a334818974bc3239a20bb43b7e508ddf8e2?source=rss",
-          "author": null,
-          "description": "自民党派閥の政治資金パーティー収入不記載事件を受けた政治資金規正法改正を巡る自民、公明両党の与党協議が１５日、不調に終わり、自民は単独で法案を国会に提出する方向で調整に入った。複数の与党関係者が明らか",
-          "link": "https://news.yahoo.co.jp/articles/1b0f0a334818974bc3239a20bb43b7e508ddf8e2?source=rss",
-          "publishedOn": "2024-05-15T11:58:44.000Z",
-          "wordCount": 784,
-          "title": "自民、規制法改正法案単独提出へ　パーティー券公開基準は「１０万円超」に(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240515-00000234-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -37028,6 +36978,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=249021",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、アサヒ飲料の新商品「カルピス ブレンドリッチメロン」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
+          "link": "https://foodfighter.jp/asahiinryo-calpis-blend-rich-melon",
+          "publishedOn": "2024-06-14T00:45:16.000Z",
+          "wordCount": 1758,
+          "title": "アサヒ飲料 カルピス ブレンドリッチメロン【新作ドリンク】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/c912e427327d245bad2f03e2f4c945ab.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=248999",
           "author": "foodfighter",
@@ -42894,26 +42854,6 @@
           "wordCount": 2320,
           "title": "【悲報】イラン国営放送､唐突に日本を煽り炎上!!｢日本は歴史のない国民国家なので神話に根拠を求めた｣",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/f/6f27d832-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035552.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2024/05/15(水) 09:14:05.04 ID:BWCpJfhv9.net\n\n\n\n\n\n\n\nゴキブリが原因で火災発生…殺虫剤を注入したビニール袋にライターで火を付け激しく引火し住人3人ケガ　東京・上野 #FNNプライムオンライン https://t.co/FKXpWjtB7m— FNNプライムオンライン ...",
-          "link": "https://itainews.com/archives/2035552.html",
-          "publishedOn": "2024-05-15T12:44:55.000Z",
-          "wordCount": 2336,
-          "title": "ゴキブリが原因で火災発生…殺虫剤を注入したビニール袋にライターで火を付け激しく引火し住人3人ケガ　東京・上野",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/b/1bd2cdc7-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035557.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(SB-Android) [RU]：2024/05/15(水) 00:33:17.43 ID:cg0ag6Zy0.net \n\n\n\n\n\n\n\n\n\n【頂きVに殺意マロ】Vtuberを恨んでいる人結構見かけます【かなえ先生切り抜き】西新宿タワマン刺殺事件　りりちゃん　頂き女子 https://t.co/8hxWNrQGhk @YouTube...",
-          "link": "https://itainews.com/archives/2035557.html",
-          "publishedOn": "2024-05-15T12:01:58.000Z",
-          "wordCount": 2463,
-          "title": "【悲報】チー牛「VTuberに金を騙し取られた！」→激怒し殺害をほのめかすメッセージを送付",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/9/29d168f8-s.png"
         }
       ]
     },
@@ -42922,6 +42862,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74614",
+          "author": "299",
+          "description": "人間の赤ちゃんがテレビに夢中になっていると、子猫が赤ちゃんの足に絡みついて、一緒に遊んでにゃ〜と激しくアピールを繰り返しています。 赤ちゃんの足をガジガジ噛んでもだめなら、今度は手にじゃれついて猫キックまでしています。 ...\nテレビに夢中な赤ちゃんに遊んで欲しくて激しいアピールをする子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74614",
+          "publishedOn": "2024-06-14T00:00:46.000Z",
+          "wordCount": 1285,
+          "title": "テレビに夢中な赤ちゃんに遊んで欲しくて激しいアピールをする子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74614.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74583",
           "author": "299",
@@ -46451,16 +46401,6 @@
           "wordCount": 1300,
           "title": "ご飯ニャ？と様子を見に来る子猫達",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72693.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72680",
-          "author": "299",
-          "description": "今回ご紹介するのは大好きなパパさんに浮気されてしまう猫ちゃんです。 なんとパパさんの膝上には自分以外の猫ちゃんがのっかっていました。 いくら一緒に暮らす猫ちゃんとはいえ、自分以外の猫が！とショックを受けたんでしょう。 パ...\n大好きなパパさんに浮気され、寂しそうにする愛猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72680",
-          "publishedOn": "2024-05-15T13:00:12.000Z",
-          "wordCount": 1299,
-          "title": "大好きなパパさんに浮気され、寂しそうにする愛猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72680.jpeg"
         }
       ]
     },
