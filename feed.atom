@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T07:14:03.784Z</updated>
+    <updated>2024-06-14T07:25:07.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ニコ動」復旧へ１カ月超の見込み　ランサムウェア含む大規模なサイバー攻撃を確認(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/8b77e76c707ee46247b32a7c8fffa4ce92334884?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/8b77e76c707ee46247b32a7c8fffa4ce92334884?source=rss"/>
+        <updated>2024-06-14T07:15:33.000Z</updated>
+        <summary type="html"><![CDATA[８日未明に出版大手ＫＡＤＯＫＡＷＡのグループ会社の複数のサーバーがサイバー攻撃を受けた問題で、ＫＡＤＯＫＡＷＡと動画配信サイト「ニコニコ動画」を運営するドワンゴは１４日、サイバー攻撃はデータを暗号化す]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キリンＨＤ、ファンケルへのＴＯＢ開始決定　完全子会社化で健康事業を一層強化(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/a5df6f7e7602438c27a7e9020919c7396b607264?source=rss</id>
