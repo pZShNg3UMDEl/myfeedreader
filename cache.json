@@ -8180,21 +8180,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121275/",
-          "author": null,
-          "description": "「ガンダム」シリーズの45周年を記念し、全国の映画館で劇場アニメ5作品を上映する「ガンダムシネマフェス」の開催が決定した。6月7日の埼玉・MOVIX三郷を皮切りに、12月5日まで各地で順次展開さ...",
-          "link": "https://anime.eiga.com/news/121275/",
-          "publishedOn": "2024-05-16T12:00:00.000Z",
-          "wordCount": 924,
-          "title": "ガンダム劇場版5作品を上映する「ガンダムシネマフェス」全国で開催　「GUNDAM NEXT FUTURE」と連動",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9091,6 +9076,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/e143faa2b37f08dd91830f06e9ba6341f6501416?source=rss",
+          "author": null,
+          "description": "【ファサーノ（イタリア南部）＝板東和正】ローマ教皇フランシスコは１４日、イタリア南部プーリア州で開かれている先進７カ国首脳会議（Ｇ７サミット）に出席し、人工知能（ＡＩ）がもたらす課題について講演した。",
+          "link": "https://news.yahoo.co.jp/articles/e143faa2b37f08dd91830f06e9ba6341f6501416?source=rss",
+          "publishedOn": "2024-06-15T00:38:59.000Z",
+          "wordCount": 765,
+          "title": "教皇、Ｇ７サミットでＡＩの軍事利用に懸念表明　参加は史上初(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240615-00000053-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6aec906c4c6d78981bd0ab0fa00390cec83b9f26?source=rss",
+          "author": null,
+          "description": "６月２１日から全国の映画館で上映される「九十歳。何がめでたい」（前田哲監督）は、直木賞作家、佐藤愛子（１００）のベストセラーエッセーを映画化。９０歳の俳優、草笛光子が主演し、ユーモアで包み込みながら、",
+          "link": "https://news.yahoo.co.jp/articles/6aec906c4c6d78981bd0ab0fa00390cec83b9f26?source=rss",
+          "publishedOn": "2024-06-15T00:30:00.000Z",
+          "wordCount": 816,
+          "title": "草笛光子、９０歳　映画主演にエッセー本も出版　嘘つかず「そのまんま光子」が健康の秘密(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240615-00000052-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0e3760487c8d8ebd3573a634a2fa1eb552bb5a39?source=rss",
+          "author": null,
+          "description": "給食のない夏休みに一人親家庭を支援しようと、奈良県田原本町の安養寺に拠点を置くＮＰＯ法人「おてらおやつクラブ」は、農家から寄付された米などの食品を各家庭に配る「夏のおすそわけ」を実施する。物価高騰の影",
+          "link": "https://news.yahoo.co.jp/articles/0e3760487c8d8ebd3573a634a2fa1eb552bb5a39?source=rss",
+          "publishedOn": "2024-06-15T00:01:55.000Z",
+          "wordCount": 789,
+          "title": "物価高騰で支援求める声急増、一人親家庭に「夏のおすそわけ」　奈良のＮＰＯ法人(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240615-00000051-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a2343f4aa5710397005f969453662116e635d465?source=rss",
+          "author": null,
+          "description": "高校1年の長男が部活仲間を家に呼んで、サッカーの欧州チャンピオンズリーグ（CL）決勝を見る、というお泊まり会を企画。日本時間2日午前4時キックオフだったから寝てたけど、子供たちは徹夜したようだ。眠そう",
+          "link": "https://news.yahoo.co.jp/articles/a2343f4aa5710397005f969453662116e635d465?source=rss",
+          "publishedOn": "2024-06-15T00:01:27.000Z",
+          "wordCount": 743,
+          "title": "欧州CLから1年越しの「TOKYO VICE」　イマドキTV+(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240615-00000050-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/469206dcf799e8967ccce467f8c3cda21d5120d7?source=rss",
+          "author": null,
+          "description": "明治天皇の玄孫（やしゃご）で作家の竹田恒泰氏が代表を務め、教科書づくりに新規参入した令和書籍が申請した中学校の歴史教科書が文部科学省の検定に初めて合格した。採択されれば、令和７年度から授業で使われる。",
+          "link": "https://news.yahoo.co.jp/articles/469206dcf799e8967ccce467f8c3cda21d5120d7?source=rss",
+          "publishedOn": "2024-06-15T00:00:00.000Z",
+          "wordCount": 847,
+          "title": "「光も影もさらけ出す」…令和書籍の中学歴史教科書、検定初合格　竹田恒泰氏に聞く(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240615-00000049-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/14a9bde38ec11d51a0381dea9081ab24601ac681?source=rss",
           "author": null,
@@ -37230,46 +37265,6 @@
           "wordCount": 751,
           "title": "「ジョン・レノン　失われた週末」〝ヨーコ史観〟とは別視点で語られる真実　シネマプレビュー・プラス(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000023-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b2796dd23b7a70abfc139eff4e4974d35c653cd0?source=rss",
-          "author": null,
-          "description": "【北京＝三塚聖平】中国国営中央テレビ（電子版）によると、ロシアのプーチン大統領と中国の習近平国家主席が１６日に署名した「新時代の全面的な戦略的協力パートナー関係の深化」に関する共同声明の中で、東京電力",
-          "link": "https://news.yahoo.co.jp/articles/b2796dd23b7a70abfc139eff4e4974d35c653cd0?source=rss",
-          "publishedOn": "2024-05-16T12:42:27.000Z",
-          "wordCount": 702,
-          "title": "中露が共同声明で「台湾独立に反対」と強調　処理水は改めて「核汚染水」と言及(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e46e83cf401b37f9e9b45972511bc67252a7b44b?source=rss",
-          "author": null,
-          "description": "ロシアのプーチン大統領は今回の訪中で、対欧米を念頭に中国との共闘姿勢を確認し、両国の経済的連携を強化することで、自身最大の政治課題である対ウクライナ軍事作戦での「戦勝」につなげたい考えとみられる。中国",
-          "link": "https://news.yahoo.co.jp/articles/e46e83cf401b37f9e9b45972511bc67252a7b44b?source=rss",
-          "publishedOn": "2024-05-16T12:32:13.000Z",
-          "wordCount": 776,
-          "title": "プーチン氏、中露共闘で対ウクライナ「戦勝」狙う　中国は「戦後」の影響力確保か(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000242-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/85f8cd4642e17eaa385437521f0a3b95a72aefec?source=rss",
-          "author": null,
-          "description": "【北京＝三塚聖平】ロシアのプーチン大統領は１６日、北京を訪問し、中国の習近平国家主席と人民大会堂で会談した。中国国営中央テレビ（電子版）によると、両首脳は「新時代の全面的な戦略的協力パートナー関係の深",
-          "link": "https://news.yahoo.co.jp/articles/85f8cd4642e17eaa385437521f0a3b95a72aefec?source=rss",
-          "publishedOn": "2024-05-16T12:11:53.000Z",
-          "wordCount": 741,
-          "title": "中露首脳、結束を誇示　米欧主導の対露制裁打破狙う　共同声明で処理水「懸念」も(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f8f2b745e74dadaf41fa0835c0ec42ef13d6c129?source=rss",
-          "author": null,
-          "description": "歌手の吉川晃司さん（５８）とギタリストの布袋寅泰さん（６２）による音楽ユニット、ＣＯＭＰＬＥＸが１６日、１３年ぶりに〝復活〟し、能登半島地震被災地の復興支援を目的に「日本一心」と題したコンサートを東京",
-          "link": "https://news.yahoo.co.jp/articles/f8f2b745e74dadaf41fa0835c0ec42ef13d6c129?source=rss",
-          "publishedOn": "2024-05-16T11:57:26.000Z",
-          "wordCount": 768,
-          "title": "吉川晃司さん、布袋寅泰さんのＣＯＭＰＬＥＸが復活コンサート　能登地震の復興支援(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240516-00000232-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -38817,16 +38812,6 @@
           "wordCount": 1738,
           "title": "【セブンイレブン】明太子のペペロンチーノ【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/910e4266c5985dce6eff36358f54443e.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=245668",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]",
-          "link": "https://foodfighter.jp/mcdonalds-cheese-dabuchi-set",
-          "publishedOn": "2024-05-16T12:00:11.000Z",
-          "wordCount": 1794,
-          "title": "【マクドナルド】チーズチーズダブルチーズバーガーセット（チーチーダブチ）【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/7d04236951f83b81040df1f3d10097f8.jpg"
         }
       ]
     },
@@ -43234,36 +43219,6 @@
           "wordCount": 2356,
           "title": "【マジキチ】立民BBA「岸田さん、AV観たことありますか？あれば、どんなジャンルですか？」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/6/76821e5c.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035594.html",
-          "author": "damono3856",
-          "description": "1 名前：!omikuji(東京都) [US]\n垢版 |\n2024/05/16(木) 11:48:04.93ID:uyW+dFvF0?PLT(12000)\n\n\n\n\n\n\n\n［ITmedia AI＋］生成AIアートコンテスト巡る騒動、ワコムが謝罪　「手違いで協賛に掲載されてしまった」 https://t.co/uQ6qVHKs0V— ITmedia (@itmedia) May 15, 2024 ...",
-          "link": "https://itainews.com/archives/2035594.html",
-          "publishedOn": "2024-05-16T13:01:55.000Z",
-          "wordCount": 2398,
-          "title": "生成AIアート展にワコムが協賛→炎上　ワコム「協賛していません」と否定",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/9/a9215769-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035590.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/05/16(木) 07:51:19.66 ID:ep0UfnKD0●.net\n\n\n\n\n\n\n\n栃木 日光の強盗事件 ベトナム人逮捕 相次ぐ事件と関連捜査 #首都圏NEWSWEB https://t.co/F7zHK9XwBV https://t.co/F7zHK9XwBV— NHK@首都圏 (@nhk_shutoken) May 15, 2024  \n\n\n\n...",
-          "link": "https://itainews.com/archives/2035590.html",
-          "publishedOn": "2024-05-16T12:44:16.000Z",
-          "wordCount": 2392,
-          "title": "ベトナム人二人組逮捕　栃木、長野、群馬、福島の山間の連続強盗と関連か",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8e34ffac-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035592.html",
-          "author": "dqnplus",
-          "description": "1 名前：!omikuji：2024/05/15(水) 07:24:33.32 ID:SBzlucn60.net \n\n\n\n\n\n\n\n11歳がショベル運転…　東海市の自立支援施設の代表らを逮捕、自身の建設会社で少年を働かせた疑い▼記事はこちら https://t.co/RFRGKIA9JF— 中日新聞 (@chunichi_denhen) May 14, 2024 \n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2035592.html",
-          "publishedOn": "2024-05-16T12:01:14.000Z",
-          "wordCount": 2501,
-          "title": "11歳男児にショベルカーを操作させ働かせた疑い　人手不足が原因か",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46fe82d6-s.png"
         }
       ]
     },
@@ -43272,6 +43227,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74680",
+          "author": "299",
+          "description": "おばあちゃんがカートのなかに、ちびとちろたちを乗せて産直に出すためのひらたけの収穫に出かけます。 足元があまり良くない道をゆっくりと進んでいくおばあちゃんですが、猫たちはカートに揺られて楽ちんそうですね。 やっと到着した...\nおばあちゃんの収穫作業を静かに見守るニャンズ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74680",
+          "publishedOn": "2024-06-15T00:00:21.000Z",
+          "wordCount": 1288,
+          "title": "おばあちゃんの収穫作業を静かに見守るニャンズ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74680.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74647",
           "author": "299",
@@ -46801,16 +46766,6 @@
           "wordCount": 1285,
           "title": "保護猫さんが初めてのお風呂体験も難なくクリア！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72753.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72741",
-          "author": "299",
-          "description": "アメリカンショートヘアの子猫のココちゃんがソファの上でボーッとしています。今にも寝落ちしてしまいそうな感じの表情をしています。 動きがほとんど見られなくなったと思ったら、目もどんどん閉じてしまって、もう自力では開けている...\n子猫の寝落ちの瞬間が可愛すぎ〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72741",
-          "publishedOn": "2024-05-16T13:00:00.000Z",
-          "wordCount": 1291,
-          "title": "子猫の寝落ちの瞬間が可愛すぎ〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72741.jpeg"
         }
       ]
     },
