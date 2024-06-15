@@ -294,16 +294,6 @@
           "wordCount": 2521,
           "title": "デジタル回路とアナログ回路の違いって何？　内部構成や仕組みを解説",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/14/cover_news014.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2405/17/news076.html",
-          "author": null,
-          "description": "マイクロチップ・テクノロジーは、宇宙グレードの耐放射線絶縁型50W DC-DCパワーコンバーター「LE50-28」ファミリーを発表した。シングル出力、トリプル出力を備える3.3～28Vまでの9種を提供する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2405/17/news076.html",
-          "publishedOn": "2024-05-17T00:00:00.000Z",
-          "wordCount": 2529,
-          "title": "宇宙グレードの放射線耐性を持つ50W DC-DCパワーコンバーター",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2405/17/cover_news076.jpg"
         }
       ]
     },
@@ -5257,6 +5247,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121449/",
+          "author": null,
+          "description": "ディズニー＆ピクサー「インサイド・ヘッド」の続編「インサイド・ヘッド2」の日本版声優が発表された。主人公の少女・ライリーを横溝菜帆、新キャラクターのハズカシをお笑いコンビ「マヂカルラブリー」の村...",
+          "link": "https://anime.eiga.com/news/121449/",
+          "publishedOn": "2024-06-15T12:00:00.000Z",
+          "wordCount": 757,
+          "title": "「インサイド・ヘッド2」ライリー役は横溝菜帆　マヂラブ村上、花澤香菜、坂本真綾ら日本版声優発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121463/",
           "author": null,
           "description": "テレビアニメ「負けヒロインが多すぎる！」に、田中美海、種崎敦美、小林裕介の出演が決定した。オープニング主題歌の詳細と、メインPV、メインビジュアル、放送スケジュールも公開されている。 雨森たきび...",
@@ -9161,6 +9166,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/69840496b867f1ba111542cecd41f287ed2acacd?source=rss",
+          "author": null,
+          "description": "【グロッターリエ（イタリア南部）＝千葉倫之】岸田文雄首相は１５日、訪問先のイタリアで記者団の取材に応じ、２３日に会期末を迎える今国会中の衆院解散や国会閉会後の内閣改造と自民党役員人事の可能性について問",
+          "link": "https://news.yahoo.co.jp/articles/69840496b867f1ba111542cecd41f287ed2acacd?source=rss",
+          "publishedOn": "2024-06-15T12:04:58.000Z",
+          "wordCount": 785,
+          "title": "岸田首相、衆院解散や内閣改造「今は考えていない」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240615-00000188-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/73d7343f3eadf047997cf68ceb712e600fac164f?source=rss",
           "author": null,
@@ -37760,26 +37775,6 @@
           "wordCount": 747,
           "title": "スロバキア首相銃撃で７１歳男を殺人未遂で逮捕　単独犯の見方も露メディアは「背後にウクライナ」と主張(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/edda388103601966b21a91472a6a0101367cb945?source=rss",
-          "author": null,
-          "description": "松本まりか（３９）にとって、この映画の撮影は人生の大きな転換点になったという。「湖の女たち」（大森立嗣監督）。人間の本性に潜む不快な側面を暴きたてるような問題作だ。松本も自身を極限まで追い込んで役に臨",
-          "link": "https://news.yahoo.co.jp/articles/edda388103601966b21a91472a6a0101367cb945?source=rss",
-          "publishedOn": "2024-05-17T00:05:00.000Z",
-          "wordCount": 809,
-          "title": "映画「湖の女たち」福士蒼汰とダブル主演の松本まりか「長いトンネル抜けた大切な作品」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000030-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/577564d70219ead4a702e954674388c754664afa?source=rss",
-          "author": null,
-          "description": "黒くてにょろにょろしたこの魚に、ナゼに日本人はこれほどに魅了され、執着するのか、わからんでもない。かくいうワタクシとてご多分に漏れず、物心ついて初めてウナギを口にした瞬間をありありと覚えているし、以後",
-          "link": "https://news.yahoo.co.jp/articles/577564d70219ead4a702e954674388c754664afa?source=rss",
-          "publishedOn": "2024-05-17T00:05:00.000Z",
-          "wordCount": 775,
-          "title": "大切に食べてこそのウナギよな　うだるような熱気と日差しの記憶とともに　ウエカツ流サカナ道一直線(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000029-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -37788,6 +37783,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=249210",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年6月9日から6月15日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキングし […]",
+          "link": "https://foodfighter.jp/bento-ranking-2024-0616",
+          "publishedOn": "2024-06-15T11:40:20.000Z",
+          "wordCount": 1749,
+          "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年6月9日から6月15日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/07fb40aab05029898867e007c33ccc58.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=249207",
           "author": "foodfighter",
@@ -39345,6 +39350,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036582.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Ailuropoda melanoleuca ★：2024/06/15(土) 12:32:25.85 ID:0/EnXwaQ9.net\n\n\n\n\n\n\n\n\n\n\n「この名前で生まれなきゃよかった」「両親に改名を相談して…」アナウンサー・金井憧れ（32）が名前で葛藤した過去金井憧れインタビュー#1記事はこちら↓https://t.co/HvCWh7LVt...",
+          "link": "https://itainews.com/archives/2036582.html",
+          "publishedOn": "2024-06-15T12:01:06.000Z",
+          "wordCount": 2628,
+          "title": "「この名前で生まれなきゃよかった」「両親に改名を相談して…」アナウンサー・金井憧れ（32）が名前で葛藤した過去",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/b/dbd27f20-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036572.html",
           "author": "damono3856",
@@ -47311,16 +47326,6 @@
           "wordCount": 1285,
           "title": "遠慮しながらお母さんを起こそうとするぽこ太郎が可愛すぎる",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72785.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72814",
-          "author": "299",
-          "description": "草むらのなかを茶トラ猫さんがズンズンと歩いていきますが、その後ろに立派なニワトリさんもくっついて一緒にまっすぐを見つめながら前へ前へと進んでいきます。 一見おかしなコンビに見えるのですがこの1匹と一羽は普段から大の仲良し...\n猫がニワトリを連れて川縁へのお散歩にでかけます first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72814",
-          "publishedOn": "2024-05-17T00:00:15.000Z",
-          "wordCount": 1288,
-          "title": "猫がニワトリを連れて川縁へのお散歩にでかけます",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72814.jpeg"
         }
       ]
     },
