@@ -5157,6 +5157,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121491/",
+          "author": null,
+          "description": "声優・アイドルとして活動するユニット「i☆Ris」のデビュー10周年プロジェクトの最終章として、同ユニット初となる実写映画の公開が決定した。撮り下ろしインタビューや伝説のステージを収めたライブド...",
+          "link": "https://anime.eiga.com/news/121491/",
+          "publishedOn": "2024-06-16T08:30:00.000Z",
+          "wordCount": 772,
+          "title": "「i☆Ris」初の実写映画が9月公開　葛藤や挫折、熱い思いを掘り下げるライブドキュメンタリー",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121479/",
           "author": null,
           "description": "宮田俊哉（「Kis-My-Ft2」）がハリウッド映画の吹き替えに初挑戦した「ブルー きみは大丈夫」（公開中）の吹替版本編映像が公開された。宮田が“もふもふブルー”の不憫かわいい魅力を余すことなく...",
@@ -8991,6 +9006,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/e8bd110b5308a816c249121d502a9ff777c3ea36?source=rss",
+          "author": null,
+          "description": "【カイロ＝佐藤貴生】イスラム原理主義組織ハマスと戦うイスラエル軍は１６日、支援物資の搬入増量のため、パレスチナ自治区ガザ南部の一部で日中の軍事活動を一時停止すると発表した。南部にはエジプトと境界を接す",
+          "link": "https://news.yahoo.co.jp/articles/e8bd110b5308a816c249121d502a9ff777c3ea36?source=rss",
+          "publishedOn": "2024-06-16T08:20:03.000Z",
+          "wordCount": 769,
+          "title": "イスラエル、ガザ南部で軍事活動停止発表　国際批判受け日中に毎日、物資搬入増目指す(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240616-00000108-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/af26cc77441d3c84c534f9231de430316141b113?source=rss",
           "author": null,
