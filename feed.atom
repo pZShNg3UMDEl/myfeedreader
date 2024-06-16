@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T03:35:59.225Z</updated>
+    <updated>2024-06-16T03:50:34.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[憂鬱な梅雨も読めば気分も晴れやかに　呼び名や気配の情緒感じる「雨辞典」「雨小説」　書店バックヤードから(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3da6e2f553b4ec1cc4b25de7a639886b591053d8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3da6e2f553b4ec1cc4b25de7a639886b591053d8?source=rss"/>
+        <updated>2024-06-16T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[空は灰色で、湿気が全身にまとわりつき、歩けば足元がぬれる。今回は何かと憂鬱な気持ちになる「雨」がテーマです。日本語には、季節や心情によって異なるさまざまな雨の呼び名がありました。本を読んで昔の人が雨に]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸和田城天守リニューアルにクラウドファンディング実施、復興75周年に合わせ(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7193d4a79bc98a22d550ff87e203d9a6a80d6a03?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7193d4a79bc98a22d550ff87e203d9a6a80d6a03?source=rss"/>
+        <updated>2024-06-16T03:29:55.000Z</updated>
+        <summary type="html"><![CDATA[岸和田城のリニューアルに向け、大阪府岸和田市はインターネットを通じて資金を募るクラウドファンディング（ＣＦ）を始めた。ふるさと納税制度を活用し、寄付者は収入額に応じて実質２千円負担で寄付できる税制優遇]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フジテレビが謝罪「不快な感情を抱かせる表現があった」　番組に出演した『グラビア評論家』を紹介する際、お笑い芸人が肩書きを茶化す]]></title>
         <id>https://itainews.com/archives/2036594.html</id>
@@ -52026,22 +52046,6 @@ https://www.itmedia.co....]]></summary>
 子供にやさしいパパ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One man's (event camera) noise is another man's signal]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/05/one-mans-event-camera-noise-is-another.html"/>
-        <updated>2024-05-17T15:50:00.006Z</updated>
-        <summary type="html"><![CDATA[In a preprint titled "Noise2Image: Noise-Enabled Static Scene Recovery for Event Cameras" Cao et al. propose a method to use the inherent pixel noise present in even camera sensors to recover scene intensity maps.
-Abstract:
-Event cameras capture changes of intensity over time as a stream of ‘events’ and generally cannot measure intensity itself; hence, they are only used for imaging dynamic scenes. However, fluctuations
-due to random photon arrival inevitably trigger noise events, even for static scenes. While previous efforts have been focused on filtering out these undesirable noise events to improve signal quality, we find that,
-in the photon-noise regime, these noise events are correlated with the static scene intensity. We analyze the noise event generation and model its relationship to illuminance. Based on this understanding, we propose a method, called Noise2Image, to leverage the illuminance-dependent noise characteristics to recover the static parts of a scene, which are otherwise invisible to event cameras. We experimentally collect a dataset of noise events on static scenes to train and validate Noise2Image. Our results show that Noise2Image can robustly recover intensity images solely from noise events, providing a novel approach for capturing static scenes in event cameras, without additional hardware.
-
-Link: https://arxiv.org/abs/2404.01298]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
