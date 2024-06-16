@@ -1860,6 +1860,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/06/paper-on-event-cameras-for-automotive.html",
+          "author": null,
+          "description": "In a recent open access Nature article titled \"Low-latency automotive vision with event cameras\", Daniel Gehrig and Davide Scaramuzza write:\n\nThe computer vision algorithms used currently in advanced driver assistance systems rely on image-based RGB cameras, leading to a critical bandwidth–latency trade-off for delivering safe driving experiences. To address this, event cameras have emerged as alternative vision sensors. Event cameras measure the changes in intensity asynchronously, offering high temporal resolution and sparsity, markedly reducing bandwidth and latency requirements. Despite these advantages, event-camera-based algorithms are either highly efficient but lag behind image-based ones in terms of accuracy or sacrifice the sparsity and efficiency of events to achieve comparable …",
+          "link": "http://image-sensors-world.blogspot.com/2024/06/paper-on-event-cameras-for-automotive.html",
+          "publishedOn": "2024-06-16T16:07:00.005Z",
+          "wordCount": 4481,
+          "title": "Paper on event cameras for automotive vision in Nature",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t8eA7OE_zm0v_zRs1gYIvU3dGqBgGu9RlPXDNzUe7dpTWjfub3_hChjnl7B1g29ZislDwdw_njSmrr5PkD_NWFvJ2jmBe-JiJjkn9Dz3bDKNt3wgxpEdwt5P-i4qaM9y_70wmmd0Fx_RLhKD2TxMXabYc6t8T9Dk806SPXhGGaTEUIKyRhTYg7MsjmK375hpvxKiYDLIhLWd5BTq7hHpvvqTeKIib0j2uBV1-E84et9_aHIVbC=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/06/pixel2024-workshop.html",
           "author": null,
           "description": "The Eleventh International Workshop on Semiconductor Pixel Detectors for Particles and Imaging (Pixel2024) will take place 18-22 November 2024 at the Collège Doctoral Européen, University of Strasbourg, France.\n\nThe workshop will cover various topics related to pixel detector technology. Development and applications will be discussed for charged particle tracking in high energy physics, nuclear physics, astrophysics, astronomy, biology, medical imaging and photon science. The conference program will also include reports on radiation effects, timing with pixel sensors, monolithic sensors, sensing materials, front and back end electronics, as well as interconnection and integration technologies toward detector systems.\nAll sessions are plenary and include a poster session. Contributions will be chosen from submitted abstracts.\n\nKey deadlines:\n\n abstract submission: July 5,\n early bird registration: September 1,\n late registration: September 30.\n\nAbstract submission link: https://indico.in2p3.fr/event/32425/abstracts/",

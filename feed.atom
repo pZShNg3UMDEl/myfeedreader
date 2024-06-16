@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T17:26:00.795Z</updated>
+    <updated>2024-06-16T17:35:57.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -25,6 +25,18 @@
 9匹の子犬たちが次々攻撃してきて飼い主さんも大弱り first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper on event cameras for automotive vision in Nature]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/06/paper-on-event-cameras-for-automotive.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/06/paper-on-event-cameras-for-automotive.html"/>
+        <updated>2024-06-16T16:07:00.005Z</updated>
+        <summary type="html"><![CDATA[In a recent open access Nature article titled "Low-latency automotive vision with event cameras", Daniel Gehrig and Davide Scaramuzza write:
+
+The computer vision algorithms used currently in advanced driver assistance systems rely on image-based RGB cameras, leading to a critical bandwidth–latency trade-off for delivering safe driving experiences. To address this, event cameras have emerged as alternative vision sensors. Event cameras measure the changes in intensity asynchronously, offering high temporal resolution and sparsity, markedly reducing bandwidth and latency requirements. Despite these advantages, event-camera-based algorithms are either highly efficient but lag behind image-based ones in terms of accuracy or sacrifice the sparsity and efficiency of events to achieve comparable …]]></summary>
+        <author>
+            <name>Image Sensors World</name>
         </author>
     </entry>
     <entry>
