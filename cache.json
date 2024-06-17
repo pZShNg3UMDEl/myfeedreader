@@ -1930,6 +1930,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/06/iiss-updates-its-papers-database.html",
+          "author": null,
+          "description": "The International Image Sensor Society has a new and updated papers repository thanks to a multi-month overhaul effort.\n\n853 IISW workshop papers in the period 2007-2023 are updated with DOI (Digital Object Identifier). Check out any of these papers in the IISS Online Library.\nEach paper has a landing page containing metadata such as title, authors, year, keywords, references, and of course link to the PDF.\nAs an extra service we have also identified DOIs (if exists) to referenced papers in workshop papers. This makes it convenient to access referenced papers by clicking on the DOI directly from the landing page.\nDOIs for pre-2007 workshop papers will be added later.\n\nIISS website: https://imagesensors.org/\nIISS Online Library: https://imagesensors.org/past-workshops-library/",
+          "link": "http://image-sensors-world.blogspot.com/2024/06/iiss-updates-its-papers-database.html",
+          "publishedOn": "2024-06-17T17:03:00.001Z",
+          "wordCount": 3847,
+          "title": "IISS updates its papers database",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/06/job-postings-week-of-16-june-2024.html",
           "author": null,
           "description": "Meta\nSensor Architect, Reality Labs\nSunnyvale, California, USA\nLink\nJenoptik\nImaging Engineer \nCamberley, England, UK\nLink\nOmnivision\nAutomotive OEM Business\n  Development Manager\nFarmington Hills, Michigan, USA\nLink\nIMEC\nR&D Project Leader 3D &\n  Si Photonics\nLeuven, Belgium\nLink\nRivian\nSr. Staff Camera Validation and\n  Integration Engineer\nPalo Alto, California, USA\nLink\nCERN\nApplied Physicist\nGeneva, Switzerland\nLink\nApple\nCamera Image Sensor Analog Design\n  Engineer\nAustin, Texas, USA\nLink\nGottingen University\nPhD position in pixel detector\n  development\nGöttingen, Germany\nLink\nFederal University of Rio de\n  Janeiro \nFaculty position in Experimental\n  Neutrino Physics\nRio de Janiero,\n  Brazil\nLink",
@@ -37585,26 +37595,6 @@
           "wordCount": 732,
           "title": "岸田首相「誤解を招く表現は避けるべきだ」　上川陽子外相の静岡県知事選応援演説について(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000077-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/59205e46eac1f93a3905838511b0ad86907a6742?source=rss",
-          "author": null,
-          "description": "大阪府守口、門真両市は中小企業の支援拡充に向け、守口門真商工会議所と、両市内に支店がある枚方信用金庫（本店・同府枚方市）と連携協定を結んだ。人材確保や企業立地の促進など４者が持つノウハウを共有し、地域",
-          "link": "https://news.yahoo.co.jp/articles/59205e46eac1f93a3905838511b0ad86907a6742?source=rss",
-          "publishedOn": "2024-05-19T05:12:11.000Z",
-          "wordCount": 726,
-          "title": "中小企業を全力サポート　大阪・守口、門真両市と商工会、枚方信金の４者が協定(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000073-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f0506361376b1410d0b73ffecac15162b61bb2cf?source=rss",
-          "author": null,
-          "description": "１人がようやく通れる幅の廊下を進み、ほぼ垂直な階段を登りきると、空母の飛行甲板にたどり着いた。甲板上では日米それぞれの国歌である「スター・スパングル・バーナー」と「君が代」が順番に流れ、白い制服姿の米",
-          "link": "https://news.yahoo.co.jp/articles/f0506361376b1410d0b73ffecac15162b61bb2cf?source=rss",
-          "publishedOn": "2024-05-19T05:08:01.000Z",
-          "wordCount": 784,
-          "title": "離日の米空母レーガン、登舷礼で海自に敬意　乗艦ルポ、強固な同盟支える軍人と家族の献身(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000072-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
