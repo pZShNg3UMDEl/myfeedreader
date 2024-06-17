@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/14/news167.html",
+          "author": null,
+          "description": "村田製作所は、薄型かつ大容量を維持したまま、4.5mΩの低ESRに対応した導電性高分子アルミ電解コンデンサー「ECASD40E477M4R5KA0」を発表した。7.3×4.3mmのDケースを採用し、従来品と同等の薄型、大容量を維持しながらESR値を25％改善した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/14/news167.html",
+          "publishedOn": "2024-06-17T00:00:00.000Z",
+          "wordCount": 2510,
+          "title": "ESRが4.5mΩの導電性高分子アルミ電解コンデンサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/14/cover_news167.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2406/14/news081.html",
           "author": null,
           "description": "EDAツール大手のCadence／Siemens EDA／Synopsysは、2024年4月にTSMCが開催したイベント「TSMC 2024 North America Technology Symposium」にて、TSMCの最新プロセス向けのEDAツールを披露した。",
@@ -8125,21 +8135,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121285/",
-          "author": null,
-          "description": "山本崇一朗氏の大人気コミックを実写映画化した「からかい上手の高木さん」の完成披露試写会が5月16日、都内で行われた。映画版は中学生時代から10年後の再会を描く、オリジナルストーリー。大人になった...",
-          "link": "https://anime.eiga.com/news/121285/",
-          "publishedOn": "2024-05-18T12:00:00.000Z",
-          "wordCount": 853,
-          "title": "【何があったの？】“高木さん”永野芽郁＆“西片”高橋文哉、ステージ上で見つめ合って急接近",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -8544,16 +8539,6 @@
           "wordCount": 4399,
           "title": "京都お大尽旅行 2日目",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/05/pxl_20240519_000950171667675026836792963-1024x576.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=10185",
-          "author": "watanabe@logipara.com",
-          "description": "ただいま京都旅行中です。 見せてもらおうか！本場のオーバーツーリズムってやつをよ！！ …という意気込みで挑んだのですが、観光客は多いものの、いまのところスムーズに移動できております。 今回は「せっかくだから俺は高いメニュ […]",
-          "link": "https://logipara.com/trip/2024-05-19",
-          "publishedOn": "2024-05-18T12:15:52.000Z",
-          "wordCount": 4389,
-          "title": "京都お大尽旅行 1日目",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/05/pxl_20240518_0215497682625129362339577862-576x1024.jpg"
         }
       ]
     },
@@ -8779,6 +8764,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=43562",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです。 6月とは思えない夏日も出てきましたね…！ 厚木の夏と言えば「あつぎ鮎まつり」ですが、今回は10周年を迎えたアミューあつぎと、あつぎ鮎まつりのコラボ企画を発見しました！ 「あつぎ鮎まつりスペシャル応募抽選イ…",
+          "link": "https://atsugi-lab.com/event-amyu-ayumatsuri202406/",
+          "publishedOn": "2024-06-16T23:57:52.000Z",
+          "wordCount": 1142,
+          "title": "【あつぎ鮎まつり×アミューあつぎ】花火大会協賛チケットも当たるって！「あつぎ鮎まつりスペシャル応募抽選イベント」6月22日～7月7日",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/amyu-ayumatsuri202406image.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=43534",
           "author": "fumie",
@@ -9006,6 +9001,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/62fedab763229bf0f4462204e9d023dd977549cc?source=rss",
+          "author": null,
+          "description": "国産オリーブオイルの一大製造拠点として知られる小豆島（香川県）は、ごま油の国内トップシェア「かどや製油」（本社・東京都品川区）の発祥の地でもある。主力工場が小豆島で稼働しており、同社は地元の土庄町など",
+          "link": "https://news.yahoo.co.jp/articles/62fedab763229bf0f4462204e9d023dd977549cc?source=rss",
+          "publishedOn": "2024-06-17T01:00:00.000Z",
+          "wordCount": 808,
+          "title": "創業地・小豆島を「ごまの島」へ　国内トップシェア「かどや製油」の166年目の恩返し(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000041-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ac183df289e6367ef81fa87d6da955cd1acb0740?source=rss",
+          "author": null,
+          "description": "１６日投開票された沖縄県議選（定数４８）で、自民、公明両党などの玉城デニー知事不支持派が２８議席を獲得して過半数を奪取した。共産、社民両党などの支持派は２０議席と大幅に減少。玉城知事の求心力の低下は避",
+          "link": "https://news.yahoo.co.jp/articles/ac183df289e6367ef81fa87d6da955cd1acb0740?source=rss",
+          "publishedOn": "2024-06-17T00:31:35.000Z",
+          "wordCount": 735,
+          "title": "玉城知事の求心力低下は避けられず　沖縄県議選で自公など知事不支持派が過半数奪取(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bf3f70afcaeae70829b2ade87fee43d80221e630?source=rss",
+          "author": null,
+          "description": "「2月1日」。その響きに特別な感情を抱く方はどれくらいいるでしょうか。そう、東京・神奈川の中学受験が一斉に解禁される日です。かつて、その日にわが子を受験会場に送り出した方、自らチャレンジした方、そして",
+          "link": "https://news.yahoo.co.jp/articles/bf3f70afcaeae70829b2ade87fee43d80221e630?source=rss",
+          "publishedOn": "2024-06-17T00:00:00.000Z",
+          "wordCount": 839,
+          "title": "リアル中学受験　「親は教えないでほしい。塾に任せてください」というので塾を辞めました　リアル中学受験-わが家の場合(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000039-san-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/769304441f7bf263e254514f2017a1065a950448?source=rss",
+          "author": null,
+          "description": "【カイロ＝佐藤貴生】ヨルダン外務省は１６日までに、サウジアラビアで毎年行われる「大巡礼（ハッジ）」に参加したヨルダン人１４人が死亡したもようだとする声明を出した。少なくとも６人の死因は猛暑と関係がある",
+          "link": "https://news.yahoo.co.jp/articles/769304441f7bf263e254514f2017a1065a950448?source=rss",
+          "publishedOn": "2024-06-16T23:47:41.000Z",
+          "wordCount": 707,
+          "title": "毎年恒例のサウジ「大巡礼」でヨルダン人１４人が死亡　４０度を超える猛暑が原因か(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/68b787835845181f19dac8991c2dabe192dfc980?source=rss",
           "author": null,
@@ -36555,36 +36590,6 @@
           "wordCount": 732,
           "title": "指示役も殺人容疑で再逮捕へ　那須２遺体(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240518-00000230-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4cc4d47e1a4fe4f333ce6a3c426a0861b4f364a7?source=rss",
-          "author": null,
-          "description": "時代劇の大作、話題作が相次ぎ登場する。民放ドラマからは撤退して久しい時代劇だが、米国から〝黒船〟のような配信ドラマが上陸。映画大手は「定期的に時代劇映画を作る」と宣言し、ＣＳ専門チャンネルは「時代劇こ",
-          "link": "https://news.yahoo.co.jp/articles/4cc4d47e1a4fe4f333ce6a3c426a0861b4f364a7?source=rss",
-          "publishedOn": "2024-05-18T13:00:00.000Z",
-          "wordCount": 795,
-          "title": "いま時代劇が熱い、「将軍」「鬼平犯科帳」大作続々登場　唯一無二の日本を世界へ発信(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240518-00000215-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3b15f6f96bf5b7e160edcc272e2041afa75d3ace?source=rss",
-          "author": null,
-          "description": "エースの意地で苦境を勝ち抜いた。大会数日前から左脚に違和感が出ていた宮田は、この日全体トップの５４・２９９点をマークし、ＮＨＫ杯３連覇を達成。万全な状態ではなかったことで細かいミスも出たが、初の五輪代",
-          "link": "https://news.yahoo.co.jp/articles/3b15f6f96bf5b7e160edcc272e2041afa75d3ace?source=rss",
-          "publishedOn": "2024-05-18T12:07:18.000Z",
-          "wordCount": 757,
-          "title": "エースとして苦境でも勝ち切った宮田笙子「パリで思い切った演技ができるように」　体操ＮＨＫ杯(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240518-00000202-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/12f53802b16b05df4f9ed6a57faa5fad1aab9305?source=rss",
-          "author": null,
-          "description": "平成１２年の初演時、２１歳で東京・帝国劇場史上最年少座長となったＫｉｎＫｉ　Ｋｉｄｓの堂本光一は、「王子」そのもののアイドルだった。そして４５歳の今も、細身のパンツ姿で踊り、４度のフライングや今作名物",
-          "link": "https://news.yahoo.co.jp/articles/12f53802b16b05df4f9ed6a57faa5fad1aab9305?source=rss",
-          "publishedOn": "2024-05-18T12:00:00.000Z",
-          "wordCount": 762,
-          "title": "これぞ帝劇、堂本光一の演出力　機構フル活用の「ＳＨＯＣＫ」豪華な最終年に　ステージ(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240518-00000198-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -38092,16 +38097,6 @@
           "wordCount": 1743,
           "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年5月12日から5月18日】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/10d5639cf340218a3bd6a147f1652f3c.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=245955",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの話題商品「セブンプレミアム 豆腐スイーツバー ガトーショコラ」を世界一詳しく調査しました。   公式 […]",
-          "link": "https://foodfighter.jp/711sej-tofu-gateau-chocolate",
-          "publishedOn": "2024-05-18T12:25:00.000Z",
-          "wordCount": 1756,
-          "title": "【セブンイレブン】セブンプレミアム 豆腐スイーツバー ガトーショコラ【コンビニ商品】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/ddacb059e9ed79e058b462bb6a5b9f96.jpg"
         }
       ]
     },
@@ -42409,36 +42404,6 @@
           "wordCount": 2340,
           "title": "バナナの皮で妻の頭を殴った疑い　59歳の夫を逮捕 「妻の頭をバナナの皮で1回叩いたことは間違いありません」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/2/62bf11b2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035670.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2024/05/18(土) 13:45:10.52 ID:EIWJz7OF9.net\n\n\n\n\n\n\n\nペルー政府、「性転換症」を「精神疾患」に分類 LGBTQ+団体反発https://t.co/tMaemJoxCe— AFPBB News (@afpbbcom) May 18, 2024  \n\n\n\n\n\n\nペルー政府、「性転換症」を「精神疾患」に分類 LGBTQ...",
-          "link": "https://itainews.com/archives/2035670.html",
-          "publishedOn": "2024-05-18T13:03:56.000Z",
-          "wordCount": 2409,
-          "title": "ペルー政府、「性転換症」を「精神疾患」に分類 LGBTQ+団体反発",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/73a46358-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035661.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：：2024/05/17(金) 22:39:06.33 ID:nR2pKDKD0●.net \n\n\n\n\n\n\n\n\n\n大阪万博まで1年、深刻化するバス・タクシー人手不足の現状と解決策、ライドシェアの効果は？ | やまとごころ.jphttps://t.co/XH8QkFKxlC— やまとごころ.jp(インバウンドの情報を毎日発信) (@yamatogoko...",
-          "link": "https://itainews.com/archives/2035661.html",
-          "publishedOn": "2024-05-18T12:46:13.000Z",
-          "wordCount": 2316,
-          "title": "助けて！大阪万博のバス運転手が足りないの！　10か月でやめてもらうけど時給2000円払うから！",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/3/53dac762-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035668.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。(愛媛県) [US]：2024/05/18(土) 12:06:11.31 ID:dIpYd3kS0●.net\n\n\n\n\n\n\n\n\n\n「万博中止」と「政権交代」は毎日一回は唱えて、Twitterに書いておくようにします。言葉って繰り返してゆくうちに固有の「呪力」を発揮しますから。 https://t.co/kx...",
-          "link": "https://itainews.com/archives/2035668.html",
-          "publishedOn": "2024-05-18T12:01:51.000Z",
-          "wordCount": 2433,
-          "title": "内田樹「万博中止と政権交代は毎日一回唱えます。言葉って繰り返してゆくうちに呪力を発揮します」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/0/4074cab2-s.png"
         }
       ]
     },
@@ -42447,6 +42412,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74811",
+          "author": "299",
+          "description": "ベッドの上に可愛い毛玉たちが、のんびりとしています。するとそこへゴールデンレトリバーがやってきて赤ちゃん猫たちの姿を見つけるとすぐにベッドに飛び乗ってきました。 赤ちゃん猫たちは、まだ目もしっかり開いていないのでゴールデ...\nゴールデンレトリバーのワンコの周りに赤ちゃん猫たちが集まってきた！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74811",
+          "publishedOn": "2024-06-17T00:00:30.000Z",
+          "wordCount": 1293,
+          "title": "ゴールデンレトリバーのワンコの周りに赤ちゃん猫たちが集まってきた！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74811.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74783",
           "author": "299",
@@ -45976,16 +45951,6 @@
           "wordCount": 1285,
           "title": "一生懸命飼い主さんのもとに行く生後22日目",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72888.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72874",
-          "author": "299",
-          "description": "今回の主人公はまだら模様の猫・もこたんで、もこたんが新しいおもちゃで遊ぶ姿が約6分間の動画に納められています！ 新しいおもちゃは猫が喜びそうな長いトンネルで、中には猫が楽しめるクッションも完備してあります。トンネルを組み...\nもこたん新しいおもちゃを手に入れる！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72874",
-          "publishedOn": "2024-05-18T13:00:17.000Z",
-          "wordCount": 1287,
-          "title": "もこたん新しいおもちゃを手に入れる！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72874.jpeg"
         }
       ]
     },
