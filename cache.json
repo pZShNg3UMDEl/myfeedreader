@@ -1870,6 +1870,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/06/job-postings-week-of-16-june-2024.html",
+          "author": null,
+          "description": "Meta\nSensor Architect, Reality Labs\nSunnyvale, California, USA\nLink\nJenoptik\nImaging Engineer \nCamberley, England, UK\nLink\nOmnivision\nAutomotive OEM Business\n  Development Manager\nFarmington Hills, Michigan, USA\nLink\nIMEC\nR&D Project Leader 3D &\n  Si Photonics\nLeuven, Belgium\nLink\nRivian\nSr. Staff Camera Validation and\n  Integration Engineer\nPalo Alto, California, USA\nLink\nCERN\nApplied Physicist\nGeneva, Switzerland\nLink\nApple\nCamera Image Sensor Analog Design\n  Engineer\nAustin, Texas, USA\nLink\nGottingen University\nPhD position in pixel detector\n  development\nGöttingen, Germany\nLink\nFederal University of Rio de\n  Janeiro \nFaculty position in Experimental\n  Neutrino Physics\nRio de Janiero,\n  Brazil\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/06/job-postings-week-of-16-june-2024.html",
+          "publishedOn": "2024-06-17T02:00:00.000Z",
+          "wordCount": 3831,
+          "title": "Job Postings - Week of 16 June 2024",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/06/paper-on-event-cameras-for-automotive.html",
           "author": null,
           "description": "In a recent open access Nature article titled \"Low-latency automotive vision with event cameras\", Daniel Gehrig and Davide Scaramuzza write:\n\nThe computer vision algorithms used currently in advanced driver assistance systems rely on image-based RGB cameras, leading to a critical bandwidth–latency trade-off for delivering safe driving experiences. To address this, event cameras have emerged as alternative vision sensors. Event cameras measure the changes in intensity asynchronously, offering high temporal resolution and sparsity, markedly reducing bandwidth and latency requirements. Despite these advantages, event-camera-based algorithms are either highly efficient but lag behind image-based ones in terms of accuracy or sacrifice the sparsity and efficiency of events to achieve comparable …",
@@ -2062,6 +2072,26 @@
       "feedUrl": "https://ninten-switch.com/feed",
       "siteUrl": "https://ninten-switch.com",
       "articles": [
+        {
+          "id": "https://ninten-switch.com/?p=364656",
+          "author": "管理人",
+          "description": "株式会社ファミリーマートが、Nintendo Switch用ソフト『ルイージマンション2 HD』のキャンペーンを開催することを発表しました。 6月27日(木)に発売されることにあわせて、6月18日(火)から全国のファミリ […]",
+          "link": "https://ninten-switch.com/luigis-mansion-2-hd-for-nintendo-switch-famima",
+          "publishedOn": "2024-06-17T01:56:32.000Z",
+          "wordCount": 11977,
+          "title": "ファミリーマートで『ルイージマンション2 HD』のキャンペーンが開催決定！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/luigis-mansion-2-hd-for-nintendo-switch-famima1.jpg"
+        },
+        {
+          "id": "https://ninten-switch.com/?p=364671",
+          "author": "管理人",
+          "description": "バンダイのカプセルトイ『スプラトゥーン3 コジャケめじるしアクセサリー』が、2024年2月21日(2月下旬)ごろより順次発売開始になっています。 販売価格は1回300円(税込)です。 発売から時間が経過しているためすでに […]",
+          "link": "https://ninten-switch.com/splatoon-3-kojyake-mejirushi-accessory-tokyo",
+          "publishedOn": "2024-06-17T01:42:47.000Z",
+          "wordCount": 11877,
+          "title": "カプセルトイ『スプラトゥーン3 コジャケめじるしアクセサリー』がNintendoTOKYOに入荷！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/splatoon-3-kojyake-mejirushi-accessory-tokyo1.jpg"
+        },
         {
           "id": "https://ninten-switch.com/?p=364617",
           "author": "管理人",
@@ -9001,6 +9031,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8bac4a1a4ae1730cf71a6b8a963db4f46c9b6410?source=rss",
+          "author": null,
+          "description": "ＩＴスタートアップ（新興企業）のモノグサ（東京都千代田区）が開発した記憶を助ける学習アプリ「Ｍｏｎｏｘｅｒ（モノグサ）」が教育現場で注目を集めている。タブレット端末などを使い、利用者が出題される問題に",
+          "link": "https://news.yahoo.co.jp/articles/8bac4a1a4ae1730cf71a6b8a963db4f46c9b6410?source=rss",
+          "publishedOn": "2024-06-17T01:55:44.000Z",
+          "wordCount": 838,
+          "title": "モノグサ、英単語の暗記をアプリで効率化　３００校以上が採用　月刊Ｂｉｚ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000045-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8e4f0ae79dad4580f2825458d4e2c92839033036?source=rss",
+          "author": null,
+          "description": "将棋の藤井聡太棋聖（２１）＝竜王・名人・王位・叡王・王座・棋王・王将＝に山崎隆之八段（４３）が挑戦するタイトル戦「ヒューリック杯第９５期棋聖戦五番勝負」（産経新聞社主催）の第２局が藤井棋聖の先勝を受け",
+          "link": "https://news.yahoo.co.jp/articles/8e4f0ae79dad4580f2825458d4e2c92839033036?source=rss",
+          "publishedOn": "2024-06-17T01:54:07.000Z",
+          "wordCount": 747,
+          "title": "藤井棋聖は飛車先の歩を突き、山崎八段は向かい飛車に　ヒューリック杯棋聖戦第２局始まる(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000044-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/37db282682af511427874efbe238e5f850b60858?source=rss",
+          "author": null,
+          "description": "米軍普天間飛行場（沖縄県野湾市）の名護市辺野古移設を巡り国と県の対立が続く中、１６日投開票された県議選では自民や公明両党など玉城デニー知事を支持しない勢力の議席が過半数に達した。玉城知事の政策に有権者",
+          "link": "https://news.yahoo.co.jp/articles/37db282682af511427874efbe238e5f850b60858?source=rss",
+          "publishedOn": "2024-06-17T01:53:02.000Z",
+          "wordCount": 777,
+          "title": "沖縄・玉城県政に厳しい審判　県議選で知事支持派が過半数割れ、今後の政策への影響不可避(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7c8d4d19dd7e01add47d1421a22b4ebe1fdc772e?source=rss",
+          "author": null,
+          "description": "ジャズピアニスト、壷阪健登（２９）が、自作曲のソロ演奏だけで固めたデビューアルバム「Ｗｈｅｎ　Ｉ　Ｓｉｎｇ」をレコード大手、ユニバーサルミュージックから出して注目されている。プロデュースは、小曽根真（",
+          "link": "https://news.yahoo.co.jp/articles/7c8d4d19dd7e01add47d1421a22b4ebe1fdc772e?source=rss",
+          "publishedOn": "2024-06-17T01:10:42.000Z",
+          "wordCount": 814,
+          "title": "ジャズピアニスト・壷阪健登２９歳、鮮烈デビュー　小曽根真が見抜いたソロピアノの魅力(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000042-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/62fedab763229bf0f4462204e9d023dd977549cc?source=rss",
           "author": null,
@@ -38087,16 +38157,6 @@
           "wordCount": 1768,
           "title": "【天下一品】サービス定食（あっさりラーメン）【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/fd48c70f052cb79c45786c7f72439724.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=245976",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年5月12日から5月18日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキング […]",
-          "link": "https://foodfighter.jp/bento-ranking-2024-0519",
-          "publishedOn": "2024-05-18T13:20:42.000Z",
-          "wordCount": 1743,
-          "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年5月12日から5月18日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/10d5639cf340218a3bd6a147f1652f3c.jpg"
         }
       ]
     },
@@ -42412,6 +42472,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74787",
+          "author": "299",
+          "description": "スコティッシュフォールドの子猫を迎え入れた初日の様子です。まだ生後2ヶ月に満たないぐらいの小さな子猫です。 名前はこむぎ。ペットショップからやってきたばかりというのに、すでに部屋のなかをぐるぐる探検しています。怖いもの知...\nペットショップからやってきた初日から堂々としている子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74787",
+          "publishedOn": "2024-06-17T02:00:55.000Z",
+          "wordCount": 1285,
+          "title": "ペットショップからやってきた初日から堂々としている子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74787.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74811",
           "author": "299",
