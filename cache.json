@@ -5287,6 +5287,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121495/",
+          "author": null,
+          "description": "放送中のテレビアニメ「魔王学院の不適合者II～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 2ndクール」の第22話以降の放送日時が変更される。6月15日、公式サイトで発表された。 6月...",
+          "link": "https://anime.eiga.com/news/121495/",
+          "publishedOn": "2024-06-17T10:00:00.000Z",
+          "wordCount": 728,
+          "title": "「魔王学院の不適合者II」22話以降が放送延期　6月21日は19話をオーディオコメンタリー付きで再放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121498/",
           "author": null,
           "description": "テレビアニメ「東京リベンジャーズ」の続編の製作が決まり、新キービジュアルとPVが公開された。 キービジュアルは傷だらけのタケミチとマイキーの姿が描かれ、タケミチは血を流して歯を食いしばりながら、...",
@@ -9166,6 +9181,96 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/23633d4160880dd38780a13af6d3bbf223bd7cfb?source=rss",
+          "author": null,
+          "description": "立憲民主党は１７日、岸田文雄内閣不信任決議案の衆院提出に向けた最終調整に入った。１９日に予定される党首討論の内容を踏まえて提出の可否を判断する構えだ。２３日の通常国会会期末を見据えた与野党の攻防は最終",
+          "link": "https://news.yahoo.co.jp/articles/23633d4160880dd38780a13af6d3bbf223bd7cfb?source=rss",
+          "publishedOn": "2024-06-17T10:05:08.000Z",
+          "wordCount": 775,
+          "title": "立民、不信任案提出へ最終調整　「流れを見て決める」　党首討論踏まえ判断(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000173-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/450800d721031edc97fe59c642e8ae629174dde2?source=rss",
+          "author": null,
+          "description": "将棋の藤井聡太棋聖（２１）＝竜王・名人・王位・叡王・王座・棋王・王将＝に山崎隆之八段（４３）が挑戦するタイトル戦「ヒューリック杯第９５期棋聖戦五番勝負」（産経新聞社主催）の第２局が１７日午前９時から、",
+          "link": "https://news.yahoo.co.jp/articles/450800d721031edc97fe59c642e8ae629174dde2?source=rss",
+          "publishedOn": "2024-06-17T10:02:09.000Z",
+          "wordCount": 746,
+          "title": "藤井聡太棋聖が連勝　５連覇・永世棋聖に王手　ヒューリック杯棋聖戦五番勝負第２局(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000172-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1ae2164c8a615bd60118be6b2c48c82c9234e51a?source=rss",
+          "author": null,
+          "description": "高校、大学、社会人それぞれのスーパーエリートたちが集うプロ球界。入団しても１０年以上在籍できる確率は４割程度とされる厳しい世界だ。頭角を現し、長年活躍する選手にはどんな特性があるのだろうか。通算約３０",
+          "link": "https://news.yahoo.co.jp/articles/1ae2164c8a615bd60118be6b2c48c82c9234e51a?source=rss",
+          "publishedOn": "2024-06-17T10:00:00.000Z",
+          "wordCount": 805,
+          "title": "伝説の剛速球投手・山口高志氏は見た　プロ野球生き残り「４割の壁」を越えた男たちの流儀(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000171-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9fb33b2c873f520350b02074ea4df01953c2f7f9?source=rss",
+          "author": null,
+          "description": "ＤｅＮＡのベテラン内野手、大和は国内で数百人しかいない希少疾患「デント病」を抱えながらプロの世界を生き抜いてきた。加齢にともない腎機能が低下する遺伝性の病で、５０歳前後で末期腎不全へと進行するとされる",
+          "link": "https://news.yahoo.co.jp/articles/9fb33b2c873f520350b02074ea4df01953c2f7f9?source=rss",
+          "publishedOn": "2024-06-17T10:00:00.000Z",
+          "wordCount": 835,
+          "title": "希少疾患「デント病」抱えるＤｅＮＡ大和　伝えたい「病気があったからここにいる」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000170-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/93c62466ee2e57b0332863476b72d2a240dc63cc?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】日本政府観光局（ＪＮＴＯ）は１７日、中国・北京市内で訪日旅行に関する商談会を開いた。日中双方の旅行業界関係者らが参加した。ＪＮＴＯがこうした商談会を開くのは２０１９年以来約５年ぶりで",
+          "link": "https://news.yahoo.co.jp/articles/93c62466ee2e57b0332863476b72d2a240dc63cc?source=rss",
+          "publishedOn": "2024-06-17T09:59:00.000Z",
+          "wordCount": 790,
+          "title": "北京で訪日旅行の商談会　日本政府観光局がコロナ禍後で初　夏の旅行シーズン前にアピール(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000169-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/58c32dae3105a8d8ac2ba526a627f7b79e2f3e8f?source=rss",
+          "author": null,
+          "description": "東京都知事選（２０日告示、７月７日投開票）に出馬表明している広島県安芸高田市前市長の石丸伸二氏（４１）が１７日、都庁で会見し、「政治が三流であれば経済も三流に落ちる」として、政治再建と都市開発、産業創",
+          "link": "https://news.yahoo.co.jp/articles/58c32dae3105a8d8ac2ba526a627f7b79e2f3e8f?source=rss",
+          "publishedOn": "2024-06-17T09:56:30.000Z",
+          "wordCount": 729,
+          "title": "広島・安芸高田市前市長の石丸伸二氏「政治が三流であれば経済も三流に」都知事選公約発表(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000168-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/47f2fbe5e4cce74fdbfdac067e26ac404cbbec63?source=rss",
+          "author": null,
+          "description": "成田空港の機能充実策を話し合う国と千葉県、周辺市町、成田国際空港会社（ＮＡＡ）の意見交換会が１７日、１年９カ月ぶりに開かれた。空港への交通アクセスの改善や周辺自治体の街づくりを４者で緊密に連携して進め",
+          "link": "https://news.yahoo.co.jp/articles/47f2fbe5e4cce74fdbfdac067e26ac404cbbec63?source=rss",
+          "publishedOn": "2024-06-17T09:53:35.000Z",
+          "wordCount": 753,
+          "title": "成田空港活性化　国と千葉県、周辺市町、ＮＡＡの４者で連携強化を確認　街づくりも協力(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000167-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0846ad2f7309d64e95e76048326658635834a5bf?source=rss",
+          "author": null,
+          "description": "株主総会シーズンとなり、今年もアクティビスト（物言う株主）の動きが活発化している。投資ファンドが経営体制の刷新や保有株の削減、株主還元など企業価値向上を求める声を強めており、上場企業との攻防が激しさを",
+          "link": "https://news.yahoo.co.jp/articles/0846ad2f7309d64e95e76048326658635834a5bf?source=rss",
+          "publishedOn": "2024-06-17T09:51:52.000Z",
+          "wordCount": 826,
+          "title": "北越コーポに社長解任、京成にディズニー株売却を提案　物言う株主と企業の攻防激化(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000165-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7b7c477e1dd00b28ec70b0db4b918b23ed9befd3?source=rss",
+          "author": null,
+          "description": "関西経済連合会と大阪商工会議所が１７日発表した関西企業を対象とした経営・経済動向調査で、４～６月期の景況判断指数（ＢＳＩ）はプラス１２・１となり、前回調査の１～３月期からプラス幅は２・９ポイント拡大し",
+          "link": "https://news.yahoo.co.jp/articles/7b7c477e1dd00b28ec70b0db4b918b23ed9befd3?source=rss",
+          "publishedOn": "2024-06-17T09:49:23.000Z",
+          "wordCount": 798,
+          "title": "関西企業の景況感、４～６月期プラス　インバウンド好調　先行きは拡大見通し(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000164-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5a1a4e1df18eb6103274bcac532a7b30dc52867a?source=rss",
           "author": null,
@@ -37355,16 +37460,6 @@
           "wordCount": 715,
           "title": "＜独自＞アニメとゲームでサウジ皇太子おもてなし　政府「キャプテン翼」原作者らと会合調整(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9e07afc7801949f54a49b082c2d26712ea42b970?source=rss",
-          "author": null,
-          "description": "賃貸物件を借りる際、敷金を負担しなくて済む「敷金０（ゼロ）物件」が増えている－。そんな調査結果を不動産・住宅情報サイトの運営会社が明らかにした。食料品や日用品の値上げで生活費の負担が重くなるなか、初期",
-          "link": "https://news.yahoo.co.jp/articles/9e07afc7801949f54a49b082c2d26712ea42b970?source=rss",
-          "publishedOn": "2024-05-18T22:00:00.000Z",
-          "wordCount": 786,
-          "title": "賃貸物件の「敷金０」が首都圏や近畿圏で急増　背景に物価上昇や使い道めぐるトラブル　なっトクマネー(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000018-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -38890,6 +38985,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036638.html",
+          "author": "dqnplus",
+          "description": "1 名前：＠おっさん友の会 ★ 警備員[Lv.7][新芽]：2024/06/17(月) 09:37:07.41 ID:Ig5o7Ssf9.net\n\n\n\n\n\n\n\n授業中の水分補給禁止は「マナー」?　中学の校則が物議https://t.co/0akZjxnpbOある校則が物議を醸しています。教室での水分補給に関する「マナー」を定めたもので...",
+          "link": "https://itainews.com/archives/2036638.html",
+          "publishedOn": "2024-06-17T10:02:57.000Z",
+          "wordCount": 2417,
+          "title": "【埼玉】授業中の水分補給禁止は「マナー」?　桶川市中学の校則が物議",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/e/eefe2f4d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036627.html",
           "author": "damono3856",
@@ -46786,16 +46891,6 @@
           "wordCount": 1284,
           "title": "お父さんの帰宅を待つ子猫が健気すぎて可愛い",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72946.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=72913",
-          "author": "299",
-          "description": "柴犬のワンコさんにぴたりと寄り添ってくつろいでいる猫さん。一見とても仲良しさんのように見えます。 ワンコさんは猫さんのことをぺろぺろと毛づくろいしてあげると猫さんも気持ちよさそうにして目を細めていました。 ところが、本当...\nワンコが舐めてくるのにキレて猫パンチするにゃんこさん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/72913",
-          "publishedOn": "2024-05-18T22:00:48.000Z",
-          "wordCount": 1287,
-          "title": "ワンコが舐めてくるのにキレて猫パンチするにゃんこさん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/72913.jpeg"
         }
       ]
     },
