@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/17/news050.html",
+          "author": null,
+          "description": "「EE Times Japan×EDN Japan 統合電子版」の2024年6月号を発行しました。今号のEE Exclusive（電子版限定先行公開記事）は、『「embedded world 2024」レポート： エッジAIが本格化、「欧州最大規模」の組み込み技術展示会で見た最新トレンド』です。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/17/news050.html",
+          "publishedOn": "2024-06-17T03:30:00.000Z",
+          "wordCount": 2638,
+          "title": "エッジAIが本格化、「embedded world」で見た最新トレンド ―― 電子版2024年6月号",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/17/mm220117_denshiban01_w490.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2406/14/news167.html",
           "author": null,
           "description": "村田製作所は、薄型かつ大容量を維持したまま、4.5mΩの低ESRに対応した導電性高分子アルミ電解コンデンサー「ECASD40E477M4R5KA0」を発表した。7.3×4.3mmのDケースを採用し、従来品と同等の薄型、大容量を維持しながらESR値を25％改善した。",
@@ -2082,6 +2092,16 @@
       "feedUrl": "https://ninten-switch.com/feed",
       "siteUrl": "https://ninten-switch.com",
       "articles": [
+        {
+          "id": "https://ninten-switch.com/?p=364746",
+          "author": "管理人",
+          "description": "2024年6月8日未明に発生したシステム障害によって、KADOKAWAグループ ポータルサイトをはじめ、同社グループの複数のウェブサイトが利用できない事象が発生しています。 https://tp.kadokawa.co. […]",
+          "link": "https://ninten-switch.com/ebiten-escape-cani",
+          "publishedOn": "2024-06-17T03:55:57.000Z",
+          "wordCount": 11919,
+          "title": "エビテン避難所がキャラアニに臨時オープン！『ARMORED CORE VI FIRES OF RUBICON OFFICIAL ART WORKS』が予約開始に",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/ebiten-escape-cani1.jpg"
+        },
         {
           "id": "https://ninten-switch.com/?p=364719",
           "author": "管理人",
@@ -9091,6 +9111,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f480c232706fcde88e97c5dc01d90f1d0c636803?source=rss",
+          "author": null,
+          "description": "自民党の茂木敏充幹事長は１７日、沖縄県議選の結果について「大きな勝利を飾ることができた。この勢いを（２年後の）県知事選にもつなげていきたい」と述べた。東京都内の視察先で記者団の取材に応じた。\n\n茂木氏",
+          "link": "https://news.yahoo.co.jp/articles/f480c232706fcde88e97c5dc01d90f1d0c636803?source=rss",
+          "publishedOn": "2024-06-17T04:11:10.000Z",
+          "wordCount": 722,
+          "title": "沖縄県議選　自民・茂木幹事長「大きな勝利、県知事選につなげたい」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000074-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7254304f2265c076617f477988dc36f47739623f?source=rss",
+          "author": null,
+          "description": "国民民主党と連合は１７日、幹部間の定例の懇談を国会内で開き、次期衆院選の対応などについて協議した。連合が支援する立憲民主、国民民主両党が衆院選で連携を図る方向性を確認し、協力の前提として、憲法や安全保",
+          "link": "https://news.yahoo.co.jp/articles/7254304f2265c076617f477988dc36f47739623f?source=rss",
+          "publishedOn": "2024-06-17T04:10:31.000Z",
+          "wordCount": 700,
+          "title": "次期衆院選「立・国の基本政策合意を」　国民民主・玉木代表と連合・芳野会長らが懇談(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3bddf920dcc1687542b57dd42473dc528877ac0d?source=rss",
+          "author": null,
+          "description": "滋賀県彦根市は、ＬＩＮＥスタンプやスマートフォンアプリ用に公開してきた人気キャラクター「ひこにゃん」と「いいのすけ」のイラストのリメイク版２０点が新たに完成したと発表した。原作者もへろんさんが描き下ろ",
+          "link": "https://news.yahoo.co.jp/articles/3bddf920dcc1687542b57dd42473dc528877ac0d?source=rss",
+          "publishedOn": "2024-06-17T03:58:10.000Z",
+          "wordCount": 726,
+          "title": "「ひこにゃん」「いいのすけ」新イラスト完成、原作者もへろんさん描き下ろし(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000072-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2c59dbcd85946cb665973e3aefae6e845183563b?source=rss",
+          "author": null,
+          "description": "伝統的な和装文化と先進的な洋装文化が競演するファッションショー「ファッションカンタータ」が１５日、京都劇場（京都市下京区）で行われた。京都府出身の俳優、吉岡里帆さんらが出演し、みやびやかな着物姿で観客",
+          "link": "https://news.yahoo.co.jp/articles/2c59dbcd85946cb665973e3aefae6e845183563b?source=rss",
+          "publishedOn": "2024-06-17T03:56:19.000Z",
+          "wordCount": 735,
+          "title": "「和装のすばらしさ伝える」 吉岡里帆さんと松村沙友理さんがファッションショーに登場(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240617-00000071-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/bc20466b2483df381ee14e71e8335b5dde4b35ee?source=rss",
           "author": null,
@@ -36860,16 +36920,6 @@
           "wordCount": 786,
           "title": "賃貸物件の「敷金０」が首都圏や近畿圏で急増　背景に物価上昇や使い道めぐるトラブル　なっトクマネー(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000018-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2aa8100409262545f523f5061042c0567683d875?source=rss",
-          "author": null,
-          "description": "米空軍横田基地（東京都福生市など）で１８日、「横田基地日米友好祭２０２４」が開催され、多くの人でにぎわった。\n\n友好祭では、１２年ぶりの展示となった米戦闘機Ｆ２２ラプターに加え、航空自衛隊の戦闘機、輸",
-          "link": "https://news.yahoo.co.jp/articles/2aa8100409262545f523f5061042c0567683d875?source=rss",
-          "publishedOn": "2024-05-18T16:13:53.000Z",
-          "wordCount": 741,
-          "title": "Ｆ２２ラプター、１２年ぶりに展示　横田基地で日米友好祭　司令官「感謝の気持ち感じて頂ければ」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00000006-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -36878,6 +36928,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=249288",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、のり弁フェア、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto M […]",
+          "link": "https://foodfighter.jp/hottomotto-big-noriben-2024",
+          "publishedOn": "2024-06-17T03:56:14.000Z",
+          "wordCount": 1798,
+          "title": "【ほっともっと】BIGのり弁当（ナポリタン）【のり弁フェア・定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/18a1b47a979e7328463dd94cc5bb867f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=249263",
           "author": "foodfighter",
@@ -42702,6 +42762,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=74791",
+          "author": "299",
+          "description": "飼い主さんの膝の上で、すっかり気分良くなって眠くなってしまった子猫の頭が後ろのほうへどんどん倒れていきます。 これは無理な体勢になってしまったと思ったら、さすがに子猫もハッと目覚めて体を元通りに起こしました。 でもまた眠...\n眠すぎて何度も頭が反り返ってしまう子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/74791",
+          "publishedOn": "2024-06-17T04:00:10.000Z",
+          "wordCount": 1291,
+          "title": "眠すぎて何度も頭が反り返ってしまう子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74791.jpeg"
+        },
         {
           "id": "https://2-9-9.com/?p=74787",
           "author": "299",
