@@ -9045,6 +9045,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=43581",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです。 今回はお隣海老名のキニナル情報。海老名情報が続いています！ ビナガーデンズパーチの西側に、温泉採掘機が登場したとSNSで話題になっており、早速現地を確認してみました！ 場所はビナガーデンズパーチ西側。JR…",
+          "link": "https://atsugi-lab.com/news-onsen-ebina202406/",
+          "publishedOn": "2024-06-18T06:59:11.000Z",
+          "wordCount": 1119,
+          "title": "【キニナル】SNSで話題沸騰！ビナガーデンズパーチの真横に温泉採掘機が登場！？現地を確認してみた。［海老名市］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/onsen-ebina202406.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=43562",
           "author": "comomo",
           "description": "こんにちは、ももこ＠あつらぼです。 6月とは思えない夏日も出てきましたね…！ 厚木の夏と言えば「あつぎ鮎まつり」ですが、今回は10周年を迎えたアミューあつぎと、あつぎ鮎まつりのコラボ企画を発見しました！ 「あつぎ鮎まつりスペシャル応募抽選イ…",
@@ -9281,6 +9291,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/298c62886cb5f1ef75f9145c1be0191c7821b0de?source=rss",
+          "author": null,
+          "description": "蓮舫参院議員＝立憲民主党に離党届提出＝は１８日、都内で記者会見を開き、東京都知事選（２０日告示、７月７日投開票）の公約を発表した。「７つの約束」と題し、「若い人の人生の選択肢をふやし、ガラス張りの都財",
+          "link": "https://news.yahoo.co.jp/articles/298c62886cb5f1ef75f9145c1be0191c7821b0de?source=rss",
+          "publishedOn": "2024-06-18T07:04:38.000Z",
+          "wordCount": 727,
+          "title": "都知事選へ蓮舫参院議員が公約を発表「ガラス張りの都財政を実現する」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240618-00000113-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aeec1eeaf57bb7fffc44a5caf6862c5fd3bfd4d1?source=rss",
+          "author": null,
+          "description": "通信アプリ「ＬＩＮＥ（ライン）」を運営するＬＩＮＥヤフーは１８日、東京都内で定時株主総会を開いた。利用者などの情報が大量流出した問題について、株主からは出沢剛社長ら経営陣の進退を問う声も出るなど、厳し",
+          "link": "https://news.yahoo.co.jp/articles/aeec1eeaf57bb7fffc44a5caf6862c5fd3bfd4d1?source=rss",
+          "publishedOn": "2024-06-18T06:57:58.000Z",
+          "wordCount": 740,
+          "title": "「責任取る時期では」ＬＩＮＥヤフー株主総会で厳しい声相次ぐ　情報流出問題対応は長期化(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240618-00000110-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a121b39e5dcad0588948b249cf2e96e2113dfb10?source=rss",
+          "author": null,
+          "description": "ニデック（旧日本電産）の永守重信・グローバルグループ代表は１８日、定時株主総会後の記者会見で、冷却システムなどを中心とした人工知能（ＡＩ）データセンター向けの事業について「私は１兆円規模になると思って",
+          "link": "https://news.yahoo.co.jp/articles/a121b39e5dcad0588948b249cf2e96e2113dfb10?source=rss",
+          "publishedOn": "2024-06-18T06:48:29.000Z",
+          "wordCount": 752,
+          "title": "ニデック、ＥＶからＡＩへ軸足　永守氏「データーセンター向け、１兆円規模の事業に」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240618-00000108-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4aba00905d8130e7f6127f493f1307256b10f113?source=rss",
+          "author": null,
+          "description": "虚偽の決算書を提出し、銀行から融資金５億円をだまし取ったとして、警視庁捜査２課は１８日、詐欺容疑で、機械部品商社「堀正工業」（破産手続き中）元社長の堀雅晴容疑者（６９）＝東京都品川区ら３人を逮捕した。",
+          "link": "https://news.yahoo.co.jp/articles/4aba00905d8130e7f6127f493f1307256b10f113?source=rss",
+          "publishedOn": "2024-06-18T06:47:34.000Z",
+          "wordCount": 752,
+          "title": "粉飾決算で融資金５億円詐取　容疑で堀正工業元社長ら逮捕　４６金融機関に負債２５０億円(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240618-00000107-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/d7bc61f27623ae801e1e115771c96a643b9664a5?source=rss",
           "author": null,
