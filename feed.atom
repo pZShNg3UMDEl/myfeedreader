@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T19:37:28.963Z</updated>
+    <updated>2024-06-18T19:50:25.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -23,6 +23,16 @@
         <link href="https://ninten-switch.com/nintendo-switch-lite-hyrule-edition-yoyaku"/>
         <updated>2024-06-18T17:11:31.000Z</updated>
         <summary type="html"><![CDATA[任天堂が、『Nintendo Switch Lite ハイラルエディション』を2024年9月26日に発売することをアナウンスしました。 本商品は、「ハイラルの紋章」がデザインされた、携帯専用で楽しめるNintendo S […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch用ソフト『Hello Kitty Island Adventure』が2025年に発売決定！]]></title>
+        <id>https://ninten-switch.com/?p=365235</id>
+        <link href="https://ninten-switch.com/hello-kitty-island-adventure-for-nintendo-switch-announce"/>
+        <updated>2024-06-18T16:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Hello Kitty Island Adventure』が、2025年に発売されることが「Nintendo Direct 2024.6.18」で発表になりました。 このゲームはA […]]]></summary>
         <author>
             <name>管理人</name>
         </author>
