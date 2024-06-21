@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-21T16:17:04.239Z</updated>
+    <updated>2024-06-21T16:38:39.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ごはんがもらえるまで大騒ぎな子ニャンコズ]]></title>
+        <id>https://2-9-9.com/?p=75141</id>
+        <link href="https://2-9-9.com/archives/75141"/>
+        <updated>2024-06-21T16:30:57.000Z</updated>
+        <summary type="html"><![CDATA[お転婆子猫のゆきちゃんがスツールの上から大きな声でごはんのおねだりをしています。 ゆきちゃんがごはんごはん！と鳴きだすと、ぴよちゃんもそれにつられて鳴き始めて大合唱になってしまいました。子猫たちはお腹が空いたら、もう待っ...
+ごはんがもらえるまで大騒ぎな子ニャンコズ first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnivision presents event camera deblurring paper at CVPR 2024]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/06/omnivision-presents-event-camera.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/06/omnivision-presents-event-camera.html"/>
+        <updated>2024-06-21T16:30:00.003Z</updated>
+        <summary type="html"><![CDATA[EVS-assisted Joint Deblurring Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling
+Event-based Vision Sensors (EVS) gain popularity in enhancing CMOS 
+Image Sensor (CIS) video capture. Nonidealities of EVS such as pixel or 
+readout latency can significantly influence the quality of the enhanced 
+images and warrant dedicated consideration in the design of fusion 
+algorithms. A novel approach for jointly computing deblurred, 
+rolling-shutter artifact corrected high-speed videos with frame rates up
+ to 10000 FPS using inherently blurry rolling shutter CIS frames of 120 
+FPS to 150 FPS in conjunction with EVS data from a hybrid CIS-EVS sensor
+ is presented. EVS pixel latency, readout latency and the sensor's 
+refractory period are explicitly incorporated into the measurement 
+model. This inverse function problem is solved on a per-pixel manner 
+using an optimization-based framework. The interpolated images are 
+subsequently processed by a novel refinement network. The proposed 
+method is evaluated using simulated and measured datasets, under natural
+ and controlled environments. Extensive experiments show reduced 
+shadowing effect, a 4 dB increment in PSNR, and a 12% improvement in 
+LPIPS score compared to state-of-the-art methods.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】麻婆チャーハン【新作コンビニ弁当】]]></title>
+        <id>https://foodfighter.jp/?p=249817</id>
+        <link href="https://foodfighter.jp/711sej-mapo-chahan-2024"/>
+        <updated>2024-06-21T16:25:14.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「麻婆チャーハン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【日本】里子がふりかけをかけすぎたからと顔を殴る蹴るした里親、執行猶予3年]]></title>
         <id>https://itainews.com/archives/2036795.html</id>
@@ -54646,26 +54694,6 @@ JASRAC（日本音楽著作権協会）は、2023年度の音楽使用料の徴�
         <link href="https://news.yahoo.co.jp/articles/bfdf89c319b97ace68519e00be665bbc47deb1dd?source=rss"/>
         <updated>2024-05-23T04:40:28.000Z</updated>
         <summary type="html"><![CDATA[【台北＝西見由章】台湾の国防部（国防省に相当）は２３日、中国軍の東部戦区が台湾周辺などで軍事演習を始めたことを受けて談話を発表し、「非理性的な挑発であり、地域の平和と安定を破壊する行動だ」と反発した。]]></summary>
-        <author>
-            <name>産経新聞 - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[児童ポルノ製造容疑で２４歳男を逮捕　中高生中心に１０人以上が被害か(産経新聞)]]></title>
-        <id>https://news.yahoo.co.jp/articles/092aef253d1c6f8406d71a5cbea90ee91cce8364?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/092aef253d1c6f8406d71a5cbea90ee91cce8364?source=rss"/>
-        <updated>2024-05-23T04:21:00.000Z</updated>
-        <summary type="html"><![CDATA[交流サイト（ＳＮＳ）で知り合った女子高校生にみだらな行為をし、撮影したなどとして、警視庁新宿署は児童買春・児童ポルノ禁止法違反（製造）などの疑いで、東京都新宿区北新宿の無職、藤沢和（かず）容疑者（２４]]></summary>
-        <author>
-            <name>産経新聞 - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奈良の染織作家、伝統織物「大和絣」半世紀ぶりに復活　伝統を「いま」にいかす、展示会も(産経新聞)]]></title>
-        <id>https://news.yahoo.co.jp/articles/443e4cbafc1f83fe32fbf3d71b4cda9c5b59e134?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/443e4cbafc1f83fe32fbf3d71b4cda9c5b59e134?source=rss"/>
-        <updated>2024-05-23T04:18:42.000Z</updated>
-        <summary type="html"><![CDATA[幕末から昭和初期にかけて全国で流通し、かつては西日本を代表する絣（かすり）として知られた奈良の伝統織物「大和絣」。洋装が主流となる中で生産が途絶えていたが、奈良県斑鳩町の染織作家、亀山知彦さん（４１）]]></summary>
         <author>
             <name>産経新聞 - Yahoo!ニュース</name>
         </author>
