@@ -8700,21 +8700,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121309/",
-          "author": null,
-          "description": "尻相撲アクションゲーム「Nyaaaanvy（ニャンビー）」がテレビアニメ化され、5月25日からテレビ東京の「イニミニマニモ」（午前7時～7時30分）内で放送されることが決定した。5月31日からは...",
-          "link": "https://anime.eiga.com/news/121309/",
-          "publishedOn": "2024-05-24T10:30:00.000Z",
-          "wordCount": 947,
-          "title": "尻相撲ゲーム「Nyaaaanvy」5月25日からTVアニメ放送　花江夏樹ナレーションに、竹内順子、井澤詩織らも出演",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9551,6 +9536,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/6ba18f8e279b3d80b47203298f4a097443871ed5?source=rss",
+          "author": null,
+          "description": "ＮＨＫ番組のインターネット配信を従来の「任意業務」からテレビ、ラジオ放送と同じ「必須業務」とする改正放送法が５月、国会で成立した。ＮＨＫはこれに基づくネットサービスを令和７年度後半に始める方針で、稲葉",
+          "link": "https://news.yahoo.co.jp/articles/6ba18f8e279b3d80b47203298f4a097443871ed5?source=rss",
+          "publishedOn": "2024-06-22T22:30:00.000Z",
+          "wordCount": 796,
+          "title": "ＮＨＫネット配信　テレビ契約済みなら無料、ただ乗り抑止を模索中　必須化で何が変わる？(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240623-00000016-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/cf6e28871c6b3bb7118121fadcd130523e6d7c4a?source=rss",
           "author": null,
@@ -37450,26 +37445,6 @@
           "wordCount": 736,
           "title": "日本政府、中国演習に警戒強める　２２年には弾道ミサイルがＥＥＺ落下(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e4383f2fd870b1660fb76ab2fa1f4936e96f4e7e?source=rss",
-          "author": null,
-          "description": "中国が２３日から行った台湾周辺での大規模な軍事演習の狙いや日本がとるべき対処について、防衛省防衛研究所の増田雅之中国研究室長（現代中国外交・安全保障政策）に聞いた。\n\n今回の軍事演習は、台湾の頼清徳総",
-          "link": "https://news.yahoo.co.jp/articles/e4383f2fd870b1660fb76ab2fa1f4936e96f4e7e?source=rss",
-          "publishedOn": "2024-05-24T10:34:21.000Z",
-          "wordCount": 732,
-          "title": "「中国演習繰り返せばリスク」「火の中発言は日台協力への警戒感から」増田雅之防衛研室長(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240524-00000188-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/063574f678658ff34977f4b73b5372de9ddff4ef?source=rss",
-          "author": null,
-          "description": "東京電力は２４日、新潟県に立地する柏崎刈羽原発７号機の放射線管理区域内で油漏れが確認されたと発表した。原子炉に隣接するタービン建屋の計器箱から漏れ出ており、漏出量は約３０リットル。油に放射性物質は含ま",
-          "link": "https://news.yahoo.co.jp/articles/063574f678658ff34977f4b73b5372de9ddff4ef?source=rss",
-          "publishedOn": "2024-05-24T10:29:57.000Z",
-          "wordCount": 724,
-          "title": "柏崎刈羽原発、７号機タービン建屋で油漏れ　再稼働に向けたポンプの確認中(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240524-00000186-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
