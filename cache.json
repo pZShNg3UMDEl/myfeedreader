@@ -5396,16 +5396,6 @@
           "wordCount": 11813,
           "title": "TVアニメ『天穂のサクナヒメ』の放送日が2024年7月6日に決定！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/05/sakuna-hime-animation-housoubi1.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=360893",
-          "author": "管理人",
-          "description": "パブリッシャーのわくわくゲームズが、Nintendo Switch＆PC(Steam)用ソフト『泥酔ローグとおしまいの吸血鬼』を2024年夏(今夏)に発売することを本日放送の「わくわくゲームズ通信 2024年5月号」 […]",
-          "link": "https://ninten-switch.com/deisui-rogue-to-oshimai-no-vampire-for-switch-and-pc-announce",
-          "publishedOn": "2024-05-24T14:58:52.000Z",
-          "wordCount": 11679,
-          "title": "Switch＆Steam用ソフト『泥酔ローグとおしまいの吸血鬼』が2024年夏に発売決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/05/deisui-rogue-to-oshimai-no-vampire-for-switch-and-pc-announce.jpg"
         }
       ]
     },
@@ -5414,6 +5404,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS1qLgofM70kUlI1Wu5uqxg",
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BWmqHSCqVNk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BWmqHSCqVNk",
+          "publishedOn": "2024-06-23T03:00:06.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】名もなき大剣を両手持ちするのと片手持ちしてメタキン盾を持たせるのだと火力はどれくらい変わるのか!?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rsQAliYiI7U",
           "author": null,
@@ -5631,6 +5631,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121536/",
+          "author": null,
+          "description": "8月9日に全国公開される「映画クレヨンしんちゃん オラたちの恐竜日記」に水樹奈々、戸松遥、安元洋貴、小林ゆう、金田朋子、内田真礼が出演していることが明らかになった。 同作は1993年にスタートし...",
+          "link": "https://anime.eiga.com/news/121536/",
+          "publishedOn": "2024-06-23T03:00:00.000Z",
+          "wordCount": 767,
+          "title": "「映画クレヨンしんちゃん オラたちの恐竜日記」に水樹奈々、戸松遥、安元洋貴、小林ゆう、金田朋子、内田真礼が出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121482/",
           "author": null,
@@ -9476,6 +9491,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/aeadc94bfcbaa20b0847f88fa30328721b5d8e28?source=rss",
+          "author": null,
+          "description": "１両編成のＨ１００形気動車は、ヤマ線の勾配を軽快に駆け上がっている。１０人程度だった乗客も蘭越からどっと増えて座席はほぼ埋まった。\n\n羊蹄山がくっきり見え始めると、もうニセコだ。東京は雨空だったが、当",
+          "link": "https://news.yahoo.co.jp/articles/aeadc94bfcbaa20b0847f88fa30328721b5d8e28?source=rss",
+          "publishedOn": "2024-06-23T03:05:00.000Z",
+          "wordCount": 828,
+          "title": "北の鉄路を考える③　ヤマ線はバス転換できない！？の巻　帰ってきた令和阿房列車で行こう　第三列車(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240623-00000062-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3d7ea295459e14a7606cf7af4e729c8daa70bbc9?source=rss",
+          "author": null,
+          "description": "「全然守りに入っていない。私こそチャレンジャー」\n\n今回の知事選の立候補者数は過去最多の５６人。誰もが「挑戦者」だと断りをいれながら、我こそが挑戦者だと現職の立場でこう言い切る。「継続のみならず、新し",
+          "link": "https://news.yahoo.co.jp/articles/3d7ea295459e14a7606cf7af4e729c8daa70bbc9?source=rss",
+          "publishedOn": "2024-06-23T03:00:00.000Z",
+          "wordCount": 794,
+          "title": "小池百合子氏（７１）「私こそチャレンジャー」　主な候補者の横顔　東京都知事選(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240623-00000060-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c5f9b9e10ca5caaa0015f714d3dc95d27616ecf7?source=rss",
+          "author": null,
+          "description": "「小池百合子知事は保守とはいえない。蓮舫前参院議員が名乗りを上げた。普通の保守系の都民が投票する人がいない」\n\n自民党が独自候補の擁立を見送り、保守の立場から首都の行政に危機感を覚えて出馬を決意した。",
+          "link": "https://news.yahoo.co.jp/articles/c5f9b9e10ca5caaa0015f714d3dc95d27616ecf7?source=rss",
+          "publishedOn": "2024-06-23T03:00:00.000Z",
+          "wordCount": 796,
+          "title": "田母神俊雄氏（７５）「保守系都民の代表を目指す」　主な候補者の横顔　東京都知事選(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240623-00000059-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/af83b9d71702d0e8660dc28aa8414138d7c50c9a?source=rss",
+          "author": null,
+          "description": "「現知事はトップダウン方式のリーダー。私はボトムアップ型の知事になりたい」\n\n２０年にわたる国会議員としての政治活動を通して、「民主主義は途中経過が大事」と認識する。事業が失敗したときの検証が行政には",
+          "link": "https://news.yahoo.co.jp/articles/af83b9d71702d0e8660dc28aa8414138d7c50c9a?source=rss",
+          "publishedOn": "2024-06-23T03:00:00.000Z",
+          "wordCount": 799,
+          "title": "蓮舫氏（５６）「ボトムアップ型リーダーに」　主な候補者の横顔　東京都知事選(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240623-00000058-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f3ea8b47aea9616c1c69d79d633796f00663eb0d?source=rss",
+          "author": null,
+          "description": "「時代を動かすチャンス」と挑戦を決めた。故郷の広島県安芸高田市長が令和元年参院選広島選挙区の買収事件に関わり辞職したことが政治を志したきっかけ。当時の副市長だけが後継として名乗り出たことに「強い危機感",
+          "link": "https://news.yahoo.co.jp/articles/f3ea8b47aea9616c1c69d79d633796f00663eb0d?source=rss",
+          "publishedOn": "2024-06-23T03:00:00.000Z",
+          "wordCount": 766,
+          "title": "石丸伸二氏（４１）「トライアスロンで鍛錬」　主な候補者の横顔　東京都知事選(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240623-00000057-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/12688d91fbedf7e827314a946151b166408803c0?source=rss",
           "author": null,
@@ -38882,16 +38947,6 @@
           "wordCount": 1773,
           "title": "【すき家】納豆まぜのっけ朝食【朝食メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/c927a937793c55644858ffea4688f129.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=246642",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年5月18日から5月24日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキ […]",
-          "link": "https://foodfighter.jp/ranking-2024-0525",
-          "publishedOn": "2024-05-24T15:00:44.000Z",
-          "wordCount": 1746,
-          "title": "【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年5月18日から5月24日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/34de4610b0de18ee6d5b0dd5f39fdf8c.jpg"
         }
       ]
     },
@@ -38900,6 +38955,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036824.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(兵庫県) [EU]：2024/06/22(土) 12:44:56.55 ID:0yxYwB0P0●.net \n\n\n\n\n\n\n\n\n\n\nほら言うた通りキャベツの相場が大暴落。1玉1000円のキャベツが200円切りました。大玉5玉入りで箱1000円切りました。20ケース頼まれました。高い時だけで無く安い時...",
+          "link": "https://itainews.com/archives/2036824.html",
+          "publishedOn": "2024-06-23T03:01:01.000Z",
+          "wordCount": 2525,
+          "title": "八百屋｢キャベツ1000円の時報道するなら200円に暴落した時も報道してほしい｣",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/f/bfd100c5-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036823.html",
           "author": "yonepo665sfr",
@@ -46874,6 +46939,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SnbiBZuHCTI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SnbiBZuHCTI",
+          "publishedOn": "2024-06-23T03:00:16.000Z",
+          "wordCount": null,
+          "title": "こんなに喋るかもめんたる槙尾久しぶり【有吉の壁】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vLfZQVVG1cM",
           "author": null,
