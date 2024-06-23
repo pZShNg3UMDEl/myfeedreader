@@ -2018,16 +2018,6 @@
           "wordCount": 3802,
           "title": "Two New Jobs Submitted by Luxima",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/05/black-silicon-photodiodes.html",
-          "author": null,
-          "description": "Title: Excellent Responsivity and Low Dark Current Obtained with Metal-Assisted Chemical Etched Si Photodiode\nAuthor: Kexun Chen, Olli E. Setälä, Xiaolong Liu, Behrad Radfar, Toni P. Pasanen, Michael D. Serué, Juha Heinonen, Hele Savin, Ville Vähänissi\nAffiliation: Aalto University, Finland\nAbstract: Metal-assisted chemical etched (MACE, also known as MacEtch or MCCE) nanostructures are utilized widely in the solar cell industry due to their excellent optical properties combined with a simple and cost-efficient fabrication process. The photodetection community, on the other hand, has not shown much interest towards MACE due to its drawbacks including insufficient surface passivation, increased junction recombination, and possible metal contamination, which are especially detrimental to pn-photodiodes. Here, we aim to change this by demonstrating how to fabricate high-performance MACE pn-photodiodes with above 90% external quantum efficiency (EQE) without external bias voltage at 200–1000 nm and dark current less than 3 nA/cm2 at −5 V using industrially applicable methods. The key is to utilize an induced junction created by an atomic layer deposited highly charged Al2O3 thin film that simultaneously provides efficient field-effect passivation and full conformality over the MACE nanostructures. Achieving close to ideal performance demonstrates the vast potential of MACE nanostructures in the fabrication of high-performance low-cost pn-photodiodes.",
-          "link": "http://image-sensors-world.blogspot.com/2024/05/black-silicon-photodiodes.html",
-          "publishedOn": "2024-05-24T16:15:00.001Z",
-          "wordCount": 3960,
-          "title": "\"Black Silicon\" photodiodes",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uthRkWFqK_q89aVl_fwEBEnTGv_bPhiHoukFzasiHoe4d_Auu05akUGdZ0_RAfnGjXpc0ltrYeYAH22cyWam6mz2V1eSBQs97y5Amunj-nEczP8Q=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -9491,6 +9481,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/88c69120fedf2bc8c6e9f87d6602edd00cc719f3?source=rss",
+          "author": null,
+          "description": "【北京＝三塚聖平】中国南部で記録的な大雨が続いており、各地で土砂崩れなどの被害が発生している。中国メディアによると、広東省と福建省では２３日までに少なくとも５０人超の死亡が確認された。２３日には湖南省",
+          "link": "https://news.yahoo.co.jp/articles/88c69120fedf2bc8c6e9f87d6602edd00cc719f3?source=rss",
+          "publishedOn": "2024-06-23T04:00:09.000Z",
+          "wordCount": 742,
+          "title": "中国南部で大雨被害　広東、福建両省で少なくとも５０人超が死亡　湖南省でも土砂崩れ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/86f48d32d3d41f83383d2d50bb058e21ca69c1c6?source=rss",
+          "author": null,
+          "description": "ベルギー出身の世界的芸術家、ジャン＝ミッシェル・フォロン（１９３４～２００５年）の回顧展（産経新聞社など主催）が来年４月、大阪で始まるのを前に同国を訪れた。首都ブリュッセルでは「欧州の要衝」としての一",
+          "link": "https://news.yahoo.co.jp/articles/86f48d32d3d41f83383d2d50bb058e21ca69c1c6?source=rss",
+          "publishedOn": "2024-06-23T04:00:00.000Z",
+          "wordCount": 830,
+          "title": "絵を描くことが好きだった少年時代、疎開していた美しい湖のほとりで感じた創作の源流　芸術家フォロンの祖国㊦(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240623-00000075-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f1fe723f7a76c7200f25cf7dfcedf7674f579211?source=rss",
+          "author": null,
+          "description": "沖縄戦が終結して７９年となる「慰霊の日」の２３日、最後の激戦地となった沖縄県糸満市摩文仁（まぶに）の平和祈念公園で行われた「沖縄全戦没者追悼式」で、玉城デニー知事は「この島が世界の恒久平和に貢献する国",
+          "link": "https://news.yahoo.co.jp/articles/f1fe723f7a76c7200f25cf7dfcedf7674f579211?source=rss",
+          "publishedOn": "2024-06-23T03:48:44.000Z",
+          "wordCount": 725,
+          "title": "沖縄戦７９年「慰霊の日」　玉城知事、平和宣言で「抑止力の強化が地域の緊張高める」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/d9376bc6230ff742654d4414c13ee99f66b74f6e?source=rss",
           "author": null,
@@ -43432,6 +43452,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=75172",
+          "author": "299",
+          "description": "地域猫たちが猫の集会を開いています。たくさんの猫たちが広場に集まってきて、ただ静かにその場に座っています。 これがいわゆる猫の集会ですが、なんとも言えない緩〜い空気が漂っていてとても心落ち着きますね。 そこに参加させても...\n猫の集会で猫たちと戯れる最高な時間 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/75172",
+          "publishedOn": "2024-06-23T04:00:56.000Z",
+          "wordCount": 1286,
+          "title": "猫の集会で猫たちと戯れる最高な時間",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75172.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=75167",
           "author": "299",
