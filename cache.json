@@ -5642,6 +5642,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121549/",
+          "author": null,
+          "description": "脱出アドベンチャーゲーム「誰ソ彼（たそかれ）ホテル」シリーズが、2025年1月にテレビアニメ化されることが決定した。桃河りか、酒井広大、白井悠介らの出演が明らかになっており、ティザーPVとキービ...",
+          "link": "https://anime.eiga.com/news/121549/",
+          "publishedOn": "2024-06-24T12:00:00.000Z",
+          "wordCount": 758,
+          "title": "脱出ADVゲーム「誰ソ彼ホテル」25年1月にTVアニメ化　桃河りか、酒井広大、白井悠介ら原作キャストが出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121548/",
           "author": null,
           "description": "堀越耕平氏の漫画「僕のヒーローアカデミア」が、8月5日発売の「週刊少年ジャンプ」36・37合併号（集英社刊）で完結することがわかった。最終話までは残り5話。「週刊少年ジャンプ」公式YouTube...",
@@ -9471,6 +9486,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8e5a4c6ef8c661c60ec75a87e43c57e9be8f7e5e?source=rss",
+          "author": null,
+          "description": "【ロンドン＝緒方優子】国賓として英国を訪問中の天皇陛下は現地時間の２４日午前、ロンドンを流れるテムズ川下流にある洪水を防ぐ治水施設「テムズバリア」を訪問された。陛下がライフワークとしている「水」の研究",
+          "link": "https://news.yahoo.co.jp/articles/8e5a4c6ef8c661c60ec75a87e43c57e9be8f7e5e?source=rss",
+          "publishedOn": "2024-06-24T12:23:35.000Z",
+          "wordCount": 800,
+          "title": "天皇陛下、テムズ川の治水施設ご訪問　在留邦人らとご交流も(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240624-00000186-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f0bc72637c43357560ea17a28320dd30bac12321?source=rss",
+          "author": null,
+          "description": "東京都知事選（７月７日投開票）について、小池百合子知事の２期８年の都政の評価や選挙戦に臨む姿勢などを都議会主要会派の幹部に聞いた。\n\n――小池都政の評価は\n\n「１期目は自身の立ち位置を打ち出したい思い",
+          "link": "https://news.yahoo.co.jp/articles/f0bc72637c43357560ea17a28320dd30bac12321?source=rss",
+          "publishedOn": "2024-06-24T12:11:57.000Z",
+          "wordCount": 781,
+          "title": "都議会主要会派幹部に聞く①　自民・菅野弘一幹事長「都政運営できるかどうか」　東京都知事選(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240624-00000184-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8fecf98e8f3abf73fd7e5a5035863fcd99cea938?source=rss",
+          "author": null,
+          "description": "全国で約３０万人（令和４年度）に上るとされる小中学生の不登校。学校から足が遠のく子供たちにとって、日中安心して過ごすことのできる場所は少ない。そんな現状を憂えた母親２人が昨春、不登校の子供らの居場所「",
+          "link": "https://news.yahoo.co.jp/articles/8fecf98e8f3abf73fd7e5a5035863fcd99cea938?source=rss",
+          "publishedOn": "2024-06-24T12:06:41.000Z",
+          "wordCount": 822,
+          "title": "不登校の子供に「安心できる場所」で笑顔を　東京・練馬で支援続ける長谷部さんと吉岡さん(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240624-00000183-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d1bb1b4dc27837bb91b16027285a8651480c9379?source=rss",
+          "author": null,
+          "description": "任期満了に伴う大阪府河内長野市長選（３０日告示、７月７日投開票）で、新人で府議の西野修平氏（５１）が２４日、無所属での立候補を表明した。同市長選を巡っては、２期目の現職、島田智明氏（５４）が不出馬を表",
+          "link": "https://news.yahoo.co.jp/articles/d1bb1b4dc27837bb91b16027285a8651480c9379?source=rss",
+          "publishedOn": "2024-06-24T12:04:16.000Z",
+          "wordCount": 720,
+          "title": "大阪府議の西野氏が立候補表明　河内長野市長選、現職は不出馬(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240624-00000182-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/0263f7545a103923d2a4ba9b5e4c16fa47ce5dad?source=rss",
           "author": null,
@@ -37900,26 +37955,6 @@
           "wordCount": 717,
           "title": "佳子さま、ギリシャご到着　外交関係樹立１２５周年で公式ご訪問(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c137105fbed1e9b86423e152cabf4a3c859c7918?source=rss",
-          "author": null,
-          "description": "Ｑ　高齢になると、シニア向け分譲マンションというのが気になってきます。どんなところですか\n\nＡ　高齢者が住みやすいよう、バリアフリー設備やレクリエーションなどさまざまなサービスがついているマンションで",
-          "link": "https://news.yahoo.co.jp/articles/c137105fbed1e9b86423e152cabf4a3c859c7918?source=rss",
-          "publishedOn": "2024-05-26T00:03:57.000Z",
-          "wordCount": 807,
-          "title": "気になる高齢者向け分譲マンション　有料で見守りサービスも　100歳時代の歩き方　イマサラＱ＆Ａ(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0bf0a556d5130fabdad79edac5ff81b3a8aee7af?source=rss",
-          "author": null,
-          "description": "岡山県津山市の山間部、阿波（あば）地区にあった森林公園（キャンプ場）がグランピング施設に変貌して約３年。年間利用者は約４倍の１万１０００人超、売り上げも２０倍以上となり、話題を呼んでいる。「古民家の宿",
-          "link": "https://news.yahoo.co.jp/articles/0bf0a556d5130fabdad79edac5ff81b3a8aee7af?source=rss",
-          "publishedOn": "2024-05-26T00:00:00.000Z",
-          "wordCount": 804,
-          "title": "人口400人の山里に年間1・1万人殺到　都会人魅了する「まるごと田舎暮らしリゾート」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240526-00000040-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -39455,6 +39490,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036871.html",
+          "author": "yonepo665sfr",
+          "description": "0001ネギうどん ★2024/06/24(月) 11:49:10.61ID:TcSJRq6U9\n\n\n\n\n\n\n\n\n\nラーメン屋にきたのに“ラーメンを頼まない”迷惑客、店主のプロレスラーが怒り「380円のデザートを10人で」（ENCOUNT） https://t.co/zcy3kPI4Pe— ゼクシス (@zexis49) June 24, 2024 \n\n\n\n\n\n\n\n\n\n近...",
+          "link": "https://itainews.com/archives/2036871.html",
+          "publishedOn": "2024-06-24T12:01:52.000Z",
+          "wordCount": 2582,
+          "title": "ラーメン屋店主のプロレスラー川田利明が、“ラーメンを頼まない”迷惑客に怒り「380円のデザートを10人で」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/1/91dfa172-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036863.html",
           "author": "damono3856",
@@ -47471,16 +47516,6 @@
           "wordCount": 1296,
           "title": "保護一か月で甘えん坊になってしまった子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73369.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=73393",
-          "author": "299",
-          "description": "玄関先までやってきて嬉しそうにお出迎えをしているプリン。さて誰を待っていたのでしょうか〜。お母さんが1泊2日の旅行から帰宅したところです。 2日ぶりのプリンとの再会でしたが、プリンにとっては永遠に感じられた時間だったので...\n旅行帰りのお母さんにグイグイ頭突きして歓迎する猫のプリン first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/73393",
-          "publishedOn": "2024-05-26T00:00:10.000Z",
-          "wordCount": 1286,
-          "title": "旅行帰りのお母さんにグイグイ頭突きして歓迎する猫のプリン",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73393.jpeg"
         }
       ]
     },
