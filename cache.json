@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/24/news082.html",
+          "author": null,
+          "description": "マイクロチップ・テクノロジーは、車載充電モジュール向けのソリューションを発表した。デジタルシグナルコントローラー「dsPIC33C」、絶縁型SiC（炭化ケイ素）ゲートドライバ「MCP14C1」、D2PAK-7L XLパッケージを採用した「mSiC MOSFET」が含まれる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/24/news082.html",
+          "publishedOn": "2024-06-24T00:30:00.000Z",
+          "wordCount": 2523,
+          "title": "AEC-Q100準拠の車載充電モジュール向けソリューション",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/24/cover_news082.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2406/21/news095.html",
           "author": null,
           "description": "リバーエレテックは、1チップオシレーター「KCRO-04」のサンプル出荷を開始した。水晶のカット角「KoTカット」を用いたOPAW発振器の第3弾となり、独自開発した発振用ICを採用している。",
@@ -8535,36 +8545,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121286/",
-          "author": null,
-          "description": "岩明均氏のSF漫画を、細田佳央太主演で映像化する、ディズニープラス「スター」のドラマシリーズ「七夕の国」に、藤野涼子、上杉柊平、木竜麻生、三上博史、山田孝之らが参加していることがわかった。あわせ...",
-          "link": "https://anime.eiga.com/news/121286/",
-          "publishedOn": "2024-05-25T13:00:00.000Z",
-          "wordCount": 866,
-          "title": "岩明均原作の実写ドラマ「七夕の国」に藤野涼子×上杉柊平×木竜麻生×三上博史×山田孝之　街や人がえぐられる映像初公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121307/",
-          "author": null,
-          "description": "ハズレなしのキャラクターくじの最新作「一番くじ 鬼滅の刃 ～柱稽古～」が5月31日から順次発売される。1回750円。 A賞からC賞はメタリック塗装の日輪刀を構えた不死川実弥、伊黒小芭内、冨岡義勇...",
-          "link": "https://anime.eiga.com/news/121307/",
-          "publishedOn": "2024-05-25T12:00:00.000Z",
-          "wordCount": 898,
-          "title": "「鬼滅の刃 柱稽古編」一番くじが登場　不死川実弥、伊黒小芭内、冨岡義勇、錆兎フィギュアなど当たる",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9371,6 +9351,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b933cf4743af77a2030678af2c1e1f47ff3f81b7?source=rss",
+          "author": null,
+          "description": "ロシア国防省は２３日、ロシアの実効支配下にあるウクライナ南部クリミア半島セバストポリの上空で同日、ウクライナ軍が発射した長距離ミサイル「ＡＴＡＣＭＣ（エイタクムス）」５発を撃墜したと主張した。同市のラ",
+          "link": "https://news.yahoo.co.jp/articles/b933cf4743af77a2030678af2c1e1f47ff3f81b7?source=rss",
+          "publishedOn": "2024-06-24T01:02:15.000Z",
+          "wordCount": 727,
+          "title": "クリミアにウクライナ軍ミサイル　市民４人死亡、１５０人超負傷　ロシア当局が主張(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240624-00000041-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8ade2058ccd9154130c5bc7398bd148e992de453?source=rss",
+          "author": null,
+          "description": "自民党の田村憲久政調会長代行は２３日のフジテレビ番組で、党内の若手議員が公然と岸田文雄首相（党総裁）の退陣論を唱え始めた状況に苦言を呈した。「けなし合っているみたいなことは党にとって良くない。言うなら",
+          "link": "https://news.yahoo.co.jp/articles/8ade2058ccd9154130c5bc7398bd148e992de453?source=rss",
+          "publishedOn": "2024-06-24T00:39:26.000Z",
+          "wordCount": 732,
+          "title": "自民・田村憲久氏、首相退陣唱える若手に苦言「言うならば本人に直接言われた方がいい」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240624-00000040-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ed96844865c65a5aacc40088857f35db7cac6c9a?source=rss",
+          "author": null,
+          "description": "天皇、皇后両陛下の英国ご到着から一夜明けた２３日午前、取材の空き時間に、２５日の公式行事の会場となるロンドン、バッキンガム宮殿へと続く「ザ・マル」と呼ばれる大通りを訪れた。この日は日曜日。観光客に人気",
+          "link": "https://news.yahoo.co.jp/articles/ed96844865c65a5aacc40088857f35db7cac6c9a?source=rss",
+          "publishedOn": "2024-06-23T23:55:15.000Z",
+          "wordCount": 799,
+          "title": "ご訪英で在留邦人らに高まる期待　「陛下ー！」と街頭で歓迎の声も　天皇、皇后両陛下ご訪英同行記（２）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240624-00000038-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/777c2606c0079c596d2f157e21a901ee38b3d12e?source=rss",
           "author": null,
@@ -37110,26 +37120,6 @@
           "wordCount": 761,
           "title": "任天堂　米サンフランシスコに直営店　米国２店目、2025年中に(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240525-00000215-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f0ca2654eb68481b15b73c509b6fd70d3304d830?source=rss",
-          "author": null,
-          "description": "【パリ＝板東和正】イタリア北部ストレーザで開催されていた先進７カ国（Ｇ７）財務相・中央銀行総裁会議は２５日、閉幕した。ロイター通信によると、イエレン米財務長官は同日、「Ｇ７は中国の過剰生産能力を監視す",
-          "link": "https://news.yahoo.co.jp/articles/f0ca2654eb68481b15b73c509b6fd70d3304d830?source=rss",
-          "publishedOn": "2024-05-25T13:02:09.000Z",
-          "wordCount": 757,
-          "title": "Ｇ７、中国の過剰生産監視協力で合意　露資産活用「検討」　財務相・中銀総裁会合が閉幕(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ef05589f13024bc1db14f6188ee868d32bbec914?source=rss",
-          "author": null,
-          "description": "○大の里（押し出し）●湘南乃海（夏場所１４日目＝２５日）\n\n自信ゆえか、それとも性格か。優勝争いの最終盤、入幕３場所目の２３歳に全く硬さは見られなかった。\n\n３敗でトップの大の里は、４敗の湘南乃海との",
-          "link": "https://news.yahoo.co.jp/articles/ef05589f13024bc1db14f6188ee868d32bbec914?source=rss",
-          "publishedOn": "2024-05-25T11:56:35.000Z",
-          "wordCount": 743,
-          "title": "大の里、圧勝で最速Ｖに王手　大相撲夏場所１４日目(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240525-00000199-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -37138,6 +37128,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=250025",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ハーゲンダッツの新商品「クリーミージェラート ピスタチオ＆サマーバニラ」を世界一詳しく調査しました。   公式You […]",
+          "link": "https://foodfighter.jp/haagen-dazs-gelato-pistachio",
+          "publishedOn": "2024-06-24T00:22:19.000Z",
+          "wordCount": 1768,
+          "title": "【ハーゲンダッツ】クリーミージェラート ピスタチオ＆サマーバニラ【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/c2d77b7a29d91f6a939a08afaebd5b6e.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=250005",
           "author": "foodfighter",
@@ -43034,26 +43034,6 @@
           "wordCount": 2323,
           "title": "【兵庫】男子高校生「男の手に光るようなものが見えた、刃物かもしれない！」と通報→光るスマホで誤報と判明",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/c/8ca8973f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035932.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/05/24(金) 15:25:24.41 ID:bUoTY1qE0●.net\n\n\n\n\n\n\n\n法案施行前のパーティー禁止せず立民・泉氏、大串氏を擁護　「現実的ではない」https://t.co/QEa5gmoNZK泉健太氏は「ルールが違う状況で戦うのは公平だとは言えない」と述べ、各...",
-          "link": "https://itainews.com/archives/2035932.html",
-          "publishedOn": "2024-05-25T12:43:14.000Z",
-          "wordCount": 2383,
-          "title": "【正論】立憲・泉「パーティー禁止法案を提出した時点で禁止しないと駄目だというのは現実的ではない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/4/846eef6b-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035939.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(ジパング) [CN]：2024/05/25(土) 01:04:23.98 ID:1yO0WhY30.net\n\n\n\n\n\n\n\n中国人ロシア兵、リー・ジャンウェイ🇨🇳🇷🇺Z「凄まじい死傷率だ。前線に着くと8-10時間で皆んな死ぬ。この戦争は勝てない…。死傷率が高過ぎる。」この兵士は中国...",
-          "link": "https://itainews.com/archives/2035939.html",
-          "publishedOn": "2024-05-25T12:03:15.000Z",
-          "wordCount": 2604,
-          "title": "ロシア軍の中国人傭兵「この戦争は勝てない。前線に着くと8-10時間でみんな死ぬ」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/9/396c7897-s.png"
         }
       ]
     },
@@ -43062,6 +43042,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=75258",
+          "author": "299",
+          "description": "キジトラの子猫たちが保護されてやってきたこのお家で、随分慣れてきたようです。子猫たちがしばらく慣れるまでは、この囲いの中で生活してもらうことになります。 ある程度慣れてきた子猫たちは、今度は囲いの外にいる保護主さんに甘え...\n保護主さんに甘えて安心しきった子猫たち first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/75258",
+          "publishedOn": "2024-06-24T00:00:16.000Z",
+          "wordCount": 1284,
+          "title": "保護主さんに甘えて安心しきった子猫たち",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75258.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=75228",
           "author": "299",
@@ -46591,16 +46581,6 @@
           "wordCount": 1286,
           "title": "保護した赤ちゃん猫がミルクをたっぷり飲んで元気に成長していきます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73340.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=73326",
-          "author": "299",
-          "description": "冷蔵庫の上に豆大福が乗っかっています。足の短い豆大福ですが、こんな高いところまで登ることができるのは意外と運動能力が高いのでしょうか。 そんな豆大福が冷蔵庫の上で、何度も何度も可愛い声で鳴き続けています。何を要求している...\n冷蔵庫の上から不満タラタラな豆大福 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/73326",
-          "publishedOn": "2024-05-25T13:00:10.000Z",
-          "wordCount": 1284,
-          "title": "冷蔵庫の上から不満タラタラな豆大福",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73326.jpeg"
         }
       ]
     },
