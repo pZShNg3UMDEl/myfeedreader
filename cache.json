@@ -6,6 +6,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/25/news077.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、第2世代のCoolSiC（炭化ケイ素）技術を採用した、SiCパワーMOSFET「CoolSiC MOSFET 400V」ファミリーを発表した。高い電力密度と効率を実現した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/25/news077.html",
+          "publishedOn": "2024-06-25T00:00:00.000Z",
+          "wordCount": 2543,
+          "title": "効率99.5％を実現　400V耐圧のSiCパワーMOSFET",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/25/cover_news077.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2406/24/news082.html",
           "author": null,
           "description": "マイクロチップ・テクノロジーは、車載充電モジュール向けのソリューションを発表した。デジタルシグナルコントローラー「dsPIC33C」、絶縁型SiC（炭化ケイ素）ゲートドライバ「MCP14C1」、D2PAK-7L XLパッケージを採用した「mSiC MOSFET」が含まれる。",
@@ -292,6 +302,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=78724",
+          "author": "編集部：平山洸太",
+          "description": "EcoFlow Technology Japanは、家庭用蓄電池「EcoFlow DELTA Pro 3」を6月25日に発売する。価格は539,000円（税込）。専用エクストラバッテリーと切替分電盤とのセットを1,045,000円（税込）、400Wソーラーパネルとのセットを665,500円（税込）で […]",
+          "link": "https://gadget.phileweb.com/post-78724/",
+          "publishedOn": "2024-06-25T01:00:00.000Z",
+          "wordCount": 728,
+          "title": "EcoFlow、“11年使える”4kWhの家庭用蓄電池「DELTA Pro 3」。電気料金の節約もアピール",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/image05.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=78662",
           "author": "Munenori Taniguchi",
@@ -8615,36 +8635,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121324/",
-          "author": null,
-          "description": "8月14～18日に広島市で開催される2年1度のアニメーション芸術の祭典「ひろしまアニメーションシーズン2024（HAS）」コンペティション各部門の入選作品が決定した。 HASは、世界4大アニメー...",
-          "link": "https://anime.eiga.com/news/121324/",
-          "publishedOn": "2024-05-26T13:00:00.000Z",
-          "wordCount": 1120,
-          "title": "「ひろしまアニメーションシーズン2024」コンペティション各部門入選作品決定",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121300/",
-          "author": null,
-          "description": "北村匠海とお笑いコンビ「オズワルド」の伊藤俊介と畠中悠が、「映画クレヨンしんちゃん」シリーズの最新作「映画クレヨンしんちゃん オラたちの恐竜日記」のゲスト声優を務めることがわかった。 2023年...",
-          "link": "https://anime.eiga.com/news/121300/",
-          "publishedOn": "2024-05-26T12:00:00.000Z",
-          "wordCount": 889,
-          "title": "北村匠海＆オズワルド、「映画クレヨンしんちゃん　オラたちの恐竜日記」のゲスト声優に",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9441,6 +9431,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/18002ec10b4c39f5b20e346d72520665ce6a9964?source=rss",
+          "author": null,
+          "description": "友人２人が、東京に戻ってきた私の家に、泊まりがけで来てくれた。１人は横浜の高層マンションから。もう１人は、移住先の千葉の山の中から。なんとその日は、大雨警報が発表されたさなかだった。約束はしていたけれ",
+          "link": "https://news.yahoo.co.jp/articles/18002ec10b4c39f5b20e346d72520665ce6a9964?source=rss",
+          "publishedOn": "2024-06-25T00:18:20.000Z",
+          "wordCount": 797,
+          "title": "友から伝えられた言葉の意味…「自分のシアワセだけ追求して生きよ」　家族がいてもいなくても　久田恵（８０８）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240625-00000037-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9c8c2331c00f07295c8ea9342c8cde7594e53a8b?source=rss",
+          "author": null,
+          "description": "鹿児島県の大隅半島にある鹿屋体育大学は日本唯一の国立体育大学だ。体操部ができたのは、大学のスタートと同じ１９８４年。創部４１年目の今年、初めてＯＢから五輪代表選手が誕生した。現在、徳洲会体操クラブで主",
+          "link": "https://news.yahoo.co.jp/articles/9c8c2331c00f07295c8ea9342c8cde7594e53a8b?source=rss",
+          "publishedOn": "2024-06-25T00:16:03.000Z",
+          "wordCount": 805,
+          "title": "鹿屋体大と連携　合同合宿や指導陣ミーティング　ＯＢ杉野の代表入りで相乗効果も加速へ　革新　徳洲会体操クラブの挑戦（６）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240625-00000036-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1255dfb3e9037d0ef28927238ad4ef47e1b5eb70?source=rss",
+          "author": null,
+          "description": "「加藤節雄さんですよね」\n\n天皇、皇后両陛下のご訪英３日目となる２４日、ロンドンのホテルで行われた日英友好団体主催のレセプション。日本と英国の友好親善に尽力した関係者ら、およそ４００人の熱気に包まれた",
+          "link": "https://news.yahoo.co.jp/articles/1255dfb3e9037d0ef28927238ad4ef47e1b5eb70?source=rss",
+          "publishedOn": "2024-06-25T00:15:13.000Z",
+          "wordCount": 819,
+          "title": "天皇陛下「再会」の旅路で旧交温め、感謝お伝えに　「あの時期をとても楽しみました」　天皇、皇后両陛下ご訪英同行記（３）(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240625-00000035-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/eb4f938fc4cdf90f8d1d5c42bb5e31145fd2cef1?source=rss",
           "author": null,
@@ -37470,26 +37490,6 @@
           "wordCount": 716,
           "title": "死因は失血死とＣＯ中毒死　品川母子４人死亡(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240526-00000191-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/992c95b61c1b25b6505ffa61130c77a80acadc3e?source=rss",
-          "author": null,
-          "description": "宝塚歌劇団花組のトップスター、柚香光（ゆずか・れい）とトップ娘役、星風まどかが26日、東京宝塚劇場（千代田区）での退団公演「『アルカンシェル』～パリに架かる虹～」の千秋楽を迎えた。サヨナラショー終了後",
-          "link": "https://news.yahoo.co.jp/articles/992c95b61c1b25b6505ffa61130c77a80acadc3e?source=rss",
-          "publishedOn": "2024-05-26T13:00:00.000Z",
-          "wordCount": 754,
-          "title": "宝塚花組トップ柚香光の退団公演が東京でも千秋楽　「とても良い青春だった」会見一問一答(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/520990717a9fbb0a68bd15f1e0411fafd3e38cac?source=rss",
-          "author": null,
-          "description": "「僕自身は今、すごい幸せなんですよ」。屈託のない笑みには、元プロ野球選手としての未練はみじんも感じられなかった。物流会社「ダイワコーポレーション」（本社・東京）に勤務する大須賀允（まこと）さん（４４）",
-          "link": "https://news.yahoo.co.jp/articles/520990717a9fbb0a68bd15f1e0411fafd3e38cac?source=rss",
-          "publishedOn": "2024-05-26T12:00:00.000Z",
-          "wordCount": 789,
-          "title": "元巨人の大須賀允さん、第二の人生は物流業務の「プロ」　胸に刻んだ一流選手のある言葉(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240526-00000172-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -37498,6 +37498,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=250087",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム あずき練乳氷」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
+          "link": "https://foodfighter.jp/711sej-azuki-milk-ice-2024",
+          "publishedOn": "2024-06-25T00:38:45.000Z",
+          "wordCount": 1762,
+          "title": "【セブンイレブン】セブンプレミアム あずき練乳氷【コンビニアイス新商品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/e1f2bf675eb115ac08a26f7979761dbd.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=250067",
           "author": "foodfighter",
@@ -38967,16 +38977,6 @@
           "wordCount": 1782,
           "title": "【なか卯】牛うな重・ごはん大盛り（牛肉とうなぎ）【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/ee672db8bf534a5812640c376a194de3.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=246850",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”挽きたて”・”打ちたて”・”茹でたて”にこだわる江戸切りそばチェーン「ゆで太郎（もつ次郎併設）」へ […]",
-          "link": "https://foodfighter.jp/motsujiro-motsuitame-set",
-          "publishedOn": "2024-05-26T12:50:19.000Z",
-          "wordCount": 1771,
-          "title": "【もつ次郎】もつ炒めセット定食・唐揚げ・ごはん大盛り【定番メニュー・ゆで太郎併設】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/bfb88e4ad590eba577011ee85ef11c59.jpg"
         }
       ]
     },
@@ -43434,26 +43434,6 @@
           "wordCount": 2389,
           "title": "彼女「アレレレー？彼がコンビニでトイレ借りたのに何も買わないよ？失礼です、どうする？」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/7/c75dc406-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035960.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2024/05/26(日) 10:33:32.75 ID:xAPJFWGQ9.net\n\n\n\n\n\n\n\nJUST IN!! 新着記事⠀ /／　　　　　　　　　🗣「腹が減ってお供え物を食べていた」地蔵の供え物を盗んだ疑いで５３歳の男を逮捕　盗んだのは約１００円のポップコーン \\＼もっと見る 👇👇📰https:...",
-          "link": "https://itainews.com/archives/2035960.html",
-          "publishedOn": "2024-05-26T13:02:59.000Z",
-          "wordCount": 2437,
-          "title": "【福岡】「腹が減ってお供え物を食べていた」地蔵の供え物を盗んだ疑いで53歳の男を逮捕　盗んだのは約100円のポップコーン",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/f/9f0e92e4-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035956.html",
-          "author": "yonepo665sfr",
-          "description": "1 ： 【梅】 (ジパング) [NZ]：2024/05/26(日) 08:10:33.01 ID:PcERbfcH0●.net\n\n\n\n\n\n\n\n\n\n\nバニラの甘さとわさびの香りが...意外とマッチしてるかも❣️🤩途中でお醤油かけたりして味変しながら食べてみたよ🍨みんなの感想も教えて～💬#スーパーカップアレンジ研究部 htt...",
-          "link": "https://itainews.com/archives/2035956.html",
-          "publishedOn": "2024-05-26T12:46:34.000Z",
-          "wordCount": 2328,
-          "title": "【朗報】スーパーカップにわさびを入れると激ウマに！",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/c/acb85c13.png"
         }
       ]
     },
@@ -43462,6 +43442,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=75324",
+          "author": "299",
+          "description": "野良の子猫だったココちゃんとレオくんがソファの上でまったりしています。仲良しな兄妹は昼寝をするのも一緒です。 どちらもとにかく人懐っこくて元野良だったとはとても思えないほどです。 おっとりとした穏やかな性格、そしてまんま...\n保護猫3兄妹が可愛すぎてメロメロになってしまう飼い主さん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/75324",
+          "publishedOn": "2024-06-25T00:00:38.000Z",
+          "wordCount": 1287,
+          "title": "保護猫3兄妹が可愛すぎてメロメロになってしまう飼い主さん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75324.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=75291",
           "author": "299",
@@ -46991,16 +46981,6 @@
           "wordCount": 1291,
           "title": "新たにやってきたマンチカンの子猫がすんなり先住犬と仲良くなりました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73401.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=73389",
-          "author": "299",
-          "description": "白猫の桃太郎くんが、ひとり立ち上がってダンスを踊るみたいにクネクネしています。 この桃太郎くん、単なる白猫さんかと思ったら、なんとおでこのところにカッコいい黒いもようがふたつバッチリ入っていました。 まるで飼い主さんがマ...\n二本足で立ち上がり踊るニャンコさん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/73389",
-          "publishedOn": "2024-05-26T13:00:26.000Z",
-          "wordCount": 1288,
-          "title": "二本足で立ち上がり踊るニャンコさん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73389.jpeg"
         }
       ]
     },
