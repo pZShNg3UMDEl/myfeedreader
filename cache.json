@@ -8665,21 +8665,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121354/",
-          "author": null,
-          "description": "バトルアクション漫画「SAKAMOTO DAYS」がテレビアニメ化され、2025年1月から放送されることが決定した。主人公の坂本太郎役を杉田智和が務める。メインスタッフの顔ぶれも明らかになってお...",
-          "link": "https://anime.eiga.com/news/121354/",
-          "publishedOn": "2024-05-27T11:10:00.000Z",
-          "wordCount": 885,
-          "title": "ジャンプ漫画「SAKAMOTO DAYS」25年1月にTVアニメ化　ふくよかな元暗殺者の主人公演じる杉田智和「役作りはバッチリ」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9456,6 +9441,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/59018bee8735028f61e0f95c2f23f86940cf9fa5?source=rss",
+          "author": null,
+          "description": "【ソウル＝桜井紀雄】韓国軍合同参謀本部は２６日、北朝鮮が同日午前５時半ごろ（日本時間同）、平壌付近から日本海へ向けて弾道ミサイルを発射したと発表した。韓国軍は、失敗したと推定されるとの分析を示した。日",
+          "link": "https://news.yahoo.co.jp/articles/59018bee8735028f61e0f95c2f23f86940cf9fa5?source=rss",
+          "publishedOn": "2024-06-25T22:53:39.000Z",
+          "wordCount": 718,
+          "title": "北朝鮮が日本海へ弾道ミサイル発射、韓国軍は「失敗」と分析(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5a9ca885d2a75173e86d2c7238807327ef2a5780?source=rss",
           "author": null,
@@ -37805,56 +37800,6 @@
           "wordCount": 763,
           "title": "勝因は「結束力」　バスケＢ２優勝・Ｂ１昇格　滋賀レイクス選手ら知事表敬(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000188-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/72c5617480a1de03fdb16edf93d20d888b65eec3?source=rss",
-          "author": null,
-          "description": "【アテネ＝吉沢智美】ギリシャを公式訪問中の秋篠宮ご夫妻の次女、佳子さまは２７日、アテネ最大の博物館で、約４千点の文化財が展示されているアクロポリス博物館を視察された。古代ギリシャの祭りのパレードの様子",
-          "link": "https://news.yahoo.co.jp/articles/72c5617480a1de03fdb16edf93d20d888b65eec3?source=rss",
-          "publishedOn": "2024-05-27T11:03:01.000Z",
-          "wordCount": 706,
-          "title": "佳子さま、アクロポリス博物館やパルテノン神殿ご視察　ギリシャ語でごあいさつも(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cdd8d22a580db3aaa8452b2dc124fac103a777dc?source=rss",
-          "author": null,
-          "description": "日中韓３カ国が、「日中韓自由貿易協定（ＦＴＡ）」の締結交渉の再開で合意した。経済が低迷する中国が実現に前のめりで、日本は中国が補助金政策といった懸案の協議に応じると判断した。中国という大きな市場へのア",
-          "link": "https://news.yahoo.co.jp/articles/cdd8d22a580db3aaa8452b2dc124fac103a777dc?source=rss",
-          "publishedOn": "2024-05-27T11:02:35.000Z",
-          "wordCount": 720,
-          "title": "日中韓ＦＴＡ、中国補助金是正なるか　米中対立の中、「二枚舌戦略」も必要(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5b8c65d2a00a427ac5e92d9b3b1ab87b9d11593f?source=rss",
-          "author": null,
-          "description": "関西経済連合会は２７日、大阪市で定時総会と理事会を開き、副会長に関西電力の森望（のぞむ）社長とＮＴＴ西日本の小林充佳（みつよし）相談役を選任した。関電から副会長に就任するのは４年半ぶり。任期は４期目の",
-          "link": "https://news.yahoo.co.jp/articles/5b8c65d2a00a427ac5e92d9b3b1ab87b9d11593f?source=rss",
-          "publishedOn": "2024-05-27T10:59:44.000Z",
-          "wordCount": 734,
-          "title": "関経連副会長に不祥事続いた関西電力社長　４年半ぶり、再発防止策公表で財界復帰に道筋(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000182-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/af57d83f5c4f1235e66c8be87aece435ce4f5432?source=rss",
-          "author": null,
-          "description": "日本相撲協会の諮問機関、横綱審議委員会（横審）は２７日、東京・両国国技館で定例会合を開いた。山内昌之委員長（東大名誉教授）は終了後に報道対応し、２場所連続途中休場の横綱照ノ富士について、横審として７月",
-          "link": "https://news.yahoo.co.jp/articles/af57d83f5c4f1235e66c8be87aece435ce4f5432?source=rss",
-          "publishedOn": "2024-05-27T10:54:55.000Z",
-          "wordCount": 734,
-          "title": "横審は照ノ富士を秋場所まで静観　２場所連続休場、結果出ない場合の判断は「彼自身」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000181-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cf6ffc8e921682c26cc40795415745748fdc8792?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本は２７日、低気圧や前線の接近に伴い大雨が見込まれることから、関西の一部路線で２８日昼以降、運転を取りやめる可能性があると発表した。\n\n取りやめの可能性があるのは、大和路線（関西線）や奈良線、",
-          "link": "https://news.yahoo.co.jp/articles/cf6ffc8e921682c26cc40795415745748fdc8792?source=rss",
-          "publishedOn": "2024-05-27T10:51:02.000Z",
-          "wordCount": 727,
-          "title": "２８日昼以降の大雨予報、ＪＲ西が一部運転取り止めも(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000180-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -39332,16 +39277,6 @@
           "wordCount": 1761,
           "title": "【セブンイレブン】セブンプレミアム トゥンカロンアイス 黒蜜きなこ【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/d7e13e439653f595af2008648792c1aa.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=246977",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ロッテの新商品「爽（そう） 冷凍みかん」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]",
-          "link": "https://foodfighter.jp/soh-frozen-mikan",
-          "publishedOn": "2024-05-27T10:59:00.000Z",
-          "wordCount": 1771,
-          "title": "ロッテ 爽（そう） 冷凍みかん【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/05/de1752dce7242518ed9052fcfbb50b21.jpg"
         }
       ]
     },
@@ -39350,6 +39285,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036921.html",
+          "author": "dqnplus",
+          "description": "1 名前：少考さん ★：2024/06/25(火) 17:34:26.98 ID:/reQbKUA9.net\n\n\n\n\n\n\n\n\n「水を止めればすぐ払ってくれる」　水道料金の滞納対策、東京都の「効率化」が情け容赦なさすぎないかhttps://t.co/mn5mJdQYTy— 東京新聞（TOKYO Web） (@tokyo_shimbun) June 24, 2024 \n\n\n...",
+          "link": "https://itainews.com/archives/2036921.html",
+          "publishedOn": "2024-06-25T23:01:16.000Z",
+          "wordCount": 2412,
+          "title": "「水を止めればすぐ払ってくれる」　水道料金の滞納対策、東京都の「効率化」が情け容赦なさすぎないか",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/a/3adeb60e-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036919.html",
           "author": "dqnplus",
@@ -47436,16 +47381,6 @@
           "wordCount": 1292,
           "title": "食後のワチャワチャが可愛い子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73451.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=73447",
-          "author": "299",
-          "description": "今回ご紹介するのは飼い主さんと3週間ぶりにあう猫ちゃんです。 空白の期間を埋めるべく、ニャ～ニャ～と大きな声で鳴きながら甘える姿が可愛らしいのでご覧ください。 飼い主さんは休暇に出かけており、帰宅したのは3週間ぶりでした...\n３週間ぶりに飼い主さんと再会できた猫の反応が可愛すぎる first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/73447",
-          "publishedOn": "2024-05-27T11:00:40.000Z",
-          "wordCount": 1291,
-          "title": "３週間ぶりに飼い主さんと再会できた猫の反応が可愛すぎる",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73447.jpeg"
         }
       ]
     },
