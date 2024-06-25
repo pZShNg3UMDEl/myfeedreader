@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=78752",
+          "author": "多根清史",
+          "description": "アップルが空間コンピュータ（MRヘッドセット）「Apple Vision Pro」の廉価モデルを準備していることは、複数の情報源が伝えてきたことだ。このバージョンにおける課題は、「どの機能を削り、どの機能を残すか」だろう。 この点につき、アップルは「難しいトレードオフ（どちらを優先するか）に直面して […]",
+          "link": "https://gadget.phileweb.com/post-78752/",
+          "publishedOn": "2024-06-25T03:10:25.000Z",
+          "wordCount": 718,
+          "title": "Apple Vision、空間コンピュータ廉価モデルの価格は24万円から？コストダウンに苦戦中か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/shutterstock_2421441879.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=78724",
           "author": "編集部：平山洸太",
           "description": "EcoFlow Technology Japanは、家庭用蓄電池「EcoFlow DELTA Pro 3」を6月25日に発売する。価格は539,000円（税込）。専用エクストラバッテリーと切替分電盤とのセットを1,045,000円（税込）、400Wソーラーパネルとのセットを665,500円（税込）で […]",
@@ -2112,6 +2122,16 @@
       "feedUrl": "https://ninten-switch.com/feed",
       "siteUrl": "https://ninten-switch.com",
       "articles": [
+        {
+          "id": "https://ninten-switch.com/?p=366404",
+          "author": "管理人",
+          "description": "グッドスマイルカンパニーが、『ピクミン』より「ねんどろいど チャッピー」を2025年2月に発売することを発表しました。 販売価格は7,500円(税込)に設定されています。 任天堂が手掛ける人気ゲーム『ピクミン』シリーズか […]",
+          "link": "https://ninten-switch.com/nendoroid-pikumin-chappie-yoyaku",
+          "publishedOn": "2024-06-25T03:13:56.000Z",
+          "wordCount": 11603,
+          "title": "『ピクミン』より「ねんどろいど チャッピー」が2025年2月に発売決定！予約開始",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/nendoroid-pikumin-chappie-yoyaku2.jpg"
+        },
         {
           "id": "https://ninten-switch.com/?p=366562",
           "author": "管理人",
@@ -5681,6 +5701,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121545/",
+          "author": null,
+          "description": "劇場版シリーズ最新作「名探偵コナン 100万ドルの五稜星（みちしるべ）」（上映中）が、6月23日までの公開73日間で、観客動員数1052万人、興行収入150.5億円を記録。邦画史上10本目となる...",
+          "link": "https://anime.eiga.com/news/121545/",
+          "publishedOn": "2024-06-25T03:00:00.000Z",
+          "wordCount": 666,
+          "title": "「名探偵コナン 100万ドルの五稜星」興行収入150億円突破　青山剛昌からのお祝いイラスト公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121544/",
           "author": null,
@@ -9401,6 +9436,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0f8863ec28cc684d4c11da280b765d015c0992c7?source=rss",
+          "author": null,
+          "description": "スポーツクライミング女子複合のパリ五輪代表に決まった野中生萌（みほう）が２５日、成田空港に帰国した。銀メダルを獲得した東京五輪に続く２大会連続の出場に「（パリ五輪は）簡単な試合ではないと思うが、どこま",
+          "link": "https://news.yahoo.co.jp/articles/0f8863ec28cc684d4c11da280b765d015c0992c7?source=rss",
+          "publishedOn": "2024-06-25T03:05:16.000Z",
+          "wordCount": 714,
+          "title": "スポーツクライミング五輪代表の野中が帰国　「さらに上のメダル目指す」と金に意欲(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/020c241033597429e36ff7d7881b187ea41b8a94?source=rss",
+          "author": null,
+          "description": "炭鉱の街・夕張を訪れるのは、ＪＲ夕張支線（新夕張―夕張間）が廃止される前年以来だから６年ぶりだ。\n\n今回は札幌から直通バスに乗ることにした。鉄路がなくなったので当然といえば当然だが、１日３便の直通バス",
+          "link": "https://news.yahoo.co.jp/articles/020c241033597429e36ff7d7881b187ea41b8a94?source=rss",
+          "publishedOn": "2024-06-25T03:00:00.000Z",
+          "wordCount": 836,
+          "title": "北の鉄路を考える⑤　夕張駅の喫茶店は灯だったの巻　帰ってきた令和阿房列車で行こう　第三列車(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240625-00000054-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d4264f4e768868f83d62dab54573d9adafb27048?source=rss",
+          "author": null,
+          "description": "東京都知事選（７月７日投開票）に立候補した小池百合子都知事（７１）、前参院議員の蓮舫氏（５６）、前広島県安芸高田市長の石丸伸二氏（４１）、元航空幕僚長の田母神俊雄氏（７５）の４人は２４日、東京青年会議",
+          "link": "https://news.yahoo.co.jp/articles/d4264f4e768868f83d62dab54573d9adafb27048?source=rss",
+          "publishedOn": "2024-06-25T02:58:44.000Z",
+          "wordCount": 711,
+          "title": "都知事選討論会で４氏に気まずい質問　動画削除、事前運動、ポスター代未払い、運動員買収(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e3730ecd10a97b00272de3f21011cb590e378b7?source=rss",
+          "author": null,
+          "description": "「静岡『正論』友の会」の第２９回講演会が２３日、浜松市中央区の浜松市地域情報センターで開かれ、産経新聞オピニオン面「正論」欄の執筆者で元空将・麗澤大学特別教授の織田（おりた）邦男氏が講演した。「ウクラ",
+          "link": "https://news.yahoo.co.jp/articles/2e3730ecd10a97b00272de3f21011cb590e378b7?source=rss",
+          "publishedOn": "2024-06-25T02:56:30.000Z",
+          "wordCount": 772,
+          "title": "「『教育』こそが最大の国防」　静岡「正論」友の会　元空将の織田邦男氏が浜松で講演(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240625-00000052-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7e95fc7134d8322c0dce11d4884e3277b15b1eb7?source=rss",
+          "author": null,
+          "description": "自民党の茂木敏充幹事長は２５日の記者会見で、東京都知事選の選挙掲示板に同一ポスターが複数貼られた問題を受け、公職選挙法の見直しが必要との認識を示した。「掲載する権利の売買を呼びかける政治団体が現れるな",
+          "link": "https://news.yahoo.co.jp/articles/7e95fc7134d8322c0dce11d4884e3277b15b1eb7?source=rss",
+          "publishedOn": "2024-06-25T02:54:18.000Z",
+          "wordCount": 733,
+          "title": "自民・茂木幹事長、公選法見直しの必要性に言及　都知事選の多数同一ポスター(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240625-00000050-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5fec27b75324f043bc5141f3cc4826e69c666654?source=rss",
           "author": null,
@@ -37480,16 +37565,6 @@
           "wordCount": 712,
           "title": "日中韓、ＦＴＡ交渉再開へ　過剰生産問題念頭　首脳会談で合意調整(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/dbd90dce35ddfb544b83bc7c594432238f3d2f1c?source=rss",
-          "author": null,
-          "description": "宝塚歌劇団花組のトップスター、柚香光（ゆずか・れい）が26日、東京宝塚劇場（千代田区）での退団公演「『アルカンシェル』～パリに架かる虹～」の千秋楽を迎え、15年間の男役としての活動に終止符を打った。",
-          "link": "https://news.yahoo.co.jp/articles/dbd90dce35ddfb544b83bc7c594432238f3d2f1c?source=rss",
-          "publishedOn": "2024-05-26T15:01:12.000Z",
-          "wordCount": 700,
-          "title": "「本日、背中の羽を下ろしました」　宝塚花組トップ柚香光、サヨナラショーで見せた集大成(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -38995,6 +39070,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036889.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：もん様：2024/06/24(月) 15:00:03.00 ID:tF4IJ/Gb0●.net \n\n\n\n\n\n\n\n\n\n今井や松川らはセーヌ川に行って泳いで大便報告すれば名誉挽回できるのでは笑https://t.co/tPjFq6jjPO— 光と闇のタクシードライバー (@polo_is_mylife) June 24, 2024 \n\n\n\n\n\n\n\n\n五輪１カ月前「セ...",
+          "link": "https://itainews.com/archives/2036889.html",
+          "publishedOn": "2024-06-25T03:01:23.000Z",
+          "wordCount": 2565,
+          "title": "フランス人「セーヌ川で大便しよう。うんちうんちうんち」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/8/e84d6ea8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036888.html",
           "author": "yonepo665sfr",
