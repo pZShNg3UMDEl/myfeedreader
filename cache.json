@@ -6,6 +6,26 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/26/news105.html",
+          "author": null,
+          "description": "ユーブロックスは、グローバル接続を強化した、LTE Cat 1bis向け通信モジュール「LEXI-R10 Global」と「SARA-R10」シリーズを発表した。屋内位置測位機能と米国MNO認定コアを搭載する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/26/news105.html",
+          "publishedOn": "2024-06-26T01:45:00.000Z",
+          "wordCount": 2550,
+          "title": "屋内測位機能を搭載したLTE Cat 1bis向け通信モジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/26/cover_news105.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2406/26/news040.html",
+          "author": null,
+          "description": "電磁気学入門講座。今回は、フライバッククランプ回路および関連の損失について解説します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2406/26/news040.html",
+          "publishedOn": "2024-06-26T01:00:00.000Z",
+          "wordCount": 2513,
+          "title": "電磁気学入門（11）フライバッククランプ回路と関連の損失",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/26/cover_news040.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2406/25/news077.html",
           "author": null,
           "description": "インフィニオン テクノロジーズは、第2世代のCoolSiC（炭化ケイ素）技術を採用した、SiCパワーMOSFET「CoolSiC MOSFET 400V」ファミリーを発表した。高い電力密度と効率を実現した。",
@@ -8984,26 +9004,6 @@
           "wordCount": 4361,
           "title": "美容院とグラビア",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10226",
-          "author": "watanabe@logipara.com",
-          "description": "エレガントと評判のワタナベです。 本日はエレガントにドラッグストアに行きました。 エレガントに欲しい商品をピックアップし、エレガントに会計を済ませようとすると、 　 店員「当店の会員アプリはお持ちですか？」 ワタナベ「い […]",
-          "link": "https://logipara.com/diary-text/2024/05/27/",
-          "publishedOn": "2024-05-27T13:57:19.000Z",
-          "wordCount": 4352,
-          "title": "10%オフに魂を賭けろ",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10226",
-          "author": "watanabe@logipara.com",
-          "description": "エレガントと評判のワタナベです。 本日はエレガントにドラッグストアに行きました。 エレガントに欲しい商品をピックアップし、エレガントに会計を済ませようとすると、 　 店員「当店の会員アプリはお持ちですか？」 ワタナベ「い […]",
-          "link": "https://logipara.com/diary-text/2024-05-28",
-          "publishedOn": "2024-05-27T13:57:19.000Z",
-          "wordCount": 4402,
-          "title": "10%オフに魂を賭けろ",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -9416,6 +9416,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/522b28e6d0da37d37d2160d8223fee2547ccd538?source=rss",
+          "author": null,
+          "description": "人間の皮膚から培養した細胞を使った、生きた皮膚を持つロボットの顔を開発したと、東京大の研究チームが発表した。論文が２６日、米科学誌に掲載された。笑顔を作る実験にも成功し、医療や美容分野での応用が期待で",
+          "link": "https://news.yahoo.co.jp/articles/522b28e6d0da37d37d2160d8223fee2547ccd538?source=rss",
+          "publishedOn": "2024-06-26T01:31:30.000Z",
+          "wordCount": 778,
+          "title": "生きた皮膚を持つ笑うロボット、東大が開発　医療・美容分野での応用期待(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000060-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0fc71332a53095e5fc7b2cf636dbeb3b5e5c67ed?source=rss",
+          "author": null,
+          "description": "ＪＲ東日本によると、中央線の快速電車と中央・総武各駅停車は御茶ノ水～四ッ谷駅間での沿線火災の影響で、午前８時４０分頃から上下線で運転を見合わせていたが、9時42分頃に運転を再開した。上下線の一部列車に",
+          "link": "https://news.yahoo.co.jp/articles/0fc71332a53095e5fc7b2cf636dbeb3b5e5c67ed?source=rss",
+          "publishedOn": "2024-06-26T01:13:29.000Z",
+          "wordCount": 711,
+          "title": "ＪＲ中央線快速、沿線火災で一時運転見合わせも再開　上下線に遅れと運休(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000059-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/21f604df09a5cd274c22b9b23a94cf25ed1d3081?source=rss",
+          "author": null,
+          "description": "アフリカ東部ケニアの首都ナイロビで２５日、増税法案に反対するデモ隊の一部が暴徒化し、議会に侵入を図るなどして治安部隊と衝突した。デモ参加者のうち少なくとも５人が発砲を受けて死亡し、３０人以上が負傷した",
+          "link": "https://news.yahoo.co.jp/articles/21f604df09a5cd274c22b9b23a94cf25ed1d3081?source=rss",
+          "publishedOn": "2024-06-26T01:01:11.000Z",
+          "wordCount": 723,
+          "title": "ケニアでデモ隊が議会突入　増税に反対、発砲で５人死亡　大統領は鎮圧の意向(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/81db3a3b57a190ad75fdb555eb7187384c85a983?source=rss",
+          "author": null,
+          "description": "米大リーグ、ドジャースの大谷翔平は２５日、シカゴでのホワイトソックス戦に「１番・指名打者」で出場。一回の第１打席で右翼へ２４号先頭打者本塁打を放った。ドジャースで２本目。打点は９試合連続となり、球団タ",
+          "link": "https://news.yahoo.co.jp/articles/81db3a3b57a190ad75fdb555eb7187384c85a983?source=rss",
+          "publishedOn": "2024-06-26T01:00:27.000Z",
+          "wordCount": 745,
+          "title": "大谷翔平が２４号先頭打者本塁打　１番ＤＨでホワイトソックス戦(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000056-san-000-2-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7de1493ef2d86628d6b245b0f6f9847111e8e30a?source=rss",
           "author": null,
@@ -37715,16 +37755,6 @@
           "wordCount": 749,
           "title": "北朝鮮のミサイルは日本に飛来せず　政府、避難の呼びかけも解除(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/72ab8148bcb15b97fcbf40e22e212bfa0611bcda?source=rss",
-          "author": null,
-          "description": "政府は２７日夜、北朝鮮から弾道ミサイルの可能性があるものが発射されたと発表した。北朝鮮が打ち上げを予告していた人工衛星の可能性がある。日本政府は沖縄県を対象に全国瞬時警報システム（Ｊアラート）を発令し",
-          "link": "https://news.yahoo.co.jp/articles/72ab8148bcb15b97fcbf40e22e212bfa0611bcda?source=rss",
-          "publishedOn": "2024-05-27T14:00:12.000Z",
-          "wordCount": 745,
-          "title": "北朝鮮が衛星打ち上げか　日本政府、Ｊアラート発令(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -43699,26 +43729,6 @@
           "wordCount": 2328,
           "title": "「いい女になれよ」と声かけ　無事通報",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/7/b762b5b5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2036000.html",
-          "author": "damono3856",
-          "description": "1 名前：朝一から閉店までφ ★：2024/05/27(月) 06:13:47.69 ID:QS9OlMy39.net\n\n\n\n\n\n\n\n【ひろゆき】南米のホテルの対応にブチギレ「それってあなたの問題ですよね？」1時間以上クレームを言い続け、騒然とした空気に#ひろゆき #東出昌大 #世界の果てに東出・ひろゆき置...",
-          "link": "https://itainews.com/archives/2036000.html",
-          "publishedOn": "2024-05-27T14:01:41.000Z",
-          "wordCount": 2469,
-          "title": "ひろゆき、南米のホテルの対応にブチギレ「それってあなたの問題ですよね？」1時間以上クレームを言い続け、騒然とした空気に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/4/a4dc2704-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2035994.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/05/27(月) 13:11:44.37 ID:yZiuZSLm0●.net\n\n\n\n\n\n\n\n\n\n「1人でディズニーに行く20代後半の私。途中で泣きそうになってたら、大学生くらいのカップルが...」（京都府・30代女性） https://t.co/9cs1RoPQ6k— 詰み過ぎライフ (@KT8t2) May...",
-          "link": "https://itainews.com/archives/2035994.html",
-          "publishedOn": "2024-05-27T13:46:38.000Z",
-          "wordCount": 2324,
-          "title": "女さん「ひとりでディズニーランドに行った20歳後半の私。途中で泣いてしまいました」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/4/24beb85f-s.png"
         }
       ]
     },
@@ -43727,6 +43737,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=75361",
+          "author": "299",
+          "description": "キジトラの赤ちゃん猫がぐっすりと寝ていましたが、目をしばしばさせて、どうやらお目覚めのようです。 最初は一緒に他の兄弟猫たちと昼寝をしていたはずだったのに、いつのまにか周りには誰もいなくなってしまっていて、それでハッと急...\nハッと目覚めたら周りに誰もいなかった〜 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/75361",
+          "publishedOn": "2024-06-26T02:00:08.000Z",
+          "wordCount": 1283,
+          "title": "ハッと目覚めたら周りに誰もいなかった〜",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75361.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=75387",
           "author": "299",
