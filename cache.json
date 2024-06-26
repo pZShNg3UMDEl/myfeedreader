@@ -313,6 +313,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=78854",
+          "author": "Munenori Taniguchi",
+          "description": "中国国営メディアSecurities Timesなどが伝えたところでは、OpenAIは中国を含む複数の国で同社のAI製品へのアクセスをブロックすることを検討しているという。 OpenAIは世界160か国以上で利用可能だが、もともとその中に中国は含まれていない。ただ、APIを通じてChatGPTにアク […]",
+          "link": "https://gadget.phileweb.com/post-78854/",
+          "publishedOn": "2024-06-26T03:16:12.000Z",
+          "wordCount": 706,
+          "title": "OpenAI、中国からのChatGPTへのアクセスをブロックへ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/Vitor-Miranda_Shutterstock.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=78844",
+          "author": "多根清史",
+          "description": "Googleは26日、恒例の新ハードウェア発表イベント「Made by Google」を8月13日に開催するとX（旧Twitter）やYouTubeで発表した。同イベントはたいてい毎年秋に開催されており、今回は異例の速さである。 すでにGoogleから海外メディアに招待状が送られており、今年はニュー […]",
+          "link": "https://gadget.phileweb.com/post-78844/",
+          "publishedOn": "2024-06-26T03:07:18.000Z",
+          "wordCount": 777,
+          "title": "「Made by Google」今年は8月14日深夜に開催。Pixel 9シリーズやPixel Fold後継機が登場か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/shutterstock_2397830367.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=78836",
           "author": "多根清史",
           "description": "アップルは独自のAI機能「Apple Intelligence」がiPhone 15 ProモデルやM1以降を搭載したiPadやMac以外では動かない理由につき、単にチップの性能が十分ではないためだと答えていた。古いiPhoneでは処理が遅く、レスポンスに時間がかかりすぎるというわけだ。 が、同社は […]",
@@ -5476,16 +5496,6 @@
           "wordCount": 11625,
           "title": "『MOTHER2』30周年記念ライブ「MOTHERのおんがく。」LIVE配信記念グッズが発表に！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/05/mother-2-mother-no-ongaku-goods-lineup5.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=361073",
-          "author": "管理人",
-          "description": "2024年8月31日～9月1日に期間に開催される、「Nintendo Live 2024 Sydney」の詳細がNintendo Australiaから公開されました。 昨年はアメリカや韓国、香港と台湾(台北)などの地域 […]",
-          "link": "https://ninten-switch.com/nintendo-live-2024-sydney-gaiyou",
-          "publishedOn": "2024-05-27T14:50:48.000Z",
-          "wordCount": 11607,
-          "title": "2024年8月31日～9月1日の期間に開催される「Nintendo Live 2024 Sydney」の詳細が公開！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/04/nintendo-live-2024-sydney-announce.jpg"
         }
       ]
     },
@@ -5701,6 +5711,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121565/",
+          "author": null,
+          "description": "「うる星やつら」「めぞん一刻」「犬夜叉」などで知られる高橋留美子氏による漫画「らんま1/2」の再アニメ化が決定した。「完全新作的アニメ化」をうたい、アニメ制作決定特報PVが披露されている。 なお...",
+          "link": "https://anime.eiga.com/news/121565/",
+          "publishedOn": "2024-06-26T02:58:02.000Z",
+          "wordCount": 693,
+          "title": "「らんま1/2」再アニメ化決定　詳細を発表するライブ配信を7月17日に実施",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121543/",
           "author": null,
@@ -9426,6 +9451,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a5de8aae699025a43ca13b342dfe3516fc32c495?source=rss",
+          "author": null,
+          "description": "浄土真宗本願寺派（京都市下京区、本山・西本願寺）に所属する石川県内の９８カ寺のうち、９４カ寺が今年１月の能登半島地震で何らかの被害を受けていたことが分かった。うち５カ寺が津波被害などで本堂が全半壊した",
+          "link": "https://news.yahoo.co.jp/articles/a5de8aae699025a43ca13b342dfe3516fc32c495?source=rss",
+          "publishedOn": "2024-06-26T03:10:37.000Z",
+          "wordCount": 724,
+          "title": "石川の94カ寺が被災、門信徒に犠牲者も 浄土真宗本願寺派が支援訴え(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000077-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4594c5ba5b5c85360f708560dfdd971ad34beab3?source=rss",
+          "author": null,
+          "description": "ＪＲ東日本によると、中央線快速と中央・総武の各駅停車は２６日午前８時４０分頃から沿線火災の影響で一時運転を見合わせたが、１０時５０分頃から御茶ノ水駅～四ッ谷駅間での変電所故障の影響で、再び上下の運転を",
+          "link": "https://news.yahoo.co.jp/articles/4594c5ba5b5c85360f708560dfdd971ad34beab3?source=rss",
+          "publishedOn": "2024-06-26T03:09:53.000Z",
+          "wordCount": 684,
+          "title": "ＪＲ中央線、変電所故障の影響で再び運転を見合わせ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c512bd08c1b12ca572eef87cca9905a2ab117be9?source=rss",
+          "author": null,
+          "description": "「攻めの廃線（注）」と称して当時の鈴木直道・夕張市長が推進したバス転換路線は、札幌への直通バスも９月末で廃止が決まったように、ものの見事に失敗した。\n\n１０億円以上も費やして新たに建設されたバスセンタ",
+          "link": "https://news.yahoo.co.jp/articles/c512bd08c1b12ca572eef87cca9905a2ab117be9?source=rss",
+          "publishedOn": "2024-06-26T03:00:00.000Z",
+          "wordCount": 860,
+          "title": "北の鉄路を考える⑥　「攻めの廃線」の末路を見た！の巻　　帰ってきた令和阿房列車で行こう　第三列車(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000072-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/bbe4f77f628414bbe82d2cc4b14fd5da20ac5282?source=rss",
           "author": null,
@@ -37705,56 +37760,6 @@
           "wordCount": 768,
           "title": "対応に追われる沖縄県庁職員　「被害報告なし」　北ミサイル発射(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/405ef682e4a2da16b7c363c3fc64a68a400ebc86?source=rss",
-          "author": null,
-          "description": "日本政府は２７日夜、北朝鮮から弾道ミサイルの可能性があるものが発射されたと発表した。北朝鮮が打ち上げを予告していた人工衛星の可能性がある。日本政府は沖縄県を対象に全国瞬時警報システム（Ｊアラート）を発",
-          "link": "https://news.yahoo.co.jp/articles/405ef682e4a2da16b7c363c3fc64a68a400ebc86?source=rss",
-          "publishedOn": "2024-05-27T15:12:33.000Z",
-          "wordCount": 782,
-          "title": "北朝鮮が衛星打ち上げか　日本政府、Ｊアラート発令　失敗の可能性も(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240528-00000003-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/bbafec808727f3d853b55807d1ef6ae356d03256?source=rss",
-          "author": null,
-          "description": "２７日夜、北朝鮮から弾道ミサイルの可能性があるものが発射されたことを受け、北朝鮮による拉致被害者、横田めぐみさん（５９）＝拉致当時（１３）＝の弟で、家族会代表の横田拓也さん（５５）が取材に応じ、「今回",
-          "link": "https://news.yahoo.co.jp/articles/bbafec808727f3d853b55807d1ef6ae356d03256?source=rss",
-          "publishedOn": "2024-05-27T15:08:10.000Z",
-          "wordCount": 700,
-          "title": "拉致被害者家族会の横田拓也代表「地域の脅威を高め、得るものない」　北ミサイル発射(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/44cfe5321af8153ad100eb07fe10c5b57d9cbd4b?source=rss",
-          "author": null,
-          "description": "大和証券グループ本社の荻野明彦社長が２７日までに産経新聞の取材に応じた。５月に相次いで打ち出したあおぞら銀行、かんぽ生命保険との資本業務提携に続き、さらなる異業種との提携やＭ＆Ａ（企業の合併・買収）に",
-          "link": "https://news.yahoo.co.jp/articles/44cfe5321af8153ad100eb07fe10c5b57d9cbd4b?source=rss",
-          "publishedOn": "2024-05-27T15:07:33.000Z",
-          "wordCount": 743,
-          "title": "大和証券Ｇ本社・荻野明彦社長、さらなる異業種との連携に意欲　個人投資家取り込みも強化(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240528-00000001-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/412312e80551275f0083c61ce829613896ae8688?source=rss",
-          "author": null,
-          "description": "【ソウル＝桜井紀雄】韓国軍合同参謀本部は２７日、北朝鮮が同日午後１０時４４分ごろ（日本時間同）、北西部の東倉里付近から黄海の南方向に向けて発射した「軍事偵察衛星」と推定される飛翔（ひしょう）体の航跡を",
-          "link": "https://news.yahoo.co.jp/articles/412312e80551275f0083c61ce829613896ae8688?source=rss",
-          "publishedOn": "2024-05-27T15:01:58.000Z",
-          "wordCount": 765,
-          "title": "海上に多数の破片と韓国軍　北朝鮮、衛星打ち上げに失敗か(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240528-00000000-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9c403056aa9057634e5431bef4e54caa098d4e92?source=rss",
-          "author": null,
-          "description": "ロシア国防省は２７日、ウクライナ東部ハリコフ州の集落イワノフカを制圧したと主張した。同省は２６日にも同州の集落ベレストボエを制圧したと主張した。\n\n両集落は露軍が越境攻撃を続ける同州北部の国境地域では",
-          "link": "https://news.yahoo.co.jp/articles/9c403056aa9057634e5431bef4e54caa098d4e92?source=rss",
-          "publishedOn": "2024-05-27T14:54:04.000Z",
-          "wordCount": 758,
-          "title": "ロシア、ハリコフ州東部の集落制圧と主張　ミサイル攻撃の死者１６人に(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000228-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -39250,6 +39255,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2036925.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。：2024/06/25(火) 16:56:47.34 ID:Yy0SwzQb0●.net\n\n\n\n\n\n\n\n\n\n\n“撮り鉄”対応に尽力　「特急やくも」沿線住民らにＪＲが感謝状贈呈　新型やくもデビュー・381系車両の引退でファン殺到　私有地に勝手に入るなどトラブルも… https://t.co/jX6I9...",
+          "link": "https://itainews.com/archives/2036925.html",
+          "publishedOn": "2024-06-26T03:01:06.000Z",
+          "wordCount": 2539,
+          "title": "「撮り鉄がでたぞ！○せ！」盗り鉄撲滅に協力した沿線住民にJRから感謝状",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/f/bf18eb48-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2036924.html",
           "author": "yonepo665sfr",
@@ -43739,16 +43754,6 @@
           "wordCount": 2314,
           "title": "VRに手を出した企業、91.9%が破滅",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/a/ea86db56-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2036004.html",
-          "author": "dqnplus",
-          "description": "1 名前： ：2024/05/26(日) 19:03:07.91 ID:nbsvWyhV0●.net\n\n\n\n\n\n\n\n「どこの高校に通っているの」　電車内で男が女子中学生の横に座り声かけ　聞き流されると肩をたたき「いい女になれよ」 #SmartNews https://t.co/LPfDxBk8Ni— 貝柱ギミック (@shiomi_tak45530) May 2...",
-          "link": "https://itainews.com/archives/2036004.html",
-          "publishedOn": "2024-05-27T15:02:17.000Z",
-          "wordCount": 2328,
-          "title": "「いい女になれよ」と声かけ　無事通報",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/7/b762b5b5-s.png"
         }
       ]
     },
