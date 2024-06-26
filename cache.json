@@ -313,6 +313,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=78836",
+          "author": "多根清史",
+          "description": "アップルは独自のAI機能「Apple Intelligence」がiPhone 15 ProモデルやM1以降を搭載したiPadやMac以外では動かない理由につき、単にチップの性能が十分ではないためだと答えていた。古いiPhoneでは処理が遅く、レスポンスに時間がかかりすぎるというわけだ。 が、同社は […]",
+          "link": "https://gadget.phileweb.com/post-78836/",
+          "publishedOn": "2024-06-26T02:11:35.000Z",
+          "wordCount": 740,
+          "title": "Apple Intelligenceが古いiPhoneやVision Proで動かない理由が明らかに",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/06/shutterstock_2473891489.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=78204",
           "author": "山本竜也",
           "description": "Microsoftが5月に発表した、次世代AI PCとなる「Copilot+ PC」。その第1弾製品が、6月18日に各社から発売された。 6月初めに開催された「COMPUTEX TAIPEI 2024」では、AMDからもCopilot+ PCの要件を満たす「Ryzen AI300シリーズ」が発表され […]",
@@ -9416,6 +9426,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/bbe4f77f628414bbe82d2cc4b14fd5da20ac5282?source=rss",
+          "author": null,
+          "description": "旬を迎える「京おくら」を使ったレシピを京都光華女子大短期大学部の学生らが考案し、京都市右京区のキャンパスでＪＡ職員や生産者らにふるまった。考案した１１種のレシピは、８月に行われる京おくらの販売会で紹介",
+          "link": "https://news.yahoo.co.jp/articles/bbe4f77f628414bbe82d2cc4b14fd5da20ac5282?source=rss",
+          "publishedOn": "2024-06-26T02:25:16.000Z",
+          "wordCount": 728,
+          "title": "甘く粘り強い「京おくら」使ったメニュー、大学生が考案(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000069-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/074450b9c8acc8f243bd0078b5de1ab7c9d581c0?source=rss",
+          "author": null,
+          "description": "元大阪地検検事正の弁護士、北川健太郎容疑者（６４）が準強制性交容疑で逮捕された事件で、北川容疑者が検事正在任中、公務員用の宿舎（官舎）で酒に酔った後輩の女性検察関係者に性的乱暴をした疑いがあることが２",
+          "link": "https://news.yahoo.co.jp/articles/074450b9c8acc8f243bd0078b5de1ab7c9d581c0?source=rss",
+          "publishedOn": "2024-06-26T02:17:58.000Z",
+          "wordCount": 728,
+          "title": "逮捕の元大阪地検検事正、官舎で酒に酔った後輩に性的乱暴か(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000068-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a08c9a774cbc1b0a311dc8cc0bfd9eaec39d2368?source=rss",
+          "author": null,
+          "description": "日本維新の会は２６日、通常国会での政治資金規正法改正を巡る混乱について、執行部が経緯を説明する党内会合でオンラインで開催した。調査研究広報滞在費（旧文書通信交通滞在費）改革に向けた自民党との交渉が頓挫",
+          "link": "https://news.yahoo.co.jp/articles/a08c9a774cbc1b0a311dc8cc0bfd9eaec39d2368?source=rss",
+          "publishedOn": "2024-06-26T02:14:08.000Z",
+          "wordCount": 775,
+          "title": "維新、国会対応混乱巡り党内説明会　馬場代表「仲間を後ろから撃つことは控えて」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000067-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/44c39179434cab67866365e821a43b1c39d6f393?source=rss",
+          "author": null,
+          "description": "北朝鮮は２６日午前５時２８分ごろ、平壌付近から日本海へ向けて弾道ミサイルを発射した。日韓両当局が発表した。韓国軍は、失敗したと推定されるとの分析を示した。日本政府によると、ミサイルは日本の排他的経済水",
+          "link": "https://news.yahoo.co.jp/articles/44c39179434cab67866365e821a43b1c39d6f393?source=rss",
+          "publishedOn": "2024-06-26T02:12:11.000Z",
+          "wordCount": 760,
+          "title": "北の弾道ミサイルは２００キロ超飛翔　韓国軍消息筋「極超音速の実験に失敗」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000066-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/de6d48c0b6b6ffcb61d3bd9770218df1a8c1aa6b?source=rss",
+          "author": null,
+          "description": "「役人の子はにぎにぎをよく覚え」。江戸時代にこんな川柳が流行した。\n\n老中、田沼意次（おきつぐ）は幕府の財政を立て直すため、株仲間（幕府が認めた同業組合）を奨励し、貿易振興、蝦夷（えぞ）地開発などにも",
+          "link": "https://news.yahoo.co.jp/articles/de6d48c0b6b6ffcb61d3bd9770218df1a8c1aa6b?source=rss",
+          "publishedOn": "2024-06-26T02:11:29.000Z",
+          "wordCount": 750,
+          "title": "弥縫策を繰り返す規正法　「化かし合い」はもう勘弁　書く書く鹿じか(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6c648f070c413ef59b088592e5f9d2bea199c4ee?source=rss",
+          "author": null,
+          "description": "パリ五輪開幕まで２６日で１カ月となった。２０２１年夏の東京五輪で銀メダルに輝いたバスケットボール女子の日本は、今夏の大舞台で世界の頂点に挑む。元日本代表で２００４年アテネ五輪に出場した矢野良子さん（４",
+          "link": "https://news.yahoo.co.jp/articles/6c648f070c413ef59b088592e5f9d2bea199c4ee?source=rss",
+          "publishedOn": "2024-06-26T02:09:16.000Z",
+          "wordCount": 814,
+          "title": "パリで「金」のカギは３点シュート　バスケ女子元日本代表の矢野良子さんが後輩にエール(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240626-00000064-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/522b28e6d0da37d37d2160d8223fee2547ccd538?source=rss",
           "author": null,
@@ -37705,56 +37775,6 @@
           "wordCount": 749,
           "title": "岸田首相が北ミサイル発射で情報収集を指示(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000226-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7f06ddcd6150ab74b2b518a88051defc7d489ab0?source=rss",
-          "author": null,
-          "description": "「建物の中、または地下に避難してください」。北朝鮮からミサイルが発射され、全国瞬時警報システム（Ｊアラート）が発令された沖縄県。那覇市内では２７日夜、サイレンが鳴り響き、防災無線で避難を呼びかける放送",
-          "link": "https://news.yahoo.co.jp/articles/7f06ddcd6150ab74b2b518a88051defc7d489ab0?source=rss",
-          "publishedOn": "2024-05-27T14:36:17.000Z",
-          "wordCount": 743,
-          "title": "ミサイル発射でサイレン　那覇に出張の会社員「地下に逃げろと言われても、地下ないし…」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5e5028852df15ff5f613631b75a4515e8023d68e?source=rss",
-          "author": null,
-          "description": "海上保安庁は２７日夜、防衛省からの情報として、北朝鮮から弾道ミサイルの可能性があるものが発射されたことについて、日本周辺への影響はなくなったと発表した。また、船舶に対しては、落下物を見つけた場合は近づ",
-          "link": "https://news.yahoo.co.jp/articles/5e5028852df15ff5f613631b75a4515e8023d68e?source=rss",
-          "publishedOn": "2024-05-27T14:31:08.000Z",
-          "wordCount": 706,
-          "title": "海保、日本周辺への影響はなくなったと発表　北朝鮮のミサイル発射(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/caeeee8d6380e141a17da7ee49e44dd71731c7bd?source=rss",
-          "author": null,
-          "description": "林芳正官房長官は２７日夜、北朝鮮がミサイルを発射したことを受けて首相官邸に入った。記者会見を行うとみられる。",
-          "link": "https://news.yahoo.co.jp/articles/caeeee8d6380e141a17da7ee49e44dd71731c7bd?source=rss",
-          "publishedOn": "2024-05-27T14:29:42.000Z",
-          "wordCount": 732,
-          "title": "林官房長官が首相官邸に入る　北ミサイル発射(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000223-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/966db2331e9701f7efbb0536da1191e8147bad14?source=rss",
-          "author": null,
-          "description": "ラグビーリーグワン1部で2年連続最下位（12位）の花園近鉄ライナーズは、2部との入れ替え戦2試合を行い、2連敗で来季の2部降格が決まった。昨季の入れ替え戦と同じ対戦相手で2部1位の浦安DーRocks（",
-          "link": "https://news.yahoo.co.jp/articles/966db2331e9701f7efbb0536da1191e8147bad14?source=rss",
-          "publishedOn": "2024-05-27T14:26:51.000Z",
-          "wordCount": 736,
-          "title": "リベンジ食らい屈辱の２部降格　ラグビーの花園近鉄ライナーズ、１部へ「１年で戻る」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240527-00000222-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/572ed133d85882ef8f06a16d9e3762ef729b84e5?source=rss",
-          "author": null,
-          "description": "政府は２７日夜、Ｊアラートで北朝鮮から発射されたミサイルが日本に飛来しないとみられると速報した。避難の呼びかけも解除した。",
-          "link": "https://news.yahoo.co.jp/articles/572ed133d85882ef8f06a16d9e3762ef729b84e5?source=rss",
-          "publishedOn": "2024-05-27T14:18:06.000Z",
-          "wordCount": 749,
-          "title": "北朝鮮のミサイルは日本に飛来せず　政府、避難の呼びかけも解除(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -47276,16 +47296,6 @@
           "wordCount": 1292,
           "title": "家にやってきたしまちゃんは初日から甘えん坊っぷりを発揮！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73536.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=73466",
-          "author": "299",
-          "description": "今回ご紹介するのは子猫ちゃんのことが気になって仕方のない猫ちゃんです。 母猫が子猫ちゃんのことを気にするのはわかるのですが、何故か血のつながりのない猫ちゃんまで子猫ちゃんに首ったけ。 子猫ちゃんを気にする様子が可愛らしい...\n子猫のことが気になって仕方のない猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/73466",
-          "publishedOn": "2024-05-27T14:30:58.000Z",
-          "wordCount": 1292,
-          "title": "子猫のことが気になって仕方のない猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/05/73466.jpeg"
         }
       ]
     },
