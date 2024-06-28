@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T03:37:53.801Z</updated>
+    <updated>2024-06-28T03:50:26.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東海道新幹線、大雨で運転見合わせ　下りは東京から浜松間、上りは新大阪から三島間　　(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/18c0810acaaf83b5f0e4a0680da2f517b18bb0d5?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/18c0810acaaf83b5f0e4a0680da2f517b18bb0d5?source=rss"/>
+        <updated>2024-06-28T03:40:17.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ東海によると、東海道新幹線は大雨の影響で、２８日午後０時２０分現在、下りが東京と浜松の間、上りが新大阪と三島の間で、それぞれ運転を見合わせている。静岡県では線状降水帯が発生し、気象庁は「顕著な大雨]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【サーティワンアイスクリーム】スーパースター -ダブルグレープ-（スーパーマリオとコラボ）【新作フレーバー】]]></title>
         <id>https://foodfighter.jp/?p=250470</id>
@@ -54402,16 +54412,6 @@ GalaxyCore's innovative single-wafer, high-resolution CMOS image sensor solution
 日本ハムの新庄監督が甲子園で主役となった。前日の降雨中止で１日遅れとなった交流戦初戦。阪神時代の先輩、岡田監督との直接対決で、チームは効果的に得点を重ね、１５安]]></summary>
         <author>
             <name>産経新聞 - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch用ソフト『Cat Pipes』が2024年6月6日に配信決定！]]></title>
-        <id>https://ninten-switch.com/?p=361252</id>
-        <link href="https://ninten-switch.com/cat-pipes-for-nintendo-switch-2024-0606-released"/>
-        <updated>2024-05-29T15:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Cat Pipes』が、国内向けとして2024年6月6日に配信されることが決定しました。 販売価格は499円(税込)に設定されています。 Cat Pipes – Lau […]]]></summary>
-        <author>
-            <name>管理人</name>
         </author>
     </entry>
 </feed>
