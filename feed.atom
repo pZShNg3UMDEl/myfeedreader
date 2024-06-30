@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T13:14:47.884Z</updated>
+    <updated>2024-06-30T13:26:19.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「勝ち切れたのは自分の強さ」　男子１００メートルで坂井隆一郎が２連覇　陸上日本選手権(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f17323c6e9394662b88b1a0770206d1772146e98?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f17323c6e9394662b88b1a0770206d1772146e98?source=rss"/>
+        <updated>2024-06-30T13:19:47.000Z</updated>
+        <summary type="html"><![CDATA[パリ五輪代表選考会を兼ねた陸上の日本選手権最終日は３０日、新潟市のデンカビッグスワンスタジアムで各種目の決勝があり、男子１００メートルは坂井隆一郎（大阪ガス）が１０秒１３で２連覇を果たした。東田旺洋（]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在庫切れ]]></title>
         <id>https://logipara.com/?p=10342</id>
@@ -53989,16 +53999,6 @@ DMM系からビットコイン480...]]></summary>
 例え]]></summary>
         <author>
             <name>産経新聞 - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ビアードパパ】ラングドシャシュー（シュークリーム）【期間限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=247550</id>
-        <link href="https://foodfighter.jp/beardpapa-langue-de-chat"/>
-        <updated>2024-06-01T01:20:13.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「ビアードパパ」の新商品「ラングドシャシュー」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
