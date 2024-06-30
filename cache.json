@@ -5497,6 +5497,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121551/",
+          "author": null,
+          "description": "松山ケンイチ、染谷将太が主演を務め、福田雄一監督がメガホンをとる「聖☆おにいさん THE MOVIE ホーリーメンVS悪魔軍団」の第3弾キャストが発表され、Team悪魔ファミリー役で窪田正孝、山...",
+          "link": "https://anime.eiga.com/news/121551/",
+          "publishedOn": "2024-06-30T10:00:00.000Z",
+          "wordCount": 763,
+          "title": "実写「聖☆おにいさん」窪田正孝、山本美月、桜井日奈子、中田青渚が結集　イエス、ブッダに立ちはだかるTeam悪魔ファミリー役",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121552/",
           "author": null,
           "description": "放送中のテレビアニメ「ザ・ファブル」に、藤真秀、安済知佳、子安武人、金光祥浩の出演が決定した。本PV第3弾、新規メインビジュアルの公開に加え、主題歌を第1クールから引き続き、「梅田サイファー」「...",
@@ -9391,6 +9406,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/9926d4e4cd8f57cd6a3fac2d60cb392ff673174f?source=rss",
+          "author": null,
+          "description": "岸田文雄首相は３０日、令和４年７月に死去した安倍晋三元首相を巡り、「私たちは安倍さんから引き継いだ『志のバトン』をしっかりと次の世代に引き継いでまいります」とのメッセージを自らのＸ（旧ツイッター）に投",
+          "link": "https://news.yahoo.co.jp/articles/9926d4e4cd8f57cd6a3fac2d60cb392ff673174f?source=rss",
+          "publishedOn": "2024-06-30T10:06:32.000Z",
+          "wordCount": 738,
+          "title": "岸田文雄首相がＸに投稿「安倍さんの志のバトンを次世代に引き継ぐ」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000123-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/687fa669b5c9ebcf03c27bb29a90ee39a443e7c6?source=rss",
+          "author": null,
+          "description": "皇室の方々の護衛やお住まいの警備に当たる皇宮警察本部は３０日、東京都港区の赤坂御用地内に正当な理由なく侵入したとして、建造物侵入の疑いで男を現行犯した。\n\n逮捕容疑は３０日午後０時２５分ごろ、敷地内に",
+          "link": "https://news.yahoo.co.jp/articles/687fa669b5c9ebcf03c27bb29a90ee39a443e7c6?source=rss",
+          "publishedOn": "2024-06-30T10:06:04.000Z",
+          "wordCount": 734,
+          "title": "赤坂御用地内に侵入、男を現行犯逮捕　皇宮警察(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000122-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4559f37c8dd750da824b1c1d6996c25b092c7445?source=rss",
+          "author": null,
+          "description": "【しがｎｏｔｅ】\n\n水上レジャーが本格化する季節を前に、琵琶湖付近での酒気帯び操船の禁止などを盛り込んだ改正滋賀県琵琶湖等水上安全条例が７月１日、施行される。背景には相次ぐ飲酒事故がある。滋賀県警は利",
+          "link": "https://news.yahoo.co.jp/articles/4559f37c8dd750da824b1c1d6996c25b092c7445?source=rss",
+          "publishedOn": "2024-06-30T10:00:00.000Z",
+          "wordCount": 798,
+          "title": "水上でも飲んだら乗るな　琵琶湖で改正条例が来月施行(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000121-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/27406c923c498dadb6f65a2c57baf4f9f1d82b75?source=rss",
           "author": null,
@@ -37680,16 +37725,6 @@
           "wordCount": 745,
           "title": "乾きにくい梅雨時は洗濯物を減らそう　マットやバスタオルはやめてもOK　ゼロ家事のススメ(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240601-00000028-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8bf2076ec95571e98fe2abfac4f3086b32d63125?source=rss",
-          "author": null,
-          "description": "がん患者やその家族が悩みを寄せる「がん電話相談」。今回は５４歳の子宮体がん患者の疑問に、がん研有明病院元婦人科部長の瀧澤憲医師が答えます。\n\n――昨年１２月、子宮体がんⅠ期（がんが子宮体部に限局）と診",
-          "link": "https://news.yahoo.co.jp/articles/8bf2076ec95571e98fe2abfac4f3086b32d63125?source=rss",
-          "publishedOn": "2024-05-31T22:00:00.000Z",
-          "wordCount": 804,
-          "title": "子宮体がんⅠ期でも術後の化学療法は必要？　がん細胞の「顔つき」が悪い場合は推奨　がん電話相談から(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240601-00000006-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -37698,6 +37733,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=250643",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの冷凍食品「セブンプレミアム とんこつラーメン」を世界一詳しく調査しました。   公式YouTubeチ […]",
+          "link": "https://foodfighter.jp/711sej-tonkotsu-ramen-frozen",
+          "publishedOn": "2024-06-30T09:50:31.000Z",
+          "wordCount": 1758,
+          "title": "【セブンイレブン】セブンプレミアム とんこつラーメン【新作冷凍食品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/28bdedd959f5a72c517418be7b19e453.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=250640",
           "author": "foodfighter",
@@ -39115,6 +39160,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2037062.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：名無しさん＠涙目です。(栃木県) [US]：2024/06/30(日) 10:33:03.94 ID:YSEd500n0●.net\n\n\n\n\n\n\n\n\n\n東京都の出生率は0.99%。このままでは人口が半分になります。小池さんもさまざまなメニューを進めましたが、発想が古い。「結婚させよう」「そうすれば子どもが生まれ...",
+          "link": "https://itainews.com/archives/2037062.html",
+          "publishedOn": "2024-06-30T10:01:36.000Z",
+          "wordCount": 2563,
+          "title": "【悲報】蓮舫（事務所）、東京の合計特殊出生率0.99を「出生率0.99%」と書いてしまう",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/f/af605b37-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2037055.html",
           "author": "damono3856",
@@ -47231,16 +47286,6 @@
           "wordCount": 1295,
           "title": "飼い主に甘えるパパ猫を不思議そうに見つめる子猫たち",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/73774.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=73742",
-          "author": "299",
-          "description": "ソファの上でくつろいでいた三毛猫さんと仲良くしたくてゴールデンレトリバーの子犬がソファの上にジャンプして乗っかってきました。 とってもフレンドリーなゴールデンの子犬は猫さんの頭をぺろぺろしてあげながら毛づくろいをするよう...\n猫と仲良くしたい子犬が毛づくろいをしてあげます first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/73742",
-          "publishedOn": "2024-05-31T22:00:00.000Z",
-          "wordCount": 1294,
-          "title": "猫と仲良くしたい子犬が毛づくろいをしてあげます",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/73742.jpeg"
         }
       ]
     },
