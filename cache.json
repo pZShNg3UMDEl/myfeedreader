@@ -5497,6 +5497,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121533/",
+          "author": null,
+          "description": "フランスのファッションデザイナー、ジャン＝ポール・ゴルチエが、ベルギーのnWave Studiosによるタイトル未定の長編アニメーションで、アーティスティック・ディレクターを務めることが分かった...",
+          "link": "https://anime.eiga.com/news/121533/",
+          "publishedOn": "2024-06-30T13:00:00.000Z",
+          "wordCount": 675,
+          "title": "ジャン＝ポール・ゴルチエが長編アニメ企画に初参加",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121569/",
           "author": null,
           "description": "尾田栄一郎氏による人気コミックを実写化したNetflixシリーズ実写版「ONE PIECE」のシーズン2に登場する新キャストが、このほど発表された。ダニエル・ラスカー、キャムラス・ジョンソン、ジ...",
@@ -8666,6 +8681,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10342",
+          "author": "watanabe@logipara.com",
+          "description": "自社に自信をもっているハンズの店員： 「そこに無ければ無いですね(この世に)。」",
+          "link": "https://logipara.com/diary-text/2024-07-01/",
+          "publishedOn": "2024-06-30T13:05:00.000Z",
+          "wordCount": 4415,
+          "title": "在庫切れ",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=10340",
           "author": "watanabe@logipara.com",
           "description": "よく 「友達以上、恋人未満」 なんて言うけど、この年になるとそもそも友達ができないよね、という話をしながら飲みました。世界が平和になればいいと思う。",
@@ -9436,6 +9461,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c8b0c234c7a28ad47b4a423e6f58e29e17006e8c?source=rss",
+          "author": null,
+          "description": "■巨人３ー２広島（３０日、東京ドーム）\n\n痛烈なピッチャー返しに意地が見えた。巨人の岡本和が一回２死三塁、先制の適時打を放った。追い込まれてからファウルで２球粘り、８球目のチェンジアップを鋭く振り抜き",
+          "link": "https://news.yahoo.co.jp/articles/c8b0c234c7a28ad47b4a423e6f58e29e17006e8c?source=rss",
+          "publishedOn": "2024-06-30T12:57:52.000Z",
+          "wordCount": 737,
+          "title": "巨人・岡本和、４番降格の危機に意地の先制適時打(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000162-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/df320f6c1f9ac9159b2aca93ba06ec3d57de807a?source=rss",
           "author": null,
@@ -37835,26 +37870,6 @@
           "wordCount": 808,
           "title": "入試問題は白黒です　「わかりやすさ」「カラフル」は逆効果、自分で図を書くべし　桜井信一の攻める中学受験(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240601-00000049-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/83ef09e950561e75255549db16036a646799d834?source=rss",
-          "author": null,
-          "description": "１日午前１時５０分ごろ、京都市中京区西ノ京月輪町の木造３階建て住宅で、住人から「１階から火が出た。自分はベランダにいる」と１１９番があった。火は約１時間半後にほぼ消し止められたが、延べ約１６５平方メー",
-          "link": "https://news.yahoo.co.jp/articles/83ef09e950561e75255549db16036a646799d834?source=rss",
-          "publishedOn": "2024-06-01T00:51:46.000Z",
-          "wordCount": 703,
-          "title": "「１階から火が出た。ベランダにいる」京都で民家全焼　男女4人搬送、70代男性死亡(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0a758a08c50570ae0719142aad7420887d6bd8ca?source=rss",
-          "author": null,
-          "description": "【ワシントン＝渡辺浩生】ロシアの侵略が続くウクライナのレズニコフ前国防相が５月３１日、ワシントンで講演し、米国や欧州が供与した兵器でウクライナの露占領地だけでなく露領内の軍事的標的を攻撃する重要性を指",
-          "link": "https://news.yahoo.co.jp/articles/0a758a08c50570ae0719142aad7420887d6bd8ca?source=rss",
-          "publishedOn": "2024-06-01T00:50:35.000Z",
-          "wordCount": 767,
-          "title": "ウクライナ前国防相、露領内攻撃「許可を得た」と歓迎　敗北は「独裁国連合の支配構造を生む」と警告(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240601-00000042-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -43927,6 +43942,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=75639",
+          "author": "299",
+          "description": "子猫がティシュペーパーの箱の中に前足を入れて中身を掻き出そうとしています。 このぐらいの子猫の時はティシュペーパーの箱が標的にされることが多く、気づけば中身が全部外に出されていて散乱しているという最悪の状況になることが多...\nティシュの箱をホリホリする子猫！中に入っていたのは？ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/75639",
+          "publishedOn": "2024-06-30T13:00:50.000Z",
+          "wordCount": 1286,
+          "title": "ティシュの箱をホリホリする子猫！中に入っていたのは？",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75639.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=75634",
           "author": "299",
