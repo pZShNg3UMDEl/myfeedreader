@@ -5271,16 +5271,6 @@
           "wordCount": 11615,
           "title": "【噂】『ゼルダの伝説 ティアーズ オブ キングダム Lぬいぐるみ リンク』が2024年10月に登場？",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2021/06/no-image-2021-06.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=361951",
-          "author": "管理人",
-          "description": "パブリッシャーのSuper Rare GamesがRaw Furyと提携して、Nintendo Switch版『Cassette Beasts』のパッケージ版を海外向けとして発売することをアナウンスしました。 世界中で合 […]",
-          "link": "https://ninten-switch.com/cassette-beasts-for-nintendo-switch-physical-release-announce-in-super-rare-games",
-          "publishedOn": "2024-05-31T15:23:32.000Z",
-          "wordCount": 11653,
-          "title": "『Cassette Beasts』のSwitch向けパッケージ版がSuper Rare Gamesから海外発売決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/cassette-beasts-for-nintendo-switch-physical-release-announce-in-super-rare-games2-scaled.jpg"
         }
       ]
     },
@@ -5496,6 +5486,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121563/",
+          "author": null,
+          "description": "エディ・マーフィ主演の人気シリーズ最新作となるNetflix映画「ビバリーヒルズ・コップ アクセル・フォーリー」の日本版声優と吹替版予告編が発表された。 アクセル役の日本版声優に山寺宏一のカムバ...",
+          "link": "https://anime.eiga.com/news/121563/",
+          "publishedOn": "2024-06-30T03:30:00.000Z",
+          "wordCount": 762,
+          "title": "山寺宏一が30年ぶりカムバック「ビバリーヒルズ・コップ　アクセル・フォーリー」日本版声優と吹替版予告編公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121515/",
           "author": null,
@@ -9336,6 +9341,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/828c0324d0473c338d8cb66034ecef880a37efba?source=rss",
+          "author": null,
+          "description": "大阪市西淀川区のJR塚本駅西口にあるアーケードの商店街「サンリバー柏里」。懐かしい雰囲気が漂う一角に訪問介護事業所「こうのとり」が拠点を構える。社長の河野一人（こうの・かずひと）さん（38）、研修担当",
+          "link": "https://news.yahoo.co.jp/articles/828c0324d0473c338d8cb66034ecef880a37efba?source=rss",
+          "publishedOn": "2024-06-30T03:12:45.000Z",
+          "wordCount": 833,
+          "title": "地元「にしよど」に幸せ運ぶ恩返し　訪問介護事業所「こうのとり」社長の河野一人さん（38）、研修担当の児島亮一さん（45）　プロフェッショナル　専門学校から(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000052-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7a41e80dd0d91e0fd0552e45941a45d25c49126d?source=rss",
           "author": null,
