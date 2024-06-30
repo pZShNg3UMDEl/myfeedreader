@@ -5497,6 +5497,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121569/",
+          "author": null,
+          "description": "尾田栄一郎氏による人気コミックを実写化したNetflixシリーズ実写版「ONE PIECE」のシーズン2に登場する新キャストが、このほど発表された。ダニエル・ラスカー、キャムラス・ジョンソン、ジ...",
+          "link": "https://anime.eiga.com/news/121569/",
+          "publishedOn": "2024-06-30T12:00:00.000Z",
+          "wordCount": 769,
+          "title": "実写「ONE PIECE」に秘密犯罪結社バロックワークス登場　Mr.9、Mr.5、ミス・バレンタイン、Mr.3のキャストが発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121553/",
           "author": null,
           "description": "伊藤潤二のホラー漫画20作品をアニメ化し、Netflixで2023年に独占配信された「伊藤潤二『マニアック』」の地上波放送が決定した。7月7日午後10時からTOKYO MXで放送を開始する。 同...",
@@ -9421,6 +9436,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0fb7a48628539e017b63d8269b1f1c4f6d4c0ee3?source=rss",
+          "author": null,
+          "description": "３０日に相模原市で行われた競泳の記録会にパリ五輪代表が出場し、女子４００メートル個人メドレーは成田実生（ルネサンス金町）が４分３６秒０３でトップだった。\n\nパリ五輪に初出場する成田が、夏に向けて弾みを",
+          "link": "https://news.yahoo.co.jp/articles/0fb7a48628539e017b63d8269b1f1c4f6d4c0ee3?source=rss",
+          "publishedOn": "2024-06-30T12:22:22.000Z",
+          "wordCount": 735,
+          "title": "競泳女子、１７歳の成田実生、五輪へ弾み　記録会で自己ベストに迫り「自信になる」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/351ddfaf1f14a5488f3e5b608ae9656ee7da6a5a?source=rss",
+          "author": null,
+          "description": "パリ五輪代表選考会を兼ねた陸上の日本選手権最終日は３０日、新潟市のデンカビッグスワンスタジアムで各種目の決勝が行われ、既に五輪参加標準記録を突破していた女子１００メートル障害の福部真子（日本建設工業）",
+          "link": "https://news.yahoo.co.jp/articles/351ddfaf1f14a5488f3e5b608ae9656ee7da6a5a?source=rss",
+          "publishedOn": "2024-06-30T12:09:20.000Z",
+          "wordCount": 747,
+          "title": "「少しのプライドとチャレンジャー精神で走れた」女子１００メートル障害Ｖの福部真子(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000149-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3cfac2c51749d2ea425d2a16aa3ee6e0e3680661?source=rss",
+          "author": null,
+          "description": "パリ五輪代表選考会を兼ねた陸上の日本選手権最終日は３０日、新潟市のデンカビッグスワンスタジアムで各種目の決勝が行われ、既に五輪参加標準記録を突破していた男子１１０メートル障害の村竹ラシッド（ＪＡＬ）が",
+          "link": "https://news.yahoo.co.jp/articles/3cfac2c51749d2ea425d2a16aa3ee6e0e3680661?source=rss",
+          "publishedOn": "2024-06-30T12:00:47.000Z",
+          "wordCount": 757,
+          "title": "男子１１０メートル障害、村竹ラシッドがパリ切符　東京五輪選考で失格「やっと解放された」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000148-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2c3603a66353a24320db8d45c7252427840c7d75?source=rss",
+          "author": null,
+          "description": "閑静な秋田市の住宅地で「喰い処　旬」を営む田口将隆さん（４４）。実は、なじみの居酒屋が新型コロナウイルス禍で閉店すると聞いて「〝まちの寄合所〟をなくしたくない」と、半ばボランティアで店舗を引き継ぎ新規",
+          "link": "https://news.yahoo.co.jp/articles/2c3603a66353a24320db8d45c7252427840c7d75?source=rss",
+          "publishedOn": "2024-06-30T12:00:00.000Z",
+          "wordCount": 816,
+          "title": "「まちの寄合所を残したい」　秋田市で閉業店を「地域居酒屋」に　田口将隆さん（４４）　令和人国記(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000147-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8bdebb747bed05f33fb29de8be84cdc61c76c414?source=rss",
+          "author": null,
+          "description": "任期満了に伴う河内長野市長選が３０日、告示された。無所属新人の元府議、西野修平氏（５１）以外に立候補の届け出はなく、無投票で西野氏の初当選が決まった。同市長選での無投票当選は平成１６年以来３度目。",
+          "link": "https://news.yahoo.co.jp/articles/8bdebb747bed05f33fb29de8be84cdc61c76c414?source=rss",
+          "publishedOn": "2024-06-30T11:56:17.000Z",
+          "wordCount": 806,
+          "title": "元府議の西野修平氏、無投票で初当選　大阪・河内長野市長選　維新は擁立断念(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240630-00000146-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/8fe535e69e4aa2116b7e39a8a32ee77f4af764d8?source=rss",
           "author": null,
@@ -37790,16 +37855,6 @@
           "wordCount": 737,
           "title": "米、ガザ停戦「ロードマップ」発表　３段階案、イスラエルが提示(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/253d9a35117789fdd17b5733c69a25db139cced6?source=rss",
-          "author": null,
-          "description": "【ニューヨーク＝平田雄介】トランプ前米大統領は５月３１日、自らの不倫口止め料を巡る会計不正処理事件で、東部ニューヨーク州地裁の陪審員１２人が下した有罪評決を不服とし、控訴する意向を表明した。裁判を「不",
-          "link": "https://news.yahoo.co.jp/articles/253d9a35117789fdd17b5733c69a25db139cced6?source=rss",
-          "publishedOn": "2024-06-01T00:24:48.000Z",
-          "wordCount": 732,
-          "title": "トランプ氏、控訴の意向表明、不倫口止め料裁判有罪評決を「子供じみた悪ふざけだ」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240601-00000037-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -47391,16 +47446,6 @@
           "wordCount": 1284,
           "title": "やってきた初日から全力で遊ぶ子猫がかわいい〜",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/73747.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=73774",
-          "author": "299",
-          "description": "抱っこされている猫さんは、子猫のいる立派なパパさん猫なのですが、実はまだまだ甘えん坊なところがあるので、こうして飼い主さんに抱っこされてなでなでされるのが大好きなのです。 パパ猫だって甘えたい時はあるんです。でもそんなパ...\n飼い主に甘えるパパ猫を不思議そうに見つめる子猫たち first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/73774",
-          "publishedOn": "2024-06-01T00:00:42.000Z",
-          "wordCount": 1295,
-          "title": "飼い主に甘えるパパ猫を不思議そうに見つめる子猫たち",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/73774.jpeg"
         }
       ]
     },
