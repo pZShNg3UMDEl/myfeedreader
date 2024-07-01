@@ -303,6 +303,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=79158",
+          "author": "編集部：平山洸太",
+          "description": "ASUS JAPANは、携帯型ゲーミングPC「ROG Ally X」を7月24日に発売する。予`約は7月1日から開始。公式ストアにおける販売価格は139,800円（税込）となる。 ROG Allyシリーズの最新モデルとして、各種スペックをアップグレードしたモデル。ディスプレイは引き続き7インチのフル […]",
+          "link": "https://gadget.phileweb.com/post-79158/",
+          "publishedOn": "2024-07-01T03:13:38.000Z",
+          "wordCount": 715,
+          "title": "ASUS、携帯型ゲーミングPC「ROG Ally X」7月24日発売。約14万円",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/07/allyx.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=79138",
           "author": "多根清史",
           "description": "ここ数カ月、AirPodsは今後の機能強化を発表したり、セキュリティ問題への対応はありつつも、新型ハードウェアの動きは途絶えている。第4世代AirPodsは今年後半、第3世代AirPods Proの発売は2025年秋と見られており、今は凪のような状況にある。 そんななか、アップルが2026年までに新 […]",
@@ -5517,6 +5527,36 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121576/",
+          "author": null,
+          "description": "7月に入り、2024年夏アニメが続々とスタートしていますが、作品はご覧になっていますか？ アニメ・声優・イベント情報サイト「アニメハック」では現在、今期アニメを対象に「【2024年夏アニメ】第1...",
+          "link": "https://anime.eiga.com/news/121576/",
+          "publishedOn": "2024-07-01T03:00:00.000Z",
+          "wordCount": 699,
+          "title": "【アンケート実施中】2024年夏アニメ、第1話を見て“継続視聴”を決めた作品は？",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/121597/",
+          "author": null,
+          "description": "人気アニメ「鬼滅の刃」の新作「無限城編」が劇場3部作として製作されることがわかった。6月30日に放送されたテレビアニメ「鬼滅の刃 柱稽古編」の最終回後、「劇場版『鬼滅の刃』無限城編」の製作決定を...",
+          "link": "https://anime.eiga.com/news/121597/",
+          "publishedOn": "2024-07-01T03:00:00.000Z",
+          "wordCount": 680,
+          "title": "「劇場版『鬼滅の刃』無限城編」3部作で製作決定、ティザービジュアル＆特報披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121533/",
           "author": null,
           "description": "フランスのファッションデザイナー、ジャン＝ポール・ゴルチエが、ベルギーのnWave Studiosによるタイトル未定の長編アニメーションで、アーティスティック・ディレクターを務めることが分かった...",
@@ -9331,6 +9371,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/04ce6035c12a8978bbb8e44c717883f57bb2402d?source=rss",
+          "author": null,
+          "description": "昨年４月投開票の福岡県議選の集会で、自民党の蔵内勇夫県議（７０）を中傷したとして、福岡県警が対立候補を支援していた同県筑後市の７０代男性を公選法違反（虚偽事項の公表）で書類送検した事件を巡り、福岡地検",
+          "link": "https://news.yahoo.co.jp/articles/04ce6035c12a8978bbb8e44c717883f57bb2402d?source=rss",
+          "publishedOn": "2024-07-01T03:07:34.000Z",
+          "wordCount": 756,
+          "title": "福岡県議選 選挙ハラスメント疑い男性不起訴処分に 県議会は「調査」へ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240701-00000063-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/446b8679bf20ed4e3c0debdb87f0b3d419f29959?source=rss",
+          "author": null,
+          "description": "能登半島地震から半年となった石川県内の被災地は、被害が甚大だった一部地域で今も断水が続いている。土砂崩れや家屋倒壊の影響で復旧の見通しが立たない「早期復旧困難地区」は輪島市と珠洲（すず）市で計１４７１",
+          "link": "https://news.yahoo.co.jp/articles/446b8679bf20ed4e3c0debdb87f0b3d419f29959?source=rss",
+          "publishedOn": "2024-07-01T03:03:23.000Z",
+          "wordCount": 764,
+          "title": "能登地震半年、断水なお１４００戸超「元に戻るのか」　復旧困難地区、住民のストレス蓄積(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240701-00000061-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/45150bc0e3860c1a8f16a9a15f4528739d83b056?source=rss",
+          "author": null,
+          "description": "「雪月花」と並ぶトキ鉄（えちごトキめき鉄道）名物が、「急行」だ。\n\nトキ鉄が、最後の国鉄急行形電車クハ４５５―７０１をＪＲ西日本から譲り受け、「国鉄形観光急行」として直江津―市振間などを走らせ始めたの",
+          "link": "https://news.yahoo.co.jp/articles/45150bc0e3860c1a8f16a9a15f4528739d83b056?source=rss",
+          "publishedOn": "2024-07-01T03:00:00.000Z",
+          "wordCount": 865,
+          "title": "「雪月花」と「急行」④　よくぞ戻ってきてくれた！の巻　帰ってきた令和阿房列車で行こう　第四列車　(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240701-00000060-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f9f2208d16d9e357b154d9020350d502c8c719f3?source=rss",
+          "author": null,
+          "description": "日本唯一の公共劇場専属舞踊団「Ｎｏｉｓｍ（ノイズム）」が創立２０周年を迎え、記念公演として新作「Ａｍｏｍｅｎｔｏｆ（アモメントフ）」を本拠地の新潟に続き７月、埼玉で上演する。芸術監督の金森穣は新作バレ",
+          "link": "https://news.yahoo.co.jp/articles/f9f2208d16d9e357b154d9020350d502c8c719f3?source=rss",
+          "publishedOn": "2024-07-01T02:59:05.000Z",
+          "wordCount": 735,
+          "title": "日本唯一の公共劇場専属舞踊団Ｎｏｉｓｍの２０周年公演　金森穣「涙が止まらない作品に」(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240701-00000059-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/3956431932af6bf950f32dd3e963b3d0aff16a92?source=rss",
           "author": null,
@@ -37460,16 +37540,6 @@
           "wordCount": 846,
           "title": "両立が過酷すぎる不妊治療と仕事　「一人で背負うなら無理」　経済支援だけで埋められぬ溝　私たちが不妊と向き合った理由(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240602-00000013-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/25424cb0787fed6c077394b46489500990e6a432?source=rss",
-          "author": null,
-          "description": "【シンガポール＝小沢慶太】木原稔防衛相は１日、訪問先のシンガポールで中国の董軍国防相と会談した。木原氏は中国が尖閣諸島（沖縄県石垣市）など日本周辺で軍事活動を活発化させていることに改めて深刻な懸念を伝",
-          "link": "https://news.yahoo.co.jp/articles/25424cb0787fed6c077394b46489500990e6a432?source=rss",
-          "publishedOn": "2024-06-01T15:06:57.000Z",
-          "wordCount": 694,
-          "title": "日中防衛相が尖閣諸島をめぐり議論　木原氏「深刻な懸念」、台湾の平和と安定も強調(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -38867,16 +38937,6 @@
           "wordCount": 1785,
           "title": "【ビアードパパ】とろけるももシュー（シュークリーム）【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/fbfe3e3b041accaac951c085a48e5748.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=247670",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Motto）」へ進撃 […]",
-          "link": "https://foodfighter.jp/hottomotto-onion-hamburger",
-          "publishedOn": "2024-06-01T15:12:59.000Z",
-          "wordCount": 1776,
-          "title": "【ほっともっと】和風オニオンソースハンバーグ弁当【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/c877d2cdb198e443b060ed6db549bd9a.jpg"
         }
       ]
     },
@@ -38885,6 +38945,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2037071.html",
+          "author": "yonepo665sfr",
+          "description": "1 ：Ailuropoda melanoleuca ★：2024/06/30(日) 17:45:16.09 ID:6+OhwuAC9.net\n\n\n\n\n\n\n\n\n「絶対いらない」大阪市北区が婚姻届提出で「ミャクミャク夫婦箸」贈呈に区民大ブーイング「ヒアリの殺虫剤を」#SmartFLASH #ヒアリ #ブーイング #ミャクミャク #万博https://t.co/...",
+          "link": "https://itainews.com/archives/2037071.html",
+          "publishedOn": "2024-07-01T03:01:53.000Z",
+          "wordCount": 2524,
+          "title": "【万博】「絶対いらない」大阪市北区が婚姻届提出で「ミャクミャク夫婦箸」贈呈に区民大ブーイング「ヒアリの殺虫剤を」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/4/44108a0f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2037070.html",
           "author": "yonepo665sfr",
