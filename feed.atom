@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T07:38:21.235Z</updated>
+    <updated>2024-07-02T07:50:20.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イタリア「現代の奴隷」に衝撃　腕切断のインド人労働者　路上放置され死亡(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b03d2bf14730cfa17d152ecbbfbcb0e9a241eaa9?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b03d2bf14730cfa17d152ecbbfbcb0e9a241eaa9?source=rss"/>
+        <updated>2024-07-02T07:43:46.000Z</updated>
+        <summary type="html"><![CDATA[イタリア西部の農場で６月、不法就労していたインド人男性が機械に腕を切断される大けがを負った後、雇用主に路上に放置され、失血死した。事件を機に、外国人のヤミ雇用と搾取の現実が浮き彫りになり、メローニ政権]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカー・伊東純也選手は「訴えは虚偽」、女性は「同意なく性行為」双方が告訴の過去(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/968e136b3467ae51b891acbb1cbe8796d6227601?source=rss</id>
@@ -54691,58 +54701,6 @@ https://www3.nhk.or.jp/news/html/20240602...]]></summary>
 子猫のムツが眠すぎてユーラユーラ揺れちゃっています first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Postings - Week of 2 June 2024]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/06/job-postings-week-of-2-june-2024.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/06/job-postings-week-of-2-june-2024.html"/>
-        <updated>2024-06-02T19:39:00.003Z</updated>
-        <summary type="html"><![CDATA[Vantage MedTech
-FPGA Engineer (Video)
-Moonachie, New Jersey, USA
-Link
-Brookhaven National laboratory
-Deputy Director – Instrumentation
-  Division
-Upton, New York, USA
-Link
-onsemi
-Process Integration/Device
-  Technology Development Engineer
-Gresham, Oregon, USA
-Link
-Boeing
-Senior Engineer, Infrared,
-  Optical and Opto-Mechanical Sensor Products
-Huntington Beach, California, USA
-Link
-onsemi
-2024 New College Graduate (NCG)
-Seremban, Negeri Sembilan, Malaysia
-Link
-Siegen University
-Postdoc position for pixel
-  detectors
-Siegen, Germany
-Link
-onsemi
-Image Test Algorithm Developer
-Nampa, Idaho, USA
-Link
-University of Edinburgh
-PhD Studentship - Adaptive Sensor
-  Fusion for Optimised 3D
-  Sensing
-Edinburgh, Scotland, UK
-Link
-European Spallation Source
-Entry Level Detector Scientist -
-  Beam Monitors
-Lund, Sweden
-Link]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
