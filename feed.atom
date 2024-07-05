@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T05:13:54.589Z</updated>
+    <updated>2024-07-05T05:29:15.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mac版「ChatGPT」、AIとのチャット内容を暗号化せず平文保存していた]]></title>
+        <id>https://gadget.phileweb.com/?p=79674</id>
+        <link href="https://gadget.phileweb.com/post-79674/"/>
+        <updated>2024-07-05T05:27:51.000Z</updated>
+        <summary type="html"><![CDATA[mac版ChatGPTアプリに見つかった潜在的な脆弱性から、OpenAIはユーザーがAIと行ったチャットの記録をプレーンテキスト文として保存していたことが判明した。 これは、もしChatGPTのサービスが悪意あるハッカーなどから攻撃を受け、侵入されたとき、ユーザーがどんな会話をしたり、その中に含まれ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【京都】「お前くさいねん」知的障害の男性を大型洗濯機に押し込んで回す、容疑でクリーニング店元同僚(37)ら逮捕]]></title>
         <id>https://itainews.com/archives/2037224.html</id>
@@ -54866,26 +54876,6 @@ https://www3.nhk.or.jp/news/h...]]></summary>
 猫たちの体重測定 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch用ソフト『アインズソード2』が2024年6月6日から配信開始！]]></title>
-        <id>https://ninten-switch.com/?p=362488</id>
-        <link href="https://ninten-switch.com/eins-sword-2-for-nintendo-switch-2024-0606-released"/>
-        <updated>2024-06-05T17:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo Switch用ソフト『アインズソード2』が、2024年6月6日から配信開始となりました。 販売価格は120円(税込)に設定されていますが、2024年6月12日 23時59分までは割引価格で購入することが […]]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch用ソフト『BMX Wild Run』が2024年6月6日から配信開始！]]></title>
-        <id>https://ninten-switch.com/?p=362293</id>
-        <link href="https://ninten-switch.com/bmx-wild-run-for-nintendo-switch-2024-0606-released"/>
-        <updated>2024-06-05T17:17:53.000Z</updated>
-        <summary type="html"><![CDATA[RandomSpin Gamesより、Nintendo Switch用ソフト『BMX Wild Run (ワイルド ラン)』が2024年6月6日から配信開始となりました。 販売価格は1,545円(税込)に設定されています […]]]></summary>
-        <author>
-            <name>管理人</name>
         </author>
     </entry>
 </feed>
