@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T15:50:34.148Z</updated>
+    <updated>2024-07-05T16:17:36.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Videos du jour : under display cameras, SPADs]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/07/videos-du-jour-under-display-cameras.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/07/videos-du-jour-under-display-cameras.html"/>
+        <updated>2024-07-05T16:00:00.002Z</updated>
+        <summary type="html"><![CDATA[Designing Phase Masks for Under-Display Cameras
+
+Diffractive blur and low light levels are two fundamental challenges in producing high-quality photographs in under-display cameras (UDCs). In this paper, we incorporate phase masks on display panels to tackle both challenges. Our design inserts two phase masks, specifically two microlens arrays, in front of and behind a display panel. The first phase mask concentrates light on the locations where the display is transparent so that more light passes through the display, and the second phase mask reverts the effect of the first phase mask. We further optimize the folding height of each microlens to improve the quality of PSFs and suppress chromatic aberration. We evaluate our design using a physically-accurate simulator based on Fourier optic…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17才のバドミントン選手が国際大会のコート上で突然死、録画がネットに出回る]]></title>
         <id>https://itainews.com/archives/2037255.html</id>
@@ -55683,27 +55695,6 @@ https://www3.nhk.or.jp/news/h...]]></summary>
         <summary type="html"><![CDATA[サムスンの次期折りたたみスマートフォン「Galaxy Z Flip6」（タテ折り）と「Galaxy Z Fold6」（横折り）はまもなく正式発表とみられているが、同社が手違いから両モデルのデザインを公式サイトに一時的に掲載したと報じられている。 大手掲示板Redditユーザーは「サムスン・カザフスタ […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宅配ピザに釘付け状態のニャンズ]]></title>
-        <id>https://2-9-9.com/?p=74067</id>
-        <link href="https://2-9-9.com/archives/74067"/>
-        <updated>2024-06-06T04:00:03.000Z</updated>
-        <summary type="html"><![CDATA[飼い主さんも週末は料理をお休みしてピザでもデリバリーしてもらうことにしました。 美味しそうな匂いにつられてやってきたのは、うま次郎です。 ピザの上のチーズかベーコンが気になって気になってしかたがない様子でママの膝の上に乗...
-宅配ピザに釘付け状態のニャンズ first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パリ五輪巡りロシアが妨害工作、トム・クルーズさんの偽音声も　米マイクロソフトが報告書(産経新聞)]]></title>
-        <id>https://news.yahoo.co.jp/articles/03627323aeb25360737e5b6a9c122f668aaef8f4?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/03627323aeb25360737e5b6a9c122f668aaef8f4?source=rss"/>
-        <updated>2024-06-06T03:59:04.000Z</updated>
-        <summary type="html"><![CDATA[７月２６日のパリ五輪開幕を前に、ロシアが偽情報や中傷メッセージを拡散して妨害工作をしている手口が明るみになった。米マイクロソフト社が２日に発表した報告書で指摘した。生成ＡＩ（人工知能）で米人気俳優トム]]></summary>
-        <author>
-            <name>産経新聞 - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
