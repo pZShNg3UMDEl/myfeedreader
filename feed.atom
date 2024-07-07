@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T10:13:26.218Z</updated>
+    <updated>2024-07-07T10:29:14.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「恥ずかしい」「盛り上がった」候補者５６人、前代未聞の都知事選　有権者はどう見たか(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/672d0bd50e8c1845678c3aa744a8d666b5ee1696?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/672d0bd50e8c1845678c3aa744a8d666b5ee1696?source=rss"/>
+        <updated>2024-07-07T10:17:43.000Z</updated>
+        <summary type="html"><![CDATA[過去最多の５６人が立候補し、投開票日の７日を迎えた東京都知事選。３選を目指す無所属現職、小池百合子氏（７１）の都政２期８年の評価や少子化対策、防災対策などが主な争点となったが、選挙ポスターや政見放送の]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[防衛省・全自衛隊で特定秘密ずさん運用、大量処分へ　またセクハラも]]></title>
         <id>https://itainews.com/archives/2037303.html</id>
@@ -54281,16 +54291,6 @@ UAゼンセンが5日発表したカスハラに...]]></summary>
         <summary type="html"><![CDATA[産経新聞夕刊で毎週木曜に連載中のコラム「モーロクらんらん」の筆者で俳人の坪内稔典さんが、13冊目となる句集「リスボンの窓」（ふらんす堂）を刊行した。「ねんてんさん」の愛称で知られる坪内さんも4月で80]]></summary>
         <author>
             <name>産経新聞 - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch＆PS4＆PS5＆Xbox＆PC用ソフト『Mighty Morphin Power Rangers: Rita’s Rewind』が海外向けとして発売決定！]]></title>
-        <id>https://ninten-switch.com/?p=363129</id>
-        <link href="https://ninten-switch.com/mighty-morphin-power-rangers-ritas-rewind-for-switch-and-ps4-and-ps5-and-xbox-and-pc-announce"/>
-        <updated>2024-06-07T22:25:38.000Z</updated>
-        <summary type="html"><![CDATA[デベロッパーのDigital Eclipseが、Nintendo Switch＆PS4＆PS5＆Xbox One＆Xbox Series＆PC(Steam)用ソフト『Mighty Morphin Power Ranger […]]]></summary>
-        <author>
-            <name>管理人</name>
         </author>
     </entry>
 </feed>
