@@ -8770,21 +8770,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121440/",
-          "author": null,
-          "description": "新作テレビアニメ「杖と剣のウィストリア」が7月7日から放送されることが決まり、最新PV、オープニング＆エンディング主題歌が発表された。あわせて、福山潤、古川慎、雨宮天、大塚芳忠、大塚明夫ら追加キ...",
-          "link": "https://anime.eiga.com/news/121440/",
-          "publishedOn": "2024-06-08T11:00:00.000Z",
-          "wordCount": 790,
-          "title": "「杖と剣のウィストリア」福山潤、古川慎、雨宮天、大塚芳忠、大塚明夫らが出演　PV＆主題歌も発表",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -9531,6 +9516,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/san/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/san?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3eaada59087f643196f45190fddfb56c546d3db0?source=rss",
+          "author": null,
+          "description": "８日午前５時半ごろ、奈良県大和郡山市、ＪＲ大和路線郡山－大和小泉間の線路上で奈良発－ＪＲ難波行の普通電車が線路内に立ち入った人と接触した。この事故の影響で大和路線は加茂－ＪＲ難波間で運転を見合わせ、午",
+          "link": "https://news.yahoo.co.jp/articles/3eaada59087f643196f45190fddfb56c546d3db0?source=rss",
+          "publishedOn": "2024-07-07T23:02:56.000Z",
+          "wordCount": 742,
+          "title": "ＪＲ大和路線で人身事故　一部電車に運休や遅れ(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240708-00000036-san-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/83a1cc520188a68ac913c684668ef0669e13978b?source=rss",
+          "author": null,
+          "description": "東京都の江東区、品川区、中野区、北区、板橋区、足立区、八王子市、府中市、南多摩（多摩市、稲城市）の９選挙区の都議会補欠選挙（各欠員１）は７日、投開票が行われ、８人を擁立した自民党は２勝６敗と惨敗した。",
+          "link": "https://news.yahoo.co.jp/articles/83a1cc520188a68ac913c684668ef0669e13978b?source=rss",
+          "publishedOn": "2024-07-07T23:01:14.000Z",
+          "wordCount": 737,
+          "title": "東京都議補選は、自民２勝６敗で惨敗　萩生田光一氏の地元で落とす(産経新聞)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240708-00000035-san-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a51182e0fa8526e8a64230d1f28c588121c37762?source=rss",
           "author": null,
@@ -37830,46 +37835,6 @@
           "wordCount": 732,
           "title": "イスラエル軍、ガザで人質４人救出男性３人と女性１人(産経新聞)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e0834d74e59f7052df02c3b6c14d7a379d8e74d7?source=rss",
-          "author": null,
-          "description": "男子ゴルフのＢＭＷツアー選手権森ビル杯第３日は８日、茨城県宍戸ヒルズＣＣ（７４３０ヤード、パー７１）で行われ、金谷拓実、小木曽喬、岩田寛の３人が通算１０アンダーの２０３で首位に並んだ。\n\n今季のツアー",
-          "link": "https://news.yahoo.co.jp/articles/e0834d74e59f7052df02c3b6c14d7a379d8e74d7?source=rss",
-          "publishedOn": "2024-06-08T11:06:49.000Z",
-          "wordCount": 756,
-          "title": "トップタイ浮上の４３歳岩田寛、闘争心に火が付く出来事も　ＢＭＷツアー選手権３日目(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240608-00000185-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f718c1c150c553152770252688516fe1bc4ef4ca?source=rss",
-          "author": null,
-          "description": "東京・秋葉原の歩行者天国で７人が死亡し、１０人が重軽傷を負った無差別殺傷事件から８日で１６年。面識のない人を無差別に襲う凄惨（せいさん）な事件は形を変えながら繰り返されている。根本的な対策は難しいが、",
-          "link": "https://news.yahoo.co.jp/articles/f718c1c150c553152770252688516fe1bc4ef4ca?source=rss",
-          "publishedOn": "2024-06-08T11:00:57.000Z",
-          "wordCount": 754,
-          "title": "繰り返される無差別襲撃事件「根本的には防げない」　秋葉原殺傷事件から１６年(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240608-00000181-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/82862255b903e10def32969d706d788b1107620e?source=rss",
-          "author": null,
-          "description": "新型コロナウイルスが蔓延（まんえん）する少し前の令和元年１２月末、ぼくはそれまでの人生で最も衝撃的なことに見舞われた。仕事中に脳出血で倒れ、救急搬送。右半身が動かなくなり、長期の入院を強いられたのだ。",
-          "link": "https://news.yahoo.co.jp/articles/82862255b903e10def32969d706d788b1107620e?source=rss",
-          "publishedOn": "2024-06-08T11:00:00.000Z",
-          "wordCount": 792,
-          "title": "右半身の麻痺で、ぼくはペンが持てなくなった… 「脳卒中サバイバー記者」の感謝と怨嗟(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240608-00000180-san-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/daf4774ab01784d27cfd1639688ac8997c8ef79c?source=rss",
-          "author": null,
-          "description": "東京・秋葉原の歩行者天国で７人が死亡し、１０人が重軽傷を負った無差別殺傷事件から８日で１６年を迎えた。事件を受け犯行に使用されたダガーナイフを含む殺傷能力の高い両刃ナイフが規制されるなどしたが、その後",
-          "link": "https://news.yahoo.co.jp/articles/daf4774ab01784d27cfd1639688ac8997c8ef79c?source=rss",
-          "publishedOn": "2024-06-08T10:54:37.000Z",
-          "wordCount": 787,
-          "title": "秋葉原無差別殺傷事件１６年　今も消えぬ苦しみ抱え、現場訪れる「思い出してしまうが…」(産経新聞)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240608-00000179-san-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -47461,16 +47426,6 @@
           "wordCount": 1285,
           "title": "お母さんの作業中、ずっとそばにいてくれる優しいプリン",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74218.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=74213",
-          "author": "299",
-          "description": "ちっぽけな子猫がお父さんのあぐらのなかにすっぽりとおさまってぐっすりと眠っています。 お父さんがそーっと子猫のことを抱えようとして動かすと、爆睡している子猫の体はぐにゃぐにゃになっていました。 それを手のひらで包み込むよ...\nお父さんのあぐらのなかに何度でも戻ってくる子猫が可愛い first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/74213",
-          "publishedOn": "2024-06-08T11:00:12.000Z",
-          "wordCount": 1285,
-          "title": "お父さんのあぐらのなかに何度でも戻ってくる子猫が可愛い",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74213.jpeg"
         }
       ]
     },
