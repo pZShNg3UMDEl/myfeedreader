@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T04:38:46.479Z</updated>
+    <updated>2024-07-08T04:50:32.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube動画から“著作権含む音楽だけ”削除、投稿者用ツールをAIで強化]]></title>
+        <id>https://gadget.phileweb.com/?p=79797</id>
+        <link href="https://gadget.phileweb.com/post-79797/"/>
+        <updated>2024-07-08T04:47:22.000Z</updated>
+        <summary type="html"><![CDATA[YouTubeの最高責任者ニール・モハン氏は「Erase Song」ツールがアップデートによって、動画内の他の音声に影響せずに、著作権を主張されている音楽だけを特定して削除できるようになったとX（Twitter）への投稿で述べた。 ただし、この機能の注意書きには、依然としてAIアルゴリズムの特性によ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elgato、ショートカットキーボード「Stream Deck MK.2」に新色アトミックパープル]]></title>
         <id>https://gadget.phileweb.com/?p=79794</id>
@@ -53941,16 +53951,6 @@ https://news.goo.ne.jp/article/afpbb/wo...]]></summary>
         <link href="https://ninten-switch.com/garden-of-the-sea-for-switch-and-pc-announce"/>
         <updated>2024-06-08T16:52:29.000Z</updated>
         <summary type="html"><![CDATA[パブリッシャー兼デベロッパーのNeat Corporationが、Nintendo Switch＆PC(Steam)用ソフト『Garden of the Sea』を海外向けとして2024年内に発売することを本日放送の「W […]]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch＆PC用ソフト『Critter Café』が海外向けとして2024年後半に発売決定！]]></title>
-        <id>https://ninten-switch.com/?p=363258</id>
-        <link href="https://ninten-switch.com/critter-cafe-for-switch-and-pc-announce"/>
-        <updated>2024-06-08T16:39:12.000Z</updated>
-        <summary type="html"><![CDATA[パブリッシャーのSecret ModeとデベロッパーのSumo Digitalが、Nintendo Switch＆PC用ソフト『Critter Café (クリッターカフェ)』を海外向けとして2024年後半に発売すること […]]]></summary>
         <author>
             <name>管理人</name>
         </author>
