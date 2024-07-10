@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-10T09:15:14.911Z</updated>
+    <updated>2024-07-10T09:28:18.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[万博パビリオン「タイプＡ」建設は４７カ国見通し、当初より２割減へ　建設、相次ぎ困難に(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/566599d221d8147e74f9874c748a963f2f05d62f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/566599d221d8147e74f9874c748a963f2f05d62f?source=rss"/>
+        <updated>2024-07-10T09:07:53.000Z</updated>
+        <summary type="html"><![CDATA[２０２５年大阪・関西万博で、各国が独自に設計、建設する「タイプＡ」パビリオンを建設する国の数が、ほぼ４７カ国になる見通しであることが１０日、明らかになった。当初は６０カ国が希望していたが、約２割減少す]]></summary>
+        <author>
+            <name>産経新聞 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「仕事しないこととがめられ刺した」　殺人未遂の疑いで６２歳の男逮捕　東京・墨田区(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/68903570ba50de12a7ced48de9e15ac9ba9eb5a3?source=rss</id>
@@ -55194,16 +55204,6 @@ NHK、番組収録で国の重要文化財を破損https://t.co/U4MJbuwSM8— OR
         <summary type="html"><![CDATA[アップルは、独自のAI機能「Apple Intelligence」をWWDC24で発表した。 今年の秋にiOS 18、iPadOS 18、macOS Sequoiaの一部としてベータ版を英語（米国）で無料提供予定。iPhone 15 Pro、iPhone 15 Pro Max、M1以降を搭載したiP […]]]></summary>
         <author>
             <name>編集部：小野佳希</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「tvOS 18」発表。機械学習で俳優の声をクリアにする「対話を強調」など対応]]></title>
-        <id>https://gadget.phileweb.com/?p=77455</id>
-        <link href="https://gadget.phileweb.com/post-77455/"/>
-        <updated>2024-06-10T21:23:04.000Z</updated>
-        <summary type="html"><![CDATA[アップルは、同社ストリーミングデバイス向けの新OS「tvOS 18」を今秋に無料のアップデートとして提供することを発表。デベロッパ向けベータ版は本日より提供開始となる。 アップデートでは、機械学習とコンピュテーショナルオーディオを使って話し声をクリアにすることで、俳優の声がハッキリ聴こえるようにする […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
         </author>
     </entry>
 </feed>
