@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-10T17:37:53.977Z</updated>
+    <updated>2024-07-10T17:50:27.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -49,6 +49,16 @@ Older digital cameras were based on CCDs (charge coupled devices), the current g
         <link href="https://ninten-switch.com/nintendo-world-championship-famicom-sekai-taikai-for-switch-prime-set"/>
         <updated>2024-07-10T15:26:57.000Z</updated>
         <summary type="html"><![CDATA[2024年7月16日 0時から始まるプライム会員を対象としたビッグセール「プライムデー」に先駆け、本日7月11日 0時からアマゾンで先行セールが開始されました。 「プライムデー」でも販売される一部商品が先行して登場してい […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch用ソフト『疲弊した人』が2024年7月25日に配信決定！]]></title>
+        <id>https://ninten-switch.com/?p=368695</id>
+        <link href="https://ninten-switch.com/hirousitahito-for-nintendo-switch-2024-0725-released"/>
+        <updated>2024-07-10T15:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch用ソフト『疲弊した人』が、2024年7月25日に配信されることが決定しました。 販売価格は1,150円(税込)に設定されていますが、2024年8月1日 23時59分までは割引価格で購入するこ […]]]></summary>
         <author>
             <name>管理人</name>
         </author>
@@ -55438,16 +55448,6 @@ NHK、番組収録で国の重要文化財を破損https://t.co/U4MJbuwSM8— OR
 爪切りに戸惑う猫2匹 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[広瀬香美やVTuberら多数登場。JVCケンウッドVR音楽フェスを先行体験してきた]]></title>
-        <id>https://gadget.phileweb.com/?p=77609</id>
-        <link href="https://gadget.phileweb.com/post-77609/"/>
-        <updated>2024-06-11T05:43:31.000Z</updated>
-        <summary type="html"><![CDATA[JVCケンウッドは、広瀬香美や多数のVTuberが出演するバーチャル音楽フェス「MAGICAL JUKE BOX」を、6月15日／23日／30日に開催する。一足先に編集部記者が体験できたのでレポートしたい。 有料ライブだけでなく無料のVR空間にも様々な仕掛けを用意 MAGICAL JUKE BOXは […]]]></summary>
-        <author>
-            <name>編集部：小野佳希</name>
         </author>
     </entry>
 </feed>
