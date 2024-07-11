@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T16:39:20.414Z</updated>
+    <updated>2024-07-11T16:50:27.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ニンテンドーマガジン 2024summer」の店頭への入荷が開始！]]></title>
+        <id>https://ninten-switch.com/?p=369401</id>
+        <link href="https://ninten-switch.com/post-369401"/>
+        <updated>2024-07-11T16:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switchの最新タイトルから定番タイトルまで、さまざまなソフトを紹介している無料冊子「ニンテンドーマガジン」。 最新号となる「ニンテンドーマガジン 2024summer」ですが、2024年7月11日頃 […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[かまってちゃんの秀吉がかわいすぎ]]></title>
         <id>https://2-9-9.com/?p=76410</id>
@@ -55547,16 +55557,6 @@ Serio.O top 10 de 2023 so tem 1 filme que nao tem ou aborda os elementos de hero
         <summary type="html"><![CDATA[平成１５年に摘発を受けた指定暴力団山口組五菱会（当時）系ヤミ金グループの元メンバーの男らが逮捕された事件で、男らが顧客の信用情報を照会できるサイトを利用していたことが１２日、捜査関係者への取材で分かっ]]></summary>
         <author>
             <name>産経新聞 - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Apple ID』が『Appleアカウント』に名称変更。「サービスとデバイス間で一貫したサインイン体験」提供]]></title>
-        <id>https://gadget.phileweb.com/?p=77720</id>
-        <link href="https://gadget.phileweb.com/post-77720/"/>
-        <updated>2024-06-12T04:43:54.000Z</updated>
-        <summary type="html"><![CDATA[アップルの各種サービスを使用する際に必要となるアカウント「Apple ID」が、その呼び名を「Appleアカウント」に変えることが発表された。これはiOS 18、iPadOS 18、macOS Sequoia、watchOS 11のリリースに伴うもので、この変更によりアップルは「サービスとデバイス間 […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
