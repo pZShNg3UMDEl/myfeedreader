@@ -274,16 +274,6 @@
           "wordCount": 2563,
           "title": "EDA大手3社のTSMC最先端プロセス向けツール　AIも活用",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/14/cover_news081.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2406/14/news064.html",
-          "author": null,
-          "description": "ユーブロックスは、Bluetooth LE AoAを備えた屋内測位ソリューション「u-locate」を発表した。測位ミドルウェアや測位エンジン、アンカーポイント、タグで構成される。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2406/14/news064.html",
-          "publishedOn": "2024-06-14T00:00:00.000Z",
-          "wordCount": 2536,
-          "title": "Bluetooth LE AoAを備えた屋内測位ソリューション",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/14/cover_news064.jpg"
         }
       ]
     },
@@ -5712,6 +5702,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121622/",
+          "author": null,
+          "description": "世界中で愛されるアイコニックなオレンジ色のねこ“ガーフィールド”を新たに3Dアニメーション映画化した「ねこのガーフィールド」の新たな日本語吹替版キャストが発表。花江夏樹、山路和弘、磯部勉、立木文...",
+          "link": "https://anime.eiga.com/news/121622/",
+          "publishedOn": "2024-07-13T12:00:00.000Z",
+          "wordCount": 755,
+          "title": "花江夏樹がガーフィールドの飼い主に　山路和弘、磯部勉、立木文彦ら“超ニャンダフル”な声優陣が集結",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/editor_bookshelf/121696/",
           "author": null,
           "description": "このコラムは、2024年春クールのアニメがスタートする直前の3月末に書いたものです。書きもらした春クールの注目作について末尾に追記しました。 4月から放送中のテレビアニメ新番組のラインナップが、...",
@@ -9656,6 +9661,66 @@
       "feedUrl": "https://this.kiji.is/-/units/39166665832988672/feed/atom",
       "siteUrl": "https://nordot.app/-/units/39166665832988672",
       "articles": [
+        {
+          "id": "https://nordot.app/1184831289910329919",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"富士山で死亡は愛知の男性\">\n  <cite>\n    <a href=\"https://nordot.app/1184831289910329919\">富士山で死亡は愛知の男性</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1184831289910329919\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184831679745802567/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184831679745802567/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>静岡県警富士宮署は13日、同県の富士山富士宮ルートの「元祖7合目」と呼ばれる地点付近で11日に発見さ...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1184831289910329919",
+          "publishedOn": "2024-07-13T12:16:32.000Z",
+          "wordCount": 417,
+          "title": "富士山で死亡は愛知の男性　静岡・富士宮ルート",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1184831679745802567/origin_1.jpg"
+        },
+        {
+          "id": "https://nordot.app/1184827904892420282",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"核融合施設、最大限に活用へ\">\n  <cite>\n    <a href=\"https://nordot.app/1184827904892420282\">核融合施設、最大限に活用へ</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1184827904892420282\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184828278183346339/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184828278183346339/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>文部科学省が、次世代のクリーンエネルギーとして期待される核融合を使った発電技術の実現に向け、量子科学...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1184827904892420282",
+          "publishedOn": "2024-07-13T12:03:05.000Z",
+          "wordCount": 419,
+          "title": "核融合施設、最大限に活用へ　産官学連携し次世代エネ研究促進",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1184828278183346339/origin_1.jpg"
+        },
+        {
+          "id": "https://nordot.app/1184827512405295212",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"島サミット首脳宣言の原案が判明\">\n  <cite>\n    <a href=\"https://nordot.app/1184827512405295212\">島サミット首脳宣言の原案が判明</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1184827512405295212\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184831433906339944/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184831433906339944/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>日本と太平洋の島しょ国・地域が16～18日に東京で開く「第10回太平洋・島サミット」の首脳宣言の原案...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1184827512405295212",
+          "publishedOn": "2024-07-13T12:01:31.000Z",
+          "wordCount": 422,
+          "title": "島サミット首脳宣言の原案が判明　中国念頭、一方的な現状変更反対",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1184831433906339944/origin_1.jpg"
+        },
+        {
+          "id": "https://nordot.app/1184827424438829462",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"ラグビー日本、ジョージアに敗れる\">\n  <cite>\n    <a href=\"https://nordot.app/1184827424438829462\">ラグビー日本、ジョージアに敗れる</a>\n  </cite>\n    \n</blockquote>",
+          "link": "https://nordot.app/1184827424438829462",
+          "publishedOn": "2024-07-13T12:01:11.000Z",
+          "wordCount": 415,
+          "title": "ラグビー日本、ジョージアに敗れる",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png"
+        },
+        {
+          "id": "https://nordot.app/1184826884964188597",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"防衛省の大量処分に「強い憤り」\">\n  <cite>\n    <a href=\"https://nordot.app/1184826884964188597\">防衛省の大量処分に「強い憤り」</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1184826884964188597\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184830932307674069/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184830932307674069/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>自民党の小野寺五典元防衛相は13日、特定秘密の不適切運用やパワハラなどの不祥事による防衛省・自衛隊の...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1184826884964188597",
+          "publishedOn": "2024-07-13T11:59:02.000Z",
+          "wordCount": 421,
+          "title": "防衛省の大量処分に「強い憤り」　自民小野寺氏、改善へ後押し必要",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1184830932307674069/origin_1.jpg"
+        },
+        {
+          "id": "https://nordot.app/1184826383288779007",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"無形遺産「郡上踊」が開幕、岐阜\">\n  <cite>\n    <a href=\"https://nordot.app/1184826383288779007\">無形遺産「郡上踊」が開幕、岐阜</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1184826383288779007\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184830459791294979/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1184830459791294979/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>日本三大盆踊りの一つ「郡上踊」が13日、岐阜県郡上市で始まった。郡上八幡旧庁舎記念館前の会場では、夕...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1184826383288779007",
+          "publishedOn": "2024-07-13T11:57:02.000Z",
+          "wordCount": 421,
+          "title": "無形遺産「郡上踊」が開幕、岐阜　三大盆踊り、9月7日まで",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1184830459791294979/origin_1.jpg"
+        },
         {
           "id": "https://nordot.app/1184824367456387806",
           "author": null,
@@ -20996,16 +21061,6 @@
           "wordCount": 1295,
           "title": "なかなか起きがれない子猫が可愛すぎ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74587.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=74614",
-          "author": "299",
-          "description": "人間の赤ちゃんがテレビに夢中になっていると、子猫が赤ちゃんの足に絡みついて、一緒に遊んでにゃ〜と激しくアピールを繰り返しています。 赤ちゃんの足をガジガジ噛んでもだめなら、今度は手にじゃれついて猫キックまでしています。 ...\nテレビに夢中な赤ちゃんに遊んで欲しくて激しいアピールをする子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/74614",
-          "publishedOn": "2024-06-14T00:00:46.000Z",
-          "wordCount": 1285,
-          "title": "テレビに夢中な赤ちゃんに遊んで欲しくて激しいアピールをする子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74614.jpeg"
         }
       ]
     },
