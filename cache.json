@@ -264,16 +264,6 @@
           "wordCount": 2638,
           "title": "エッジAIが本格化、「embedded world」で見た最新トレンド ―― 電子版2024年6月号",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/17/mm220117_denshiban01_w490.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2406/14/news167.html",
-          "author": null,
-          "description": "村田製作所は、薄型かつ大容量を維持したまま、4.5mΩの低ESRに対応した導電性高分子アルミ電解コンデンサー「ECASD40E477M4R5KA0」を発表した。7.3×4.3mmのDケースを採用し、従来品と同等の薄型、大容量を維持しながらESR値を25％改善した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2406/14/news167.html",
-          "publishedOn": "2024-06-17T00:00:00.000Z",
-          "wordCount": 2510,
-          "title": "ESRが4.5mΩの導電性高分子アルミ電解コンデンサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/14/cover_news167.jpg"
         }
       ]
     },
@@ -5742,6 +5732,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121705/",
+          "author": null,
+          "description": "劇場アニメ「劇場版モノノ怪 唐傘」の特別番組「モノノ怪秘話大公開！スペシャル 第二幕」がYouTubeで配信中だ。 同作は、2007年に放送されたテレビアニメ「モノノ怪」の放送15周年企画として...",
+          "link": "https://anime.eiga.com/news/121705/",
+          "publishedOn": "2024-07-16T12:00:00.000Z",
+          "wordCount": 714,
+          "title": "「ハイパーさん」の正式な名前が判明　「劇場版モノノ怪　唐傘」黒沢ともよ、中村健治監督ら出演の特番第2弾が配信中",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121706/",
           "author": null,
           "description": "8月16日から3週間限定で劇場上映される「刀剣乱舞 廻 -々伝（どうでん） 近し侍らうものら-」の本予告と本ビジュアルが公開された。主題歌の詳細も明らかになっている。 同作では、舞台版「刀剣乱舞...",
@@ -8946,6 +8951,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10410",
+          "author": "watanabe@logipara.com",
+          "description": "Amazonプライムデーだ！！！！買え！！！この世のすべてを買い漁れ！！！！……と、いろんな商品を見てて、初めて気付いたんですけど、 　 　 　 　 　 　 　 　 　 TENGAって定期配送できるのね",
+          "link": "https://logipara.com/diary-text/2024-07-17/",
+          "publishedOn": "2024-07-16T11:52:08.000Z",
+          "wordCount": 4415,
+          "title": "定期配送",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/07/image-1.png"
+        },
+        {
           "id": "https://logipara.com/?p=10400",
           "author": "watanabe@logipara.com",
           "description": "人生、それはもしかしたら、枕探しの旅なのかもしれないね(1976～ ワタナベ・談) 　 ずっと、枕を探していました。 いま使っている枕が、6～7年ぐらい前にセミオーダーで作った枕です。 頭の形を測定してもらい、それに合わ […]",
@@ -9668,16 +9683,6 @@
           "wordCount": 1119,
           "title": "【キニナル】SNSで話題沸騰！ビナガーデンズパーチの真横に温泉採掘機が登場！？現地を確認してみた。［海老名市］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/onsen-ebina202406.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=43562",
-          "author": "comomo",
-          "description": "こんにちは、ももこ＠あつらぼです。 6月とは思えない夏日も出てきましたね…！ 厚木の夏と言えば「あつぎ鮎まつり」ですが、今回は10周年を迎えたアミューあつぎと、あつぎ鮎まつりのコラボ企画を発見しました！ 「あつぎ鮎まつりスペシャル応募抽選イ…",
-          "link": "https://atsugi-lab.com/event-amyu-ayumatsuri202406/",
-          "publishedOn": "2024-06-16T23:57:52.000Z",
-          "wordCount": 1142,
-          "title": "【あつぎ鮎まつり×アミューあつぎ】花火大会協賛チケットも当たるって！「あつぎ鮎まつりスペシャル応募抽選イベント」6月22日～7月7日",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/amyu-ayumatsuri202406image.jpg"
         }
       ]
     },
@@ -9686,6 +9691,66 @@
       "feedUrl": "https://this.kiji.is/-/units/39166665832988672/feed/atom",
       "siteUrl": "https://nordot.app/-/units/39166665832988672",
       "articles": [
+        {
+          "id": "https://nordot.app/1185921284291772755",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"国連報告書、北朝鮮の強制労働を批判\">\n  <cite>\n    <a href=\"https://nordot.app/1185921284291772755\">国連報告書、北朝鮮の強制労働を批判</a>\n  </cite>\n    \n  <p>【ジュネーブ共同】国連人権高等弁務官事務所（OHCHR）は16日、北朝鮮で強制労働が組織的に行われ、...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1185921284291772755",
+          "publishedOn": "2024-07-16T12:27:47.000Z",
+          "wordCount": 412,
+          "title": "国連報告書、北朝鮮の強制労働を批判",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png"
+        },
+        {
+          "id": "https://nordot.app/1185919474819121755",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"巨2―1神（16日）\">\n  <cite>\n    <a href=\"https://nordot.app/1185919474819121755\">巨2―1神（16日）</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1185919474819121755\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185919592405418825/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185919592405418825/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>巨人が競り勝った。山崎伊が7回8安打1失点の力投で7勝目、大勢が11セーブ目を挙げた。一回に岡本和と...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1185919474819121755",
+          "publishedOn": "2024-07-16T12:20:36.000Z",
+          "wordCount": 416,
+          "title": "巨2―1神（16日）　巨人・山崎伊が7勝目",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1185919592405418825/origin_1.jpg"
+        },
+        {
+          "id": "https://nordot.app/1185919207083967169",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"ソ4―1ロ（16日）\">\n  <cite>\n    <a href=\"https://nordot.app/1185919207083967169\">ソ4―1ロ（16日）</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1185919207083967169\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185919638078292864/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185919638078292864/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>ソフトバンクが連敗を3で止めた。有原が要所を締め、7回5安打1失点でリーグトップの9勝目。打線は五回...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1185919207083967169",
+          "publishedOn": "2024-07-16T12:19:32.000Z",
+          "wordCount": 416,
+          "title": "ソ4―1ロ（16日）　有原、7回1失点で9勝目",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1185919638078292864/origin_1.jpg"
+        },
+        {
+          "id": "https://nordot.app/1185918953869312933",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"ヤ4―3中（16日）\">\n  <cite>\n    <a href=\"https://nordot.app/1185918953869312933\">ヤ4―3中（16日）</a>\n  </cite>\n    \n</blockquote>",
+          "link": "https://nordot.app/1185918953869312933",
+          "publishedOn": "2024-07-16T12:18:31.000Z",
+          "wordCount": 414,
+          "title": "ヤ4―3中（16日）　ヤクルトが逆転勝ち",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png"
+        },
+        {
+          "id": "https://nordot.app/1185918452997947558",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"コメ卸売価格、11年ぶり高値\">\n  <cite>\n    <a href=\"https://nordot.app/1185918452997947558\">コメ卸売価格、11年ぶり高値</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1185918452997947558\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185918711106895923/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185918711106895923/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>農林水産省は16日、JAグループなどがコメを業者に卸した際の「相対取引価格」を発表した。6月は202...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1185918452997947558",
+          "publishedOn": "2024-07-16T12:16:32.000Z",
+          "wordCount": 417,
+          "title": "コメ卸売価格、11年ぶり高値　23年産、1万5865円",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1185918711106895923/origin_1.jpg"
+        },
+        {
+          "id": "https://nordot.app/1185912731036336879",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"笹生優花「メダルを取りたい」\">\n  <cite>\n    <a href=\"https://nordot.app/1185912731036336879\">笹生優花「メダルを取りたい」</a>\n  </cite>\n    \n  <p><a href=\"https://nordot.app/1185912731036336879\"><img src=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185917965116359308/origin_1.jpg\" alt=\"https://nordot-res.cloudinary.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1185917965116359308/origin_1.jpg\" class=\"entry-image\"></a></p>\n    \n  <p>女子ゴルフのパリ五輪日本代表で、今年の全米女子オープン選手権でメジャー2勝目を挙げた笹生優花が16日...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1185912731036336879",
+          "publishedOn": "2024-07-16T11:53:48.000Z",
+          "wordCount": 417,
+          "title": "笹生優花「メダルを取りたい」　女子ゴルフ、五輪代表が抱負",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/1185917965116359308/origin_1.jpg"
+        },
         {
           "id": "https://nordot.app/1185911121123541465",
           "author": null,
@@ -16890,6 +16955,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2037633.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。(大阪府) [US]\n垢版 |\n2024/07/16(火) 11:25:19.06ID:oYuXuFFy0●?PLT(13000)\n\n\n\n\n\n\n\nＧＭ、来年のＥＶ販売は100万台に届かない見通し－バーラＣＥＯ https://t.co/ILkOZBE166— ブルームバーグニュース (@BloombergJapan) July 16, 2024 ...",
+          "link": "https://itainews.com/archives/2037633.html",
+          "publishedOn": "2024-07-16T12:02:34.000Z",
+          "wordCount": 2485,
+          "title": "【悲報】米GM、EV不人気で大誤算　業績に大きな痛手か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/3/93aa93b3-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2037623.html",
           "author": "dqnplus",
@@ -25266,16 +25341,6 @@
           "wordCount": 1285,
           "title": "ペットショップからやってきた初日から堂々としている子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74787.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=74811",
-          "author": "299",
-          "description": "ベッドの上に可愛い毛玉たちが、のんびりとしています。するとそこへゴールデンレトリバーがやってきて赤ちゃん猫たちの姿を見つけるとすぐにベッドに飛び乗ってきました。 赤ちゃん猫たちは、まだ目もしっかり開いていないのでゴールデ...\nゴールデンレトリバーのワンコの周りに赤ちゃん猫たちが集まってきた！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/74811",
-          "publishedOn": "2024-06-17T00:00:30.000Z",
-          "wordCount": 1293,
-          "title": "ゴールデンレトリバーのワンコの周りに赤ちゃん猫たちが集まってきた！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74811.jpeg"
         }
       ]
     },
