@@ -5,6 +5,8 @@
 
 cacheUrl: https://pZShNg3UMDEl.github.io/myfeedreader/cache.json
 sources:
+  - href: https://news.yahoo.co.jp/rss/media/asahibc/all.xml
+  - href: http://feeds.bbci.co.uk/japanese/rss.xml
   - href: http://rss.itmedia.co.jp/rss/2.0/edn.xml
   - href: https://gadget.phileweb.com/feed/
   - href: http://image-sensors-world.blogspot.com/feeds/posts/default
@@ -16,7 +18,6 @@ sources:
   - href: https://logipara.com/feed
   - href: https://note.com/hima_kuuhaku/rss
   - href: https://atsugi-lab.com/feed/
-  - href: https://this.kiji.is/-/units/39166665832988672/feed/atom
   - href: http://foodfighter.jp/feed/
   - href: http://blog.livedoor.jp/dqnplus/index.rdf
   - href: http://2-9-9.com/feed
