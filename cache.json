@@ -254,16 +254,6 @@
           "wordCount": 2520,
           "title": "完全HILによる車載レーダー向けのテストソリューション",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/19/cover_news067.jpg"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2406/17/news003.html",
-          "author": null,
-          "description": "DXでは、いかにデータを利活用するかが極めて重要なテーマだ。だが、社内体制や仕組みづくりなどのオペレーション面が障壁になってDXが進まないケースも散見される。本稿では、Alteryxなどを活用して生産性を着実に向上させている東洋エンジニアリングの事例を紹介する。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2406/17/news003.html",
-          "publishedOn": "2024-06-18T01:00:00.000Z",
-          "wordCount": 1740,
-          "title": "PR: “一品一葉”のデータを社内横断で活用　東洋エンジニアリングのDXの進め方",
-          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2406/17/l_tiketani_toyoeng2406_fig01_w590.jpg"
         }
       ]
     },
@@ -5441,16 +5431,6 @@
           "wordCount": 11610,
           "title": "PS4版『ASTRONEER -アストロニーア-』にて新アイテムを追加するロードトリップアップデートが実施！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/astroneer-update-2024-0618-announce-1.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=364856",
-          "author": "管理人",
-          "description": "イルミネーションと任天堂による「スーパーマリオ」の新たなアニメ映画の日本における劇場公開日が、2026年4月24日に決定したことを任天堂株式会社が発表しました。 今年3月10日の「マリオの日」に制作発表が行われ、米国を含 […]",
-          "link": "https://ninten-switch.com/super-mario-new-movie-2026-04-06-koukai",
-          "publishedOn": "2024-06-18T01:11:00.000Z",
-          "wordCount": 11797,
-          "title": "スーパーマリオの新たなアニメ映画の日本での公開日が2026年4月24日に決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/nintendo-direct-2024-6-18-announce.jpg"
         }
       ]
     },
@@ -5686,6 +5666,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121714/",
+          "author": null,
+          "description": "ピクサーの最新作「インサイド・ヘッド2」の世界総興収が「インクレディブル・ファミリー」が2018年に樹立した12億4000万ドルという記録を超え、同社史上最高のヒット映画になった。 「インサイド...",
+          "link": "https://anime.eiga.com/news/121714/",
+          "publishedOn": "2024-07-17T13:00:00.000Z",
+          "wordCount": 683,
+          "title": "「インサイド・ヘッド2」がピクサー史上最大のヒットに",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121712/",
           "author": null,
@@ -9626,6 +9621,26 @@
       "feedUrl": "https://this.kiji.is/-/units/39166665832988672/feed/atom",
       "siteUrl": "https://nordot.app/-/units/39166665832988672",
       "articles": [
+        {
+          "id": "https://nordot.app/1186292201584886194",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"宮田主将「事情により」不参加\">\n  <cite>\n    <a href=\"https://nordot.app/1186292201584886194\">宮田主将「事情により」不参加</a>\n  </cite>\n    \n  <p>体操女子のパリ五輪日本代表が17日、事前合宿地モナコでの練習を報道陣に公開したが、主将を務める19歳...</p>\n    \n</blockquote>",
+          "link": "https://nordot.app/1186292201584886194",
+          "publishedOn": "2024-07-17T13:01:41.000Z",
+          "wordCount": 417,
+          "title": "宮田主将「事情により」不参加　体操女子のモナコ合宿",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png"
+        },
+        {
+          "id": "https://nordot.app/1186291034679099567",
+          "author": null,
+          "description": "<blockquote cite=\"\" title=\"NY円、156円60～70銭\">\n  <cite>\n    <a href=\"https://nordot.app/1186291034679099567\">NY円、156円60～70銭</a>\n  </cite>\n    \n</blockquote>",
+          "link": "https://nordot.app/1186291034679099567",
+          "publishedOn": "2024-07-17T12:57:02.000Z",
+          "wordCount": 415,
+          "title": "NY円、156円60～70銭",
+          "imageUrl": "https://nordot-res.cloudinary.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png"
+        },
         {
           "id": "https://nordot.app/1186289785560547522",
           "author": null,
@@ -19051,6 +19066,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2037669.html",
+          "author": "dqnplus",
+          "description": "beチェック\n1 ：ネギうどん ★：2024/07/17(水) 12:49:29.48 ID:VcWqP98Z9.net\n\n\n\n\n\n\n\n\n\nDefinitely one of the anthems of all time pic.twitter.com/LvSYSmR1wF— Jomboy Media (@JomboyMedia) July 16, 2024 \n\n\n\n\n\n\n\n\n　史上最悪と米メディアが一斉に酷評した米国国歌...",
+          "link": "https://itainews.com/archives/2037669.html",
+          "publishedOn": "2024-07-17T13:01:08.000Z",
+          "wordCount": 2590,
+          "title": "【MLB球宴】?史上最悪の国歌斉唱?女性歌手が謝罪も…まさかの言い訳「私は泥酔していた」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/1/51f590a6-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2037664.html",
           "author": "damono3856",
           "description": "1 名前：少考さん ★：2024/07/16(火) 21:32:46.54 ID:/MFzeH8F9.net\n\n\n\n\n\n\n\n放火疑いの60代男、自ら腹部刺し搬送時に意識なし　納税トラブルは２年前からか　愛知・高浜市役所 #産経プラス https://t.co/hHU5JSf6Es— y1986d (@y1986d1) July 16, 2024  \n\n\n\n\n\n\n放火疑い...",
@@ -23877,6 +23902,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=76724",
+          "author": "299",
+          "description": "可愛らしい子猫ちゃんをヒヨコと会わせてみました。 一体子猫ちゃんはどんな反応を示すのでしょうか？ それではご覧ください。 ブリティッシュショートヘアのピクセルちゃんの前に可愛らしいヒヨコを連れていきます。 幸いピクセルち...\n子猫をヒヨコと会わせてみた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/76724",
+          "publishedOn": "2024-07-17T13:00:26.000Z",
+          "wordCount": 1294,
+          "title": "子猫をヒヨコと会わせてみた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76724.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=76720",
           "author": "299",
