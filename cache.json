@@ -930,6 +930,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2407/18/news072.html",
+          "author": null,
+          "description": "スイスビットジャパンは、PCIe SSDの新シリーズ「N2000」「N3000」を発表した。動作温度範囲は－40～＋85℃で、エッジコンピューティングやIoTでの用途に適する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2407/18/news072.html",
+          "publishedOn": "2024-07-18T00:00:00.000Z",
+          "wordCount": 2579,
+          "title": "低消費電力、低発熱のエッジ／IoT向けPCIe SSD",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/18/cover_news072.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2407/17/news074.html",
           "author": null,
           "description": "「EE Times Japan×EDN Japan 統合電子版」の2024年7月号を発行しました。今号のEE Exclusive（電子版限定先行公開記事）は、『独り勝ちのNVIDIA、中国の対米規制： 2024年上半期の半導体業界を振り返る』です。",
@@ -9954,36 +9964,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121451/",
-          "author": null,
-          "description": "映画「バービー」が昨年、爆発的ヒットを記録した米マテル社が、「ビューティフル・マインド」のオスカー脚本家アキバ・ゴールズマン、米ユニバーサル・ピクチャーズと組み、2010年に発売開始した女子高生...",
-          "link": "https://anime.eiga.com/news/121451/",
-          "publishedOn": "2024-06-18T13:00:00.000Z",
-          "wordCount": 671,
-          "title": "マテル社の女子高生モンスター人形「モンスター・ハイ」が実写映画化",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121497/",
-          "author": null,
-          "description": "アニメ「怪盗クイーンの優雅な休暇（バカンス）」が劇場アニメとして2025年春に公開されることが決定した。あわせて、スーパーティザービジュアルが披露されている。 「怪盗クイーン」シリーズは、講談社...",
-          "link": "https://anime.eiga.com/news/121497/",
-          "publishedOn": "2024-06-18T12:00:00.000Z",
-          "wordCount": 754,
-          "title": "劇場アニメ「怪盗クイーンの優雅な休暇」来春公開決定　変装したクイーンを描いた最新ビジュアル披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -10388,26 +10368,6 @@
           "wordCount": 4368,
           "title": "抜糸",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10305",
-          "author": "watanabe@logipara.com",
-          "description": "先日、親知らずを抜いたのですが、今日はどうもその親知らず(立ち退き跡)が疼くんです。 なんでた？抜いてそろそろ一週間だぞ？……と思っていたのですが、今日は雨模様。これ、気圧の変化で反応してるんじゃないか？ そうですよ。つ […]",
-          "link": "https://logipara.com/diary-text/2024-06-19/",
-          "publishedOn": "2024-06-18T12:56:46.000Z",
-          "wordCount": 4415,
-          "title": "疼く古傷",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10305",
-          "author": "watanabe@logipara.com",
-          "description": "先日、親知らずを抜いたのですが、今日はどうもその親知らず(立ち退き跡)が疼くんです。 なんでた？抜いてそろそろ一週間だぞ？……と思っていたのですが、今日は雨模様。これ、気圧の変化で反応してるんじゃないか？ そうですよ。つ […]",
-          "link": "https://logipara.com/diary-text/2024/06/18/",
-          "publishedOn": "2024-06-18T12:56:46.000Z",
-          "wordCount": 4366,
-          "title": "疼く古傷",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -10770,6 +10730,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=252514",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「チキン南蛮フィレバーガー」を世界一詳しく調査しました。 &nbsp […]",
+          "link": "https://foodfighter.jp/kfc-chicken-nanban",
+          "publishedOn": "2024-07-17T23:50:46.000Z",
+          "wordCount": 1806,
+          "title": "【ケンタッキー】チキン南蛮フィレバーガー【数量限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/387ecb7065d4a3ae83cdc2a06c26938c.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=252494",
           "author": "foodfighter",
@@ -16986,36 +16956,6 @@
           "wordCount": 2405,
           "title": "外国人「豊洲市場は不味くて高い。歌舞伎町タワー？外人に媚び媚びのゴミ」 新施設酷評続々wwww",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/d/fd1ee7a2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2036679.html",
-          "author": "dqnplus",
-          "description": "1 名前：名無しさん＠涙目です。：2024/06/18(火) 10:49:59.00 ID:lMLFhqHf0●.net\n\n\n\n\n\n\n\n\n「小池百合子都知事を今朝、公職選挙法違反容疑で刑事告発しました」 元側近・小島敏郎氏が語る“7つの重大証拠”記事はこちら↓https://t.co/WJVQ6cYBGZ#週刊文春— 週刊文春 (...",
-          "link": "https://itainews.com/archives/2036679.html",
-          "publishedOn": "2024-06-18T13:01:57.000Z",
-          "wordCount": 2555,
-          "title": "【文春砲】小池百合子、公選法違反で刑事告発",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/5/e5432e8d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2036667.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2024/06/17(月) 20:56:18.06 ID:KOp3Hba39.net\n\n\n\n\n\n\n\n「因縁をつけられたと勘違い」路上で男性殴り死亡させる　傷害致死の疑いで男を逮捕 https://t.co/Xz8cB9njc9— TBS NEWS DIG Powered by JNN (@tbsnewsdig) June 17, 2024  \n\n\n\n\n\n\n※TBSテレビ\n20...",
-          "link": "https://itainews.com/archives/2036667.html",
-          "publishedOn": "2024-06-18T12:44:04.000Z",
-          "wordCount": 2399,
-          "title": "【東京】「因縁をつけられたと勘違い」路上で面識ない男性殴り死亡させる　傷害致死の疑いで男を逮捕　世田谷",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/5/b56c55ab-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2036676.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：名無しさん＠涙目です。：2024/06/18(火) 08:23:38.14 ID:I+iCF2VB0●.net \n\n\n\n\n\n\n\n\n「胸は触ったが揉んでいない」と一部否認 外来患者の男（67）が診察中に医師の女性へわいせつ行為か 北海道・札幌市（STVニュース北海道） https://t.co/KxVNG02KMf— かふ株 (@DMX...",
-          "link": "https://itainews.com/archives/2036676.html",
-          "publishedOn": "2024-06-18T12:01:26.000Z",
-          "wordCount": 2651,
-          "title": "女医の診察中、女医のおっぱい揉む　容疑で男逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/9/a9c0fe90-s.png"
         }
       ]
     },
@@ -17024,6 +16964,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=76799",
+          "author": "299",
+          "description": "猫じゃらしに猫パンチをしている可愛い子猫は保護猫のリタです。リタが家族の一員になってからすでに3週間経過しているので猫じゃらしの遊びにも力が入ります。 猫じゃらしを床に置いて見ると、今度はジャラシ相手にぴょんぴょん跳ねて...\n柴犬たちに囲まれて日々成長する子猫のリタ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/76799",
+          "publishedOn": "2024-07-18T00:00:29.000Z",
+          "wordCount": 1347,
+          "title": "柴犬たちに囲まれて日々成長する子猫のリタ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76799.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=76768",
           "author": "299",
@@ -20623,16 +20573,6 @@
           "wordCount": 1287,
           "title": "柴犬にべったり甘える子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74886.jpeg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=74874",
-          "author": "299",
-          "description": "子猫が1匹だけ寝床から脱走していて部屋の中をうろうろとうろついていました。お母さん猫も、あれ？なんでこの子がここにいるの？と理解できないようです。 他の兄弟猫たちはみんな寝床の中でぐっすりと寝ています。好奇心旺盛な子猫マ...\n子猫がひとりで部屋の中を冒険しています first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/74874",
-          "publishedOn": "2024-06-18T13:00:59.000Z",
-          "wordCount": 1296,
-          "title": "子猫がひとりで部屋の中を冒険しています",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/74874.jpeg"
         }
       ]
     },
@@ -20829,16 +20769,6 @@
           "publishedOn": "2024-06-19T11:37:00.000Z",
           "wordCount": null,
           "title": "【ヘヴィメタJ-POP】CAPERIN/MACHIGAETANDEATH【有吉の壁】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lrVJqtF9_-s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lrVJqtF9_-s",
-          "publishedOn": "2024-06-18T12:36:26.000Z",
-          "wordCount": null,
-          "title": "【てるお降臨】こんなに喋るかもめんたる槙尾久しぶり【有吉の壁】【オープニング完全版】",
           "imageUrl": null
         }
       ]
