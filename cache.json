@@ -3047,6 +3047,16 @@
       "siteUrl": "https://ninten-switch.com",
       "articles": [
         {
+          "id": "https://ninten-switch.com/?p=370560",
+          "author": "管理人",
+          "description": "マックスファクトリーと販売元のグッドスマイルカンパニーが、アニメ『NieR:Automata Ver1.1a』より『NieR:Automata Ver1.1a 2B 1/7 フィギュア』を2025年5月に発売することを発 […]",
+          "link": "https://ninten-switch.com/nierautomata-ver1-1a-2b-max-figure-yoyaku",
+          "publishedOn": "2024-07-18T03:19:38.000Z",
+          "wordCount": 11595,
+          "title": "マックスファクトリーの『NieR:Automata Ver1.1a 2B 1/7 フィギュア』が予約開始！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/07/nierautomata-ver1-1a-2b-max-figure-yoyaku2.jpg"
+        },
+        {
           "id": "https://ninten-switch.com/?p=370535",
           "author": "管理人",
           "description": "任天堂が、『Joy-Con充電スタンド (2way)』を2024年10月17日に発売することを発表しました。 販売価格は3,300円(税込)に設定されています。 本商品は、Switch本体にJoy-Conを取り付けなくて […]",
@@ -6875,6 +6885,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121671/",
+          "author": null,
+          "description": "創作集団「CLAMP」の大規模展が東京・六本木の国立新美術館で2024年7月3日に開幕した。展示替えを挟み9月23日まで開催される。CLAMPはいがらし寒月、大川七瀬、猫井、もこなの4名で主にマ...",
+          "link": "https://anime.eiga.com/news/121671/",
+          "publishedOn": "2024-07-18T03:30:00.000Z",
+          "wordCount": 881,
+          "title": "CLAMP展レポート　画材の変化からデザインまで全23作品、800点の原画でたどる大規模展　福山潤の音声ガイドもおすすめ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121729/",
           "author": null,
@@ -12164,16 +12189,6 @@
           "wordCount": 1760,
           "title": "【セブンイレブン】竹下製菓 プチブラックモンブラン【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/a71396c53960a979a7458e8ab87fb69f.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=249446",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「スターバックス ME MOMENT（ミーモーメント） トロピカルピンク」を世界一詳しく調査しました。  […]",
-          "link": "https://foodfighter.jp/711sej-starbucks-tropical-pink",
-          "publishedOn": "2024-06-18T15:27:09.000Z",
-          "wordCount": 1777,
-          "title": "【セブンイレブン】スターバックス ME MOMENT（ミーモーメント） トロピカルピンク【新作ドリンク】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/3c8c25a7b148430c5f00e762dff87116.jpg"
         }
       ]
     },
