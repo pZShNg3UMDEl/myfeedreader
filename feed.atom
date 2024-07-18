@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T03:39:03.673Z</updated>
+    <updated>2024-07-18T03:50:17.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン米大統領、コロナ陽性　体調は良いと記者団に]]></title>
+        <id>https://www.bbc.com/japanese/articles/cjqezy37x5wo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cjqezy37x5wo"/>
+        <updated>2024-07-18T03:44:15.000Z</updated>
+        <summary type="html"><![CDATA[米ホワイトハウスは17日、ジョー・バイデン大統領（81）が新型コロナウイルスの検査で陽性と確認され、軽い症状が出ていると発表した。バイデン氏はラスヴェガスの空港で大統領専用機に乗り込む際、階段をゆっくりと慎重に上り、「いい気分だ」と言った。マスクは着けていなかった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLAMP展レポート　画材の変化からデザインまで全23作品、800点の原画でたどる大規模展　福山潤の音声ガイドもおすすめ]]></title>
         <id>https://anime.eiga.com/news/121671/</id>
