@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T18:39:50.639Z</updated>
+    <updated>2024-07-18T18:50:33.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -26084,16 +26084,6 @@ Return to Conference List index]]></summary>
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「スターバックス ME MOMENT（ミーモーメント） ティーレモネード」を世界一詳しく調査しました。  […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threads、開発者向けAPIを公開。自動投稿や統計情報の確認などが可能に]]></title>
-        <id>https://gadget.phileweb.com/?p=78286</id>
-        <link href="https://gadget.phileweb.com/post-78286/"/>
-        <updated>2024-06-19T06:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Metaは、InstagramのTwitter風SNS「Threads」について、外部サービスやアプリからアクセス可能にするAPIを開発者向けに公開した。 Metaは数か月前からベータパートナーとしてHootsuite、Social News Desk、Sprinklr、Sprout Socialと […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
