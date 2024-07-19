@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/1285c6b235b4d24c466671efa94c7a66a6bb81cb?source=rss",
+          "author": null,
+          "description": "兵庫県の元県民局長の告発によって浮き彫りとなった、斎藤知事のパワハラなどのさまざまな疑惑。19日、それらを調査する百条委員会が開かれました。\n\n　兵庫県庁の前では、斎藤知事の辞任を求める県民らの抗議",
+          "link": "https://news.yahoo.co.jp/articles/1285c6b235b4d24c466671efa94c7a66a6bb81cb?source=rss",
+          "publishedOn": "2024-07-19T09:33:22.000Z",
+          "wordCount": 829,
+          "title": "「ワインまだ飲んでいないのでぜひ…」死亡した元県民局長の陳述書&音声公開　兵庫・斎藤知事「おねだり」「パワハラ」疑惑めぐる百条委員会で審議(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240719-00010002-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/fd10bde40f96214455d08015d3f8726d8d84b2cc?source=rss",
           "author": null,
           "description": "夏休みに突入した方も多いと思いますが、みなさんはこの夏、海へ出かける予定はありますか？\n\n　実は最近日本人の“海離れ”が進んでいるようです。",
@@ -892,6 +902,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cjm9rnzn04go#0",
+          "author": null,
+          "description": "ドナルド・トランプ前大統領は18日、ウィスコンシン州ミルウォーキーで開かれていた共和党全国党大会で、大統領候補としての党の指名を正式に受諾した。",
+          "link": "https://www.bbc.com/japanese/articles/cjm9rnzn04go",
+          "publishedOn": "2024-07-19T09:10:33.000Z",
+          "wordCount": 1075,
+          "title": "【米大統領選2024】 トランプ候補、神の加護を強調　指名受諾演説",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/26d4/live/99d274e0-45ad-11ef-96a8-e710c6bfc866.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cq5j2048qj2o#0",
           "author": null,
