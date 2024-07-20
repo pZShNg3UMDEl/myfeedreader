@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T03:37:47.863Z</updated>
+    <updated>2024-07-20T03:50:21.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バングラデシュの学生デモが暴動に発展、公務員採用の優遇措置に反発]]></title>
+        <id>https://www.bbc.com/japanese/articles/c29d77xk9p0o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c29d77xk9p0o"/>
+        <updated>2024-07-20T03:41:28.000Z</updated>
+        <summary type="html"><![CDATA[バングラデシュで、学生による反政府運動が暴動に発展している。政府は19日、全国に夜間外出禁止令を発令した。首都ダッカではこの日、新たに35人が死亡した。政府は先に、1971年独立戦争の退役軍人の家族を、公務員採用で優遇する案を発表。これに反発した学生らのデモが激化し、各地で暴動が起きている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【摘発の瞬間】路上で違法わいせつＤＶＤ販売か　７４歳男を逮捕「小遣い稼ぎのため」　大阪・西成区(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/9e17d0ba69c55612908b87020c18d66696621feb?source=rss</id>
