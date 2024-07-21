@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T04:16:47.285Z</updated>
+    <updated>2024-07-21T04:37:00.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[阪急初の座席指定車両「ＰＲｉＶＡＣＥ」運行スタート　大阪梅田駅から一番列車が出発　料金は運賃プラス５００円(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6a3d8a6dc7dad92e78d6ca83c05197b6ab83e9e4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6a3d8a6dc7dad92e78d6ca83c05197b6ab83e9e4?source=rss"/>
+        <updated>2024-07-21T04:18:28.000Z</updated>
+        <summary type="html"><![CDATA[阪急電鉄は、初の座席指定車両「ＰＲｉＶＡＣＥ」の運行を２１日から始めました。
+
+　大阪梅田駅の出発ホームは、京都河原町行き一番列車に乗車する客や写真撮影をするファンで早朝から混雑しました。
+
+（一番]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近畿地方が「梅雨明け」　平年より２日遅く　各地で強い日差し…京都は３８℃予想　熱中症に警戒を(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/151a2fbde71b121d2efe13700f2603fb16a737e2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/151a2fbde71b121d2efe13700f2603fb16a737e2?source=rss"/>
+        <updated>2024-07-21T04:18:28.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は２１日、「近畿地方が梅雨明けしたとみられる」と発表しました。
+
+　ことしの近畿地方は、去年より５日遅く、平年よりも２日遅い梅雨明けとなりました。
+
+　梅雨の期間は去年より１８日短い３０日間で]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なかなか出てこないミルクにイライラが最高潮の子猫]]></title>
         <id>https://2-9-9.com/?p=76963</id>
@@ -25486,54 +25514,6 @@ https://t.co/Seteu9JaIy— 人喰いオロチMark53 a.k.a.入間の骨接ぎ親�
 お母さん猫が戻ってきたら子猫たちが生き生きと遊び始めます first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ごはんがもらえるまで大騒ぎな子ニャンコズ]]></title>
-        <id>https://2-9-9.com/?p=75141</id>
-        <link href="https://2-9-9.com/archives/75141"/>
-        <updated>2024-06-21T16:30:57.000Z</updated>
-        <summary type="html"><![CDATA[お転婆子猫のゆきちゃんがスツールの上から大きな声でごはんのおねだりをしています。 ゆきちゃんがごはんごはん！と鳴きだすと、ぴよちゃんもそれにつられて鳴き始めて大合唱になってしまいました。子猫たちはお腹が空いたら、もう待っ...
-ごはんがもらえるまで大騒ぎな子ニャンコズ first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnivision presents event camera deblurring paper at CVPR 2024]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/06/omnivision-presents-event-camera.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/06/omnivision-presents-event-camera.html"/>
-        <updated>2024-06-21T16:30:00.003Z</updated>
-        <summary type="html"><![CDATA[EVS-assisted Joint Deblurring Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling
-Event-based Vision Sensors (EVS) gain popularity in enhancing CMOS 
-Image Sensor (CIS) video capture. Nonidealities of EVS such as pixel or 
-readout latency can significantly influence the quality of the enhanced 
-images and warrant dedicated consideration in the design of fusion 
-algorithms. A novel approach for jointly computing deblurred, 
-rolling-shutter artifact corrected high-speed videos with frame rates up
- to 10000 FPS using inherently blurry rolling shutter CIS frames of 120 
-FPS to 150 FPS in conjunction with EVS data from a hybrid CIS-EVS sensor
- is presented. EVS pixel latency, readout latency and the sensor's 
-refractory period are explicitly incorporated into the measurement 
-model. This inverse function problem is solved on a per-pixel manner 
-using an optimization-based framework. The interpolated images are 
-subsequently processed by a novel refinement network. The proposed 
-method is evaluated using simulated and measured datasets, under natural
- and controlled environments. Extensive experiments show reduced 
-shadowing effect, a 4 dB increment in PSNR, and a 12% improvement in 
-LPIPS score compared to state-of-the-art methods.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】麻婆チャーハン【新作コンビニ弁当】]]></title>
-        <id>https://foodfighter.jp/?p=249817</id>
-        <link href="https://foodfighter.jp/711sej-mapo-chahan-2024"/>
-        <updated>2024-06-21T16:25:14.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「麻婆チャーハン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>

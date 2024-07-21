@@ -6,6 +6,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6a3d8a6dc7dad92e78d6ca83c05197b6ab83e9e4?source=rss",
+          "author": null,
+          "description": "阪急電鉄は、初の座席指定車両「ＰＲｉＶＡＣＥ」の運行を２１日から始めました。\n\n　大阪梅田駅の出発ホームは、京都河原町行き一番列車に乗車する客や写真撮影をするファンで早朝から混雑しました。\n\n（一番",
+          "link": "https://news.yahoo.co.jp/articles/6a3d8a6dc7dad92e78d6ca83c05197b6ab83e9e4?source=rss",
+          "publishedOn": "2024-07-21T04:18:28.000Z",
+          "wordCount": 746,
+          "title": "阪急初の座席指定車両「ＰＲｉＶＡＣＥ」運行スタート　大阪梅田駅から一番列車が出発　料金は運賃プラス５００円(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240721-00046782-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/151a2fbde71b121d2efe13700f2603fb16a737e2?source=rss",
+          "author": null,
+          "description": "気象庁は２１日、「近畿地方が梅雨明けしたとみられる」と発表しました。\n\n　ことしの近畿地方は、去年より５日遅く、平年よりも２日遅い梅雨明けとなりました。\n\n　梅雨の期間は去年より１８日短い３０日間で",
+          "link": "https://news.yahoo.co.jp/articles/151a2fbde71b121d2efe13700f2603fb16a737e2?source=rss",
+          "publishedOn": "2024-07-21T04:18:28.000Z",
+          "wordCount": 770,
+          "title": "近畿地方が「梅雨明け」　平年より２日遅く　各地で強い日差し…京都は３８℃予想　熱中症に警戒を(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240721-00046781-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/c7f02b5eeac581c5fa33592b8662869d6ed59c76?source=rss",
           "author": null,
           "description": "２１日未明、兵庫県西宮市の住宅で火事があり、住人の７０代の女性が意識不明の状態で病院に搬送されました。\n\n２１日午前１時５０分ごろ、西宮市美作町の住宅で、「煙が見える」と住人が契約していた警備会社から",
@@ -3642,16 +3662,6 @@
           "wordCount": 4121,
           "title": "Sony announces IMX901/902 wide aspect ratio global shutter CIS",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-kg1DZyGyp8fGpOrmzXcbfIxAYraFso0e4p_o4NGkcnVPyE43wi9n59O3EKQOYOaEzjrx-94sUINILefIe6BQSmJNkMBpHq9-ZZsHtJn0UFXeQXGauFBxy9OTJKLN2TrAb25frN6ILis_V0ispbTPRvhPhFh19cvfC7g5QYzoKJK5b1E1kYi/w1200-h630-p-k-no-nu/c1.PNG"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/06/omnivision-presents-event-camera.html",
-          "author": null,
-          "description": "EVS-assisted Joint Deblurring Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling\nEvent-based Vision Sensors (EVS) gain popularity in enhancing CMOS \nImage Sensor (CIS) video capture. Nonidealities of EVS such as pixel or \nreadout latency can significantly influence the quality of the enhanced \nimages and warrant dedicated consideration in the design of fusion \nalgorithms. A novel approach for jointly computing deblurred, \nrolling-shutter artifact corrected high-speed videos with frame rates up\n to 10000 FPS using inherently blurry rolling shutter CIS frames of 120 \nFPS to 150 FPS in conjunction with EVS data from a hybrid CIS-EVS sensor\n is presented. EVS pixel latency, readout latency and the sensor's \nrefractory period are explicitly incorporated into the measurement \nmodel. This inverse function problem is solved on a per-pixel manner \nusing an optimization-based framework. The interpolated images are \nsubsequently processed by a novel refinement network. The proposed \nmethod is evaluated using simulated and measured datasets, under natural\n and controlled environments. Extensive experiments show reduced \nshadowing effect, a 4 dB increment in PSNR, and a 12% improvement in \nLPIPS score compared to state-of-the-art methods.",
-          "link": "http://image-sensors-world.blogspot.com/2024/06/omnivision-presents-event-camera.html",
-          "publishedOn": "2024-06-21T16:30:00.003Z",
-          "wordCount": 3964,
-          "title": "Omnivision presents event camera deblurring paper at CVPR 2024",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_stKHlRsJwnvIjMcJSt_PFkHTUhNiQEiCQMxufPlDv-bdTXRPMF-H2oerjaJHdsVIBIN9Bzd3_oi-PQH9xTST5vxwcjcTcedJADCvNkeKpy0L0k=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -12114,16 +12124,6 @@
           "wordCount": 1805,
           "title": "【日高屋】肉野菜炒め定食・ライス大盛り【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/f96ba0ab5e1b987552770cf54a7eed1e.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=249817",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「麻婆チャーハン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]",
-          "link": "https://foodfighter.jp/711sej-mapo-chahan-2024",
-          "publishedOn": "2024-06-21T16:25:14.000Z",
-          "wordCount": 1763,
-          "title": "【セブンイレブン】麻婆チャーハン【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/6ba8f935c04266a2977dfb291efc3ce9.jpg"
         }
       ]
     },
@@ -20418,16 +20418,6 @@
           "wordCount": 1284,
           "title": "お母さん猫が戻ってきたら子猫たちが生き生きと遊び始めます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75133.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=75141",
-          "author": "299",
-          "description": "お転婆子猫のゆきちゃんがスツールの上から大きな声でごはんのおねだりをしています。 ゆきちゃんがごはんごはん！と鳴きだすと、ぴよちゃんもそれにつられて鳴き始めて大合唱になってしまいました。子猫たちはお腹が空いたら、もう待っ...\nごはんがもらえるまで大騒ぎな子ニャンコズ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/75141",
-          "publishedOn": "2024-06-21T16:30:57.000Z",
-          "wordCount": 1284,
-          "title": "ごはんがもらえるまで大騒ぎな子ニャンコズ",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75141.jpg"
         }
       ]
     },
