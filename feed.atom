@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T23:26:40.249Z</updated>
+    <updated>2024-07-21T23:38:49.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【全訳】 バイデン米大統領、選挙撤退発表の手紙]]></title>
+        <id>https://www.bbc.com/japanese/articles/cgrl55dd3wxo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cgrl55dd3wxo"/>
+        <updated>2024-07-21T23:28:08.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのジョー・バイデン大統領は21日、大統領としての再選を目指す選挙から撤退すると発表した。ソーシャルメディア「X（旧ツイッター）」に投稿した、撤退表明の手紙で、「党と国の利益にとって最善」な選択をしたと述べた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】阪急・京都線　桂－京都河原町駅間で運転見合わせ　西京極駅で人身事故(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/c4dff5dcc1a95bd1767149a908a7b22c536a2faa?source=rss</id>
@@ -25817,16 +25827,6 @@ https://t.co/Seteu9JaIy— 人喰いオロチMark53 a.k.a.入間の骨接ぎ親�
 ２...]]></summary>
         <author>
             <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【コメダ珈琲店】ミニコメバスケット【定番メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=249884</id>
-        <link href="https://foodfighter.jp/komeda-minikome-2024"/>
-        <updated>2024-06-22T11:35:33.000Z</updated>
-        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ミックスサンド、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
