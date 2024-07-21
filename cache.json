@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/c4dff5dcc1a95bd1767149a908a7b22c536a2faa?source=rss",
+          "author": null,
+          "description": "阪急電鉄によりますと２２日午前６時すぎ、京都線の西京極駅で駅を通過する大阪梅田行きの準特急と利用客が接触したということです。この影響で桂ー京都河原町駅間で運転を見合わせています。",
+          "link": "https://news.yahoo.co.jp/articles/c4dff5dcc1a95bd1767149a908a7b22c536a2faa?source=rss",
+          "publishedOn": "2024-07-21T23:02:20.000Z",
+          "wordCount": 754,
+          "title": "【速報】阪急・京都線　桂－京都河原町駅間で運転見合わせ　西京極駅で人身事故(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046791-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a1b0ed496dcf536c6dceaebf51662d7344198e76?source=rss",
           "author": null,
           "description": "東海道新幹線は愛知県内で午前３時半過ぎに保守用の車両同士が衝突し、脱輪した影響で、午前５時５０分現在、上りが新大阪から浜松の間で、下りが浜松から名古屋の間で運転を見合わせています。",
@@ -1192,6 +1202,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cz47gg1yjzjo#0",
+          "author": null,
+          "description": "アメリカのジョー・バイデン大統領（81）が21日、11月の大統領選からの撤退を表明した。高齢などから、民主党内で撤退を求める声が高まっていた。同党は公認選びを急ぐ。バイデン氏は新たな大統領候補としてカマラ・ハリス副大統領を支持している。",
+          "link": "https://www.bbc.com/japanese/articles/cz47gg1yjzjo",
+          "publishedOn": "2024-07-21T22:54:36.000Z",
+          "wordCount": 1499,
+          "title": "バイデン氏、米大統領選からの撤退を表明　後任候補にハリス副大統領を支持",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/c4e5/live/d46319f0-47b2-11ef-96a8-e710c6bfc866.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cw5yre1xd3yo#0",
           "author": null,
@@ -10073,21 +10093,6 @@
           "publishedOn": "2024-06-22T12:00:00.000Z",
           "wordCount": 725,
           "title": "「本当に藝大に受かるんじゃないか」眞栄田郷敦の熱意に講師が太鼓判　実写「ブルーピリオド」キャストメイキング写真＆眞栄田の絵画公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121541/",
-          "author": null,
-          "description": "サンリオの人気キャラクター・ハローキティの50周年を記念した展覧会「Hello Kitty展 -わたしが変わるとキティも変わる-」が、11月1日～2025年2月24日に東京国立博物館表慶館で開催...",
-          "link": "https://anime.eiga.com/news/121541/",
-          "publishedOn": "2024-06-22T11:00:00.000Z",
-          "wordCount": 728,
-          "title": "ハローキティ50周年を記念した展覧会、11月1日から東京国立博物館で開催　史上最大量のグッズ展示など",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -20633,16 +20638,6 @@
           "wordCount": 1290,
           "title": "レースの箱に顔を突っ込んだまるちゃんがめっちゃガーリーでした",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75125.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=75121",
-          "author": "299",
-          "description": "お兄ちゃんが勉強机について宿題をしています。すると机の引き出しの隙間から子猫のわたくんがひょいと顔を出してきました。 どうやらお兄ちゃんの宿題が終わるのをそこで待っているようですね。何度も顔を出してきてお兄ちゃんの手元を...\nお兄ちゃんの宿題が終わるの待っていた子猫が待ちくたびれて寝てしまいました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/75121",
-          "publishedOn": "2024-06-22T11:00:23.000Z",
-          "wordCount": 1285,
-          "title": "お兄ちゃんの宿題が終わるの待っていた子猫が待ちくたびれて寝てしまいました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75121.jpg"
         }
       ]
     },
