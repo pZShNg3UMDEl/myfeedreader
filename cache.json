@@ -6,6 +6,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/396d2665b022b86300dfbf5aef1a41baf6c9019f?source=rss",
+          "author": null,
+          "description": "２２日未明、東大阪市の路上でパトカーに追跡され逃げたスクーターがバイクと接触し、スクーターに乗っていた１６歳の男女とバイクの男性が重軽傷を負いました。\n\n　２２日午前１時すぎ、東大阪市荒本町西の路上",
+          "link": "https://news.yahoo.co.jp/articles/396d2665b022b86300dfbf5aef1a41baf6c9019f?source=rss",
+          "publishedOn": "2024-07-22T06:48:47.000Z",
+          "wordCount": 768,
+          "title": "パトカー追跡の２人乗りスクーター　交差点でバイクと衝突も逃走　無免許運転などの疑いで１６歳少年を逮捕　東大阪市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046801-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4271d4072482919b1a2f8a665723b3c563c9b264?source=rss",
+          "author": null,
+          "description": "２２日午前、大阪府四條畷市の路上でパトカーから追跡され逃げていたバイクが自転車と接触し、自転車に乗っていた８１歳の女性が骨を折るなど重傷です。\n\n　警察によりますと午前１０時ごろ、四條畷市蔀屋の路上",
+          "link": "https://news.yahoo.co.jp/articles/4271d4072482919b1a2f8a665723b3c563c9b264?source=rss",
+          "publishedOn": "2024-07-22T06:40:39.000Z",
+          "wordCount": 761,
+          "title": "パトカー追跡中のバイクが自転車と衝突しそのまま逃走　自転車運転の８１歳女性が重傷　大阪・四條畷市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046802-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/7af21100fae98e4b2fd5882860d63a02ed776eed?source=rss",
           "author": null,
           "description": "関西電力送配電によりますと、２２日午後２時４８分ごろから京都府福知山市で約１１００軒の停電が発生しているということです。\n\n　復旧は午後５時半ごろの見込みです。",
@@ -1302,6 +1322,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c9x8g0p5096o#0",
+          "author": null,
+          "description": "ジョー・バイデン米大統領は21日、11月の大統領選から撤退すると発表した。また自分に代わる大統領候補として、カマラ・ハリス副大統領を支持すると表明した。ハリス氏が後任になると決まったわけではないが、その副大統領候補としてすでに何人かの名前が挙がっている。",
+          "link": "https://www.bbc.com/japanese/articles/c9x8g0p5096o",
+          "publishedOn": "2024-07-22T06:39:09.000Z",
+          "wordCount": 1524,
+          "title": "【米大統領選2024】　民主党の副大統領候補は誰に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/cd32/live/384f0a20-47ed-11ef-96a8-e710c6bfc866.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c3g9wex4y8zo#0",
           "author": null,
