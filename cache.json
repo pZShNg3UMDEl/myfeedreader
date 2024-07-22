@@ -6,6 +6,36 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/5a38a8704cad6f36f677b8edf2f77593521ccd73?source=rss",
+          "author": null,
+          "description": "スカイマークによりますと、東海道新幹線で運転見合わせが続いていることを受けて、以下の臨時便を運航するということです。\n\n■午後５時３０分　神戸発・羽田行き\n\n　すでにほぼ満席状態だということです。",
+          "link": "https://news.yahoo.co.jp/articles/5a38a8704cad6f36f677b8edf2f77593521ccd73?source=rss",
+          "publishedOn": "2024-07-22T07:04:18.000Z",
+          "wordCount": 745,
+          "title": "スカイマークで臨時便を運航　東海道新幹線の運転見合わせを受け(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046805-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/281e55951ffa84961c7a41a4443a6c95c56eda6b?source=rss",
+          "author": null,
+          "description": "近畿日本鉄道によりますと午後３時２０分ごろ、長野線の喜志ー富田林駅間で大阪阿部野橋行きの準急と人が接触したということです。\n\n　この影響で、古市ー富田林駅間で運転を見合わせています。\n\n　再開は午後",
+          "link": "https://news.yahoo.co.jp/articles/281e55951ffa84961c7a41a4443a6c95c56eda6b?source=rss",
+          "publishedOn": "2024-07-22T06:54:00.000Z",
+          "wordCount": 746,
+          "title": "【速報】近鉄・長野線で人身事故　古市ー富田林駅間で運転見合わせ　再開は午後４時２０分ごろ見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046804-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a50131fdc148121fbd9519d82d7d20aed2a79918?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと、２２日午後３時半ごろから兵庫県丹波篠山市で約３１４０軒の停電が発生しているということです。\n\n　復旧は午後６時２０分の見込みです。",
+          "link": "https://news.yahoo.co.jp/articles/a50131fdc148121fbd9519d82d7d20aed2a79918?source=rss",
+          "publishedOn": "2024-07-22T06:49:29.000Z",
+          "wordCount": 752,
+          "title": "【速報】兵庫・丹波篠山市で約３１４０軒の停電　復旧は午後６時２０分ごろの見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046803-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/396d2665b022b86300dfbf5aef1a41baf6c9019f?source=rss",
           "author": null,
           "description": "２２日未明、東大阪市の路上でパトカーに追跡され逃げたスクーターがバイクと接触し、スクーターに乗っていた１６歳の男女とバイクの男性が重軽傷を負いました。\n\n　２２日午前１時すぎ、東大阪市荒本町西の路上",
@@ -1323,6 +1353,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cgerz74jl75o#0",
+          "author": null,
+          "description": "アメリカのジョー・バイデン大統領（81）が21日、11月の大統領選からの撤退を決断し、世界中に衝撃が広がっている。この知らせに、各国首脳が反応をみせている。",
+          "link": "https://www.bbc.com/japanese/articles/cgerz74jl75o",
+          "publishedOn": "2024-07-22T06:49:17.000Z",
+          "wordCount": 1468,
+          "title": "【米大統領選2024】 選挙戦撤退のバイデン氏、各国首脳から支持の声",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/383e/live/3decffc0-47f0-11ef-b74c-bb483a802c97.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c9x8g0p5096o#0",
           "author": null,
           "description": "ジョー・バイデン米大統領は21日、11月の大統領選から撤退すると発表した。また自分に代わる大統領候補として、カマラ・ハリス副大統領を支持すると表明した。ハリス氏が後任になると決まったわけではないが、その副大統領候補としてすでに何人かの名前が挙がっている。",
@@ -2346,6 +2386,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=80766",
+          "author": "Munenori Taniguchi",
+          "description": "X（Twitter）が、スパム投稿対策として効果を発揮するかもしれない新機能として、投稿に対するリプライ（返信）に記されたリンクを無効化する仕様変更に取り組んでいると、アプリ研究者のNima Owjiが報告している。 この機能はX全体で適用されるのではなく、ユーザーが自分の投稿に対してリンクを付けた […]",
+          "link": "https://gadget.phileweb.com/post-80766/",
+          "publishedOn": "2024-07-22T07:07:41.000Z",
+          "wordCount": 745,
+          "title": "X（Twitter）、リプライ中のリンク無効化を準備中。スパム投稿対策",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/07/NimaOwji_X.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=80741",
           "author": "多根清史",
