@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/af07a06db93ce47b323ba0f5233a9b090c1ab7d2?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと、２３日午後１時半ごろから京都府舞鶴市で約６８０軒の停電が発生しているということです。\n\n　復旧は午後４時すぎの見込みです。",
+          "link": "https://news.yahoo.co.jp/articles/af07a06db93ce47b323ba0f5233a9b090c1ab7d2?source=rss",
+          "publishedOn": "2024-07-23T04:46:38.000Z",
+          "wordCount": 783,
+          "title": "京都・舞鶴市で約６８０軒の停電　復旧は午後４時すぎの見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240723-00046832-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/aadda7cf543b9a5504b7aceeda24eb17a882dc04?source=rss",
           "author": null,
           "description": "関西電力送配電によりますと２３日午後０時半ごろから奈良県五條市で約５８０軒の停電が発生しているということです。\n\n　復旧は午後３時２０分ごろの見込みです。",
@@ -2696,6 +2706,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=80814",
+          "author": "Munenori Taniguchi",
+          "description": "マイクロソフトは、世界850万台のWindows PCの画面を青く染めたクラウドストライクの欠陥アップデートの問題を修復するためのリカバリーツールをリリースした。 このツールをインストールしたUSBメモリーを作成し、それを起動ドライブとしてWi​​ndows PE環境を立ち上げることで、影響を受けた […]",
+          "link": "https://gadget.phileweb.com/post-80814/",
+          "publishedOn": "2024-07-23T04:40:40.000Z",
+          "wordCount": 716,
+          "title": "マイクロソフト、クラウドストライク問題の修復ツールをリリース",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/07/QINQIE99_Shutterstock.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=80819",
           "author": "多根清史",

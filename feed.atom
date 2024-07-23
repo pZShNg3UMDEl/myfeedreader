@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-23T04:37:25.723Z</updated>
+    <updated>2024-07-23T04:50:21.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京都・舞鶴市で約６８０軒の停電　復旧は午後４時すぎの見込み(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/af07a06db93ce47b323ba0f5233a9b090c1ab7d2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/af07a06db93ce47b323ba0f5233a9b090c1ab7d2?source=rss"/>
+        <updated>2024-07-23T04:46:38.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、２３日午後１時半ごろから京都府舞鶴市で約６８０軒の停電が発生しているということです。
+
+　復旧は午後４時すぎの見込みです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、クラウドストライク問題の修復ツールをリリース]]></title>
+        <id>https://gadget.phileweb.com/?p=80814</id>
+        <link href="https://gadget.phileweb.com/post-80814/"/>
+        <updated>2024-07-23T04:40:40.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、世界850万台のWindows PCの画面を青く染めたクラウドストライクの欠陥アップデートの問題を修復するためのリカバリーツールをリリースした。 このツールをインストールしたUSBメモリーを作成し、それを起動ドライブとしてWi​​ndows PE環境を立ち上げることで、影響を受けた […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google、サードパーティCookie廃止方針を撤回。ユーザー追跡をオプトイン方式に変更か]]></title>
         <id>https://gadget.phileweb.com/?p=80819</id>
