@@ -2300,6 +2300,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2407/23/news038.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、コネクテッドマイクロコントローラー「AIROC CYW5591x」ファミリーを発表した。Wi-Fi 6とWi-Fi 6E、Bluetooth Low Energy 5.4を統合している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2407/23/news038.html",
+          "publishedOn": "2024-07-23T00:00:00.000Z",
+          "wordCount": 2606,
+          "title": "Wi-Fi 6E、BLE対応のコネクテッドMCU",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/23/cover_news038.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2407/22/news075.html",
           "author": null,
           "description": "日置電機は、データロガー用の電力計測モジュール「M7103」を発売する。最大でDC1500VおよびAC1000Vの直接入力に対応していて、1500Vの太陽光インバーターにも使用できる。",
@@ -10649,21 +10659,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121535/",
-          "author": null,
-          "description": "槻影氏によるファンタジーコメディ小説をテレビアニメ化する「嘆きの亡霊は引退したい」の放送が今年10月からスタートすることが決定し、ファイルーズあい、小原好美、杉田智和、天﨑滉平、古賀葵の出演が明...",
-          "link": "https://anime.eiga.com/news/121535/",
-          "publishedOn": "2024-06-23T12:00:00.000Z",
-          "wordCount": 786,
-          "title": "「嘆きの亡霊は引退したい」10月放送開始　最強パーティ役にファイルーズあい、小原好美、杉田智和、天﨑滉平、古賀葵",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -11028,16 +11023,6 @@
           "wordCount": 4361,
           "title": "スペース",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10318",
-          "author": "watanabe@logipara.com",
-          "description": "美容クリニックで、さまざまな美容点滴の説明を受けて、 (……本当に効くの、それ……？) と美容点滴を受けながら思う男。 　 　 なお、効いてるのかどうか、本当にわからないです",
-          "link": "https://logipara.com/diary-text/2024-06-24/",
-          "publishedOn": "2024-06-23T13:01:36.000Z",
-          "wordCount": 4417,
-          "title": "美容点滴",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/06/image-4-576x1024.jpg"
         }
       ]
     },
@@ -11470,6 +11455,26 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=252955",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セリア・ロイル ブラックサンダーアイス チョコミント」を世界一詳しく調査しました。   公式 […]",
+          "link": "https://foodfighter.jp/711sej-black-thunder-ice-mint",
+          "publishedOn": "2024-07-23T00:35:39.000Z",
+          "wordCount": 1773,
+          "title": "【セブンイレブン】セリア・ロイル ブラックサンダーアイス チョコミント【新作コンビニアイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/b508319857e55ed89ffebe7fd1c43075.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=252934",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、豊富なトッピングで好みの組み合わせを見つけることができる超有名人気カレー専門チェーン「カレーハウスC […]",
+          "link": "https://foodfighter.jp/ichibanya-butasyabu",
+          "publishedOn": "2024-07-22T22:47:09.000Z",
+          "wordCount": 1809,
+          "title": "【CoCo壱番屋（ココイチ）】豚しゃぶカレー・ライス350g・甘口【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/07e091cdc3805d1e0002e673a6a6b079.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=252911",
           "author": "foodfighter",
@@ -17606,26 +17611,6 @@
           "wordCount": 2475,
           "title": "欧米人「タコは賢い生き物だから、養殖して苦痛を与えてはいけない」確かに...",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/9/d9f21be5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2036840.html",
-          "author": "yonepo665sfr",
-          "description": "1 ：煮卵 ★：2024/06/22(土) 18:38:36.27 ID:eCZfT1zx9.net\n\n\n\n\n\n\n\n\n\n\n「処女だから5万円にして」パパ活で80回処女になった22歳。相手を騙すことに「罪悪感は全然ない」 https://t.co/YgvzF7qo68 #SPA!— 週刊SPA!・日刊SPA! (@weekly_SPA) June 21, 2024 \n\n\n\n\n\n\n\n\n\n恋...",
-          "link": "https://itainews.com/archives/2036840.html",
-          "publishedOn": "2024-06-23T12:46:19.000Z",
-          "wordCount": 2343,
-          "title": "「処女だから5万円にして」パパ活で80回処女になった22歳。相手を騙すことに「罪悪感は全然ない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/3/433b9a67-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2036845.html",
-          "author": "yonepo665sfr",
-          "description": "0001名無しさん＠涙目です。(秋田県) [US]2024/06/23(日) 11:47:42.13ID:odo6rzEV0●\n\n\n\n\n\n\n\n\n\n「パパのお嫁さんになりたい!」かなえる記念写真　#父の日 に好評https://t.co/H22sIH4hMc「母の日」より注目度が落ちる「父の日」だからこそ、写真でお父さんたちに喜んでも...",
-          "link": "https://itainews.com/archives/2036845.html",
-          "publishedOn": "2024-06-23T12:01:47.000Z",
-          "wordCount": 2716,
-          "title": "父の日　娘「パパのお嫁さんになりたい！」が炎上",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/e/7e99afce-s.png"
         }
       ]
     },
@@ -17634,6 +17619,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=77120",
+          "author": "299",
+          "description": "釣りをしに湖へと出掛けたら、子猫を発見！ このまま放置しておくのは危険だと感じ、お家へ連れ帰って保護しました。 元気に育っていく愛らしい姿をご覧ください。 最初は湖で子猫ちゃんを発見した時の経緯が語られます。 友人と一緒...\n釣り場で見かけた子猫を保護した first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/77120",
+          "publishedOn": "2024-07-23T00:00:08.000Z",
+          "wordCount": 1354,
+          "title": "釣り場で見かけた子猫を保護した",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77120.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=77090",
           "author": "299",
@@ -21233,16 +21228,6 @@
           "wordCount": 1284,
           "title": "田舎暮らしの猫たちののんびりまったりライフ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75203.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=75189",
-          "author": "299",
-          "description": "今回の猫動画は、なんとミニ豚と子猫の愛情物語です。ミニ豚と子猫のコンビの動画は、なかなか目にする機会はなくてとても珍しいものです。 でも可愛い洋服を着せてもらっているミニ豚は、子猫と大の仲良しのようでずっとお互いの鼻先を...\nミニ豚と子猫の愛情物語 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/75189",
-          "publishedOn": "2024-06-23T13:00:47.000Z",
-          "wordCount": 1288,
-          "title": "ミニ豚と子猫の愛情物語",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75189.jpg"
         }
       ]
     },
