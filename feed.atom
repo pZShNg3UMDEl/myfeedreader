@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-23T23:16:38.086Z</updated>
+    <updated>2024-07-23T23:36:47.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[兵庫・丹波篠山市と丹波市で一時、１万軒以上の停電(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/64029683674bc61e0720755fa0a2bddd391172eb?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/64029683674bc61e0720755fa0a2bddd391172eb?source=rss"/>
+        <updated>2024-07-23T23:34:04.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、２４日午前７時４０分ごろ兵庫県の丹波篠山市で約８８８０軒の停電が発生しました。また、丹波市でも午前６時５０分ごろに約１２２０軒で停電が起き、兵庫県内で一時、一万軒を超える]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【コメダ珈琲店】かき氷 トロピカル【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=253075</id>
