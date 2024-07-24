@@ -6,6 +6,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f47d48282928d97a9bfc1792972655ca2a0385dd?source=rss",
+          "author": null,
+          "description": "コロナが5類に移行してから、京都では再びホテルの開業が相次いでいます。訪日観光客が増加するいま、不動産業界にも大きな影響を与えています。",
+          "link": "https://news.yahoo.co.jp/articles/f47d48282928d97a9bfc1792972655ca2a0385dd?source=rss",
+          "publishedOn": "2024-07-24T02:11:21.000Z",
+          "wordCount": 870,
+          "title": "【京都で“ホテル戦争”勃発】インバウンド追い風に開業ラッシュ　外資系も続々参入　ホテル投資額はコロナ前の1.2倍まで拡大(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240724-00010000-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e4063600735f191751cf5d0f393ad89d7611e747?source=rss",
+          "author": null,
+          "description": "ＳＮＳ型投資詐欺グループが大阪で一斉に摘発され逮捕者は９０人に上りました。\n　口コミでメンバーを増やしていたとみられます。\n\n　主犯格とみられる島内大起容疑者らは今年２月から３月にかけて、２０代の女",
+          "link": "https://news.yahoo.co.jp/articles/e4063600735f191751cf5d0f393ad89d7611e747?source=rss",
+          "publishedOn": "2024-07-24T02:10:16.000Z",
+          "wordCount": 806,
+          "title": "逮捕者９０人に　ＳＮＳ投資詐欺　口コミでメンバー増やしたか　スマホ１８００台など押収　大阪(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240724-00046852-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/6533628c827755122bc6549c0234273fab692e61?source=rss",
           "author": null,
           "description": "関西エアポートによりますと、大型で強い台風３号の影響で、２４日に関西空港から沖縄方面に向かう便を中心に合わせて１９便が欠航になるということです。\n\n　全日空は宮古空港や石垣空港を結ぶ計６便を欠航し、",
@@ -2690,6 +2710,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2407/24/news086.html",
+          "author": null,
+          "description": "Femtosenseは、同社のNPU（ニューラルプロセッシングユニット）とABOV SemiconductorのMCUを統合した、スパースAI（人工知能） MCU「AI-ADAM-100」を開発した。クラウドに接続されていないデバイスでも、エッジに音声言語インタフェースを実装できるという。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2407/24/news086.html",
+          "publishedOn": "2024-07-24T02:00:00.000Z",
+          "wordCount": 2553,
+          "title": "エッジに高度な音声認識をもたらすスパースAIマイコン",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/24/cover_news086.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2407/24/news074.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、電子起爆システム向けに、「TANTAMOUNT」表面実装固体タンタルモールドチップコンデンサー「TX3」シリーズを発表した。0.005CVの低リーク電流と高いタンタルのエネルギー密度により、多くのエネルギーを供給する。",
@@ -4716,6 +4746,16 @@
       "feedUrl": "https://ninten-switch.com/feed",
       "siteUrl": "https://ninten-switch.com",
       "articles": [
+        {
+          "id": "https://ninten-switch.com/?p=371609",
+          "author": "管理人",
+          "description": "Nintendo Switch＆PlayStation5＆PlayStation4＆Xbox Series＆Xbox One＆PC(Steam)用ソフト『Shadows of the Damned: Hella Rema […]",
+          "link": "https://ninten-switch.com/shadows-of-the-damned-hella-remastered-for-switch-and-ps4-and-ps5-and-xbox-and-pc-release-deta",
+          "publishedOn": "2024-07-24T02:19:44.000Z",
+          "wordCount": 11650,
+          "title": "『Shadows of the Damned: Hella Remastered』の発売日が2024年10月31日に決定！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/03/shadows-of-the-damned-hella-remastered-for-switch-and-ps4-and-ps5-and-xbox-and-pc-announce3.jpg"
+        },
         {
           "id": "https://ninten-switch.com/?p=371585",
           "author": "管理人",
@@ -11916,6 +11956,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=253105",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
+          "link": "https://foodfighter.jp/mcdonalds-hawaiian-zakugiri-2024",
+          "publishedOn": "2024-07-24T02:40:06.000Z",
+          "wordCount": 1813,
+          "title": "【マクドナルド】ザク切りポテト＆ビーフ ブラックペッパークリームチーズ【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/5417bc3a16ebe6a3bd4e6de7b058d0c6.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=253075",
           "author": "foodfighter",
           "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」へ […]",
@@ -13324,16 +13374,6 @@
           "wordCount": 1762,
           "title": "【セブンイレブン】セブンプレミアム あずき練乳氷【コンビニアイス新商品】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/e1f2bf675eb115ac08a26f7979761dbd.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=250067",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 温州みかん氷」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
-          "link": "https://foodfighter.jp/711sej-orange-kakigori",
-          "publishedOn": "2024-06-24T14:29:09.000Z",
-          "wordCount": 1759,
-          "title": "【セブンイレブン】セブンプレミアム 温州みかん氷【新作コンビニアイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/26dafa8f7164d296f581c545dc68deba.jpg"
         }
       ]
     },
@@ -21718,16 +21758,6 @@
           "wordCount": 1290,
           "title": "部屋の中を探検する子猫の興味津々なお顔がカワイイ〜",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75337.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=75266",
-          "author": "299",
-          "description": "ちびちびなキジトラの子猫が元気いっぱいで飼い主さんにじゃれついてきています。 部屋のなかをひとりで探検することができるぐらい、すっかりこの部屋での新しい生活に慣れてくれたようです。 トコトコと短い足で駆け回っている子猫は...\n新しいお家にやってきて1ヶ月。もうすっかり慣れた子猫が部屋の中をウロチョロします first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/75266",
-          "publishedOn": "2024-06-24T14:30:11.000Z",
-          "wordCount": 1291,
-          "title": "新しいお家にやってきて1ヶ月。もうすっかり慣れた子猫が部屋の中をウロチョロします",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75266.jpg"
         }
       ]
     },
