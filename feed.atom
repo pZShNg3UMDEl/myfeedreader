@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T03:16:52.170Z</updated>
+    <updated>2024-07-24T03:36:59.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インテル、第13～14世代CPUがクラッシュする原因を解明。正体は動作電圧制御の不具合]]></title>
+        <id>https://gadget.phileweb.com/?p=80944</id>
+        <link href="https://gadget.phileweb.com/post-80944/"/>
+        <updated>2024-07-24T03:24:08.000Z</updated>
+        <summary type="html"><![CDATA[今年2月ごろから、インテルの第13～14世代CPUを搭載するPCを使用しているゲーマーの間でゲームをプレイ中にシステムがクラッシュする現象が発生することが話題になっていたが、この問題がCPUの内部で動作するマイクロコードに起因することが判明し、修正パッチを8月にリリースするとインテルが発表した。 イ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都・祇園祭の後祭で山鉾巡行　蒸し暑さの中１万２０００人が見物(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/06e5cd52b07f4f6adc0274bdd7541fef21542f75?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/06e5cd52b07f4f6adc0274bdd7541fef21542f75?source=rss"/>
+        <updated>2024-07-24T03:20:34.000Z</updated>
+        <summary type="html"><![CDATA[京都の祇園祭では、きらびやかな山と鉾が都大路を練り歩く、後祭の山鉾巡行が始まりました。
+
+　後祭の山鉾巡行では、京都市中京区の烏丸御池交差点を出発し、１１基の山と鉾が前祭と逆ルートで市内中心部を巡り]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【米大統領選2024】 ハリス氏が最初の選挙集会で演説、トランプ候補を厳しく批判]]></title>
+        <id>https://www.bbc.com/japanese/articles/cw0y3792nrpo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cw0y3792nrpo"/>
+        <updated>2024-07-24T03:17:31.000Z</updated>
+        <summary type="html"><![CDATA[カマラ・ハリス米副大統領は23日、11月の大統領選挙の民主党大統領候補に指名されるのに必要な党代議員の過半数の支持を確保したことが明らかになってから初めて演説を行った。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タテ折り式のiPhoneは2026年に発売？中国市場での苦戦のため前倒しか]]></title>
         <id>https://gadget.phileweb.com/?p=80935</id>

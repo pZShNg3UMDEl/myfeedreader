@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/06e5cd52b07f4f6adc0274bdd7541fef21542f75?source=rss",
+          "author": null,
+          "description": "京都の祇園祭では、きらびやかな山と鉾が都大路を練り歩く、後祭の山鉾巡行が始まりました。\n\n　後祭の山鉾巡行では、京都市中京区の烏丸御池交差点を出発し、１１基の山と鉾が前祭と逆ルートで市内中心部を巡り",
+          "link": "https://news.yahoo.co.jp/articles/06e5cd52b07f4f6adc0274bdd7541fef21542f75?source=rss",
+          "publishedOn": "2024-07-24T03:20:34.000Z",
+          "wordCount": 748,
+          "title": "京都・祇園祭の後祭で山鉾巡行　蒸し暑さの中１万２０００人が見物(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240724-00046854-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/82a58cf68ca19db79059dbbc5560c2f0216aecc1?source=rss",
           "author": null,
           "description": "ＪＲ西日本が、福知山線脱線事故の事故車両保存施設について、一般には非公開とする考えを遺族らに説明していることがわかりました。\n\n　２００５年４月、兵庫県尼崎市でＪＲ福知山線の快速電車がスピードの出し",
@@ -1873,6 +1883,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cw0y3792nrpo#0",
+          "author": null,
+          "description": "カマラ・ハリス米副大統領は23日、11月の大統領選挙の民主党大統領候補に指名されるのに必要な党代議員の過半数の支持を確保したことが明らかになってから初めて演説を行った。",
+          "link": "https://www.bbc.com/japanese/articles/cw0y3792nrpo",
+          "publishedOn": "2024-07-24T03:17:31.000Z",
+          "wordCount": 1062,
+          "title": "【米大統領選2024】 ハリス氏が最初の選挙集会で演説、トランプ候補を厳しく批判",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/e827/live/041030c0-4961-11ef-96a8-e710c6bfc866.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/ce93d55rwxxo#0",
           "author": null,
           "description": "ジョー・バイデン米大統領が大統領選からの撤退を表明してから24時間もたたないうちに、カマラ・ハリス副大統領が民主党の大統領候補指名を獲得する道が開けてきた。しかし、11月に共和党候補のドナルド・トランプ前大統領に勝つという、最も手ごわい挑戦が待っている。ハリス氏の長所と弱点を分析する。",
@@ -3006,6 +3026,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=80944",
+          "author": "Munenori Taniguchi",
+          "description": "今年2月ごろから、インテルの第13～14世代CPUを搭載するPCを使用しているゲーマーの間でゲームをプレイ中にシステムがクラッシュする現象が発生することが話題になっていたが、この問題がCPUの内部で動作するマイクロコードに起因することが判明し、修正パッチを8月にリリースするとインテルが発表した。 イ […]",
+          "link": "https://gadget.phileweb.com/post-80944/",
+          "publishedOn": "2024-07-24T03:24:08.000Z",
+          "wordCount": 724,
+          "title": "インテル、第13～14世代CPUがクラッシュする原因を解明。正体は動作電圧制御の不具合",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/07/14900K.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=80935",
           "author": "多根清史",
