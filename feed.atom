@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T03:36:36.687Z</updated>
+    <updated>2024-07-25T03:50:37.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Appleマップ」ウェブ版が登場。日本語で検索は可能だが、UIはまだ英語のみ]]></title>
+        <id>https://gadget.phileweb.com/?p=81055</id>
+        <link href="https://gadget.phileweb.com/post-81055/"/>
+        <updated>2024-07-25T03:47:13.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、同社のデバイス向けに提供してきたAppleマップを、ウェブブラウザーからアクセス可能なベータ版サービスとして公開した。基本的にMacやiPhone、iPadなどから利用するの同じ感覚で使うことができる。 まだベータ版ということもあり、UIの言語は英語のみ。だが日本語でも地点検索などは可能 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】奈良市のラウンドワンで火事(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/f1cc26b3dfcc40f3cbadb0784106623557c354dc?source=rss</id>
