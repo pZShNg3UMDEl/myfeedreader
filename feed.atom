@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T09:16:51.892Z</updated>
+    <updated>2024-07-25T09:35:50.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新たな問題発覚も相変わらず「県政を前に進める」　斎藤知事への告発文書で2人目の職員死亡　阪神・オリックスの優勝パレードに"不正疑惑"(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6f718e15079539d514e8aea2ad81c4fa278bcefe?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6f718e15079539d514e8aea2ad81c4fa278bcefe?source=rss"/>
+        <updated>2024-07-25T09:34:17.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県の斎藤知事を巡る問題で、職員の2人目の死亡が明らかになりました。
+　県はこの職員の死亡を3カ月間公表していませんでした。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「風呂キャンセル界隈」のアピール続々で“不潔ブーム”再来か　店内のニオイ問題の原因はコレか]]></title>
         <id>https://itainews.com/archives/2037938.html</id>
@@ -28236,16 +28247,6 @@ SNSで話題“カードゲーマーがクサい”問題。「ニオイに耐�
 砂浜を散歩するラブラブ・カップル、波にのまれ女性だけ消える映像が恐ろしいと話題にhttps://t.co/1k33yEqC84リゾート地として知られたロシアのソチで、悲しい事故がありました。仲睦ま...]]></summary>
         <author>
             <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Snapdragon X Elite」搭載PC、実際どうなの？ 注目の「Copilot+ PC」実力チェック！]]></title>
-        <id>https://gadget.phileweb.com/?p=78204</id>
-        <link href="https://gadget.phileweb.com/post-78204/"/>
-        <updated>2024-06-25T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftが5月に発表した、次世代AI PCとなる「Copilot+ PC」。その第1弾製品が、6月18日に各社から発売された。 6月初めに開催された「COMPUTEX TAIPEI 2024」では、AMDからもCopilot+ PCの要件を満たす「Ryzen AI300シリーズ」が発表され […]]]></summary>
-        <author>
-            <name>山本竜也</name>
         </author>
     </entry>
 </feed>
