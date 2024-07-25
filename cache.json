@@ -6,6 +6,36 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f1cc26b3dfcc40f3cbadb0784106623557c354dc?source=rss",
+          "author": null,
+          "description": "消防によりますと、奈良市二条大路南のラウンドワンで火災が発生しているということです。",
+          "link": "https://news.yahoo.co.jp/articles/f1cc26b3dfcc40f3cbadb0784106623557c354dc?source=rss",
+          "publishedOn": "2024-07-25T03:34:25.000Z",
+          "wordCount": 682,
+          "title": "【速報】奈良市のラウンドワンで火事(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/facaa0ee4de3ffb867471d80f416155ed63dc1c9?source=rss",
+          "author": null,
+          "description": "ＳＮＳ型投資詐欺グループ９０人が一斉に逮捕された事件で、グループは被害者との金のやり取りにフリマアプリを利用していたとみられることがわかりました。\n\n　詐欺未遂の疑いで逮捕された水田悠斗容疑者ら（２",
+          "link": "https://news.yahoo.co.jp/articles/facaa0ee4de3ffb867471d80f416155ed63dc1c9?source=rss",
+          "publishedOn": "2024-07-25T03:32:54.000Z",
+          "wordCount": 759,
+          "title": "９０人逮捕のＳＮＳ投資詐欺　フリマアプリで”高額ポケモンカード”購入させる　金の流れ複雑化狙ったか(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240725-00046870-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3120dfc0a4b42d57f3d87a2f28723f105ac7a302?source=rss",
+          "author": null,
+          "description": "兵庫県の斎藤知事に対する告発文書の中で、「優勝パレードへの対応で体調を崩し、療養中」とされていた職員が、４月に死亡していたことが分かりました。\n\n　兵庫県は２３日、職員向けに去年１１月のプロ野球・阪",
+          "link": "https://news.yahoo.co.jp/articles/3120dfc0a4b42d57f3d87a2f28723f105ac7a302?source=rss",
+          "publishedOn": "2024-07-25T03:26:46.000Z",
+          "wordCount": 771,
+          "title": "告発文書で「療養中」と記載の兵庫県職員死亡　阪神・オリックスの優勝パレードで寄付金集めを担当　斎藤知事の疑惑めぐり２例目(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240725-00046868-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/65080d9f92d115986d42522d196ca89a84477a8a?source=rss",
           "author": null,
           "description": "おととし12月、兵庫県立がんセンターで、男性患者の肺に「しこり」がある可能性を、担当医とは別の医師が指摘していたにもかかわらず、担当医が見落とす医療事故があったことがわかりました。男性は去年の検査で",
@@ -2023,6 +2053,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/ck7gpz8zxyno#0",
+          "author": null,
+          "description": "イスラエルのベンヤミン・ネタニヤフ首相は24日、米連邦議会で演説した。ネタニヤフ首相は「我々の敵は皆さんの敵だ」と述べ、パレスチナ自治区ガザ地区での戦争への支持を得ようとした。議事堂内外では抗議活動が行われた。",
+          "link": "https://www.bbc.com/japanese/articles/ck7gpz8zxyno",
+          "publishedOn": "2024-07-25T03:15:08.000Z",
+          "wordCount": 1520,
+          "title": "イスラエルの首相が米連邦議会で演説、議事堂内外や本国で抗議",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/c9d2/live/688a8660-4a2c-11ef-821c-5bbfbac40dbb.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cmm2p8y7pl2o#0",
           "author": null,
           "description": "パリ・オリンピック（五輪）は24日、開会式に先立ってサッカー男子のグループステージ（1次リーグ）が始まり、日本は南米パラグアイに5-0で快勝した。別の試合では、観客がピッチに侵入するなどして2時間近く中断となり、無観客で試合を再開する混乱が発生した。",
@@ -3256,6 +3296,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=81049",
+          "author": "多根清史",
+          "description": "Googleは24日（現地時間）、Android向けGoogle Playストアに新機能を追加したことを発表した。「単なるストアではない」として、「単なる店舗以上のエンドツーエンド体験」の進化だと位置づけている。 まず、生成AIによるアプリのレビューとFAQを追加し、自分の用途や好みに適しているかど […]",
+          "link": "https://gadget.phileweb.com/post-81049/",
+          "publishedOn": "2024-07-25T03:19:43.000Z",
+          "wordCount": 732,
+          "title": "Google Play、新機能「コレクション」追加。PC用Play Gamesは複数ゲームを同時プレイ可能に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/07/shutterstock_2224563197.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=81063",
           "author": "編集部：平山洸太",
@@ -8720,6 +8770,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121686/",
+          "author": null,
+          "description": "ディズニー＆ピクサー最新作「インサイド・ヘッド2」から、「SEKAI NO OWARI」が歌う本作の日本版エンドソング「プレゼント」の特別ミュージッククリップが公開された。 本作は、大人になると...",
+          "link": "https://anime.eiga.com/news/121686/",
+          "publishedOn": "2024-07-25T03:30:00.000Z",
+          "wordCount": 658,
+          "title": "「インサイド・ヘッド2」セカオワのEDソングが彩るミュージッククリップ公開　監督が絶賛「この映画にとって完璧」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121778/",
           "author": null,
