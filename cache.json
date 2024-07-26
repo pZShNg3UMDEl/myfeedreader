@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/1c980bd4ea13f1708d51dbfa22d2a13667d222aa?source=rss",
+          "author": null,
+          "description": "来年の万博で地域の魅力発信を目指す「万博首長連合」は２６日、会場を訪問し、建設中の「大屋根（リング）」を視察しました。\n\n　「万博首長連合」は、全国の自治体が参加できる団体で、６６４の自治体が加入し",
+          "link": "https://news.yahoo.co.jp/articles/1c980bd4ea13f1708d51dbfa22d2a13667d222aa?source=rss",
+          "publishedOn": "2024-07-26T12:20:00.000Z",
+          "wordCount": 795,
+          "title": "全国９９自治体の市長ら　万博「リング」を視察　「にぎわいをそれぞれの地域に」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240726-00046899-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/7b5048e656d9074dbf825aeeeecc6d57c7c25944?source=rss",
           "author": null,
           "description": "高級ダウンジャケットなど100点以上を盗んだとして、28歳の男が逮捕されました。\n犯行の瞬間を、防犯カメラが捉えていました。",
@@ -3768,16 +3778,6 @@
           "wordCount": 2507,
           "title": "5Vに対応した高精度ADC搭載アナログフロントエンド",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/28/cover_news081.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2406/27/news052.html",
-          "author": null,
-          "description": "ロームは、2in1仕様のSiC（炭化ケイ素）モールドタイプモジュール「TRCDRIVE pack」シリーズを開発した。同社の第4世代SiC MOSFETを採用し、300kWまでのxEV向けトラクションインバーターに対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2406/27/news052.html",
-          "publishedOn": "2024-06-27T00:00:00.000Z",
-          "wordCount": 2519,
-          "title": "xEV用インバーターを小型化する2in1 SiCモールドタイプモジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/27/cover_news052.jpg"
         }
       ]
     },
@@ -8985,66 +8985,6 @@
           "wordCount": 11536,
           "title": "Switch用ソフト『ガンラウンズ』が2024年6月27日から配信開始！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/gun-rounds-for-nintendo-switch-2024-0627-released.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=366715",
-          "author": "管理人",
-          "description": "Nintendo Switch用ソフト『コーチバスドライビングシミュレーター (Coach Bus Driving Simulator)』が、2024年6月27日から配信開始となりました。 販売価格は3,700円(税込) […]",
-          "link": "https://ninten-switch.com/coach-bus-driving-simulator-for-nintendo-switch-2024-0627-released",
-          "publishedOn": "2024-06-27T00:23:42.000Z",
-          "wordCount": 11560,
-          "title": "Switch用ソフト『コーチバスドライビングシミュレーター』が2024年6月27日から配信開始！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/coach-bus-driving-simulator-for-nintendo-switch-2024-0627-released.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=366849",
-          "author": "管理人",
-          "description": "Nintendo Switch用ソフト『ねこがほっこりした場所に隠れた : Cats Hidden in Cozy Places』が、国内向けとして2024年7月4日に配信されることが決定しました。 販売価格は499円( […]",
-          "link": "https://ninten-switch.com/cats-hidden-in-cozy-places-for-nintendo-switch-2024-0704-released",
-          "publishedOn": "2024-06-27T00:15:48.000Z",
-          "wordCount": 11519,
-          "title": "Switch用ソフト『ねこがほっこりした場所に隠れた』が2024年7月4日に配信決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2021/06/no-image-2021-06.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=366850",
-          "author": "管理人",
-          "description": "パブリッシャーのわくわくゲームズが、Nintendo Switch用ソフト『レプリカ：サバイバー』を2024年7月4日に配信することを発表しました。 販売価格は580円(税込)に設定されていますが、2024年7月10日  […]",
-          "link": "https://ninten-switch.com/6-for-nintendo-switch-2024-12bbb-released",
-          "publishedOn": "2024-06-27T00:09:48.000Z",
-          "wordCount": 11528,
-          "title": "Switch用ソフト『レプリカ：サバイバー』が2024年7月4日に配信決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/no-image-2024.webp"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=366851",
-          "author": "管理人",
-          "description": "404 Gamesから、Nintendo Switch用ソフト『Project Drift Japan Challenge』が2024年7月11日に配信されることが決定しました。 販売価格は1,299円(税込)に設定され […]",
-          "link": "https://ninten-switch.com/project-drift-japan-challenge-for-nintendo-switch-2024-0711-released",
-          "publishedOn": "2024-06-27T00:01:20.000Z",
-          "wordCount": 11535,
-          "title": "Switch用ソフト『Project Drift Japan Challenge』が2024年7月11日に配信決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/project-drift-japan-challenge-for-nintendo-switch-2024-0711-released.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=347104",
-          "author": "管理人",
-          "description": "Nintendo Switch版『Gluck (グラック)』の発売日が、2024年7月11日に決定したことをパブリッシャーのわくわくゲームズが発表しました。 販売価格は800円(税込)に設定されていますが、2024年7月 […]",
-          "link": "https://ninten-switch.com/gluck-for-nintendo-switch-announce",
-          "publishedOn": "2024-06-27T00:00:08.000Z",
-          "wordCount": 11517,
-          "title": "Switch版『Gluck』の発売日が2024年7月11日に決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/01/gluck-for-nintendo-switch-announce.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=366855",
-          "author": "管理人",
-          "description": "Megameから、Nintendo Switch用ソフト『ブロール・アリーナー アーケード・シューター』が2024年7月11日に国内配信されることが決定しました。 販売価格は749円(税込)に設定されています。 本作は、 […]",
-          "link": "https://ninten-switch.com/b-arena-arcade-stg-for-nintendo-switch-2024-0711-released",
-          "publishedOn": "2024-06-26T23:54:03.000Z",
-          "wordCount": 11531,
-          "title": "Switch用ソフト『ブロール・アリーナー アーケード・シューター』が2024年7月11日 に配信決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/no-image-2024.webp"
         }
       ]
     },
@@ -9290,6 +9230,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121777/",
+          "author": null,
+          "description": "8月2日から劇場上映が始まる「コードギアス 奪還のロゼ 最終幕」の週替わり入場特典が発表された。予告PVも公開されている。 週替わり入場特典は、8月2～8日の公開1週目にメインスタッフ描き下ろし...",
+          "link": "https://anime.eiga.com/news/121777/",
+          "publishedOn": "2024-07-26T12:00:00.000Z",
+          "wordCount": 815,
+          "title": "「コードギアス 奪還のロゼ 最終幕」週替わり入場特典が発表　「反逆のルルーシュ」など過去作とのコラボアイテムも",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121798/",
           "author": null,
@@ -13247,16 +13202,6 @@
           "wordCount": 1150,
           "title": "【完全予約制】新築住居の快適な空間を直接体験☆リアルサイズを見れる積水ハウスの「完成実例見学会」7月20日開催！［厚木市中荻野］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/sh-202407.png"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=43719",
-          "author": "fumie",
-          "description": "こんにちは、ふみえ＠あつらぼです。 先日、令和6年8月3日（土）・4日（日）に「第78回あつぎ鮎まつり」開催決定！と速報をお届けいたしましたが、 6月の厚木市の定例記者会見にて タイムスケジュールをはじめとする、イベントの詳細が発表されまし…",
-          "link": "https://atsugi-lab.com/hotnews-ayu-matsuri202406/",
-          "publishedOn": "2024-06-27T00:16:36.000Z",
-          "wordCount": 1211,
-          "title": "★続報★今年は有料観覧席に市民優先席が登場！8月3日・4日開催「第78回あつぎ鮎まつり」の内容が明らかに！",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/06/ayu-news202406.jpg"
         }
       ]
     },
@@ -14684,16 +14629,6 @@
           "wordCount": 1793,
           "title": "【やよい軒】冷汁ととり南蛮の定食【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/52498e7a21076ae42fdd163a772fb7f9.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=250334",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「中華蕎麦とみ田監修 濃厚豚骨魚介 冷しつけ麺」を世界一詳しく調査しました。   公式YouT […]",
-          "link": "https://foodfighter.jp/711sej-tomita-hiyashi-2024",
-          "publishedOn": "2024-06-26T23:50:32.000Z",
-          "wordCount": 1778,
-          "title": "【セブンイレブン】とみ田監修 濃厚豚骨魚介 冷しつけ麺【コンビニ弁当新商品】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/1a160f2d559400a532af083f8019527d.jpg"
         }
       ]
     },
@@ -14702,6 +14637,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2037984.html",
+          "author": "dqnplus",
+          "description": "1 名前：夜のけいちゃん ★：2024/07/26(金) 12:05:34.36 ID:5UssCCps9\n\n\n\n\n\n\n\n\nXの災害画像でアダルトサイトに…　山形の大雨便乗で大量スパム？https://t.co/owkhPyk8VRアカウントの一つは、数十秒～数分おきに「こちらは、大雨特別警報が発表されている酒田市の映像と...",
+          "link": "https://itainews.com/archives/2037984.html",
+          "publishedOn": "2024-07-26T12:01:11.000Z",
+          "wordCount": 2431,
+          "title": "Xの災害画像でアダルトサイトに…　山形の大雨便乗で大量スパム？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/97349f3f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2037973.html",
           "author": "damono3856",
@@ -23228,16 +23173,6 @@
           "wordCount": 1289,
           "title": "長男くんが拾ってきた子猫の可愛さにゾッコン！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75426.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=75452",
-          "author": "299",
-          "description": "カワウソのさくらと茶トラの猫もちが昼間からまったりとしています。まったりしながらも、ギャーギャーとひっきりなしに鳴き続けるさくらです。 いつもこんなふうに２匹一緒で過ごしているのですが、これがもし飼い主さんが留守にしたら...\n飼い主さんの留守中の様子をWEBカメラでチェックしてみましょう！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/75452",
-          "publishedOn": "2024-06-27T00:00:18.000Z",
-          "wordCount": 1286,
-          "title": "飼い主さんの留守中の様子をWEBカメラでチェックしてみましょう！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75452.jpg"
         }
       ]
     },
