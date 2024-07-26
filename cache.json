@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/9bc76565b175e742980759699a91204461c7a0de?source=rss",
+          "author": null,
+          "description": "26日午前、大阪市平野区の府道でアンダーパスが冠水していて一部区間で一時通行止めになりました。また、付近では道路の陥没があり、一時トラックがはまって抜けられなくなりました。",
+          "link": "https://news.yahoo.co.jp/articles/9bc76565b175e742980759699a91204461c7a0de?source=rss",
+          "publishedOn": "2024-07-26T04:48:08.000Z",
+          "wordCount": 733,
+          "title": "大阪・平野区の府道で道路が陥没　そこにトラックがはまって抜け出せず　付近のアンダーパスは冠水(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240726-00010000-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/5fcf2d9d11074d1debf04ad10fbb0a09591e58de?source=rss",
           "author": null,
           "description": "和歌山市で２０２１年、当時２２歳の女性が死亡し、３人が重軽傷を負った多重事故で、検察がいったん不起訴処分にした女を、危険運転致死傷の罪で起訴したことが、関係者への取材で分かりました。\n\n　２０２１年",
@@ -2242,6 +2252,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cq5x1wryq27o#0",
+          "author": null,
+          "description": "アメリカのカマラ・ハリス副大統領とイスラエルのベンヤミン・ネタニヤフ首相が25日、米ワシントンで会談した。ハリス氏は、パレスチナ自治区ガザで多くの死傷者が出ていることについて「深刻な懸念」を伝えたと記者団に説明した。これに先立ち、ジョー・バイデン大統領もネタニヤフ氏とホワイトハウスで会談。ガザでの停戦合意に向けた双方の「溝」を埋めることに努めたと、米政府は説明した。",
+          "link": "https://www.bbc.com/japanese/articles/cq5x1wryq27o",
+          "publishedOn": "2024-07-26T04:39:07.000Z",
+          "wordCount": 1683,
+          "title": "ネタニヤフ氏、米正副大統領と個別に会談　ハリス氏は「戦争を終わらせる時」と伝える",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/d81b/live/e7f75aa0-4b02-11ef-8f0f-0577398c3339.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cz7e95088j9o#0",
           "author": null,
@@ -8805,16 +8825,6 @@
           "wordCount": 11531,
           "title": "Switch用ソフト『DROSドロス』が2024年7月11日に配信決定！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/dros-for-nintendo-switch-2024-0711-released.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=366805",
-          "author": "管理人",
-          "description": "Nintendo Switch用ソフト『リターン・トゥ・アビス』が、2024年7月18日に配信されることが決定しました。 販売価格は780円(税込)に設定されています。 本作は、画面に現れる10,000匹以上のモンスター […]",
-          "link": "https://ninten-switch.com/return-to-abyss-for-nintendo-switch-2024-0718-released",
-          "publishedOn": "2024-06-26T16:39:56.000Z",
-          "wordCount": 11515,
-          "title": "Switch用ソフト『リターン・トゥ・アビス』が2024年7月18日に配信決定！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/no-image-2024.webp"
         }
       ]
     },
