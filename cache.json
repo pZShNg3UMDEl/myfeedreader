@@ -3908,16 +3908,6 @@
           "wordCount": 2561,
           "title": "電力損失を半減させる「CoolGaN」ベースの双方向スイッチ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/01/cover_news032.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2406/27/news026.html",
-          "author": null,
-          "description": "オーバーヒート症状が出ているモータードライバーの修理の続きだ。今回は修理とともに、故障の再発を防ぐ措置も講じた。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2406/27/news026.html",
-          "publishedOn": "2024-06-28T01:00:00.000Z",
-          "wordCount": 2516,
-          "title": "突入電流防止回路がなぜ無い！ ―― パワー不足のモータドライバー電源の修理（後編）",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2406/27/cover_news026.jpg"
         }
       ]
     },
@@ -9091,6 +9081,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121687/",
+          "author": null,
+          "description": "松山ケンイチ、染谷将太が主演を務め、福田雄一監督がメガホンをとる「聖☆おにいさん THE MOVIE ホーリーメンVS悪魔軍団」の特報映像とホーリーメン変身ビジュアルが披露された。 原作は、異色...",
+          "link": "https://anime.eiga.com/news/121687/",
+          "publishedOn": "2024-07-27T13:00:00.000Z",
+          "wordCount": 738,
+          "title": "実写映画「聖☆おにいさん」イエスとブッダが最凶最悪の敵に立ち向かう特報、ホーリーメン変身ビジュアル公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121799/",
           "author": null,
           "description": "声優アーティスト・茅原実里のデビュー20周年記念写真集「Holiday」が7月25日に発売されたことを記念して、特別カットが公開された。水着姿の茅原のしっとりとした表情を切り取っている。さらに、...",
@@ -12374,6 +12379,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=10441",
+          "author": "watanabe@logipara.com",
+          "description": "二日目です！ 今日は列車に乗るためにバスと列車に乗り、そのあとバスに乗りました。ずーっと乗り物に乗ってるだけなのに疲れてます！なぜ！（答え:ずーっと呑んでるから） そろそろ内臓がアレな感じになってきましたか、明日も頑張り […]",
+          "link": "https://logipara.com/diary-text/2024-07-28/",
+          "publishedOn": "2024-07-27T12:59:28.000Z",
+          "wordCount": 4386,
+          "title": "列車に乗るために列車に乗る旅2日目",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=10439",
           "author": "watanabe@logipara.com",
@@ -19459,6 +19474,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=77364",
+          "author": "299",
+          "description": "勉強をしている飼い主さんのところに子猫がやってきて、邪魔をしてきます。テキストブックの上にどっかりと乗っかって目の色を変えて、楽しい遊びを見つけようとしています。 ページがめくられるたびに子猫が前足でページをペシペシと叩...\n勉強を邪魔する子猫に苦笑 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/77364",
+          "publishedOn": "2024-07-27T13:00:39.000Z",
+          "wordCount": 1346,
+          "title": "勉強を邪魔する子猫に苦笑",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77364.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=77359",
           "author": "299",
