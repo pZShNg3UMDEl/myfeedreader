@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T14:12:31.293Z</updated>
+    <updated>2024-07-28T14:27:22.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】阪急神戸線で人身事故、大阪梅田～新開地駅間で運転見合わせ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/cd736ecafd498b4251975618efcd34e49c7c6a02?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/cd736ecafd498b4251975618efcd34e49c7c6a02?source=rss"/>
+        <updated>2024-07-28T14:22:03.000Z</updated>
+        <summary type="html"><![CDATA[阪急電鉄によりますと、２８日午後１０時５６分ごろ、阪急神戸線の園田～神崎川駅間で発生した人身事故の影響で、大阪梅田～新開地駅間で運転を見合わせているということです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪府議・河内長野市選挙区補選、諸派・道端さんが初当選(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/e870a34044a01ce749376ffaad3fcdca1ccec44d?source=rss</id>
