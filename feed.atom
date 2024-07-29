@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-29T03:37:38.055Z</updated>
+    <updated>2024-07-29T03:50:32.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X（Twitter）、「Grok AI」データ収集の無効化オプションを追加。モバイル版では不可]]></title>
+        <id>https://gadget.phileweb.com/?p=81188</id>
+        <link href="https://gadget.phileweb.com/post-81188/"/>
+        <updated>2024-07-29T03:48:51.000Z</updated>
+        <summary type="html"><![CDATA[X（旧Twitter）は、同社のAI検索アシスタント「Grok」の訓練にユーザーの会話データを利用している。このデータ利用をオプトアウト（自分の情報を提供することを拒否する）できるオプションを追加した。今のところ、モバイルアプリ版では提供していない。 先週末にX公式アカウントは、ユーザーが自分の公開 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch版『Hidden Through Time 2: Discovery』が2024年8月8日に先行リリース決定！]]></title>
         <id>https://ninten-switch.com/?p=372750</id>
