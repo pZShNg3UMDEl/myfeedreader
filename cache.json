@@ -3770,6 +3770,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2407/29/news033.html",
+          "author": null,
+          "description": "ピカリング インターフェースは、PXIベースとLXIベースのシステム向けに、産業用デジタル入出力モジュール4ファミリーを発表した。高密度で高電圧、大電流を特徴とする。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2407/29/news033.html",
+          "publishedOn": "2024-07-29T00:00:00.000Z",
+          "wordCount": 2556,
+          "title": "高密度で高電圧、大電流のPXIデジタルI/Oモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/29/cover_news033.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2407/26/news113.html",
           "author": null,
           "description": "電動化が進む自動車の設計において、車載用エレクトロニクスに対する要求はどう変化しているのだろうか。コネクターなどを手掛けるMolexと、半導体／電子部品ディストリビューターのDigiKeyが解説する。",
@@ -12239,36 +12249,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121534/",
-          "author": null,
-          "description": "北米でA24ホラー史上最高の興行収入を記録した「TALK TO ME トーク・トゥ・ミー」（2023）の双子の兄弟監督ダニー＆マイケル・フィリッポウが、カプコンの対戦型格闘ゲーム「ストリートファ...",
-          "link": "https://anime.eiga.com/news/121534/",
-          "publishedOn": "2024-06-29T13:00:00.000Z",
-          "wordCount": 698,
-          "title": "「ストリートファイター」実写映画企画からフィリッポウ兄弟監督が降板",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121550/",
-          "author": null,
-          "description": "LiSAが、「怪盗グルー」シリーズ最新作「怪盗グルーのミニオン超変身」の吹き替え声優を務めていることがわかった。「ミニオンズ」から参加してきたLiSAに、ミニオンたちが吹き替え決定のサプライズを...",
-          "link": "https://anime.eiga.com/news/121550/",
-          "publishedOn": "2024-06-29T12:00:00.000Z",
-          "wordCount": 714,
-          "title": "LiSA、「怪盗グルーのミニオン超変身」の吹き替え声優に　サプライズ特別動画が公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -12602,16 +12582,6 @@
           "publishedOn": "2024-06-30T13:05:00.000Z",
           "wordCount": 4415,
           "title": "在庫切れ",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10340",
-          "author": "watanabe@logipara.com",
-          "description": "よく 「友達以上、恋人未満」 なんて言うけど、この年になるとそもそも友達ができないよね、という話をしながら飲みました。世界が平和になればいいと思う。",
-          "link": "https://logipara.com/diary-text/2024-06-30/",
-          "publishedOn": "2024-06-29T12:57:38.000Z",
-          "wordCount": 4412,
-          "title": "友達以上、恋人未満(大人の話)",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
@@ -13055,6 +13025,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=253637",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店、スーパーの最新グルメを紹介しています。   今回は、カップヌードルの新商品「カップヌードル 熱帯シーフード ビッグ」を世界一詳しく調査しました。   公式Yo […]",
+          "link": "https://foodfighter.jp/cupnoodle-nettai-seafood",
+          "publishedOn": "2024-07-29T00:58:26.000Z",
+          "wordCount": 1784,
+          "title": "【日清食品】カップヌードル 熱帯シーフード ビッグ【新作カップ麺】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/664dadf822890d151523187518fa92f4.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=253635",
           "author": "foodfighter",
@@ -14484,16 +14464,6 @@
           "wordCount": 1759,
           "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年6月23日から6月29日】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/c2d77b7a29d91f6a939a08afaebd5b6e.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=250585",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、カツカリーパン、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店 […]",
-          "link": "https://foodfighter.jp/komeda-katsu-curry-pan-2024",
-          "publishedOn": "2024-06-29T11:59:39.000Z",
-          "wordCount": 1930,
-          "title": "【コメダ珈琲店】カツカリーパン【定番メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/06/a18dfc29b98a88fad58547e40db25c8b.jpg"
         }
       ]
     },
@@ -19271,26 +19241,6 @@
           "wordCount": 2380,
           "title": "タワマン住民「隣に新しいタワマンができるなんて聴いてないの！景色見えなくなっちゃうのおおおお」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/b/4bc6064f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037043.html",
-          "author": "damono3856",
-          "description": "1 名前：香味焙煎 ★\n垢版 |\n2024/06/29(土) 15:57:58.22ID:LoubFDsL9\n\n\n\n\n\n\n\n新潟県の弥彦総合文化会館で「爆発あった」…男性１人死亡、３人重軽傷【参考出典元：読売新聞オンライン】https://t.co/HvOB2AV6Gn— 小西としクン / Toshi_ Konishi (@toshi_konishi) June ...",
-          "link": "https://itainews.com/archives/2037043.html",
-          "publishedOn": "2024-06-29T13:00:43.000Z",
-          "wordCount": 2523,
-          "title": "新潟県弥彦村の総合文化会館で「爆発あった」…４人負傷、うち１人心肺停止",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/6/968d4d41-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037036.html",
-          "author": "damono3856",
-          "description": "1 名前：PARADISE ★\n垢版 |\n2024/06/29(土) 11:24:20.11ID:1FGP+k129\n\n\n\n\n\n\n\n中国の鉄道車両メーカー、スパイ懸念や納入遅れで破談相次ぐ　日本に競り勝ったインドネシア高速鉄道は〝金食い虫〟に『鉄道なにコレ！？』【第６４回】　 | 2024/6/27 - 47NEWS https://t.co...",
-          "link": "https://itainews.com/archives/2037036.html",
-          "publishedOn": "2024-06-29T12:45:11.000Z",
-          "wordCount": 2469,
-          "title": "中国の鉄道車両メーカー、スパイ懸念や納入遅れで破談相次ぐ　日本に競り勝ったインドネシア高速鉄道は〝金食い虫〟に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/8/88d960c0-s.png"
         }
       ]
     },
@@ -19299,6 +19249,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=77505",
+          "author": "299",
+          "description": "アメリカのウエストバージニア州からの感動ストーリーのご紹介です。とあるカップルのところへ1匹の子猫がやってきました。 たまたま隣家から歩いてきている子猫の姿を見つけ、保護に至ったのです。相当な時間外での生活を送っていたせ...\n勇気をふりしぼり助けを求めてきた子猫の感動ストーリー first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/77505",
+          "publishedOn": "2024-07-29T00:00:15.000Z",
+          "wordCount": 1345,
+          "title": "勇気をふりしぼり助けを求めてきた子猫の感動ストーリー",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77505.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=77473",
           "author": "299",
@@ -22898,16 +22858,6 @@
           "wordCount": 1283,
           "title": "ベンガル猫のお母さんが子猫にかける優しい声に心がジワッとあたたかくなります",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75587.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=75575",
-          "author": "299",
-          "description": "キジトラの子猫は公園で保護されてからこの一時預かりのお家にやってきました。 この家には秋田犬のわんこがいますが、子猫は大きな秋田県には目もくれず、ボールのおもちゃに夢中になって遊んでいます。 秋田犬もとてもおとなしい性格...\n保護猫を静かに見守る秋田犬 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/75575",
-          "publishedOn": "2024-06-29T13:00:19.000Z",
-          "wordCount": 1289,
-          "title": "保護猫を静かに見守る秋田犬",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75575.jpg"
         }
       ]
     },
