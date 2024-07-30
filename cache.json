@@ -4000,6 +4000,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2407/30/news065.html",
+          "author": null,
+          "description": "コンガテックは、コンピュータオンモジュール「conga-SMX95」を発表した。NXPのアプリケーションプロセッサやAI、ML向けのNPU、ArmのGPUを搭載している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2407/30/news065.html",
+          "publishedOn": "2024-07-30T00:00:00.000Z",
+          "wordCount": 2565,
+          "title": "NXP「i.MX 95」プロセッサ搭載コンピュータオンモジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/30/cover_news065.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2407/29/news033.html",
           "author": null,
           "description": "ピカリング インターフェースは、PXIベースとLXIベースのシステム向けに、産業用デジタル入出力モジュール4ファミリーを発表した。高密度で高電圧、大電流を特徴とする。",
@@ -12644,36 +12654,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121533/",
-          "author": null,
-          "description": "フランスのファッションデザイナー、ジャン＝ポール・ゴルチエが、ベルギーのnWave Studiosによるタイトル未定の長編アニメーションで、アーティスティック・ディレクターを務めることが分かった...",
-          "link": "https://anime.eiga.com/news/121533/",
-          "publishedOn": "2024-06-30T13:00:00.000Z",
-          "wordCount": 675,
-          "title": "ジャン＝ポール・ゴルチエが長編アニメ企画に初参加",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121569/",
-          "author": null,
-          "description": "尾田栄一郎氏による人気コミックを実写化したNetflixシリーズ実写版「ONE PIECE」のシーズン2に登場する新キャストが、このほど発表された。ダニエル・ラスカー、キャムラス・ジョンソン、ジ...",
-          "link": "https://anime.eiga.com/news/121569/",
-          "publishedOn": "2024-06-30T12:00:00.000Z",
-          "wordCount": 769,
-          "title": "実写「ONE PIECE」に秘密犯罪結社バロックワークス登場　Mr.9、Mr.5、ミス・バレンタイン、Mr.3のキャストが発表",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -13007,16 +12987,6 @@
           "publishedOn": "2024-07-01T14:06:34.000Z",
           "wordCount": 4419,
           "title": "腹痛",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10342",
-          "author": "watanabe@logipara.com",
-          "description": "自社に自信をもっているハンズの店員： 「そこに無ければ無いですね(この世に)。」",
-          "link": "https://logipara.com/diary-text/2024-07-01/",
-          "publishedOn": "2024-06-30T13:05:00.000Z",
-          "wordCount": 4415,
-          "title": "在庫切れ",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
@@ -13450,6 +13420,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=253766",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「赤城乳業 たべる牧場パフェ ミルク＆チョコ」を世界一詳しく調査しました。   公式YouT […]",
+          "link": "https://foodfighter.jp/famima-taberu-milk-parfait-choco",
+          "publishedOn": "2024-07-30T00:20:57.000Z",
+          "wordCount": 1780,
+          "title": "【ファミマ】赤城乳業 たべる牧場パフェ ミルク＆チョコ【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/94f26cae09f3672bec55aba50b2c547c.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=253742",
           "author": "foodfighter",
@@ -19756,16 +19736,6 @@
           "wordCount": 2436,
           "title": "蓮舫「明治神宮外苑守れ！」　→蓮舫陣営幹部の前川喜平さん、「明治神宮の廃止」を主張してた",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/0/10f5f3d0-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037060.html",
-          "author": "damono3856",
-          "description": "1 名前：：2024/06/30(日) 07:16:22.37 ID:1xplgtA80●.net\n\n\n\n\n\n\n\n粗大ごみの中から現金9万円　警察に届け出ず処理施設の職員たちが焼き肉店での飲食に使用　見つけた現金で菓子やジュース購入…習慣化　広域連合が処分や指導　(NBS長野放送)#Yahooニュースhttps://t.co...",
-          "link": "https://itainews.com/archives/2037060.html",
-          "publishedOn": "2024-06-30T12:43:54.000Z",
-          "wordCount": 2499,
-          "title": "ゴミから現金9万円発見も処理施設の職員たちが飲食に使用　内部告発で発覚",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/e/2e95e82f-s.png"
         }
       ]
     },
@@ -19774,6 +19744,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=77572",
+          "author": "299",
+          "description": "お母さん猫の上に、なんと16匹もの子猫たちが群がっています。 おっぱいを飲もうと必死になっている子猫たちですが、全員がおっぱいにありつけるとは思えないので激しい争奪戦になっているのは明らかです。 ベストポジションをゲット...\n大量の子猫たちがお母さん猫の上に群がっている様子が凄まじすぎた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/77572",
+          "publishedOn": "2024-07-30T00:00:56.000Z",
+          "wordCount": 1346,
+          "title": "大量の子猫たちがお母さん猫の上に群がっている様子が凄まじすぎた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77572.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=77541",
           "author": "299",
@@ -23373,16 +23353,6 @@
           "wordCount": 1286,
           "title": "保護して3日目の子猫が甘えてくれるほど落ち着いてきたようです",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75651.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=75639",
-          "author": "299",
-          "description": "子猫がティシュペーパーの箱の中に前足を入れて中身を掻き出そうとしています。 このぐらいの子猫の時はティシュペーパーの箱が標的にされることが多く、気づけば中身が全部外に出されていて散乱しているという最悪の状況になることが多...\nティシュの箱をホリホリする子猫！中に入っていたのは？ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/75639",
-          "publishedOn": "2024-06-30T13:00:50.000Z",
-          "wordCount": 1286,
-          "title": "ティシュの箱をホリホリする子猫！中に入っていたのは？",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/06/75639.jpg"
         }
       ]
     },
