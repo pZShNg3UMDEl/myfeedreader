@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/cd11df92a2ce5564352d6a30bcfd8db2a27d4c45?source=rss",
+          "author": null,
+          "description": "３０日午前、大阪市天王寺区の交差点で車同士の事故があり、１台が横転しました。１人がけがをして病院に搬送されています。\n\n　３０日午前６時５０分ごろ、天王寺区上本町にある交差点で「車同士の事故」と消防",
+          "link": "https://news.yahoo.co.jp/articles/cd11df92a2ce5564352d6a30bcfd8db2a27d4c45?source=rss",
+          "publishedOn": "2024-07-30T03:41:33.000Z",
+          "wordCount": 821,
+          "title": "右折車と直進車の事故で１台横転　横転した車に乗っていた３０代男性が軽傷　大阪・天王寺区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240730-00046933-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/7fffb3ea03f78ac7967850f8fbb35d6ad8b2e5bd?source=rss",
           "author": null,
           "description": "徳島市で来月１１日に開幕する阿波踊りの桟敷席の組み立て作業が進んでいます。\n　徳島市の阿波おどり会場のひとつ、藍場浜演舞場では、強い日差しが照りつける中、作業員が桟敷席の設置作業を進めています。",
@@ -2732,6 +2742,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c3gd7pxgky5o#0",
+          "author": null,
+          "description": "パリ・オリンピック（五輪）は競技3日目の29日、日本勢の逆転での金メダル獲得が続いた。体操男子団体では、最終盤に中国を追い抜き、2大会ぶりの金メダル。スケートボード男子ストリートは、堀米雄斗が最後のトリックで最高点を挙げて五輪2連覇を果たした。馬術の総合馬術団体では、日本が3位に入り、団体としては初のメダルを獲得。柔道では、女子57キロ級の舟久保遥香と男子73キロ級の橋本壮市がともに銅メダルを手にした。日本は全体のメダル争いでトップに立っている。",
+          "link": "https://www.bbc.com/japanese/articles/c3gd7pxgky5o",
+          "publishedOn": "2024-07-30T03:36:56.000Z",
+          "wordCount": 1539,
+          "title": "【パリ五輪】 日本勢が相次ぎ逆転で金メダル、体操男子団体とスケボーの堀米雄斗　馬術や柔道でも銅3個",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/d76f/live/5d678f50-4e21-11ef-b52f-47a5ed5e3bee.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cy94zn1pqy3o#0",
           "author": null,
