@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/cc289f965b567ef7f30619ce46a7b3e17cc7baa4?source=rss",
+          "author": null,
+          "description": "大阪府警は留置していた７４歳の男性が体調不良で病院に搬送され、その後死亡したと発表しました。\n\n　警察によりますと、死亡した男性（７４）は６月下旬から不同意わいせつの疑いで城東署に留置されていました",
+          "link": "https://news.yahoo.co.jp/articles/cc289f965b567ef7f30619ce46a7b3e17cc7baa4?source=rss",
+          "publishedOn": "2024-07-31T10:30:52.000Z",
+          "wordCount": 800,
+          "title": "留置中の７４歳男性が体調不良で病院搬送後に死亡　持病なく遺体解剖し死因調査へ　大阪府警城東署(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240731-00046962-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/4ba8f8aafa0f2387b520d4dde55fe396dc399da1?source=rss",
           "author": null,
           "description": "夏休みの自由研究におすすめです。\n\n　大阪市立科学館は３５年ぶりに展示場が全面改装され、あす１日のリニューアルオープンを前に内覧会が開かれました。\n\n（記者リポート）「こちらの展示では、歩いた跡に光",
@@ -10120,6 +10130,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/stage_sugoi/121807/",
+          "author": null,
+          "description": "アニメ化する作品も多く、根強い人気を誇る「異世界転生系」。死んでしまった人が異世界で生まれ変わり活躍する物語で、「転スラ」こと「転生したらスライムだった件」はブームの火付け役としても知られている...",
+          "link": "https://anime.eiga.com/news/column/stage_sugoi/121807/",
+          "publishedOn": "2024-07-31T10:30:00.000Z",
+          "wordCount": 777,
+          "title": "【この2.5次元がすごい】劇場を異世界に変えてくれた　舞台「転生したらスライムだった件」第2弾",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/konki_ranking/121825/",
           "author": null,
