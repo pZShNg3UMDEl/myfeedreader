@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T17:15:15.820Z</updated>
+    <updated>2024-07-31T17:31:20.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Switch用ソフト『Phantom Spark』が2024年8月15日に配信決定！]]></title>
+        <id>https://ninten-switch.com/?p=373272</id>
+        <link href="https://ninten-switch.com/phantom-spark-for-nintendo-switch-2024-0815-released"/>
+        <updated>2024-07-31T17:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Phantom Spark』が、2024年8月15日に配信されることが決定しました。 販売価格は3,180円(税込)に設定されています。 『Phantom Spark』は、Swit […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch用ソフト『Pixel Retro Drift – Arcade Car Racing』が2024年8月22日に配信決定！]]></title>
         <id>https://ninten-switch.com/?p=373273</id>
@@ -29950,26 +29960,6 @@ BBCニュース - 海上でボトル発見、中身飲んだ漁師4人死亡　�
         <summary type="html"><![CDATA[オーストラリア連邦警察（AFP）は、携帯型のWi-Fiアクセスポイントを航空機の機内Wi-Fiに偽装し、アクセスしてきた乗客から個人情報を盗み取った男を逮捕、起訴した。 マイケル・クラプシスと名乗るこの男は、自分で用意したWi-Fiアクセスポイントを、機内や空港などにある公共のWi-Fiアクセスポイ […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo、スタイラスペン付属の14型モバイル液晶モニター「ThinkVision M14t Gen 2」]]></title>
-        <id>https://gadget.phileweb.com/?p=79265</id>
-        <link href="https://gadget.phileweb.com/post-79265/"/>
-        <updated>2024-07-02T05:28:33.000Z</updated>
-        <summary type="html"><![CDATA[レノボ・ジャパンは、解像度2240×1400、アスペクト比16：10の10点マルチタッチ対応14型モバイル液晶モニター「ThinkVision M14t Gen 2」を、本日2024年7月2日より発売する。価格は57,200円（税込）。 IPS方式の光沢液晶パネルを搭載した14型のモバイルモニター。 […]]]></summary>
-        <author>
-            <name>Gadget Gate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS5版ゲームがXbox Series Xより表現が優れていることが多い理由、専門家が説明]]></title>
-        <id>https://gadget.phileweb.com/?p=79274</id>
-        <link href="https://gadget.phileweb.com/post-79274/"/>
-        <updated>2024-07-02T05:18:53.000Z</updated>
-        <summary type="html"><![CDATA[ソニーのPlayStation 5とマイクロソフトのXbox Series Xは、単純にGPUのTFLOPS（「1秒間に浮動小数点演算を何兆回できるか」を表す数値）だけ比べれば、前者が12TFLOPS、後者が10.28FLOPSであり、Xboxが上回っている。 が、実際のゲームではPS5のパフォーマ […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
