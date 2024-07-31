@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T14:36:42.655Z</updated>
+    <updated>2024-07-31T14:50:34.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[外を歩ける(物理)]]></title>
+        <id>https://logipara.com/?p=10492</id>
+        <link href="https://logipara.com/diary-text/2024-08-01/"/>
+        <updated>2024-07-31T14:46:26.000Z</updated>
+        <summary type="html"><![CDATA[さきほど、都内で呑んで、その帰りに駅まで少し歩いたんですよ。 直前に大雨があったせいか、気温がぐっと下がってて、みんなで 「すごく涼しい！！外を普通に歩ける！」 「地下を通らなくても、地上を歩けるぐらい涼しい！！すごい！ […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子猫が心配で、ついつい過保護になるシェパード]]></title>
         <id>https://2-9-9.com/?p=77637</id>
@@ -29961,44 +29971,6 @@ BBCニュース - 海上でボトル発見、中身飲んだ漁師4人死亡　�
         <summary type="html"><![CDATA[「ラブライブ！サンシャイン!!」の公式スピンオフ作品「幻日のヨハネ ‐SUNSHINE in the MIRROR‐」の劇場総集編の制作が決定した。また「ラブライブ！サンシャイン!!」と同作に登...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【STU48】京急の駅表示が「あまりにも初見殺し過ぎて」　瀬戸内アイドルが驚愕「ないちゃった」]]></title>
-        <id>https://itainews.com/archives/2037103.html</id>
-        <link href="https://itainews.com/archives/2037103.html"/>
-        <updated>2024-07-02T02:46:06.000Z</updated>
-        <summary type="html"><![CDATA[1 ：征夷大将軍 ★：2024/07/01(月) 15:19:06.46 ID:POwOwuOl9.net
-
-
-
-
-
-
-
-
-あまりにも初見殺し過ぎてないちゃった; ̫ ; pic.twitter.com/riFn8lizwl— 福田 朱里 (STU48)🍎 (@FUKUAKARI_STU48) June 29, 2024 
-
-
-
-
-
-
-
-
-https://www.j-cast.com/images/2024/06/news_202...]]></summary>
-        <author>
-            <name>yonepo665sfr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【すき家】シーフードカレー・大盛り【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=250861</id>
-        <link href="https://foodfighter.jp/sukiya-seafood-curry"/>
-        <updated>2024-07-02T02:42:53.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
