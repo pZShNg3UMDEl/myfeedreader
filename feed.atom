@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T22:13:47.671Z</updated>
+    <updated>2024-07-31T22:29:51.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】ＪＲで線路トラブル　ＪＲ琵琶湖線、京都線、神戸線、学研都市線、東西線、宝塚線で運転見合わせ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c9adbd631642c8d3cde56f70719df7c6fb8b50ec?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c9adbd631642c8d3cde56f70719df7c6fb8b50ec?source=rss"/>
+        <updated>2024-07-31T22:18:06.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと、１日午前６時５０分ごろ、ＪＲ京都線の摂津富田駅とＪＲ総持寺駅間で線路トラブルが発生しました。
+
+　この影響で、広い範囲で順次運転を見合わせるということです。運転再開は午前８時]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チンチラの子猫のいちごちゃんがすでに美猫だった]]></title>
         <id>https://2-9-9.com/?p=77656</id>
@@ -29927,16 +29939,6 @@ https://www.nikk...]]></summary>
         <summary type="html"><![CDATA[6月28日～30日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、28日公開の新作「それいけ！アンパンマン ばいきんまんとえほんのルルン」が首位スタートを切った。やなせたかし...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャープ、新スマホ「AQUOS R9/wish4」でデザイン刷新。“自由曲線”で目指したのは「親近感」]]></title>
-        <id>https://gadget.phileweb.com/?p=79327</id>
-        <link href="https://gadget.phileweb.com/post-79327/"/>
-        <updated>2024-07-02T10:29:02.000Z</updated>
-        <summary type="html"><![CDATA[シャープは、7月4日より順次発売を開始するスマートフォン新モデル「AQUOS R9」「AQUOS wish4」のメディア向けタッチ＆トライ体験会を、7月2日に都内で開催した。本稿ではその模様をレポートしたい。 「AQUOS R9」は、ライカカメラ社監修の高画質カメラや、高度な処理性能を備えるというハ […]]]></summary>
-        <author>
-            <name>編集部：伴 修二郎</name>
         </author>
     </entry>
 </feed>
