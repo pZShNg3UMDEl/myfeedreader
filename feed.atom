@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T09:16:49.553Z</updated>
+    <updated>2024-07-31T09:36:08.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【マクドナルド】マカロン ばなな【マックカフェ・新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=253962</id>
+        <link href="https://foodfighter.jp/mccafe-macaron-banana"/>
+        <updated>2024-07-31T09:22:15.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouTube […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「逮捕状が出ていて資産調査する」中国の公安警察になりすまし　大阪在住の中国人女性から３億円詐取　今年最高額の特殊詐欺被害額(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/95d1f8046fad48569812b87b15932a9b62189f19?source=rss</id>
@@ -29753,16 +29763,6 @@ https://www.j-cast.com/images/2024/06/news_202...]]></summary>
 少々長文ですが私がペットボトル症候群から糖尿病になり人工透析に至った顛末をお話しますことの発端は1998年の夏当時ＴＶでもバンバンCMしていた「桃の天然...]]></summary>
         <author>
             <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“AI PC”を支える「Snapdragon X」シリーズ。クアルコムジャパン副社長が語る日本の展望]]></title>
-        <id>https://gadget.phileweb.com/?p=79233</id>
-        <link href="https://gadget.phileweb.com/post-79233/"/>
-        <updated>2024-07-01T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米クアルコムが、 “AI PC” を想定したコンピューティング向けプラットフォーム「Snapdragon Xシリーズ」のラインナップを強化している。日本でも今夏から発売されるコンシューマ向けの “AI PC” に、クアルコムのチップを載せた製品が出揃うことになりそうだ。 クアルコムジャパンの副社長で […]]]></summary>
-        <author>
-            <name>山本 敦</name>
         </author>
     </entry>
 </feed>
