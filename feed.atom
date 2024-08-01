@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T09:27:53.506Z</updated>
+    <updated>2024-08-01T09:38:06.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「アンデッドアンラック」新作アニメ製作決定　25年冬に1時間SPで展開]]></title>
+        <id>https://anime.eiga.com/news/121837/</id>
+        <link href="https://anime.eiga.com/news/121837/"/>
+        <updated>2024-08-01T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「アンデッドアンラック」の新作アニメの製作が決定し、1時間スペシャルとして205年冬に展開予定であることが分かった。あわせて、超ティザービジュアルと超ティザーPVが披露されている。作中でア...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＪＲ宝塚線や東西線に遅れ　踏切の非常ボタンや遮断棒折れた影響　(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/63c71e4321a3e55114a682d01cc25c44f27afda7?source=rss</id>
@@ -30280,16 +30290,6 @@ https://www.nikk...]]></summary>
 深夜にドリフト運転を繰り返した疑いで「師...]]></summary>
         <author>
             <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“1万円以下”入門スマートウォッチを3機種比較！ HUAWEI、Xiaomi、Amazfitの違いは？]]></title>
-        <id>https://gadget.phileweb.com/?p=78101</id>
-        <link href="https://gadget.phileweb.com/post-78101/"/>
-        <updated>2024-07-02T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[年々人気が高まりつつあるスマートウォッチ。スマートフォンの通知確認だけでなく、歩数や睡眠記録を取って健康面の気づきにも役立つ。 Apple WatchやPixel Watch、Galaxy Watchなどハイエンドな製品は、画面が大きく見やすい。さらに、アプリをインストールして動作をカスタマイズでき […]]]></summary>
-        <author>
-            <name>山本竜也</name>
         </author>
     </entry>
 </feed>
