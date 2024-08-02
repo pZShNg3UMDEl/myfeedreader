@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T04:39:45.624Z</updated>
+    <updated>2024-08-02T04:50:27.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【パリ五輪】 テニス男子の英マリー、複準々決勝で敗退　引退へ]]></title>
+        <id>https://www.bbc.com/japanese/articles/ckkgk3x33gvo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/ckkgk3x33gvo"/>
+        <updated>2024-08-02T04:39:25.000Z</updated>
+        <summary type="html"><![CDATA[イギリスを代表するテニス選手アンディ・マリーが1日、パリ・オリンピック（五輪）の男子ダブルス準々決勝でストレート負けし、輝かしいキャリアの終わりを迎えた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デスクトップ版Chrome、閲覧履歴を自然な会話文で検索可能に。Lens機能も追加へ]]></title>
         <id>https://gadget.phileweb.com/?p=81605</id>
@@ -30229,26 +30239,6 @@ KADOKAWAグループ、セキュリティエンジニア募集中　最大年収
         <link href="https://ninten-switch.com/puzzle-playground-for-nintendo-switch-2024-0711-released"/>
         <updated>2024-07-03T16:56:26.000Z</updated>
         <summary type="html"><![CDATA[Nintendo Switch用ソフト『Puzzle Playground』が、国内向けとして2024年7月11日に配信されることが決定しました。 販売価格は1,000円(税込)に設定されています。 本作は、お子様や、幼 […]]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch用ソフト『siMarket Supermarket Simulator』が2024年7月12日に配信決定！]]></title>
-        <id>https://ninten-switch.com/?p=367911</id>
-        <link href="https://ninten-switch.com/simarket-supermarket-simulator-for-nintendo-switch-2024-0712-released"/>
-        <updated>2024-07-03T16:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo Switch用ソフト『siMarket Supermarket Simulator : シマーケット スーパーマーケット シミュレーター』が、2024年7月12日に配信されることが決定しました。 販売価 […]]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch用ソフト『Moonshine Inc.』が2024年7月11日に配信決定！]]></title>
-        <id>https://ninten-switch.com/?p=367909</id>
-        <link href="https://ninten-switch.com/moonshine-inc-for-nintendo-switch-2024-0711-released"/>
-        <updated>2024-07-03T16:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Moonshine Inc.』が、2024年7月11日に配信されることが決定しました。 販売価格は2,300円(税込)に設定されていますが、2024年7月10日 23時59分までは […]]]></summary>
         <author>
             <name>管理人</name>
         </author>
