@@ -10621,6 +10621,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121844/",
+          "author": null,
+          "description": "ショートアニメ「おでかけ子ザメ」の新シリーズが、映画として公開されることが分かった。あわせて、ティザービジュアルと特報が披露されている。 同作は、ペンギンボックス氏によるX発の漫画が原作（KAD...",
+          "link": "https://anime.eiga.com/news/121844/",
+          "publishedOn": "2024-08-03T09:00:00.000Z",
+          "wordCount": 756,
+          "title": "「おでかけ子ザメ」新シリーズは映画として公開　子ザメちゃんが夜の都会を歩く特報披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121829/",
           "author": null,
           "description": "テレビアニメ「ちびまる子ちゃん」の特別回「まる子と涼もう！夏の怪談スペシャル」が8月4、11、18、25日の4週連続で放送される。各週とも前半パートは通常エピソード、後半パートは怪談要素を取り入...",
@@ -14545,6 +14560,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=254242",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年7月27日から8月2日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキングし […]",
+          "link": "https://foodfighter.jp/bento-ranking-2024-0803",
+          "publishedOn": "2024-08-03T08:46:29.000Z",
+          "wordCount": 1762,
+          "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年7月27日から8月2日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/2718f554661528924ff23b137a50e5b8.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=254240",
           "author": "foodfighter",
