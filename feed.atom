@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-03T17:26:49.324Z</updated>
+    <updated>2024-08-03T17:37:54.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
@@ -30520,26 +30520,6 @@ JUST IN!! 新着記事⠀ /／　　　　　　　　　🗣ドラッグスト�
         <summary type="html"><![CDATA[アップルがディスプレイを備えた新型HomePodを開発中との噂が囁かれてから、はや数年が経った。上部にタッチスクリーンを備えた試作機と称するデバイスの写真も登場していたが、いまだに実際の製品は発売されていない。 それが実在すると裏付けるように、新たな「ホームアクセサリー」の識別子がアップルのバックエ […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本最大のAnker Store、渋谷に8月1日オープン]]></title>
-        <id>https://gadget.phileweb.com/?p=79651</id>
-        <link href="https://gadget.phileweb.com/post-79651/"/>
-        <updated>2024-07-05T05:35:59.000Z</updated>
-        <summary type="html"><![CDATA[アンカー・ジャパンの子会社であるアンカー・ストアは、「Anker Store 渋谷」を8月1日にオープンする。全国で28店舗目となっており、最大面積を誇る旗艦店だとしている。 Ankerグループの400製品以上を取り揃える直営店。初の2フロア構成で、渋谷公園通り沿いの路面店となっている。現在渋谷にあ […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac版「ChatGPT」、AIとのチャット内容を暗号化せず平文保存していた]]></title>
-        <id>https://gadget.phileweb.com/?p=79674</id>
-        <link href="https://gadget.phileweb.com/post-79674/"/>
-        <updated>2024-07-05T05:27:51.000Z</updated>
-        <summary type="html"><![CDATA[mac版ChatGPTアプリに見つかった潜在的な脆弱性から、OpenAIはユーザーがAIと行ったチャットの記録をプレーンテキスト文として保存していたことが判明した。 これは、もしChatGPTのサービスが悪意あるハッカーなどから攻撃を受け、侵入されたとき、ユーザーがどんな会話をしたり、その中に含まれ […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
         </author>
     </entry>
 </feed>
