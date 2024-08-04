@@ -7042,16 +7042,6 @@
           "wordCount": 3682,
           "title": "Albert Theuwissen lecture on CIS stacking technology",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEqXOrfB7PoKCff326ZTLA8YSG61hk-jg9PwoZKWIx8WtrIlT7nnNklojhvd1MY-z-3L4iFr-KVeNXMdTOZttU7hx23NZoIOjdQkbLebgM6XKQLg7E4hkf8lN6Sn1GRmvut3GWrG0HQ_zQHvlM7rLJOpcvQFSiyxMpJ3vtiM5vl5R9_FnKBGV/w1200-h630-p-k-no-nu/ePicture_2023_Keynote_Albert_Theuwissen_Page_01.png"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/07/videos-du-jour-under-display-cameras.html",
-          "author": null,
-          "description": "Designing Phase Masks for Under-Display Cameras\n\nDiffractive blur and low light levels are two fundamental challenges in producing high-quality photographs in under-display cameras (UDCs). In this paper, we incorporate phase masks on display panels to tackle both challenges. Our design inserts two phase masks, specifically two microlens arrays, in front of and behind a display panel. The first phase mask concentrates light on the locations where the display is transparent so that more light passes through the display, and the second phase mask reverts the effect of the first phase mask. We further optimize the folding height of each microlens to improve the quality of PSFs and suppress chromatic aberration. We evaluate our design using a physically-accurate simulator based on Fourier optic…",
-          "link": "http://image-sensors-world.blogspot.com/2024/07/videos-du-jour-under-display-cameras.html",
-          "publishedOn": "2024-07-05T16:00:00.002Z",
-          "wordCount": 4242,
-          "title": "Videos du jour : under display cameras, SPADs",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t4T2zMs_NOqsrvEnzogfKCxx-cCvYFt6KQ0TNRtNi4jawk2SCZm_gIgW0ZHwqk5FPRznXMD0KVcrj8U_dDjIzkTTr9CTg-gAAR3KPo1HQYBViY8Q=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -10480,6 +10470,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121835/",
+          "author": null,
+          "description": "テレビアニメ化もされた人気漫画を実写映画化する「はたらく細胞」の追加キャストが発表され、山本耕史、仲里依紗、松本若菜、マイカ・ピュが出演していることがわかった。新キャラクターが加わったポスタービ...",
+          "link": "https://anime.eiga.com/news/121835/",
+          "publishedOn": "2024-08-04T04:00:00.000Z",
+          "wordCount": 772,
+          "title": "実写「はたらく細胞」キラーT細胞の山本耕史、NK細胞役の仲里依紗、松本若菜ら新キャスト発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121845/",
           "author": null,
@@ -15739,16 +15744,6 @@
           "wordCount": 1758,
           "title": "【ファミマ】ブリーフ団監修 ドーン！と黒胡椒チーズ味ポテトチップス【新作コンビニお菓子】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/f71388ff679b59ef938313472ffe868d.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=251316",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年6月29日から7月5日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキン […]",
-          "link": "https://foodfighter.jp/ranking-2024-0706",
-          "publishedOn": "2024-07-05T16:12:31.000Z",
-          "wordCount": 1747,
-          "title": "【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年6月29日から7月5日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/4601f72685ee4fd34b35bce38c65bb71.jpg"
         }
       ]
     },
@@ -20724,6 +20719,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=77873",
+          "author": "299",
+          "description": "今回ご紹介するのはブランコの上でくつろいでしまう猫ちゃんです。 ブランコはただ天井から吊っているだけなので、終始ユラユラ。 この程よい揺れが気持ちいいのか、猫ちゃんはグデーっと幸せそうに寝転がっていました。 ブランコの虜...\nブランコ最高ニャ～ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/77873",
+          "publishedOn": "2024-08-04T04:00:32.000Z",
+          "wordCount": 1358,
+          "title": "ブランコ最高ニャ～",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77873.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=77869",
           "author": "299",

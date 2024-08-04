@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-04T03:50:29.995Z</updated>
+    <updated>2024-08-04T04:18:30.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブランコ最高ニャ～]]></title>
+        <id>https://2-9-9.com/?p=77873</id>
+        <link href="https://2-9-9.com/archives/77873"/>
+        <updated>2024-08-04T04:00:32.000Z</updated>
+        <summary type="html"><![CDATA[今回ご紹介するのはブランコの上でくつろいでしまう猫ちゃんです。 ブランコはただ天井から吊っているだけなので、終始ユラユラ。 この程よい揺れが気持ちいいのか、猫ちゃんはグデーっと幸せそうに寝転がっていました。 ブランコの虜...
+ブランコ最高ニャ～ first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実写「はたらく細胞」キラーT細胞の山本耕史、NK細胞役の仲里依紗、松本若菜ら新キャスト発表]]></title>
+        <id>https://anime.eiga.com/news/121835/</id>
+        <link href="https://anime.eiga.com/news/121835/"/>
+        <updated>2024-08-04T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テレビアニメ化もされた人気漫画を実写映画化する「はたらく細胞」の追加キャストが発表され、山本耕史、仲里依紗、松本若菜、マイカ・ピュが出演していることがわかった。新キャラクターが加わったポスタービ...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大玉で甘さたっぷり　夏の風物詩「神鍋高原スイカ」の出荷　兵庫・豊岡市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/6dcb36804c9a6a60267f72f682ed3fa007e49dfb?source=rss</id>
@@ -30140,28 +30161,6 @@ https://www3.nhk....]]></summary>
 野良の子猫も5日もすればすっかり甘えん坊さんに変身！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年6月29日から7月5日】]]></title>
-        <id>https://foodfighter.jp/?p=251316</id>
-        <link href="https://foodfighter.jp/ranking-2024-0706"/>
-        <updated>2024-07-05T16:12:31.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年6月29日から7月5日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキン […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Videos du jour : under display cameras, SPADs]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/07/videos-du-jour-under-display-cameras.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/07/videos-du-jour-under-display-cameras.html"/>
-        <updated>2024-07-05T16:00:00.002Z</updated>
-        <summary type="html"><![CDATA[Designing Phase Masks for Under-Display Cameras
-
-Diffractive blur and low light levels are two fundamental challenges in producing high-quality photographs in under-display cameras (UDCs). In this paper, we incorporate phase masks on display panels to tackle both challenges. Our design inserts two phase masks, specifically two microlens arrays, in front of and behind a display panel. The first phase mask concentrates light on the locations where the display is transparent so that more light passes through the display, and the second phase mask reverts the effect of the first phase mask. We further optimize the folding height of each microlens to improve the quality of PSFs and suppress chromatic aberration. We evaluate our design using a physically-accurate simulator based on Fourier optic…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
