@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/fa82207f83a3128e7069bf0137038ae8b96a8334?source=rss",
+          "author": null,
+          "description": "ＳＮＳ上で著名人などをかたり投資に勧誘するＳＮＳ型投資詐欺に遭い、大阪府内に住む６０代の２人が、計２億円以上をだまし取られました。\n\n　警察によりますと、府内に住む６０代の女性は去年１２月、「経済ア",
+          "link": "https://news.yahoo.co.jp/articles/fa82207f83a3128e7069bf0137038ae8b96a8334?source=rss",
+          "publishedOn": "2024-08-05T08:59:31.000Z",
+          "wordCount": 775,
+          "title": "「森永卓郎さんからアドバイス」ＳＮＳ型投資詐欺　６０代２人が計２億円以上だまし取られる　大阪(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240805-00047018-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/4f11b3ec1eade183d8b5e673349dc908d15cad74?source=rss",
           "author": null,
           "description": "５日午前９時ごろ、兵庫県淡路市にある検査場から、出荷を控えた子牛、１頭が逃げ出しました。\n\n　現在も見つかっておらず、警察は住民に注意を呼びかけています。\n\n　逃げ出したのは、体長約１メートル５０セ",
@@ -3612,6 +3622,26 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cg5888yn051o#0",
+          "author": null,
+          "description": "イギリス各地で週末にかけて騒乱が相次ぎ、150人以上が逮捕された。イングランド北部ロザラムでは移民排斥を主張する集団が、難民申請中の人たちの宿泊施設を襲撃し放火した。キア・スターマー英首相はこの事態を受けて4日にテレビ演説を行い、「極右の暴徒」には「法律の全威力」をもって厳正に対応すると約束した。",
+          "link": "https://www.bbc.com/japanese/articles/cg5888yn051o",
+          "publishedOn": "2024-08-05T08:52:38.000Z",
+          "wordCount": 1023,
+          "title": "スターマー英首相、各地の暴動は「暴力であり犯罪であって抗議行動ではない」",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/4090/live/1016a250-5307-11ef-b2d2-cdb23d5d7c5b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5yddd9755eo#0",
+          "author": null,
+          "description": "バングラデシュで4日、警察と反政府デモ参加者との衝突が悪化し、少なくとも90人が死亡した。この衝突は、学生の指導者らがシェイク・ハシナ首相の退陣を要求する市民的不服従運動を宣言したことを受けたもの。",
+          "link": "https://www.bbc.com/japanese/articles/c5yddd9755eo",
+          "publishedOn": "2024-08-05T08:51:02.000Z",
+          "wordCount": 1413,
+          "title": "バングラデシュの反政府抗議で少なくとも90人死亡　首相退陣求め市民的不服従運動を開始",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/effb/live/0d33a370-5303-11ef-b2d2-cdb23d5d7c5b.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cvg444ejvz4o#0",
           "author": null,
@@ -10840,6 +10870,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121858/",
+          "author": null,
+          "description": "堀越耕平氏の漫画「僕のヒーローアカデミア」の完結を記念して、全世界人気投票「WORLD BEST HERO」が実施される。また、アメリカの新聞「The New York Times」8月5日朝刊...",
+          "link": "https://anime.eiga.com/news/121858/",
+          "publishedOn": "2024-08-05T09:00:00.000Z",
+          "wordCount": 790,
+          "title": "「ヒロアカ」全世界キャラクター人気投票が開催　原作者・堀越耕平のコメントがニューヨークタイムズ掲載",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121788/",
           "author": null,
