@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T23:16:16.499Z</updated>
+    <updated>2024-08-05T23:36:19.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】ＪＲ和歌山線　王寺ー五条駅で遅れ　大雨の影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c77de3821069b1eb80c20423fd793ee1f4e3f28f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c77de3821069b1eb80c20423fd793ee1f4e3f28f?source=rss"/>
+        <updated>2024-08-05T23:18:21.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと、６日午前５時２４分ごろから、大雨の影響で和歌山線の高田ー北宇智駅間で徐行運転をしました。この影響で王寺ー五条駅間で列車の運転に遅れがでているということです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】路上で高齢女性を殺害しようとしたか　男が現行犯逮捕　大阪・門真市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/e209e8faec1dc3e24f37d88cdbb9fa48f0bd4dc5?source=rss</id>
@@ -30764,16 +30774,6 @@ https://i.imgur.com/Fr7ILYI.jpeg
 警視...]]></summary>
         <author>
             <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】セブンプレミアム 魚介とんこつスープ【新作カップスープ】]]></title>
-        <id>https://foodfighter.jp/?p=251459</id>
-        <link href="https://foodfighter.jp/711sej-gyokai-tonkotsu-soup"/>
-        <updated>2024-07-07T11:25:26.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 魚介とんこつスープ」を世界一詳しく調査しました。   公式YouTubeチ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
