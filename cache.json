@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/a9d34f9bf8dadcd16f4ab3d72f7fec60bef9678d?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと、５日午前１０時すぎ、大阪市都島区で約１０４０軒の停電が起きているということです。復旧は午後０時５０分ごろの見込みです。",
+          "link": "https://news.yahoo.co.jp/articles/a9d34f9bf8dadcd16f4ab3d72f7fec60bef9678d?source=rss",
+          "publishedOn": "2024-08-05T01:30:47.000Z",
+          "wordCount": 748,
+          "title": "【速報】大阪市都島区で約１０４０軒が停電(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240805-00047007-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/63ca91ded2a2c2a287ae9e5609b4530975a05eef?source=rss",
           "author": null,
           "description": "４日未明、大阪府岸和田市の府道で、５４歳の女性が倒れているのが見つかり、その後死亡が確認されました。女性のそばには自転車が倒れていました。\n\n　警察によりますと、４日午前３時ごろ、岸和田市額原町の府",
@@ -3513,6 +3523,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cp08844n1gzo#0",
+          "author": null,
+          "description": "イギリス各地で週末にかけて騒乱が相次ぎ、150人以上が逮捕された。イングランド北部ロザラムでは移民排斥を主張する集団が、難民申請中の人たちの宿泊施設を襲撃し放火した。キア・スターマー英首相はこの事態を受けて4日にテレビ演説を行い、「極右の暴徒」には「法律の全威力」をもって厳正に対応すると約束した。",
+          "link": "https://www.bbc.com/japanese/articles/cp08844n1gzo",
+          "publishedOn": "2024-08-05T02:03:35.000Z",
+          "wordCount": 1439,
+          "title": "スターマー英首相、「極右の暴徒」に厳正な処罰約束　イギリス各地で騒乱",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/df81/live/866bc000-52c8-11ef-b2d2-cdb23d5d7c5b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c4nggmdpnkro#0",
+          "author": null,
+          "description": "パリ・オリンピック（五輪）は競技9日目の4日、フェンシング男子フルーレ団体で日本が金メダルを獲得した。これで今大会、フェンシングの日本勢は過去最多のメダル5個を手にした。ゴルフ男子では松山英樹が銅メダルを勝ち取った。ゴルフ男子での日本のメダル獲得は初。",
+          "link": "https://www.bbc.com/japanese/articles/c4nggmdpnkro",
+          "publishedOn": "2024-08-05T01:45:53.000Z",
+          "wordCount": 1490,
+          "title": "【パリ五輪】 フェンシング男子フルーレ団体が金メダル　ゴルフの松山英樹は銅",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/0bcf/live/70e92550-52c4-11ef-be91-addca86a97bb.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c4ngg684kx7o#0",
           "author": null,
           "description": "イギリス各地で3日、極右支持者の抗議行動が暴動や騒乱となり、90人以上が逮捕された。スターマー英首相は、各地の警察を政府として「全面的に支援」し、「憎悪を広めようとしている」「過激派」にしかるべき行動をとると表明した。",
@@ -5289,6 +5319,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2407/26/news019.html",
+          "author": null,
+          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、中級者の方からよく質問される「USB Type-Cの電源制御方法」についてです。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2407/26/news019.html",
+          "publishedOn": "2024-08-05T01:00:00.000Z",
+          "wordCount": 2589,
+          "title": "USB Type-Cの電源制御ってどうやっているの？",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/26/cover_news019.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2408/05/news049.html",
           "author": null,
@@ -14406,6 +14446,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=254358",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店、スーパーの最新グルメを紹介しています。   今回は、カップヌードルの新商品「カップヌードル レモンシーフードヌードル」を世界一詳しく調査しました。   公式Y […]",
+          "link": "https://foodfighter.jp/cupnoodle-lemon-seafood",
+          "publishedOn": "2024-08-05T01:47:08.000Z",
+          "wordCount": 1780,
+          "title": "【日清食品】カップヌードル レモンシーフードヌードル【新作カップ麺】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/927665f624d87c56086c5b8905ecd4f9.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=254335",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「サンシャインパインフラペチーノ」を世界一詳しく調査しました。   公式 […]",
@@ -20729,6 +20779,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=77927",
+          "author": "299",
+          "description": "この日、スコティッシュフォールドの子猫、こむぎさんを迎え入れました。家族にとっても子猫にとっても特別な1日となったようです。 初めて見る家の中ですが、こむぎは警戒している様子もなく、いきなり家の中の探検を開始しました。 ...\nワクワクドキドキ！スコティッシュの子猫をお迎えした初日 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/77927",
+          "publishedOn": "2024-08-05T02:00:56.000Z",
+          "wordCount": 1345,
+          "title": "ワクワクドキドキ！スコティッシュの子猫をお迎えした初日",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77927.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=77951",
           "author": "299",
