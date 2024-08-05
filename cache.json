@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/e43e708802124b1155bccaa31eed03cfaf972be1?source=rss",
+          "author": null,
+          "description": "パリオリンピック男子フルーレ団体で日本は初の金メダルを獲得しましたが、京都の龍谷大平安高校出身の飯村一輝選手の活躍が光りました。\n\n　フェンシング男子フルーレ団体、この種目の日本史上初の金メダルを掛",
+          "link": "https://news.yahoo.co.jp/articles/e43e708802124b1155bccaa31eed03cfaf972be1?source=rss",
+          "publishedOn": "2024-08-05T03:34:10.000Z",
+          "wordCount": 763,
+          "title": "「小さい時から金メダル目標に頑張っているのを見ていた」　フェンシング・飯村一輝選手の母校から祝福の声(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240805-00047008-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a9d34f9bf8dadcd16f4ab3d72f7fec60bef9678d?source=rss",
           "author": null,
           "description": "関西電力送配電によりますと、５日午前１０時すぎ、大阪市都島区で約１０４０軒の停電が起きているということです。復旧は午後０時５０分ごろの見込みです。",
@@ -3523,6 +3533,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cg3eelw4yvyo#0",
+          "author": null,
+          "description": "パリ・オリンピック（五輪）は4日、陸上男子100メートルの 決勝 があり、アメリカのノア・ライルズが自己ベストの9秒79で金メダルを獲得した。銀メダルのジャマイカのキシャネ・トンプソンとは1000分の5秒差だった。",
+          "link": "https://www.bbc.com/japanese/articles/cg3eelw4yvyo",
+          "publishedOn": "2024-08-05T03:27:04.000Z",
+          "wordCount": 1482,
+          "title": "【パリ五輪】 陸上男子100メートル、米ライルズが金メダル　1000分の5秒差",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/43d6/live/2325d430-52d8-11ef-aebc-6de4d31bf5cd.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cp08844n1gzo#0",
           "author": null,
           "description": "イギリス各地で週末にかけて騒乱が相次ぎ、150人以上が逮捕された。イングランド北部ロザラムでは移民排斥を主張する集団が、難民申請中の人たちの宿泊施設を襲撃し放火した。キア・スターマー英首相はこの事態を受けて4日にテレビ演説を行い、「極右の暴徒」には「法律の全威力」をもって厳正に対応すると約束した。",
@@ -5597,6 +5617,36 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=81689",
+          "author": "多根清史",
+          "description": "半導体大手NVIDIAは、ここ数年の生成AIブームを追い風に時価総額でマイクロソフトを追い抜き、世界で最も価値ある企業となっていた。今や同社のAIチップなくして、AIビジネスを続けることも立ち上げることも困難となっている。 その市場支配力を乱用して顧客に圧力をかけているとの苦情を受けて、米司法省が調 […]",
+          "link": "https://gadget.phileweb.com/post-81689/",
+          "publishedOn": "2024-08-05T03:09:03.000Z",
+          "wordCount": 714,
+          "title": "NVIDIA、AMDなどライバルからAIチップを買う顧客に圧力？米司法省が調査中か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/shutterstock_2425904837.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=81698",
+          "author": "Munenori Taniguchi",
+          "description": "OpenAIは、学生が宿題や課題の回答をChatGPTに書かせる不正行為について、それをあぶり出す手法を研究しているものの、それをリリースすることに関しては「慎重なアプローチ」をとっていると述べた。 同社が研究しているのは、ChatGPTが生成するテキストのなかに特殊なパターンを埋め込んで、そのテキ […]",
+          "link": "https://gadget.phileweb.com/post-81698/",
+          "publishedOn": "2024-08-05T03:01:03.000Z",
+          "wordCount": 703,
+          "title": "OpenAI、ChatGPTに宿題をさせる学生をあぶり出す「テキスト透かし」を研究中",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/Paulm1993_Shutterstock.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=81695",
+          "author": "多根清史",
+          "description": "アップルは最新チップ「M4」をiPad Proに導入しながらも、Macは依然としてM3世代に留まったままだ。公式にはM3とM4の性能を比較していないが、マルチコア性能ではM4が14/16インチMacBook Proに搭載されたM3 Proを凌ぐとのベンチマーク結果もあった。 今後のMacにつき、20 […]",
+          "link": "https://gadget.phileweb.com/post-81695/",
+          "publishedOn": "2024-08-05T02:57:25.000Z",
+          "wordCount": 767,
+          "title": "アップル、2024年にM4 MacBook Pro／iMac／Mac mini登場か。AirとMac Proは来年？",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/shutterstock_329931047.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=81684",
           "author": "多根清史",
           "description": "2025年発売とみられる「iPhone 17」シリーズは、全モデルが24MPの前面カメラを搭載するとの予想を著名アナリストが主張している。 香港の投資会社Haitong InternationalのJeff Pu氏は投資家向け研究ノートのなかで、iPhone 17シリーズ全機種が6枚のプラスチック製 […]",
@@ -7176,6 +7226,16 @@
       "feedUrl": "https://ninten-switch.com/feed",
       "siteUrl": "https://ninten-switch.com",
       "articles": [
+        {
+          "id": "https://ninten-switch.com/?p=374111",
+          "author": "管理人",
+          "description": "『スプラトゥーン3 陣取大戦ナワバトラー シールウエハースvol.2』が、本日2024年8月5日から発売開始になりました。 販売価格は1個130円(税別)です。 今年1月22日に発売された『スプラトゥーン3 陣取大戦ナワ […]",
+          "link": "https://ninten-switch.com/splatoon-3-butler-seal-wafer-2-hanbai",
+          "publishedOn": "2024-08-05T03:22:18.000Z",
+          "wordCount": 11746,
+          "title": "『スプラトゥーン3 陣取大戦ナワバトラー シールウエハースvol.2』が8月5日から発売開始！",
+          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/08/splatoon-3-butler-seal-wafer-2-release-deta1.jpg"
+        },
         {
           "id": "https://ninten-switch.com/?p=374081",
           "author": "管理人",
@@ -10365,16 +10425,6 @@
           "wordCount": 11536,
           "title": "日本最大級のインディーゲームイベント「BitSummit Drift」に任天堂ブースが出展！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/07/bitsummit-drift-2024-nintendo1.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=368334",
-          "author": "管理人",
-          "description": "TVアニメ『天穂のサクナヒメ』のBlu-rayが、上下巻の全2巻にて発売されることが決定しました。 上巻は2024年10月16日に、下巻は2024年12月18日にそれぞれ発売される予定で、本日7月6日よりアマゾンやアニメ […]",
-          "link": "https://ninten-switch.com/sakuna-hime-tv-anime-blu-ray-yoyaku",
-          "publishedOn": "2024-07-06T14:50:53.000Z",
-          "wordCount": 11679,
-          "title": "TVアニメ『天穂のサクナヒメ』Blu-ray 上巻・下巻が予約開始！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/07/sakuna-hime-tv-anime-blu-ray-yoyaku1.jpg"
         }
       ]
     },
@@ -10610,6 +10660,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121788/",
+          "author": null,
+          "description": "10月5日～2025年1月5日に東京・森アーツセンターギャラリーで開催される「さくらももこ展」東京展の詳細が発表された。 「さくらももこ展」は、「ちびまる子ちゃん」や「コジコジ」などを手がけた漫...",
+          "link": "https://anime.eiga.com/news/121788/",
+          "publishedOn": "2024-08-05T03:00:00.000Z",
+          "wordCount": 785,
+          "title": "「さくらももこ展」東京展、全7章からなる展示の詳細が明らかに　展示カラー原画総数は300点以上",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121853/",
           "author": null,
@@ -14456,6 +14521,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=254386",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”お手頃価格で大きな満足。”がコンセプトのちょい飲み可能な有名人気チェーン「熱烈中華食堂　日高屋」へ […]",
+          "link": "https://foodfighter.jp/hidakaya-chahan-omori-menma",
+          "publishedOn": "2024-08-05T02:55:50.000Z",
+          "wordCount": 1813,
+          "title": "【日高屋】チャーハン・大盛り・中華風味付けメンマ【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/009c83b41203e1a1732737f07497e81e.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=254358",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店、スーパーの最新グルメを紹介しています。   今回は、カップヌードルの新商品「カップヌードル レモンシーフードヌードル」を世界一詳しく調査しました。   公式Y […]",
@@ -15844,16 +15919,6 @@
           "wordCount": 1802,
           "title": "【天下一品】チャーシュー丼定食（こってりラーメン）【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/56458d71710466d1b074b4697138218a.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=251381",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「チャーシュー丼」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]",
-          "link": "https://foodfighter.jp/711sej-shogayaki-don",
-          "publishedOn": "2024-07-06T14:52:29.000Z",
-          "wordCount": 1756,
-          "title": "【セブンイレブン】生姜焼き丼【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/e487fda393bf3a4f2e8e1e2c63a611e1.jpg"
         }
       ]
     },
@@ -15862,6 +15927,26 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2038325.html",
+          "author": "dqnplus",
+          "description": "0001 ＠おっさん友の会 ★ 警備員[Lv.0][新芽] 2024/08/04(日) 17:48:30.84\n\n\n\n\n\n\n\n\n\n｢裏切者だけは許さない｣安倍晋三元首相直筆の手帳にあった恐怖の\"緑 赤 黄\"色分けリストに怯えた現女性知事 裏切られたら「次の次の次」を読め https://t.co/zG6A8EtNkW— PRESIDENT O...",
+          "link": "https://itainews.com/archives/2038325.html",
+          "publishedOn": "2024-08-05T03:01:05.000Z",
+          "wordCount": 2853,
+          "title": "「絶対に許さない」安倍晋三元首相、手帳に裏切り者\"緑 赤 黄\"色分けリストを作成していた",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/c/bcf0f708-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2038324.html",
+          "author": "dqnplus",
+          "description": "0001 名無しさん＠涙目です。(みかか) [US] 2024/08/04(日) 17:24:25.75\n\n\n\n\n\n\n\n\n柔道・ #斉藤立 『死ぬ気で、ここで死ね』…鈴木桂治監督の言葉を胸に死ぬ気で臨んだ団体戦…本戦でも代表戦でも英雄リネールに敗れる#パリオリンピック　#柔道https://t.co/blt148CSTr— ...",
+          "link": "https://itainews.com/archives/2038324.html",
+          "publishedOn": "2024-08-05T02:46:46.000Z",
+          "wordCount": 2779,
+          "title": "柔道　惨敗の斎藤立にリネール戦前、鈴木監督『死ねい　貴様　ここで死ぬんじゃあ』",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/e/9eb25ae4-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2038322.html",
           "author": "damono3856",
