@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/dbaf5d86eca8cf273a76fef5e75443e011022c56?source=rss",
+          "author": null,
+          "description": "大阪府は、５年前から賃料を滞納している咲洲庁舎内のホテルに対し、退去を求めました。\n\n　大阪府の咲洲庁舎内で営業している「さきしまコスモタワーホテル」は、２０１９年から月額３５００万円の賃料と光熱費",
+          "link": "https://news.yahoo.co.jp/articles/dbaf5d86eca8cf273a76fef5e75443e011022c56?source=rss",
+          "publishedOn": "2024-08-06T11:59:06.000Z",
+          "wordCount": 748,
+          "title": "５年前から賃料滞納　咲洲庁舎内の「コスモタワーホテル」　大阪府が１０月末までの明け渡しと約４０億円の支払い求める(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240806-00047042-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/8602fa348b650327e7e52fc021d439bbf3c7ffdf?source=rss",
           "author": null,
           "description": "関西電力送配電は、６日午後６時５０分ごろから大阪府東大阪市で約１１１０軒の停電が発生しているとしています。\n\n　復旧は最長、午後９時すぎの見込みで、原因は「調査中」としています。",
@@ -6138,16 +6148,6 @@
           "wordCount": 1750,
           "title": "PR: データの“利用”から“活用”へ　DXで真の変革に至るために必要な組織の在り方",
           "imageUrl": "https://image.itmedia.co.jp/mn/articles/2407/10/cover_news004.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2407/08/news054.html",
-          "author": null,
-          "description": "ローデ・シュワルツは、絶縁プロービングシステム「R&S RT-ZISO」と、MMCXコネクター付きパッシブプローブ「R&S RT-ZPMMCX」を発表した。R&S RT-ZISOは、光ファイバー給電により、測定セットアップから測定対象のデバイスを電気的に絶縁する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2407/08/news054.html",
-          "publishedOn": "2024-07-08T00:00:00.000Z",
-          "wordCount": 2564,
-          "title": "差動信号を高速に測定する絶縁プロービングシステム",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/08/cover_news054.jpg"
         }
       ]
     },
@@ -11440,6 +11440,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121876/",
+          "author": null,
+          "description": "12月25日に発売される劇場アニメ「機動戦士ガンダム SEED FREEDOM」のブルーレイに特典として付属する書き下ろし小説とドラマCDのタイトルが「ノイマンの航海日誌」に決定した。追加特典の...",
+          "link": "https://anime.eiga.com/news/121876/",
+          "publishedOn": "2024-08-06T12:00:00.000Z",
+          "wordCount": 810,
+          "title": "「ガンダム SEED FREEDOM」限定版特典の書き下ろし小説＆ドラマCDは「ノイマンの航海日誌」　映像特典は約318分に",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121867/",
           "author": null,
@@ -25378,16 +25393,6 @@
           "wordCount": 1286,
           "title": "子猫にちゅーるをあげていたらお父さん猫が乱入してきた！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76129.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=76153",
-          "author": "299",
-          "description": "パソコン作業をしているお父さんのそばにぴったりくっつくようにしてお座りしている可愛い子猫。その可愛さといったら、もう破壊級ですね。 大好きなお父さんのそばにいるので眠いのを必死に我慢しているようです。そんな子猫の頑張りも...\n眠気を必死に我慢する子猫が可愛すぎ〜結局おとうさんのところで寝てしまいます first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/76153",
-          "publishedOn": "2024-07-08T00:00:12.000Z",
-          "wordCount": 1287,
-          "title": "眠気を必死に我慢する子猫が可愛すぎ〜結局おとうさんのところで寝てしまいます",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76153.jpg"
         }
       ]
     },
