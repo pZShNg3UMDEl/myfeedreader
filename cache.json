@@ -6,6 +6,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/8602fa348b650327e7e52fc021d439bbf3c7ffdf?source=rss",
+          "author": null,
+          "description": "関西電力送配電は、６日午後６時５０分ごろから大阪府東大阪市で約１１１０軒の停電が発生しているとしています。\n\n　復旧は最長、午後９時すぎの見込みで、原因は「調査中」としています。",
+          "link": "https://news.yahoo.co.jp/articles/8602fa348b650327e7e52fc021d439bbf3c7ffdf?source=rss",
+          "publishedOn": "2024-08-06T10:23:40.000Z",
+          "wordCount": 766,
+          "title": "大阪府東大阪市で約１１１０軒の停電　復旧は最長で午後９時すぎの見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240806-00047045-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2b748fa5814715171c720e8522c1f8214b4349c0?source=rss",
+          "author": null,
+          "description": "２組の漫才コンビが「上方演芸の殿堂入り」を果たしました。\n\n　殿堂入りしたのは、坂田利夫さんと前田五郎さんのコンビ「コメディＮｏ．１」、そして「夫婦のドツキ漫才」で人気を博した「正司敏江・玲児」の２",
+          "link": "https://news.yahoo.co.jp/articles/2b748fa5814715171c720e8522c1f8214b4349c0?source=rss",
+          "publishedOn": "2024-08-06T10:15:10.000Z",
+          "wordCount": 764,
+          "title": "上方演芸の“殿堂入り”　坂田利夫さん＆前田五郎さんの「コメディＮｏ．１」　夫婦のドツキ漫才「正司敏江・玲児」も　間寛平さんがお祝いに駆けつけ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240806-00047041-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/efc75acd8e2dcd06c1d7925356aaf683059adf83?source=rss",
           "author": null,
           "description": "今年３月、滋賀県近江八幡市の市立病院で乳児に対し鎮静剤の代わりにイボ治療の薬品を誤って投与しけがをさせたとして、警察は７月に准看護師の女を書類送検していたことが分かりました。\n\n　業務上過失傷害の疑",
@@ -11410,6 +11430,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/121875/",
+          "author": null,
+          "description": "8月2日～4日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、2日公開の新作「僕のヒーローアカデミア THE MOVIE ユアネクスト」が、オープニング3日間で動員60万85...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/121875/",
+          "publishedOn": "2024-08-06T10:30:00.000Z",
+          "wordCount": 826,
+          "title": "【週末アニメ映画ランキング】「僕のヒーローアカデミア THE MOVIE ユアネクスト」が首位、「コードギアス　奪還のロゼ　最終幕」は10位スタート",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121878/",
           "author": null,
