@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T07:26:21.973Z</updated>
+    <updated>2024-08-06T07:36:40.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪府池田市で約２０１０軒の停電　復旧は午後６時半ごろの見込み(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d3ac1072dc249bdddae05b333dc6f5a0f96c62ac?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d3ac1072dc249bdddae05b333dc6f5a0f96c62ac?source=rss"/>
+        <updated>2024-08-06T07:33:24.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、６日午後４時１５分ごろから、大阪府池田市で約２０１０軒の停電が発生しているということです。
+
+　復旧は午後６時半ごろの見込みだということです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大雨】ＪＲ学研都市線で遅れや運転取り止めの可能性(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/d84f2558f408f465204f95bb08ff54be041c49d9?source=rss</id>
