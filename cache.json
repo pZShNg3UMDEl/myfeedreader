@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/ab75e39e285cf9c3a24dc73477223a8b5e824b3c?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第１日第２試合は英明（香川）と健大高崎（群馬）が対戦し、０ー１で健大高崎が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/ab75e39e285cf9c3a24dc73477223a8b5e824b3c?source=rss",
+          "publishedOn": "2024-08-07T09:31:59.000Z",
+          "wordCount": 768,
+          "title": "健大高崎が１回戦突破　夏の高校野球　第１日第２試合(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240807-00047058-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/668d5706852ca422986dfc23f1d98eb807183a13?source=rss",
           "author": null,
           "description": "7日午後、大阪の繁華街、心斎橋で宝飾店に男が押し入り、男性店員を刃物で刺して高級腕時計1本を奪った事件で、現場から逃げた男と見られる人物が関西空港で逮捕されました。\n\n7日午後1時半ごろ、大阪市中央区",
@@ -6377,6 +6387,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=81933",
+          "author": "編集部：松原ひな子",
+          "description": "UGREENは、海外用変換プラグ付きの急速充電器「Nexode Pro 65W GaN」を8月7日に発売する。価格は6,880円（税込）。 Nexode Pro 65W GaNは厚さ約14.5mmの薄型急速充電器。同ブランドの充電器のなかで、もっともスリムな設計を実現している。またGaN（窒化ガリウ […]",
+          "link": "https://gadget.phileweb.com/post-81933/",
+          "publishedOn": "2024-08-07T09:21:28.000Z",
+          "wordCount": 742,
+          "title": "UGREEN、海外旅行に適したプラグ変換型のスリムな急速充電器「Nexode Pro 65W GaN」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/00_main.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=81907",
           "author": "編集部：松原ひな子",
           "description": "新潟県で創業されたアウトドアブランド・スノーピークは、同社の直営キャンプフィールドおよびフランチャイズ運営による計11拠点において、アンカー・ジャパンが販売を行うポータブル電源の無料レンタルサービスを8月10日に開始する。 レンタルサービスの対象となる製品は「Anker 535 Portable P […]",
@@ -7885,16 +7905,6 @@
           "wordCount": 798,
           "title": "タブレットにも変形！2in1ノートPC「LG gram 2in1」に注目！",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/DSC08502_2.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=79895",
-          "author": "折原一也",
-          "description": "「LG gram」は歴代、軽量・薄型・堅牢というノートPCを外に持ち出して使うための仕様を徹底的に追求してきたシリーズだ。新モデルが登場するにつれ、ハイスペックという点も洗練されていき、高性能なノートPCとしても大いに選択肢に入るモデルとなっていった。 2024年度のLG gram、14インチから1 […]",
-          "link": "https://gadget.phileweb.com/post-79895/",
-          "publishedOn": "2024-07-08T21:30:00.000Z",
-          "wordCount": 816,
-          "title": "軽いのに高性能、まさにノートPCの完成形！「LG gram Pro」レビュー",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/04/ph01_LGgramPro24.jpg"
         }
       ]
     },
@@ -11690,6 +11700,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121880/",
+          "author": null,
+          "description": "アニメ・声優・イベント情報サイト「アニメハック」の月イチ企画「声優・写真集＆雑誌情報まとめ」では、人気声優やアニソンアーティスト、コスプレイヤー、2.5次元俳優を中心に注目の写真集や雑誌、関連書...",
+          "link": "https://anime.eiga.com/news/121880/",
+          "publishedOn": "2024-08-07T09:30:00.000Z",
+          "wordCount": 890,
+          "title": "【8月発売　声優・写真集一覧】鬼頭明里がビキニ＆ランジェリーで“最大解放”　生田輝の挑戦的なシャワーカットなど【写真多数】",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121886/",
           "author": null,
