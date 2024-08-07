@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T15:36:44.897Z</updated>
+    <updated>2024-08-07T15:50:31.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pixel-level programmable regions-of-interest for high-speed microscopy]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/08/pixel-level-programmable-regions-of.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/08/pixel-level-programmable-regions-of.html"/>
+        <updated>2024-08-07T15:47:00.005Z</updated>
+        <summary type="html"><![CDATA[Zhang et al. from MIT recently published a paper titled "Pixel-wise programmability enables dynamic high-SNR cameras for high-speed microscopy" in Nature Communications.
+Abstract: High-speed wide-field fluorescence microscopy has the potential to capture biological processes with exceptional spatiotemporal resolution. However, conventional cameras suffer from low signal-to-noise ratio at high frame rates, limiting their ability to detect faint fluorescent events. Here, we introduce an image sensor where each pixel has individually programmable sampling speed and phase, so that pixels can be arranged to simultaneously sample at high speed with a high signal-to-noise ratio. In high-speed voltage imaging experiments, our image sensor significantly increases the output signal-to-noise ratio co…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch用ソフト『Forests, Fields and Fortresses』が2024年8月30日に配信決定！]]></title>
+        <id>https://ninten-switch.com/?p=374447</id>
+        <link href="https://ninten-switch.com/forests-fields-and-fortresses-for-nintendo-switch-2024-0830-released"/>
+        <updated>2024-08-07T15:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Forests, Fields and Fortresses (森、野原、要塞)』が、2024年8月30日に配信されることが決定しました。 販売価格は780円(税込)に設定されてい […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch用ソフト『Iron Meat』が2024年9月26日に配信決定！]]></title>
         <id>https://ninten-switch.com/?p=374458</id>
