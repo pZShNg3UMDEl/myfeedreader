@@ -5900,6 +5900,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2408/07/news068.html",
+          "author": null,
+          "description": "ニチコンは、高温度長寿命のリード形アルミニウム電解コンデンサー「UBR」シリーズを開発し、市場投入した。耐久性は、定格リプル電流重畳が125℃で5000時間保証となっている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2408/07/news068.html",
+          "publishedOn": "2024-08-07T00:00:00.000Z",
+          "wordCount": 2546,
+          "title": "125℃5000時間保証のリード線形アルミニウム電解コンデンサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/07/cover_news068.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2408/06/news076.html",
           "author": null,
           "description": "自動車設計の機能安全基準「ISO 26262」が幅広く採用されたのに続き、悪意のあるサイバー攻撃からコネクテッドカーを守るための国際標準規格である「ISO/SAE 21434」も定着しつつある。",
@@ -11135,16 +11145,6 @@
           "wordCount": 11571,
           "title": "「PlayStation5 原神 ギフトパック」が楽天ブックスで予約再開中！",
           "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/ps5-genshin-giftpack-announce1.jpg"
-        },
-        {
-          "id": "https://ninten-switch.com/?p=368444",
-          "author": "管理人",
-          "description": "本日7月8日発売の「週刊少年ジャンプ」で、HD-2D版『ドラゴンクエストIII　そして伝説へ…』の声優情報が公開されました。 以下、「週刊少年ジャンプ」で新たに判明した情報まとめです。 主人公はボイスをサポート まず、主 […]",
-          "link": "https://ninten-switch.com/dragon-quest-ed-2d-ver-for-nintendo-switch",
-          "publishedOn": "2024-07-08T11:55:46.000Z",
-          "wordCount": 11586,
-          "title": "HD-2D版『ドラゴンクエストIII　そして伝説へ…』の声優情報が公開！",
-          "imageUrl": "https://ninten-switch.com/wp-content/uploads/2024/06/dragon-quest-ed-2d-ver-for-nintendo-switch-syokugyo-uwasa2.jpg"
         }
       ]
     },
@@ -14444,21 +14444,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121664/",
-          "author": null,
-          "description": "この秋にMeta Questで展開されるVR映画「機動戦士ガンダム:銀灰の幻影」のあらすじ、登場キャラクター、メカニックが明らかになった。予告映像と新キーアートも公開されている。 同作では「機動...",
-          "link": "https://anime.eiga.com/news/121664/",
-          "publishedOn": "2024-07-08T12:00:00.000Z",
-          "wordCount": 751,
-          "title": "VR映画「機動戦士ガンダム：銀灰の幻影」主役機・デルタザインなどメカ、キャラが明らかに　予告映像、新キーアート公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14793,16 +14778,6 @@
           "wordCount": 4397,
           "title": "喋れない",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10369",
-          "author": "watanabe@logipara.com",
-          "description": "相変わらず喉が荒れており、声が出ない状態です。 そういえば、のどぬーるスプレーがあったな……と取り出して机の上に置き、仕事しながら喉にプッシュしてたんです。あー、喉がスースーして気持ちいい……。のどぬーるスプレー、持って […]",
-          "link": "https://logipara.com/diary-text/2024-07-09/",
-          "publishedOn": "2024-07-08T12:05:26.000Z",
-          "wordCount": 4394,
-          "title": "のどぬーるスプレー",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/07/image.jpg"
         }
       ]
     },
@@ -15175,6 +15150,26 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=254629",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの冷凍食品「セブンプレミアム チーズカレードリア」を世界一詳しく調査しました。   公式YouTube […]",
+          "link": "https://foodfighter.jp/711sej-cheese-curry-doria",
+          "publishedOn": "2024-08-07T00:45:19.000Z",
+          "wordCount": 1730,
+          "title": "【セブンイレブン】セブンプレミアム チーズカレードリア【新作冷凍食品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/9e72619e4e160f7e3e7263ea87af420f.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=254598",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「フタバ食品 ダンディー チョコミント」を世界一詳しく調査しました。   公式YouTubeチ […]",
+          "link": "https://foodfighter.jp/711sej-dandy-chocolate-mint",
+          "publishedOn": "2024-08-06T23:31:35.000Z",
+          "wordCount": 1736,
+          "title": "【セブンイレブン】フタバ食品 ダンディー チョコミント【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/c710fa4f794ec8d3561440fd6b3386a0.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=254563",
           "author": "foodfighter",
@@ -16554,16 +16549,6 @@
           "wordCount": 1769,
           "title": "【セブンイレブン】フタバ食品 サクレフロート ソーダ＆バニラ【新作コンビニアイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/668cf8ddac7a60959672cb345101935b.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=251601",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、カルビーの新商品「ポテトチップス KFC オリジナルチキン味」を世界一詳しく調査しました。   公式YouTubeチ […]",
-          "link": "https://foodfighter.jp/calbee-potato-kfc",
-          "publishedOn": "2024-07-08T12:39:30.000Z",
-          "wordCount": 1763,
-          "title": "カルビー ポテトチップス KFC（ケンタッキー） オリジナルチキン味【コンビニ限定・新作お菓子】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/47ff3a779f2b58872cd374f7d50eb530.jpg"
         }
       ]
     },
@@ -21471,36 +21456,6 @@
           "wordCount": 2366,
           "title": "兵庫県の前県民局長が死亡　知事批判文書で処分",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/5/8553ba09-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037351.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/07/08(月) 16:03:31.31 ID:0FQfzx3G0●.net\n\n\n\n\n\n\n\nれいとうしていた食パンに、蜂蜜とバター。ほうれん草と一緒に食す。うまい。当然、水谷養蜂さんの蜂蜜。選び抜いた食材で朝食。#ハラ劇場 #ほうれん草 #選挙に行こう https://t....",
-          "link": "https://itainews.com/archives/2037351.html",
-          "publishedOn": "2024-07-08T13:03:12.000Z",
-          "wordCount": 2522,
-          "title": "選挙運動禁止の投票日当日　共産党員らがやっていた事がこちら",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/e/7ea657ab-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037338.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2024/07/08(月) 09:17:13.60 ID:O7JV+FvG9.net\n\n\n\n\n\n\n\n女逮捕…男性警備員の体を触ろうとした 昼前の商業施設で女が接近…警備中の男性、抵抗し通報 急行した警官に捕まった無職「本当に触ろうとは思っていない。触るしぐさはした」 https://t.co/WWXrq...",
-          "link": "https://itainews.com/archives/2037338.html",
-          "publishedOn": "2024-07-08T12:46:55.000Z",
-          "wordCount": 2382,
-          "title": "男性警備員の体を触ろうとした女を不同意わいせつ未遂の疑いで逮捕 埼玉",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/f/9f7feed2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037352.html",
-          "author": "dqnplus",
-          "description": "1 名前：＠シャチ ★：2024/07/08(月) 14:53:29.20 ID:Ja4l92LR9.net\n\n\n\n\n\n\n\n\n7日午後、#三重県 #桑名市 の海で、アサリを取っていたベトナム国籍の男性3人が溺れ、そのうち2人が死亡しました。https://t.co/C1TZAsppKH— メ～テレnews (@nagoyatv_news) July 8, 2024 \n\n...",
-          "link": "https://itainews.com/archives/2037352.html",
-          "publishedOn": "2024-07-08T12:02:39.000Z",
-          "wordCount": 2476,
-          "title": "【三重】伊勢湾でアサリを取っていたベトナム国籍男性2人が死亡　干潮から水位が上がる時間帯だったか",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e46f3400-s.png"
         }
       ]
     },
@@ -21509,6 +21464,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=78064",
+          "author": "299",
+          "description": "キジトラ猫のティミーがトラのぬいぐるみを大切そうに口に咥えて運んでいます。高い鉄の扉もぬいぐるみを咥えたまま難なくジャンプして乗り越えていきました。 ティミーは自宅の敷地に戻ってくると、木々に囲まれた秘密の場所にぬいぐる...\nご近所さんから借りたトラのぬいぐるみで遊ぶ猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/78064",
+          "publishedOn": "2024-08-07T00:00:01.000Z",
+          "wordCount": 1346,
+          "title": "ご近所さんから借りたトラのぬいぐるみで遊ぶ猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/78064.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=78032",
           "author": "299",
@@ -25098,16 +25063,6 @@
           "wordCount": 1284,
           "title": "子育てに追われるお母さん猫。休憩時間もなかなか取れません",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76162.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=76149",
-          "author": "299",
-          "description": "可愛い子猫があおむけになって爆睡中です。手足が見事にダラーんとして全身の力は抜け切ってしまっているようです。 さらに時々ぴくぴくと全身が動いていて、相当深い眠りにおちているようですね。 飼い主さんの膝の上でヘソ天になって...\n子猫が爆睡する姿が可愛すぎてもう無理 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/76149",
-          "publishedOn": "2024-07-08T13:00:13.000Z",
-          "wordCount": 1287,
-          "title": "子猫が爆睡する姿が可愛すぎてもう無理",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76149.jpg"
         }
       ]
     },
