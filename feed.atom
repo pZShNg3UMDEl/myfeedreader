@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T17:31:27.709Z</updated>
+    <updated>2024-08-07T17:50:34.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Switch用ソフト『Arco』が2024年8月22日に配信決定！]]></title>
+        <id>https://ninten-switch.com/?p=374832</id>
+        <link href="https://ninten-switch.com/arco-for-nintendo-switch-2024-0822-released"/>
+        <updated>2024-08-07T17:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Arco』が、国内向けとして2024年8月22日に配信されることが決定しました。 販売価格は2,200円(税込)に設定されていますが、2024年8月28日 23時59分までは割引価 […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch用ソフト『Cat’s Request』が2024年8月22日に配信決定！]]></title>
+        <id>https://ninten-switch.com/?p=374441</id>
+        <link href="https://ninten-switch.com/cats-request-for-nintendo-switch-2024-0822-released"/>
+        <updated>2024-08-07T17:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switch用ソフト『Cat’s Request』(キャットズリクエスト)が、国内向けとして2024年8月22日に配信されることが決定しました。 販売価格は990円(税込)に設定されています […]]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch用ソフト『Parking Masters』が2024年8月22日に配信決定！]]></title>
         <id>https://ninten-switch.com/?p=374442</id>
@@ -31638,16 +31658,6 @@ ID:xXcmsuP89
         <summary type="html"><![CDATA[パブリッシャーのChorus Worldwideが、Nintendo Switch＆PS5＆Xbox＆PC(Steam)用ソフト『ペーパーゴーストストーリーズ：サードアイオープン (Paper Ghost Stories […]]]></summary>
         <author>
             <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手術中に窓ガラス割れ……がん患者らも避難　キーウの小児病院にミサイル]]></title>
-        <id>https://www.bbc.com/japanese/articles/c7253zzgvn7o#2</id>
-        <link href="https://www.bbc.com/japanese/articles/c7253zzgvn7o"/>
-        <updated>2024-07-09T05:42:56.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナ各地で8日、ロシア軍のミサイル攻撃があり、首都キーウでは小児病院にミサイルが直撃した。ウクライナ政府によると、国内で合わせて36人が死亡、140人が負傷した。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
