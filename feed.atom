@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T10:15:36.190Z</updated>
+    <updated>2024-08-08T10:37:51.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】南海トラフ地震臨時情報　「巨大地震注意」発表　気象庁(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2df5099353bd6feadc4f21850a1413eccc1cc081?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2df5099353bd6feadc4f21850a1413eccc1cc081?source=rss"/>
+        <updated>2024-08-08T10:28:28.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は南海トラフ「巨大地震注意」を発表しました。今後の情報に注意してください。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【松屋】みぞれ煮ハンバーグ【店舗限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=254777</id>
