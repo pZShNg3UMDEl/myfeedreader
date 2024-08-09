@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/45618e0d1c092d2c3cd7009f4246b9f9b4021587?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第３日第２試合は西日本短大付（福岡）と金足農（秋田）が対戦し６ー４で西日本短大付が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/45618e0d1c092d2c3cd7009f4246b9f9b4021587?source=rss",
+          "publishedOn": "2024-08-09T04:40:28.000Z",
+          "wordCount": 1638,
+          "title": "西日本短大付　１回戦突破　夏の高校野球(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240809-00047090-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/20a4b714e32f77cc83db3cb38d44dc32b31fee87?source=rss",
           "author": null,
           "description": "和歌山県白浜町では、南海トラフ地震臨時情報の「巨大地震注意」を受け、海水浴場４カ所が１週間程度の閉鎖となりました。１０日に開催予定だった花火大会も中止になりました。\n　白浜町は南海トラフ臨時情報「巨",
@@ -4362,6 +4372,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cwy5g69w757o#0",
+          "author": null,
+          "description": "アメリカのABCニュースは8日、大統領選挙の共和党ドナルド・トランプ候補と、民主党候補になることが確実なカマラ・ハリス副大統領による最初の討論会を、9月10日に開くとX（旧ツイッター）で発表した。",
+          "link": "https://www.bbc.com/japanese/articles/cwy5g69w757o",
+          "publishedOn": "2024-08-09T04:43:26.000Z",
+          "wordCount": 1453,
+          "title": "【米大統領選2024】 トランプ前大統領とハリス副大統領の討論会、9月10日に開催へ",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/0b38/live/b8824de0-5604-11ef-8f0f-0577398c3339.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cjw302q83lxo#0",
           "author": null,
