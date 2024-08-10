@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/faa7363e48db9b68812cdef370c41c7a6b2c8c23?source=rss",
+          "author": null,
+          "description": "高さ10メートルから飛び込む競技、高飛込。全く無名だった当時11歳の少年は、身長が20～30センチも高い大人たちに混じって「デビュー戦」を迎えた。その1本目、踏み切りで足が滑って失敗。得点は「0点」",
+          "link": "https://news.yahoo.co.jp/articles/faa7363e48db9b68812cdef370c41c7a6b2c8c23?source=rss",
+          "publishedOn": "2024-08-10T09:03:23.000Z",
+          "wordCount": 1742,
+          "title": "デビュー戦は、大失敗で「0点」… 飛込・玉井陸斗　五輪メダルへの“知られざる物語”(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240810-00010000-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/dbf4927ff72a28d58e5c142feb6c6cf4e84ae412?source=rss",
           "author": null,
           "description": "お盆休みの帰省ラッシュが始まり、ふるさとや行楽地で過ごす人たちで各交通機関の混雑がピークを迎えています。\n\n　東海道・山陽新幹線の下りの混雑は１０日がピークです。\n\n　新大阪駅のホームは家族連れらで",
@@ -12051,6 +12061,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121892/",
+          "author": null,
+          "description": "書籍「モブサイコ100 アーカイブス」「アニメ『ラブひな』イラストレーション＆資料集」が、8月11、12日開催の「コミックマーケット104」で先行販売される（アニメスタイルブース／企業ブース19...",
+          "link": "https://anime.eiga.com/news/121892/",
+          "publishedOn": "2024-08-10T09:00:00.000Z",
+          "wordCount": 761,
+          "title": "「モブサイコ100」「ラブひな」のイラスト＆設定資料集、夏コミで先行販売",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/animehack_editors/121902/",
           "author": null,
           "description": "幅広い世代から愛され続ける人気アニメ「映画クレヨンしんちゃん」シリーズの31作目「映画クレヨンしんちゃん オラたちの恐竜日記」が、8月9日から全国で公開中です。映画.comでは、歴代の劇場版31...",
@@ -15925,6 +15950,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=254953",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年8月3日から8月9日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全6種類）を美味しい・おすすめ順にラ […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0810",
+          "publishedOn": "2024-08-10T09:11:57.000Z",
+          "wordCount": 1738,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年8月3日から8月9日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/10188690bd321a9121c2c06dd957a312.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=254930",
           "author": "foodfighter",
@@ -22241,16 +22276,6 @@
           "wordCount": 2350,
           "title": "【事件】自衛官男性が“女性トラブル”であえて逆走か…事故直前に「今までありがとう」大型トラックと正面衝突し死亡",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e4d5dfb3-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037469.html",
-          "author": "damono3856",
-          "description": "1 名前：muffin ★\n垢版 |\n2024/07/11(木) 15:44:18.82ID:r6nxbbEZ9\n\n\n\n\n\n\n\n石丸伸二氏「女子供に容赦を」発言でSNS物議、「耳を疑う」「完全に見下してる」 https://t.co/cODe5zqStC— ニッカンエンタメ・プレミアム (@nikkan_entame) July 11, 2024 \n\n\n\n\n\n\nhttps://new...",
-          "link": "https://itainews.com/archives/2037469.html",
-          "publishedOn": "2024-07-11T21:02:13.000Z",
-          "wordCount": 2477,
-          "title": "石丸伸二氏「女子供に容赦する」発言でSNS物議、「耳を疑う」「完全に見下してる」「時代劇の悪人が使う言葉」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/a/aa97054d-s.png"
         }
       ]
     },
