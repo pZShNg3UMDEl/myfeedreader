@@ -12011,6 +12011,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121909/",
+          "author": null,
+          "description": "西田理英氏のコメディ漫画をテレビアニメ化する「殿と犬」が10月から放送されることが決まり、メインキャストとキービジュアルが発表された。メインキャラクターの「殿」を演じるのは、声優の大塚明夫、杉田...",
+          "link": "https://anime.eiga.com/news/121909/",
+          "publishedOn": "2024-08-10T01:00:00.000Z",
+          "wordCount": 771,
+          "title": "大塚明夫、杉田智和、相葉雅紀、武内駿輔が“殿”に　TVアニメ「殿と犬」に出演　10月放送開始",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121872/",
           "author": null,
           "description": "眞栄田郷敦が主演し、山口つばさ氏による人気漫画を実写映画化する「ブルーピリオド」のメイキング映像が公開された。眞栄田をはじめとするキャスト陣の撮影の様子とインタビュー映像が収められ、ラッパーSk...",
@@ -15099,36 +15114,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121586/",
-          "author": null,
-          "description": "米ソニー・ピクチャーズが、格闘ゲームの金字塔「ストリートファイター」の新たな映画版を2026年3月20日に全米公開すると発表した。レジェンダリーと、ゲームの生みの親であるカプコンの強力なタッグに...",
-          "link": "https://anime.eiga.com/news/121586/",
-          "publishedOn": "2024-07-11T13:00:00.000Z",
-          "wordCount": 705,
-          "title": "ハリウッド版「ストリートファイター」26年に全米公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121607/",
-          "author": null,
-          "description": "TOHOシネマズ池袋の「プレミアムシアター」に7月12日から「ScreenX with Dolby Atmos」が導入される。 「プレミアムシアター」は、TOHOシネマズが“最高の映画体験”を追...",
-          "link": "https://anime.eiga.com/news/121607/",
-          "publishedOn": "2024-07-11T12:00:00.000Z",
-          "wordCount": 698,
-          "title": "TOHOシネマズ初 　7月12日からTOHOシネマズ池袋「プレミアムシアター」にScreenX with Dolby Atmos導入",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15184,6 +15169,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=10580",
+          "author": "watanabe@logipara.com",
+          "description": "昨日は地震がありましたが、みなさん大丈夫でしたか。棚から落ちたフィギュアは無事ですか。 私は都心で呑んでいたんですが、帰ろうとしたら電車が運休。 　 「よし！じゃあ電車が動くまで呑むぞ！」 　 　 ……とはならず、何とし […]",
+          "link": "https://logipara.com/diary-text/2024-08-10/",
+          "publishedOn": "2024-08-10T01:01:53.000Z",
+          "wordCount": 4393,
+          "title": "止まる電車",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=10578",
           "author": "watanabe@logipara.com",
@@ -17224,16 +17219,6 @@
           "wordCount": 1781,
           "title": "【スターバックス】クッキー＆クリームドーナツ【新作スイーツ】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/89540817882a9e735d6091e4e96ee31c.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=251946",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「太麺を味わう 大盛ナポリタン」を世界一詳しく調査しました。   公式YouTubeチャンネル […]",
-          "link": "https://foodfighter.jp/711sej-napolitan-omori",
-          "publishedOn": "2024-07-11T12:55:19.000Z",
-          "wordCount": 1760,
-          "title": "【セブンイレブン】太麺を味わう 大盛ナポリタン【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/15bd8ab7e9bfb951a7c10116f60827fa.jpg"
         }
       ]
     },
@@ -22151,36 +22136,6 @@
           "wordCount": 2454,
           "title": "修学旅行で中学3年女子生徒10人以上が盗撮被害 SNSで動画販売される。複数の男子生徒が関与か",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/d/fd6ac630-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037462.html",
-          "author": "damono3856",
-          "description": "1 名前：PARADISE ★\n垢版 |\n2024/07/11(木) 10:56:06.05ID:pF/5CwW19\n\n\n\n\n\n\n\n「出頭しない」靖国神社に落書き容疑 指名手配の中国人が取材に応じる　処理水の海洋放出に抗議するためと主張 https://t.co/fnAEys3F7c— TBS NEWS DIG Powered by JNN (@tbsnewsdig) July 9...",
-          "link": "https://itainews.com/archives/2037462.html",
-          "publishedOn": "2024-07-11T13:03:40.000Z",
-          "wordCount": 2516,
-          "title": "【靖国トイレ男】指名手配の中国人が取材に応じる　「出頭しない。日本の警察は幼稚園児のようだ。逮捕状は何の意味もない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/2/8299a42c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037450.html",
-          "author": "dqnplus",
-          "description": "0001 【底辺】 (庭) [US] 2024/07/11(木) 07:00:40.75\n\n\n\n\n\n\n\n\n女装し公園で自転車で転倒、介抱しようとした女子中生の胸触る　容疑で小学校臨時講師の67歳男逮捕　伊丹 https://t.co/fLZFKERF6R #神戸新聞　#伊丹署　#事件事故— 神戸新聞 阪神・北摂総局【公式】 (@kobe...",
-          "link": "https://itainews.com/archives/2037450.html",
-          "publishedOn": "2024-07-11T12:46:56.000Z",
-          "wordCount": 2425,
-          "title": "67歳教師、ミニスカ姿で自転車に乗り転倒　介抱しようとした女子中学生の胸を揉む",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/1/717ed97e-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037456.html",
-          "author": "dqnplus",
-          "description": "1 ：名無しさん＠涙目です。(東京都) [ﾆﾀﾞ]：2024/07/11(木) 07:26:40.13 ID:ZkQsrSXQ0.net \n\n\n\n\n\n\n\n\n\n\n「横浜県」店名に神奈川県職員ザワつく　県庁前に小型スーパー開業https://t.co/2wTVTeLIZa— 東京新聞（TOKYO Web） (@tokyo_shimbun) July 9, 2024 \n\n\n\n\n\n\n\n\n　6月...",
-          "link": "https://itainews.com/archives/2037456.html",
-          "publishedOn": "2024-07-11T12:01:49.000Z",
-          "wordCount": 2555,
-          "title": "まいばすけっと、神奈川県庁前で「横浜県庁前店」をオープン　県職員が動揺",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/4/840561a4-s.png"
         }
       ]
     },
@@ -22189,6 +22144,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=78266",
+          "author": "299",
+          "description": "保護猫のリナとリサはようやく新しい生活に慣れてきたようです。 部屋の中で元気よく遊びまわっていたかと思ったら疲れてくるとコテンと寝てしまうところも子猫ならではで可愛いものです。 すぐそばで面倒見の良い柴犬のリコがじっと子...\n子猫たちと仲良くなれるチャンスを待つ柴犬リコ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/78266",
+          "publishedOn": "2024-08-10T00:00:42.000Z",
+          "wordCount": 1348,
+          "title": "子猫たちと仲良くなれるチャンスを待つ柴犬リコ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/78266.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=78234",
           "author": "299",
@@ -25778,16 +25743,6 @@
           "wordCount": 1286,
           "title": "仕事に行かにゃいで〜！お父さんの通勤バッグを離さない猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76345.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=76332",
-          "author": "299",
-          "description": "ピアノの練習をしたお姉ちゃんが疲れて床の上でバッタン倒れ込んでしまいました。するとすかさず豆大福がやってきてお姉ちゃんの背中の上にどっかりと乗っかってきました。 ダイナマイトボディの豆大福なので、お姉ちゃんの背中からズリ...\n豆大福はお姉ちゃんの癒し担当です first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/76332",
-          "publishedOn": "2024-07-11T13:00:38.000Z",
-          "wordCount": 1283,
-          "title": "豆大福はお姉ちゃんの癒し担当です",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76332.jpg"
         }
       ]
     },
