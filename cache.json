@@ -11764,6 +11764,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=geP03QmHOrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=geP03QmHOrc",
+          "publishedOn": "2024-08-11T09:12:00.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】合わせて使うと効果的!!おまつリッカのこころの全体回復は使えるのか!?スペシャルウォークDAY限定!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N6XzckOfmqs",
           "author": null,
           "description": "",
@@ -11980,6 +11990,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121901/",
+          "author": null,
+          "description": "劇場アニメ「劇場版モノノ怪 唐傘」が、カナダ・モントリオールで開催された「第28回ファンタジア国際映画祭」で長編アニメーション部門の観客賞銅賞を受賞したことが分かった。先日発表された今敏賞とあわ...",
+          "link": "https://anime.eiga.com/news/121901/",
+          "publishedOn": "2024-08-11T09:00:00.000Z",
+          "wordCount": 755,
+          "title": "「劇場版モノノ怪　唐傘」ファンタジア国際映画祭で観客賞銅賞を受賞　今敏賞とダブル受賞の快挙",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121831/",
           "author": null,
@@ -22071,16 +22096,6 @@
           "wordCount": 2345,
           "title": "ベルギー出張の大学教員、学生の成績入ったパソコン盗まれる…飲食店で気づいたらなくなる",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/a/ca3ad405-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037522.html",
-          "author": "dqnplus",
-          "description": "1 名前：それでも動く名無し：2024/07/12(金) 16:35:18.79 ID:HDPh8eGb0.net\n\n\n\n\n\n\n\n\n石丸氏は意味のない質問に対して塩対応をしてるだけなのに必要なサブウェイの注文なんかちゃんとするに決まってるのにクソみたいなお笑いにしてしまう所がイラっとするね石丸伸二氏に...",
-          "link": "https://itainews.com/archives/2037522.html",
-          "publishedOn": "2024-07-12T21:01:50.000Z",
-          "wordCount": 2414,
-          "title": "【悲報】堀江貴文さん51歳、突如として石丸サブウェイ構文にキレ散らかしてしまう",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/d/fd2e0c95-s.png"
         }
       ]
     },
