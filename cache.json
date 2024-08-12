@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/103c1bd544ad93db99c04803fbf7da2fbec30064?source=rss",
+          "author": null,
+          "description": "多くの日本人選手が活躍したパリオリンピックが閉幕。男子高飛び込みで銀メダルを獲得した玉井陸斗選手（１７）が、ＡＢＣテレビ「ｎｅｗｓおかえり」の単独インタビューに応じてくれました。\n\n（Ｑ日本の飛び込",
+          "link": "https://news.yahoo.co.jp/articles/103c1bd544ad93db99c04803fbf7da2fbec30064?source=rss",
+          "publishedOn": "2024-08-12T09:51:16.000Z",
+          "wordCount": 1654,
+          "title": "「ロスでは金取りたい！」高飛び込み史上初の銀メダル　玉井陸斗選手に単独インタビュー(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240812-00047129-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/66a381ae741ff7859fbedeeb26a852aec217ea6e?source=rss",
           "author": null,
           "description": "巨大地震への注意が呼びかけられるなか、高知県香南市にある海水浴場「ヤ・シィパーク」は、ライフセーバーを県内で唯一配置するなど、地震への対策をとりながら遊泳を開放しています。",
@@ -12170,6 +12180,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/editor_bookshelf/121869/",
+          "author": null,
+          "description": "2月25日に開催された「COMITIA（コミティア）147」に足を運んだ。コミティアが、コミックマーケット（コミケ）のような同人誌即売会と大きく異なるのは、既存の創作物をもとに描くパロディなどの...",
+          "link": "https://anime.eiga.com/news/column/editor_bookshelf/121869/",
+          "publishedOn": "2024-08-12T10:00:00.000Z",
+          "wordCount": 762,
+          "title": "【編集Gのサブカル本棚】第40回　「コミティア」と読む行為の大切さ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121842/",
           "author": null,
@@ -25803,16 +25828,6 @@
           "wordCount": 1284,
           "title": "ごはんを食べたら自らこたつのなかに戻っていく子猫たち",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76527.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=76495",
-          "author": "299",
-          "description": "ゴールデンレトリバーの子犬が一緒にソファに座っている三毛猫さんの耳を優しく何度もぺろぺろしています。どうやら三毛猫さんとお近づきになりたいようです。 三毛猫さんも子犬に舐められてすっかり心を許しているようです。子犬のフレ...\n猫が大好きなゴールデンレトリバーの子犬 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/76495",
-          "publishedOn": "2024-07-13T22:00:13.000Z",
-          "wordCount": 1291,
-          "title": "猫が大好きなゴールデンレトリバーの子犬",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76495.jpg"
         }
       ]
     },
