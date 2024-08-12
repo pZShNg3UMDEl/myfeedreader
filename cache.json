@@ -4693,6 +4693,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c5y3w1rgg79o#0",
+          "author": null,
+          "description": "パリ・オリンピック（五輪）が11日、幕を閉じた。午後9時（日本時間12日午前4時）ごろから閉会式が行われ、スポーツ、映画、音楽界のスターらが集まった。",
+          "link": "https://www.bbc.com/japanese/articles/c5y3w1rgg79o",
+          "publishedOn": "2024-08-12T03:16:18.000Z",
+          "wordCount": 1476,
+          "title": "【パリ五輪】 「センセーショナル」な大会に幕　閉会式で米ロサンゼルスに引き継ぎ",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/7ffa/live/6fcd1bd0-5847-11ef-aebc-6de4d31bf5cd.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cq6r2e15e6eo#0",
           "author": null,
           "description": "オーストラリア北部ケアンズで12日未明、ヘリコプターがホテルの屋根に墜落し、操縦士が死亡した。宿泊客400人が避難し、高齢者2人が病院に運ばれたが容体は安定しているという。",
@@ -12041,6 +12051,36 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/121817/",
+          "author": null,
+          "description": "インターネット上で爆発的な人気を誇るアニメーション「スキビディ・トイレット（Skibidi Toilet）」が、ハリウッドの大物たちの目に留まり、映画やテレビシリーズ化の可能性が浮上していると、...",
+          "link": "https://anime.eiga.com/news/121817/",
+          "publishedOn": "2024-08-12T03:30:00.000Z",
+          "wordCount": 665,
+          "title": "YouTubeの人気アニメをマイケル・ベイ監督が映画＆ドラマ化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/121815/",
+          "author": null,
+          "description": "ユニバーサル・スタジオ×イルミネーション・スタジオによる「怪盗グルー」シリーズ最新作「怪盗グルーのミニオン超変身」（公開中）の特別映像を、映画.comが独占入手した。イルミネーションCEOらが「...",
+          "link": "https://anime.eiga.com/news/121815/",
+          "publishedOn": "2024-08-12T03:30:00.000Z",
+          "wordCount": 742,
+          "title": "「怪盗グルー」シリーズ14年間の感謝をこめて――イルミネーションCEOらが“軌跡”を振り返る特別映像",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/121873/",
           "author": null,
           "description": "米ウォルト・ディズニーが、2027年に新たに公開することになった11本の公開日カレンダーを発表した。 これまで予定されていたのは、MCU映画「アベンジャーズ シークレット・ウォーズ（原題）」とタ...",
@@ -15875,6 +15915,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=255074",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、井村屋株式会社の新商品「井村屋 SHALILI（シャリリ） クレームブリュレアイス」を世界一詳しく調査しました。   […]",
+          "link": "https://foodfighter.jp/imuraya-shalili",
+          "publishedOn": "2024-08-12T03:32:44.000Z",
+          "wordCount": 1733,
+          "title": "井村屋 SHALILI（シャリリ） クレームブリュレアイス【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/03263b345fa6ae3cbcbc08877373d1ae.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=255046",
           "author": "foodfighter",
