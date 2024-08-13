@@ -6,6 +6,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/5013c62e33d40ed0df623333b02804c598e1184a?source=rss",
+          "author": null,
+          "description": "ＪＲ東海は、台風７号の接近により東海道新幹線の沿線で大雨や強風が見込まれるため、１６日から１７日に全線、または一部区間で列車の計画運休や長時間の運転見合わせの可能性があると発表しました。\n\n　この影",
+          "link": "https://news.yahoo.co.jp/articles/5013c62e33d40ed0df623333b02804c598e1184a?source=rss",
+          "publishedOn": "2024-08-13T10:21:54.000Z",
+          "wordCount": 1610,
+          "title": "【台風７号】東海道新幹線で１６日、１７日に計画運休や運転見合わせの可能性　山陽新幹線の運行にも影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240813-00047146-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/0878edb99c0f6459dc31eac918fbf8b2d384296b?source=rss",
           "author": null,
           "description": "紅麹原料を使ったサプリメントによる健康被害問題で、小林製薬は、サプリと死亡との関連を調査する事例について、厚労省への報告漏れが１１件あったと発表しました。\n\n　小林製薬は、紅麹サプリの摂取と死亡との",
@@ -12430,6 +12440,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121913/",
+          "author": null,
+          "description": "テレビアニメ「るろうに剣心 －明治剣客浪漫譚－」第2期となる「京都動乱（きょうとどうらん）」の第2弾PVが公開された。あわせて、第1弾キービジュアルや先行上映会および第1クールのエンディング主題...",
+          "link": "https://anime.eiga.com/news/121913/",
+          "publishedOn": "2024-08-13T10:30:00.000Z",
+          "wordCount": 840,
+          "title": "「るろうに剣心」第2期「京都動乱」第2弾PVが公開　剣心たちと志々雄一派が対峙するキービジュアルも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/animehacktv/121910/",
           "author": null,
