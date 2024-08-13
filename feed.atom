@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T11:12:25.270Z</updated>
+    <updated>2024-08-13T11:25:10.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スターマー英首相、イランにイスラエル攻撃しないよう要請]]></title>
+        <id>https://www.bbc.com/japanese/articles/cdrlyp41mezo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cdrlyp41mezo"/>
+        <updated>2024-08-13T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[イギリスのキア・スターマー首相は12日、イランのマスード・ペゼシュキアン新大統領との電話会談で、イスラエルへの攻撃を「控える」よう要請した。レバノンのスラム教シーア派組織ヒズボラや、パレスチナ自治区ガザ地区のイスラム組織ハマスの幹部が相次いで暗殺されたことで、中東における紛争拡大の懸念が高まっている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突然「盗作」疑う通知文　イラストレーター襲う「トレパク冤罪」]]></title>
         <id>https://itainews.com/archives/2038620.html</id>
