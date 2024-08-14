@@ -513,6 +513,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/4369282458526c45bc69b0d5d78cc0f2fb20184d?source=rss",
+          "author": null,
+          "description": "江崎グリコは、システム障害で「プッチンプリン」などを出荷できなかった影響で、２０２４年中間決算の純利益が前年の同じ時期と比べて、５３％減益したと発表しました。\n　江崎グリコは４月に発生したシステム障",
+          "link": "https://news.yahoo.co.jp/articles/4369282458526c45bc69b0d5d78cc0f2fb20184d?source=rss",
+          "publishedOn": "2024-08-14T08:35:41.000Z",
+          "wordCount": 1654,
+          "title": "「プッチンプリン」出荷再開へ　出荷停止の影響で純利益５３％減益(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240814-00047160-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/61f19a38d2d9a41e69b3ac34aaf68570eab6fc7d?source=rss",
           "author": null,
           "description": "１４日午前、京都市右京区の桂川で、２歳の男の子が川に流されました。男の子は下流で救助され、一時意識不明でしたが、命に別状はないということです。\n　午前１１時前、京都市右京区京北周山町の桂川で、「川で",
@@ -5561,16 +5571,6 @@
           "wordCount": 761,
           "title": "東海道新幹線　静岡～浜松間で速度落とし運転　激しい雨を計測(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240716-00046693-asahibc-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8c8243f45d7d6220dcf15230799660c0e9f9e9a6?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本によりますと、関西線は１６日、亀山～加茂のあいだで、大雨のため始発から運転を見合わせました。\n\nその後、雨は小康状態となり、安全が確認されたとして、\n午前７時４７分に運転を再開しました。",
-          "link": "https://news.yahoo.co.jp/articles/8c8243f45d7d6220dcf15230799660c0e9f9e9a6?source=rss",
-          "publishedOn": "2024-07-15T20:19:48.000Z",
-          "wordCount": 769,
-          "title": "ＪＲ関西線　始発から運転見合わせ　大雨の影響で　８時前に運転再開(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240716-00046692-asahibc-000-3-view.jpg?exp=10800"
         }
       ]
     },
@@ -5579,6 +5579,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cq5dzzv4wxqo#0",
+          "author": null,
+          "description": "オーストラリアのメルボルン市は13日、レンタルの電動キックボードの禁止を決定した。許容できない安全リスクがあるとしている。",
+          "link": "https://www.bbc.com/japanese/articles/cq5dzzv4wxqo",
+          "publishedOn": "2024-08-14T08:27:45.000Z",
+          "wordCount": 1360,
+          "title": "電動キックボード、豪メルボルン市が禁止を決定　事故多発と苦情殺到で",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/cde9/live/82793170-5a0d-11ef-997c-711b7066309d.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c1l5pp26jn6o#0",
           "author": null,
