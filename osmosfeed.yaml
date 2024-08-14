@@ -5,13 +5,13 @@
 
 cacheUrl: https://pZShNg3UMDEl.github.io/myfeedreader/cache.json
 sources:
+  - href: https://www.4gamer.net/rss/wii/wii_news.xml
   - href: https://news.yahoo.co.jp/rss/media/asahibc/all.xml
   - href: http://feeds.bbci.co.uk/japanese/rss.xml
   - href: http://rss.itmedia.co.jp/rss/2.0/edn.xml
   - href: https://gadget.phileweb.com/feed/
   - href: http://image-sensors-world.blogspot.com/feeds/posts/default
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXteDRy5qB0IjA8WPusCJ7w
-  - href: https://ninten-switch.com/feed
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCS1qLgofM70kUlI1Wu5uqxg
   - href: https://anime.eiga.com/feed/news/rss.xml
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCtceiniicYEsbAVuWy-Bi0Q
