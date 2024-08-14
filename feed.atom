@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T03:18:32.225Z</updated>
+    <updated>2024-08-14T03:38:22.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イラン、自制求める西側の働きかけを拒絶　イスラエルへの報復攻撃めぐり]]></title>
+        <id>https://www.bbc.com/japanese/articles/c935n85g01no#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c935n85g01no"/>
+        <updated>2024-08-14T03:23:53.000Z</updated>
+        <summary type="html"><![CDATA[イスラム組織ハマスの指導者イスマイル・ハニヤ氏がイランの首都テヘランで殺害されたことをめぐり、イスラエルへの報復を宣言するイランに対し西側諸国が自制を呼びかけるなか、イランは13日、そうした求めを拒んだ。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクロLED版Apple Watch開発中止につき、LGがアップルに補償を要求か]]></title>
         <id>https://gadget.phileweb.com/?p=82326</id>
@@ -32143,16 +32153,6 @@ The 2025 International Image Sensor Workshop (IISW) provides a biennial opportun
 The scope of the workshop includes all aspects …]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonで「プライムデー」が7月16日より開始！Switchなどの対象商品も登場]]></title>
-        <id>https://ninten-switch.com/?p=369803</id>
-        <link href="https://ninten-switch.com/am-p-sale-2024-0716-start"/>
-        <updated>2024-07-15T15:19:40.000Z</updated>
-        <summary type="html"><![CDATA[2024年7月16日 0時から、プライム会員を対象としたビッグセール「Amazon プライムデー」が開始となりました。 今年の開催期間は、7月16日(火)0時～7月17日(水) 23時59分までの48時間となり、「たくさ […]]]></summary>
-        <author>
-            <name>管理人</name>
         </author>
     </entry>
 </feed>
