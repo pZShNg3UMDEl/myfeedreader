@@ -573,6 +573,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/9a5afb7589f7c3d344711abba907bb9a94a6621f?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第９日第２試合は岡山学芸館（岡山）と掛川西（静岡）が対戦し２ー０で岡山学芸館が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/9a5afb7589f7c3d344711abba907bb9a94a6621f?source=rss",
+          "publishedOn": "2024-08-15T04:17:23.000Z",
+          "wordCount": 1640,
+          "title": "岡山学芸館　２試合連続完封勝利　夏の高校野球(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240815-00047172-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/8dddd5d8cc7b0af08663f4d8da634f867d3834ac?source=rss",
           "author": null,
           "description": "15日午前4時すぎ、大阪府内で24万軒に上る大規模な停電が発生しました。すでに復旧していますが、原因はいまも不明です。\n関西電力送配電によりますと、午前4時3分ごろ、大阪市と守口市で最大24万460",
@@ -5529,6 +5539,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c23l47nj1edo#0",
+          "author": null,
+          "description": "パリ・オリンピック（五輪）では、出場選手たちの一握りが、栄誉あるメダルを獲得した。つらいトレーニングを重ね、多くの犠牲を払った末に手に入れた五輪メダルは、選手たちにどれほどの収入をもたらすのだろうか？イギリスの事情をみてみる。",
+          "link": "https://www.bbc.com/japanese/articles/c23l47nj1edo",
+          "publishedOn": "2024-08-15T04:29:23.000Z",
+          "wordCount": 1451,
+          "title": "五輪メダリストはどんな稼ぎを望めるのか　イギリス代表の場合",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/b535/live/08ab40b0-5a4c-11ef-b2d2-cdb23d5d7c5b.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/clyn6pp04r7o#0",
           "author": null,
@@ -23638,16 +23658,6 @@
           "wordCount": 1293,
           "title": "飼い主さんの膝上が好きすぎる子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76737.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=76745",
-          "author": "299",
-          "description": "今回ご紹介するのは便が硬くなってしまった子猫ちゃんです。 少しでもお通じを良く出来れば・・と水分補給を兼ねてミルクをあげてみました。 久々のミルクにご満悦な様子が可愛らしいのでご覧ください。 最初は子猫ちゃん達のワチャワ...\n久々の哺乳瓶ミルクに大喜びしてしまう子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/76745",
-          "publishedOn": "2024-07-16T16:30:32.000Z",
-          "wordCount": 1291,
-          "title": "久々の哺乳瓶ミルクに大喜びしてしまう子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76745.jpg"
         }
       ]
     },
