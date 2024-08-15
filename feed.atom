@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T07:13:42.819Z</updated>
+    <updated>2024-08-15T07:24:57.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪府松原市と堺市北区で停電(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1f0ded6fd071442a8865b66f310d1af20b3638e0?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1f0ded6fd071442a8865b66f310d1af20b3638e0?source=rss"/>
+        <updated>2024-08-15T07:19:26.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、15日午後3時35分ごろ大阪府松原市と堺市北区であわせて約280軒の停電が発生しています。復旧は午後6時ごろを見込んでいるということです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【解説】岸田首相にとって残酷な夏　多くの批判と不満を受け退任へ]]></title>
         <id>https://www.bbc.com/japanese/articles/czx67el9y79o#0</id>
