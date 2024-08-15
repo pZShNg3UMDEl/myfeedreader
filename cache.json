@@ -613,6 +613,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f4ca8fdd0414c8e03700d6bbaf088a97cacb72d2?source=rss",
+          "author": null,
+          "description": "先月、京都市左京区で木造住宅などが焼けた火事で、警察は１６日、放火の疑いで４４歳の女を逮捕しました。\n\n　現住建造物等放火の疑いで逮捕されたのは、京都市左京区に住む無職の女（４４）です。\n\n　女は先",
+          "link": "https://news.yahoo.co.jp/articles/f4ca8fdd0414c8e03700d6bbaf088a97cacb72d2?source=rss",
+          "publishedOn": "2024-08-15T12:19:03.000Z",
+          "wordCount": 1653,
+          "title": "７月の住宅火災で４４歳の女逮捕　京都市左京区の実家に放火した疑い　離れ全焼し近隣住宅にも延焼(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240815-00047186-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/59eb68f03d5842887cb10249ad89427808aa6f73?source=rss",
           "author": null,
           "description": "南海トラフ地震臨時情報が発表されてから１５日で１週間です。政府は特段の変化が見られないことから、注意の呼びかけを終了すると発表しました。\n\n　和歌山県白浜町の白良浜海水浴場では再開にあたって海水浴場",
@@ -8405,16 +8415,6 @@
           "wordCount": 2669,
           "title": "独り勝ちのNVIDIA、中国の対米規制： 2024年上半期の半導体業界を振り返る ―― 電子版2024年7月号",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/17/mm220117_denshiban01_w490.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2407/17/news065.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、同社第3世代品となる1200VのSiC（炭化ケイ素）ショットキーダイオード16種を発表した。埋め込み型のMPS構造を採用し、定格電流5～40Aを用意する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2407/17/news065.html",
-          "publishedOn": "2024-07-17T00:00:00.000Z",
-          "wordCount": 2551,
-          "title": "1200VのSiCショットキーダイオード",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/17/cover_news065.jpg"
         }
       ]
     },
@@ -10220,6 +10220,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121934/",
+          "author": null,
+          "description": "広島市で開催される2年に1度のアニメーション芸術の祭典「ひろしまアニメーションシーズン2024（HAS）」が8月14日、開幕した。オープニング作品で、「オオカミの家」のレオン＆コシーニャによる新...",
+          "link": "https://anime.eiga.com/news/121934/",
+          "publishedOn": "2024-08-15T12:00:00.000Z",
+          "wordCount": 762,
+          "title": "「オオカミの家」監督の新作「ハイパーボリア人」日本初上映、ホアキン・コシーニャが来日し語る",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121939/",
           "author": null,
@@ -13500,6 +13515,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10610",
+          "author": "watanabe@logipara.com",
+          "description": "何で？？？？",
+          "link": "https://logipara.com/diary-text/2024-08-16/",
+          "publishedOn": "2024-08-15T12:07:27.000Z",
+          "wordCount": 4391,
+          "title": "本日の「どういう意図でそれ置いたの大賞」",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/08/image-4-1.jpg"
+        },
+        {
           "id": "https://logipara.com/?p=10605",
           "author": "watanabe@logipara.com",
           "description": "歯列矯正おじさんですこんにちは。 ワイヤー矯正を初めて一週間経ち、人と飲む機会も何回かありました。 ところが、割とみなさん、私が矯正していることに気づかない。 いやいや、インビザライン(マウスピース)ならまだしも、歯にこ […]",
@@ -14160,6 +14185,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=255410",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝食メニュー、「あんしん”だから“おいしい”。」、みんなにやさしいファミリーレストランチェーン「ロイヤルホスト」へ […]",
+          "link": "https://foodfighter.jp/royal-host-morning",
+          "publishedOn": "2024-08-15T12:28:51.000Z",
+          "wordCount": 1740,
+          "title": "【ロイヤルホスト】ロイヤルホストモーニング（オニオングラタンスープ・サラダ付）【朝食メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/065c21e2675bce0cef49a04e886757df.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=255394",
           "author": "foodfighter",
@@ -15507,6 +15542,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2038681.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/08/15(木) 12:26:11.90 ID:J/J8Mx9m0●.net\n\n\n\n\n\n\n\n\n\n\nボクシング女子金イマネ・ヘリフが実業家イーロン・マスク氏やハリー・ポッター原作者らを告訴 #パリ五輪 #Paris2024 #Olympics #ボクシング #イマネ・ヘリフ #誹謗中傷https://t.c...",
+          "link": "https://itainews.com/archives/2038681.html",
+          "publishedOn": "2024-08-15T12:01:39.000Z",
+          "wordCount": 2629,
+          "title": "ボクシング女子金イマネ・ヘリフが実業家イーロン・マスク氏やハリー・ポッター原作者らを告訴",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/5/e5c40416-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2038670.html",
           "author": "dqnplus",
@@ -23963,16 +24008,6 @@
           "wordCount": 1289,
           "title": "飼い主さんの膝上が好きすぎる子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76703.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=76733",
-          "author": "299",
-          "description": "今回ご紹介するのは生後13日目になり、やっと目が開いた子猫ちゃん達です。 周囲をキョロキョロする様子や母猫に甘える姿が愛らしいのでご覧ください。 母猫アグシャちゃんが出産し、その子猫ちゃん達も無事に生後13日目へと突入し...\n生後13日目になる子猫達が可愛すぎる件 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/76733",
-          "publishedOn": "2024-07-17T00:00:19.000Z",
-          "wordCount": 1291,
-          "title": "生後13日目になる子猫達が可愛すぎる件",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76733.jpg"
         }
       ]
     },
