@@ -683,6 +683,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/8e0a6f24ecec9dcf3c5e526b3ea95ebee2ac6174?source=rss",
+          "author": null,
+          "description": "非常に強い勢力で関東に接近する台風7号。お盆のUターンラッシュを直撃し、関西にも影響が出ています。",
+          "link": "https://news.yahoo.co.jp/articles/8e0a6f24ecec9dcf3c5e526b3ea95ebee2ac6174?source=rss",
+          "publishedOn": "2024-08-16T10:15:41.000Z",
+          "wordCount": 1731,
+          "title": "【お盆のUターンラッシュ直撃】非常に強い「台風7号」　関東地方に今夜最接近　新幹線や空の便に影響　京都に足止めのアメリカ人女性「東京からアリゾナに帰るはずだったがもう2泊する」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240816-00010000-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/9456e962335ed04dfb4402853b885529fee1c29c?source=rss",
           "author": null,
           "description": "兵庫県の斎藤知事がパワハラなどの疑惑を内部告発された問題で、県は、体調不良が原因で空席や病欠となっていた２つの幹部ポストの後任人事を発表しました。\n\n　現在の県のナンバー３にあたる「理事」は、知事が",
@@ -5650,6 +5660,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cvg5p313rxzo#0",
+          "author": null,
+          "description": "ウクライナがロシア南部クルスク州へ越境攻撃を仕掛けてから1週間がたった。突然始まった襲撃は、ロシアと西側の指導者たちを驚かせるとともに、西側が支援するウクライナ防衛における、最も危険なジレンマの一つを浮き彫りにした。",
+          "link": "https://www.bbc.com/japanese/articles/cvg5p313rxzo",
+          "publishedOn": "2024-08-16T10:19:14.000Z",
+          "wordCount": 1444,
+          "title": "【解説】ウクライナの越境攻撃にアメリカ製兵器は使われたのか……バイデン政権のジレンマ",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/66fd/live/36109360-5b97-11ef-8f0f-0577398c3339.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cn5rxkn1n6yo#0",
           "author": null,
           "description": "カタール・ドーハで15日、パレスチナ自治区ガザ地区での停戦と、人質の解放に関する合意をめぐる間接的な協議が再開された。アメリカはこの新たな協議が「順調なスタート」を切ったとしている。イスラエルとイスラム組織ハマスの戦闘が続くガザでは、パレスチナ人の死者が4万人を超えている。",
@@ -8344,6 +8364,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=82664",
+          "author": "編集部：小野佳希",
+          "description": "KDDIおよび沖縄セルラー電話は、povo2.0のデータ使い放題トッピングの期間満了時刻を、2024年9月17日購入分から変更する。 現在、データ使い放題トッピングは期間満了日の23時59分59秒まで利用可能。9月17日購入分からは、これが「期間満了時刻まで」に変更される。 例えば、「データ使い放題 […]",
+          "link": "https://gadget.phileweb.com/post-82664/",
+          "publishedOn": "2024-08-16T10:35:12.000Z",
+          "wordCount": 698,
+          "title": "povo2.0「データ使い放題トッピング」の利用期限が変更へ。「満了日の23時59分」から「期間満了時刻まで」に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/povo.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=82627",
           "author": "Munenori Taniguchi",
           "description": "Googleは15日、米国でのみ公開していたAIによる検索結果の要約機能「AI Overviews」を、日本を含む6か国で新たに開始すると発表した。今後数週間で検索結果に要約表示が表れるようになる。 AI Overviewsは自然な言葉での検索に対し、回答になるインターネット上のウェブサイトの内容を […]",
@@ -10150,6 +10180,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121951/",
+          "author": null,
+          "description": "「僕のヒーローアカデミア」第7期の第13話「連なる星霜」が8月17日に放送される。同話では、ついにデクと死柄木が直接対決の時を迎える。そんな待望の一戦に向けて、第3弾PV「デクvs死柄木」が公開...",
+          "link": "https://anime.eiga.com/news/121951/",
+          "publishedOn": "2024-08-16T10:30:00.000Z",
+          "wordCount": 837,
+          "title": "【明日放送】デクvs死柄木、ついに直接対決　「ヒロアカ」7期、熱い戦いを収めたPV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/tokuten_list/121950/",
           "author": null,
