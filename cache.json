@@ -5520,6 +5520,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c75ndpzedkqo#0",
+          "author": null,
+          "description": "11月のアメリカ大統領選に向けて、民主党のカマラ・ハリス副大統領は16日、経済政策を主題とした演説を初めて行い、数百万棟規模の住宅新築促進や持ち家取得の支援、食料品の便乗値上げ規制、医療費借金の帳消し、子供税額控除などを公約として掲げた。",
+          "link": "https://www.bbc.com/japanese/articles/c75ndpzedkqo",
+          "publishedOn": "2024-08-17T03:10:57.000Z",
+          "wordCount": 1441,
+          "title": "【米大統領選2024】新築住宅促進、食品の便乗値上げ規制……ハリス副大統領、経済公約示す",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/16dd/live/4bcb8670-5c3b-11ef-b970-9f202720b57a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cx2l0v9870go#0",
+          "author": null,
+          "description": "ウクライナ軍は越境攻撃を続けるロシア西部クルスク州で16日、セイム川に架かる戦略的に重要な橋を破壊した。",
+          "link": "https://www.bbc.com/japanese/articles/cx2l0v9870go",
+          "publishedOn": "2024-08-17T03:10:05.000Z",
+          "wordCount": 1688,
+          "title": "ウクライナ、ロシア西部で橋を破壊　補給の要所",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/03cc/live/71214f20-5c42-11ef-8c32-f3c2bc7494c6.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cvg5p313rxzo#0",
           "author": null,
           "description": "ウクライナがロシア南部クルスク州へ越境攻撃を仕掛けてから1週間がたった。突然始まった襲撃は、ロシアと西側の指導者たちを驚かせるとともに、西側が支援するウクライナ防衛における、最も危険なジレンマの一つを浮き彫りにした。",
@@ -9880,6 +9900,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/121940/",
+          "author": null,
+          "description": "「僕のヒーローアカデミア」の劇場版第4弾「僕のヒーローアカデミア THE MOVIE ユアネクスト」が公開中です。 8月2日に公開された同作は、初日3日間の観客動員数60.8万人、興行収入8.9...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/121940/",
+          "publishedOn": "2024-08-17T03:00:00.000Z",
+          "wordCount": 1069,
+          "title": "劇場版「ヒロアカ ユアネクスト」キャラクターまとめ　各キャラの見どころ・声優情報を一挙紹介",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121954/",
           "author": null,
@@ -15163,6 +15198,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2038716.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/08/16(金) 15:59:11.05 ID:0xa4lGNf0●.net\n\n\n\n\n\n\n\n\n\n居酒屋にてはまぐり頼んだのにホンビノス貝って言う格安の貝出てきて、店員呼んで詰めたら貝代サービスしてくれたわ😜舐めんなよw pic.twitter.com/QyS9lZqGyX— 塩プロ＠ビーター ...",
+          "link": "https://itainews.com/archives/2038716.html",
+          "publishedOn": "2024-08-17T03:01:23.000Z",
+          "wordCount": 2415,
+          "title": "居酒屋で「ハマグリ」注文したのに安い「ホンビノス貝」が出てきた！ お金払わなくていい？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/7/a73257b3-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2038715.html",
           "author": "dqnplus",
           "description": "1 ：名無しさん＠涙目です。：2024/08/16(金) 15:29:48.57 ID:ZT3NzTWz0●.net\n\n\n\n\n\n\n\n\n\n\n【速報 JUST IN 】日経平均株価 終値1300円以上値上がり 3万8000円台回復https://t.co/CMCBjYPeCQ #nhk_news— NHKニュース (@nhk_news) August 16, 2024 \n\n\n\n\n\n\n\n\n\n日経平均株価 ...",
@@ -19911,16 +19956,6 @@
           "wordCount": 2503,
           "title": "在日白人　「日本人は黒人を奴隷にしてきた」　日本人「それ嘘ですよ」　白人「エビデンスは？」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/c/9c635f3c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037725.html",
-          "author": "dqnplus",
-          "description": "1 名前：それでも動く名無し：2024/07/18(木) 15:33:44.16 ID:cSpebbv40.net\n\n\n\n\n\n\n\n\nスッキリ♪ pic.twitter.com/dgus0sMvIS— 大久保バル (@okubo_BAR) July 5, 2024 \n\n\n\n\n\n\nhttps://i.imgur.com/KrC8yDa.jpeg\n↓\nhttps://i.imgur.com/4KoGQNo.jpeg\nhttps://i.imgur.co...",
-          "link": "https://itainews.com/archives/2037725.html",
-          "publishedOn": "2024-07-18T15:03:14.000Z",
-          "wordCount": 2443,
-          "title": "【悲報】居酒屋「嫌な思いをしたくないので中国人と韓国人はお断りします♪」→絶賛の声",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/2/82ab8f98-s.png"
         }
       ]
     },
