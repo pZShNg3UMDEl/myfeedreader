@@ -7658,26 +7658,6 @@
           "wordCount": 1444,
           "title": "スパイ容疑で逮捕の米記者に禁錮16年　ロシア",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/ebfd/live/dd12e5c0-463c-11ef-96a8-e710c6bfc866.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c1e50pj9kd3o#0",
-          "author": null,
-          "description": "国際司法裁判所（ICJ）は19日、イスラエルによるパレスチナ占領政策は国際法に違反しているという、画期的な勧告的意見を出した。ICJ は、イスラエルにはヨルダン川西岸と東エルサレムで続くユダヤ人の入植活動を停止する義務があると勧告した。",
-          "link": "https://www.bbc.com/japanese/articles/c1e50pj9kd3o",
-          "publishedOn": "2024-07-20T01:34:52.000Z",
-          "wordCount": 1539,
-          "title": "イスラエルのパレスチナ占領政策は国際法違反、国際司法裁判所が勧告意見",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/4799/live/1660a190-4634-11ef-96a8-e710c6bfc866.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cxw2gpz9k2zo#0",
-          "author": null,
-          "description": "世界各地で18日から19日にかけ、大規模なIT障害が発生し、企業の業務に混乱を招いている。サイバーセキュリティー企業「クラウドストライク」は、ソフトウエアの更新時に障害があったと発表。この障害により、米マイクロソフトのパソコン基本ソフト（OS）ウィンドウズが使用できなくなり、世界各地の企業や銀行、銀行、病院、空港などの運営に影響が出た。",
-          "link": "https://www.bbc.com/japanese/articles/cxw2gpz9k2zo",
-          "publishedOn": "2024-07-20T01:30:19.000Z",
-          "wordCount": 1447,
-          "title": "ウィンドウズのセキュリティーソフトで大規模障害、世界各地で空港や銀行が運営できず",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/3a36/live/cf5279e0-4633-11ef-b74c-bb483a802c97.jpg"
         }
       ]
     },
@@ -9680,6 +9660,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121946/",
+          "author": null,
+          "description": "テレビアニメ「嘆きの亡霊は引退したい」のアニメ映像初披露となる第1弾PVと第2弾ティザービジュアルが公開され、オープニングテーマをLezel、エンディングテーマをP丸様。が担当することが発表され...",
+          "link": "https://anime.eiga.com/news/121946/",
+          "publishedOn": "2024-08-18T13:30:00.000Z",
+          "wordCount": 865,
+          "title": "「嘆きの亡霊は引退したい」アニメ映像初披露のPV公開　主題歌アーティスト、追加キャスト発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121903/",
           "author": null,
@@ -13317,16 +13312,6 @@
           "publishedOn": "2024-07-20T14:09:52.000Z",
           "wordCount": 4402,
           "title": "怠惰の味",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10419",
-          "author": "watanabe@logipara.com",
-          "description": "金曜日の午後のことです。 仕事に熱心すぎるワタナベさん、仕事をしながらもTwitterでの情報収集を欠かさなかったわけです。 すると。 「会社のPCがブルースクリーンになって回復しない」 というツイートが散見されました。 […]",
-          "link": "https://logipara.com/diary-text/2024-07-20/",
-          "publishedOn": "2024-07-20T01:19:58.000Z",
-          "wordCount": 4393,
-          "title": "全世界的な障害発生",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
