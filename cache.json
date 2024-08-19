@@ -7577,6 +7577,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2408/19/news063.html",
+          "author": null,
+          "description": "ネクスペリアは、抵抗値17mΩ、電流13.5Aの電子ヒューズ「NPS3102A」「NPS3102B」を発表した。下流の負荷を過電圧から保護し、電源を負荷障害や突入電流から保護する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2408/19/news063.html",
+          "publishedOn": "2024-08-19T00:00:00.000Z",
+          "wordCount": 2544,
+          "title": "自動リセット、低抵抗FET内蔵の電子ヒューズ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/19/cover_news063.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2408/16/news001.html",
           "author": null,
           "description": "EDN Japanの記事からクイズを出題！　半導体／エレクトロニクス技術の知識を楽しく増やしていきましょう。",
@@ -9170,6 +9180,16 @@
       "feedUrl": "http://image-sensors-world.blogspot.com/feeds/posts/default",
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/08/job-postings-week-of-18-august-2024.html",
+          "author": null,
+          "description": "Omnivision\nPrincipal Image Sensor Technology\n  Engineer\nSanta Clara, California, USA\nLink\nTeledyne\nProduct Assurance Engineer\nChelmsford, England, UK\nLink\nTokyo Electron Labs\nHeterogenous Integration Process\n  Engineer I\nAlbany, New York, USA\nLink\nFraunhofer IMS\nDoktorand*in Optische Detektoren\n  mit integrierten 2D-Materialien \nDuisburg, Germany\nLink\nAMETEK Forza Silicon\nPrincipal Mixed Signal Design\n  Engineer\nPasadena, CA, USA\nLink\nUniversity of Birmingham \nProfessor of Silicon Detector\n  Instrumentation for Particle Physics\nBirmingham, England, UK\nLink\nOuster\nSensor Package Design Engineer\nSan Francisco, California, USA\nLink\nBeijing Institute of High Energy\n  Physics\nCEPC Overseas High-Level Young\n  Talents\nBeijing, China\nLink\nThermo\n  Fisher Scientific\nSr. Staff Product Engineer\nWaltham, Massachusetts, USA (Remote)\nLink",
+          "link": "http://image-sensors-world.blogspot.com/2024/08/job-postings-week-of-18-august-2024.html",
+          "publishedOn": "2024-08-19T00:45:00.001Z",
+          "wordCount": 3827,
+          "title": "Job Postings - Week of 18 August 2024",
+          "imageUrl": null
+        },
         {
           "id": "http://image-sensors-world.blogspot.com/2024/08/harvest-imaging-forum-2024-registration.html",
           "author": null,
@@ -12754,36 +12774,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121667/",
-          "author": null,
-          "description": "大ヒットディズニー映画の続編「モアナと伝説の海2」の日本語吹き替え版で、モアナ役の屋比久知奈と、マウイ役の尾上松也が続投することが決定。あわせて、吹き替え版の特別映像もお披露目された。 第89回...",
-          "link": "https://anime.eiga.com/news/121667/",
-          "publishedOn": "2024-07-20T13:00:00.000Z",
-          "wordCount": 697,
-          "title": "「モアナと伝説の海2」屋比久知奈＆尾上松也が続投　モアナ＆マウイが再会する、日本語吹替版の特別映像も",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121710/",
-          "author": null,
-          "description": "「映画 ギヴン 海へ」の全国公開日が9月20日に決定し、本予告と本ポスタービジュアルが披露された。主題歌は、シリーズおなじみのセンチミリメンタルが担当する。 2019年放送のテレビシリーズでスタ...",
-          "link": "https://anime.eiga.com/news/121710/",
-          "publishedOn": "2024-07-20T12:00:00.000Z",
-          "wordCount": 799,
-          "title": "「ギヴン」完結作「映画 ギヴン 海へ」9月20日公開決定、本予告＆ポスター公開　主題歌はセンチミリメンタル",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -13253,6 +13243,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=44649",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです♪ 今回は久々に、子供の習い事ジャンルに密着取材★ 厚木市金田にある、厚木市ふれあいプラザ内のプール教室にお邪魔してきました～！ 子供に人気の習い事ランキングでも常に上位の水泳教室 初めてでも大丈夫かな？ ど…",
+          "link": "https://atsugi-lab.com/report-fureaip-swimlesson202408/",
+          "publishedOn": "2024-08-19T00:30:09.000Z",
+          "wordCount": 1309,
+          "title": "【無料体験会も★】指導力に定評！厚木市ふれあいプラザのプール教室に密着取材♪定期教室の申込み受付中★［厚木市金田］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/08/shinko-s-img.png"
+        },
         {
           "id": "https://atsugi-lab.com/?p=44155",
           "author": "田原",
@@ -19526,26 +19526,6 @@
           "wordCount": 2405,
           "title": "【京都丹後】エアコンを効かせるため窓締切って焼肉、男女１２人搬送　一酸化炭素中毒か",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/1/d17c6e80-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037779.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(秋田県) [US]：2024/07/20(土) 07:13:30.46 ID:gD/tyGm00●.net\n\n\n\n\n\n\n\n同意の上の性交で避妊を拒んだ男性に賠償命令　「自己決定権の侵害」(朝日新聞デジタル)#Yahooニュースhttps://t.co/wQnS1ztLhx— Shinya ICHINOHE/一戸信哉 (@shin...",
-          "link": "https://itainews.com/archives/2037779.html",
-          "publishedOn": "2024-07-20T12:47:28.000Z",
-          "wordCount": 2400,
-          "title": "女性「避妊して」男性「ヤダ。生中出しします」男性に74万円の賠償命令へ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/9/49522aaa-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037780.html",
-          "author": "dqnplus",
-          "description": "0001 名無しさん＠涙目です。(愛媛県) [US] 2024/07/20(土) 10:18:48.40\n\n\n\n\n\n\n\n\n\n\n移民船火災で40人死亡 － ハイチ沖、儀式で爆発https://t.co/hkmseysnwQ— 共同通信公式 (@kyodo_official) July 19, 2024 \n\n\n\n\n\n\n\n\n\n移民船火災で40人死亡　ハイチ沖、儀式で爆発\n\n　【...",
-          "link": "https://itainews.com/archives/2037780.html",
-          "publishedOn": "2024-07-20T12:46:03.000Z",
-          "wordCount": 2400,
-          "title": "移民船、船上で安全を祈る儀式行いマッチ使用　ガソリンに引火し爆発４０人死亡",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/d/4daa004e-s.png"
         }
       ]
     },
@@ -19554,6 +19534,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=78853",
+          "author": "299",
+          "description": "おとなの猫がふわふわのしっぽをゆっくりユラユラさせています。どうやら苛立っているようですね〜。 それもそのはず、この猫はお父さん猫でちょうどそばで子猫がお父さん猫にしつこくちょっかいを出してきていたところだったのです。 ...\n子猫に対して教育的指導をするパパ猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/78853",
+          "publishedOn": "2024-08-19T00:00:46.000Z",
+          "wordCount": 1356,
+          "title": "子猫に対して教育的指導をするパパ猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/78853.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=78819",
           "author": "299",
@@ -23083,16 +23073,6 @@
           "wordCount": 1350,
           "title": "子猫が保護を求めてきたと思ったら",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76929.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=76916",
-          "author": "299",
-          "description": "愛する愛猫たちのために飼い主さんが精魂込めて制作した簡易的猫マンションがこちら・・・。 三階建てで部屋数は12室（うち左右6室は狭すぎて侵入不可）の立派な？作りです。 子猫たちもこのプレゼントを大変気に入った様子で、とっ...\n飼い主手作りの猫用マンションに子猫たちは大喜び！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/76916",
-          "publishedOn": "2024-07-20T13:00:10.000Z",
-          "wordCount": 1346,
-          "title": "飼い主手作りの猫用マンションに子猫たちは大喜び！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/76916.jpg"
         }
       ]
     },
