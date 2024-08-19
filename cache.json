@@ -9491,6 +9491,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/08/avoiding-information-loss-in-photon.html",
+          "author": null,
+          "description": "In a recent paper titled \"PCH-EM: A Solution to Information Loss in the Photon Transfer Method\" in IEEE Trans. on Electron Devices, Aaron Hendrickson et al. propose a new statistical technique to estimate CIS parameters such as conversion gain and read noise.\n\nAbstract: Working from a Poisson-Gaussian noise model, a multisample extension of the photon counting histogram expectation-maximization (PCH-EM) algorithm is derived as a general-purpose alternative to the photon transfer (PT) method. This algorithm is derived from the same model, requires the same experimental data, and estimates the same sensor performance parameters as the time-tested PT method, all while obtaining lower uncertainty estimates. It is shown that as read noise becomes large, multiple data samples are necessary to ca…",
+          "link": "http://image-sensors-world.blogspot.com/2024/08/avoiding-information-loss-in-photon.html",
+          "publishedOn": "2024-08-19T15:21:00.002Z",
+          "wordCount": 4061,
+          "title": "Avoiding information loss in the photon transfer method",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWiQe3plr13O58bzfCC0QrF-y2-chuJiY6-H8NNgF3jfQCUQ_BHfVFvzB-1WnIrqPpv1dx28skbm2R5yWt2f7sgXuWpOY0bZlLrMrq4LzU_YteE_3N0pJ_x1-4Bb1UbJ9uzzefQiNbk4SUKRLAp4Ft3qepDC4or9YFhe4_Rdg1syX-s9nHO3LQ/w1200-h630-p-k-no-nu/hendr2-3414369-large.gif"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/08/job-postings-week-of-18-august-2024.html",
           "author": null,
           "description": "Omnivision\nPrincipal Image Sensor Technology\n  Engineer\nSanta Clara, California, USA\nLink\nTeledyne\nProduct Assurance Engineer\nChelmsford, England, UK\nLink\nTokyo Electron Labs\nHeterogenous Integration Process\n  Engineer I\nAlbany, New York, USA\nLink\nFraunhofer IMS\nDoktorand*in Optische Detektoren\n  mit integrierten 2D-Materialien \nDuisburg, Germany\nLink\nAMETEK Forza Silicon\nPrincipal Mixed Signal Design\n  Engineer\nPasadena, CA, USA\nLink\nUniversity of Birmingham \nProfessor of Silicon Detector\n  Instrumentation for Particle Physics\nBirmingham, England, UK\nLink\nOuster\nSensor Package Design Engineer\nSan Francisco, California, USA\nLink\nBeijing Institute of High Energy\n  Physics\nCEPC Overseas High-Level Young\n  Talents\nBeijing, China\nLink\nThermo\n  Fisher Scientific\nSr. Staff Product Engineer\nWaltham, Massachusetts, USA (Remote)\nLink",

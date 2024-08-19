@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T15:16:33.803Z</updated>
+    <updated>2024-08-19T15:36:17.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avoiding information loss in the photon transfer method]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/08/avoiding-information-loss-in-photon.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/08/avoiding-information-loss-in-photon.html"/>
+        <updated>2024-08-19T15:21:00.002Z</updated>
+        <summary type="html"><![CDATA[In a recent paper titled "PCH-EM: A Solution to Information Loss in the Photon Transfer Method" in IEEE Trans. on Electron Devices, Aaron Hendrickson et al. propose a new statistical technique to estimate CIS parameters such as conversion gain and read noise.
+
+Abstract: Working from a Poisson-Gaussian noise model, a multisample extension of the photon counting histogram expectation-maximization (PCH-EM) algorithm is derived as a general-purpose alternative to the photon transfer (PT) method. This algorithm is derived from the same model, requires the same experimental data, and estimates the same sensor performance parameters as the time-tested PT method, all while obtaining lower uncertainty estimates. It is shown that as read noise becomes large, multiple data samples are necessary to ca…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】一膳ごはん 明太バター（もち麦）【新作コンビニ弁当】]]></title>
         <id>https://foodfighter.jp/?p=255793</id>
