@@ -753,6 +753,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/a2cb6fe284f92b0c05568da4f4c3959911950326?source=rss",
+          "author": null,
+          "description": "夏の高校野球、準々決勝第２試合は滋賀学園（滋賀）と青森山田（青森）が対戦しました。\n０－１で青森山田が勝利し、ベスト４進出を決めました。",
+          "link": "https://news.yahoo.co.jp/articles/a2cb6fe284f92b0c05568da4f4c3959911950326?source=rss",
+          "publishedOn": "2024-08-19T03:32:38.000Z",
+          "wordCount": 1580,
+          "title": "夏の高校野球　青森山田がベスト４入り　準々決勝第２試合(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240819-00047225-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c1071fcf938495bff0bf0047c6f8c5c2d4bf75e6?source=rss",
+          "author": null,
+          "description": "大阪市阿倍野区の高台の駐車場から乗用車が線路脇の道路に転落する事故が起きました。\n\n　19日午前10時40分ごろ、阿倍野区旭町1丁目で「駐車場から（車が）勢いよくフェンスを乗り越えて落ちた」と通行人",
+          "link": "https://news.yahoo.co.jp/articles/c1071fcf938495bff0bf0047c6f8c5c2d4bf75e6?source=rss",
+          "publishedOn": "2024-08-19T03:31:25.000Z",
+          "wordCount": 1582,
+          "title": "【速報】駐車場から車が転落　数メートル下の線路脇の道路にひっくり返った状態で　大阪・阿倍野区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240819-00010000-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/3526493edb82df9ade12eed5f4d8c758861da705?source=rss",
           "author": null,
           "description": "夏の高校野球、準々決勝第１試合は関東第一（東東京）と東海大相模（神奈川）の関東勢対決となりました。\n２ー１で関東第一が勝利し、準決勝へ進みます。",
@@ -7883,6 +7903,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=82689",
+          "author": "多根清史",
+          "description": "アップルのワイヤレスイヤホンAirPodsシリーズは、ここ最近は全く動きがない。が、早ければ来月（9月）にも第4世代モデルが2つ、低価格帯と中価格帯の両方が発売されるとの噂が報じられている。 AirPods(第2世代）は2019年初頭に発売されたものだ。初代のデザインを踏襲し、音楽の視聴や通話など最 […]",
+          "link": "https://gadget.phileweb.com/post-82689/",
+          "publishedOn": "2024-08-19T03:20:33.000Z",
+          "wordCount": 715,
+          "title": "第4世代AirPodsが2種類、早ければ9月に発売か。上位モデルはノイキャンあり？",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/shutterstock_2067517373.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=82685",
           "author": "Munenori Taniguchi",
