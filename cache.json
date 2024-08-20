@@ -873,6 +873,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/b0ac3c895531467736ba78047b91032252d6d4b2?source=rss",
+          "author": null,
+          "description": "兵庫県姫路市で、４５歳の女が運転する軽自動車が２歳の男の子をはねる事故があり、男の子は搬送先の病院で死亡が確認されました。\n\n　過失運転致傷の疑いで逮捕された村田央江容疑者（４５）は２０日午後４時半",
+          "link": "https://news.yahoo.co.jp/articles/b0ac3c895531467736ba78047b91032252d6d4b2?source=rss",
+          "publishedOn": "2024-08-20T12:52:22.000Z",
+          "wordCount": 1637,
+          "title": "２歳男児が車にはねられ死亡　運転手の４５歳女を逮捕「ぶつかる直前まで気づかず」　近くには子ども用の二輪車　兵庫・姫路市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240820-00047259-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/39ebf0a3376cf840aa3f349245ccdd7495b82f13?source=rss",
           "author": null,
           "description": "秋の時代祭行列に向けて衣装を点検しました。\n\n　京都市の平安神宮では、京都三大祭りの一つ、時代祭で使われる衣装の点検が行われました。\n\n　時代祭では、平安時代から明治維新までの衣装を身にまとった約２",
@@ -5751,16 +5761,6 @@
           "wordCount": 771,
           "title": "【速報】東海道新幹線　復旧のめど立たず　ＡＮＡが羽田ー伊丹の臨時便を運航(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046793-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/67096aabfe4f5f299cdb281e3f0b60300b848281?source=rss",
-          "author": null,
-          "description": "22日未明、大阪市此花区の路上で、中国国籍の観光客の男性が男に刃物で襲われ金を要求されました。男性はその場から逃げて何も取られませんでしたが、腕を切られたということです。警察が強盗致傷事件とみて捜査",
-          "link": "https://news.yahoo.co.jp/articles/67096aabfe4f5f299cdb281e3f0b60300b848281?source=rss",
-          "publishedOn": "2024-07-22T00:43:47.000Z",
-          "wordCount": 755,
-          "title": "中国人観光客が男に刃物で襲われ腕を切られるけが　「マネーマネー」と金を要求　コンビニに駆け込み通報　強盗致傷事件で捜査　大阪・此花区(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -8078,16 +8078,6 @@
           "wordCount": 1455,
           "title": "【米大統領選2024】バイデン大統領の撤退決定、側近も驚く　知る人ぞ知る決心と発表の経緯",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/0fc1/live/875f51d0-47d2-11ef-96a8-e710c6bfc866.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cw0y8kqp4xno#0",
-          "author": null,
-          "description": "バイデン米大統領は21日、 大統領選から撤退すると発表 し、アメリカの有権者を驚かせた。民主党はこれによって、まったく未知の領域に放り込まれた。8月19日から始まる民主党全国党大会まで、ひと月を切っている。今後あり得る展開を簡単に説明する。",
-          "link": "https://www.bbc.com/japanese/articles/cw0y8kqp4xno",
-          "publishedOn": "2024-07-22T00:54:56.000Z",
-          "wordCount": 1511,
-          "title": "【米大統領選2024】 撤退のバイデン氏、ハリス副大統領を支持　ではこの次は？",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/91e2/live/a0b707d0-47bf-11ef-9e1c-3b4a473456a6.jpg"
         }
       ]
     },
@@ -8365,16 +8355,6 @@
           "wordCount": 2606,
           "title": "Wi-Fi 6E、BLE対応のコネクテッドMCU",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/23/cover_news038.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2407/22/news075.html",
-          "author": null,
-          "description": "日置電機は、データロガー用の電力計測モジュール「M7103」を発売する。最大でDC1500VおよびAC1000Vの直接入力に対応していて、1500Vの太陽光インバーターにも使用できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2407/22/news075.html",
-          "publishedOn": "2024-07-22T00:30:00.000Z",
-          "wordCount": 2546,
-          "title": "DC1500V／AC1000V対応のデータロガー用電力計測モジュール",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/22/cover_news075.jpg"
         }
       ]
     },
@@ -15582,6 +15562,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2038815.html",
+          "author": "damono3856",
+          "description": "1 名前：＠おっさん友の会 ★：2024/08/20(火) 10:23:14.54 ID:DmnXYLie9.net\n\n\n\n\n\n\n\n発泡スチロールの箱を押さえていたが…軽トラ荷台に乗ったインドネシア人実習生がカーブで転落、死亡https://t.co/yDnoIuwxAz#ニュース— 読売新聞オンライン (@Yomiuri_Online) Augus...",
+          "link": "https://itainews.com/archives/2038815.html",
+          "publishedOn": "2024-08-20T12:44:19.000Z",
+          "wordCount": 2399,
+          "title": "【茨城】発泡スチロールの箱を押さえていたが…軽トラ荷台に乗ったインドネシア人実習生がカーブで転落、死亡",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/1/c17f9ce1-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2038817.html",
           "author": "dqnplus",
