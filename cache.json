@@ -833,6 +833,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/ae70eae2947243ce7f08178acf42bca700c7b485?source=rss",
+          "author": null,
+          "description": "各地のスーパーの店頭から米の在庫がなくなるなど「令和のコメ騒動」とも言われる中、米どころとして有名な滋賀県では「近江米」の初出荷がありました。\n\n　高島市にあるＪＡレーク滋賀の倉庫には、極早生品種の",
+          "link": "https://news.yahoo.co.jp/articles/ae70eae2947243ce7f08178acf42bca700c7b485?source=rss",
+          "publishedOn": "2024-08-20T04:20:24.000Z",
+          "wordCount": 1619,
+          "title": "「令和のコメ騒動」で米不足続く中…近江米の初出荷　例年より収穫量アップ　滋賀・高島市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240820-00047246-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/3b71fea06007a9f6c8205768e17017ebb614055a?source=rss",
           "author": null,
           "description": "ＪＲ東海によりますと２０日午前１０時半ごろ、品川駅に停車していた「のぞみ２２３号」の運転台のモニターに一部号車のブレーキ機能が正常ではないという表示が出たため、当該車両の使用をとりやめ、別の車両に充",
@@ -5609,6 +5619,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c049d376g4ko#0",
+          "author": null,
+          "description": "ウクライナ政府は19日、東部ドンバス地方の主要都市ポクロフスクと周辺で、子供がいる世帯の住民に避難を命じた。ロシア軍が進軍を続けているためという。対するウクライナ軍はロシア西部クルスク州で進軍を続けている。",
+          "link": "https://www.bbc.com/japanese/articles/c049d376g4ko",
+          "publishedOn": "2024-08-20T04:22:28.000Z",
+          "wordCount": 1435,
+          "title": "ウクライナ、東部の都市住民に避難指示　ロシアが進軍",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/49f1/live/08c12600-5ea7-11ef-b970-9f202720b57a.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cp9r0mjpnj5o#0",
           "author": null,
@@ -23608,16 +23628,6 @@
           "wordCount": 1345,
           "title": "耳の後ろを掻こうとしたらバランスを崩してコロリン！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77061.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77069",
-          "author": "299",
-          "description": "牛の放牧地で長毛の猫さんが草の中でまったりしていると、牛がやってきて猫さんに挨拶をしています。猫さんはあまり牛が得意ではないようで塩対応です。 牛にちょっかいを出されて、とうとう猫さんはその場から逃げ出していきました。 ...\n仲良し雄鶏と猫が一緒に散歩にでかけます first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77069",
-          "publishedOn": "2024-07-21T16:30:40.000Z",
-          "wordCount": 1348,
-          "title": "仲良し雄鶏と猫が一緒に散歩にでかけます",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77069.jpg"
         }
       ]
     },
