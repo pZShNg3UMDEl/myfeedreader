@@ -863,6 +863,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/75977b333c8c8f5cbc5936c2d656cac09288cf08?source=rss",
+          "author": null,
+          "description": "２０日午後、兵庫県淡路市の明石海峡付近で、ケミカルタンカーがエンジントラブルで航行不能状態になり、明石海峡大橋の橋脚土台部に接触しました。けが人はいないということです。\n\n　神戸海上保安部によります",
+          "link": "https://news.yahoo.co.jp/articles/75977b333c8c8f5cbc5936c2d656cac09288cf08?source=rss",
+          "publishedOn": "2024-08-20T10:16:04.000Z",
+          "wordCount": 1635,
+          "title": "明石海峡大橋にタンカーが接触　橋脚土台に　エンジントラブルで航行不能→漂流の末　乗組員にけがはなし(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240820-00047258-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a5ba2db3d7d5896825c573c8aaec691f83f130cc?source=rss",
           "author": null,
           "description": "兵庫県の斎藤知事が内部告発された問題で、県議会の百条委員会が職員を対象に実施したアンケートの、中間報告の内容が判明しました。「瞬間湯沸かし器」や「暴君」といった、知事によるパワハラを思わせる回答が寄",
@@ -5741,16 +5751,6 @@
           "wordCount": 754,
           "title": "【速報】阪急・京都線　桂－京都河原町駅間で運転見合わせ　西京極駅で人身事故(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046791-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a1b0ed496dcf536c6dceaebf51662d7344198e76?source=rss",
-          "author": null,
-          "description": "東海道新幹線は愛知県内で午前３時半過ぎに保守用の車両同士が衝突し、脱輪した影響で、午前５時５０分現在、上りが新大阪から浜松の間で、下りが浜松から名古屋の間で運転を見合わせています。",
-          "link": "https://news.yahoo.co.jp/articles/a1b0ed496dcf536c6dceaebf51662d7344198e76?source=rss",
-          "publishedOn": "2024-07-21T22:17:24.000Z",
-          "wordCount": 718,
-          "title": "東海道新幹線　始発から一部区間で運転見合わせ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046790-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -8384,6 +8384,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=82755",
+          "author": "編集部：松原ひな子",
+          "description": "SB C＆S（株）は、充電式家電製品や発電機などの製造／販売を手掛ける（株）工進と販売代理店契約を締結。“身近な普段使い” がテーマのポータブル電源「BPS-6L」「BPS-12L」の2モデルを9月2日に発売する。価格はオープンだが、予想実売価格（税込）とラインナップは以下の通り。 ・「BPS-6L […]",
+          "link": "https://gadget.phileweb.com/post-82755/",
+          "publishedOn": "2024-08-20T10:24:09.000Z",
+          "wordCount": 718,
+          "title": "コーシン、“身近な普段使い” がテーマのポータブル電源「BPS-6L」「BPS-12L」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/31_image.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=82784",
           "author": "Munenori Taniguchi",
           "description": "テスラが、EVの組み立て作業から小さな子どものお守りまでをこなすというヒューマノイドロボット「Optimus」の動作を訓練するためのモーション担当者（データ収集オペレーター）を募集している。 同社の求人情報における職種紹介にはOptumusのモーション担当者としての仕事が記されているが、その内容には […]",
@@ -10220,6 +10230,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121970/",
+          "author": null,
+          "description": "劇場アニメ「劇場版ハイキュー!! ゴミ捨て場の決戦」をテーマにした初の展覧会の開催が決定した。松屋銀座で12月27日から行われ、その後は金沢、大阪など全国を巡回予定。作中で描かれた「ゴミ捨て場の...",
+          "link": "https://anime.eiga.com/news/121970/",
+          "publishedOn": "2024-08-20T10:30:00.000Z",
+          "wordCount": 852,
+          "title": "「劇場版ハイキュー!!　ゴミ捨て場の決戦」初の展覧会が開催　シリーズ史上最大会場でのイベントも決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/eiga_ranking/121978/",
           "author": null,
