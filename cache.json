@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/586/G058604/20240820008/",
+          "author": null,
+          "description": "個人ゲーム開発者のhinyari9氏は本日（2024年8月20日），同氏が手がけたPC用ゲーム「溶鉄のマルフーシャ」の販売本数が20万本を突破したと発表した。また，本日からSteamトレーディングカード機能も公開された。",
+          "link": "https://www.4gamer.net/games/586/G058604/20240820008/",
+          "publishedOn": "2024-08-20T02:40:58.000Z",
+          "wordCount": 7449,
+          "title": "続編の発売が迫る「溶鉄のマルフーシャ」，販売本数が20万本を突破。Steamトレーディングカード機能も公開に",
+          "imageUrl": "https://www.4gamer.net/games/586/G058604/20240820008/SS/004.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/709/G070947/20240819031/",
           "author": null,
           "description": "韓国のインディーゲームイベント「BIC2024」に出展されていたタイトルの中から，DevolverDigitalが2024年内にリリース予定の「Neva」を紹介しよう。「GRIS」を手掛けたNomadaStudioが開発する2Dアクションアドベンチャーで，子オオカミのNevaとの交流が魅力だ。",
@@ -5511,16 +5521,6 @@
           "wordCount": 718,
           "title": "東海道新幹線　始発から一部区間で運転見合わせ(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240722-00046790-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9132cd2ceee57484a30706abac276fc84fc60619?source=rss",
-          "author": null,
-          "description": "京都市伏見区のマンションで先月、６８歳の男性が腹から血を流して死亡しているのが見つかった事件で、警察は知り合いの３７歳の女を逮捕しました。\n\n　殺人の疑いで逮捕されたのは京都市伏見区の無職で、韓国籍",
-          "link": "https://news.yahoo.co.jp/articles/9132cd2ceee57484a30706abac276fc84fc60619?source=rss",
-          "publishedOn": "2024-07-21T14:38:05.000Z",
-          "wordCount": 772,
-          "title": "遺体第一発見者で通報してきた女を逮捕　京都・伏見区のマンションで男性殺害事件　(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240721-00046789-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -5529,6 +5529,36 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cp9r0mjpnj5o#0",
+          "author": null,
+          "description": "米連邦下院議員に当選後に経歴詐称や選挙資金の不正利用などが指摘され、昨年12月に下院から除名されたジョージ・サントス元議員（36）が、2件の詐欺について有罪を認めた。禁錮刑を科される見通し。",
+          "link": "https://www.bbc.com/japanese/articles/cp9r0mjpnj5o",
+          "publishedOn": "2024-08-20T02:27:40.000Z",
+          "wordCount": 1515,
+          "title": "ジョージ・サントス元米議員、詐欺罪で有罪認める　禁錮刑の見通し",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/083b/live/44e6ac30-5e99-11ef-b970-9f202720b57a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c23lgzp7v1zo#0",
+          "author": null,
+          "description": "トランプ前大統領（共和党）の選挙陣営がイラン政府のために活動するハッカーの標的にされたと訴えたことを受けて捜査を進めていた米連邦捜査局（FBI）と複数の連邦政府機関は19日、ハッキングの背後にイランがいたことを認める声明を発表した。",
+          "link": "https://www.bbc.com/japanese/articles/c23lgzp7v1zo",
+          "publishedOn": "2024-08-20T02:11:51.000Z",
+          "wordCount": 1407,
+          "title": "トランプ陣営へのハッキング、「イランが背後に」と米捜査機関",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/b9fe/live/e2a193c0-5e96-11ef-8c32-f3c2bc7494c6.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c628d78712zo#0",
+          "author": null,
+          "description": "イスラエルを訪れているアメリカのアントニー・ブリンケン国務長官は19日、ガザ地区での停戦合意につながるアメリカの「橋渡しとなる提案」を、イスラエルのベンヤミン・ネタニヤフ首相が受け入れたと明らかにした。次は、イスラム組織ハマスがそれを受け入れるか次第だと、長官は述べた。",
+          "link": "https://www.bbc.com/japanese/articles/c628d78712zo",
+          "publishedOn": "2024-08-20T02:10:25.000Z",
+          "wordCount": 1408,
+          "title": "イスラエルが「橋渡しの」停戦案を受け入れたと米国務長官",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/81b0/live/d4a4b3c0-5e90-11ef-b43e-6916dcba5cbf.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c9v8r0p4dy4o#0",
           "author": null,
@@ -8083,6 +8113,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=82742",
+          "author": "多根清史",
+          "description": "次期「iPhone 16」発表イベントは9月10日（米国太平洋時間）に開催されるとの有力情報があったが、著名リーカーがそれを裏付けつつ、イベント招待状の画像らしきものを公開している。 例年アップルは9月前半に新型iPhone発表イベントを開催しているが、目玉機能となる「Apple Intellige […]",
+          "link": "https://gadget.phileweb.com/post-82742/",
+          "publishedOn": "2024-08-20T02:30:35.000Z",
+          "wordCount": 780,
+          "title": "「iPhone 16」、発表イベントが9月10日に開催？招待状らしき画像が登場",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/shutterstock_2475976621.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=82727",
           "author": "Munenori Taniguchi",
@@ -15119,16 +15159,6 @@
           "wordCount": 1778,
           "title": "【日清食品】フレンチカップヌードル 真鯛と帆立のプロヴァンス風ブイヤベース味【新作カップ麺】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/05a8e9d0cc5e1664ff1648c5895ee420.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=252816",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ハーゲンダッツの新商品「紅苺 -完熟-」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ […]",
-          "link": "https://foodfighter.jp/haagen-dazs-beniichigo",
-          "publishedOn": "2024-07-21T14:37:48.000Z",
-          "wordCount": 1767,
-          "title": "【ハーゲンダッツ】紅苺 -完熟-（40周年記念商品）【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/d5c52c53e0edf8cb77f5453d25c2fa85.jpg"
         }
       ]
     },
@@ -15137,6 +15167,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2038795.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/08/19(月) 17:13:10.47 ID:R2tXK4kV0.net\n\n\n\n\n\n\n\n\n\n石丸伸二氏、次期衆院選は「立民代表の選挙区から」「勝てば党首、乗っ取る」https://t.co/xiu30N2pXE立憲民主党の活性化策として立民代表の選挙区から出馬するアイデアを披露「遠く...",
+          "link": "https://itainews.com/archives/2038795.html",
+          "publishedOn": "2024-08-20T02:46:01.000Z",
+          "wordCount": 2397,
+          "title": "【何言ってんだ?】石丸「衆院選で立憲代表の選挙区から立候補し党首になる」【何言ってんだ?】",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/e/1e748136-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2038790.html",
           "author": "dqnplus",
@@ -23433,16 +23473,6 @@
           "wordCount": 1348,
           "title": "仲良し雄鶏と猫が一緒に散歩にでかけます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77069.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77001",
-          "author": "299",
-          "description": "パパさんが3日ぶりに帰宅したので、猫のぷりんは嬉しすぎてソワソワと動き回っています。パパさんおかえりにゃ〜そう言いながらパパさんの足に体を擦り付けてくるぷりんです。 あまりに激しく擦り付いてくるのでパパさんも足を前に踏み...\nパパの帰宅が嬉しすぎてワクワクがとまらない！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77001",
-          "publishedOn": "2024-07-21T14:30:26.000Z",
-          "wordCount": 1343,
-          "title": "パパの帰宅が嬉しすぎてワクワクがとまらない！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77001.jpg"
         }
       ]
     },
