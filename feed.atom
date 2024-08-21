@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T16:19:33.021Z</updated>
+    <updated>2024-08-21T16:41:38.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Galaxycore educational videos]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/08/galaxycore-educational-videos.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/08/galaxycore-educational-videos.html"/>
+        <updated>2024-08-21T16:32:00.001Z</updated>
+        <summary type="html"><![CDATA[Are you curious about how CMOS image sensors capture such clear and vivid images? Start your journey with the first episode of "CIS Explained". In this episode, we dive deep into the workings of these sophisticated sensors, from the basics of pixel arrays to the intricacies of signal conversion.
+This episode serves as your gateway to understanding CMOS image sensors.
+
+
+
+In this video, we're breaking down Quantum Efficiency (QE) and its crucial role in CIS. QE is a critical measure of how efficiently our sensors convert incoming light into electrical signals, directly affecting image accuracy and quality. This video will guide you through what QE means for CIS, its impact on your images, and how we're improving QE for better, more reliable imaging.
+
+
+
+GalaxyCore DAG HDR Technology Film
+
+
+
+Exploring GalaxyCore's Sensor-Shift Optical Image Stabilization (OIS) in under Two Minutes]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[驚愕！！猫のことが大好きなネズミ！]]></title>
+        <id>https://2-9-9.com/?p=79054</id>
+        <link href="https://2-9-9.com/archives/79054"/>
+        <updated>2024-08-21T16:30:39.000Z</updated>
+        <summary type="html"><![CDATA[猫さんのところへ小さな物体が素早く駆け寄っていきます。 その物体は、なんとネズミでした！猫とネズミは永遠のライバルのはずなのに、この光景には思わず目を疑ってしまいます。 どちらかというと猫さんのほうがネズミのことを苦手と...
+驚愕！！猫のことが大好きなネズミ！ first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[携帯契約の「踏み台」行為増加　ポイント目当てに短期間で乗り換え　各社対応難しく]]></title>
         <id>https://itainews.com/archives/2038859.html</id>
@@ -29746,26 +29780,6 @@ https://ne...]]></summary>
 　復旧は午後４時すぎの見込みです。]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト、クラウドストライク問題の修復ツールをリリース]]></title>
-        <id>https://gadget.phileweb.com/?p=80814</id>
-        <link href="https://gadget.phileweb.com/post-80814/"/>
-        <updated>2024-07-23T04:40:40.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフトは、世界850万台のWindows PCの画面を青く染めたクラウドストライクの欠陥アップデートの問題を修復するためのリカバリーツールをリリースした。 このツールをインストールしたUSBメモリーを作成し、それを起動ドライブとしてWi​​ndows PE環境を立ち上げることで、影響を受けた […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、サードパーティCookie廃止方針を撤回。ユーザー追跡をオプトイン方式に変更か]]></title>
-        <id>https://gadget.phileweb.com/?p=80819</id>
-        <link href="https://gadget.phileweb.com/post-80819/"/>
-        <updated>2024-07-23T04:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Googleは、自社ブラウザChromeでの「サードパーティーCookie」を廃止する方針を撤回すると発表した。英国の競争・市場庁（CMA）や広告業界、プライバシー保護団体など多くの方面から反発があったと示唆している。 サードパーティーCookieとは、複数のウェブサイト間でユーザーを追跡し、各個人 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
