@@ -943,6 +943,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/dfd8ec828f6d606920d2b906706fbc7fec3a9fc3?source=rss",
+          "author": null,
+          "description": "夏の高校野球、準決勝第２試合は京都国際（京都）と青森山田（青森）が対戦し、３－２で京都国際が勝利しました。京都国際の決勝進出は初めてです。\n\n２３日に行われる予定の決勝では、こちらも初の決勝進出を果た",
+          "link": "https://news.yahoo.co.jp/articles/dfd8ec828f6d606920d2b906706fbc7fec3a9fc3?source=rss",
+          "publishedOn": "2024-08-21T03:44:45.000Z",
+          "wordCount": 1587,
+          "title": "夏の高校野球　決勝カード決まる　ともに初の決勝進出　京都国際と関東第一の対戦(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240821-00047265-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/e79d34345311fecae771a0e326937525f2e21365?source=rss",
           "author": null,
           "description": "2025年大阪・関西万博のシンボルとなる大屋根リングの木造部分の工事が21日午後に終了し、大屋根がいよいよ「1つの輪」になります。\n\n大阪・関西万博の会場となる夢洲で約350億円かけて建設が進む大屋根",
@@ -5569,6 +5579,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c8er17xle3ro#0",
+          "author": null,
+          "description": "アメリカ政府高官は20日、イスラエルとイスラム組織ハマスの戦争の停戦と、パレスチナ自治区ガザ地区にとらわれている人質の解放の合意に向けてアメリカが働きかける中、イスラエルのベンヤミン・ネタニヤフ首相が妥協をせず最大限に要求する「マキシマリスト的な発言」をしていると非難した。ネタニヤフ氏の発言は「停戦合意を成立させるうえで建設的とはいえない」と、この高官は述べた。",
+          "link": "https://www.bbc.com/japanese/articles/c8er17xle3ro",
+          "publishedOn": "2024-08-21T03:35:21.000Z",
+          "wordCount": 1434,
+          "title": "米高官、ガザ停戦協議めぐるイスラエル首相の姿勢を批判　妥協せず最大限に要求と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/07a4/live/0e951c80-5f6a-11ef-8c32-f3c2bc7494c6.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cy0n8pjz84ko#0",
           "author": null,
