@@ -933,6 +933,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6dfd79166c4ba7d364af4bde99c444f2e119014d?source=rss",
+          "author": null,
+          "description": "２１日午前、大阪市住吉区の南海高野線の踏切で、目が不自由で白杖を持つ男性が立ち往生し、列車と接触する事故がありました。男性は軽傷です。\n\n　２１日午前６時５０分ごろ、大阪市住吉区沢ノ町の南海電車・南",
+          "link": "https://news.yahoo.co.jp/articles/6dfd79166c4ba7d364af4bde99c444f2e119014d?source=rss",
+          "publishedOn": "2024-08-21T02:55:34.000Z",
+          "wordCount": 1664,
+          "title": "「白杖」持った男性が踏切内で立ち往生　南海電車と接触　後頭部から出血し病院搬送される　大阪・住吉区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240821-00047263-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d86b8d71164bac3ddd18db7b66b9ae6186bc05e7?source=rss",
           "author": null,
           "description": "和歌山県海南市の公立小中学校では夏休みが終わり、２１日から早くも２学期がスタートしました。\n\n　海南市立巽小学校では２１日朝、児童らが大きな手提げかばんを持って元気に登校してきました。\n\n　午前８時",
@@ -9639,16 +9649,6 @@
           "wordCount": 4514,
           "title": "Perovskite sensor with 3x more light throughput",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/07/sony-imaging-business-strategy-meeting.html",
-          "author": null,
-          "description": "Sony held a strategy meeting recently. Slides from the Imaging and Sensing business are available here: https://www.sony.com/en/SonyInfo/IR/library/presen/business_segment_meeting/pdf/2024/ISS_E.pdf",
-          "link": "http://image-sensors-world.blogspot.com/2024/07/sony-imaging-business-strategy-meeting.html",
-          "publishedOn": "2024-07-22T15:11:00.001Z",
-          "wordCount": 3815,
-          "title": "Sony Imaging Business Strategy Meeting",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUnrl5pc2ZpDblpaQDivPgsRD3XZQVJhQA6xXe1UrjhHWOIWe9S-r-mAK8w4ErU1ERaPEG0m5Sx9z86mvtqb_YrDVLoZ56uH7ltKyGyhXv2hKQllAgAsemXzFKfuIlf6omJolKv43Q45bY2QQZAuU6hE1BpMLtjmIC0Mm1CFFrVAFoKd1eRQ0v/w1200-h630-p-k-no-nu/ISS_E_Page_01.jpg"
         }
       ]
     },
@@ -9880,6 +9880,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121980/",
+          "author": null,
+          "description": "「週刊ヤングマガジン」（講談社刊）で連載中の漫画「雨と君と」が、2025年にテレビアニメ化されることが決定した。あわせてティザービジュアルが披露されている。 同作は、累計発行部数50万部を突破す...",
+          "link": "https://anime.eiga.com/news/121980/",
+          "publishedOn": "2024-08-21T03:00:00.000Z",
+          "wordCount": 768,
+          "title": "「雨と君と」25年TVアニメ化決定　犬（？）と飼い主のほっこりとした交流描く",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121965/",
           "author": null,
@@ -15157,6 +15172,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2038835.html",
+          "author": "dqnplus",
+          "description": "1 ：ぐれ ★：2024/08/20(火) 21:01:53.89 ID:mPZbpf8J9.net\n\n\n\n\n\n\n\n\n\n\n\n時速175キロで車運転か “早く帰りたかった” 北海道 北広島https://t.co/GpVFI9ueHi #nhk_news— NHKニュース (@nhk_news) August 20, 2024 \n\n\n\n\n\n\n\n\n※2024年8月20日 20時47分\nNHK\n\n今月、北海道...",
+          "link": "https://itainews.com/archives/2038835.html",
+          "publishedOn": "2024-08-21T03:01:02.000Z",
+          "wordCount": 2449,
+          "title": "【北海道】時速175キロで車運転か　アルバイト従業員（30） “早く帰りたかった” 北広島",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/6/a6256a38-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2038833.html",
           "author": "dqnplus",
