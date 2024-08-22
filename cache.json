@@ -5800,6 +5800,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c0k4z620yxko#0",
+          "author": null,
+          "description": "11月のアメリカ大統領選に向けた民主党全国党大会（DNC）は21日、3日目を迎え、ミネソタ州のティム・ウォルズ州知事が副大統領候補の指名を受諾した。ウォルズ知事は、「今は第4クオーターで1ゴール負けているが、次はこちらのオフェンスだから、ゴールへ突き進む」とアメフトになぞらえて力説した。",
+          "link": "https://www.bbc.com/japanese/articles/c0k4z620yxko",
+          "publishedOn": "2024-08-22T08:53:26.000Z",
+          "wordCount": 1090,
+          "title": "【米大統領選2024】ウォルズ氏、アメフトになぞらえ「ゴールへ突進する」と　副大統領候補の指名受諾演説",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/eb1f/live/e703f600-6063-11ef-b43e-6916dcba5cbf.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/ckg2jlxnezzo#0",
           "author": null,
           "description": "同性同士でつがいとなり、有名になったジェンツーペンギンのスフェンが22日、11歳で死んだ。",
@@ -10260,6 +10270,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121989/",
+          "author": null,
+          "description": "今年で公開40周年をむかえる劇場アニメ「超時空要塞マクロス 愛・おぼえていますか」が4Kリマスター化され、「40周年記念 超時空要塞マクロス 愛・おぼえていますか 4K ULTRA HD ver...",
+          "link": "https://anime.eiga.com/news/121989/",
+          "publishedOn": "2024-08-22T09:00:00.000Z",
+          "wordCount": 899,
+          "title": "【公開40周年】「超時空要塞マクロス　愛・おぼえていますか」4Kリマスター化、25年1月25日から劇場上映",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121851/",
           "author": null,
@@ -15519,16 +15544,6 @@
           "wordCount": 1951,
           "title": "【コメダ珈琲店】かき氷 トロピカル【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/31ad9fd2d9ab7aeee2f5bc15395a377b.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=253043",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
-          "link": "https://foodfighter.jp/mcdonalds-loco-moco-muffin-2024",
-          "publishedOn": "2024-07-23T20:55:50.000Z",
-          "wordCount": 1829,
-          "title": "【マクドナルド】チーズロコモコマフィン（朝マック）【めっちゃハワイやんバーガーズ・期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/6610ee1ccf0de94334c3b1df3c5276ae.jpg"
         }
       ]
     },
@@ -15537,6 +15552,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2038876.html",
+          "author": "dqnplus",
+          "description": "1 名前：ぐれ ★：2024/08/22(木) 08:34:51.20 ID:J8JSFRql9.net\n\n\n\n\n\n\n\n\n男性客が原因？JR東の観光列車で「異臭騒ぎ」、気分悪くなったと訴えも　酒田→新潟の3時間半で何が起きたのか#JR東日本 #異臭 #観光列車 https://t.co/pEh2JiCH4a— J-CASTニュース (@jcast_news...",
+          "link": "https://itainews.com/archives/2038876.html",
+          "publishedOn": "2024-08-22T09:03:52.000Z",
+          "wordCount": 2401,
+          "title": "【鉄道】男性客が原因？JR東の観光列車で「異臭騒ぎ」、気分悪くなったと訴えも　酒田→新潟の3時間半で何が起きたのか",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/a/2a252f48-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2038870.html",
           "author": "dqnplus",
