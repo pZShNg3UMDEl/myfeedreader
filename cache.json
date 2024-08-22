@@ -1193,6 +1193,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/e181c0e77ba34f5fdb846dda99300b37307035c5?source=rss",
+          "author": null,
+          "description": "２３日未明、大阪・道頓堀にある人気ラーメン店の、龍の立体看板から、「しっぽ」が切り取られました。\n\n　撤去を命じる判決を受けた措置で、店舗側は「断腸の思い」だとして、龍の顔に涙の装飾を施しました。",
+          "link": "https://news.yahoo.co.jp/articles/e181c0e77ba34f5fdb846dda99300b37307035c5?source=rss",
+          "publishedOn": "2024-08-22T19:51:30.000Z",
+          "wordCount": 1623,
+          "title": "はみ出した「龍のしっぽ」を切除　“断腸の思い”　龍の顔に涙の装飾　大阪・道頓堀「金龍ラーメン」　立体看板の一部撤去命じる判決受け(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240822-00047303-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/040b63c52f993b79730a31322770f9e5f2f2262a?source=rss",
           "author": null,
           "description": "大阪市内の駅で、酔っ払った状態で警備員の顔を平手打ちしたとして、大阪府警高石警察署の巡査部長が逮捕されました。\n\n　暴行容疑で逮捕された高石署地域課の巡査部長の男（５１）は２２日午後３時４０分ごろ、",
@@ -5791,16 +5801,6 @@
           "wordCount": 754,
           "title": "いなり寿司にキンパ、そして定番商品も　きょうは「土用の丑の日」　デパ地下賑わう(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240724-00046860-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e0cad7658dec7db77c78236d2d7d86399ace4826?source=rss",
-          "author": null,
-          "description": "２３日、大阪府警が「ＳＮＳ型投資詐欺グループ」を一斉に摘発しました。２４日朝までに９０人を逮捕しています。\n\n　ビルから次々と出てくる人物・・・\n　彼らは「ＳＮＳ型投資詐欺」にかかわったとみられてい",
-          "link": "https://news.yahoo.co.jp/articles/e0cad7658dec7db77c78236d2d7d86399ace4826?source=rss",
-          "publishedOn": "2024-07-24T07:54:42.000Z",
-          "wordCount": 799,
-          "title": "”映える”投稿繰り返し　もうけ話を持ちかける　投資詐欺グループ９０人を一斉逮捕　４７０人体制で捜索　大阪(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240724-00046857-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -8038,26 +8038,6 @@
           "wordCount": 1527,
           "title": "ネパール首都の空港で小型機墜落、パイロットだけ生存か　18人死亡の情報",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/0dbd/live/72605ff0-4998-11ef-94ca-096ce5c0c136.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c6p2x3zkz44o#0",
-          "author": null,
-          "description": "パレスチナ自治区で対立している、イスラム組織ハマスと自治政府主流派のファタハが、中国の仲介で北京で協議した。ガザ地区で続くイスラエルとの戦争の終結後、占領下のヨルダン川西岸とガザに暫定的な「国民和解政府」を樹立することで同意した。中国の王毅外相とハマス当局者が23日に発表した。",
-          "link": "https://www.bbc.com/japanese/articles/c6p2x3zkz44o",
-          "publishedOn": "2024-07-24T08:15:01.000Z",
-          "wordCount": 1496,
-          "title": "中国、パレスチナ各勢力を招き和解を仲介　結束に向けた宣言に署名",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/2d80/live/a82a9a50-498f-11ef-94ca-096ce5c0c136.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c3g939jp1p2o#0",
-          "author": null,
-          "description": "イギリス議会は23日、 労働党新政権の施政方針「国王の演説」について採決を行った。「国王の演説」は採択されたものの、一部の法案で造反があったため、労働党はこの議員らを党員資格停止処分とした。",
-          "link": "https://www.bbc.com/japanese/articles/c3g939jp1p2o",
-          "publishedOn": "2024-07-24T08:04:19.000Z",
-          "wordCount": 1517,
-          "title": "英労働党、造反議員7人を資格停止処分に　施政方針「国王の演説」は採択",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/ced1/live/1e2bf1e0-4981-11ef-94ca-096ce5c0c136.jpg"
         }
       ]
     },
@@ -14075,6 +14055,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=256119",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ふんわりココアシフォン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃 […]",
+          "link": "https://foodfighter.jp/711sej-cocoa-chiffon-cake-2024",
+          "publishedOn": "2024-08-22T19:41:11.000Z",
+          "wordCount": 1723,
+          "title": "【セブンイレブン】ふんわりココアシフォン【新作スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/306bc6114afebe968c1038b0e86b52a8.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=256089",
           "author": "foodfighter",
@@ -20281,16 +20271,6 @@
           "wordCount": 2409,
           "title": "配信者森野妖精さん、雨で水嵩の増した淀川を下り釣りをライブ→転覆死亡",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/6/6632923f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2037899.html",
-          "author": "dqnplus",
-          "description": "1 名前：窓際被告 ★：2024/07/23(火) 19:00:42.67 ID:woaFygMc9.net\n\n\n\n\n\n\n\n\n【連帯責任】生徒26人を裸足で炎天下のプールサイド走らせる 21人にやけどなどの症状👇ニュースの詳細はこちらから👇https://t.co/tIVCyBLuqx— KKT熊本県民テレビ【公式】 (@kkt_4ch) July 2...",
-          "link": "https://itainews.com/archives/2037899.html",
-          "publishedOn": "2024-07-24T08:02:53.000Z",
-          "wordCount": 2451,
-          "title": "【熊本】「状況判断が甘かった」\"連帯責任\"で炎天下のプールサイドを裸足で走らせ複数生徒がやけど 人吉",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/4/b4eef509-s.png"
         }
       ]
     },
@@ -20299,6 +20279,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=79073",
+          "author": "299",
+          "description": "猫さんが前足を揃えて上下させながらおやつのおねだりポーズをキメていますね〜。 後ろ足で立ち上がってバランスよくお行儀のよいお座りをしながら前足を合わせて何度もお願いにゃ〜のポーズをしています。 こんなに可愛いお顔で目をキ...\n激カワ！！前足を合わせてお願いポーズでおやつの催促をするニャンコさん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79073",
+          "publishedOn": "2024-08-22T20:00:21.000Z",
+          "wordCount": 1349,
+          "title": "激カワ！！前足を合わせてお願いポーズでおやつの催促をするニャンコさん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79073.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=79113",
           "author": "299",
@@ -23828,16 +23818,6 @@
           "wordCount": 1344,
           "title": "バスケットから出せ〜と大騒ぎな子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77174.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77169",
-          "author": "299",
-          "description": "きじとらの子猫兄弟が2匹でにゃんぷろごっこをしています。 相手の体の上にまたがっている子猫を下から4本の手足でぐいぐいと押し上げながら対抗している子猫。小さいながらもなかなかパワフルな遊び方をしていますね。 相当激しく遊...\n激しくにゃんぷろしていた子猫が次の瞬間には見事に寝落ちしていた！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77169",
-          "publishedOn": "2024-07-24T08:00:44.000Z",
-          "wordCount": 1350,
-          "title": "激しくにゃんぷろしていた子猫が次の瞬間には見事に寝落ちしていた！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77169.jpg"
         }
       ]
     },
