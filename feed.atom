@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T03:50:24.186Z</updated>
+    <updated>2024-08-23T04:18:29.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初めての猫こたつがいたく気に入ったもち猫さん]]></title>
+        <id>https://2-9-9.com/?p=79086</id>
+        <link href="https://2-9-9.com/archives/79086"/>
+        <updated>2024-08-23T04:00:48.000Z</updated>
+        <summary type="html"><![CDATA[もちねこさんが箱座りをしていますが、そのお顔はムスーっとしていてご機嫌ナナメっぽい感じがしますね。何か気に入らないことでもあったのでしょうか。 このスポットは暖房がしっかり効いていてポカポカなので、もちねこさんはここでマ...
+初めての猫こたつがいたく気に入ったもち猫さん first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豪華ヨット沈没、英実業家の遺体を収容　18歳の娘がなお行方不明]]></title>
         <id>https://www.bbc.com/japanese/articles/ckgwql14g00o#0</id>
@@ -29528,19 +29539,6 @@ JUST IN!! 新着記事⠀ /／　　　　　　　　　🗣「ハンドパワ�
 爪切り後にお昼寝の体勢に入るこたちゃ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perovskite sensor with 3x more light throughput]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/07/perovskite-sensor-with-3x-more-light.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/07/perovskite-sensor-with-3x-more-light.html"/>
-        <updated>2024-07-24T15:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Link: https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-101189.html
-
-Dübendorf, St. Gallen und Thun, 28.05.2024 - Capturing three times more light: Empa and ETH researchers are developing an image sensor made of perovskite that could deliver true-color photos even in poor lighting conditions. Unlike conventional image sensors, where the pixels for red, green and blue lie next to each other in a grid, perovskite pixels can be stacked thus greatly increasing the amount of light each individual pixel can capture.
-Family, friends, vacations, pets: Today, we take photos of everything that comes in front of our lens. Digital photography, whether with a cell phone or camera, is simple and hence widespread. Every year, the latest devices promise an even better image sensor with…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
