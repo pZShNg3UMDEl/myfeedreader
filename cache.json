@@ -1353,6 +1353,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/71dd0a9fc1c4eb40a7c0ed414cf6559ac732b0dc?source=rss",
+          "author": null,
+          "description": "夏の全国高校野球で初優勝した京都代表・京都国際の監督と主将が一夜明けて優勝の実感を語りました。\n\n　京都国際は大会史上初めて延長タイブレークとなった２３日の決勝で東東京代表の関東第一を下し、初優勝を",
+          "link": "https://news.yahoo.co.jp/articles/71dd0a9fc1c4eb40a7c0ed414cf6559ac732b0dc?source=rss",
+          "publishedOn": "2024-08-24T03:20:00.000Z",
+          "wordCount": 1598,
+          "title": "「やっと実感が湧いてきた」京都国際・藤本主将　優勝から一夜明け喜び語る【夏の高校野球】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240824-00047324-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/560658f0cb1a632285aece656cb3ab6c1ac0c9b5?source=rss",
+          "author": null,
+          "description": "開業１０周年を迎えたあべのハルカスの展望台で、水遊びができるイベントが期間限定で開かれています。\n\n　あべのハルカスの展望台にある「天空庭園」で開かれている、「ハルカス・スカイ・オーシャン」。",
+          "link": "https://news.yahoo.co.jp/articles/560658f0cb1a632285aece656cb3ab6c1ac0c9b5?source=rss",
+          "publishedOn": "2024-08-24T03:20:00.000Z",
+          "wordCount": 1609,
+          "title": "あべのハルカス開業１０周年　展望台で「水遊びアトラクション」　日没後にはプロジェクションマッピングも(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240824-00047323-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/4e19f8aacb725a5ed94c5cf2eb5242d60155a15b?source=rss",
           "author": null,
           "description": "兵庫県の斎藤知事のパワハラ疑惑をめぐり、県の職員から非公開の場で証言を求める百条委員会が開かれました。　　　\n\n（百条委員会・奥谷委員長）「重要な証言を聞き取ることができた。パワハラに当たるのかどう",
@@ -10160,6 +10180,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/121975/",
+          "author": null,
+          "description": "マクドナルドの玩具付きハンバーガーセット「ハッピーセット」に、8月30日から「ちいかわ」が登場する（期間限定販売）。 ハッピーセットと「ちいかわ」のコラボは約1年ぶり。今回は、ちいかわ、ハチワレ...",
+          "link": "https://anime.eiga.com/news/121975/",
+          "publishedOn": "2024-08-24T03:30:00.000Z",
+          "wordCount": 856,
+          "title": "マクドナルド「ハッピーセット」に「ちいかわ」再登場　8月30日からオリジナルシールセットがもらえる",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/121999/",
           "author": null,
