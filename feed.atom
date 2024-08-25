@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-25T06:20:06.910Z</updated>
+    <updated>2024-08-25T06:39:49.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】民間ロケット「カイロス」初号機の失敗は”第1段の推力不足”　2号機は今年12月打ち上げ目標　和歌山・串本(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/eeb8085e262e0e6a010ea8224641a71fd3f98029?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/eeb8085e262e0e6a010ea8224641a71fd3f98029?source=rss"/>
+        <updated>2024-08-25T06:24:47.000Z</updated>
+        <summary type="html"><![CDATA[宇宙ベンチャー企業・スペースワンは、今年3月、和歌山県串本町での民間ロケット「カイロス」初号機の打ち上げ失敗の原因を発表しました。また、2号機の打ち上げは今年12月を目標に準備をすすめるということで]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“トーレルーフ”の裏側で何があったのか。「ティアーズ オブ ザ キングダム」開発陣が語る，一貫した実装と効率化の重要性［CEDEC 2024］]]></title>
         <id>https://www.4gamer.net/games/578/G057883/20240825001/</id>
