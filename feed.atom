@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T23:15:47.986Z</updated>
+    <updated>2024-08-26T23:36:04.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【台風最新情報】さらに速度落ちて時速10キロ　近畿には30日深夜から31日朝に最接近の見込み　台風10号(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e5d484982a4ae5034c7dda1e940a4b16230d26a1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e5d484982a4ae5034c7dda1e940a4b16230d26a1?source=rss"/>
+        <updated>2024-08-26T23:31:48.000Z</updated>
+        <summary type="html"><![CDATA[台風10号は、27日午前6時現在、鹿児島県奄美市の東の海上を時速10キロで西北西に進んでいます。近畿地方には30日金曜日深夜から31日土曜日朝にかけて最接近する見込みとなっています。中心気圧は970]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、特別イベント「時が満ちる。」を9月10日午前2時に開催。新iPhoneなど発表か]]></title>
         <id>https://gadget.phileweb.com/?p=83147</id>
