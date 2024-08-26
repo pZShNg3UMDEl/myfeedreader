@@ -1403,6 +1403,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/29d3c23a0735a3ac8818b93dafeeb0ff1ec59ae6?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと、26日午前9時半ごろから兵庫県西宮市で約1070軒の停電が発生しているということです。\n復旧は正午ごろの見込みだということです。",
+          "link": "https://news.yahoo.co.jp/articles/29d3c23a0735a3ac8818b93dafeeb0ff1ec59ae6?source=rss",
+          "publishedOn": "2024-08-26T00:44:59.000Z",
+          "wordCount": 1571,
+          "title": "【速報】兵庫・西宮市で約1070軒が停電　復旧は正午ごろの見込み　関西電力送配電(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240826-00010000-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/1193d26407bc94f5242d752c5c83c86319b5ed3f?source=rss",
           "author": null,
           "description": "任期満了に伴う大阪府箕面市長選挙が２５日投開票され、無所属の新人・原田亮さん（３８）が初当選を果たしました。\n大阪府内の市長選挙で大阪維新の会公認の現職が落選するのは初めてです。\n\n今回の選挙では、北",
@@ -8027,6 +8037,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2408/26/news037.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、家電、産業機器向けの750Wモーター駆動用リファレンス設計「EVLDRIVE101-HPD」を発表した。3相ゲートドライバー「STDRIVE101」やマイクロコントローラー「STM32G0」、750Wのパワー段を搭載する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2408/26/news037.html",
+          "publishedOn": "2024-08-26T00:00:00.000Z",
+          "wordCount": 2543,
+          "title": "750Wモーター駆動用リファレンス設計　低消費電力を実現",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/26/cover_news037.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2408/23/news063.html",
           "author": null,
           "description": "ロームは、車載向けNch MOSFET「RF9x120BKFRA」「RQ3xxx0BxFRA」「RD3x0xxBKHRB」を開発した。10機種を用意し、パッケージは2.0×2.0mmのDFN2020Y7LSAA、3.3×3.3mmのHSMT8AG、6.6×10.0mmのTO-252（DPAK）の3種から選択できる。",
@@ -13149,36 +13169,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121687/",
-          "author": null,
-          "description": "松山ケンイチ、染谷将太が主演を務め、福田雄一監督がメガホンをとる「聖☆おにいさん THE MOVIE ホーリーメンVS悪魔軍団」の特報映像とホーリーメン変身ビジュアルが披露された。 原作は、異色...",
-          "link": "https://anime.eiga.com/news/121687/",
-          "publishedOn": "2024-07-27T13:00:00.000Z",
-          "wordCount": 738,
-          "title": "実写映画「聖☆おにいさん」イエスとブッダが最凶最悪の敵に立ち向かう特報、ホーリーメン変身ビジュアル公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121799/",
-          "author": null,
-          "description": "声優アーティスト・茅原実里のデビュー20周年記念写真集「Holiday」が7月25日に発売されたことを記念して、特別カットが公開された。水着姿の茅原のしっとりとした表情を切り取っている。さらに、...",
-          "link": "https://anime.eiga.com/news/121799/",
-          "publishedOn": "2024-07-27T12:00:00.000Z",
-          "wordCount": 771,
-          "title": "茅原実里、20周年記念写真集「Holiday」発売中　露出した肌やしっとりとした表情が美しい特別カット公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -13502,16 +13492,6 @@
           "publishedOn": "2024-07-28T15:25:19.000Z",
           "wordCount": 4397,
           "title": "帰ってきました",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10441",
-          "author": "watanabe@logipara.com",
-          "description": "二日目です！ 今日は列車に乗るためにバスと列車に乗り、そのあとバスに乗りました。ずーっと乗り物に乗ってるだけなのに疲れてます！なぜ！（答え:ずーっと呑んでるから） そろそろ内臓がアレな感じになってきましたか、明日も頑張り […]",
-          "link": "https://logipara.com/diary-text/2024-07-28/",
-          "publishedOn": "2024-07-27T12:59:28.000Z",
-          "wordCount": 4386,
-          "title": "列車に乗るために列車に乗る旅2日目",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
@@ -15154,16 +15134,6 @@
           "wordCount": 1756,
           "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年7月21日から7月27日】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/4ed51bfe6934822f24a22760be42c1c9.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=253528",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「にんにく香る牛焼肉丼」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]",
-          "link": "https://foodfighter.jp/711sej-beef-garlic-don",
-          "publishedOn": "2024-07-27T12:26:02.000Z",
-          "wordCount": 1757,
-          "title": "【セブンイレブン】にんにく香る牛焼肉丼【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/07/6e9db66f0572e06cced11879cf83879a.jpg"
         }
       ]
     },
@@ -19771,16 +19741,6 @@
           "wordCount": 2316,
           "title": "【東京】タクシー運転手に噛みつき顔を殴るなど暴行か　30歳の会社役員の藤本容疑者を逮捕　渋谷区",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/0/b009a8a2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038012.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2024/07/26(金) 19:54:06.97 ID:pUuAVKrN9.net\n\n\n\n\n\n\n\n【速報】有毒キノコを食べ20代男性が死亡　全国で死亡事例は令和に入り“3例目”　自生していた「ドクツルタケ」と「コテングタケモドキ」と見られるキノコを誤って食べる(NBS長野放送)#Yahooニュ...",
-          "link": "https://itainews.com/archives/2038012.html",
-          "publishedOn": "2024-07-27T12:47:01.000Z",
-          "wordCount": 2418,
-          "title": "【🍄】「ドクツルタケ」「コテングタケモドキ」と見られる有毒キノコ食べ20代男性が死亡　全国で死亡事例は令和に入り3例目　長野",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/0/705e6276-s.png"
         }
       ]
     },
@@ -19789,6 +19749,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=79313",
+          "author": "299",
+          "description": "ここは怪我をしたり親猫からはぐれてしまった子猫たちを保護するシェルターです。それゆえに、つねに可愛い子猫たちがこのシェルターで暮らしています。 今回登場するこのハチワレの子猫も保護されたばかりのおチビちゃんです。でも物お...\n先住猫のあとをヨチヨチ歩きで追いかける保護猫の子猫がきゃわいい〜 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79313",
+          "publishedOn": "2024-08-26T00:00:15.000Z",
+          "wordCount": 1351,
+          "title": "先住猫のあとをヨチヨチ歩きで追いかける保護猫の子猫がきゃわいい〜",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79313.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=79282",
           "author": "299",
@@ -23318,16 +23288,6 @@
           "wordCount": 1345,
           "title": "赤ちゃん猫をちょっとの間だっこさせてもらいました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77381.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77364",
-          "author": "299",
-          "description": "勉強をしている飼い主さんのところに子猫がやってきて、邪魔をしてきます。テキストブックの上にどっかりと乗っかって目の色を変えて、楽しい遊びを見つけようとしています。 ページがめくられるたびに子猫が前足でページをペシペシと叩...\n勉強を邪魔する子猫に苦笑 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77364",
-          "publishedOn": "2024-07-27T13:00:39.000Z",
-          "wordCount": 1346,
-          "title": "勉強を邪魔する子猫に苦笑",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77364.jpg"
         }
       ]
     },
