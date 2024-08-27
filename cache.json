@@ -6310,6 +6310,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cq82d1k1vqno#0",
+          "author": null,
+          "description": "ロシア生まれの富豪で、メッセージアプリ「テレグラム」の創設者であるパヴェル・ドゥロフ容疑者（39）が24日夕方、仏パリの空港で逮捕された。パリ検察当局は26日、ドゥロフ容疑者はサイバー犯罪捜査の一環で拘束されたと発表した。一方ロシアでは、政府やメディアがこの出来事に警戒を強めている。",
+          "link": "https://www.bbc.com/japanese/articles/cq82d1k1vqno",
+          "publishedOn": "2024-08-27T05:59:08.000Z",
+          "wordCount": 1437,
+          "title": "【解説】 テレグラムのCEO逮捕、ロシアの政府やメディアの反応は",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/9441/live/f5766f20-6422-11ef-b970-9f202720b57a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c7v5mgl9pd1o#0",
+          "author": null,
+          "description": "防衛省は26日、中国軍の情報収集機1機による領空侵犯があったと発表した。中国軍機による日本の領空侵犯が確認されたのは初めてだという。",
+          "link": "https://www.bbc.com/japanese/articles/c7v5mgl9pd1o",
+          "publishedOn": "2024-08-27T05:58:41.000Z",
+          "wordCount": 1374,
+          "title": "中国軍機による日本の領空侵犯を初確認　空自が「通告と警告」",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/5590/live/4027c580-6434-11ef-b43e-6916dcba5cbf.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c4gl4y9w7xpo#0",
           "author": null,
           "description": "ドナルド・トランプ前米大統領が2021年の退任後にホワイトハウスから機密文書を持ち出し違法に所持していたとされる事件について、米司法省のジャック・スミス特別検察官は26日、裁判を復活させるよう連邦控訴裁判所に上訴した。",
@@ -8783,6 +8803,46 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=83180",
+          "author": "多根清史",
+          "description": "GoogleがPixel 9シリーズを発表してからまもないが、早くも廉価モデル「Pixel 9a」の実機らしき画像がネット上に登場している。 この画像は、ベトナムの非公開Facebookグループに投稿され、現在は削除されたものだ。それを著名リーカーShrimpAppleProがX（旧Twitter） […]",
+          "link": "https://gadget.phileweb.com/post-83180/",
+          "publishedOn": "2024-08-27T06:17:52.000Z",
+          "wordCount": 745,
+          "title": "「Pixel 9a」の実物らしき写真がはやくもリーク。背面カメラバーは廃止か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/Pixel-9a-leak.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=83165",
+          "author": "多根清史",
+          "description": "現行の「iPad mini（第6世代）」が2021年秋に発売されてから約3年が経ったが、いまだに後継モデルは登場していない。そんななか、本製品の在庫が「多くのアップル直営店で減っている」と著名ジャーナリストがＸで述べている。 Bloombergの名物記者Mark Gurman氏は、iPad mini […]",
+          "link": "https://gadget.phileweb.com/post-83165/",
+          "publishedOn": "2024-08-27T06:06:48.000Z",
+          "wordCount": 737,
+          "title": "「iPad mini 7」登場の兆し？第6世代が在庫不足に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/shutterstock_2074658503.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=83154",
+          "author": "多根清史",
+          "description": "アップルは「iPhone 15 Pro Max」専用だった5倍望遠カメラを、次期「iPhone 16 Pro」および「iPhone 16 Pro Max」両モデルに搭載するとの噂が何度も届けられてきた。以前はレンズの供給元が報じられていたが、新たに折りたたみ式ズーム・モジュールの供給元がLG Inn […]",
+          "link": "https://gadget.phileweb.com/post-83154/",
+          "publishedOn": "2024-08-27T06:02:39.000Z",
+          "wordCount": 766,
+          "title": "「iPhone 16 Pro／Pro Max」2モデルとも5倍光学ズーム搭載の噂再び。アップルは大ヒットを予想？",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/shutterstock_1658133379.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=83172",
+          "author": "Munenori Taniguchi",
+          "description": "Adobe、マイクロソフト、OpenAIは、AI生成コンテンツにその旨を示すラベルをつけることを義務化するカリフォルニア州法案に対する支持を明らかにしている。この法案は8月中に採決が行われる予定となっている。 「AB 3211」と呼ばれるこの法案は、AI生成による静止画、動画、音声クリップのメタデー […]",
+          "link": "https://gadget.phileweb.com/post-83172/",
+          "publishedOn": "2024-08-27T05:53:47.000Z",
+          "wordCount": 780,
+          "title": "Adobe、MS、OpenAI、「AI生成コンテンツへの透かし」義務付けるカリフォルニア州法案を支持",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/Bezruk_Shutterstock.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=82397",
           "author": "安蔵靖志",
@@ -14100,16 +14160,6 @@
           "wordCount": 2411,
           "title": "望月衣塑子さん訴訟⑨喜田村洋一通風延期",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c37813fd1e16a35bc0db627978fc34a99282ed55.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/n4ed13519f3fa",
-          "author": null,
-          "description": "辺境ぐらしの魔王、転生して最強の魔術師になる　９ (MFC)amzn.to 748円(2024年07月22日 12:45時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/n4ed13519f3fa",
-          "publishedOn": "2024-07-28T18:10:40.000Z",
-          "wordCount": 6934,
-          "title": "先週観たもの",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6a2253d786382d955ea9f64b820f3a7bac03b0b1.png"
         }
       ]
     },
@@ -20380,6 +20430,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=79363",
+          "author": "299",
+          "description": "赤ちゃん猫とお母さん猫の50日間を5分間のタイムラプスでまとめた動画を紹介しましょう。 生まれたてから2、3日ほどは、赤ちゃん猫たちは、まるでネズミみたいで猫らしさはほとんど見受けられません。 でも5日目になってくると赤...\n子猫が生まれて50日間を5分間に早送りしてみました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79363",
+          "publishedOn": "2024-08-27T06:00:59.000Z",
+          "wordCount": 1350,
+          "title": "子猫が生まれて50日間を5分間に早送りしてみました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79363.jpg"
+        },
+        {
           "id": "https://2-9-9.com/?p=79358",
           "author": "299",
           "description": "ソファの上には毛玉のような赤ちゃん猫が乗っています。赤ちゃん猫たちの可愛さにうっとりとしている飼い主の女性です。 するとそこへ先住犬のジャーマンシェパードがやってきました。飼い主さんと一緒に赤ちゃん猫をじーっと見つめるシ...\n赤ちゃん猫と初対面するシェパード first appeared on 肉球ドットコム（299.com）.",
@@ -23908,16 +23968,6 @@
           "wordCount": 1351,
           "title": "飼い主さんから赤ちゃん猫を連れ戻す母猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77469.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77511",
-          "author": "299",
-          "description": "キジ白のでっぷりとした猫さんが家の玄関ドアの前で飼い主さんがドアを開けてくれるのを待っています。 後ろ足で立ち上がり前足を合わせてお願いするようなポーズを仕切りに繰り返しています。そのポーズがなんとも可愛いです。 ある時...\nドアを開けてにゃ〜お願いポーズがカワユ〜な猫さん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77511",
-          "publishedOn": "2024-07-28T18:00:51.000Z",
-          "wordCount": 1345,
-          "title": "ドアを開けてにゃ〜お願いポーズがカワユ〜な猫さん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77511.jpg"
         }
       ]
     },
