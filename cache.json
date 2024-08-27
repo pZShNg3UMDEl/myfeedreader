@@ -1513,6 +1513,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f26a74b06bb1a8ee5bf857655d534e0fff10b1c8?source=rss",
+          "author": null,
+          "description": "小学校の講師が４年近く無免許運転をしていました。\n\n　大阪府教育委員会によりますと、枚方市立小学校に勤めていた講師の男性（３０）は２０２０年１１月に運転免許を失効したものの、３年間の猶予があると思い",
+          "link": "https://news.yahoo.co.jp/articles/f26a74b06bb1a8ee5bf857655d534e0fff10b1c8?source=rss",
+          "publishedOn": "2024-08-27T09:57:21.000Z",
+          "wordCount": 1655,
+          "title": "「バレなければ良い」４年近く“無免許運転”　小学校講師を停職処分　通勤手当の不正受給も…きょう付けで依願退職　大阪府教育委員会(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240827-00047387-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/40b802a3369f2f7fbb1c7644edc9dcd9c1c47de2?source=rss",
           "author": null,
           "description": "兵庫県の斎藤知事のパワハラ疑惑などを内部告発した元県民局長が死亡した問題。先日の百条委員会の中で「斎藤知事が自作メモに基づいて告発文を嘘八百と批判していた」とする証言があったことが新たに分かりました",
@@ -10740,6 +10750,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/122024/",
+          "author": null,
+          "description": "8月23日～25日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、新作「ラストマイル」が首位スタートを切った。2位は「インサイド・ヘッド2」で、「映画クレヨンしんちゃん オラ...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/122024/",
+          "publishedOn": "2024-08-27T10:00:00.000Z",
+          "wordCount": 824,
+          "title": "【週末アニメ映画ランキング】「クレヨンしんちゃん」3位で興収18億円突破、「ヒロアカ」は6位",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122026/",
           "author": null,
@@ -24183,16 +24208,6 @@
           "wordCount": 1345,
           "title": "勇気をふりしぼり助けを求めてきた子猫の感動ストーリー",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77505.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77473",
-          "author": "299",
-          "description": "飼い主さんは愛猫達がオモチャに飽きてしまった為、新たなオモチャを導入してみました。 猫ちゃん達はオモチャを奪いあったりせず、仲良く遊ぶ姿が微笑ましいのでご覧ください。 猫ちゃん達は見慣れぬ白い箱に興味ぶかそういしています...\n愛猫達に新たなオモチャをあげてみた first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77473",
-          "publishedOn": "2024-07-28T22:00:12.000Z",
-          "wordCount": 1354,
-          "title": "愛猫達に新たなオモチャをあげてみた",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77473.jpg"
         }
       ]
     },
