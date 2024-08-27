@@ -1493,6 +1493,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/40d665f57c4ce82ea56ca66a6a750710612c52c1?source=rss",
+          "author": null,
+          "description": "JR東海によりますと、27日午後3時40分ごろ東海道新幹線の静岡ー掛川間で雨が規制値に達したため、現在、上り・新大阪ー東京　下り・名古屋ー東京　で運転を見合わせています。",
+          "link": "https://news.yahoo.co.jp/articles/40d665f57c4ce82ea56ca66a6a750710612c52c1?source=rss",
+          "publishedOn": "2024-08-27T06:46:35.000Z",
+          "wordCount": 1647,
+          "title": "【速報】東海道新幹線　上り・新大阪ー東京　下り・名古屋ー東京　大雨で運転見合わせ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240827-00010010-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/5ef2afedb432ab5c3bf4a6c22da5bcf4fa68c0cc?source=rss",
           "author": null,
           "description": "国土交通省は航空保安大学校の教官の男女（ともに４０代）が施設内で不適切な行為をしたとして戒告処分にしたと発表しました。\n\n　国交省によりますと、航空保安大学校の４０代の教官の男女は今年２月以降、勤務",
@@ -8833,6 +8843,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=83205",
+          "author": "Gadget Gate",
+          "description": "ソニー・インタラクティブエンタテインメント（SIE）は、9月2日（月）より日本国内におけるPlayStation 5、および関連周辺機器の希望小売価格を改定することを発表した。 価格改定の対象となるのは、バンドル製品やカラーバリエーションを含めた計21品目。昨年11月に発売されたPS5（CFI-20 […]",
+          "link": "https://gadget.phileweb.com/post-83205/",
+          "publishedOn": "2024-08-27T06:43:27.000Z",
+          "wordCount": 710,
+          "title": "PlayStation 5が9月2日より値上げ。ドライブ搭載モデルは税込79,980円に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/000.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=83180",
           "author": "多根清史",
