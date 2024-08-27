@@ -10651,6 +10651,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/08/ieee-sensors-2024-image-sensor-topics.html",
+          "author": null,
+          "description": "The list of topics and the authors for the following two events related to image sensor technology have been finalized for the IEEE SENSORS 2024 Conference. The conference will be held in Kobe, Japan, from 20-23 October 2024. It will provide the opportunity to hear world class speakers in the field of image sensors and to sample the sensor ecosystem that extends beyond to see how imaging fits in.\nWorkshop: “From Imaging to Sensing: Latest and Future Trends of CMOS Image Sensors” [Sunday, 20 October]\nOrganizers: Sozo Yokogawa (Sony Semiconductor Solutions corp.) • Erez Tadmor (onsemi)\n“Trends and Developments in State-of-the-Art CMOS Image Sensors”, Daniel McGrath, TechInsights\n“CMOS Image Sensor Technology: what we have solved, what are to be solved”, Eiichi Funatsu, OMNIVISION\n“Automotive…",
+          "link": "http://image-sensors-world.blogspot.com/2024/08/ieee-sensors-2024-image-sensor-topics.html",
+          "publishedOn": "2024-08-27T17:42:00.003Z",
+          "wordCount": 4098,
+          "title": "IEEE SENSORS 2024 --- image sensor topics announced",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/08/galaxycore-educational-videos.html",
           "author": null,
           "description": "Are you curious about how CMOS image sensors capture such clear and vivid images? Start your journey with the first episode of \"CIS Explained\". In this episode, we dive deep into the workings of these sophisticated sensors, from the basics of pixel arrays to the intricacies of signal conversion.\nThis episode serves as your gateway to understanding CMOS image sensors.\n\n\n\nIn this video, we're breaking down Quantum Efficiency (QE) and its crucial role in CIS. QE is a critical measure of how efficiently our sensors convert incoming light into electrical signals, directly affecting image accuracy and quality. This video will guide you through what QE means for CIS, its impact on your images, and how we're improving QE for better, more reliable imaging.\n\n\n\nGalaxyCore DAG HDR Technology Film\n\n\n\nExploring GalaxyCore's Sensor-Shift Optical Image Stabilization (OIS) in under Two Minutes",
