@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-28T23:15:38.923Z</updated>
+    <updated>2024-08-28T23:36:41.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】伊丹空港　29日発着の国内線131便が欠航　九州・高知などを結ぶ路線(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c54692766476a12f383871f358614520383ea771?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c54692766476a12f383871f358614520383ea771?source=rss"/>
+        <updated>2024-08-28T23:24:49.000Z</updated>
+        <summary type="html"><![CDATA[関西エアポートによりますと、台風10号の影響で午前8時現在、29日に伊丹空港を発着する国内線131便が欠航すると発表しました。
+　
+　欠航が出るのは、伊丹と鹿児島、屋久島、但馬、熊本、宮崎、長崎、種]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［プレイレポ］35年ぶりとなるシリーズ完全新作の「ファミコン探偵倶楽部 笑み男」。不気味な都市伝説になぞらえた殺人事件に挑む]]></title>
         <id>https://www.4gamer.net/games/818/G081847/20240827032/</id>
@@ -30112,16 +30124,6 @@ v【ニュース】マッチングアプリで男性から現金詐取か ｢病
 物価と賃金が上がり、長く染みついた停...]]></summary>
         <author>
             <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セブンイレブン】ロースとんかつ弁当（厚切り）【新作コンビニ弁当】]]></title>
-        <id>https://foodfighter.jp/?p=253846</id>
-        <link href="https://foodfighter.jp/711sej-tonkatsu-bento-2024"/>
-        <updated>2024-07-30T11:35:58.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「ロースとんかつ弁当」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
