@@ -1903,6 +1903,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/fe695645263e88a5ad53cd526717eed9a105982e?source=rss",
+          "author": null,
+          "description": "兵庫県立大学の元事務職員の女性が、架空請求などの手口で国の研究助成金約600万円を着服していたことが分かりました。\n　\n　大学によりますと、国の「科研費」と呼ばれる研究助成金をだまし取っていたのは、",
+          "link": "https://news.yahoo.co.jp/articles/fe695645263e88a5ad53cd526717eed9a105982e?source=rss",
+          "publishedOn": "2024-08-28T06:28:57.000Z",
+          "wordCount": 1572,
+          "title": "兵庫県立大学の元事務嘱託員が約600万円を着服　研究助成金を架空請求　兵庫・神戸市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240828-00010007-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/4cb360923c53a7d8d76b6b357aaf5243e28b2f30?source=rss",
           "author": null,
           "description": "奈良県の大和高田市立病院で、麻酔に使われる鎮静剤が無くなっていたことがわかりました。病院は窃盗の可能性もあるとして警察に被害届を出しています。\n\n　紛失したのは、麻酔に使われる鎮静剤「プロポフォール",
@@ -6939,6 +6949,26 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c3rd14dj339o#0",
+          "author": null,
+          "description": "テニス女子の大坂なおみ（26）が27日、全米オープンのシングルス1回戦でエレナ・オスタペンコ（ラトヴィア）を破ってカムバックを果たし、感極まった様子を見せた。",
+          "link": "https://www.bbc.com/japanese/articles/c3rd14dj339o",
+          "publishedOn": "2024-08-28T06:35:31.000Z",
+          "wordCount": 1503,
+          "title": "大坂なおみ、2年ぶりの全米オープンで初戦突破　感極まった様子見せる",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/7ccb/live/04180370-6501-11ef-8c32-f3c2bc7494c6.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c7v50rd1qvmo#0",
+          "author": null,
+          "description": "アメリカで2021年1月6日、2020年大統領選でのジョー・バイデン氏の勝利を認定する作業を妨害するためにドナルド・トランプ前大統領の支持者たちが連邦議会議事堂を襲撃した事件で、最初に議事堂に侵入した暴徒に27日、禁錮4年5カ月が言い渡された。",
+          "link": "https://www.bbc.com/japanese/articles/c7v50rd1qvmo",
+          "publishedOn": "2024-08-28T06:17:45.000Z",
+          "wordCount": 1503,
+          "title": "米議会襲撃、最初に侵入した暴徒に禁錮4年5カ月",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/de31/live/0e2beea0-64f5-11ef-8c32-f3c2bc7494c6.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cwyj13y5dzno#0",
           "author": null,
