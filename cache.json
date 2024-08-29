@@ -2113,6 +2113,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/8968b7224c13bd4065e488a077dca0449cd6c30c?source=rss",
+          "author": null,
+          "description": "JR西日本は、台風10号の接近に伴い、30日金曜の始発から午前10時ごろにかけてとしていた山陽新幹線・広島ー博多駅間での計画運休を終日運転取り止めに変更すると発表しました。\n　\n　新大阪ー広島駅間は",
+          "link": "https://news.yahoo.co.jp/articles/8968b7224c13bd4065e488a077dca0449cd6c30c?source=rss",
+          "publishedOn": "2024-08-29T08:20:36.000Z",
+          "wordCount": 1637,
+          "title": "【速報】山陽新幹線　30日金曜　広島ー博多駅間で始発から終日運転取り止め　近畿エリアの在来線は31日土曜始発からの可能性(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240829-00010005-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/93c7e0a6aa90fea56c835f5eb1f04b70ead86cd0?source=rss",
           "author": null,
           "description": "台風10号は、29日午後4時現在、長崎県雲仙付近を時速15キロの速さで北へ進んでいるとみられます。\n\n　最新の予想進路では、今夜、九州に再上陸し、あす30日の朝には近畿地方が強風圏に入る見込みです。",
@@ -7319,6 +7329,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c79wr9j29q0o#0",
+          "author": null,
+          "description": "国連の世界食糧計画（WFP）は28日、イスラエルとイスラム組織ハマスの戦闘が続くパレスチナ自治区ガザ地区で、WFPのスタッフの移動を「追って通知があるまで」一時停止すると発表した。イスラエルが設置した検問所付近で同機関のチームが銃撃を受けたためだとした。",
+          "link": "https://www.bbc.com/japanese/articles/c79wr9j29q0o",
+          "publishedOn": "2024-08-29T08:21:59.000Z",
+          "wordCount": 1471,
+          "title": "世界食糧計画、ガザでスタッフの移動を一時停止　支援車両が銃撃受け",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/dcd9/live/4e191630-65ce-11ef-8c32-f3c2bc7494c6.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c62303gl76no#0",
           "author": null,
