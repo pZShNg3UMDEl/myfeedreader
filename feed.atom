@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T03:38:15.202Z</updated>
+    <updated>2024-08-29T03:50:36.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】徳島県吉野川市・三好市が高齢者避難を発令(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3cd80b52523915cd387c8527fc132db05a89942b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3cd80b52523915cd387c8527fc132db05a89942b?source=rss"/>
+        <updated>2024-08-29T03:43:48.000Z</updated>
+        <summary type="html"><![CDATA[台風１０号接近に伴い、２９日午前１０時に徳島県吉野川市が、午前１１時に三好市が「警戒レベル３高齢者等避難」を発令しました。
+
+　それぞれの自治体は、土砂災害警戒区域や浸水想定区域にいる高齢者など、避]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「たばこの火を押しつけた」と供述も　豊中・集団暴行受けた２２歳男性死亡　交際トラブルか(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/30bee743ba9625b5e8a306cdf1ef1c1e111ce4b2?source=rss</id>
