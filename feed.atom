@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T07:15:07.429Z</updated>
+    <updated>2024-08-29T07:27:11.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】徳島県神山町・東みよし町が高齢者避難を発令(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6026974cca452d4eea70f277259dbbc3f962c7d6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6026974cca452d4eea70f277259dbbc3f962c7d6?source=rss"/>
+        <updated>2024-08-29T07:17:49.000Z</updated>
+        <summary type="html"><![CDATA[台風１０号接近に伴い２９日午後３時４５分に徳島県神山町が、午後４時すぎに徳島県東みよし町が、それぞれ「警戒レベル３高齢者等避難」を発令しました。
+
+　それぞれの自治体は、雨風が強くなる前に、避難及び]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[りんくうタウン駅で天井の一部落下　重さ１・４キロ　雨の重みに耐えられず　けが人なし　大阪府泉佐野市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/ace487b18540da7040e0a52882736e226bb8ac83?source=rss</id>
@@ -27,6 +39,16 @@
         <summary type="html"><![CDATA[KIWIWALKSは，魔女育成RPG「魔女の泉R」のPS5/Switch版を本日発売した。本作は，「魔女の泉」シリーズ第1作のリメイク作品だ。プレイヤーは主人公の魔女パイベリーとなり，魔女狩りが行われている世界を舞台に冒険を繰り広げていく。魔女を育てる育成要素と，フィールドを探索するRPG要素を楽しめる。]]></summary>
         <author>
             <name>4Gamer.net − Wii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代のデータセンタートレンド　インフラの統合と水冷システム]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2408/29/news016.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2408/29/news016.html"/>
+        <updated>2024-08-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバ／ストレージ／ネットワークといったデータセンターの設備をAI（人工知能）処理に対応させるためには、高度なGPUやアクセラレーターといった設備を統合させる必要があります。インフラの統合にあたって最も考慮すべき点は冷却で、AIデータセンターでは水冷（液冷／液浸）式の導入が加速しています。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

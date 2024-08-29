@@ -2093,6 +2093,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6026974cca452d4eea70f277259dbbc3f962c7d6?source=rss",
+          "author": null,
+          "description": "台風１０号接近に伴い２９日午後３時４５分に徳島県神山町が、午後４時すぎに徳島県東みよし町が、それぞれ「警戒レベル３高齢者等避難」を発令しました。\n\n　それぞれの自治体は、雨風が強くなる前に、避難及び",
+          "link": "https://news.yahoo.co.jp/articles/6026974cca452d4eea70f277259dbbc3f962c7d6?source=rss",
+          "publishedOn": "2024-08-29T07:17:49.000Z",
+          "wordCount": 1591,
+          "title": "【速報】徳島県神山町・東みよし町が高齢者避難を発令(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240829-00047440-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/ace487b18540da7040e0a52882736e226bb8ac83?source=rss",
           "author": null,
           "description": "２８日午後、大阪府泉佐野市の駅の連絡通路で重さ約１．４キロある天井の一部が落下しました。\n　けが人はいないということです。雨が原因とみられています。\n\n　南海電鉄によりますと、落下したのはりんくうタ",
@@ -9446,6 +9456,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2408/29/news016.html",
+          "author": null,
+          "description": "サーバ／ストレージ／ネットワークといったデータセンターの設備をAI（人工知能）処理に対応させるためには、高度なGPUやアクセラレーターといった設備を統合させる必要があります。インフラの統合にあたって最も考慮すべき点は冷却で、AIデータセンターでは水冷（液冷／液浸）式の導入が加速しています。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2408/29/news016.html",
+          "publishedOn": "2024-08-29T07:00:00.000Z",
+          "wordCount": 2493,
+          "title": "AI時代のデータセンタートレンド　インフラの統合と水冷システム",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/29/cover_news016.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2408/29/news064.html",
           "author": null,
