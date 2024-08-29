@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T06:22:03.165Z</updated>
+    <updated>2024-08-29T06:42:41.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11、Ryzen CPU向けアップデート「KB5041587」提供開始。ゲームなどでパフォーマンス向上に期待]]></title>
+        <id>https://gadget.phileweb.com/?p=83430</id>
+        <link href="https://gadget.phileweb.com/post-83430/"/>
+        <updated>2024-08-29T06:26:16.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトはWindows 11の大型アップデート24H2で、AMDのRyzen CPUのパフォーマンスを改善するパッチを提供する予定だが、それに先行し現在の23H2バージョンにも、この機能を単独の更新プログラム「KB5041587」として提供し始めた。 KB5041587更新プログラムは、Wi […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「EGGコンソール ザナドゥ シナリオII PC-8801mkIISR」本日配信。高い難度に多くのRPGファンをうならせた名作がSwitchに登場]]></title>
         <id>https://www.4gamer.net/games/830/G083091/20240829032/</id>
