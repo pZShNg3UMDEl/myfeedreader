@@ -1973,6 +1973,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f1d91aaf129099628e767235617c4f47c642b99d?source=rss",
+          "author": null,
+          "description": "午前９時１分徳島県牟岐町に高齢者避難所情報が発令されました。",
+          "link": "https://news.yahoo.co.jp/articles/f1d91aaf129099628e767235617c4f47c642b99d?source=rss",
+          "publishedOn": "2024-08-29T00:10:05.000Z",
+          "wordCount": 1544,
+          "title": "【速報】徳島県牟岐町に高齢者避難情報が発令(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240829-00047428-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/c54692766476a12f383871f358614520383ea771?source=rss",
           "author": null,
           "description": "関西エアポートによりますと、台風10号の影響で午前8時現在、29日に伊丹空港を発着する国内線131便が欠航すると発表しました。\n　\n　欠航が出るのは、伊丹と鹿児島、屋久島、但馬、熊本、宮崎、長崎、種",
@@ -7001,16 +7011,6 @@
           "wordCount": 727,
           "title": "【速報】SNS型投資詐欺　公開手配の5人のうち2人逮捕　大阪府警(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/138d086ac7177e910018cec583ef8d93c1fc6d34?source=rss",
-          "author": null,
-          "description": "フィギュアで知られる「海洋堂」の作品を集めた展示会が、兵庫県朝来市の美術館で開催されています。\n\n　あさご芸術の森美術館で開催されている「海洋堂フィギュア展」。\n\n　海洋堂のフィギュアは世界的に高い",
-          "link": "https://news.yahoo.co.jp/articles/138d086ac7177e910018cec583ef8d93c1fc6d34?source=rss",
-          "publishedOn": "2024-07-30T12:54:42.000Z",
-          "wordCount": 798,
-          "title": "おまけフィギュアでブームを生んだ　「海洋堂」作品３０００体以上を展示　兵庫・朝来市で９月１日まで(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240730-00046946-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9158,16 +9158,6 @@
           "wordCount": 1503,
           "title": "【パリ五輪】 柔道の永瀬貴規が金、2大会連続　日本はメダル争いトップ保つ",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/30ad/live/7771e280-4ec9-11ef-98d0-432bff77a471.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c19kxpx7nk2o#0",
-          "author": null,
-          "description": "カマラ・ハリス米副大統領が民主党の大統領候補に立候補したことに、ソーシャルメディアユーザー、特に若者たちは熱狂している。しかしこの新たな熱狂が、11月に民主党にとって重要なグループでとなる若年有権者の取り込みにつながるかどうか、そしてこの政治的勢いが続くかは不透明だ。",
-          "link": "https://www.bbc.com/japanese/articles/c19kxpx7nk2o",
-          "publishedOn": "2024-07-30T12:01:23.000Z",
-          "wordCount": 1519,
-          "title": "【米大統領選2024】 ネットユーザーはハリス副大統領に夢中……それは実際の票につながるのか",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/a232/live/a11dbf50-4e56-11ef-aebc-6de4d31bf5cd.jpg"
         }
       ]
     },
@@ -9176,6 +9166,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2408/29/news064.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、産業用、民生用モーター制御および電力変換システム用途向けのマイクロコントローラー「PSOC Control」シリーズを発表した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2408/29/news064.html",
+          "publishedOn": "2024-08-29T00:00:00.000Z",
+          "wordCount": 2536,
+          "title": "1μA未満の休止モードを搭載したモーター制御向けMCU",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/29/cover_news064.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2408/27/news088.html",
           "author": null,
@@ -9453,6 +9453,36 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=83362",
+          "author": "編集部：平山洸太",
+          "description": "EcoFlowは、ブランド初のモバイルバッテリー「EcoFlow RAPID Magnetic Power Bank」を発表した。発売日および価格については現時点で未定。容量は5000mAhと10000mAhの2種類をラインナップする。 MagSafeおよびQi2規格のワイヤレス充電に対応し、「iP […]",
+          "link": "https://gadget.phileweb.com/post-83362/",
+          "publishedOn": "2024-08-29T00:00:00.000Z",
+          "wordCount": 744,
+          "title": "ポータブル電源のEcoFlowがモバイルバッテリー参入。MagSafe／Qi2対応の「RAPID Magnetic Power Bank」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/DSC_31920828152c.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=83354",
+          "author": "編集部：平山洸太",
+          "description": "EcoFlowは、ポータブル電源「EcoFlow DELTA 3 Plus」を9月1日に発売する。価格は149,600円（税込）。 容量1024Wh／出力1500W（瞬間最大3000W）に対応するポータブル電源。同社DELTAシリーズ初の「Plus」モデルとして、「業界標準を再構築」するとアピールし […]",
+          "link": "https://gadget.phileweb.com/post-83354/",
+          "publishedOn": "2024-08-29T00:00:00.000Z",
+          "wordCount": 745,
+          "title": "EcoFlow、56分でフル充電できる1kWh級ポータブル電源「DELTA 3 Plus」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/DSC_31870828151b.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=83360",
+          "author": "編集部：平山洸太",
+          "description": "EcoFlowは、ポータブル電源「EcoFlow RIVER 3」を9月1日に発売する。価格は32,890円（税込）。オンライン限定のバリエーションモデル「EcoFlow RIVER 3（230）」も30,900円（税込）でラインナップする。 アウトドアや防災初心者に最適だというポータブル電源のエン […]",
+          "link": "https://gadget.phileweb.com/post-83360/",
+          "publishedOn": "2024-08-29T00:00:00.000Z",
+          "wordCount": 736,
+          "title": "EcoFlow、“最強のコスパ”アピールのポータブル電源「RIVER 3」。容量245Whで約3.3万円",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/DSC_31860828150a.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=83332",
           "author": "佐野正弘",
@@ -14354,36 +14384,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121766/",
-          "author": null,
-          "description": "映画史上最も破天荒なヒーロー、デッドプールとウルヴァリンの活躍を描く「デッドプール＆ウルヴァリン」（公開中）と、テレビアニメ「ザ・ファブル」のコラボ映像が公開された。同映像では、テレビアニメ「ザ...",
-          "link": "https://anime.eiga.com/news/121766/",
-          "publishedOn": "2024-07-30T13:00:00.000Z",
-          "wordCount": 647,
-          "title": "「デッドプール＆ウルヴァリン」×アニメ「ザ・ファブル」コラボ映像公開　興津和幸＆大塚明夫＆加瀬康之が共演",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121790/",
-          "author": null,
-          "description": "ディズニー＆ピクサー最新作「インサイド・ヘッド2」から、主人公の少女・ライリーのさまざまな感情をとらえた表情“七変化”ビジュアル、特別予告“ライリーのあふれだす感情編”が公開された。 本作は、独...",
-          "link": "https://anime.eiga.com/news/121790/",
-          "publishedOn": "2024-07-30T12:00:00.000Z",
-          "wordCount": 660,
-          "title": "「インサイド・ヘッド2」特別予告公開　4週連続入場者プレゼントも決定",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14804,6 +14804,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=45015",
+          "author": "田原",
+          "description": "クラフトビール大好きです！タハラ＠あつらぼです。 先日、厚木のオクトーバーフェストの速報をお伝えしましたが お隣海老名でも9月にビールの祭典がありますよー！ 「EBINA CRAFT BBER STREET 2024」9月13日～15日の3…",
+          "link": "https://atsugi-lab.com/event-ebina-beerfes202409/",
+          "publishedOn": "2024-08-29T01:05:34.000Z",
+          "wordCount": 1234,
+          "title": "【海老名でも！】クラフトビールフェスティバル「EBINA CRAFT BBER STREET 2024」9月13日～15日の3日間開催！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/08/ebina-beer202409.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=44996",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです。 今年もこの季節がやってまいりました！ これまでの開催では多くの親子連れで賑わった、本厚木駅と小田急グループによる秋のイベント 「本厚木駅秋まつり」が9月7日（土）に開催されます☆ 今年はもころんも遊びにく…",
@@ -15040,6 +15050,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=256690",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 濃いピンクグレープフルーツサイダー」を世界一詳しく調査しました。   公式 […]",
+          "link": "https://foodfighter.jp/711sej-pink-grapefruit-cider",
+          "publishedOn": "2024-08-29T00:06:05.000Z",
+          "wordCount": 1729,
+          "title": "【セブンイレブン】セブンプレミアム 濃いピンクグレープフルーツサイダー【新作ドリンク】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/383da24941eea4c77570c3d09b054674.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=256688",
           "author": "foodfighter",
@@ -20936,36 +20956,6 @@
           "wordCount": 2341,
           "title": "「自宅を爆破する」　議会中にゲームで辞職した元宮城・大河原町議に脅迫状",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/9/e91a442c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038143.html",
-          "author": "dqnplus",
-          "description": "1 名前：煮卵 ★：2024/07/30(火) 15:48:42.83 ID:Rj+MpjHG9\n\n\n\n\n\n\n\n\nv【ニュース】マッチングアプリで男性から現金詐取か ｢病気怖いのでお互い検査を｣https://t.co/b4FG5IEwDe#アベマニュース— ABEMAニュース (@News_ABEMA) July 30, 2024 \n\n\n\n\n\n\nマッチングアプリで知...",
-          "link": "https://itainews.com/archives/2038143.html",
-          "publishedOn": "2024-07-30T13:01:52.000Z",
-          "wordCount": 2368,
-          "title": "【詐欺】「病気が怖いのでお互いに検査を」 マッチングアプリで知り合った20代男性から現金約30万円搾取か 28歳女を逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/0/401f9e72-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038129.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(茸) [US]：2024/07/30(火) 06:27:07.61 ID:gVOc/fsE0.net\n\n\n\n\n\n\n\n警官が「大麻パーティ」で書類送検、監察官室長の警視が泥酔トラブルも…！「内田梨瑚事件」であぶり出された北海道警の「ヤバすぎる不祥事」 : https://t.co/zuEsgFokHp ...",
-          "link": "https://itainews.com/archives/2038129.html",
-          "publishedOn": "2024-07-30T12:43:59.000Z",
-          "wordCount": 2439,
-          "title": "北海道警察で大麻パーティが開催",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/8/b844f52d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038133.html",
-          "author": "dqnplus",
-          "description": "1 名前：：2024/07/30(火) 12:15:22.76 ID:F5ehF67a0.net\n\n\n\n\n\n\n\n\n最後のおしらせ | dorgel https://t.co/aM9lpCRndD #Ci_en #シエン— ニム (@nimugreen) July 29, 2024",
-          "link": "https://itainews.com/archives/2038133.html",
-          "publishedOn": "2024-07-30T12:03:49.000Z",
-          "wordCount": 2539,
-          "title": "同人ゲー作者「6年間毎月サブスクありがとうございました！鬱で制作やめるわ」支援者「は？」→炎上",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/9/d962fb55-s.png"
         }
       ]
     },
@@ -20974,6 +20964,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=79503",
+          "author": "299",
+          "description": "クリアケースのなかを寝室にしている赤ちゃん猫ですが、ときおり見事に脱出していることがわかりました。 どうやってこの高い壁を登って脱出するのか不思議に思っていた飼い主さんでしたが、やっとこの日、子猫の脱出手順がわかったよう...\n寝床から脱出してきた子猫が甘えにきてメロメロになりました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79503",
+          "publishedOn": "2024-08-29T00:00:03.000Z",
+          "wordCount": 1352,
+          "title": "寝床から脱出してきた子猫が甘えにきてメロメロになりました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79503.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=79469",
           "author": "299",
@@ -24503,16 +24503,6 @@
           "wordCount": 1354,
           "title": "赤ちゃん猫を優しく見守る大型犬",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77580.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77567",
-          "author": "299",
-          "description": "いつもはどっしりと構えているまるちゃんが、口に草のようなものをくわえたままで、ずっと鳴き続けています。 何を要求しているのでしょうか。気になりますね〜。 どうやらまるちゃんが欲しかったのは、ふみふみするクッションだったよ...\nフミフミクッションでフミフミしながらご満悦な猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77567",
-          "publishedOn": "2024-07-30T13:00:22.000Z",
-          "wordCount": 1352,
-          "title": "フミフミクッションでフミフミしながらご満悦な猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/07/77567.jpg"
         }
       ]
     },
