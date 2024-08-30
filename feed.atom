@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T03:50:27.167Z</updated>
+    <updated>2024-08-30T04:19:03.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヤンチャ過ぎる子猫]]></title>
+        <id>https://2-9-9.com/?p=79545</id>
+        <link href="https://2-9-9.com/archives/79545"/>
+        <updated>2024-08-30T04:00:22.000Z</updated>
+        <summary type="html"><![CDATA[今回ご紹介するのは仲の良い子猫ちゃん達です。 みんなお昼寝モードなんでしょうけど、一匹だけ元気の良い子猫ちゃんがいました。 遊んでニャ～と周囲を巻き込む様子が微笑ましいのでご覧ください。 最初は二匹の子猫ちゃんがシーツの...
+ヤンチャ過ぎる子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【台風１０号】３１日午前にかけて線状降水帯発生の恐れ　土砂災害や洪水に注意　高知県(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/d392183fe0e1b4433b760bc277ce615309ff780e?source=rss</id>
@@ -30871,18 +30882,6 @@ NHK朝ドラ虎に翼関東大震災における朝鮮人虐殺に言及 pic.twi
 赤ちゃん猫に大興奮のゴールデンレトリバー first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuvoton introduces new 3D time-of-flight sensor]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/07/nuvoton-introduces-new-3d-time-of.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/07/nuvoton-introduces-new-3d-time-of.html"/>
-        <updated>2024-07-31T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Link: https://www.prnewswire.com/news-releases/tof-sensor-for-enhanced-object-detection-and-safety-application-nuvoton-launches-new-3d-tof-sensor-with-integrated-distance-calculation-circuit-302197512.html
-TOF Sensor for Enhanced Object Detection and Safety Application: Nuvoton Launches New 3D TOF Sensor with Integrated Distance Calculation Circuit
-KYOTO, Japan, July 16, 2024 /PRNewswire/ -- Nuvoton Technology Corporation Japan is set to begin mass production of a 1/4-inch VGA (640x480 pixel) resolution 3D Time-of-Flight (TOF) sensor in July 2024. This sensor is poised to revolutionize the recognition of people and objects in various indoor and outdoor environments. This capability has been achieved through Nuvoton's unique pixel design technology and distance calculation/Image Signal Proc…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
