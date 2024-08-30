@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T06:22:12.969Z</updated>
+    <updated>2024-08-30T06:42:36.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIが『Doom』を生成。Googleとテルアビブ大の最新研究「GameNGen」]]></title>
+        <id>https://gadget.phileweb.com/?p=83496</id>
+        <link href="https://gadget.phileweb.com/post-83496/"/>
+        <updated>2024-08-30T06:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、AI画像生成技術がゲームをリアルタイムに生成し実行する、まったく新しい方法を提供しようとしている。 ある程度規模の大きなゲームを大雑把に説明すれば、3D空間にアセットを配置してマップを作り、そこに敵キャラNPCやを配置して、プレイヤーが操作するメインキャラクターと戦ったり、ストーリー […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お腹が空いたらごはんちょうだい！のお願いポーズをする子猫]]></title>
         <id>https://2-9-9.com/?p=79549</id>
