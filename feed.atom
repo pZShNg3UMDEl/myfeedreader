@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T08:19:58.398Z</updated>
+    <updated>2024-08-30T08:40:29.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【台風最新情報】近畿は30日夜から大雨に注意　あす31日土曜に近畿に最接近　あさって1日にかけて停滞の可能性(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/96f150ba4a94a5bc13b2f7431eda0faa4ea76d47?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/96f150ba4a94a5bc13b2f7431eda0faa4ea76d47?source=rss"/>
+        <updated>2024-08-30T08:29:21.000Z</updated>
+        <summary type="html"><![CDATA[台風10号は、30日午後3時現在、愛媛県沖にあって東北東に時速15キロで進んでいるとみられます。
+　
+　最新の予想進路では、今後ゆっくり東に進み、あす31日土曜日未明に、徳島県付近に進むとみられてい]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【福岡】川の様子を見に…８０代男性が行方不明に　増水した川に流されたか]]></title>
         <id>https://itainews.com/archives/2039129.html</id>
