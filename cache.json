@@ -2433,6 +2433,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/cce8d1337a0344701fe781c7937eee4fe2bcbb8b?source=rss",
+          "author": null,
+          "description": "8月22日に発生した台風10号は9月1日、熱帯低気圧に変わりました。当初は27日ごろに日本列島を直撃する予報だった台風10号。しかし、西よりへとコースが変わったため、この週末まで影響が長期化。観光業",
+          "link": "https://news.yahoo.co.jp/articles/cce8d1337a0344701fe781c7937eee4fe2bcbb8b?source=rss",
+          "publishedOn": "2024-09-02T09:12:51.000Z",
+          "wordCount": 1688,
+          "title": "「10日間運休で4～500万損害」「キャンセル数はコロナ禍の1ヵ月分」　“ノロノロ台風10号”影響長期化で観光地に大打撃　観光客を翻弄(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240902-00010000-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/58ca4b62c61883d4dae81ca47a36506d5902c1f1?source=rss",
           "author": null,
           "description": "台風１０号の影響でダイヤが大幅に乱れていた東海道新幹線は、２日の始発から全区間で通常運行を再開しました。\n\n　東海道新幹線は台風１０号の影響で、三島と名古屋の間で運休し、ほかの区間でも本数を減らすな",
@@ -11780,6 +11790,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122065/",
+          "author": null,
+          "description": "テレビアニメ「Re:ゼロから始める異世界生活 3rd season」が、「襲撃編」（全8話）と「反撃編」（全8話）で構成されることがわかった。「襲撃編」は10月2日から放送開始となり、既に発表さ...",
+          "link": "https://anime.eiga.com/news/122065/",
+          "publishedOn": "2024-09-02T09:00:00.000Z",
+          "wordCount": 821,
+          "title": "「リゼロ 3rd season」は襲撃編と反撃編で構成、どちらも全8話　襲撃編は10月2日、反撃編は25年2月放送",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122042/",
           "author": null,
