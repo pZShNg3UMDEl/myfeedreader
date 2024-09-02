@@ -9567,6 +9567,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2409/02/news044.html",
+          "author": null,
+          "description": "ロームは、PWM制御方式FET外付けタイプAC-DCコントローラーIC4種を発売した。低電圧誤動作防止機能を搭載し、Si-MOSFET、IGBT、SiC（炭化ケイ素） MOSFETまで幅広いパワートランジスタに対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2409/02/news044.html",
+          "publishedOn": "2024-09-02T00:00:00.000Z",
+          "wordCount": 2503,
+          "title": "UVLO対応、PWM制御方式汎用AC-DCコントローラーIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/02/cover_news044.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2408/30/news013.html",
           "author": null,
           "description": "米国高速道路交通安全局（NHTSA）は、2029年9月までに全ての新型乗用車「2030年モデル」に自動緊急ブレーキ（AEB）システムを標準装備することを義務付ける新たな指令を最終決定しました。本稿では、NHTSAの最新のAEB規定が自動車業界と消費者に与える影響について解説します。",
@@ -11531,16 +11541,6 @@
           "publishedOn": "2024-08-06T10:00:43.000Z",
           "wordCount": null,
           "title": "【ドラクエウォーク】Ｓ心珠がザックザク!?ゾーマの心珠BOX200箱開封で狙いの心珠Ｓをゲット出来るのか!?おまけでラーミアとアリアハンの心珠BOXも開けます!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m8e2MJX9MLQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m8e2MJX9MLQ",
-          "publishedOn": "2024-08-03T11:53:37.000Z",
-          "wordCount": null,
-          "title": "【ドラクエウォークLIVE】１位取るぞ!!ギガモン闇の大魔王ゾーマ戦をライブで狩っていく無課金勇者！！8月3日夜の部！",
           "imageUrl": null
         }
       ]
@@ -14669,36 +14669,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121750/",
-          "author": null,
-          "description": "つのだじろうの漫画を原作とし、伝説のホラーとして知られる鶴田法男監督のオリジナルビデオ作品「亡霊学級」デジタルリマスター版が、東京・池袋の新文芸坐で8月17日に上映される。 「亡霊学級」は、19...",
-          "link": "https://anime.eiga.com/news/121750/",
-          "publishedOn": "2024-08-03T13:00:00.000Z",
-          "wordCount": 730,
-          "title": "つのだじろう原作、伝説の実写ホラー「亡霊学級」8月17日新文芸坐でデジタルリマスター版上映",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121791/",
-          "author": null,
-          "description": "「トランスフォーマー」シリーズ最新作となる3D CG「トランスフォーマー ONE」の本予告が公開された。星の運命を左右する戦いと、固い友情で結ばれたオプティマスとメガトロンの関係性が、新しい力に...",
-          "link": "https://anime.eiga.com/news/121791/",
-          "publishedOn": "2024-08-03T12:00:00.000Z",
-          "wordCount": 844,
-          "title": "「トランスフォーマー ONE」激エモ展開を予想させる本予告完成　オプティマスとメガトロンの知られざる友情描く",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15128,6 +15098,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=45083",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 情報提供頂きました！（いつも有難うございます！） アミューあつぎにある「イタリアン＆ワイン　アドマーニ」が、 いつの間にか臨時休業になってしまっているみたい…と情報を頂き、 現在の様子を見に現地へいってま…",
+          "link": "https://atsugi-lab.com/news-adomani202408/",
+          "publishedOn": "2024-09-02T00:49:13.000Z",
+          "wordCount": 1173,
+          "title": "【キニナル！】アミューあつぎB1Fの人気店「イタリアン＆ワイン アドマーニ」が臨時休業中。再開時期は不明です。［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/09/admani202408rinji.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=45066",
           "author": "comomo",
@@ -16674,16 +16654,6 @@
           "wordCount": 1779,
           "title": "【松屋】豚カルビ焼肉定食【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/b04b21bba9d3297f0204c33829bb496b.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=254244",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”ちゃんとごはん。”をキャッチコピーに全国に展開している和食を中心とした外食チェーン「大戸屋」へ進撃 […]",
-          "link": "https://foodfighter.jp/ootoya-nasubuta",
-          "publishedOn": "2024-08-03T11:55:34.000Z",
-          "wordCount": 1809,
-          "title": "【大戸屋】茄子と豚肉のコク旨味噌炒め定食・五穀ご飯特盛【定番メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/99d31dcaf74c4c8ce9a3616df26544e4-rotated.jpg"
         }
       ]
     },
@@ -21231,36 +21201,6 @@
           "wordCount": 2342,
           "title": "「助けて 無理やり散歩を」夏休み開始直後の小6女子児童3人組を“脅迫”…公園から『50分間連れ回す』41歳男逮捕 札幌",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/e/eea0dfd0-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038300.html",
-          "author": "damono3856",
-          "description": "1 名前：＠おっさん友の会 ★ 警備員[Lv.8][新芽]\n垢版 |\n2024/08/03(土) 15:22:59.02\n\n\n\n\n\n\n\n\n《ブラジル》幼女レイプ容疑者を集団リンチ 近隣住民が男性器切断して殺害https://t.co/q7dWfUXf3E— 復職47ヶ月目@発達 (@gjamjma) August 3, 2024  \n\n\n\n\n\n\n9歳の少女をレイ...",
-          "link": "https://itainews.com/archives/2038300.html",
-          "publishedOn": "2024-08-03T13:02:14.000Z",
-          "wordCount": 2459,
-          "title": "【ブラジル】幼女レイプ容疑者を集団リンチ…近隣住民が男性器切断して殺害",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/8/782eb55a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038289.html",
-          "author": "damono3856",
-          "description": "1 名前：ごまカンパチ ★\n垢版 |\n2024/08/02(金) 23:06:38.88ID:ETuH2Cjc9\n\n\n\n\n\n\n\n中国で深刻化する“底なしの不動産バブル崩壊”今、中国で何が起きているのか？【Bizスクエア】 https://t.co/PkoIX6Yr5u— TBS NEWS DIG Powered by JNN (@tbsnewsdig) July 31, 2024  \n...",
-          "link": "https://itainews.com/archives/2038289.html",
-          "publishedOn": "2024-08-03T12:44:33.000Z",
-          "wordCount": 2326,
-          "title": "中国で深刻化する“底なしの不動産バブル崩壊”今、中国で何が起きているのか?",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/0/30da71f9-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038294.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(愛媛県) [US]\n垢版 |\n2024/08/03(土) 11:37:07.16ID:l/g4eShO0●?PLT(13000)\n\n\n\n\n\n\n\n辺野古ダンプ事故「あなたは県民を殺した責任者」　オール沖縄が防衛局に工事中止要請 https://t.co/P5oiPMWymy 知事の支持母体「オール沖縄会議」は「...",
-          "link": "https://itainews.com/archives/2038294.html",
-          "publishedOn": "2024-08-03T12:03:37.000Z",
-          "wordCount": 2499,
-          "title": "【辺野古ダンプ事故】「あなたは県民を殺した責任者」　オール沖縄が防衛局に工事中止要請",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/8/b813e11d-s.png"
         }
       ]
     },
@@ -21269,6 +21209,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=79778",
+          "author": "299",
+          "description": "キジ白の猫さんと2匹のロットワイヤーのワンコたちが3匹で並んでいます。 飼い主さんからの命令の合図が出されるのを今か今かと待っているロットワイヤーの真剣な顔。 飼い主さんが指先でくるくる円を描きながらロールオーバー、コロ...\nワンコの芸を見よう見まねで習得するニャンコ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79778",
+          "publishedOn": "2024-09-02T00:00:14.000Z",
+          "wordCount": 1348,
+          "title": "ワンコの芸を見よう見まねで習得するニャンコ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79778.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=79746",
           "author": "299",
@@ -24798,16 +24748,6 @@
           "wordCount": 1348,
           "title": "1匹だけ気持ちよく爆睡している子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77833.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77819",
-          "author": "299",
-          "description": "今回ご紹介するのは飼い主さんの腕にしがみついている猫ちゃんです。 よほど離れたくないのか、飼い主さんが腕を離そうとすると抵抗していました。 ここまでされたら動けないよな・・と感じること間違いなしの猫ちゃんをご覧ください。...\n飼い主さんの腕にヒシっとしがみつく猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77819",
-          "publishedOn": "2024-08-03T13:00:18.000Z",
-          "wordCount": 1350,
-          "title": "飼い主さんの腕にヒシっとしがみつく猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77819.jpg"
         }
       ]
     },
