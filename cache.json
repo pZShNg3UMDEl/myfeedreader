@@ -11851,6 +11851,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/122068/",
+          "author": null,
+          "description": "テレビアニメ「ぷにるはかわいいスライム」に清水理沙、榎木淳弥、花守ゆみりの出演が決定した。PV第2弾とキービジュアルが公開されている。 まえだくん氏が小学館のウェブ漫画誌「週刊コロコロコミック」...",
+          "link": "https://anime.eiga.com/news/122068/",
+          "publishedOn": "2024-09-02T11:00:00.000Z",
+          "wordCount": 780,
+          "title": "「ぷにるはかわいいスライム」に清水理沙、榎木淳弥、花守ゆみりが出演　10月6日放送開始",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/122067/",
           "author": null,
           "description": "テレビアニメ「オーイ！とんぼ」第2期の放送が10月5日からスタートすることが決定し、石川由依、井上麻里奈らの出演と、主題歌詳細が明らかになった。 「週刊ゴルフダイジェスト」（ゴルフダイジェスト社...",
@@ -15008,21 +15023,6 @@
           "publishedOn": "2024-08-04T03:00:00.000Z",
           "wordCount": 799,
           "title": "キティがオスカル、マイメロはマリー・アントワネット　サンリオ×「ベルばら」がスペシャルコラボ、グッズ発売予定",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121854/",
-          "author": null,
-          "description": "テレビアニメ「治癒魔法の間違った使い方」の第2期製作が決定し、PVが公開された。 同作は、くろかた氏によるライトノベルが原作。異世界に召喚された高校生の兎里健（ウサト）は、期待された勇者の適正は...",
-          "link": "https://anime.eiga.com/news/121854/",
-          "publishedOn": "2024-08-03T23:00:00.000Z",
-          "wordCount": 804,
-          "title": "「治癒魔法の間違った使い方」第2期製作が決定　ウサト役の坂田将吾らから喜びのコメント",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -21639,6 +21639,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=79768",
+          "author": "299",
+          "description": "今回ご紹介するのは箱の中で心地よさそうに過ごす猫ちゃんです。 猫は狭いところを好む性質を持っていますけど、ここまで気持ち良さそうにする猫ちゃんはなかなかいません。 それでは猫ちゃんのくつろぎっぷりをご覧ください。 ダンボ...\n箱の中でくつろぐ猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79768",
+          "publishedOn": "2024-09-02T11:00:58.000Z",
+          "wordCount": 1357,
+          "title": "箱の中でくつろぐ猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79768.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=79763",
           "author": "299",
