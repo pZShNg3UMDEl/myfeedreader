@@ -2483,6 +2483,36 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/2030fd231f9d830e94a9c7d696a6c9d7f2a35b52?source=rss",
+          "author": null,
+          "description": "聴覚障害のある女の子の「逸失利益」を巡る訴訟が結審しました。\n\n　聴覚障害のあった井出安優香さん（当時１１歳）は２０１８年、下校中に重機にはねられ死亡し、遺族は運転手（４１）らに損害賠償を求めていま",
+          "link": "https://news.yahoo.co.jp/articles/2030fd231f9d830e94a9c7d696a6c9d7f2a35b52?source=rss",
+          "publishedOn": "2024-09-03T10:02:46.000Z",
+          "wordCount": 1608,
+          "title": "「娘の成長した姿を想像し、思いを押し殺している」　１１歳少女死亡事故の損害賠償訴訟　聴覚障害者の“逸失利益”が争われた裁判の２審が結審(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240903-00047520-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d9ef9fa6fd5482d6f153c35473c9b3fb386c3169?source=rss",
+          "author": null,
+          "description": "「360度をビルに囲まれているのですが、空がこんなにも広く見えます。私、仕事で来ているのですが、心が穏やかになります」（中村想人アナウンサー）\n\n　大阪・梅田に誕生する巨大な緑の街・グラングリーン大阪",
+          "link": "https://news.yahoo.co.jp/articles/d9ef9fa6fd5482d6f153c35473c9b3fb386c3169?source=rss",
+          "publishedOn": "2024-09-03T09:56:42.000Z",
+          "wordCount": 1679,
+          "title": "大阪・梅田の駅前なのに　裸足で芝生に寝ころべる「セントラルパークみたい」なエリア誕生　グラングリーン大阪「先行まちびらき」　高級ホテルやコーナン初の都市型店舗も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240903-00010000-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/dfbc76d828eec25afa9948e828d47bb742e98fc4?source=rss",
+          "author": null,
+          "description": "一斉メールを使った訓練、備えを呼びかけました。\n\n　大阪府の「８８０万人訓練」は、南海トラフ巨大地震により、大阪府沿岸全域に大津波警報が発表された想定です。\n\n　午後３時すぎ、大阪府内にいる人に速報",
+          "link": "https://news.yahoo.co.jp/articles/dfbc76d828eec25afa9948e828d47bb742e98fc4?source=rss",
+          "publishedOn": "2024-09-03T09:53:31.000Z",
+          "wordCount": 1648,
+          "title": "大阪府で８８０万人訓練　南海トラフ巨大地震を想定　一斉メールで避難呼びかけ　吉村知事も参加(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240903-00047519-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/edc3f9e459def12a4c3d83aed05cf0c3a5ca8da2?source=rss",
           "author": null,
           "description": "１７年前に発掘された化石は、新種の恐竜でした。\n\n　２００７年、兵庫県丹波篠山市で恐竜の骨とみられる化石が発掘され、「県立人と自然の博物館」などが調査した結果、１億１０００万年前の「角竜」と呼ばれる",
@@ -7851,16 +7881,6 @@
           "wordCount": 748,
           "title": "【速報】大阪市都島区で約１０４０軒が停電(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240805-00047007-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/63ca91ded2a2c2a287ae9e5609b4530975a05eef?source=rss",
-          "author": null,
-          "description": "４日未明、大阪府岸和田市の府道で、５４歳の女性が倒れているのが見つかり、その後死亡が確認されました。女性のそばには自転車が倒れていました。\n\n　警察によりますと、４日午前３時ごろ、岸和田市額原町の府",
-          "link": "https://news.yahoo.co.jp/articles/63ca91ded2a2c2a287ae9e5609b4530975a05eef?source=rss",
-          "publishedOn": "2024-08-04T22:07:49.000Z",
-          "wordCount": 759,
-          "title": "府道で頭から血を流して倒れた女性が死亡　そばには自転車　大阪・岸和田(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240805-00047006-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -12090,6 +12110,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122072/",
+          "author": null,
+          "description": "アニメ・声優・イベント情報サイト「アニメハック」の月イチ企画「声優・写真集＆雑誌情報まとめ」では、人気声優やアニソンアーティスト、コスプレイヤー、2.5次元俳優を中心に注目の写真集や雑誌、関連書...",
+          "link": "https://anime.eiga.com/news/122072/",
+          "publishedOn": "2024-09-03T10:00:00.000Z",
+          "wordCount": 882,
+          "title": "【9月発売　声優・写真集一覧】谷山紀章「秘部をさらすような…」色気ダダ漏れカット、遠野ひかるは水着初挑戦【写真多数】",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122071/",
           "author": null,
@@ -25353,16 +25388,6 @@
           "wordCount": 1345,
           "title": "テレビに夢中な赤ちゃんを遊びに誘う子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77951.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77923",
-          "author": "299",
-          "description": "あひるがツルツルの床の上を滑りそうになりながら大急ぎいで歩いていきます。何を慌てているのでしょうか。 どうやら猫さんのことを探していたようです。猫さんは自分のベッドの上でまったりしているところでした。 マッサージ器を自分...\n猫と一緒に昼寝をしようと家の中を探し回るあひる first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77923",
-          "publishedOn": "2024-08-04T22:00:11.000Z",
-          "wordCount": 1348,
-          "title": "猫と一緒に昼寝をしようと家の中を探し回るあひる",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77923.jpg"
         }
       ]
     },
