@@ -2513,6 +2513,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/b31b6ea0a9f9ee80bd88c0329dddbbc5bdaa7fdc?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、４日午前３時３７分ごろ大和路線の加美ー平野駅間の踏切設備に車が接触し、午前６時１２分ごろから徐行運転をしていました。\n\n　この影響で大阪環状線・大和路線・奈良線・おおさか東線",
+          "link": "https://news.yahoo.co.jp/articles/b31b6ea0a9f9ee80bd88c0329dddbbc5bdaa7fdc?source=rss",
+          "publishedOn": "2024-09-03T23:21:42.000Z",
+          "wordCount": 1576,
+          "title": "【速報】ＪＲ環状線や大和路線などで遅れ　大和路線で踏切設備に車が接触した影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240904-00047525-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/6aa5359e103d72a1ac8b78c3028a52b47ab62241?source=rss",
           "author": null,
           "description": "有機フッ素化合物「ＰＦＡＳ」の血中濃度を調査しました。\n\n　兵庫県明石市の市民団体は明石川流域に住む３３人について、有機フッ素化合物「ＰＦＡＳ」の血中濃度を調べたところ、約半数の１６人が、アメリカ国",
@@ -14994,21 +15004,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121859/",
-          "author": null,
-          "description": "水あさと氏の青春ラブコメディ漫画を原作とするテレビアニメ「阿波連さんははかれない」の第2期「阿波連さんははかれない season2」の制作が決定した。ティザーPVとティザービジュアルが公開されて...",
-          "link": "https://anime.eiga.com/news/121859/",
-          "publishedOn": "2024-08-05T11:30:00.000Z",
-          "wordCount": 765,
-          "title": "「阿波連さんははかれない」第2期が制作決定　2年生に進級した阿波連さんたちを描く",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15695,6 +15690,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=257334",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」へ […]",
+          "link": "https://foodfighter.jp/komeda-shiro-noir-sweet-potato",
+          "publishedOn": "2024-09-03T23:27:36.000Z",
+          "wordCount": 1929,
+          "title": "【コメダ珈琲店】安納芋のスイートポテト シロノワール ミニサイズ【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/09/a8d5ede54bde905a272f93dab09d0d63.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=257303",
           "author": "foodfighter",
