@@ -10325,16 +10325,6 @@
           "wordCount": 2589,
           "title": "USB Type-Cの電源制御ってどうやっているの？",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2407/26/cover_news019.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2408/05/news049.html",
-          "author": null,
-          "description": "ルネサス エレクトロニクスは、宇宙環境向けのパワーマネジメントリファレンスデザイン「ISLVERSALDEMO3Z」の提供を開始した。AMDの宇宙用SoC（System on Chip）「XQRVE2302」に向けたものとなっている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2408/05/news049.html",
-          "publishedOn": "2024-08-05T00:00:00.000Z",
-          "wordCount": 2572,
-          "title": "AMD SoC向けの電圧監視付き電源管理リファレンスデザイン",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/05/cover_news049.jpg"
         }
       ]
     },
@@ -12130,6 +12120,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122078/",
+          "author": null,
+          "description": "テレビアニメ「ハニーレモンソーダ」の追加キャストとして、高橋李依、根本京里、土岐隼一、八代拓の出演が決定した。 村田真優氏が「りぼん」（集英社刊）で2015年から連載中の原作漫画は、累計発行部数...",
+          "link": "https://anime.eiga.com/news/122078/",
+          "publishedOn": "2024-09-03T12:00:00.000Z",
+          "wordCount": 787,
+          "title": "「ハニーレモンソーダ」界の元カノ役に高橋李依　根本京里、土岐隼一、八代拓も出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122070/",
           "author": null,
@@ -25468,16 +25473,6 @@
           "wordCount": 1345,
           "title": "ワクワクドキドキ！スコティッシュの子猫をお迎えした初日",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77927.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77951",
-          "author": "299",
-          "description": "赤ちゃんが夢中になってテレビを見ていると子猫がやってきて赤ちゃんの足元に飛びかかって激しくじゃれはじめます。 赤ちゃんの柔らかい肌にガブガブと牙をたてる子猫。赤ちゃんは足を大きく揺さぶって子猫を振り払おうとしています。 ...\nテレビに夢中な赤ちゃんを遊びに誘う子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77951",
-          "publishedOn": "2024-08-05T00:00:34.000Z",
-          "wordCount": 1345,
-          "title": "テレビに夢中な赤ちゃんを遊びに誘う子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77951.jpg"
         }
       ]
     },
