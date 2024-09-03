@@ -9777,6 +9777,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2409/03/news075.html",
+          "author": null,
+          "description": "サンケン電気は、20A出力対応高圧3相モータードライバー「SIM2-202B」の量産開始を発表した。コンパクトながら放熱性能に優れ、高精度のサーマルシャットダウン機能や温度モニター機能などを備える。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2409/03/news075.html",
+          "publishedOn": "2024-09-03T00:00:00.000Z",
+          "wordCount": 2500,
+          "title": "20A出力に対応した高圧3相モータードライバー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/03/cover_news075.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2409/02/news044.html",
           "author": null,
           "description": "ロームは、PWM制御方式FET外付けタイプAC-DCコントローラーIC4種を発売した。低電圧誤動作防止機能を搭載し、Si-MOSFET、IGBT、SiC（炭化ケイ素） MOSFETまで幅広いパワートランジスタに対応する。",
@@ -14914,36 +14924,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121792/",
-          "author": null,
-          "description": "大ヒットディズニー映画の続編「モアナと伝説の海2」の日本版ティザーポスターが公開された。日本のために特別に制作されたビジュアルには、海に選ばれた主人公・モアナの少し大人びた表情が描かれている。 ...",
-          "link": "https://anime.eiga.com/news/121792/",
-          "publishedOn": "2024-08-04T13:00:00.000Z",
-          "wordCount": 684,
-          "title": "「モアナと伝説の海2」大人に成長したモアナの姿を初使用した日本版ポスター披露",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121765/",
-          "author": null,
-          "description": "松山ケンイチ、染谷将太が主演を務め、福田雄一監督がメガホンをとる「聖☆おにいさん THE MOVIE ホーリーメンVS悪魔軍団」に、新生“女子ーズ”が登場することがわかった。“女子ーズ”とは、福...",
-          "link": "https://anime.eiga.com/news/121765/",
-          "publishedOn": "2024-08-04T12:00:00.000Z",
-          "wordCount": 799,
-          "title": "実写「聖☆おにいさん」に新生“女子ーズ”が参加　レッド役は川口春奈「劇場でゲラゲラ笑ってくださいませ！」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15630,6 +15610,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=257164",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「ロッテ トルコ風アイス やきいもバニラ」を世界一詳しく調査しました。   公式YouTub […]",
+          "link": "https://foodfighter.jp/famima-turkish-ice-yakiimo",
+          "publishedOn": "2024-09-02T23:28:34.000Z",
+          "wordCount": 1745,
+          "title": "【ファミマ】ロッテ トルコ風アイス やきいもバニラ【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/09/d7c49e74cf94662ee0225d817ff18f59.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=257143",
           "author": "foodfighter",
@@ -16939,16 +16929,6 @@
           "wordCount": 1771,
           "title": "アサヒ飲料 モンスター パイプラインパンチ ボトル缶500ml【新作ドリンク】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/40798f9fc1f3813e79f467273ab4cfe3.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=254299",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝食メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャ […]",
-          "link": "https://foodfighter.jp/nakau-breakfast-torikobachi-komori",
-          "publishedOn": "2024-08-04T13:02:44.000Z",
-          "wordCount": 1812,
-          "title": "【なか卯】こだわり卵の鶏小鉢朝食・ごはん小盛【朝ごはん】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/76688422c17bc8be9000b25ac291e938.jpg"
         }
       ]
     },
@@ -21496,26 +21476,6 @@
           "wordCount": 2338,
           "title": "入院患者の左目を割り箸で刺す　札幌の55歳男を殺人未遂疑いで現行犯逮捕",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/7/c78db2bd-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038315.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★\n垢版 |\n2024/08/04(日) 08:55:18.49ID:LWmdxJep9\n\n\n\n\n\n\n\n「絶望です」避難所でついに死亡者も　弁当は1日1食のみ、住民の直訴を市長が遮り…能登半島震災から約7カ月、現地が明かす行政の怠慢#SmartFLASH #地震 #岸田文雄 #石川県 #被災者 #高齢者https:...",
-          "link": "https://itainews.com/archives/2038315.html",
-          "publishedOn": "2024-08-04T12:44:47.000Z",
-          "wordCount": 2474,
-          "title": "「絶望です」避難所でついに死亡者も　弁当は1日1食のみ、住民の直訴を市長が遮り…能登半島震災から約7カ月、現地が明かす行政の怠慢",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/6/96547984-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038318.html",
-          "author": "dqnplus",
-          "description": "0001 名無しさん＠涙目です。(愛媛県) [US] 2024/08/04(日) 13:16:14.57\n\n\n\n\n\n\n\n\n\nボクシング女子、４６秒で棄権のイタリア人選手が対戦相手に謝罪　パリ五輪 https://t.co/oLMaBnsNCT— cnn_co_jp (@cnn_co_jp) August 3, 2024 \n\n\n\n\n\n\n\n\n\nボクシング女子、４６秒で棄権...",
-          "link": "https://itainews.com/archives/2038318.html",
-          "publishedOn": "2024-08-04T12:01:42.000Z",
-          "wordCount": 2805,
-          "title": "女子ボクシング　遺伝子男の選手にボコられ棄権した女性選手、謝罪に追い込まれる",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/9/8952ddc6-s.png"
         }
       ]
     },
@@ -21524,6 +21484,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=79847",
+          "author": "299",
+          "description": "保護猫ちゃんが寝床のうえで大声を張り上げて鳴いています。 この元気なベージュ色の子猫の名前は、うちゃんです。もう1匹の子猫はそっくんです。2匹ともとても元気に毎日を過ごしています。 まだ赤ちゃん猫なので飼い主さんの指をち...\nエプロンのポケットのなかでヒャッホーな赤ちゃん猫たちが可愛い！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79847",
+          "publishedOn": "2024-09-03T00:00:53.000Z",
+          "wordCount": 1345,
+          "title": "エプロンのポケットのなかでヒャッホーな赤ちゃん猫たちが可愛い！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79847.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=79818",
           "author": "299",
@@ -25053,16 +25023,6 @@
           "wordCount": 1345,
           "title": "公園で捨てられていた子猫を保護。先住猫さんたちに暖かく迎え入れてもらえました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77901.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77889",
-          "author": "299",
-          "description": "キジトラ猫さんが気持ちよさそうに昼寝をしていますね。 可愛い寝顔を観察していたら、あれれ？髭がなんか変だぞ〜？飼い主さんがそっと髭を触ってみると、先端部分がクルンとなっていることがわかりました。 そんなふうになっているの...\nストーブに近づきすぎて髭の先っぽがチリチリしてしまった猫さん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77889",
-          "publishedOn": "2024-08-04T13:00:27.000Z",
-          "wordCount": 1345,
-          "title": "ストーブに近づきすぎて髭の先っぽがチリチリしてしまった猫さん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77889.jpg"
         }
       ]
     },
