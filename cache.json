@@ -2483,6 +2483,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/755066428154ba75a035efcc2583f835a4922fde?source=rss",
+          "author": null,
+          "description": "秋の味覚を口いっぱいに頬張りました。\n\n　京都府内で最大のナシの産地として知られる京丹後市久美浜町で観光客向けの果樹園がオープンしました。\n\n　３日は地元の保育園児約６０人が招待され、背伸びをしたり",
+          "link": "https://news.yahoo.co.jp/articles/755066428154ba75a035efcc2583f835a4922fde?source=rss",
+          "publishedOn": "2024-09-03T10:22:34.000Z",
+          "wordCount": 1648,
+          "title": "秋の味覚を口いっぱい　「ナシ狩り」始まる　府内最大の産地・京丹後市久美浜町(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240903-00047521-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/2030fd231f9d830e94a9c7d696a6c9d7f2a35b52?source=rss",
           "author": null,
           "description": "聴覚障害のある女の子の「逸失利益」を巡る訴訟が結審しました。\n\n　聴覚障害のあった井出安優香さん（当時１１歳）は２０１８年、下校中に重機にはねられ死亡し、遺族は運転手（４１）らに損害賠償を求めていま",
@@ -12110,6 +12120,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/122077/",
+          "author": null,
+          "description": "8月30日～9月1日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「ラストマイル」が2週連続で首位を獲得。「インサイド・ヘッド2」が2位、「映画クレヨンしんちゃん オラたち...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/122077/",
+          "publishedOn": "2024-09-03T10:30:00.000Z",
+          "wordCount": 795,
+          "title": "【週末アニメ映画ランキング】「クレヨンしんちゃん」21億円突破、「ヒロアカ」6位にアップ、「きみの色」は7位発進",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122072/",
           "author": null,
