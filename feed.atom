@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T09:17:09.753Z</updated>
+    <updated>2024-09-04T09:37:04.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ「殿と犬」は大塚明夫、杉田智和、相葉雅紀、武内駿輔の4バージョンの殿を毎週お届け　4人の声を収めたPV公開]]></title>
+        <id>https://anime.eiga.com/news/122088/</id>
+        <link href="https://anime.eiga.com/news/122088/"/>
+        <updated>2024-09-04T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[テレビアニメ「殿と犬」が10月10日から放送されることが決まり、作品構成とPVが発表された。 同作はメインキャラクターの殿を、大塚明夫、杉田智和、相葉雅紀、武内駿輔の4人が演じることが発表されて...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4割超が斎藤知事のパワハラ「見聞きしたことがある」　兵庫県職員のアンケート最終結果判明　「おねだり体質」も23％(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/bfb1779c2840964e61184824e6e4a61865f8484a?source=rss</id>
@@ -31358,16 +31368,6 @@ Abstract: High-speed wide-field fluorescence microscopy has the potential to cap
 　パ...]]></summary>
         <author>
             <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XREALの「ARグラス」4モデルを比較した結論。Air／Air 2／Air 2 Pro／Air 2 Ultraどれがおすすめ？]]></title>
-        <id>https://gadget.phileweb.com/?p=81162</id>
-        <link href="https://gadget.phileweb.com/post-81162/"/>
-        <updated>2024-08-05T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「Meta Quest 2／Quest 3」が人気を集め、「Apple Vision Pro」も発売されたことで、ますます注目を集めているVR／AR業界。これらのHMDは没入感が増すというメリットがある一方で、サイズが大きく、保管に場所を取り持ち運びが面倒というデメリットもある。 そこでおすすめした […]]]></summary>
-        <author>
-            <name>山本竜也</name>
         </author>
     </entry>
 </feed>
