@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/809/G080973/20240903047/",
+          "author": null,
+          "description": "ドラガミゲームスは本日（2024年9月4日），PS5版ならびにSwitch版「LOLLIPOPCHAINSAWRePOP」に関して，ドラガミストア限定版の予約受付開始を発表した。この限定版はPS5，Switch向けパッケージに，「豪華20枚組キャラクターカードBOX」「オリジナルロゴステッカー」をセットしたものだ。",
+          "link": "https://www.4gamer.net/games/809/G080973/20240903047/",
+          "publishedOn": "2024-09-04T01:00:00.000Z",
+          "wordCount": 7173,
+          "title": "「LOLLIPOP CHAINSAW RePOP」，パッケージにTCGサイズのイラスト集やステッカーをセットした「ドラガミストア限定版」の予約受付を開始",
+          "imageUrl": "https://www.4gamer.net/games/809/G080973/20240903047/SS/005.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/732/G073225/20240829062/",
           "author": null,
           "description": "バンダイナムコエンターテインメントが2025年に発売予定の「リトルナイトメア3」を，8月21日から25日までドイツで開催されていたドイツのゲームショウ「gamescom2024」で体験する機会を得た。そのインプレッションをお伝えしよう。",
@@ -7781,16 +7791,6 @@
           "wordCount": 711,
           "title": "奈良県内で停電(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240806-00047026-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/34c0c8ae62136dcfc1d1189e5d6ea5a026d154bb?source=rss",
-          "author": null,
-          "description": "子どもたちに金融機関の仕事を身近に感じてもらおうと、和歌山市で小学生向けの「マネースクール」が開かれました。\n\n　和歌山市の「きのくに信用金庫」で５日、夏休みマネースクール「きのくにキッズ探検隊」が",
-          "link": "https://news.yahoo.co.jp/articles/34c0c8ae62136dcfc1d1189e5d6ea5a026d154bb?source=rss",
-          "publishedOn": "2024-08-05T12:55:31.000Z",
-          "wordCount": 768,
-          "title": "１億円は「めっちゃ重たい」　夏休みの小学生向け「マネースクール」　金融機関の仕事やお金の大切さ学ぶ　和歌山(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240805-00047025-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9826,6 +9826,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2409/04/news080.html",
+          "author": null,
+          "description": "スイスビットは、PCIe Gen5 SSDの「D2200」シリーズを発表した。電力1Wあたり最大970Mバイト/秒のシーケンシャル読み取り性能を示す。エンタープライズサーバやエッジデータセンター用途に適する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2409/04/news080.html",
+          "publishedOn": "2024-09-04T00:00:00.000Z",
+          "wordCount": 2528,
+          "title": "データセンター／エンタープライズ向けPCIe Gen5 SSD",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/04/cover_news080.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2409/03/news075.html",
           "author": null,
@@ -14974,36 +14984,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121861/",
-          "author": null,
-          "description": "ショートアニメ「夜は猫といっしょ」の第3期が12月から配信されることが決まり、メインビジュアルが公開された。 メインビジュアルは、キュルガに加えて、フータくんの職場のセンパイが飼っている猫のチク...",
-          "link": "https://anime.eiga.com/news/121861/",
-          "publishedOn": "2024-08-05T13:00:00.000Z",
-          "wordCount": 744,
-          "title": "「夜は猫といっしょ」第3期は12月配信開始　メインビジュアルにキュルガ、チクワ、コンブの猫3匹が登場",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121860/",
-          "author": null,
-          "description": "10月から放送を開始するテレビアニメ「ラブライブ！スーパースター!!」第3期のPVとキービジュアルが公開された。 同作は、部活動の一環としてアイドル活動を行う「スクールアイドル」たちの奮闘を描く...",
-          "link": "https://anime.eiga.com/news/121860/",
-          "publishedOn": "2024-08-05T12:00:00.000Z",
-          "wordCount": 745,
-          "title": "「ラブライブ！スーパースター!!」第3期のPVとキービジュアルが公開　新スクールアイドル部設立で波乱の展開に",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15328,16 +15308,6 @@
           "wordCount": 4454,
           "title": "四国観光列車乗りまくり旅 3日目「志国土佐　時代の夜明けものがたり」",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/08/image-2-14.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=10506",
-          "author": "watanabe@logipara.com",
-          "description": "最初から読みたい方はこちら 　 ことひら温泉をたっぷりと楽しんで、ツアー2日目！ ことひらからバスで多度津駅まで向かい、そこから特急で松山駅まで向かいます。 多度津駅(11:21) === 松山駅(13:15) 　 松山 […]",
-          "link": "https://logipara.com/trip/sikoku-kankou03/",
-          "publishedOn": "2024-08-05T12:51:52.000Z",
-          "wordCount": 4435,
-          "title": "四国観光列車乗りまくり旅 2日目「伊予灘ものがたり」",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/08/image-25.jpg"
         }
       ]
     },
@@ -17019,16 +16989,6 @@
           "wordCount": 1769,
           "title": "【セブンイレブン】セブンプレミアム 森永れん乳氷 鬼れん乳【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/0543c9fa90b6ac3d9fbfb1db7329db9a.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=254437",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「セイカ食品 たっぷり果肉マンゴー氷」を世界一詳しく調査しました。   公式YouTubeチ […]",
-          "link": "https://foodfighter.jp/famima-mango-kori",
-          "publishedOn": "2024-08-05T12:24:38.000Z",
-          "wordCount": 1768,
-          "title": "【ファミマ】セイカ食品 たっぷり果肉マンゴー氷【新作コンビニアイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/bb87119111aae32953a36d88455e9c01.jpg"
         }
       ]
     },
@@ -21566,36 +21526,6 @@
           "wordCount": 2452,
           "title": "セーヌ川で泳いだ選手　大腸菌感染症で入院",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/b/bbb28cf4-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038358.html",
-          "author": "dqnplus",
-          "description": "1 ：それでも動く名無し：2024/08/05(月) 12:24:55.70 ID:SW7hovA40.net\n\n\n\n\n\n\n\n\n\n該当ポスト消えてるようだけど…植木屋さんか。暑い中ご苦労様です。でもこんな言われようされたら2度と頼みたくないな。近々植木屋へ依頼を検討してたけど、こういう方は嫌だなー。客側(...",
-          "link": "https://itainews.com/archives/2038358.html",
-          "publishedOn": "2024-08-05T13:01:16.000Z",
-          "wordCount": 2485,
-          "title": "【悲報】植木屋さん、雇い主に飲みかけの麦茶を出されてガチ切れ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/3/f3c94fd6-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038351.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(茸) [IN]：2024/08/05(月) 06:48:39.87 ID:KhIwxnAc0●.ne\n\n\n\n\n\n\n\nワキガ治療で10年ミョウバン使用の女性、アルミニウム中毒で入院 [三面]・長年にわたるミョウバン使用で中毒に・臭い対策の民間療法として古くから存在・骨に蓄積しやす...",
-          "link": "https://itainews.com/archives/2038351.html",
-          "publishedOn": "2024-08-05T12:47:57.000Z",
-          "wordCount": 2402,
-          "title": "ワキガ治療で10年ミョウバン使用の女性、アルミニウム中毒で入院",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/4/d4b12485-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038357.html",
-          "author": "dqnplus",
-          "description": "1 名前：名無しさん＠涙目です。：2024/08/04(日) 20:03:39.16 ID:spLJkoGd0.net\n\n\n\n\n\n\n\n\n\n新紙幣、ネット出品相次ぐ　1万円札が7倍の例も◆発行1カ月https://t.co/xAbj3tV9HN20年ぶりの新紙幣発行から3日で1カ月となりました。市中で手にする機会が増える一方、インター...",
-          "link": "https://itainews.com/archives/2038357.html",
-          "publishedOn": "2024-08-05T12:03:16.000Z",
-          "wordCount": 2483,
-          "title": "新紙幣、ネット出品相次ぐ……１万円札が７倍の例も",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/8/1851e4ac-s.png"
         }
       ]
     },
@@ -21604,6 +21534,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=79909",
+          "author": "299",
+          "description": "お猿さんが保護猫さんを大事そうに抱きかかえています。子猫もお猿さんに抱っこされてとても安心した表情をしています。 この子猫は道端に捨てられていたところを主さんが保護したのです。 自宅に連れ帰ると、お猿さんが子猫のことをす...\n保護猫の親代わりになるお猿さんが優しすぎる first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/79909",
+          "publishedOn": "2024-09-04T00:00:40.000Z",
+          "wordCount": 1350,
+          "title": "保護猫の親代わりになるお猿さんが優しすぎる",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79909.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=79874",
           "author": "299",
@@ -25133,16 +25073,6 @@
           "wordCount": 1345,
           "title": "保護猫のひじきが先住猫のわたげと初対面！さてどうなる？",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77959.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=77947",
-          "author": "299",
-          "description": "今回は愛猫お気に入りのオモチャを修理してみました。 飼い主さんはどうする気なんだろう？と心配そうに見つめる姿が可愛らしいのでご覧ください。 愛猫もちまるくんが大事にしていたオモチャ(海老のぬいぐるみ)が破けてしまい、中の...\n愛猫お気に入りのおもちゃを修理してみた first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/77947",
-          "publishedOn": "2024-08-05T13:00:01.000Z",
-          "wordCount": 1353,
-          "title": "愛猫お気に入りのおもちゃを修理してみた",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/77947.jpg"
         }
       ]
     },
