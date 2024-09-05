@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T21:14:23.449Z</updated>
+    <updated>2024-09-05T21:27:54.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【やよい軒】～三元豚使用～ロースとバラの極みしょうが焼定食【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=257555</id>
+        <link href="https://foodfighter.jp/yayoiken-shogayaki-kiwami"/>
+        <updated>2024-09-05T21:26:54.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、定食メニューはいつでもご飯がセルフサービスでおかわり自由の有名人気チェーン […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[道路を封鎖してしまう猫達]]></title>
         <id>https://2-9-9.com/?p=80008</id>
@@ -31616,16 +31626,6 @@ Abstract: High-speed wide-field fluorescence microscopy has the potential to cap
         <summary type="html"><![CDATA[アニメ・声優・イベント情報サイト「アニメハック」の月イチ企画「声優・写真集＆雑誌情報まとめ」では、人気声優やアニソンアーティスト、コスプレイヤー、2.5次元俳優を中心に注目の写真集や雑誌、関連書...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UGREEN、海外旅行に適したプラグ変換型のスリムな急速充電器「Nexode Pro 65W GaN」]]></title>
-        <id>https://gadget.phileweb.com/?p=81933</id>
-        <link href="https://gadget.phileweb.com/post-81933/"/>
-        <updated>2024-08-07T09:21:28.000Z</updated>
-        <summary type="html"><![CDATA[UGREENは、海外用変換プラグ付きの急速充電器「Nexode Pro 65W GaN」を8月7日に発売する。価格は6,880円（税込）。 Nexode Pro 65W GaNは厚さ約14.5mmの薄型急速充電器。同ブランドの充電器のなかで、もっともスリムな設計を実現している。またGaN（窒化ガリウ […]]]></summary>
-        <author>
-            <name>編集部：松原ひな子</name>
         </author>
     </entry>
 </feed>
