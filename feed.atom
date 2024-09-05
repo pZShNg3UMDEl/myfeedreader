@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T15:16:16.426Z</updated>
+    <updated>2024-09-05T15:37:18.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】生後２か月の長男の口におしりふきを詰めて殺害しようとした疑い　父親逮捕　意識不明の重体(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1187ef99ff921f65181df871531f6be14aa04f8a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1187ef99ff921f65181df871531f6be14aa04f8a?source=rss"/>
+        <updated>2024-09-05T15:28:59.000Z</updated>
+        <summary type="html"><![CDATA[奈良県橿原市の住宅で、生後２ヶ月の長男の口におしりふきを詰めて殺害しようとしたとして、父親で会社員の２６歳の男が逮捕されました。長男は意識不明の重体です。
+
+　殺人未遂の疑いで逮捕されたのは、奈良県]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［インタビュー］「ユミアのアトリエ 〜追憶の錬金術士と幻創の地〜」は，「次世代のアトリエ」を目指しRPGとして大きく進化]]></title>
         <id>https://www.4gamer.net/games/832/G083246/20240903050/</id>
@@ -31936,36 +31948,6 @@ Abstract: High-speed wide-field fluorescence microscopy has the potential to cap
 滋賀学園が勝利しました。]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「一緒にやりましょう」　ハリス氏が副大統領候補に選んだウォルツ氏に電話]]></title>
-        <id>https://www.bbc.com/japanese/articles/cgedyy7yd5wo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cgedyy7yd5wo"/>
-        <updated>2024-08-07T03:33:53.000Z</updated>
-        <summary type="html"><![CDATA[今年11月のアメリカ大統領選に向けて、民主党の大統領候補になったカマラ・ハリス副大統領（59）の選挙陣営は6日、ハリス氏がティム・ウォルツ・ミネソタ州知事（60）に電話をかけ、副大統領候補になってほしいと伝えたときの動画を公開した。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Intelligence、「幻覚を見るな」「暴力的なストーリーは作るな」などのプレプロンプトが明らかに]]></title>
-        <id>https://gadget.phileweb.com/?p=81856</id>
-        <link href="https://gadget.phileweb.com/post-81856/"/>
-        <updated>2024-08-07T03:31:11.000Z</updated>
-        <summary type="html"><![CDATA[アップルは開発者向けiOS/iPadOS 18.1およびmacOS 15.1ベータ版でApple Intelligenceのプレビューを開始したが、実装されたのはごく一部の機能のみだ。メッセージであれば簡潔な返信の提案、メールアプリは優先度が高いと判断したメールおよび概要を表示するセクションが新設さ […]]]></summary>
-        <author>
-            <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【パリ五輪】 レスリングの文田健一郎が悲願の金メダル、尾﨑野乃香も銅　スケボー開心那は2大会連続の銀]]></title>
-        <id>https://www.bbc.com/japanese/articles/cp81m15znmyo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cp81m15znmyo"/>
-        <updated>2024-08-07T03:18:18.000Z</updated>
-        <summary type="html"><![CDATA[パリ・オリンピック（五輪）は競技11日目の6日、レスリングの男子グレコローマンスタイル60キロ級で文田健一郎が、東京五輪で逃した金メダルを獲得した。この種目で日本選手が優勝したのは40年ぶり。女子68キロ級でも尾﨑野乃香が銅メダルを手にした。スケートボード女子パークでは開心那が2大会連続の銀メダルを勝ち取った。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
