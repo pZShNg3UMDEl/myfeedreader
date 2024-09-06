@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T17:27:18.540Z</updated>
+    <updated>2024-09-06T17:37:37.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8th Space & Scientific CMOS Image Sensors workshop - abstracts due Sep 13, 2024]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/09/8th-space-scientific-cmos-image-sensors.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/09/8th-space-scientific-cmos-image-sensors.html"/>
+        <updated>2024-09-06T17:29:00.002Z</updated>
+        <summary type="html"><![CDATA[CNES, ESA, AIRBUS DEFENCE & SPACE, THALES ALENIA SPACE, SODERN, OHB, ISAE SUP’AERO are pleased to invite you to the 8th “Space & Scientific CMOS Image Sensors” workshop to be held in TOULOUSE on November 26th and 27th 2024 within the framework of the Optics and Optoelectronics COMET (Communities of Experts).
+The aim of this workshop is to focus on CMOS image sensors for scientific and space applications. Although this workshop is organized by actors of the Space Community, it is widely open to other professional imaging applications such as Machine vision, Medical, Advanced Driver Assistance Systems (ADAS), and Broadcast (UHDTV) that boost the development of new pixel and sensor architectures for high end applications. Furthermore, we would like to invite Laboratories and Research Centers …]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お母さん鶏より猫のママが良いひよこたち]]></title>
         <id>https://2-9-9.com/?p=80127</id>
@@ -31743,16 +31754,6 @@ Whatever your take on the goings on in Southport, this is inarguably very funny.
         <summary type="html"><![CDATA[X（旧Twitter）の欧州プライバシー監視機関であるアイルランドのデータ保護委員会（DPC）は8月6日、X Premium／Premium+加入者が利用できるXのAIチャットボットGrokに関し、高等法院に苦情申し立てを行った。 アイルランド放送協会RTEによると、DPCの申し立てはGrokのAI […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地下研究所を舞台にしたSFミステリーノベル「神無迷路」，Nintendo Switch版を発売。8月29日まで20％オフ]]></title>
-        <id>https://www.4gamer.net/games/826/G082673/20240808026/</id>
-        <link href="https://www.4gamer.net/games/826/G082673/20240808026/"/>
-        <updated>2024-08-08T05:29:15.000Z</updated>
-        <summary type="html"><![CDATA[ゲームクリエイターの致意氏は本日（2024年8月8日），NintendoSwitch版「神無迷路」を発売した。価格は500円（税込）で，8月29日まで20％オフの400円（税込）で購入できる。PC版はSteamにて配信中。本作は，謎の地下研究所を舞台にしたSFミステリーノベルだ。]]></summary>
-        <author>
-            <name>4Gamer.net − Wii</name>
         </author>
     </entry>
 </feed>

@@ -2884,16 +2884,6 @@
           "wordCount": 7268,
           "title": "AIの少女たちが特別な歌の力で世界の再生を目指す。リズムゲーム「神椿市協奏中。」のSwitch/iOS/Android版，予約受付を本日開始",
           "imageUrl": "https://www.4gamer.net/games/811/G081128/20240808027/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/826/G082673/20240808026/",
-          "author": null,
-          "description": "ゲームクリエイターの致意氏は本日（2024年8月8日），NintendoSwitch版「神無迷路」を発売した。価格は500円（税込）で，8月29日まで20％オフの400円（税込）で購入できる。PC版はSteamにて配信中。本作は，謎の地下研究所を舞台にしたSFミステリーノベルだ。",
-          "link": "https://www.4gamer.net/games/826/G082673/20240808026/",
-          "publishedOn": "2024-08-08T05:29:15.000Z",
-          "wordCount": 7181,
-          "title": "地下研究所を舞台にしたSFミステリーノベル「神無迷路」，Nintendo Switch版を発売。8月29日まで20％オフ",
-          "imageUrl": "https://www.4gamer.net/games/826/G082673/20240808026/SS/001.jpg"
         }
       ]
     },
@@ -12050,6 +12040,16 @@
       "feedUrl": "http://image-sensors-world.blogspot.com/feeds/posts/default",
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/09/8th-space-scientific-cmos-image-sensors.html",
+          "author": null,
+          "description": "CNES, ESA, AIRBUS DEFENCE & SPACE, THALES ALENIA SPACE, SODERN, OHB, ISAE SUP’AERO are pleased to invite you to the 8th “Space & Scientific CMOS Image Sensors” workshop to be held in TOULOUSE on November 26th and 27th 2024 within the framework of the Optics and Optoelectronics COMET (Communities of Experts).\nThe aim of this workshop is to focus on CMOS image sensors for scientific and space applications. Although this workshop is organized by actors of the Space Community, it is widely open to other professional imaging applications such as Machine vision, Medical, Advanced Driver Assistance Systems (ADAS), and Broadcast (UHDTV) that boost the development of new pixel and sensor architectures for high end applications. Furthermore, we would like to invite Laboratories and Research Centers …",
+          "link": "http://image-sensors-world.blogspot.com/2024/09/8th-space-scientific-cmos-image-sensors.html",
+          "publishedOn": "2024-09-06T17:29:00.002Z",
+          "wordCount": 4139,
+          "title": "8th Space & Scientific CMOS Image Sensors workshop - abstracts due Sep 13, 2024",
+          "imageUrl": null
+        },
         {
           "id": "http://image-sensors-world.blogspot.com/2024/09/trieye-launches-tes200-swir-image-sensor.html",
           "author": null,
