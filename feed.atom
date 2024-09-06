@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T09:16:46.133Z</updated>
+    <updated>2024-09-06T09:37:32.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なぜSNSのアルゴリズムは10代の少年に暴力的なコンテンツを見せるのか]]></title>
+        <id>https://www.bbc.com/japanese/articles/c75nyvy2955o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c75nyvy2955o"/>
+        <updated>2024-09-06T09:28:59.000Z</updated>
+        <summary type="html"><![CDATA[BBCの報道番組「パノラマ」の取材で、ソーシャルメディアが10代の少年たちに暴力や女性差別のコンテンツを見せる傾向にあることが明らかになった。こうした傾向には、各プラットフォームのアルゴリズムや、モデレーションの方法などが関わっているという。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「告発文書を握りつぶそうという意図は？」の問いに斎藤知事は…百条委に再び出頭　“告発者捜し”公益通報への対応めぐり尋問(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/9de1fd32e95a0e007a6cf58aef5b13299e394624?source=rss</id>
