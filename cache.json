@@ -11579,16 +11579,6 @@
           "wordCount": 3796,
           "title": "Sony rebranding IMX sensors to LYTIA (?)",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/08/a-100kfps-x-ray-imager.html",
-          "author": null,
-          "description": "Marras et al. presented a paper titled \"Development of the Continuous Readout Digitising Imager Array Detector\" at the Topical Workshop on Electronics for Particle Physics 2023.\nAbstract: Abstract: The CoRDIA project aims to develop an X-ray imager capable of continuous operation in excess of 100 kframe/s. The goal is to provide a suitable instrument for Photon Science experiments at diffraction-limited Synchrotron Rings and Free Electron Lasers considering Continuous Wave operation. Several chip prototypes were designed in a 65 nm process: in this paper we will present an overview of the challenges and solutions adopted in the ASIC design.",
-          "link": "http://image-sensors-world.blogspot.com/2024/08/a-100kfps-x-ray-imager.html",
-          "publishedOn": "2024-08-09T15:52:00.002Z",
-          "wordCount": 3772,
-          "title": "A 100kfps X-ray imager",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtYYYMErtU5Ov6UzLtkP1nwygM11hFP25SZTknzgfnV_RZf6nxZO87sr80vGw_02b8qansJVLa-O8zYZt6Oj1L2JK23L6zzY3779H902bu2z_rO-QRUyooHZZt7IOJclFMNDMykDzSAx3QcW3AHmzjIr1aJCXcHs581WCDb-boB9Jr6hoFxwo/w1200-h630-p-k-no-nu/1.PNG"
         }
       ]
     },
@@ -15710,6 +15700,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=257850",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年9月1日から9月7日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全9種類）を美味しい・おすすめ順にラ […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-0908",
+          "publishedOn": "2024-09-08T04:04:28.000Z",
+          "wordCount": 1731,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年9月1日から9月7日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/09/77f0feb09e0e4dbe3583155c34be573b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=257830",
           "author": "foodfighter",
@@ -21524,6 +21524,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=80159",
+          "author": "299",
+          "description": "今回ご紹介するのは飼い主さんのお出迎えをする子猫ちゃんです。 まだまだ身体が小さいので玄関までは来ませんけど、ハウスの中からお帰りニャ～と飛び出してきました。 これには飼い主さんもその日の疲れがふっとんでしまったのだとか...\n飼い主さんのお出迎えをする子猫達 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/80159",
+          "publishedOn": "2024-09-08T04:00:17.000Z",
+          "wordCount": 1364,
+          "title": "飼い主さんのお出迎えをする子猫達",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/80159.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=80154",
           "author": "299",

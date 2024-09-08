@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T03:50:27.680Z</updated>
+    <updated>2024-09-08T04:18:09.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年9月1日から9月7日】]]></title>
+        <id>https://foodfighter.jp/?p=257850</id>
+        <link href="https://foodfighter.jp/sweets-icecream-ranking-2024-0908"/>
+        <updated>2024-09-08T04:04:28.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年9月1日から9月7日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全9種類）を美味しい・おすすめ順にラ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飼い主さんのお出迎えをする子猫達]]></title>
+        <id>https://2-9-9.com/?p=80159</id>
+        <link href="https://2-9-9.com/archives/80159"/>
+        <updated>2024-09-08T04:00:17.000Z</updated>
+        <summary type="html"><![CDATA[今回ご紹介するのは飼い主さんのお出迎えをする子猫ちゃんです。 まだまだ身体が小さいので玄関までは来ませんけど、ハウスの中からお帰りニャ～と飛び出してきました。 これには飼い主さんもその日の疲れがふっとんでしまったのだとか...
+飼い主さんのお出迎えをする子猫達 first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[実写「【推しの子】」に志田未来×中村蒼×戸塚純貴×山下幸輝×尾美としのり　劇中作品「東京ブレイド」に関する主要キャラ]]></title>
         <id>https://anime.eiga.com/news/122063/</id>
@@ -30722,17 +30743,6 @@ https://www.yomiuri.co.jp/nation...]]></summary>
 先住猫にしつこくじゃれつく子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 100kfps X-ray imager]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/08/a-100kfps-x-ray-imager.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/08/a-100kfps-x-ray-imager.html"/>
-        <updated>2024-08-09T15:52:00.002Z</updated>
-        <summary type="html"><![CDATA[Marras et al. presented a paper titled "Development of the Continuous Readout Digitising Imager Array Detector" at the Topical Workshop on Electronics for Particle Physics 2023.
-Abstract: Abstract: The CoRDIA project aims to develop an X-ray imager capable of continuous operation in excess of 100 kframe/s. The goal is to provide a suitable instrument for Photon Science experiments at diffraction-limited Synchrotron Rings and Free Electron Lasers considering Continuous Wave operation. Several chip prototypes were designed in a 65 nm process: in this paper we will present an overview of the challenges and solutions adopted in the ASIC design.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
