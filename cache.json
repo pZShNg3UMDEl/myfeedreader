@@ -9687,6 +9687,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2409/09/news048.html",
+          "author": null,
+          "description": "ネクスペリアは、電源デバイスの製品群に、産業用および民生用の「NID5100」と車載規格に準拠した「NID5100-Q100」の2種の理想ダイオードICを追加した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2409/09/news048.html",
+          "publishedOn": "2024-09-09T00:00:00.000Z",
+          "wordCount": 2504,
+          "title": "順方向電圧降下を低減、標準／車載規格準拠の理想ダイオードIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/09/cover_news048.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2409/06/news073.html",
           "author": null,
           "description": "エイブリックは、DDR5メモリモジュール向けICのSPD（シリアルプレゼンス検出）「S-34HTS08AB」の販売を開始した。デバイス間の通信を仲介するHUB機能を搭載している。また、I2Cに加えてI3C通信規格にも対応した。",
@@ -14859,21 +14869,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121898/",
-          "author": null,
-          "description": "眞栄田郷敦が主演し、山口つばさ氏による人気漫画を実写映画化する「ブルーピリオド」（公開中）のファイナルトレーラーが披露されている。 まわりの空気を読みながら勉強も遊びも要領よくこなし空虚な学校生...",
-          "link": "https://anime.eiga.com/news/121898/",
-          "publishedOn": "2024-08-10T12:00:00.000Z",
-          "wordCount": 765,
-          "title": "もがき続ける八虎たちの情熱映す　映画「ブルーピリオド」ファイナルトレーラー＆津田健次郎の応援コメント公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15344,6 +15339,26 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=45149",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 美味しいお料理を頂きながら、大切な人とゆっくりおしゃべりを楽しめる空間って貴重ですよね。 今回はまさにそんな願いが叶うイタリアンのお店、 「TRATTORIA GRAPPA（グラッパ）」さんのランチへ行っ…",
+          "link": "https://atsugi-lab.com/lunchreport-grappa202409/",
+          "publishedOn": "2024-09-09T00:38:55.000Z",
+          "wordCount": 1230,
+          "title": "【話題】予約必須の人気イタリアン♪厚木市役所裏「TRATTORIA GRAPPA（グラッパ）」のランチへ行ってきた！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/09/lunch-grappa.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=45095",
+          "author": "comomo",
+          "description": "2024年は厚木市内のラーメン屋の動きが激しいですね☆ 今回は本厚木駅東口すぐの場所、 臨時休業中の「本厚木壱七家」の情報です！ 臨時休業中の「本厚木壱七家」場所に「本厚木 魂心家」の求人が…！場所は本厚木駅東口すぐ。 魂心家の公式HPの求…",
+          "link": "https://atsugi-lab.com/renewal-ichinanaya202409/",
+          "publishedOn": "2024-09-09T00:12:29.000Z",
+          "wordCount": 1171,
+          "title": "【開店】臨時休業中の横浜家系ラーメン「本厚木壱七家」は「本厚木 魂心家」になって9月下旬にオープン予定のよう…！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/09/ichinanaya202409image.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=44541",
           "author": "comomo",
           "description": "新学期も始まり、やっと子どもの昼ごはん問題も片付いた…と思っているももこ＠あつらぼです。 あまりの暑さに体を動かす機会がなく、運動不足、なんだか疲れやすい、太った…！というかたもいらっしゃるのでは。 けど、忙しくて何時間も運動なんてできない…",
@@ -15610,6 +15625,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=257880",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、江崎グリコ株式会社の新商品「グリコ アイスの実＜ぶどうマスカット＞」を世界一詳しく調査しました。   公式YouTu […]",
+          "link": "https://foodfighter.jp/711sej-icenomi-grape-muscat",
+          "publishedOn": "2024-09-08T23:56:33.000Z",
+          "wordCount": 1732,
+          "title": "グリコ アイスの実＜ぶどうマスカット＞【新作コンビニアイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/09/bd03cf1b31be0dc2506f85757e03e4eb.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=257876",
           "author": "foodfighter",
@@ -21386,16 +21411,6 @@
           "wordCount": 2386,
           "title": "【札幌】「夫のお供え物としてほしかった」コンビニで“ロースカツカレー弁当”を盗んだ疑いで70歳の女を逮捕",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e4b61410-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038529.html",
-          "author": "dqnplus",
-          "description": "1 ：それでも動く名無し：2024/08/10(土) 08:15:06.58 ID:7+eGVrOL0.net\n\n\n\n\n\n\n\n\n\n\n\n5時30分妻が旅立ちました46歳です妻が20歳の時から付き合い始めてもう26年来の付き合いです苦労ばかりかけてましたのであっちで楽しんでください早すぎるよ(´；ω；｀) pic.twitter.co...",
-          "link": "https://itainews.com/archives/2038529.html",
-          "publishedOn": "2024-08-10T12:46:05.000Z",
-          "wordCount": 2406,
-          "title": "【悲報】さくらレンタカー公式「妻が旅立ちました」→炎上してしまう",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/e/ee726980-s.png"
         }
       ]
     },
@@ -21404,6 +21419,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=80259",
+          "author": "299",
+          "description": "ピーンと背筋を伸ばした姿勢の良いニャンコさんと中型のわんこさんが仲良く並んでお座りをしています。 一目見ただけで、この2匹の間には深い友情が育まれていることがわかりますね！ ニャンコさんがわんこさんにスリスリしていたと思...\nカメラの前でイチャイチャするワンコとニャンコ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/80259",
+          "publishedOn": "2024-09-09T00:00:22.000Z",
+          "wordCount": 1344,
+          "title": "カメラの前でイチャイチャするワンコとニャンコ",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/80259.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=80230",
           "author": "299",
@@ -24933,16 +24958,6 @@
           "wordCount": 1349,
           "title": "お母さん猫が赤ちゃん猫を新しい家に運び込んでいきます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/78275.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=78262",
-          "author": "299",
-          "description": "今回ご紹介するのはアヒルの子に懐かれてしまう子猫ちゃん達です。 最初は戸惑っていた子猫ちゃん達ですが、気づけばアヒルの子と添い寝までしていました。 仲良く過ごす様子が微笑ましいのでご覧ください。 ベッドで黒子猫ちゃんがく...\nアヒルの子に甘えられてしまう子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/78262",
-          "publishedOn": "2024-08-10T13:00:05.000Z",
-          "wordCount": 1358,
-          "title": "アヒルの子に甘えられてしまう子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/78262.jpg"
         }
       ]
     },
