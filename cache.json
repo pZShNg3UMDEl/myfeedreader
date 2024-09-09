@@ -2753,6 +2753,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/ce2fa3eef1928bab6612f5e34c46c3335540698b?source=rss",
+          "author": null,
+          "description": "９日未明、大阪市中央区の会社事務所に男２人組が押し入り、室内にいた男性２人をロープで縛り付けて大量のトレーディングカードを奪って逃走しました。\n　時価総額１０００万円を超えるとみられ、警察が強盗事件",
+          "link": "https://news.yahoo.co.jp/articles/ce2fa3eef1928bab6612f5e34c46c3335540698b?source=rss",
+          "publishedOn": "2024-09-09T01:39:14.000Z",
+          "wordCount": 1672,
+          "title": "「どのカードが高いんや」２人を縛り付けトレカ１０００万円超を強盗か　男２人逃走　強盗事件として捜査(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240909-00047589-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/3d533d12ead270cd53b28f05ffd2112f59261d7a?source=rss",
           "author": null,
           "description": "ＪＲ西日本によりますと９日午前７時前、琵琶湖線の膳所駅で人身事故があり琵琶湖線・ＪＲ京都線ＪＲ神戸線の米原から姫路駅の間で順次運転を見合わせています。\n\n運転再開は午前８時頃になる見込みだということで",
@@ -7790,6 +7800,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cx2y8vmr12mo#0",
+          "author": null,
+          "description": "イスラエル当局は8日、ヨルダンと、イスラエル占領下のパレスチナ自治区ヨルダン川西岸地区の境界でイスラエル人男性3人が射殺されたと発表した。",
+          "link": "https://www.bbc.com/japanese/articles/cx2y8vmr12mo",
+          "publishedOn": "2024-09-09T02:10:30.000Z",
+          "wordCount": 1479,
+          "title": "ヨルダン川西岸とヨルダンの境界で銃撃、イスラエル人3人死亡",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/b790/live/a56c6910-6e4c-11ef-b43e-6916dcba5cbf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c62ryjz97r8o#0",
+          "author": null,
+          "description": "パリ・パラリンピックは競技11日目で最終日の8日、陸上のマラソンがあり、男子（車いすT54）の鈴木朋樹が銅メダルを獲得した。女子（視覚障害T12）では道下美里が4着でフィニッシュしたが、3着の選手が失格となったため順位が繰り上がり、銅メダルを手にした。道下のメダル獲得は3大会連続。",
+          "link": "https://www.bbc.com/japanese/articles/c62ryjz97r8o",
+          "publishedOn": "2024-09-09T02:08:44.000Z",
+          "wordCount": 1505,
+          "title": "【パリ・パラ】 マラソンで日本勢、銅メダル2個を獲得　車いすの鈴木朋樹と視覚障害の道下美里",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/6664/live/acb6ec50-6e46-11ef-8868-117d15d22f0d.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c0rwex0e0qyo#0",
           "author": null,
           "description": "パリ・パラリンピックは競技10日目の7日、車いすテニス男子の小田凱人（ときと）が金メダルを勝ち取った。18歳での優勝で、この種目の最年少優勝記録を更新した。自転車女子個人ロードレース（運動機能障害C1－3）では杉浦佳子が金メダルを獲得。53歳で2大会連続優勝を果たした杉浦は、自身がもつパラリンピック金メダリストの日本最年長記録を更新した。",
@@ -9686,6 +9716,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2409/09/news004.html",
+          "author": null,
+          "description": "現在、Bluetooth の最新機能「Auracast ブロードキャスト オーディオ」の普及に向けた動きが加速し、対応するデバイスも続々と開発されています。一方、Auracast非対応の旧世代スマートフォンが市場拡大を妨げています。本稿では、その理由と、解決策となるスタンドアロン型Auracastアシスタントアプリ開発について解説します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2409/09/news004.html",
+          "publishedOn": "2024-09-09T02:00:00.000Z",
+          "wordCount": 2520,
+          "title": "Bluetooth新機能「Auracast」を旧世代スマホで使う方法とは？",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/09/cover_news004.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2409/09/news048.html",
           "author": null,
@@ -15213,16 +15253,6 @@
           "wordCount": 4375,
           "title": "本日の歯列矯正日記",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10582",
-          "author": "watanabe@logipara.com",
-          "description": "ワイヤーによる歯列矯正を始めました。 もともと永久歯が何本か欠損してたり、いまだ乳歯があったりと、昔っから歯並びは悪かったんです。で、幼少期にブリッジを前歯につけたりしてました。 ですが、まあ普通に噛めるし、機能的には問 […]",
-          "link": "https://logipara.com/health/orthodontics/kyosei-2024-08-11/",
-          "publishedOn": "2024-08-10T13:30:20.000Z",
-          "wordCount": 4482,
-          "title": "ワイヤーによる歯列矯正始めました",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/08/image-3.png"
         }
       ]
     },
@@ -21401,16 +21431,6 @@
           "wordCount": 2389,
           "title": "中国の22歳「国賊の習近平を罷免する」　Xに顔出しで政権批判投稿、広がる波紋",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/1/21bf1663-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038532.html",
-          "author": "damono3856",
-          "description": "1 名前：＠シャチ ★：2024/08/09(金) 21:04:37.36 ID:NEAc2X3Y9.net\n\n\n\n\n\n\n\n「夫のお供え物としてほしかった」コンビニで“ロースカツカレー弁当”を盗んだ疑いで70歳の女を逮捕　札幌市白石区#北海道放送 #hbcnews | @HBCnewsJNN | @HBChokkaidohttps://t.co/xdOTPDoXU...",
-          "link": "https://itainews.com/archives/2038532.html",
-          "publishedOn": "2024-08-10T13:44:45.000Z",
-          "wordCount": 2386,
-          "title": "【札幌】「夫のお供え物としてほしかった」コンビニで“ロースカツカレー弁当”を盗んだ疑いで70歳の女を逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e4b61410-s.png"
         }
       ]
     },
@@ -21419,6 +21439,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=80234",
+          "author": "299",
+          "description": "シルバータビーの可愛い子猫はスコティッシュフォールドという耳折れがチャームポイントの猫さんです。小さな耳がぴょこんと折れているのが本当に可愛いですね〜。 飼い主さんの手にじゃれつきながら、甘えん坊タイムを堪能しているよう...\n手にじゃれついて遊ぶ子猫が激カワ！！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/80234",
+          "publishedOn": "2024-09-09T02:00:57.000Z",
+          "wordCount": 1348,
+          "title": "手にじゃれついて遊ぶ子猫が激カワ！！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/80234.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=80259",
           "author": "299",
