@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T07:27:16.564Z</updated>
+    <updated>2024-09-11T07:38:46.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【米大統領選2024】 ハリス候補とトランプ候補が初の討論会　中絶や移民、戦争などめぐり論戦]]></title>
+        <id>https://www.bbc.com/japanese/articles/c93pr1y0yy3o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c93pr1y0yy3o"/>
+        <updated>2024-09-11T07:26:10.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで11月にある大統領選挙のテレビ討論会が10日夜、東部ペンシルヴェニア州フィラデルフィアで開かれた。与党・民主党候補のカマラ・ハリス副大統領と、野党・共和党候補のドナルド・トランプ前大統領が約1時間半にわたって意見を戦わせた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「好きな時間に単発、給料は即日」スポットワーク紹介する人材派遣会社から現金詐取　介護施設運営会社の元代表ら４人逮捕　(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/537f68aa0ac116ea172cfca9937be52f874cdf68?source=rss</id>
