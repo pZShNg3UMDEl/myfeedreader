@@ -3263,6 +3263,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/c2ce288447d4c070f421a21623ed8850f46724cb?source=rss",
+          "author": null,
+          "description": "大阪市西成区の住宅型有料老人ホームで、８５歳の夫の首を絞めて殺害したとして、８１歳の女が逮捕されました。女は「介護に疲れた」などと容疑を認めているということです。\n\n　大阪市西成区の無職・山田孝子容",
+          "link": "https://news.yahoo.co.jp/articles/c2ce288447d4c070f421a21623ed8850f46724cb?source=rss",
+          "publishedOn": "2024-09-14T03:14:32.000Z",
+          "wordCount": 1602,
+          "title": "「介護に疲れた」　８５歳夫の首を絞めて殺害か　８１歳妻を逮捕　大阪・西成区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240914-00047679-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2942e225565eb98fe4a53ad5a6164fd7e71d4d3d?source=rss",
+          "author": null,
+          "description": "大阪府岸和田市で「岸和田だんじり祭」が始まり、だんじりが勇壮に城下町を駆け巡っています。\n\n　法被にはちまき姿の曳き手たちが、勇ましい掛け声とともにだんじりを引き回します。\n\n　「岸和田だんじり祭」",
+          "link": "https://news.yahoo.co.jp/articles/2942e225565eb98fe4a53ad5a6164fd7e71d4d3d?source=rss",
+          "publishedOn": "2024-09-14T03:14:32.000Z",
+          "wordCount": 1590,
+          "title": "岸和田だんじり祭が始まる　豪快な「やりまわし」に大きな歓声(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240914-00047678-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/c582e7f4bc45f1328eb3b87b79b1fd11365fa53a?source=rss",
           "author": null,
           "description": "世界遺産・姫路城の入城料、インバウンド向けプレミアムプランも検討します。\n\n　兵庫県姫路市の清元秀泰市長は１３日の市議会で、姫路城の入城料を値上げする方針を改めて示しました。\n\n　外国人観光客向けに",
@@ -8520,6 +8540,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cpqzj244p4no#0",
+          "author": null,
+          "description": "西側の長距離ミサイルをウクライナが使ってロシア国内を攻撃したら……。ロシアのプーチン大統領がそれを「越えてはならない一線」だと発言するなか、米英首脳会談がワシントンで開かれた。BBCのローゼンバーグ・ロシア編集長が解説する。",
+          "link": "https://www.bbc.com/japanese/articles/cpqzj244p4no",
+          "publishedOn": "2024-09-14T03:01:28.000Z",
+          "wordCount": 1469,
+          "title": "【解説】プーチン氏、長距離ミサイルについて新しく一線を引く……BBCロシア編集長",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/ac65/live/964f92a0-7242-11ef-b282-4535eb84fe4b.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cgmg71g20e9o#0",
           "author": null,
           "description": "米共和党の大統領候補ドナルド・トランプ前大統領は13日、ハイチからの移民が住民の「ペットを食べている」と自ら根拠なく大統領選討論会で発言したオハイオ州の街について、移民を大々的に「強制送還する」と発言した。討論会でのこの発言については、スプリングフィールド市当局や州知事がそのような報告はないと否定している。他方、同市の市役所に暴力の予告があったのに続き、同日には3カ所の学校が爆破予告を受けて生徒や職員が避難した。",
@@ -12690,6 +12720,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122142/",
+          "author": null,
+          "description": "日本テレビ系で放送された「ACMA：GAME アクマゲーム」を映画化する「劇場版ACMA：GAME 最後の鍵」の新悪魔声優キャストが発表され、関智一、村瀬歩、榎木淳弥が参加していることがわかった...",
+          "link": "https://anime.eiga.com/news/122142/",
+          "publishedOn": "2024-09-14T03:00:00.000Z",
+          "wordCount": 746,
+          "title": "実写映画「アクマゲーム」新悪魔声優に関智一、村瀬歩、榎木淳弥　SixTONES「GONG」が響く最新予告も公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122148/",
           "author": null,
@@ -17992,6 +18037,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2039591.html",
+          "author": "dqnplus",
+          "description": "1 ：：2024/09/13(金) 16:08:29.48 ID:PIIfgwzB0●.net \n\n\n\n\n\n\n\n\n高市早苗「なんで日テレさんが党員名簿持ってはるんですやろ？」日テレアナ「ん？独自の取材をしているところでございますけれども...💦」高市さん、ニコニコしながら厳しいツッコミｗｗｗ pic.twitter.co...",
+          "link": "https://itainews.com/archives/2039591.html",
+          "publishedOn": "2024-09-14T03:01:00.000Z",
+          "wordCount": 2599,
+          "title": "NTV「電話取材」高市候補「なんで党員名簿持ってるの？」NTV「独自取材…」高市「すごいなぁ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/2/b2c496e4-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2039592.html",
           "author": "dqnplus",
