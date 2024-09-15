@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T03:50:23.200Z</updated>
+    <updated>2024-09-15T04:18:47.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハンモックで可愛くお昼寝している猫ちゃんに癒される動画です]]></title>
+        <id>https://2-9-9.com/?p=80620</id>
+        <link href="https://2-9-9.com/archives/80620"/>
+        <updated>2024-09-15T04:00:53.000Z</updated>
+        <summary type="html"><![CDATA[日当たりの良いウッドテラスの近くの窓際に設置されたハンモックの上で、子猫のマルチャンが手足を大きく大の字に伸ばした状態で、仰向けに気持ち良さそうに眠っている場面から始まります。 撮影者さんが至近距離で顔を撮影しても全く気...
+ハンモックで可愛くお昼寝している猫ちゃんに癒される動画です first appeared on 肉球ドットコム（299.com）.]]></summary>
+        <author>
+            <name>299</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイクに追突した車が逃走　５０歳男性重傷　ドラレコなどから行方追う　神戸淡路鳴門自動車道(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7cc2773041c2e852dbc0ee83389b916d4dba62a1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7cc2773041c2e852dbc0ee83389b916d4dba62a1?source=rss"/>
+        <updated>2024-09-15T03:49:57.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県淡路市の神戸淡路鳴門自動車道で、前を走るバイクに追突事故を起こした車がその場から逃走しました。バイクの男性は、足の骨を折る重傷です。
+
+　午前４時前、兵庫県淡路市の神戸淡路鳴門自動車道の上り線]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二条城の本丸御殿　耐震工事終え１８年ぶり公開(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/3e6004f90f008a2568c6cce29b804d21f260ff34?source=rss</id>
@@ -31552,30 +31575,6 @@ Abstract: Artificial Intelligence is taking the world by storm! The AI engine is
 ビビりな子猫のビビの成長記録に癒されます first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhD thesis on a low power "time-to-first-spike" event sensor]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/08/phd-thesis-on-low-power-time-to-first.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/08/phd-thesis-on-low-power-time-to-first.html"/>
-        <updated>2024-08-16T16:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Title: Event-based Image Sensor for low-power
-Author: Mohamed AKRARAI (Universite Grenoble Alpes)
-
-Abstract: In the framework of the OCEAN 12 European project, this PhD achieved the design, the implementation, the testing of an event based image sensor, and the publication of several scientific papers in international conferences, including renowned ones like the International Symposium on Asynchronous Circuits and Systems (ASYNC). The design of event-based image sensors, which are frameless, require a dedicated architecture and an asynchronous logic reacting to events. First, this PhD gives an overview of architectures based on a hybrid pixel matrix including TFS and DVS pixels. Indeed, this two kind of pixels are able to manage the spatial redundancy and the temporal redundancy respectively. One of the main achievement of this work is to take advantage of having both pixels inside an imager in order to reduce its output bitstream and its power consumption. Then, the design of the pixels and readout in FDSOI 28 nm technology from STMicroelectronics is detailed. Finally, two image sensors have been implemented in a testchip and tested.
-Link: https://theses.hal.science/tel-04213080v1/file/AKRARAI_2023_archivage.pdf]]></summary>
-        <author>
-            <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チェーン店】最新グルメ！美味しい・おすすめランキング【2024年8月10日から8月16日】]]></title>
-        <id>https://foodfighter.jp/?p=255544</id>
-        <link href="https://foodfighter.jp/ranking-2024-0817"/>
-        <updated>2024-08-16T15:57:18.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、2024年8月10日から8月16日までに調査したチェーン店の最新グルメ（全10種類）を美味しい・おすすめ順にランキ […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
