@@ -12064,6 +12064,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fX8WumySjOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fX8WumySjOc",
+          "publishedOn": "2024-09-16T03:00:35.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】今年は最高・・・!?５周年記念ふくびきメタルキングの大剣を無課金勇者は５０連で全力獲得していく!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zpgnTHO67MU",
           "author": null,
           "description": "",
@@ -12250,6 +12260,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122097/",
+          "author": null,
+          "description": "天海祐希主演で人気児童小説シリーズを実写映画化する「映画 ふしぎ駄菓子屋 銭天堂」の主題歌が、3人組音楽ユニット「水曜日のカンパネラ」による書き下ろし曲「願いはぎょうさん」に決定した。楽曲を使用...",
+          "link": "https://anime.eiga.com/news/122097/",
+          "publishedOn": "2024-09-16T03:00:00.000Z",
+          "wordCount": 714,
+          "title": "実写映画「ふしぎ駄菓子屋　銭天堂」初出しシーン満載の新予告＆ポスター完成　主題歌は「水曜日のカンパネラ」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122098/",
           "author": null,
@@ -17479,16 +17504,6 @@
           "wordCount": 1773,
           "title": "【天下一品】羽根つき餃子定食（こってりラーメン）【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/94df1221287bb734c055ff988c02e8e0.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=255621",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年8月11日から8月17日までに実食調査したチェーン店の最新コンビニ弁当（全4種類）を美味しい・おすすめ順にランキング […]",
-          "link": "https://foodfighter.jp/bento-ranking-2024-0818",
-          "publishedOn": "2024-08-17T15:12:58.000Z",
-          "wordCount": 1717,
-          "title": "【最新コンビニ弁当】美味しい・おすすめランキング【2024年8月11日から8月17日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/0a7c555ab1c752fcb009baf4ce57e72c.jpg"
         }
       ]
     },
@@ -17497,6 +17512,26 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2039641.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/09/15(日) 17:27:33.12 ID:YCCpCWBN0●.net\n\n\n\n\n\n\n\n\nJapan is the second best country in the world, according to a ranking based on a variety of subcategories, including openness for business, power, adventure, social purp...",
+          "link": "https://itainews.com/archives/2039641.html",
+          "publishedOn": "2024-09-16T03:01:51.000Z",
+          "wordCount": 2513,
+          "title": "パヨク「日本は終わってる！」　→世界最高の国ランキング、日本は２位に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/4/34bed700-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2039640.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。(東京都) [ﾆﾀﾞ]：2024/09/15(日) 10:29:53.34 ID:fqGE+VsB0●.net\n\n\n\n\n\n\n\n\n【プリキュア制作側 ネタ尽きてきた】https://t.co/8ALn9fy5KI— Yahoo!ニュース (@YahooNewsTopics) September 15, 2024 \n\n\n\n\n\n\n\nプリキュア制作側 ネタ尽きてきた\n\n...",
+          "link": "https://itainews.com/archives/2039640.html",
+          "publishedOn": "2024-09-16T02:46:09.000Z",
+          "wordCount": 2657,
+          "title": "お前らのアイディアを借りたい。プリキュア制作者「ネタが尽きました」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/69882011-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2039653.html",
           "author": "damono3856",
