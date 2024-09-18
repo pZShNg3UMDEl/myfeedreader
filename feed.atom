@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T02:56:57.365Z</updated>
+    <updated>2024-09-18T03:21:15.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ノルウェー、電気自動車の台数がガソリン車を超える　優遇措置が効果]]></title>
+        <id>https://www.bbc.com/japanese/articles/cd98nen3lkko#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cd98nen3lkko"/>
+        <updated>2024-09-18T03:13:13.000Z</updated>
+        <summary type="html"><![CDATA[北欧ノルウェーで、道路を走っている車両のうち、電気自動車（EV）の台数がガソリン車を超えた。17日に統計が発表された。人口550万人のノルウェーは、2025年までにガソリン車とディーゼル車の新車販売を終了する世界初の国になる目標を掲げている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「注文をまちがえる料理店」がオープン。ボケ老人が注文を取りに来るぞ]]></title>
+        <id>https://itainews.com/archives/2039707.html</id>
+        <link href="https://itainews.com/archives/2039707.html"/>
+        <updated>2024-09-18T03:01:42.000Z</updated>
+        <summary type="html"><![CDATA[1 ：名無しさん＠涙目です。：2024/09/17(火) 16:52:47.32 ID:RhyBT8AO0.net
+
+
+
+
+
+
+
+
+
+
+認知症の人がホールスタッフ「注文をまちがえる料理店」都庁で限定オープンhttps://t.co/tEJwXp8Fli— 日テレNEWS NNN (@news24ntv) September 17, 2024 
+
+
+
+
+
+
+
+
+認知症の人がホー...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ばいばい、アース」第2シーズンが25年に放送・配信　予告映像、お祝いイラスト公開]]></title>
+        <id>https://anime.eiga.com/news/122175/</id>
+        <link href="https://anime.eiga.com/news/122175/"/>
+        <updated>2024-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WOWOWオリジナルアニメ「ばいばい、アース」の第2シーズンが、2025年に放送・配信されることが決定した。予告映像と、キャラクターデザイン・日野優希によるお祝いイラストが発表された。 本作は、...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「FREEDOM WARS Remastered」，2025年1月9日に発売決定。10年の時を経てPS5/PS4/Switch/PC向けに復活]]></title>
         <id>https://www.4gamer.net/games/836/G083637/20240918006/</id>
@@ -31875,18 +31925,6 @@ A Japanese girl riding an overnight train in India is woken up by a man trying t
 オッサンみたいないびきをかきながら爆睡するニャンコ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoiding information loss in the photon transfer method]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/08/avoiding-information-loss-in-photon.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/08/avoiding-information-loss-in-photon.html"/>
-        <updated>2024-08-19T15:21:00.002Z</updated>
-        <summary type="html"><![CDATA[In a recent paper titled "PCH-EM: A Solution to Information Loss in the Photon Transfer Method" in IEEE Trans. on Electron Devices, Aaron Hendrickson et al. propose a new statistical technique to estimate CIS parameters such as conversion gain and read noise.
-
-Abstract: Working from a Poisson-Gaussian noise model, a multisample extension of the photon counting histogram expectation-maximization (PCH-EM) algorithm is derived as a general-purpose alternative to the photon transfer (PT) method. This algorithm is derived from the same model, requires the same experimental data, and estimates the same sensor performance parameters as the time-tested PT method, all while obtaining lower uncertainty estimates. It is shown that as read noise becomes large, multiple data samples are necessary to ca…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
