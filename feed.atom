@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T08:21:25.250Z</updated>
+    <updated>2024-09-19T08:42:07.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】兵庫・斎藤知事への不信任決議案を全会一致で可決　　10日以内に議会解散か、辞職・失職か(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f48a305cdcab1d3e981f7ea6ed555a93f38ba73a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f48a305cdcab1d3e981f7ea6ed555a93f38ba73a?source=rss"/>
+        <updated>2024-09-19T08:36:18.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県の斎藤元彦知事に対する不信任決議案が兵庫県議会の全会一致で可決されました。斎藤知事は10日以内に議会を解散するか、辞職・失職かの選択を迫られることになります。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告発文書問題はヤマ場へ　兵庫・斎藤知事への不信任決議案提出　可決の見通し　議員は解散・選挙の可能性を不安視(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/aa3551ace9fb9bc31e838515d264a80d94206fd1?source=rss</id>
@@ -32200,26 +32210,6 @@ NHK
 ホタテ相場が急回復　...]]></summary>
         <author>
             <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「リトルナイトメア3」，Co-opプレイの様子を収録した最新動画が公開に。発売日は2025年へと変更]]></title>
-        <id>https://www.4gamer.net/games/732/G073225/20240821020/</id>
-        <link href="https://www.4gamer.net/games/732/G073225/20240821020/"/>
-        <updated>2024-08-20T20:29:51.000Z</updated>
-        <summary type="html"><![CDATA[バンダイナムコエンターテインメントは本日（8月21日），ゲームイベント「gamescomOpeningNightLive2024」で，シリーズ最新作「リトルナイトメア3」の最新動画を公開した。今回の動画は昨年に公開された約18分のCo-opプレイ動画と異なるステージを収録したものとなるようだ。なお，発売日は2025年の予定となる。]]></summary>
-        <author>
-            <name>4Gamer.net − Wii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雲の上の浮島でスローライフする「FLOATOPIA」2025年発売。農業に釣りに島クリエイトなど，気ままな休暇をマルチプレイで体験]]></title>
-        <id>https://www.4gamer.net/games/999/G999901/20240821021/</id>
-        <link href="https://www.4gamer.net/games/999/G999901/20240821021/"/>
-        <updated>2024-08-20T20:23:26.000Z</updated>
-        <summary type="html"><![CDATA[gamescomOpeningNightLive2024で，NetEaseGamesはスローライフシミュレーター「FLOATOPIA」を，2025年に発売すると発表した。本作の舞台は雲の上の浮島で，オンラインマルチプレイによる友達同士の交流も楽しめる。]]></summary>
-        <author>
-            <name>4Gamer.net − Wii</name>
         </author>
     </entry>
 </feed>
