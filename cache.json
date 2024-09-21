@@ -8370,6 +8370,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c9qvjeel7z9o#0",
+          "author": null,
+          "description": "日本の気象庁は21日午前、石川県の輪島市、珠洲市、能登町に大雨特別警報を発表した。「これまでに経験したことのないような大雨」になっているとした。",
+          "link": "https://www.bbc.com/japanese/articles/c9qvjeel7z9o",
+          "publishedOn": "2024-09-21T12:11:56.000Z",
+          "wordCount": 1534,
+          "title": "石川県に大雨特別警報　1人死亡、不明者多数",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/26c3/live/287caf70-780e-11ef-b282-4535eb84fe4b.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c93yql375dro#0",
           "author": null,
           "description": "イスラエル軍は20日、占領下のヨルダン川西岸地区を襲撃した際にイスラエル兵が3人のパレスチナ人の遺体を屋上から投げ降ろす映像が撮影されたことを受け、調査を開始した。",
@@ -10585,16 +10595,6 @@
           "wordCount": 2543,
           "title": "750Wモーター駆動用リファレンス設計　低消費電力を実現",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/26/cover_news037.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2408/23/news063.html",
-          "author": null,
-          "description": "ロームは、車載向けNch MOSFET「RF9x120BKFRA」「RQ3xxx0BxFRA」「RD3x0xxBKHRB」を開発した。10機種を用意し、パッケージは2.0×2.0mmのDFN2020Y7LSAA、3.3×3.3mmのHSMT8AG、6.6×10.0mmのTO-252（DPAK）の3種から選択できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2408/23/news063.html",
-          "publishedOn": "2024-08-23T00:00:00.000Z",
-          "wordCount": 2558,
-          "title": "スプリットゲート構造を採用した車載向けNch MOSFET",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/23/cover_news063.jpg"
         }
       ]
     },
@@ -12213,6 +12213,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122181/",
+          "author": null,
+          "description": "テレビアニメ「この素晴らしい世界に祝福を！3」の新作OVAが制作中であることが、9月15日開催のイベント「この素晴らしいラジオに祝福を！公開録音スペシャル」内で発表された。 アニメ「この素晴らし...",
+          "link": "https://anime.eiga.com/news/122181/",
+          "publishedOn": "2024-09-21T12:00:00.000Z",
+          "wordCount": 729,
+          "title": "「この素晴らしい世界に祝福を！3」新作OVAが制作中",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122183/",
           "author": null,
@@ -17520,6 +17535,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2039829.html",
+          "author": "damono3856",
+          "description": "1 名前：PARADISE ★：2024/09/20(金) 11:48:46.24 ID:rLEHhyFf9.net\n\n\n\n\n\n\n\n8階から路上のゴミ拾いの男性に瓶投げたか　殺人未遂容疑で男逮捕　大阪・松原市▼詳しくは画像をタッチ https://t.co/yM3BMAji9T— テレ朝news (@tv_asahi_news) September 16, 2024  \n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2039829.html",
+          "publishedOn": "2024-09-21T12:02:16.000Z",
+          "wordCount": 2456,
+          "title": "【大阪】8階から路上のゴミ拾いの男性にビン投げたか　殺人未遂容疑で男逮捕　松原市",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/9/79ab9cff-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2039820.html",
           "author": "damono3856",
@@ -25626,16 +25651,6 @@
           "wordCount": 1357,
           "title": "お兄ちゃん猫が母猫の子育てのお手伝いをしてくれます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79082.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=79108",
-          "author": "299",
-          "description": "飼い主さんの膝の上に可愛い子猫兄弟が2匹乗っています。1匹は向こうを向いてお座りをしたままジーッとしています。手前にいる子猫は毛づくろいに忙しそうです。 飼い主さんの足の間にちょうど体がすっぽりとおさまっているので昼寝を...\n飼い主さんの膝の上は子猫たちに大人気のお昼寝スポットです first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/79108",
-          "publishedOn": "2024-08-23T00:00:04.000Z",
-          "wordCount": 1348,
-          "title": "飼い主さんの膝の上は子猫たちに大人気のお昼寝スポットです",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79108.jpg"
         }
       ]
     },
