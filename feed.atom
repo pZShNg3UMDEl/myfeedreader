@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T19:36:05.827Z</updated>
+    <updated>2024-09-21T19:50:17.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[警察官が交通違反取締中に車に追突　警察官の免許証が期限切れ　兵庫県警(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/767fc7bd632598f18af141211f71cfdde0e7e153?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/767fc7bd632598f18af141211f71cfdde0e7e153?source=rss"/>
+        <updated>2024-09-21T19:46:36.000Z</updated>
+        <summary type="html"><![CDATA[２１日、兵庫県三田市で、警察官がバイクで交通違反の取締中に乗用車に追突しました。
+
+　その後、事故を起こした警察官の運転免許証の有効期限が切れていたことがわかりました。
+
+　２１日午前１１時３０分ご]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[左折車が横断歩道を渡っていた自転車をはねて逃走　７歳男児軽傷　兵庫・姫路市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/be8240ec3d70870d97a8d7210d5cafeba0317c0d?source=rss</id>
@@ -31057,16 +31071,6 @@ https://news.yahoo.co.jp/articles/79cfb8829...]]></summary>
 　三宅町商工会に勤務していた男性職員（３０代）は、２]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「女性とは何か」、豪裁判所が画期的判決　女性専用アプリの使用拒否されたトランス女性の訴えを支持]]></title>
-        <id>https://www.bbc.com/japanese/articles/c2l1xpnd5j7o#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c2l1xpnd5j7o"/>
-        <updated>2024-08-23T07:45:52.000Z</updated>
-        <summary type="html"><![CDATA[オーストラリア連邦裁判所は23日、トランスジェンダー（出生時の身体的性別と性自認が異なる人）の女性が出生時の身体的性別が男性であることを理由に、女性専用のソーシャルメディア・アプリへのアクセスを拒否されたのは「間接的差別」にあたるとして、アプリ運営会社側に賠償金1万豪ドル（約98万円）と裁判費用の支払いを命じた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
