@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T22:15:21.566Z</updated>
+    <updated>2024-09-24T22:39:12.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪環状線　ゆめ咲線で運転見合わせ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/bd286ff430fdbdad27ad1547796751007d2210d3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/bd286ff430fdbdad27ad1547796751007d2210d3?source=rss"/>
+        <updated>2024-09-24T22:18:33.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと午前７時５分現在、大阪環状線とＪＲゆめ咲線が全線で運転を見合わせています。
+
+　午前６時２０分ごろに今宮駅で線路に客が転落し、救護のためということです。
+　
+　近鉄、京阪、阪神]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【東大阪】交番に放火未遂容疑で自称・徳川就斗容疑者(28)逮捕　直前に訪れ誰もおらず「この交番どうなってるねん」と110番通報]]></title>
         <id>https://itainews.com/archives/2039918.html</id>
