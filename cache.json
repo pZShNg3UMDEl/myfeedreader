@@ -9917,6 +9917,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2409/24/news043.html",
+          "author": null,
+          "description": "ピカリング インタフェースは、機能試験および検証、HILの双方に対応したプログラマブル抵抗モジュールファミリー「40-254」「42-254」を発表した。それぞれPXI、PXIeに対応している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2409/24/news043.html",
+          "publishedOn": "2024-09-24T00:00:00.000Z",
+          "wordCount": 2522,
+          "title": "機能試験／検証、HILに対応したプログラマブル抵抗モジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/24/cover_news043.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2409/20/news072.html",
           "author": null,
           "description": "日清紡マイクロデバイスは、IO-Linkデバイストランシーバー「ND1160」シリーズを発売した。4.8kbps（キロビット/秒）／38.4kbps／230.4kbpsの高速通信に対応し、ハイサイド、ローサイド、プッシュプル動作が設定可能で、接続デバイスのステータスを検出する。",
@@ -14732,36 +14742,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121941/",
-          "author": null,
-          "description": "ディズニーの大ヒット長編アニメーション「アナと雪の女王」のシリーズ第3弾が、2027年の感謝祭シーズンの11月24日に全米公開されることが決定した。 13年の第1作、19年の続編「アナと雪の女王...",
-          "link": "https://anime.eiga.com/news/121941/",
-          "publishedOn": "2024-08-25T13:00:00.000Z",
-          "wordCount": 746,
-          "title": "「アナと雪の女王」第3弾、27年11月に全米公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/121972/",
-          "author": null,
-          "description": "ティーンズラブ漫画「孕むまで乱れいけ～身代わり花嫁と軍服の猛愛」（原作：神崎柚）が、「大正偽りブラヰダル～身代わり花嫁と軍服の猛愛」のタイトルでアニメ化され、10月6日から放送されることが分かっ...",
-          "link": "https://anime.eiga.com/news/121972/",
-          "publishedOn": "2024-08-25T12:00:00.000Z",
-          "wordCount": 794,
-          "title": "ティーンズラブ「大正偽りブラヰダル」10月6日放送開始　渡部高志が監督",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15186,16 +15166,6 @@
           "wordCount": 4388,
           "title": "星占い",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10637",
-          "author": "watanabe@logipara.com",
-          "description": "もうダメです。",
-          "link": "https://logipara.com/diary-text/2024-08-26/",
-          "publishedOn": "2024-08-25T12:55:17.000Z",
-          "wordCount": 4393,
-          "title": "清らかな心を取り戻したい",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/08/image-4.png"
         }
       ]
     },
@@ -15361,6 +15331,26 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=45503",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです！ 先日、ビールの祭典「厚木オクトーバーフェスト」今年も開催！の一報をお届けいたしましたが、 以前の記事 ・【今年もやってくるー！】厚木オクトーバーフェスト2024 10月4日～14日の11日間開催予定だって…",
+          "link": "https://atsugi-lab.com/event-atsugi-oktober-fest2024/",
+          "publishedOn": "2024-09-24T01:15:43.000Z",
+          "wordCount": 1152,
+          "title": "【続報】10月4日～14日開催「厚木オクトーバーフェスト2024」詳細が判明！今年は特別シート＆限定プランが登場♪［厚木中央公園］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/09/aof-zokuhou2024.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=45269",
+          "author": "comomo",
+          "description": "息子が小さい頃はよく電車を一緒に見に行ったももこ＠あつらぼです。 今回はそんな電車関連のビッグニュース！ 小田急電鉄株式会社のニュースリリースによると、 ２０２７年４月に、小田急線（新宿－小田原間）の営業を開始してから１００周年を迎えるにあ…",
+          "link": "https://atsugi-lab.com/news-romancecar202409/",
+          "publishedOn": "2024-09-24T00:42:41.000Z",
+          "wordCount": 1138,
+          "title": "【話題沸騰】2027年に100周年を迎える小田急電鉄が新型ロマンスカーの設計に着手だって！運航開始は2029年3月目標☆",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/09/rc-odakyunews2024.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=45350",
           "author": "comomo",
@@ -15588,6 +15578,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=259307",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、赤城乳業株式会社の新商品「かじるクリームチーズアイス」を世界一詳しく調査しました。   公式YouTubeチャンネル […]",
+          "link": "https://foodfighter.jp/kajiru-cream-cheese",
+          "publishedOn": "2024-09-24T00:13:53.000Z",
+          "wordCount": 1727,
+          "title": "赤城乳業 かじるクリームチーズアイス【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/09/2c6beae620c941e099498c734dbea8b4.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=259288",
           "author": "foodfighter",
@@ -21574,26 +21574,6 @@
           "wordCount": 2324,
           "title": "【東京】交番で女性が座らず立腹、警部補の男（５６）が床に押さえつけ…特別公務員暴行陵虐罪で起訴・警視庁が懲戒免職",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/74c65de5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038967.html",
-          "author": "damono3856",
-          "description": "1 名前：PARADISE ★：2024/08/25(日) 11:16:57.83 ID:U9RJDHaG9.net\n\n\n\n\n\n\n\n祖母を殺害しようとした疑い　18歳孫を逮捕　名古屋市https://t.co/r3KYVkB81w— 日テレNEWS NNN (@news24ntv) August 24, 2024  \n\n\n\n\n\n\n　名古屋市中川区の住宅で23日、同居する祖母（78）を...",
-          "link": "https://itainews.com/archives/2038967.html",
-          "publishedOn": "2024-08-25T12:44:50.000Z",
-          "wordCount": 2376,
-          "title": "【名古屋】祖母を殺害しようとした疑いで18歳孫を逮捕　祖母は、その後死亡　妹がSNSで「兄が人を殺しました」などと投稿",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/1/511db48f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2038966.html",
-          "author": "dqnplus",
-          "description": "1 ： ：2024/08/25(日) 09:09:18.28 ID:h+OQG/JC0●.net\n\n\n\n\n\n\n\n\n\n横になってスマホをいじっていた男性 目の上に落とし網膜剥離に 中国 https://t.co/l1DK4RFGLa— News From China (AFPBB News) (@Afpbbfromchina) August 23, 2024 \n\n\n\n\n\n\n\n\n　今年31歳の李さんは林業従...",
-          "link": "https://itainews.com/archives/2038966.html",
-          "publishedOn": "2024-08-25T12:01:23.000Z",
-          "wordCount": 2481,
-          "title": "横になりながらスマホを閲覧→ウトウトして落として目に落下　網膜剥離になる若者が急増",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/978b3d11-s.png"
         }
       ]
     },
@@ -21602,6 +21582,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=81253",
+          "author": "299",
+          "description": "肌寒い冬は、ヒーターの周りが猫たちのお気に入りスポットになっています。この日もいつものように3匹の猫たちがヒーターのまわりに集まって暖をとっていました。 すると突然キジ白の猫さんが隣にいる茶白猫さんの首にパクりと噛みつい...\n一体なにごと？仲間の猫の首筋に噛みついてグルグル回る猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/81253",
+          "publishedOn": "2024-09-24T00:00:01.000Z",
+          "wordCount": 1348,
+          "title": "一体なにごと？仲間の猫の首筋に噛みついてグルグル回る猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81253.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=81219",
           "author": "299",
@@ -25131,16 +25121,6 @@
           "wordCount": 1346,
           "title": "甘えて指をチュッチュと吸ってくる赤ちゃん猫たちが可愛い！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79255.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=79243",
-          "author": "299",
-          "description": "ピンクのたらいのなかで気持ちよさそうに泳ぐひよこがとても可愛いです。 他のひよこたちもお風呂に入りたそうにしていたので土台となるバスケットをたらいのそばに置いてあげると、すぐによじ登ってたらいのなかに入りました。 全部で...\nたらいのお風呂を楽しむひよこたちを見守るニャンコさん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/79243",
-          "publishedOn": "2024-08-25T13:00:16.000Z",
-          "wordCount": 1349,
-          "title": "たらいのお風呂を楽しむひよこたちを見守るニャンコさん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79243.jpg"
         }
       ]
     },
