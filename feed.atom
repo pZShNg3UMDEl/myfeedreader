@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T07:36:32.173Z</updated>
+    <updated>2024-09-25T07:50:34.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スイスで「自殺ポッド」を使って女性死亡、警察が複数人を逮捕]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwyl02d1r1mo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwyl02d1r1mo"/>
+        <updated>2024-09-25T07:40:57.000Z</updated>
+        <summary type="html"><![CDATA[スイスで女性が「自殺ポッド」を使って自死したとされる事案があり、警察は24日、複数の人物を逮捕した。こうした機器を使った自死は初めとみられる。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画監督のジェームズ・キャメロン、Stability AI取締役に就任]]></title>
+        <id>https://gadget.phileweb.com/?p=85224</id>
+        <link href="https://gadget.phileweb.com/post-85224/"/>
+        <updated>2024-09-25T07:38:33.000Z</updated>
+        <summary type="html"><![CDATA[画像生成AIのStable Diffusionで知られるStabillity AIは、映画監督のジェームズ・キャメロン氏が同社の取締役に就任したと発表した。 キャメロン監督と言えば、『ターミネーター』『アバター』『タイタニック』『アビス』など、その製作年代における最高の技術を効果的に用いた映像作りで […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS用レトロゲームエミュレータ「Delta」がニンテンドーDSのオンラインマルチプレイに対応予定]]></title>
         <id>https://gadget.phileweb.com/?p=85218</id>
