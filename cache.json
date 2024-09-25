@@ -3583,6 +3583,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6d9740bd77c54ff03e84b2ecdbcdf36362c99c2c?source=rss",
+          "author": null,
+          "description": "大阪市中央区のスナック店で、客にアルコール度数の高い酒を飲ませるなどし昏酔状態にさせたうえで、財布からクレジットカードを抜き取り、不正な決済をしたとして中国籍の女４人が逮捕されました。\n\n　昏酔強盗",
+          "link": "https://news.yahoo.co.jp/articles/6d9740bd77c54ff03e84b2ecdbcdf36362c99c2c?source=rss",
+          "publishedOn": "2024-09-25T12:03:30.000Z",
+          "wordCount": 1707,
+          "title": "大阪ミナミのスナック店で“昏睡強盗”か　中国籍の女４人逮捕　客のクレカで１８万円の不正決済(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240925-00047823-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/4c70cc25407ea45263275d7a21d89871bdc329d3?source=rss",
           "author": null,
           "description": "来年の大阪・関西万博の目玉とされる「空飛ぶクルマ」について、全ての運航事業者が商用飛行を見送る方針であることがわかりました。\n\n　空飛ぶクルマについては、ＡＮＡホールディングス、日本航空、丸紅、スカ",
@@ -8461,26 +8471,6 @@
           "wordCount": 1609,
           "title": "【速報】プベルル酸発生の”謎”解明へ　大阪市が小林製薬旧大阪工場に3度目の立ち入り調査(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240827-00010001-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d73e7d916cdfabc527c96f71d6cc8a4375ede488?source=rss",
-          "author": null,
-          "description": "ＪＲ東海によりますと２７日午前８時ごろ、浜松ー豊橋駅間に設置した雨量計の値が規制値に達しました。\n\nこの影響で上りは新大阪ー東京駅間、下りは東京ー名古屋駅間で一時運転を見合わせました。\n\n雨の規制値",
-          "link": "https://news.yahoo.co.jp/articles/d73e7d916cdfabc527c96f71d6cc8a4375ede488?source=rss",
-          "publishedOn": "2024-08-27T00:00:54.000Z",
-          "wordCount": 1619,
-          "title": "【交通情報】東海道新幹線　一時運転見合わせ　東海地方の大雨の影響(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240827-00047366-asahibc-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c1894cfda552e03ca3106a845c44cac6cb361180?source=rss",
-          "author": null,
-          "description": "２７日朝、兵庫県姫路市にある中国自動車道・下りでトラックの横転事故がありました。\nこの影響で一部区間が通行止めになっています。\n\n　２７日午前８時１０分ごろ、姫路市夢前町の中国自動車道路下り・夢前ス",
-          "link": "https://news.yahoo.co.jp/articles/c1894cfda552e03ca3106a845c44cac6cb361180?source=rss",
-          "publishedOn": "2024-08-26T23:52:25.000Z",
-          "wordCount": 1605,
-          "title": "【速報】中国道下り・福崎IC－山崎IC間で通行止め　トラック横転の影響(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240827-00047365-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -10705,16 +10695,6 @@
           "wordCount": 2509,
           "title": "そもそもマイコンとは何？　分かりやすく教えて",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/20/cover_news027.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2408/27/news071.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、AEC-Q200に準拠した同社「Sfernice」ブランドの薄膜チップ抵抗器「CHA」シリーズを発表した。最大70GHzの高周波性能を提供する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2408/27/news071.html",
-          "publishedOn": "2024-08-27T00:00:00.000Z",
-          "wordCount": 2504,
-          "title": "AEC-Q200に準拠、最大70GHz対応の薄膜チップ抵抗器",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/27/cover_news071.jpg"
         }
       ]
     },
@@ -12343,6 +12323,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122226/",
+          "author": null,
+          "description": "ライトノベル「ゴリラの神から加護された令嬢は王立騎士団で可愛がられる」が、2025年にテレビアニメ化されることが決定した。 同作は、16歳になるとさまざまな動物神から加護を得られる世界を舞台を舞...",
+          "link": "https://anime.eiga.com/news/122226/",
+          "publishedOn": "2024-09-25T12:00:00.000Z",
+          "wordCount": 709,
+          "title": "「ゴリラの神から加護された令嬢は王立騎士団で可愛がられる」25年TVアニメ化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122229/",
           "author": null,
@@ -15755,6 +15750,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10762",
+          "author": "watanabe@logipara.com",
+          "description": "ワタナベです。 10連休のあと、2日も働いたんだから、もう今週は休みでよくないすか？？？(すげぇムカつく顔で) 　 まあね、こういってワタナベさん、会社的には中堅な年齢なわけですよ。 チームの芯として存在感を出しつつ、業 […]",
+          "link": "https://logipara.com/diary-text/2024-09-26/",
+          "publishedOn": "2024-09-25T12:15:47.000Z",
+          "wordCount": 4397,
+          "title": "10連休で貯まった仕事",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=10758",
           "author": "watanabe@logipara.com",
           "description": "本日の「心に響いた言葉」はこちらです。 　 　 本当に、ね…。",
@@ -17862,6 +17867,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2039942.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/09/25(水) 07:03:13.50 ID:QkbImUvd0●.net\n\n\n\n\n\n\n\n横断歩道止まらない車「背の低い車／おばあちゃん／怖いおじいちゃん」児童調査　反則金換算５７４万円https://t.co/atyqqnz6kX— 岐阜新聞 (@gifushimbun) September 24, 2024 \n\n\n\n...",
+          "link": "https://itainews.com/archives/2039942.html",
+          "publishedOn": "2024-09-25T12:01:01.000Z",
+          "wordCount": 2613,
+          "title": "岐阜の小学生の自由研究「横断歩道で止まらない車カス数えたら罰金総額574万円。スポーツカーに多い」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/6/f6be360a-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2039937.html",
           "author": "dqnplus",
@@ -26088,16 +26103,6 @@
           "wordCount": 1355,
           "title": "ゴールデンレトリバーをベッド代わりにしてぐっすり眠る子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79354.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=79381",
-          "author": "299",
-          "description": "茶白の子猫がゴールデンレトリバーの子犬が寝ているところに近づいていきます。怖いもの知らずな子猫は、自分の何倍も大きな大型犬でも怖気づくことなく近づきます。 子犬も、まだ子供ですからあまり警戒心を持たないようです。そのおか...\nゴールデンレトリバーの子犬と子猫はすぐに仲良しになれました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/79381",
-          "publishedOn": "2024-08-27T00:00:34.000Z",
-          "wordCount": 1351,
-          "title": "ゴールデンレトリバーの子犬と子猫はすぐに仲良しになれました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79381.jpg"
         }
       ]
     },
@@ -26106,6 +26111,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LSrAVneHF58",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LSrAVneHF58",
+          "publishedOn": "2024-09-25T12:00:33.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】軽井沢SPの反省会を覗き見【ジャングルポケット太田／パンサー向井／チョコレートプラネット長田／シソンヌじろう／タイムマシーン３号山本／かが屋賀屋／トム・ブラウン布川】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yD1vnIxfla4",
           "author": null,
