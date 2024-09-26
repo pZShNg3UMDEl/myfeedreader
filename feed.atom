@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T05:39:25.506Z</updated>
+    <updated>2024-09-26T05:50:15.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft、人気シリーズ最新作『Assassin’s Creed : Shadows』発売を11月から来年2月に延期]]></title>
+        <id>https://gadget.phileweb.com/?p=85345</id>
+        <link href="https://gadget.phileweb.com/post-85345/"/>
+        <updated>2024-09-26T05:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoftは、人気ゲームシリーズの最新作となる『Assassin’s Creed : Shadows』の発売を、予定していた11月15日から2025年2月14日へ、3か月延期すると発表した。 同社は、直近に発売した『スター・ウォーズ 無法者たち』の販売成績が期待したほどではなかったせ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Apple Vision Pro」廉価モデルは画面解像度が半分以下？ディスプレイはJDIが供給か]]></title>
         <id>https://gadget.phileweb.com/?p=85342</id>
@@ -31493,21 +31503,6 @@ NHKのラジオ国際放送の...]]></summary>
 1年ぶりに保護猫の里親さん宅を訪問して懐かしい再会を果たしました first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE SENSORS 2024 --- image sensor topics announced]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/08/ieee-sensors-2024-image-sensor-topics.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/08/ieee-sensors-2024-image-sensor-topics.html"/>
-        <updated>2024-08-27T17:42:00.003Z</updated>
-        <summary type="html"><![CDATA[The list of topics and the authors for the following two events related to image sensor technology have been finalized for the IEEE SENSORS 2024 Conference. The conference will be held in Kobe, Japan, from 20-23 October 2024. It will provide the opportunity to hear world class speakers in the field of image sensors and to sample the sensor ecosystem that extends beyond to see how imaging fits in.
-Workshop: “From Imaging to Sensing: Latest and Future Trends of CMOS Image Sensors” [Sunday, 20 October]
-Organizers: Sozo Yokogawa (Sony Semiconductor Solutions corp.) • Erez Tadmor (onsemi)
-“Trends and Developments in State-of-the-Art CMOS Image Sensors”, Daniel McGrath, TechInsights
-“CMOS Image Sensor Technology: what we have solved, what are to be solved”, Eiichi Funatsu, OMNIVISION
-“Automotive…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
