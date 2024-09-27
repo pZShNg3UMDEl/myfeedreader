@@ -6,6 +6,56 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/841/G084187/20240927069/",
+          "author": null,
+          "description": "東京ゲームショウ2024で，AREA35は2024年内に発売する新作リズムゲーム「フェリシティーズ・ドア」をプレイアブル出展した。“世界各国の音楽家たちの楽曲”で音ゲーを楽しんでもらうという方向性は，なかなかに物珍しい。",
+          "link": "https://www.4gamer.net/games/841/G084187/20240927069/",
+          "publishedOn": "2024-09-27T12:21:55.000Z",
+          "wordCount": 7696,
+          "title": "子供たちの音楽体験のために。構想10年の“ラグジュアリー”なリズムゲーム「フェリシティーズ・ドア」を試遊［TGS2024］",
+          "imageUrl": "https://www.4gamer.net/games/841/G084187/20240927069/SS/011.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/810/G081098/20240927090/",
+          "author": null,
+          "description": "コーエーテクモゲームスは本日，同社が2024年12月12日に発売を予定している「FAIRYTAIL2」のTGS特別番組を，「コーエーテクモLIVE!inTGS2024」にて配信した。本稿では，その模様をお届けしよう。配信では，プロデューサーの片岡宏氏，ナツ役の柿原徹也さん，エルザ役の大原さやかさんが登壇している。",
+          "link": "https://www.4gamer.net/games/810/G081098/20240927090/",
+          "publishedOn": "2024-09-27T12:20:49.000Z",
+          "wordCount": 7813,
+          "title": "「FAIRY TAIL2」TGS特別番組のレポートをお届け。「アルバレス帝国編」のイベントシーンを収録した最新トレイラーが公開に［TGS2024］",
+          "imageUrl": "https://www.4gamer.net/games/810/G081098/20240927090/SS/007.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/841/G084190/20240927091/",
+          "author": null,
+          "description": "ハイブリッド・スクアードは東京ゲームショウ2024にて，女性向け恋愛ゲーム「KissinHell」NintendoSwitch版と，モバイルゲーム「JumpXplorer!ノベルジャンプ探検隊」のリリースを発表した。いずれもリリースは2025年を予定しているという。",
+          "link": "https://www.4gamer.net/games/841/G084190/20240927091/",
+          "publishedOn": "2024-09-27T12:11:13.000Z",
+          "wordCount": 1078,
+          "title": "乙女ゲーム「Kiss in Hell」Switch版と，新作スマホ向けアクションゲーム「JumpXplorer! ノベルジャンプ探検隊」がリリース決定［TGS2024］",
+          "imageUrl": "https://www.4gamer.net/games/841/G084190/20240927091/SS/003.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/810/G081082/20240927089/",
+          "author": null,
+          "description": "20年ぶりのシリーズ完全新作となる「ファントム・ブレイブ幽霊船団と消えた英雄」だが，2024年9月26日にはメディア向け発表会も行われた。本稿では，発表会のあとに行われた，シナリオ担当者・開発者である城花健人氏へのインタビューをお届けする。",
+          "link": "https://www.4gamer.net/games/810/G081082/20240927089/",
+          "publishedOn": "2024-09-27T12:10:06.000Z",
+          "wordCount": 7721,
+          "title": "「ファントム・ブレイブ 幽霊船団と消えた英雄」シナリオ担当の城花健人氏にインタビュー。“かわいい男の子”が登場する理由も判明！？［TGS2024］",
+          "imageUrl": "https://www.4gamer.net/games/810/G081082/20240927089/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/811/G081143/20240927084/",
+          "author": null,
+          "description": "アニプレックスは，2025年4月24日のリリースが決定した「HUNDREDLINE-最終防衛学園-」の最新情報を発表する番組を，本日（2024年9月27日）東京ゲームショウ2024の公式YouTubeチャンネルで配信した。今回の番組では，作品の見どころが明らかにされたほか，世界初公開となる実機プレイが披露された。",
+          "link": "https://www.4gamer.net/games/811/G081143/20240927084/",
+          "publishedOn": "2024-09-27T11:50:51.000Z",
+          "wordCount": 7830,
+          "title": "「HUNDRED LINE -最終防衛学園-」，世界初公開となる実機プレイをお披露目。登場キャラやSRPGパートの様子を確認できた［TGS2024］",
+          "imageUrl": "https://www.4gamer.net/games/811/G081143/20240927084/SS/005.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/172/G017216/20240927082/",
           "author": null,
           "description": "2024年9月26日から29日まで開催される東京ゲームショウ2024に，DigitalExtremesのオンラインTPS「Warframe」がブース出展されている。2019年には，TGS合わせでTennoVIPというイベントを実施していたが，TGS自体に出展するのは，今回が初となる",
@@ -8091,26 +8141,6 @@
           "wordCount": 1627,
           "title": "【速報】東海道新幹線　３０日始発から三島ー名古屋間で計画運休　他区間でも本数減らして運行(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240829-00047429-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/03bbc259f0562ae3a7dd771fa0ee654c5ce9c7ed?source=rss",
-          "author": null,
-          "description": "２９日午前９時１分、徳島県牟岐町に高齢者避難所情報が発令されました。",
-          "link": "https://news.yahoo.co.jp/articles/03bbc259f0562ae3a7dd771fa0ee654c5ce9c7ed?source=rss",
-          "publishedOn": "2024-08-29T00:10:05.000Z",
-          "wordCount": 1612,
-          "title": "【速報】徳島県牟岐町に高齢者避難情報が発令(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240829-00048428-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f1d91aaf129099628e767235617c4f47c642b99d?source=rss",
-          "author": null,
-          "description": "午前９時１分徳島県牟岐町に高齢者避難所情報が発令されました。",
-          "link": "https://news.yahoo.co.jp/articles/f1d91aaf129099628e767235617c4f47c642b99d?source=rss",
-          "publishedOn": "2024-08-29T00:10:05.000Z",
-          "wordCount": 1544,
-          "title": "【速報】徳島県牟岐町に高齢者避難情報が発令(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240829-00047428-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -10335,16 +10365,6 @@
           "wordCount": 2493,
           "title": "AI時代のデータセンタートレンド　インフラの統合と水冷システム",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/29/cover_news016.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2408/29/news064.html",
-          "author": null,
-          "description": "インフィニオン テクノロジーズは、産業用、民生用モーター制御および電力変換システム用途向けのマイクロコントローラー「PSOC Control」シリーズを発表した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2408/29/news064.html",
-          "publishedOn": "2024-08-29T00:00:00.000Z",
-          "wordCount": 2536,
-          "title": "1μA未満の休止モードを搭載したモーター制御向けMCU",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2408/29/cover_news064.jpg"
         }
       ]
     },
@@ -10353,6 +10373,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=85582",
+          "author": "編集部：長濱行太朗",
+          "description": "SB C&Sは、同社が取り扱うWithingsより、スマートウォッチのフラグシップモデル「ScanWatch Healthmaster」とハイグレードモデル「ScanWatch Vitals」を9月27日に発売する。価格はオープンだが、市場予想税込価格はScanWatch Healthmas […]",
+          "link": "https://gadget.phileweb.com/post-85582/",
+          "publishedOn": "2024-09-27T12:11:34.000Z",
+          "wordCount": 724,
+          "title": "Withings、スマートウォッチ最上位「ScanWatch Healthmaster」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/ph01_Healthmaster.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=85573",
           "author": "編集部：長濱行太朗",
@@ -11902,36 +11932,6 @@
           "wordCount": 763,
           "title": "2025年の「iPhone 17」、全モデルがRAM 12GB搭載か",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/shutterstock_2437637641.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=83362",
-          "author": "編集部：平山洸太",
-          "description": "EcoFlowは、ブランド初のモバイルバッテリー「EcoFlow RAPID Magnetic Power Bank」を発表した。発売日および価格については現時点で未定。容量は5000mAhと10000mAhの2種類をラインナップする。 MagSafeおよびQi2規格のワイヤレス充電に対応し、「iP […]",
-          "link": "https://gadget.phileweb.com/post-83362/",
-          "publishedOn": "2024-08-29T00:00:00.000Z",
-          "wordCount": 744,
-          "title": "ポータブル電源のEcoFlowがモバイルバッテリー参入。MagSafe／Qi2対応の「RAPID Magnetic Power Bank」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/DSC_31920828152c.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=83354",
-          "author": "編集部：平山洸太",
-          "description": "EcoFlowは、ポータブル電源「EcoFlow DELTA 3 Plus」を9月1日に発売する。価格は149,600円（税込）。 容量1024Wh／出力1500W（瞬間最大3000W）に対応するポータブル電源。同社DELTAシリーズ初の「Plus」モデルとして、「業界標準を再構築」するとアピールし […]",
-          "link": "https://gadget.phileweb.com/post-83354/",
-          "publishedOn": "2024-08-29T00:00:00.000Z",
-          "wordCount": 745,
-          "title": "EcoFlow、56分でフル充電できる1kWh級ポータブル電源「DELTA 3 Plus」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/DSC_31870828151b.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=83360",
-          "author": "編集部：平山洸太",
-          "description": "EcoFlowは、ポータブル電源「EcoFlow RIVER 3」を9月1日に発売する。価格は32,890円（税込）。オンライン限定のバリエーションモデル「EcoFlow RIVER 3（230）」も30,900円（税込）でラインナップする。 アウトドアや防災初心者に最適だというポータブル電源のエン […]",
-          "link": "https://gadget.phileweb.com/post-83360/",
-          "publishedOn": "2024-08-29T00:00:00.000Z",
-          "wordCount": 736,
-          "title": "EcoFlow、“最強のコスパ”アピールのポータブル電源「RIVER 3」。容量245Whで約3.3万円",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/08/DSC_31860828150a.jpg"
         }
       ]
     },
@@ -12003,6 +12003,36 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122191/",
+          "author": null,
+          "description": "「FANTASTICS」の八木勇征が単独初主演を務める実写映画「矢野くんの普通の日々」の本予告と本ポスターが公開された。あわせて、挿入歌が「Travis Japan」の新曲「Staying wi...",
+          "link": "https://anime.eiga.com/news/122191/",
+          "publishedOn": "2024-09-27T12:00:00.000Z",
+          "wordCount": 710,
+          "title": "実写映画「矢野くんの普通の日々」Travis Japanが挿入歌を担当　白宮みずほ、筒井あやめら追加キャストも発表",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/122249/",
+          "author": null,
+          "description": "テレビアニメ「僕のヒーローアカデミア」第7期の9月28日放送回「I AM HERE」の先行カットと予告映像が公開。さらに、同話で轟家の戦いが決着を迎えることを受けて、轟焦凍役の梶裕貴、エンデヴァ...",
+          "link": "https://anime.eiga.com/news/122249/",
+          "publishedOn": "2024-09-27T12:00:00.000Z",
+          "wordCount": 771,
+          "title": "「ヒロアカ」9月28日放送回で轟家の戦いが決着　梶裕貴、稲田徹、下野紘“家族全員でのアフレコ”に感慨「この家族が好き」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122239/",
           "author": null,
@@ -17514,16 +17544,6 @@
           "wordCount": 1765,
           "title": "【ケンタッキー】おもちカスタードの月見パイ【数量限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/e75937ecd1f8a1909b4ce554ea4755d1.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=256690",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 濃いピンクグレープフルーツサイダー」を世界一詳しく調査しました。   公式 […]",
-          "link": "https://foodfighter.jp/711sej-pink-grapefruit-cider",
-          "publishedOn": "2024-08-29T00:06:05.000Z",
-          "wordCount": 1729,
-          "title": "【セブンイレブン】セブンプレミアム 濃いピンクグレープフルーツサイダー【新作ドリンク】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/08/383da24941eea4c77570c3d09b054674.jpg"
         }
       ]
     },
@@ -17532,6 +17552,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040027.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/09/27(金) 09:31:45.05 ID:K1CblINP0.net\n\n\n\n\n\n\n\nディズニー『白雪姫』実写版、2025年3月20日公開決定！特報映像＆ポスターhttps://t.co/tnRCM9q8vX#白雪姫 pic.twitter.com/l8I8DzFkHs— シネマカフェ／cinemacafe.net (@cinema_c...",
+          "link": "https://itainews.com/archives/2040027.html",
+          "publishedOn": "2024-09-27T12:02:32.000Z",
+          "wordCount": 2680,
+          "title": "ディズニー、実写版白雪姫にラテン系美女を採用！これも大ヒット間違いなし",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c013c969-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040016.html",
           "author": "dqnplus",
@@ -25948,16 +25978,6 @@
           "wordCount": 1346,
           "title": "ごはんを食べて大満足のマイミーはさっさとお布団に入って眠りにつきます",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79475.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=79503",
-          "author": "299",
-          "description": "クリアケースのなかを寝室にしている赤ちゃん猫ですが、ときおり見事に脱出していることがわかりました。 どうやってこの高い壁を登って脱出するのか不思議に思っていた飼い主さんでしたが、やっとこの日、子猫の脱出手順がわかったよう...\n寝床から脱出してきた子猫が甘えにきてメロメロになりました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/79503",
-          "publishedOn": "2024-08-29T00:00:03.000Z",
-          "wordCount": 1352,
-          "title": "寝床から脱出してきた子猫が甘えにきてメロメロになりました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/08/79503.jpg"
         }
       ]
     },
