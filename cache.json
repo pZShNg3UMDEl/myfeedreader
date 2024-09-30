@@ -7670,6 +7670,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cly23gn6930o#0",
+          "author": null,
+          "description": "レバノンを拠点とするイスラム教シーア派組織ヒズボラを標的にしたイスラエルの空爆は、29日も続いた。レバノンのナジブ・ミカティ首相は、同国全土ですでに100万人もの人が家を追われた可能性があると述べた。",
+          "link": "https://www.bbc.com/japanese/articles/cly23gn6930o",
+          "publishedOn": "2024-09-30T02:54:18.000Z",
+          "wordCount": 1660,
+          "title": "イスラエルの空爆で100万人が家を追われた可能性、「過去最大規模の避難」とレバノン首相",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/c602/live/9b4304e0-7ed1-11ef-b66d-034eed51208d.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c243z6el0r6o#0",
           "author": null,
           "description": "ネパール各地で大雨による大規模な洪水と地滑りがあり、少なくとも148人が死亡、100人以上が負傷した。警察が発表した。首都カトマンドゥ周辺の渓谷には、2日間にわたって大雨が降った。29日の時点でなお50人以上が行方不明となっている。これまでに約3600人が救助された。",
@@ -9744,6 +9754,46 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=85603",
+          "author": "多根清史",
+          "description": "アップルが画面付きの「HomePod」を開発中であることは、過去に何度か報じられてきた。このスマートホーム製品が2種類あり、そのうち1つは早ければ来年（2025年）にも発売される予定だと著名ジャーナリストが主張している。 同社の内部事情に詳しいBloombergのMark Gurman記者は、2つの […]",
+          "link": "https://gadget.phileweb.com/post-85603/",
+          "publishedOn": "2024-09-30T03:09:30.000Z",
+          "wordCount": 724,
+          "title": "正方形ディスプレイの「画面付きHomePod」、早ければ2025年に登場か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/shutterstock_2515885355.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=85597",
+          "author": "Munenori Taniguchi",
+          "description": "米国のYouTubeおよびYouTube Musicでは、先週土曜日からボブ・ディランやアデル、グリーン・デイなど数多くの著名アーティストの楽曲が再生できない問題が発生している。これは米国の演奏権管理団体SESAC（Society of European Stage Authors and Comp […]",
+          "link": "https://gadget.phileweb.com/post-85597/",
+          "publishedOn": "2024-09-30T03:01:34.000Z",
+          "wordCount": 769,
+          "title": "米YouTubeからアデルやニルヴァーナなどの楽曲が再生不可に。演奏権管理団体との交渉まとまらず",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/JarTee_Shutterstock_2513434607.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=85592",
+          "author": "多根清史",
+          "description": "先月末、アップルはOpenAIに投資する交渉を進めていると伝えられていた。が、もはや交渉から脱落したと米The Wall Street Journalは報じている。65億ドルもの資金調達ラウンドは終了する予定で、OpenAIはマイクロソフトとNVIDIAの両社から投資を受ける可能性があるとのことだ。 […]",
+          "link": "https://gadget.phileweb.com/post-85592/",
+          "publishedOn": "2024-09-30T02:57:53.000Z",
+          "wordCount": 718,
+          "title": "アップル、結局OpenAIに出資せずとの報道。マイクロソフトとNVIDIAが投資か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/shutterstock_2461696173.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=85553",
+          "author": "多根清史",
+          "description": "アップルの空間コンピュータ「Apple Vision Pro」はM2チップを搭載しているものの、AR関連のリアルタイム処理等の負荷が掛かっているため、独自AI技術「Apple Vision Pro」が動かないことが明らかにされている。 が、同社が次世代のVision Proを準備中であり、「M5」チ […]",
+          "link": "https://gadget.phileweb.com/post-85553/",
+          "publishedOn": "2024-09-30T02:53:02.000Z",
+          "wordCount": 740,
+          "title": "Vision Pro後継機、「M5」チップ搭載でApple Intelligence対応？2025年後半に量産開始か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/shutterstock_2425118935.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=85582",
           "author": "編集部：長濱行太朗",
           "description": "SB C&Sは、同社が取り扱うWithingsより、スマートウォッチのフラグシップモデル「ScanWatch Healthmaster」とハイグレードモデル「ScanWatch Vitals」を9月27日に発売する。価格はオープンだが、市場予想税込価格はScanWatch Healthmas […]",
@@ -11263,6 +11313,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122238/",
+          "author": null,
+          "description": "「TVアニメ『呪術廻戦』 懐玉・玉折／渋谷事変 公式ガイドブック」が10月4日に発売される。 同書は、制作スタッフ9人やキャストのコメンタリーとともに、テレビアニメ「呪術廻戦」の第2期「懐玉・玉...",
+          "link": "https://anime.eiga.com/news/122238/",
+          "publishedOn": "2024-09-30T03:00:00.000Z",
+          "wordCount": 709,
+          "title": "「呪術廻戦」懐玉・玉折／渋谷事変の公式ガイドブック10月4日発売　収録インタビューの一部が先行公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122243/",
           "author": null,
@@ -16702,6 +16767,26 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040107.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/09/29(日) 15:40:09.52 ID:ZCjcYkLz0.net\n\n\n\n\n\n\n\n\n【「なぜ母親にならなくてはいけないの？」少子化対策の“しわ寄せ”に悩む職場の女性たち】世界の先陣を切って少子化が進む日本。2050年には3人に1人が子どもを持たない時代になると...",
+          "link": "https://itainews.com/archives/2040107.html",
+          "publishedOn": "2024-09-30T03:01:39.000Z",
+          "wordCount": 2699,
+          "title": "Z世代女子。「子供なんて欲しくないし結婚もしたくない。自分を育てるのに精一杯。1人で生きる」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/c/9c9f143a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2040106.html",
+          "author": "dqnplus",
+          "description": "1 ：あ(東京都) [ﾆﾀﾞ]：2024/09/29(日) 16:41:27.37 ID:TWkj68TI0.net\n\n\n\n\n\n\n\n\n韓国いると、全然えっくすにエロ系の漫画やそういう広告が入らない……トルコでもそうだったな……なんだ……？？？日本、やっぱり異常に「性加害」に対して寛容な社会なんじゃないか？？？...",
+          "link": "https://itainews.com/archives/2040106.html",
+          "publishedOn": "2024-09-30T02:46:09.000Z",
+          "wordCount": 2731,
+          "title": "【６万いいね】ツイッター女子　「日本は韓国よりも性犯罪に寛容な国だ」　→６万いいね",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/4/a4d9ead0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040105.html",
           "author": "damono3856",
