@@ -3813,6 +3813,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/e6da1e7c864041d31a6d4ce3467ec1aab39a2554?source=rss",
+          "author": null,
+          "description": "兵庫県知事選挙に、元官僚の中村稔さんが立候補する意向を示しました。\n\n　中村さんは１９６２年生まれの６２歳で、灘高から東大に進み現在の経済産業省に入省、２００６年に兵庫県に出向し産業労働部長も務めま",
+          "link": "https://news.yahoo.co.jp/articles/e6da1e7c864041d31a6d4ce3467ec1aab39a2554?source=rss",
+          "publishedOn": "2024-10-01T10:39:08.000Z",
+          "wordCount": 1629,
+          "title": "兵庫県知事選に元官僚の中村稔氏立候補へ　県議会最大会派の自民が支援検討(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241001-00047885-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/2a90cc6ace34ad506a4c826adbdcc1ddd259bee1?source=rss",
           "author": null,
           "description": "少女は何者かに首を絞められ、殺害されたとみられます。\n\n　先月２８日深夜、大阪市中央区道頓堀のホテルの部屋で大阪市内に住む１７歳の無職の少女がベッドの上に仰向けで倒れていて、その場で死亡が確認されま",
@@ -8001,16 +8011,6 @@
           "wordCount": 1651,
           "title": "近鉄南大阪線　河内天美ー古市駅間で運転見合わせ　人身事故の影響(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240902-00047497-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c0de9ff534b91f2bfc84dce50fea22b4a083097a?source=rss",
-          "author": null,
-          "description": "１日夜、京都府宇治市で、自転車に乗った女子高校生が、カバンを奪おうとした男に腹や背中を殴られたり蹴られたりしました。男は現在も逃走中です。\n\n　１日午後９時半ごろ、宇治市大久保町で、悲鳴を聞いた近所",
-          "link": "https://news.yahoo.co.jp/articles/c0de9ff534b91f2bfc84dce50fea22b4a083097a?source=rss",
-          "publishedOn": "2024-09-01T22:40:05.000Z",
-          "wordCount": 1672,
-          "title": "自転車に乗った女子高生のカバンを奪おうと男が暴行　背中にひざ蹴り　腹や胸を殴る　男は逃走(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240902-00047496-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -11903,6 +11903,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122267/",
+          "author": null,
+          "description": "9月27日～29日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「ラストマイル」が返り咲きから2週連続で首位を獲得。「劇場版『オーバーロード』聖王国編」も2位をキープした。...",
+          "link": "https://anime.eiga.com/news/122267/",
+          "publishedOn": "2024-10-01T10:30:00.000Z",
+          "wordCount": 684,
+          "title": "【週末アニメ映画ランキング】劇場版「オーバーロード」2位キープ、「わんだふるぷりきゅあ！」は4位にアップ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122263/",
           "author": null,
