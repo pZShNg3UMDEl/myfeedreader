@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T06:46:26.043Z</updated>
+    <updated>2024-10-01T07:16:34.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スイスとイタリアが国境線を変更へ　氷河の融解受け]]></title>
+        <id>https://www.bbc.com/japanese/articles/c9wkdp8l4jqo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c9wkdp8l4jqo"/>
+        <updated>2024-10-01T06:59:02.000Z</updated>
+        <summary type="html"><![CDATA[スイスとイタリアは、気候変動による氷河の融解を受け、アルプス山脈にかかる国境線の一部を変更する。国境線の大部分は、氷河の稜線や万年雪のある地域を目印に決められているが、氷河の融解によってこの自然境界線が移動したため、両国は国境線の修正が必要だとしていた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Games、Googleとサムスン相手に訴訟起こす。独自アプリストア導入を妨害したと主張]]></title>
         <id>https://gadget.phileweb.com/?p=85745</id>
