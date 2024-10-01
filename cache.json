@@ -10235,16 +10235,6 @@
           "wordCount": 2500,
           "title": "20A出力に対応した高圧3相モータードライバー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/03/cover_news075.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2409/02/news044.html",
-          "author": null,
-          "description": "ロームは、PWM制御方式FET外付けタイプAC-DCコントローラーIC4種を発売した。低電圧誤動作防止機能を搭載し、Si-MOSFET、IGBT、SiC（炭化ケイ素） MOSFETまで幅広いパワートランジスタに対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2409/02/news044.html",
-          "publishedOn": "2024-09-02T00:00:00.000Z",
-          "wordCount": 2503,
-          "title": "UVLO対応、PWM制御方式汎用AC-DCコントローラーIC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/02/cover_news044.jpg"
         }
       ]
     },
@@ -11913,6 +11903,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122265/",
+          "author": null,
+          "description": "テレビアニメ「魔法少女リリカルなのは」が、10月7日午後11時30分から再放送される。 同作は、2004年に放送された「魔法少女リリカルなのは」シリーズの第1期。小学3年生の高町なのはは、異世界...",
+          "link": "https://anime.eiga.com/news/122265/",
+          "publishedOn": "2024-10-01T12:00:00.000Z",
+          "wordCount": 710,
+          "title": "【放送20周年】「魔法少女リリカルなのは」10月7日から再放送　なのは役の田村ゆかりからコメント到着",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122266/",
           "author": null,
@@ -15295,6 +15300,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=10778",
+          "author": "watanabe@logipara.com",
+          "description": "10月になりましたね！ようやく季節の変わり目ですね！いよいよ待ちに待った衣替えということで、タンスから半袖を引っ張り出して何でじゃあああああああ！！(ﾟДﾟ) 　 　 　 　 あと、さきほど蚊にさされました。10月なのに […]",
+          "link": "https://logipara.com/diary-text/2024-10-02/",
+          "publishedOn": "2024-10-01T12:17:55.000Z",
+          "wordCount": 4400,
+          "title": "10月になりました",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/10/image.png"
+        },
+        {
           "id": "https://logipara.com/?p=10776",
           "author": "watanabe@logipara.com",
           "description": "ノートPCのCMを見ていたら、女性から 「いつでもどこでも仕事ができますように☆」 と言われて、さすがの私も冷静さを欠いてしまいました",
@@ -15995,6 +16010,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=260073",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]",
+          "link": "https://foodfighter.jp/matsuya-ninnikuyasai-gyumeshi",
+          "publishedOn": "2024-10-01T11:31:30.000Z",
+          "wordCount": 1795,
+          "title": "【松屋】ニンニク野菜マシ大盛り牛めし（インスパイア系松郎牛めし）【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/ec972307e6852a3148cf9f5e3419f425.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=260051",
           "author": "foodfighter",
@@ -17402,6 +17427,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040168.html",
+          "author": "dqnplus",
+          "description": "1 名前：少考さん ★：2024/10/01(火) 11:17:42.45 ID:rHOQ/uKQ9.net\n\n\n\n\n\n\n\n\n「賃上げ」しても「生活が苦しい」が8割…ビジネスパーソンの厳しい懐事情が「ランチ代」からわかった！ : https://t.co/UXszWql1fB #現代ビジネス— 現代ビジネス (@gendai_biz) September 3...",
+          "link": "https://itainews.com/archives/2040168.html",
+          "publishedOn": "2024-10-01T12:02:59.000Z",
+          "wordCount": 2716,
+          "title": "4人に1人が「勤務日にランチを食べない」社会人のシビアな懐事情…「賃上げ」しても「生活が苦しい」が8割",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/7/d7971cb1-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040157.html",
           "author": "damono3856",
@@ -25858,16 +25893,6 @@
           "wordCount": 1348,
           "title": "子猫の時から優雅な動きのノルウェージアンにウットリ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79751.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=79778",
-          "author": "299",
-          "description": "キジ白の猫さんと2匹のロットワイヤーのワンコたちが3匹で並んでいます。 飼い主さんからの命令の合図が出されるのを今か今かと待っているロットワイヤーの真剣な顔。 飼い主さんが指先でくるくる円を描きながらロールオーバー、コロ...\nワンコの芸を見よう見まねで習得するニャンコ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/79778",
-          "publishedOn": "2024-09-02T00:00:14.000Z",
-          "wordCount": 1348,
-          "title": "ワンコの芸を見よう見まねで習得するニャンコ",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79778.jpg"
         }
       ]
     },
