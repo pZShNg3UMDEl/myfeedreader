@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T03:34:21.634Z</updated>
+    <updated>2024-10-02T03:50:13.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「UEFN」，一人称カメラを実験的にサポート。二丁拳銃などを除く大半の銃やバリスティックシールドを一人称視点で利用可能に]]></title>
+        <id>https://www.4gamer.net/games/144/G014484/20241002012/</id>
+        <link href="https://www.4gamer.net/games/144/G014484/20241002012/"/>
+        <updated>2024-10-02T03:38:50.000Z</updated>
+        <summary type="html"><![CDATA[EpicGamesは2024年10月1日，「フォートナイト」内のコンテンツを制作できるツール「UnrealEditorforFortnite」のアップデートを行い，1人称視点の実験的サポートやTVアニメ「ティーンエイジ・ミュータント・ニンジャ・タートルズ」とのコラボを開始した。]]></summary>
+        <author>
+            <name>4Gamer.net − Wii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクロソフト「HoloLens 2」生産終了。米軍向け「IVAS」に全力で取り組む]]></title>
         <id>https://gadget.phileweb.com/?p=85800</id>
