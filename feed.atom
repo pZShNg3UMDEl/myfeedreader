@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T13:05:08.593Z</updated>
+    <updated>2024-10-02T13:32:42.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【松屋】たっぷり海老のニューバーグソース【店舗限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=260203</id>
+        <link href="https://foodfighter.jp/matsuya-ebi-newberg-sauce"/>
+        <updated>2024-10-02T13:28:39.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”無添加・国産米100%で安全・安心にこだわった牛めしが食べられる牛丼 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエルのテルアビブ中心部で銃乱射　7人死亡17人けが…]]></title>
         <id>https://itainews.com/archives/2040210.html</id>
@@ -32505,16 +32515,6 @@ MEGA BIG 1等8本！！2億2190万円の払い戻しでした！！配信来て�
         <summary type="html"><![CDATA[イギリス政府は2日、イスラエルへの武器売却の一部を停止した。イギリスが輸出した武器が重大な国際法違反に使われるかもしれないという「明らかなリスク」があるためとしている。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【すき家】月見すきやき牛丼【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=257186</id>
-        <link href="https://foodfighter.jp/sukiya-tsukimi-sukiyaki"/>
-        <updated>2024-09-03T01:12:31.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
