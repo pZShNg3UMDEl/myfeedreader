@@ -10555,16 +10555,6 @@
           "wordCount": 2532,
           "title": "低中出力レンジの車載信号灯向けLEDチップ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/05/cover_news069.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2409/04/news080.html",
-          "author": null,
-          "description": "スイスビットは、PCIe Gen5 SSDの「D2200」シリーズを発表した。電力1Wあたり最大970Mバイト/秒のシーケンシャル読み取り性能を示す。エンタープライズサーバやエッジデータセンター用途に適する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2409/04/news080.html",
-          "publishedOn": "2024-09-04T00:00:00.000Z",
-          "wordCount": 2528,
-          "title": "データセンター／エンタープライズ向けPCIe Gen5 SSD",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/04/cover_news080.jpg"
         }
       ]
     },
@@ -12373,6 +12363,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122256/",
+          "author": null,
+          "description": "連続2クールで放送中のテレビアニメ「多数欠」に、石谷春貴、梶原岳人、徳井青空、中島ヨシキ、大塚剛央の出演が決定した。あわせて、第2クールのメインビジュアルも公開されている。 原作は、コミックスマ...",
+          "link": "https://anime.eiga.com/news/122256/",
+          "publishedOn": "2024-10-03T12:00:00.000Z",
+          "wordCount": 713,
+          "title": "「多数欠」に石谷春貴、梶原岳人、徳井青空らが出演　第2クールのメインビジュアルも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122286/",
           "author": null,
@@ -17802,6 +17807,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040245.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/10/03(木) 08:20:01.04 ID:MuLUY/tR0.net\n\n\n\n\n\n\n\n作家・元外務省主任分析官の佐藤優さんがコメントしました。【視点】<ザハロワ氏は「このような問題を政治問題化する東京の姿勢は非生産的であり、（国防省など）適切なルートを通...",
+          "link": "https://itainews.com/archives/2040245.html",
+          "publishedOn": "2024-10-03T12:01:02.000Z",
+          "wordCount": 2677,
+          "title": "ロシア「日本の領空侵犯に対する抗議を認めない、日本は政治問題化するな！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/a/6a24e58b-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040235.html",
           "author": "dqnplus",
@@ -26418,16 +26433,6 @@
           "wordCount": 1346,
           "title": "撫でてもらったお返しに、なめ返してくれるサービス精神旺盛な猫ちゃん動画",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79879.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=79909",
-          "author": "299",
-          "description": "お猿さんが保護猫さんを大事そうに抱きかかえています。子猫もお猿さんに抱っこされてとても安心した表情をしています。 この子猫は道端に捨てられていたところを主さんが保護したのです。 自宅に連れ帰ると、お猿さんが子猫のことをす...\n保護猫の親代わりになるお猿さんが優しすぎる first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/79909",
-          "publishedOn": "2024-09-04T00:00:40.000Z",
-          "wordCount": 1350,
-          "title": "保護猫の親代わりになるお猿さんが優しすぎる",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/79909.jpg"
         }
       ]
     },
