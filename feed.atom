@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T03:14:14.475Z</updated>
+    <updated>2024-10-07T03:39:05.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Movie Gen発表。文章から音声付き動画を生成、顔写真の人物を既存動画に登場させる活用法も]]></title>
+        <id>https://gadget.phileweb.com/?p=86170</id>
+        <link href="https://gadget.phileweb.com/post-86170/"/>
+        <updated>2024-10-07T03:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Metaが、テキストプロンプトから音声付き動画を生成するAIモデル「Movie Gen」を発表した。Movie Genは、通常はテキストプロンプトで生成したい情報を与えて動画を生成するのだが、画像を1枚与えて、それをもとにAI動画を生成することも可能だ。生成する動画は最大16秒間、16コマ/秒という […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、マイクロLEDをARグラスに採用？Apple Watch Ultraへの搭載も検討か]]></title>
+        <id>https://gadget.phileweb.com/?p=86171</id>
+        <link href="https://gadget.phileweb.com/post-86171/"/>
+        <updated>2024-10-07T03:30:47.000Z</updated>
+        <summary type="html"><![CDATA[アップルはマイクロLEDディスプレイを「Apple Watch Ultra」に搭載を試みたものの、コストが高すぎるために見送ったと報道されていた。だが、同社はこの新技術を諦めておらず、今後のARグラスなどに採用する準備を進めているとの噂が伝えられている。 リーカーのJukanlosreve氏は、同社 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「何かが爆発した」徳島県鳴門市で工場火災、作業員２人負傷　タンク周辺で作業中に出火　農薬・肥料メーカー「ＯＡＴアグリオ」(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/52c583e16da65bd058c5aa324ef32a56d21d02bf?source=rss</id>
