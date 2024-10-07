@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T05:17:42.034Z</updated>
+    <updated>2024-10-07T05:40:24.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガザのモスクと学校に空爆、26人死亡とハマス当局　イスラエルは「指揮施設」攻撃と]]></title>
+        <id>https://www.bbc.com/japanese/articles/c5y3v7961qjo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c5y3v7961qjo"/>
+        <updated>2024-10-07T05:37:28.000Z</updated>
+        <summary type="html"><![CDATA[パレスチナ・ガザ地区中部で6日早朝、モスク（イスラム教礼拝所）や避難所になっている学校をイスラエルが空爆し、ガザ保健当局によると26人が殺害された。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】「公認する議員としない議員がいるのがよくわからない」「政局のにおいがする」　吉村維新共同代表が総理の”裏金公認”に苦言(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ee84f00e223b55839e3e9eb3c7226282864bf628?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ee84f00e223b55839e3e9eb3c7226282864bf628?source=rss"/>
+        <updated>2024-10-07T05:18:04.000Z</updated>
+        <summary type="html"><![CDATA[7日、日本維新の会の吉村洋文共同代表が記者の取材に応じ、石破総理大臣が6日に打ち出した、いわゆる”裏金議員”に対する選挙での公認・非公認について「正直わからない」と苦言を呈しました。
+
+　石破総理大]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“日本発”新型コロナ「レプリコンワクチン」に不安の声 厚労大臣が安全訴え]]></title>
         <id>https://itainews.com/archives/2040359.html</id>
@@ -6752,6 +6774,16 @@ Courtesy: Prof. Tobi Delbruck]]></summary>
         <summary type="html"><![CDATA[Googleのキーボードアプリ「Gboard」の開発チームは、新しい日本語入力方法として「Gboard 両面バージョン」を発表した。表裏一体の「うらない」キーボードのため発売予定はないが、設計図はオープンソースとして公開されている。 これまで同社は、「帽バージョン」（2023年）、「棒バージョン」（ […]]]></summary>
         <author>
             <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR: 動的テストツールの採用で組み込みソフトの処理性能計測工数を60％削減]]></title>
+        <id>https://monoist.itmedia.co.jp/mn/articles/2410/01/news001.html</id>
+        <link href="https://monoist.itmedia.co.jp/mn/articles/2410/01/news001.html"/>
+        <updated>2024-10-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハートランド・データの動的テストツール「DT+」のユーザーズカンファレンスにアズビルの加地孝敏氏が登壇。ビルディングオートメーション事業で展開する制御機器の組み込みソフトウェア開発における処理性能計測や不具合解析の事例を紹介した。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

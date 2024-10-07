@@ -3663,6 +3663,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/ee84f00e223b55839e3e9eb3c7226282864bf628?source=rss",
+          "author": null,
+          "description": "7日、日本維新の会の吉村洋文共同代表が記者の取材に応じ、石破総理大臣が6日に打ち出した、いわゆる”裏金議員”に対する選挙での公認・非公認について「正直わからない」と苦言を呈しました。\n\n　石破総理大",
+          "link": "https://news.yahoo.co.jp/articles/ee84f00e223b55839e3e9eb3c7226282864bf628?source=rss",
+          "publishedOn": "2024-10-07T05:18:04.000Z",
+          "wordCount": 1646,
+          "title": "【速報】「公認する議員としない議員がいるのがよくわからない」「政局のにおいがする」　吉村維新共同代表が総理の”裏金公認”に苦言(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241007-00010000-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/17367a025d990b6234651e7920ad0d0bbb275067?source=rss",
           "author": null,
           "description": "７日未明、兵庫県尼崎市の県道交差点でワゴン車と原付バイクが衝突する事故があり、原付に乗っていた男性が搬送先の病院で死亡しました。ワゴン車の男が現行犯逮捕され、「携帯電話のアラームを止めようとしながら",
@@ -7750,6 +7760,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c5y3v7961qjo#0",
+          "author": null,
+          "description": "パレスチナ・ガザ地区中部で6日早朝、モスク（イスラム教礼拝所）や避難所になっている学校をイスラエルが空爆し、ガザ保健当局によると26人が殺害された。",
+          "link": "https://www.bbc.com/japanese/articles/c5y3v7961qjo",
+          "publishedOn": "2024-10-07T05:37:28.000Z",
+          "wordCount": 1477,
+          "title": "ガザのモスクと学校に空爆、26人死亡とハマス当局　イスラエルは「指揮施設」攻撃と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/dd51/live/18593000-846b-11ef-ad45-893aa022fcbc.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c93pv7j48kwo#0",
           "author": null,
           "description": "イスラエル南部の都市ベエルシェバで6日、銃撃事件があり、女性警官1人が死亡、10人がけがを負った。現地当局が発表した。",
@@ -9665,6 +9685,16 @@
           "wordCount": 2526,
           "title": "車載／産機向けMIPI DSI対応ディスプレイ送信用半導体",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/02/cover_news066.jpg"
+        },
+        {
+          "id": "https://monoist.itmedia.co.jp/mn/articles/2410/01/news001.html",
+          "author": null,
+          "description": "ハートランド・データの動的テストツール「DT+」のユーザーズカンファレンスにアズビルの加地孝敏氏が登壇。ビルディングオートメーション事業で展開する制御機器の組み込みソフトウェア開発における処理性能計測や不具合解析の事例を紹介した。",
+          "link": "https://monoist.itmedia.co.jp/mn/articles/2410/01/news001.html",
+          "publishedOn": "2024-10-01T01:00:00.000Z",
+          "wordCount": 1725,
+          "title": "PR: 動的テストツールの採用で組み込みソフトの処理性能計測工数を60％削減",
+          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2410/01/cover_news001.jpg"
         },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2410/01/news059.html",
