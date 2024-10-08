@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T13:32:19.835Z</updated>
+    <updated>2024-10-08T13:50:29.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪メトロ谷町線で人身事故　全線で運転見合わせ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ae7c230c499c858ad1dc9b2edc497092a17b8dd9?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ae7c230c499c858ad1dc9b2edc497092a17b8dd9?source=rss"/>
+        <updated>2024-10-08T13:31:14.000Z</updated>
+        <summary type="html"><![CDATA[大阪メトロは、谷町線の南森町駅で午後９時５１分に発生した人身事故の影響で、午後１０時２０分現在、大日駅から八尾南駅までの谷町線全線で、運転を見合わせています。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【丸亀製麺】旨辛 肉盛りまぜ玉うどん【期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=260782</id>
@@ -32611,17 +32621,6 @@ when a knock-off Oodie brought from Temu caught fire, sticking to her body and m
         <summary type="html"><![CDATA[現在、Bluetooth の最新機能「Auracast ブロードキャスト オーディオ」の普及に向けた動きが加速し、対応するデバイスも続々と開発されています。一方、Auracast非対応の旧世代スマートフォンが市場拡大を妨げています。本稿では、その理由と、解決策となるスタンドアロン型Auracastアシスタントアプリ開発について解説します。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「どのカードが高いんや」２人を縛り付けトレカ１０００万円超を強盗か　男２人逃走　強盗事件として捜査(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/ce2fa3eef1928bab6612f5e34c46c3335540698b?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/ce2fa3eef1928bab6612f5e34c46c3335540698b?source=rss"/>
-        <updated>2024-09-09T01:39:14.000Z</updated>
-        <summary type="html"><![CDATA[９日未明、大阪市中央区の会社事務所に男２人組が押し入り、室内にいた男性２人をロープで縛り付けて大量のトレーディングカードを奪って逃走しました。
-　時価総額１０００万円を超えるとみられ、警察が強盗事件]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
