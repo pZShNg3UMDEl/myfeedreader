@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T04:40:57.855Z</updated>
+    <updated>2024-10-09T04:51:07.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルとパレスチナの若者に聞く、現在の戦争とこれから]]></title>
+        <id>https://www.bbc.com/japanese/articles/c1e895168z7o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c1e895168z7o"/>
+        <updated>2024-10-09T04:40:13.000Z</updated>
+        <summary type="html"><![CDATA[パレスチナとイスラエルの若者たちは、現在進行中の戦争と未来について、どんな考えをもっているのだろうか。BBCのジェレミー・ボウエン国際編集長が、それぞれの土地で話を聞いた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロンマスクのテスラトンネル、2年で67件の無断侵入。ラスベガスの渋滞解消効果も不明]]></title>
         <id>https://gadget.phileweb.com/?p=86307</id>
