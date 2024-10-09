@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T13:04:59.231Z</updated>
+    <updated>2024-10-09T13:33:40.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今日も世間は修羅場]]></title>
+        <id>https://logipara.com/?p=10809</id>
+        <link href="https://logipara.com/diary-text/2024-10-10/"/>
+        <updated>2024-10-09T13:30:13.000Z</updated>
+        <summary type="html"><![CDATA[「ロケバスする」という、新しい動詞の誕生を見た。]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[れいわ新選組、出処不明の寄付金率が21.5%で全政党中1位　大石あきこに至っては45.4%　X民の調査で判明]]></title>
         <id>https://itainews.com/archives/2040443.html</id>
@@ -32639,16 +32649,6 @@ NHKニュースーン様、お世話になっております。ネコプリン�
         <summary type="html"><![CDATA[イギリスのキア・スターマー首相は8日に放送されたBBCのインタビューで、なぜ首相官邸からマーガレット・サッチャー元首相の肖像画を外したのか、なぜ選挙中に言及していた犬ではなく子猫を新しく飼うことにしたのかなど、BBCのローラ・クンスバーグ記者の質問に答えた。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】カニ漁の漁師が倒れ、死亡　熱中症の可能性も(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/67ed9c422fc9f5d000bab79dd5d3e7e78374444f?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/67ed9c422fc9f5d000bab79dd5d3e7e78374444f?source=rss"/>
-        <updated>2024-09-10T01:11:19.000Z</updated>
-        <summary type="html"><![CDATA[10日深夜、兵庫県北部の日本海で、カニ漁に出ていた50代の漁師が倒れ、その後死亡しました。熱中症の可能性もあるということです。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
