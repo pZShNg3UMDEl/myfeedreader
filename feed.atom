@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-10T22:15:42.117Z</updated>
+    <updated>2024-10-10T22:40:00.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【停電情報】奈良・五條市などでおよそ１５０軒が停電　復旧は午前７時半ごろの見通し(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/91f15d928152ff90a4d7f44ac12cd193605b9fce?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/91f15d928152ff90a4d7f44ac12cd193605b9fce?source=rss"/>
+        <updated>2024-10-10T22:21:18.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、午前４時半ごろから奈良県五條市でおよそ１２０軒、十津川村でおよそ３０軒の停電が発生しているということです。復旧は午前７時半ごろになるとしています。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「指詰め」で国保適用受ける　弘道会幹部を詐欺容疑で再逮捕　岐阜県警]]></title>
         <id>https://itainews.com/archives/2040478.html</id>
@@ -32241,16 +32251,6 @@ https://news.yahoo.co.jp/artic...]]></summary>
 収穫したばかりの新米が盗まれる　新潟県内で90キロhttps://t.co/qagAenHbuO新潟県内のコメ倉庫からコシヒカリの玄米が入った3袋（計90キログラム）が盗まれる事件がありました。— 毎...]]></summary>
         <author>
             <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ホビット庄の物語 〜指輪物語の世界から〜」，ショーケースイベントを9月23日2：30から開催。開発メンバーがさまざまな要素を紹介]]></title>
-        <id>https://www.4gamer.net/games/793/G079378/20240911035/</id>
-        <link href="https://www.4gamer.net/games/793/G079378/20240911035/"/>
-        <updated>2024-09-11T10:23:33.000Z</updated>
-        <summary type="html"><![CDATA[PrivateDivisionとWētāWorkshopは本日，「ホビット庄の物語〜指輪物語の世界から〜」のショーケースイベント「AHobbitDayShowcase」を9月23日2：30から開催すると発表した。本イベントは，「国際ホビットデー」にあわせて実施され，Twitch，YouTube，X，TikTokで視聴可能だ。]]></summary>
-        <author>
-            <name>4Gamer.net − Wii</name>
         </author>
     </entry>
 </feed>
