@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-10T04:19:29.157Z</updated>
+    <updated>2024-10-10T04:41:05.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルバイトの女子高生が閉店後のスーパーマーケットに潜む恐怖と向き合う。「つぐのひ -忌み夜の喰霊品店-」，Switch/PS4向けに本日配信]]></title>
+        <id>https://www.4gamer.net/games/846/G084650/20241010022/</id>
+        <link href="https://www.4gamer.net/games/846/G084650/20241010022/"/>
+        <updated>2024-10-10T04:29:56.000Z</updated>
+        <summary type="html"><![CDATA[バカーは本日，ホラーゲーム「つぐのひ-忌み夜の喰霊品店-」の配信をSwitch/PS4向けに開始した。本作は，何気ない道を歩く主人公の姿を追いかけながら，少しずつ変貌していく世界を味わう「つぐのひ」シリーズ最新作。アルバイトの女子高生が，閉店後のスーパーマーケットに潜む恐怖と向き合うことになる。]]></summary>
+        <author>
+            <name>4Gamer.net − Wii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【兵庫9区で火花】「再始動」掲げ立候補の西村元経産大臣は非公認に　立憲の新人らが迎え撃つ　関西の選挙区にも“裏金問題”の影響は及ぶか(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/2321c127c5211b5c8d7c13551419b567757877d0?source=rss</id>
@@ -32013,33 +32023,6 @@ https://news.yahoo.co.jp/articles/5b0f8196901e54a55165833a92bdf2ac2ff7f1d1
 ずっと鳴き続けるひよこを優しくなだめる子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメショの子猫のマロンちゃんが新しい家族のところへやってきた！]]></title>
-        <id>https://2-9-9.com/?p=80406</id>
-        <link href="https://2-9-9.com/archives/80406"/>
-        <updated>2024-09-10T16:30:09.000Z</updated>
-        <summary type="html"><![CDATA[ダンボールのキャリーケースのなかから身を乗り出しているのは、黄色いリボンをつけてもらった可愛いアメショの子猫です。 ケースから外に出たくて、必死に立ち上がって脱出しようとしている子猫です。 子猫はマロンちゃんという名前を...
-アメショの子猫のマロンちゃんが新しい家族のところへやってきた！ first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhD thesis on CMOS SPAD dToF Systems]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/09/phd-thesis-on-cmos-spad-dtof-systems.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/09/phd-thesis-on-cmos-spad-dtof-systems.html"/>
-        <updated>2024-09-10T16:30:00.001Z</updated>
-        <summary type="html"><![CDATA[Thesis Title: Advanced techniques for SPAD-based CMOS d-ToF systems
-Author: Alessandro Tontini
-Affiliation: University of Trento and FBK
-Full text available here: [link] 
-
-Abstract:
-The possibility to enable spatial perception to electronic devices gave rise to a number of important development results in a wide range of fields, from consumer and entertainment applications to industrial environments, automotive and aerospace. Among the many techniques which can be used to measure the three-dimensional (3D) information of the observed scene, the unique features offered by direct time-of-flight (d-ToF) with single photon avalanche diodes (SPADs) integrated into a standard CMOS process result in a high interest for development from both researchers and market stakeholders. Despite the net adv…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
