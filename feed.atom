@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T10:40:21.607Z</updated>
+    <updated>2024-10-11T10:50:40.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ノーベル平和賞、日本被団協に　被爆者証言が「核のタブー」成立に貢献と評価]]></title>
+        <id>https://www.bbc.com/japanese/articles/ckgnp02v5r0o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/ckgnp02v5r0o"/>
+        <updated>2024-10-11T10:47:48.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェー・ノーベル委員会は11日午前11時（日本時間同日午後6時）すぎ、今年の平和賞を、日本原水爆被害者団体協議会（日本被団協）に授与すると発表した。被爆者の立場から世界に核兵器廃絶を訴えてきた活動を、高く評価した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次回の百条委には斎藤前知事の出頭求めず　優勝パレードの補助金疑惑も知事選への影響考慮　兵庫県議会(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/ee974d39b97078646e23cd312d1efc1f84a6a1f2?source=rss</id>
