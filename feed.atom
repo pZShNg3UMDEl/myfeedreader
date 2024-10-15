@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T16:54:21.132Z</updated>
+    <updated>2024-10-15T17:15:26.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Galaxycore chip-on-module packaging for CIS]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/10/galaxycore-chip-on-module-packaging-for.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/10/galaxycore-chip-on-module-packaging-for.html"/>
+        <updated>2024-10-15T16:55:00.001Z</updated>
+        <summary type="html"><![CDATA[Link: https://en.gcoreinc.com/news/detail-69
+ 
+
+
+
+The performance of an image sensor relies not only on its design and manufacturing but also on the packaging technology.
+CIS packaging is particularly challenging, as any particle in the environment that drops on the sensor surface during the process can cause a significant affect on the final image quality. GalaxyCore’s COM (Chip on Module) packaging technology has revolutionized traditional CSP (Chip Scale Package) and COB (Chip on Board) methods, enhancing the performance, reliability, and applicability of the optical system of camera modules.
+Birth of the COM Packaging
+Before the advent of COM packaging, CSP and COB were the predominant packaging choices for CIS. CSP places a layer of glass on the sensor to prevent dust. However, the gl…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫たちが出迎えてくれる旅館は猫好きには天国そのものでした]]></title>
         <id>https://2-9-9.com/?p=82697</id>
@@ -32068,24 +32086,6 @@ TBSサンモニ出演のジャーナリストが自民支持者を「劣等民�
 お昼寝から目覚めたら激しくプロレスごっこをする子猫兄妹 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジンバブエ、ゾウ200頭を殺処分し食料に　大規模干ばつで食糧難]]></title>
-        <id>https://itainews.com/archives/2039654.html</id>
-        <link href="https://itainews.com/archives/2039654.html"/>
-        <updated>2024-09-16T05:03:06.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：＠おっさん友の会 ★：2024/09/15(日) 17:18:34.75 ID:4KrksFZy9.net
-
-
-
-
-
-
-
-《ジンバブエの環境相は11日、国内に「必要以上に多くのゾウがいる」と国会で説明。野生動物関連の当局に対し、殺処分の手続きを始めるよう指示したことを明らかにした》ジンバブエ、...]]></summary>
-        <author>
-            <name>damono3856</name>
         </author>
     </entry>
 </feed>
