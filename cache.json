@@ -7701,36 +7701,6 @@
           "wordCount": 1618,
           "title": "夏祭りで“集団暴行”けがをさせたとして起訴　山口組傘下組織の会長に無罪判決　「配下が自らの判断で暴行加えた可能性」大阪地裁(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240917-00047717-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6631edacd9400c4be7a3dc56ae583ef23cf42514?source=rss",
-          "author": null,
-          "description": "大阪ミナミの人気ラーメン店「金龍ラーメン」の立体看板の龍のしっぽが切られてから約3週間。17日、そのしっぽが“ある場所”に現れました。",
-          "link": "https://news.yahoo.co.jp/articles/6631edacd9400c4be7a3dc56ae583ef23cf42514?source=rss",
-          "publishedOn": "2024-09-17T13:00:34.000Z",
-          "wordCount": 1650,
-          "title": "「捨てる存在が道頓堀の笑いに」　“撤去命令”龍のしっぽ→カニの爪に挟まった理由　アイデア仕掛け人は…30年以上前に“龍の看板”を作った本人だった(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240917-00010001-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4a80607543907431ba012eb9a5ef50b355ef69cc?source=rss",
-          "author": null,
-          "description": "京都府南丹市の「かやぶきの里」で、ソバの花がほぼ満開となり、見頃を迎えています。\n\n　かやぶき屋根の住宅が並ぶ「かやぶきの里」は、国の重要伝統的建造物群保存地区に指定されています。\n\n　ソバの花は２",
-          "link": "https://news.yahoo.co.jp/articles/4a80607543907431ba012eb9a5ef50b355ef69cc?source=rss",
-          "publishedOn": "2024-09-17T12:31:50.000Z",
-          "wordCount": 1605,
-          "title": "白くかれんな「ソバの花」見頃　かやぶきの里に秋の訪れ　京都・南丹市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240917-00047716-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b908e524a54d8378aebd1a30af9198788a41b832?source=rss",
-          "author": null,
-          "description": "京都府亀岡市千代川町にある農家の倉庫から、米１５０キロが盗まれていたことが１７日、分かりました。\n　京都府では今月、京丹後市内でも米の窃盗被害があり、警察が警戒を呼びかけています。\n\n　警察によりま",
-          "link": "https://news.yahoo.co.jp/articles/b908e524a54d8378aebd1a30af9198788a41b832?source=rss",
-          "publishedOn": "2024-09-17T12:25:31.000Z",
-          "wordCount": 1631,
-          "title": "京都で“米泥棒”相次ぐ　亀岡で玄米１５０キロ盗まれる被害　先週も京丹後市で新米盗が判明　警察が警戒呼びかけ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240917-00047715-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9697,6 +9667,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2410/17/news080.html",
+          "author": null,
+          "description": "Qorvoは、スマートホームデバイス向けのSoC「QPG6200L」を発表した。単一のホームネットワーク上でシングル／マルチプロトコルのスマートデバイスを同時操作できる「ConcurrentConnect」機能を搭載している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2410/17/news080.html",
+          "publishedOn": "2024-10-17T00:00:00.000Z",
+          "wordCount": 2529,
+          "title": "Matter対応のスマートホームデバイス向けSoC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/17/cover_news080.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2410/15/news014.html",
           "author": null,
           "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初心者から上級者まで幅広い方々からよく質問される「EUサイバーレジリエンス法とは何？」についてです。",
@@ -9993,6 +9973,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=86817",
+          "author": "編集部：平山洸太",
+          "description": "VAIOは、ノートPC「VAIO F16」および「VAIO F14」のムーミンモデルを10月17日から、同社直販のオンラインストア限定で受注開始する。価格はF16が151,800円から、F14が146,800円から（最小構成時／税込）。 ムーミンキャラクターとのコラボ第二弾。本体色とキャラクターの組 […]",
+          "link": "https://gadget.phileweb.com/post-86817/",
+          "publishedOn": "2024-10-17T01:00:00.000Z",
+          "wordCount": 715,
+          "title": "VAIO、ノートPC「F16/F14」のムーミンコラボ第二弾。リトルミイ、ムーミン、スナフキンをレーザー刻印",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/DSC_64121017608a.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=86793",
+          "author": "編集部：松原ひな子",
+          "description": "シャオミ・ジャパンは、シリーズ最大サイズの6.88インチ ディスプレイを搭載したスマートフォン「Redmi 14C」を10月17日に発売する。RAM／内蔵ストレージ容量のラインナップと同社公式オンラインストアでの直販価格は以下の通り。カラーはミッドナイトブラック／セージグリーン／スターリーブルーの3 […]",
+          "link": "https://gadget.phileweb.com/post-86793/",
+          "publishedOn": "2024-10-17T00:00:00.000Z",
+          "wordCount": 729,
+          "title": "シャオミ、6.88インチ画面のエントリースマホ「Redmi 14C」。税込17,980円から",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/11_main-2.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=86797",
           "author": "佐野正弘",
@@ -14507,36 +14507,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122176/",
-          "author": null,
-          "description": "世界累計閲覧数1億9000万ビュー（2024年9月時点）を記録したウェブトゥーン（縦型ウェブコミック）「黒の月: 月の祭壇」のアニメ化プロジェクトが始動した。ティザービジュアルとティザーPVが公...",
-          "link": "https://anime.eiga.com/news/122176/",
-          "publishedOn": "2024-09-17T13:00:00.000Z",
-          "wordCount": 601,
-          "title": "7人組グローバルグループ「ENHYPEN」とコラボした「黒の月: 月の祭壇」アニメ化プロジェクト始動",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122174/",
-          "author": null,
-          "description": "「MEZZO ‐メゾ‐」「ガリレイドンナ」で知られる梅津泰臣が監督を務めるオリジナルアニメーションシリーズ「ヴァージン・パンク」の第1弾「ヴァージン・パンク Clockwork Girl」が、2...",
-          "link": "https://anime.eiga.com/news/122174/",
-          "publishedOn": "2024-09-17T12:00:00.000Z",
-          "wordCount": 610,
-          "title": "梅津泰臣の約10年ぶり監督アニメ「ヴァージン・パンク」25年初夏公開　アニメーション制作はシャフト",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14880,16 +14850,6 @@
           "publishedOn": "2024-09-18T12:22:04.000Z",
           "wordCount": 4395,
           "title": "ィっガヂヶぜはツィろでぇやぬれ",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10725",
-          "author": "watanabe@logipara.com",
-          "description": "こんにちは。10連休まっただなかの男です。ここ数日喋ってません。 　 小田原への小旅行をキメようと、交通経路を検索しておりました。 東海道本線でがんばって行く・特急踊り子で優雅に行く・東海道新幹線で迅速に行く、などいくつ […]",
-          "link": "https://logipara.com/diary-text/2024-09-18/",
-          "publishedOn": "2024-09-17T12:41:59.000Z",
-          "wordCount": 4413,
-          "title": "新幹線とモバイルSuica",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
@@ -15263,6 +15223,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=261616",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「大きなおむすび 千葉県産海苔使用 海苔佃煮」を世界一詳しく調査しました。   公式YouTu […]",
+          "link": "https://foodfighter.jp/711sej-noritsukudani-onigiri",
+          "publishedOn": "2024-10-17T00:18:36.000Z",
+          "wordCount": 1758,
+          "title": "【セブンイレブン】大きなおむすび 千葉県産海苔使用 海苔佃煮【新作コンビニおにぎり】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/b9583eea0e5af74a9ba595038901c60b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=261585",
           "author": "foodfighter",
@@ -21899,26 +21869,6 @@
           "wordCount": 2363,
           "title": "【東京】知人男性に暴行し死亡させたか、建設会社長の男を逮捕…「懲らしめるため３時間にわたって殴った」　新宿",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/8/a8b5be5b-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039690.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/09/17(火) 06:59:17.59 ID:u9poNoSO0●.net\n\n\n\n\n\n\n\n【独自】「報道されているのは事実」ヤマハ発動機・日高祥博社長が取材に応じ“謝罪”　同居する娘（33）に左腕を15cm切られ負傷　静岡・磐田市 #FNNプライムオンライン #テレビ...",
-          "link": "https://itainews.com/archives/2039690.html",
-          "publishedOn": "2024-09-17T12:46:43.000Z",
-          "wordCount": 2516,
-          "title": "フジテレビ、勝手にヤマハ社長自宅に凸し、モザイク無しで周辺環境を放送へ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/9724b5fd-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039701.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2024/09/17(火) 14:35:46.71 ID:OGIGQgiU9.net\n\n\n\n\n\n\n\n『スイートコーン』砕く作業中“機械急停止”→男性作業員がベルトコンベヤーに腕突っ込むと動き始めはさまれる…「右腕骨折」の重傷 警察が動いた原因を捜査―北海道遠軽町#北海道 #遠軽町 #スイ...",
-          "link": "https://itainews.com/archives/2039701.html",
-          "publishedOn": "2024-09-17T12:01:36.000Z",
-          "wordCount": 2513,
-          "title": "【北海道】『スイートコーン』砕く作業中“機械急停止”→男性作業員がベルトコンベヤーに腕突っ込むと動き始めはさまれる… 遠軽町",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/8/782655af-s.png"
         }
       ]
     },
@@ -21927,6 +21877,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=82753",
+          "author": "299",
+          "description": "茶トラさんがクロを枕にして気持ちよさそうに寝ています。 くろは茶トラがどっかりと自分の体の上に乗っているというのに呑気に毛づくろいをしているという余裕っぷりです。くろの柔らかでモフモフなお腹は最高の枕になっているようです...\nくろを枕にして極上のお昼寝タイム！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/82753",
+          "publishedOn": "2024-10-17T00:00:00.000Z",
+          "wordCount": 1324,
+          "title": "くろを枕にして極上のお昼寝タイム！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/82753.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=82716",
           "author": "299",
@@ -25466,16 +25426,6 @@
           "wordCount": 1344,
           "title": "猫島のフレンドリーすぎるにゃんこさん",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/80801.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=80786",
-          "author": "299",
-          "description": "黒いスツールの上に子猫のゆきちゃんとぴよちゃんがお座りして、甲高い声で鳴いています。 どうやらお腹ぺこぺこの2匹は、少しでも飼い主さんの顔に近い場所からごはんの要求をしようということのようです。 特に積極的に鳴いてごはん...\nおにゃか空いた〜待ちきれず大騒ぎな子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/80786",
-          "publishedOn": "2024-09-17T13:00:28.000Z",
-          "wordCount": 1345,
-          "title": "おにゃか空いた〜待ちきれず大騒ぎな子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/80786.jpg"
         }
       ]
     },
