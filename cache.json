@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/484/G048450/20241017070/",
+          "author": null,
+          "description": "「オーバーウォッチ2」と「僕のヒーローアカデミア」のコラボレーションが，いよいよ開幕する。コラボ開催期間は2024年10月18日から31日（日本時間）まで。今回のコラボスキンの制作を担当したDionRogers氏に合同オンラインインタビューが行われたので，その内容をお伝えする。",
+          "link": "https://www.4gamer.net/games/484/G048450/20241017070/",
+          "publishedOn": "2024-10-17T12:00:00.000Z",
+          "wordCount": 7670,
+          "title": "「オーバーウォッチ 2」×「僕のヒーローアカデミア」のコラボレーションが10月18日開幕。コラボスキン制作のキーマンにインタビュー",
+          "imageUrl": "https://www.4gamer.net/games/484/G048450/20241017070/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/172/G017216/20241017069/",
           "author": null,
           "description": "DigitalExtremesは本日（2024年10月17日），オンラインアクションRPG「Warframe」に今冬実装予定の大型アップデート「Warframe:1999」の一部を体験できる，ゲーム内デモを無料公開した。また，デモの公開に合わせて，その内容を紹介するリリーストレイラーが公開されている。",
@@ -3724,16 +3734,6 @@
           "wordCount": 6880,
           "title": "「エンダーマグノリア: ブルームインザミスト」，TGS 2024にプレイアブル出展。「エンダーリリーズ」のアートを用いたノベルティも用意",
           "imageUrl": "https://www.4gamer.net/games/778/G077857/20240917025/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/836/G083637/20240909021/",
-          "author": null,
-          "description": "バンダイナムコエンターテインメントは本日，「FREEDOMWARSRemastered」を2025年1月9日に発売すると発表した。2014年に発売されたオリジナル版から10年を経て現行機向けに復活した本作は，ディストピア的な設定やスピーディなバトルといった特徴をそのままに，現行機向けにより遊びやすいものとなっていた。",
-          "link": "https://www.4gamer.net/games/836/G083637/20240909021/",
-          "publishedOn": "2024-09-18T00:00:00.000Z",
-          "wordCount": 6966,
-          "title": "［プレイレポ］「FREEDOM WARS」がリマスター版として復活。100万年の懲役を課せられるディストピアな世界と，「荊」を駆使したアクションは今もなお新鮮だった",
-          "imageUrl": "https://www.4gamer.net/games/836/G083637/20240909021/SS/015.jpg"
         }
       ]
     },
@@ -10355,16 +10355,6 @@
           "wordCount": 1700,
           "title": "PR: ツール導入で終わらせない　国内外でデータ人材育成に挑む東洋エンジニアリング",
           "imageUrl": "https://image.itmedia.co.jp/mn/articles/2409/13/cover_news004.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2409/18/news060.html",
-          "author": null,
-          "description": "旭化成エレクトロニクスの子会社であるセンスエアは、強燃性冷媒R290用ガスセンサー「Sunlight R290」を開発した。非分散赤外線技術を採用し、ほとんど熱を発生させないため、高い安全性を保ちながら運用できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2409/18/news060.html",
-          "publishedOn": "2024-09-18T00:00:00.000Z",
-          "wordCount": 2507,
-          "title": "ほぼ熱を発生させない強燃性冷媒R290用ガスセンサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/18/cover_news060.jpg"
         }
       ]
     },
@@ -11972,16 +11962,6 @@
           "wordCount": 787,
           "title": "iPhone 16 Pro、初動の売れ行きが15 Proより低下？代わりにPlusが好調か",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/Apple-Event-—-9月10日（日本時間）-42-5-screenshot.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=84823",
-          "author": "編集部：成藤正宣",
-          "description": "Amazonは、メッシュWi-Fiデバイスブランド“eero（イーロ）” の国内展開を開始。メッシュWi-Fiシステム（ルーター）3モデルを本日9月18日より順次販売開始する。ラインナップおよび税込価格は以下のとおり。 eeroは2014年に創業し、2019年にAmazonが買収、子会社化したメッシ […]",
-          "link": "https://gadget.phileweb.com/post-84823/",
-          "publishedOn": "2024-09-18T00:00:00.000Z",
-          "wordCount": 757,
-          "title": "Amazon、メッシュWi-Fiデバイス「eero」国内導入。Wi-Fi 7/6E/6対応のルーター3モデル",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/eero_3.jpg"
         }
       ]
     },
@@ -12163,6 +12143,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122324/",
+          "author": null,
+          "description": "大ヒットディズニー映画の続編「モアナと伝説の海2」の日本版予告編（https://youtu.be/ldy9F2eaDmI）とポスターが公開された。映像では、モアナが歌い、物語の鍵を握る新曲「ビ...",
+          "link": "https://anime.eiga.com/news/122324/",
+          "publishedOn": "2024-10-17T12:00:00.000Z",
+          "wordCount": 679,
+          "title": "ディズニーヒロインが歌う新たな名曲　「モアナと伝説の海2」予告編で新曲初披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122347/",
           "author": null,
@@ -17155,6 +17150,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040706.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん必死だな：2024/10/16(水) 23:39:34.54 ID:fkgXXADe0.net\n\n\n\n\n\n\n\nユービーアイソフト、フランスにて700人以上の従業員がストライキ。週3日のオフィス勤務復帰に反発https://t.co/B8H66acm38— ⚡Game*Spark⚡ (@gamespark) October 16, 2024  \n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2040706.html",
+          "publishedOn": "2024-10-17T12:01:25.000Z",
+          "wordCount": 2616,
+          "title": "【悲報】UBIソフト、フランスにて700人以上の従業員がストライキ。週3日のオフィス勤務復帰に反発",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/4/c47c63b3-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040723.html",
           "author": "damono3856",
@@ -26081,16 +26086,6 @@
           "wordCount": 1354,
           "title": "赤ちゃん猫をギュっとハグする母猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/80826.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=80851",
-          "author": "299",
-          "description": "今回ご紹介するのは置いてきぼりをくらってしまう子猫ちゃんです。 寂しそうに一人ベッドで佇んでいる姿が可愛らしいのでご覧ください。 最初は子猫ちゃんがベッドの耳に興味津々な様子が映し出されます。 身体が小さい為、耳までたど...\n母猫に置いて行かれ、寂しがる子猫が可愛い first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/80851",
-          "publishedOn": "2024-09-18T00:00:04.000Z",
-          "wordCount": 1358,
-          "title": "母猫に置いて行かれ、寂しがる子猫が可愛い",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/80851.jpg"
         }
       ]
     },
