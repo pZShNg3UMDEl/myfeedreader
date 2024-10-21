@@ -3483,6 +3483,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/c71eeb313ff32c76a5cc729270e0f5eff4356e22?source=rss",
+          "author": null,
+          "description": "東大阪市内の施設で１０代の女性のスカート内を盗撮したとして、和歌山県の支援学校の職員の男が逮捕されました。\n\n　逮捕された松場正洋容疑者（５７）は、２０日、東大阪市内の施設で立っている１０代の女性の",
+          "link": "https://news.yahoo.co.jp/articles/c71eeb313ff32c76a5cc729270e0f5eff4356e22?source=rss",
+          "publishedOn": "2024-10-21T08:25:09.000Z",
+          "wordCount": 1720,
+          "title": "支援学校職員の男が１０代女性のスカート内盗撮で逮捕　東大阪(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00048146-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/84b07a49e3ec0d5c6763f3b09596761f53c9d903?source=rss",
           "author": null,
           "description": "２１日午後、大阪府寝屋川市の２階建ての長屋で火事があり、住人とみられる１人と連絡が取れていないということです。\n\n　２１日午後０時２０分ごろ、寝屋川市池田３丁目で「住宅から煙と火が出ている」と消防に",
@@ -7630,6 +7640,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cx2yw2ejvy8o#0",
+          "author": null,
+          "description": "イギリスのチャールズ国王は21日、訪問中のオーストラリアの国会議事堂で演説をした。話し終えた直後、「あなたは私の国王ではない」という大声が、その場にいた上院議員（無所属）から上がった。議員は警備スタッフによって会場外に退出させられた。",
+          "link": "https://www.bbc.com/japanese/articles/cx2yw2ejvy8o",
+          "publishedOn": "2024-10-21T08:32:52.000Z",
+          "wordCount": 1521,
+          "title": "英国王に「私の国王ではない」と豪議員が叫ぶ　豪国会議事堂での式典中",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/65f5/live/c10ca0a0-8f84-11ef-b3c2-754b6219680e.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cvgx22nqlzqo#0",
           "author": null,
           "description": "11月5日のアメリカ大統領選まで2週間あまりと迫り、共和党のドナルド・トランプ候補と民主党のカマラ・ハリス候補は接戦を続けている。",
@@ -11553,6 +11573,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122396/",
+          "author": null,
+          "description": "ライトノベル「ブレイド＆バスタード」のアニメ化が決定し、ティザービジュアルとティザーPVが公開された。 同作は、「ゴブリンスレイヤー」の蝸牛くも氏と「オーバーロード」のso-bin氏（原作イラス...",
+          "link": "https://anime.eiga.com/news/122396/",
+          "publishedOn": "2024-10-21T08:30:00.000Z",
+          "wordCount": 785,
+          "title": "名作RPG「ウィザードリィ」の世界観で描かれる迷宮冒険譚「ブレイド＆バスタード」アニメ化決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122386/",
           "author": null,
