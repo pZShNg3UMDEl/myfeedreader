@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T16:55:26.811Z</updated>
+    <updated>2024-10-21T17:15:03.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLVS-EC IF Standard v3 released]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/10/slvs-ec-if-standard-v3-released.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/10/slvs-ec-if-standard-v3-released.html"/>
+        <updated>2024-10-21T17:07:00.001Z</updated>
+        <summary type="html"><![CDATA[Link: http://jiia.org/en/slvs-ec-if-standard-version-3-0-has-been-released/
+Embedded Vision I/F WG has released "SLVS-EC IF Standard Version 3.0”.
+Version 3.0 supports up to 10Gbps/lane, which is 2x faster than Version 2.0, and improved data transmission efficiency.
+Link: https://www.m-pression.com/solutions/hardware/slvs-ec-rx-30-ip
+
+
+SLVS-EC v3.0 Rx IP is an interface IP core that runs on Altera® FPGAs. Using this IP, you can quickly and easily implement products that support the latest SLVS-EC standard v3.0. You will also receive an "Evaluation kit" for early adoption.
+
+
+ Altera® FPGAs can receive signals directly from the SLVS-EC Interface.
+ Compatible with the latest SLVS-EC Specification Version 3.0.
+ Supports powerful De-Skew function. Enables board design without considering Skew that occurs between lanes.
+ "Evaluation kit”(see below) is available for speedy evaluation at the actual device level.
+
+ About SLVS-EC:
+SLVS-EC (Scalable Low Voltage Signaling with Embedded Clock) is an interface standard for high-speed & high-resolution image sensors developed by Sony Semiconductor Solutions Corporation. The SLVS-EC standard is standardized by JIIA (Japan Industrial Imaging Association).]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お腹のブラッシングは最高にゃ〜]]></title>
         <id>https://2-9-9.com/?p=83088</id>
@@ -32675,29 +32700,6 @@ JR四国「運転士不足」で減便へ！ 経営危機「年収300万じゃ�
 袖にすっぽり入ってしまう猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[従業員が嘔吐するほど臭い…ゲームセンターが「悪臭客」に苦悩、出禁にするのは差別なのか？]]></title>
-        <id>https://itainews.com/archives/2039850.html</id>
-        <link href="https://itainews.com/archives/2039850.html"/>
-        <updated>2024-09-22T05:03:25.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：少考さん ★：2024/09/21(土) 14:43:44.43 ID:xsft6Onq9.net
-
-
-
-
-
-
-
-従業員が嘔吐するほど臭い…ゲームセンターが「悪臭客」に苦悩、出禁にするのは差別なのか？ https://t.co/uBPylHddkb— 弁護士ドットコムニュース (@bengo4topics) September 21, 2024  
-
-
-
-
-...]]></summary>
-        <author>
-            <name>damono3856</name>
         </author>
     </entry>
 </feed>

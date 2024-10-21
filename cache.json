@@ -11531,6 +11531,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/10/slvs-ec-if-standard-v3-released.html",
+          "author": null,
+          "description": "Link: http://jiia.org/en/slvs-ec-if-standard-version-3-0-has-been-released/\nEmbedded Vision I/F WG has released \"SLVS-EC IF Standard Version 3.0”.\nVersion 3.0 supports up to 10Gbps/lane, which is 2x faster than Version 2.0, and improved data transmission efficiency.\nLink: https://www.m-pression.com/solutions/hardware/slvs-ec-rx-30-ip\n\n\nSLVS-EC v3.0 Rx IP is an interface IP core that runs on Altera® FPGAs. Using this IP, you can quickly and easily implement products that support the latest SLVS-EC standard v3.0. You will also receive an \"Evaluation kit\" for early adoption.\n\n\n Altera® FPGAs can receive signals directly from the SLVS-EC Interface.\n Compatible with the latest SLVS-EC Specification Version 3.0.\n Supports powerful De-Skew function. Enables board design without considering Skew that occurs between lanes.\n \"Evaluation kit”(see below) is available for speedy evaluation at the actual device level.\n\n About SLVS-EC:\nSLVS-EC (Scalable Low Voltage Signaling with Embedded Clock) is an interface standard for high-speed & high-resolution image sensors developed by Sony Semiconductor Solutions Corporation. The SLVS-EC standard is standardized by JIIA (Japan Industrial Imaging Association).",
+          "link": "http://image-sensors-world.blogspot.com/2024/10/slvs-ec-if-standard-v3-released.html",
+          "publishedOn": "2024-10-21T17:07:00.001Z",
+          "wordCount": 3877,
+          "title": "SLVS-EC IF Standard v3 released",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sO7arLYcXOk8qWfFC0FEb32UI0wQalj6udxJzMgCLFzuxmlwNsnFU5sN6y8mrIZmx2dyFwhKYvFYuZfgU0NGpLVRJoe_CrsE67Dfl5BHd-9FZ-RIHEMfJrCXova0ubAK0iKyADEydDr3IwovyrOZsmS1h8ZhSSKihS00F6=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/10/emberion-50-euro-cqd-swir-imager.html",
           "author": null,
           "description": "From: https://invision-news.de/allgemein/extrem-kostenguenstiger-swir-sensor/ \n\nEmberion is introducing an extremely cost-effective SWIR sensor that covers a range from 400 to 2,000 nm and whose manufacturing costs for large quantities are less than €50. The sensors are smaller and lighter, which expands the application possibilities of this technology in a wide range of applications. They combine Emberion's existing patented Quantom Dot technology with the patented wafer-level packaging.\nPress release from Emberion: https://www.emberion.com/emberion-oy-introduces-groundbreaking-ultra-low-cost-swir-sensor/\nThe unique SWIR image sensor’s manufacturing cost is less than 50€ in large volume production.\nEspoo, Finland — 1.10.2024 — The current cost level of SWIR imaging technology seriously li…",
@@ -22229,16 +22239,6 @@
           "wordCount": 2439,
           "title": "中国、男児刺殺で言論統制　報道禁止に加えて反日アカウントをBAN",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/abd9d9fd-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039850.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2024/09/21(土) 14:43:44.43 ID:xsft6Onq9.net\n\n\n\n\n\n\n\n従業員が嘔吐するほど臭い…ゲームセンターが「悪臭客」に苦悩、出禁にするのは差別なのか？ https://t.co/uBPylHddkb— 弁護士ドットコムニュース (@bengo4topics) September 21, 2024  \n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2039850.html",
-          "publishedOn": "2024-09-22T05:03:25.000Z",
-          "wordCount": 2482,
-          "title": "従業員が嘔吐するほど臭い…ゲームセンターが「悪臭客」に苦悩、出禁にするのは差別なのか？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/3/b3c7cd4e-s.png"
         }
       ]
     },
