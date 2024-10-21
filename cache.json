@@ -3383,6 +3383,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/314588accd04418887eb01cee464cfa5b3842df7?source=rss",
+          "author": null,
+          "description": "２１日朝、大阪府高石市の国道でスクールバスにトラックが衝突する事故がありました。バスに乗っていた３人とトラックの運転手の合わせて４人がけがをしました。\n\n　２１日午前８時４０分ごろ、高石市西取石５丁",
+          "link": "https://news.yahoo.co.jp/articles/314588accd04418887eb01cee464cfa5b3842df7?source=rss",
+          "publishedOn": "2024-10-21T01:16:11.000Z",
+          "wordCount": 1712,
+          "title": "【速報】支援学校のスクールバスにトラックが衝突　バスに乗っていた女子中学生を含む４人がけが　大阪・高石市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00048136-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/02c3850d147c64bc88a81e0dcbc94f5bdf87437f?source=rss",
           "author": null,
           "description": "徳島市の繁華街で歩行者を車ではね、重傷を負わせて逃げた疑いで、徳島県警は20日、22歳の男を逮捕しました。\n\n逮捕されたのは、神奈川県川崎市の職業不詳、小林龍馬容疑者（22）です。\n\n警察によりますと",
@@ -9318,16 +9328,6 @@
           "wordCount": 1626,
           "title": "スリランカ大統領選、左派リーダーが勝利　国内政治の大転換",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/6504/live/1b0dd290-7950-11ef-8c1a-df523ba43a9a.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c9qvjeel7z9o#0",
-          "author": null,
-          "description": "日本の気象庁は21日午前、石川県の輪島市、珠洲市、能登町に大雨特別警報を発表した。「これまでに経験したことのないような大雨」になっているとした。",
-          "link": "https://www.bbc.com/japanese/articles/c9qvjeel7z9o",
-          "publishedOn": "2024-09-21T12:11:56.000Z",
-          "wordCount": 1534,
-          "title": "石川県に大雨特別警報　1人死亡、不明者多数",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/26c3/live/287caf70-780e-11ef-b282-4535eb84fe4b.jpg"
         }
       ]
     },
@@ -9336,6 +9336,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2410/21/news051.html",
+          "author": null,
+          "description": "日清紡マイクロデバイスは、5G基地局に適した吸収型SPDTスイッチ「NT1819」のサンプル配布を開始した。sub-6帯域で、60dB以上の高アイソレーションを達成している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2410/21/news051.html",
+          "publishedOn": "2024-10-21T00:00:00.000Z",
+          "wordCount": 2525,
+          "title": "5G基地局向け吸収型SPDTスイッチ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/21/cover_news051.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2410/18/news070.html",
           "author": null,
@@ -14086,36 +14096,6 @@
           "publishedOn": "2024-09-22T03:00:00.000Z",
           "wordCount": 671,
           "title": "孤独のグルメ特別編「それぞれの孤独のグルメ」10月4日放送スタート　井之頭五郎＆ゲスト主人公が自由気ままに腹を満たす",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122161/",
-          "author": null,
-          "description": "水木しげる生誕100周年記念作品として、初めて語られる鬼太郎の父たちの物語を描き、昨年大ヒットした映画「鬼太郎誕生 ゲゲゲの謎」より327カットのリテイクと音の再ダビングをし、10月4日から再上...",
-          "link": "https://anime.eiga.com/news/122161/",
-          "publishedOn": "2024-09-21T13:00:00.000Z",
-          "wordCount": 772,
-          "title": "「鬼太郎誕生 ゲゲゲの謎 真生版」鬼太郎の父、水木らを映した新場面写真9点一挙公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122181/",
-          "author": null,
-          "description": "テレビアニメ「この素晴らしい世界に祝福を！3」の新作OVAが制作中であることが、9月15日開催のイベント「この素晴らしいラジオに祝福を！公開録音スペシャル」内で発表された。 アニメ「この素晴らし...",
-          "link": "https://anime.eiga.com/news/122181/",
-          "publishedOn": "2024-09-21T12:00:00.000Z",
-          "wordCount": 729,
-          "title": "「この素晴らしい世界に祝福を！3」新作OVAが制作中",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -21554,36 +21534,6 @@
           "wordCount": 2403,
           "title": "【悲報】60歳男、スーパーで四つん這いになりながら女性の背後に忍び寄り、スカート内を覗く",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/e/bed84552-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039831.html",
-          "author": "dqnplus",
-          "description": "1 ：Hitzeschleier ★：2024/09/21(土) 13:27:32.66 ID:J7PHSMWx9.net\n\n\n\n\n\n\n\n\n\n\nオオタニサンの50－50になぞらえて、神輿自身の当選確率は50:50と、バカなん？小泉進次郎元環境相、自身の当選確率は大谷翔平の偉業になぞらえ「５０―５０」　２７日自民党総裁選投開票(...",
-          "link": "https://itainews.com/archives/2039831.html",
-          "publishedOn": "2024-09-21T13:01:24.000Z",
-          "wordCount": 2440,
-          "title": "【総裁選】小泉進次郎元環境相、自身の当選確率は「５０―５０」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/4/14ec0ecb-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039822.html",
-          "author": "damono3856",
-          "description": "1 名前：牛乳トースト ★：2024/09/20(金) 18:36:23.22 ID:EVvyXs359.net\n\n\n\n\n\n\n\n東京・歌舞伎町のホテルで若い男女が死亡　転落か　同じホテルで今月2回目https://t.co/DRicvqR0ay— しろざわ♂ (@KemuriJpapan) September 20, 2024  \n\n\n\n\n\n\n20日午前3時45分ごろ、東京...",
-          "link": "https://itainews.com/archives/2039822.html",
-          "publishedOn": "2024-09-21T12:46:24.000Z",
-          "wordCount": 2388,
-          "title": "【東京】歌舞伎町のホテルで若い男女が死亡　転落か　同じホテルで今月2回目",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46491905-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039829.html",
-          "author": "damono3856",
-          "description": "1 名前：PARADISE ★：2024/09/20(金) 11:48:46.24 ID:rLEHhyFf9.net\n\n\n\n\n\n\n\n8階から路上のゴミ拾いの男性に瓶投げたか　殺人未遂容疑で男逮捕　大阪・松原市▼詳しくは画像をタッチ https://t.co/yM3BMAji9T— テレ朝news (@tv_asahi_news) September 16, 2024  \n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2039829.html",
-          "publishedOn": "2024-09-21T12:02:16.000Z",
-          "wordCount": 2456,
-          "title": "【大阪】8階から路上のゴミ拾いの男性にビン投げたか　殺人未遂容疑で男逮捕　松原市",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/9/79ab9cff-s.png"
         }
       ]
     },
@@ -21592,6 +21542,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=83023",
+          "author": "299",
+          "description": "洗面シンクの淵にお行儀よくお座りをしている猫さんが飼い主さんのことを熱い眼差しでじーっと見つめています。 すると飼い主さんがタオルを濡らして猫さんの顔を拭いてあげます。顔を拭いてもらうのをおとなしく待っていたんですね。な...\n猫さんが飼い主さんに愛情を示すとき first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/83023",
+          "publishedOn": "2024-10-21T00:00:33.000Z",
+          "wordCount": 1343,
+          "title": "猫さんが飼い主さんに愛情を示すとき",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83023.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=82995",
           "author": "299",
@@ -25151,16 +25111,6 @@
           "wordCount": 1344,
           "title": "猫さんの顔のマッサージで、うっとり顔いただきました〜",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81050.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=81037",
-          "author": "299",
-          "description": "保護された赤ちゃん猫が元気いっぱいです。しっかり鳴き声もあげていますしフクフクと太っているので健康に育ってくれていることがわかります。 離乳食もちょうど始まったころのようで、お皿から上手にウェットフードを食べています。 ...\n保護猫子猫たちの1日 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/81037",
-          "publishedOn": "2024-09-21T13:00:32.000Z",
-          "wordCount": 1346,
-          "title": "保護猫子猫たちの1日",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81037.jpg"
         }
       ]
     },
