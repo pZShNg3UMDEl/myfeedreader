@@ -3594,16 +3594,6 @@
           "wordCount": 2485,
           "title": "ネオロマンスシリーズ30周年！　いつまでも色あせない女性向け恋愛SLGの金字塔「アンジェリーク」の歴史と魅力を振り返る",
           "imageUrl": "https://www.4gamer.net/games/520/G052080/20240917030/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/622/G062286/20240922001/",
-          "author": null,
-          "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，NCSOFTが開発し，AmazonGamesが日本向けにパブリッシングを担当するMMORPG「スローン・アンド・リバティ」の早期アクセスがスタートし，「英雄伝説軌跡」シリーズの最新作がリリースされる。",
-          "link": "https://www.4gamer.net/games/622/G062286/20240922001/",
-          "publishedOn": "2024-09-22T23:00:00.000Z",
-          "wordCount": 8308,
-          "title": "【今週のモチベ】新作MMORPG「スローン・アンド・リバティ」の早期アクセスが始まり，「英雄伝説」の新作が発売される 2024年9月23日〜9月30日",
-          "imageUrl": "https://www.4gamer.net/games/622/G062286/20240922001/SS/016.jpg"
         }
       ]
     },
@@ -7880,6 +7870,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c70z019kr5ro#0",
+          "author": null,
+          "description": "2017年公開の映画「ブレードランナー 2049」の製作会社は21日、許可なく同作品のイメージを使用したとして、米電気自動車（EV）大手テスラとその所有者のイーロン・マスク氏、米映画配給大手ワーナー・ブラザースを提訴した。",
+          "link": "https://www.bbc.com/japanese/articles/c70z019kr5ro",
+          "publishedOn": "2024-10-22T10:48:21.000Z",
+          "wordCount": 1551,
+          "title": "「ブレードランナー」続編製作会社、米テスラやマスク氏など提訴　イメージを不正流用と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/3bc6/live/d42fdb90-9059-11ef-b3c2-754b6219680e.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c3wpw79190xo#0",
           "author": null,
           "description": "ガザ北部ジャバリアの避難民キャンプで21日、民間人が大勢避難していた国連運営の学校がイスラエルに空爆された。パレスチナのメディアによると、少なくとも10人が死亡した。イスラエルの側ではこの日は国民の祝日で、大勢が高台から黒煙の立ち上るガザを眺めていた。再入植への希望を語る人たちの集会もあった。BBCのジェレミー・ボウエン国際編集長が、イスラエル南部から報告する。",
@@ -10204,6 +10204,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=87108",
+          "author": "編集部：平山洸太",
+          "description": "ASUS JAPANは、ROGブランドのゲーミングキーボードおよびゲーミングマウス5機種を発表。10月25日から順次発売する。具体的なラインナップおよび発売日は以下の通り。なお価格については後日発表予定。 【キーボード】・「ROG Azoth Extreme」11月予定・「ROG Falchion  […]",
+          "link": "https://gadget.phileweb.com/post-87108/",
+          "publishedOn": "2024-10-22T11:10:55.000Z",
+          "wordCount": 836,
+          "title": "ASUS、ラピッドトリガー対応キーボード／カーボン製マウスなど「ROG」のゲーミングギア一挙発表",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/asus_thumb.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=87080",
           "author": "Munenori Taniguchi",
           "description": "映画『ブレードランナー 2049』で知られる米国の映画制作会社Alcon Entertainment（アルコン・エンターテインメント）が、数週間前にロボタクシー発表イベントを開催したテスラとその会場を提供したワーナー・ブラザース・ディスカバリーを提訴した。 テスラのロボタクシー（サイバーキャブ）発表 […]",
@@ -11983,6 +11993,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122408/",
+          "author": null,
+          "description": "第23回文化庁メディア芸術祭マンガ部門新人賞、第24回手塚治虫文化賞短編賞、「このマンガがすごい！2021（宝島社）」オンナ編1位・5位ダブルランクインなどの受賞歴を持つ漫画家・和山やまの作品「...",
+          "link": "https://anime.eiga.com/news/122408/",
+          "publishedOn": "2024-10-22T11:00:00.000Z",
+          "wordCount": 739,
+          "title": "和山やまの漫画「カラオケ行こ！」「夢中さ、きみに。」TVアニメ化　メインキャストの声を収めたティザーPV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/eiga_ranking/122395/",
           "author": null,
@@ -17020,6 +17045,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040861.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/10/22(火) 05:13:12.80 ID:/H5/H6pN0.net\n\n\n\n\n\n\n\n『闇バイト募集』と『正しい求人』を見分ける自信ある？注意すべき4つのポイントを押さえ「捨て駒」への転落防ぐ #SmartNews https://t.co/akrX7GLuVJ— dog侍 (@act1wz) March 5, ...",
+          "link": "https://itainews.com/archives/2040861.html",
+          "publishedOn": "2024-10-22T11:03:37.000Z",
+          "wordCount": 2478,
+          "title": "「闇バイト」と「正しい求人」見分けられた高校生、わずか23%……求人文言巧妙化に注意喚起",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/ff375e05-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040860.html",
           "author": "damono3856",
@@ -22487,6 +22522,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=83065",
+          "author": "299",
+          "description": "子猫がぬいぐるみを枕にして気持ちよさそうに寝ています。 今ではこんなに幸せそうに寝ている子猫ですが、保護された当時は全身がノミだらけで悲惨な状態だったのが想像できません。 横になってぽんぽこりんに膨らんでいるお腹は、たっ...\n可愛い寝姿にキュン！無防備な姿で爆睡する保護猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/83065",
+          "publishedOn": "2024-10-22T11:00:53.000Z",
+          "wordCount": 1341,
+          "title": "可愛い寝姿にキュン！無防備な姿で爆睡する保護猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83065.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=83060",
           "author": "299",
