@@ -3573,6 +3573,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/975811b9dfa9bc4490e9eff609c3eea2a1f749bd?source=rss",
+          "author": null,
+          "description": "22日午前、大阪市住之江区で選挙演説中だった衆議院議員選挙・大阪3区の候補者の男性が、近づいてきた男にペットボトルで殴られるなどの暴行を受けたとみられることが関係者への取材で分かりました。\n\n　関係",
+          "link": "https://news.yahoo.co.jp/articles/975811b9dfa9bc4490e9eff609c3eea2a1f749bd?source=rss",
+          "publishedOn": "2024-10-22T01:09:03.000Z",
+          "wordCount": 1645,
+          "title": "【速報】衆院選・大阪3区の候補者が演説中にペットボトルで殴られたか　その場で容疑者の男は取り押さえられる　大阪・住之江区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/cbcf71462ad8566b1a4a84da2626f0c996b627cb?source=rss",
           "author": null,
           "description": "大阪府大東市の住宅で３人の男性が死亡した火事で、焼け跡からガソリンなどを入れる携行缶が見つかったことが分かりました。\n\n　１８日午前、大阪府大東市中垣内の木造２階建て住宅と付近の住宅が焼ける火事があ",
@@ -7721,16 +7731,6 @@
           "wordCount": 1570,
           "title": "大阪・摂津市長選　新人対決は無所属の元市議が初当選　大阪維新は公認候補擁立出来ず(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240922-00047777-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/232db352be35075257e51a76994df71f80bafe90?source=rss",
-          "author": null,
-          "description": "滋賀県大津市の琵琶湖で２２日、男女２人が乗った水上バイクが行方不明となりました。\n\n２２日午後４時半ごろ、滋賀県大津市北小松の水上バイクを保管するマリーナから「水上バイクが１台帰ってきません」と警察に",
-          "link": "https://news.yahoo.co.jp/articles/232db352be35075257e51a76994df71f80bafe90?source=rss",
-          "publishedOn": "2024-09-22T12:40:34.000Z",
-          "wordCount": 1561,
-          "title": "琵琶湖で男女２人が乗った水上バイクが行方不明に(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240922-00047776-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9656,6 +9656,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2410/22/news073.html",
+          "author": null,
+          "description": "セイコーエプソンは、無線送信機向けRFトランスミッターIC「S1S77100」の量産を開始した。UHF帯の特定周波数に対応している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2410/22/news073.html",
+          "publishedOn": "2024-10-22T00:00:00.000Z",
+          "wordCount": 2521,
+          "title": "無線送信機向けRFトランスミッターIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/22/cover_news073.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2410/21/news051.html",
           "author": null,
@@ -14572,36 +14582,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122155/",
-          "author": null,
-          "description": "テレビアニメ「超電磁マシーン ボルテスV（ファイブ）」を熱狂的な支持を受けているフィリピンで実写化した「ボルテスV レガシー」（10月18日公開）の吹き替えキャストが、このほど発表された。 19...",
-          "link": "https://anime.eiga.com/news/122155/",
-          "publishedOn": "2024-09-22T13:00:00.000Z",
-          "wordCount": 770,
-          "title": "諏訪部順一「ハイネルの吹き替えを演りたい！」→実写版で夢叶う　「ボルテスV レガシー」小林千晃ら吹き替えキャスト発表",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122199/",
-          "author": null,
-          "description": "「ゆるキャン△」のあfろ氏による4コマ漫画をテレビアニメ化する「mono」が2025年に放送されることが決定した。さらに主人公・雨宮さつき役は三川華月に決まり、キャラクタービジュアルとボイス解禁...",
-          "link": "https://anime.eiga.com/news/122199/",
-          "publishedOn": "2024-09-22T12:00:00.000Z",
-          "wordCount": 725,
-          "title": "「ゆるキャン△」原作者の漫画をTVアニメ化する「mono」25年放送開始　主演は三川華月",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14946,16 +14926,6 @@
           "wordCount": 4388,
           "title": "10連休終了",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/09/2024092309400700-827B63FC2D65A77E3CC170C91D6010E1.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=10746",
-          "author": "watanabe@logipara.com",
-          "description": "歯列矯正を初めて、もうそろそろ2ヶ月です。 朝、起きるたびに、「あれ？ちょっと、噛んだときの感覚が変わってる？？」ってなって、歯をガシガシ空噛みしたりしています。たぶん歯に悪い。おすすめできない。(ｶﾞｼｶﾞｼ で、たぶ […]",
-          "link": "https://logipara.com/health/orthodontics/2024-09-23/",
-          "publishedOn": "2024-09-22T13:01:24.000Z",
-          "wordCount": 4388,
-          "title": "歯並び変更中",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -15318,6 +15288,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=262116",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
+          "link": "https://foodfighter.jp/sukiya-onioroshi-gyudon",
+          "publishedOn": "2024-10-22T00:48:59.000Z",
+          "wordCount": 1763,
+          "title": "【すき家】鬼おろしポン酢牛丼【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/938ce75e8d585b3252b064ae695e4376.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=262099",
           "author": "foodfighter",
@@ -22064,26 +22044,6 @@
           "wordCount": 2378,
           "title": "一部のPTA役員、熱意や義務感が暴走し退会しようとする保護者や非加入会員に対し「子どもへの差別」をちらつかせる",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/b/7b06eeb3-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039855.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2024/09/22(日) 02:04:51.94 ID:4Ad25mMY9.net\n\n\n\n\n\n\n\n「身寄りのない高齢者」2050年に448万人　日本総研試算、9人に1人の割合 #産経プラス https://t.co/uuT1ewmx9F— y1986d (@y1986d1) September 21, 2024  \n\n\n\n\n\n\n「身寄りのない高齢者」2050年...",
-          "link": "https://itainews.com/archives/2039855.html",
-          "publishedOn": "2024-09-22T12:44:17.000Z",
-          "wordCount": 2524,
-          "title": "「身寄りのない高齢者」2050年に…9人に1人の割合　日本総研試算",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/c/ace23336-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2039865.html",
-          "author": "damono3856",
-          "description": "1 名前：Hitzeschleier ★：2024/09/22(日) 14:13:03.05 ID:1g5FY0Ub9.net\n\n\n\n\n\n\n\n【速報】佐久市のアニソンイベントで男性切りつけ　４０歳くらいの男を確保　長野県警https://t.co/9c2nldRb07— テレ朝news (@tv_asahi_news) September 22, 2024 \n\n\n\n\n\n\nhttps://x.com/...",
-          "link": "https://itainews.com/archives/2039865.html",
-          "publishedOn": "2024-09-22T12:02:47.000Z",
-          "wordCount": 2587,
-          "title": "【速報】長野・佐久市のアニソンイベントで男性切りつけ　４０歳くらいの男を確保",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/9/3950ebff-s.png"
         }
       ]
     },
@@ -22092,6 +22052,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=83075",
+          "author": "299",
+          "description": "猫のポコ太郎がなんだかソワソワしています。それもそのはず、ママが帰ってくる日なのでした。 ソワソワ落ち着かないのはポコ太郎だけではありません。息子のうま次郎も玄関をうろうろしています。 それから2時間後に、ようやくママが...\nママが久しぶりに帰宅して嬉しさ爆発なポコ太郎 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/83075",
+          "publishedOn": "2024-10-22T00:00:10.000Z",
+          "wordCount": 1340,
+          "title": "ママが久しぶりに帰宅して嬉しさ爆発なポコ太郎",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83075.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=83043",
           "author": "299",
@@ -25651,16 +25621,6 @@
           "wordCount": 1350,
           "title": "娘さんに添い寝する子猫達",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81118.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=81103",
-          "author": "299",
-          "description": "今回ご紹介するのは尻尾を元気よく振りまくっている猫ちゃんです。 元々尻尾が太いからか、その尻尾は迫力満点！ 飼い主さんとじゃれ合いながら、楽しそうにしっぽを振る姿をご覧ください。 椅子にチョコンと座っている猫ちゃん。 こ...\n太いしっぽをぶんぶん振る猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/81103",
-          "publishedOn": "2024-09-22T13:00:38.000Z",
-          "wordCount": 1351,
-          "title": "太いしっぽをぶんぶん振る猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81103.jpg"
         }
       ]
     },
