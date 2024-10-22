@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T06:45:00.027Z</updated>
+    <updated>2024-10-22T06:55:04.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルがベイルート南部の病院を攻撃、子供含む4人死亡とレバノン当局]]></title>
+        <id>https://www.bbc.com/japanese/articles/c74840072wjo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c74840072wjo"/>
+        <updated>2024-10-22T06:45:52.000Z</updated>
+        <summary type="html"><![CDATA[レバノンの保健省は21日、首都ベイルート南部の主要政府病院付近でイスラエル軍の空爆があり、子供1人を含む4人が死亡したと発表した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[衆院選・大阪3区の候補者が演説中にペットボトルで殴られたか　その場で容疑者の男は取り押さえられる]]></title>
         <id>https://itainews.com/archives/2040872.html</id>
