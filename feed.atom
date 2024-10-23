@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T15:50:16.664Z</updated>
+    <updated>2024-10-23T16:21:12.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Image sensor basics]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/10/image-sensor-basics.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/10/image-sensor-basics.html"/>
+        <updated>2024-10-23T15:55:00.002Z</updated>
+        <summary type="html"><![CDATA[These lecture slides by Prof. Yuhao Zhu at U. Rochester are a great first introduction to how an image sensor works. A few selected slides are shown below. For the full slide deck visit: https://www.cs.rochester.edu/courses/572/fall2022/decks/lect10-sensor-basics.pdf]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】ＪＲ神戸線・舞子駅で普通電車が人と接触　大阪から姫路間で上下線ともに運転を見合わせ(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/2348a6146b0241925a25bc397d7464e1bca8c279?source=rss</id>
@@ -33293,17 +33303,6 @@ Rare 𝘔𝘢𝘨𝘯𝘢𝘱𝘪𝘯𝘯𝘢 sighting 🦑While exploring Tonga
         <summary type="html"><![CDATA[大阪府教育委員会は24日、吹奏楽部の部費約23万円を着服するなどしたとして、羽曳野市立中学校の講師を懲戒免職処分にしたと発表しました。ほかに個人情報の漏えいや、生徒に対する不適切発言などで教職員や講]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[だんだん仲良くなっていく子猫と子犬]]></title>
-        <id>https://2-9-9.com/?p=81229</id>
-        <link href="https://2-9-9.com/archives/81229"/>
-        <updated>2024-09-24T04:00:17.000Z</updated>
-        <summary type="html"><![CDATA[今回は子猫ちゃんと子犬が仲良くなっていく様子をご紹介します。 子猫ちゃんの方は子犬を苦手としていたようですが、あっという間に仲良しに。 まるで恋人同士のような仲睦まじさまで見せてくれるようになりました。 それでは仲良くな...
-だんだん仲良くなっていく子猫と子犬 first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
         </author>
     </entry>
 </feed>
