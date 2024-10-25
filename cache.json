@@ -3823,6 +3823,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/9a57de010967c4fb5ad2760241a8bc87d24d9108?source=rss",
+          "author": null,
+          "description": "竜王戦第３局、初日は五分五分の戦局で封じ手を迎えました。\n\n　２５日午前９時に京都の世界遺産・仁和寺で始まった、将棋の第３７期・竜王戦七番勝負の第３局。\n\n　藤井聡太七冠に佐々木勇気八段が挑んでいま",
+          "link": "https://news.yahoo.co.jp/articles/9a57de010967c4fb5ad2760241a8bc87d24d9108?source=rss",
+          "publishedOn": "2024-10-25T12:39:45.000Z",
+          "wordCount": 1673,
+          "title": "将棋・竜王戦　１勝１敗で迎えた第３局　初日はほぼ互角の戦局で封じ手(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241025-00048212-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/3215f6c90fa99dbca95bb933b45fc4b59b6706b9?source=rss",
           "author": null,
           "description": "大阪府河内長野市の住宅で同居する８６歳の父親の遺体を遺棄していたとして、５１歳の長男が逮捕されました。長男は「母親から『通報しなくていい』と言われた」と話しているということです。\n\n　死体遺棄の疑い",
@@ -8071,16 +8081,6 @@
           "wordCount": 1631,
           "title": "【速報】失職して出直し知事選出馬へ　兵庫・斎藤知事　午後3時からの記者会見で表明(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00010001-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f6baf41c659b89f5cf392ec4c208b849908bc435?source=rss",
-          "author": null,
-          "description": "兵庫県は、斎藤元彦県知事が26日午後3時から県庁で記者会見をすると発表しました。\n\n斎藤県知事は、19日の兵庫県議会で自身への不信任決議が可決されていて、進退について決断のときが迫っています。\n辞職か",
-          "link": "https://news.yahoo.co.jp/articles/f6baf41c659b89f5cf392ec4c208b849908bc435?source=rss",
-          "publishedOn": "2024-09-26T00:50:27.000Z",
-          "wordCount": 1689,
-          "title": "【速報】「会見でしっかり自分の思いを伝えたい」　斎藤兵庫県知事　きょう午後3時から記者会見(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00010000-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -12112,16 +12112,6 @@
           "wordCount": 769,
           "title": "安価な「Meta Quest 3S」10/15発売、44800円から。解像度抑え深度センサー省略、他はQuest 3とほぼ同等",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/Introducing-Meta-Quest-3S-0-7-screenshot-1.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=85177",
-          "author": "編集部：平山洸太",
-          "description": "ViXionは、“オートフォーカスアイウェア” の新製品「ViXion01S」を発表。9月26日からKibidangoおよびGREEN FUNDINGにてクラウドファンディングを開始する。実施期間は11月21日まで、発送は2025年5月以降を予定する。プランおよび価格（送料・税込）は以下の通り。 ・ […]",
-          "link": "https://gadget.phileweb.com/post-85177/",
-          "publishedOn": "2024-09-26T01:00:00.000Z",
-          "wordCount": 724,
-          "title": "ViXion、40％軽量化した“オートフォーカス”眼鏡「ViXion01S」。クラウドファンディング開始",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/DSC_56560925366b.jpg"
         }
       ]
     },
@@ -12323,6 +12313,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122398/",
+          "author": null,
+          "description": "藤原竜也が、松山ケンイチ、染谷将太が主演を務める福田雄一監督作「聖☆おにいさん THE MOVIE ホーリーメンVS悪魔軍団」のポスタービジュアル、場面写真、原作者中村光氏からのコメントが公開さ...",
+          "link": "https://anime.eiga.com/news/122398/",
+          "publishedOn": "2024-10-25T13:00:00.000Z",
+          "wordCount": 849,
+          "title": "実写「聖☆おにいさん THE MOVIE」後光が輝く　ご利益満載のポスタービジュアル、場面写真、原作者コメント公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122431/",
           "author": null,
@@ -17330,6 +17335,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040967.html",
+          "author": "dqnplus",
+          "description": "1 名前：七波羅探題 ★ 2024/10/25(金) 08:32:14.15 ID:6jdNP+SL9\n\n\n\n\n\n\n\n\nSNS「そんな写真持ってねえよ…！！」就活生が求められる《あなたらしい写真》の“残酷さ”…　陰キャ学生をふるい落とす「陰キャフィルター」か？ https://t.co/NMXXCCdgzT— LASISA編集部 (@LA...",
+          "link": "https://itainews.com/archives/2040967.html",
+          "publishedOn": "2024-10-25T13:01:30.000Z",
+          "wordCount": 2322,
+          "title": "【就活】「そんな写真ない」あなたらしい写真の残酷さ　陰キャ学生をふるい落とす「陰キャフィルター」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/a/4a6c30b9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040960.html",
           "author": "damono3856",
@@ -22827,6 +22842,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=83230",
+          "author": "299",
+          "description": "暑夏の日ですが、猫たちに会いにいくとみんなが一斉に出てきてくれました。 圧倒的にオレンジ色の茶トラ猫さんたちが多いので、どの子がどの子なのか区別がつきにくいです。 1匹ずつ撫でてあげていると、他の猫たちも、次は僕！次は僕...\n猫を撫でていたらおびただしい数の猫たちが集まってきた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/83230",
+          "publishedOn": "2024-10-25T13:00:53.000Z",
+          "wordCount": 1324,
+          "title": "猫を撫でていたらおびただしい数の猫たちが集まってきた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83230.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=83225",
           "author": "299",
