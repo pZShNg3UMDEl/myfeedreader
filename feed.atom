@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T04:42:52.517Z</updated>
+    <updated>2024-10-25T04:52:57.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Nintendo World Championships ファミコン世界大会」，第10回から第14回までの世界ランキング大会の最速記録を本日公開]]></title>
+        <id>https://www.4gamer.net/games/797/G079768/20241025029/</id>
+        <link href="https://www.4gamer.net/games/797/G079768/20241025029/"/>
+        <updated>2024-10-25T04:49:31.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は本日（2024年10月25日），「NintendoWorldChampionshipsファミコン世界大会」の公式サイトを更新し，「世界ランキング大会」で最速に輝いたプレイをまとめた「世界最速プレイ集」の第10回から第14回大会までを追加した。]]></summary>
+        <author>
+            <name>4Gamer.net − Wii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google PixelのTensorチップ、今後はTSMC製造に？消費電力や発熱の大幅改善に期待]]></title>
         <id>https://gadget.phileweb.com/?p=87375</id>
