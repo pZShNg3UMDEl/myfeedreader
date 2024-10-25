@@ -10455,16 +10455,6 @@
           "wordCount": 2528,
           "title": "直径0.35mmのSPCを採用したUSB4対応防水コネクター",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/27/cover_news096.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2409/26/news075.html",
-          "author": null,
-          "description": "東芝デバイス＆ストレージは、車載向けブラシ付きDCモーター用ゲートドライバー「TB9103FTG」のエンジニアリングサンプルを提供する。回転速度制御不要のブラシ付きDCモーター用ゲートドライバーに必要な機能と性能に特化し、小型化した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2409/26/news075.html",
-          "publishedOn": "2024-09-26T00:00:00.000Z",
-          "wordCount": 2516,
-          "title": "車載向けブラシ付きDCモーター用ゲートドライバー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2409/26/cover_news075.jpg"
         }
       ]
     },
@@ -10473,6 +10463,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=87393",
+          "author": "Gadget Gate",
+          "description": "シャオミ・ジャパンは、渋谷PARCO内で期間限定オープンしている「Xiaomi POP-UP Store」がまもなく閉店することに伴い、10月26日（土）から11月4日（月）まで閉店セールを開催する。 「Xiaomi POP-UP Store」は、2024年5月25日から渋谷PARCO内にオープンし […]",
+          "link": "https://gadget.phileweb.com/post-87393/",
+          "publishedOn": "2024-10-25T11:51:38.000Z",
+          "wordCount": 770,
+          "title": "「Xiaomi POP-UP Store」が11月4日まで閉店セール。スマホやタブレット、ロボット掃除機も対象に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/main-1.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=87400",
           "author": "編集部：平山洸太",
@@ -12122,26 +12122,6 @@
           "wordCount": 724,
           "title": "ViXion、40％軽量化した“オートフォーカス”眼鏡「ViXion01S」。クラウドファンディング開始",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/DSC_56560925366b.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=85264",
-          "author": "編集部：松原ひな子",
-          "description": "シャオミ・ジャパンは、強力な吸引力と薄型設計でスマートな掃除を実現するエントリーモデル「Xiaomiロボット掃除機E10」を、9月26日より順次発売する。税込市場想定価格は17,800円。 E10は、最大4000Paの強力な吸引力による通常の掃除モードに加え、水拭きも同時に行うことができる2-in- […]",
-          "link": "https://gadget.phileweb.com/post-85264/",
-          "publishedOn": "2024-09-26T00:00:00.000Z",
-          "wordCount": 706,
-          "title": "シャオミ、掃除と水拭きを同時に行えるロボット掃除機「E10」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/top_e10.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=85299",
-          "author": "Munenori Taniguchi",
-          "description": "Metaは、水曜日に開催したMeta Connectイベントにて「真のARグラス」と称する、まだ試作段階の製品『Orion』を発表した。 他社のARグラスに比べてもかなりコンパクトに見えるOrionは、マーク・ザッカーバーグCEOによると開発にもう10年もの歳月をかけているという。ただ、10年を経て […]",
-          "link": "https://gadget.phileweb.com/post-85299/",
-          "publishedOn": "2024-09-25T23:52:23.000Z",
-          "wordCount": 715,
-          "title": "Meta、「真のARグラス」うたう『Orion』発表。「脳で操作」可能なプロトタイプ",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/or.jpg"
         }
       ]
     },
@@ -12343,6 +12323,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122431/",
+          "author": null,
+          "description": "VTuberプロジェクト「ぶいすぽっ！」の長編アニメーション企画が始動した。制作を支援する「ぶいすぽっ！ STUDIO MEMBERS」の募集も始まった。 「ぶいすぽっ！」は、eスポーツをはじめ...",
+          "link": "https://anime.eiga.com/news/122431/",
+          "publishedOn": "2024-10-25T12:00:00.000Z",
+          "wordCount": 761,
+          "title": "VTuberプロジェクト「ぶいすぽっ！」長編アニメ企画が始動　CVはVtuber Ver.と声優Ver,の2種を制作",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122425/",
           "author": null,
@@ -15192,21 +15187,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122227/",
-          "author": null,
-          "description": "「ラブライブ！」シリーズ初の実写ドラマ「ラブライブ！スクールアイドルミュージカル the DRAMA」の放送が、11月21日から「MBSドラマフィル」枠内でスタートすることが決定した。 同作では...",
-          "link": "https://anime.eiga.com/news/122227/",
-          "publishedOn": "2024-09-26T00:00:00.000Z",
-          "wordCount": 861,
-          "title": "「ラブライブ！」初の実写ドラマ「スクールアイドルミュージカル the DRAMA」11月21日放送開始　渡邉美穂らアイドル経験者多数出演",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -17350,6 +17330,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2040960.html",
+          "author": "damono3856",
+          "description": "1 名前：＠おっさん友の会 ★：2024/10/25(金) 00:43:55.93 ID:ZussZWgO9.net\n\n\n\n\n\n\n\n親の愛情がなかったから、ああいう風になったのでは？声上げて泣き出す…“頂き女子りりちゃん”裁判中に号泣 母が明かした理由「結局刑務所に入らないといけないと…」 https://t.co/...",
+          "link": "https://itainews.com/archives/2040960.html",
+          "publishedOn": "2024-10-25T12:01:06.000Z",
+          "wordCount": 2643,
+          "title": "\"“頂き女子りりちゃん”こと渡辺真衣被告、上告を望むも弁護士には上告しないほうがいいと言われるが上告",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/8/1802c988-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2040968.html",
           "author": "damono3856",
@@ -26396,16 +26386,6 @@
           "wordCount": 1357,
           "title": "マンチカンのマンションが絶景すぎた！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81344.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=81371",
-          "author": "299",
-          "description": "赤ちゃん猫のキキが寝床の中でひとりぼっちで寝ていました。 するとそこへそーっとやってきたパパ猫のココ。抜き足差し足で、キキを起こさないように注意しながら寝床の中に入ってきました。 キキはぐっすり深い眠りに落ちていてパパ猫...\nパパ猫が愛する我が子のために起こした行動とは？ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/81371",
-          "publishedOn": "2024-09-26T00:00:37.000Z",
-          "wordCount": 1349,
-          "title": "パパ猫が愛する我が子のために起こした行動とは？",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81371.jpg"
         }
       ]
     },
