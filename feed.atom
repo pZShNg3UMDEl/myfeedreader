@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-27T23:16:40.189Z</updated>
+    <updated>2024-10-27T23:36:32.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニュートラムが運転見合わせ　停電の影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/bafb4d0c96d3feab63f43b87b7c695628981df3e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/bafb4d0c96d3feab63f43b87b7c695628981df3e?source=rss"/>
+        <updated>2024-10-27T23:29:39.000Z</updated>
+        <summary type="html"><![CDATA[大阪メトロによりますと、２８日午前８時ごろニュートラムのコスモスクエア駅とトレードセンター前の間で停電が発生しているということです。
+　この影響でコスモスクエア駅と住之江公園駅の間で運転を見合わせて]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本日の更新は諸事情によりお休みします日記]]></title>
         <id>https://logipara.com/?p=10858</id>
