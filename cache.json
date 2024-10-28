@@ -3153,6 +3153,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f1388b137f42c0b18a33bbd268ae8e82f1368dda?source=rss",
+          "author": null,
+          "description": "大阪市平野区の瓜破大橋で、車が歩道柵に接触する事故があり、乗っていた２人が死亡しました。車両は大破し、炎上しました。\n　\n　２９日午前４時前、大阪市平野区の国道３０９号で、通行人の男性から「瓜破大橋",
+          "link": "https://news.yahoo.co.jp/articles/f1388b137f42c0b18a33bbd268ae8e82f1368dda?source=rss",
+          "publishedOn": "2024-10-28T23:23:53.000Z",
+          "wordCount": 1711,
+          "title": "車両は大破・炎上　大阪・平野区の国道で事故２人死亡(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241029-00048288-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/f39067a70fbf2c8c2cfa011f8ef3e3dd0c907f29?source=rss",
           "author": null,
           "description": "２８日午後６時ごろ、兵庫県加古川市の県道で道路を渡っていた６０代の女性が乗用車にはねられ死亡しました。\n事故があったのは、兵庫県加古川市西神吉町の県道で、２８日午後６時ごろ、道路を歩いて渡っていた６０",
@@ -14092,21 +14102,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122252/",
-          "author": null,
-          "description": "テレビアニメ「ぐらんぶる」のSeason2の製作が決定した。2018年のSeason1の放送から6年ぶりの続編となり、主要キャラクターが配されたティザービジュアル、スタッフ＆キャストのお祝いコメ...",
-          "link": "https://anime.eiga.com/news/122252/",
-          "publishedOn": "2024-09-29T11:30:00.000Z",
-          "wordCount": 821,
-          "title": "「ぐらんぶる」6年を経て続編決定、Season2製作へ　内田雄馬らキャスト続投、お祝いコメント発表",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14893,6 +14888,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=262828",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「どーんとおむすび ポークたまご」を世界一詳しく調査しました。   公式YouTubeチャンネ […]",
+          "link": "https://foodfighter.jp/711sej-omusubi-pork-tamago",
+          "publishedOn": "2024-10-28T23:26:19.000Z",
+          "wordCount": 1742,
+          "title": "【セブンイレブン】どーんとおむすび ポークたまご【新作コンビニおにぎり】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/343293e1fc4d105aecd3eb7b6236d2e1.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=262825",
           "author": "foodfighter",
