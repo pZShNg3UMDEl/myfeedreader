@@ -3203,6 +3203,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/8ec349154a2f5c2df05e0e0acb8c818218e79663?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本は１日平均の乗客数が２０００人未満のローカル線の経営状況を発表しました。\n\n　ＪＲ西日本は２９日、コロナ禍前の２０１９年度に１日平均乗客数が２０００人未満だったローカル線１７路線３０区間の",
+          "link": "https://news.yahoo.co.jp/articles/8ec349154a2f5c2df05e0e0acb8c818218e79663?source=rss",
+          "publishedOn": "2024-10-29T10:20:29.000Z",
+          "wordCount": 1722,
+          "title": "ＪＲ西日本、ローカル線の赤字額は年度平均２３３億円　近畿の収支率ワーストは加古川線の西脇市ー谷川(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241029-00048299-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/07de8507090551256d1548b6409e737c9a8c6dee?source=rss",
           "author": null,
           "description": "斎藤前知事の失職に伴う兵庫県知事選（３１日告示、１１月１７日投開票）で、出馬を表明していた中村稔さんと中川暢三さんが２９日、立候補を取りやめると発表しました。\n\n　経産省の元官僚、中村稔さん（６２）",
@@ -7469,6 +7479,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cj9n0rkzp9wo#4",
+          "author": null,
+          "description": "イギリスの裁判所は28日、極右活動家のトミー・ロビンソン（本名スティーヴン・ヤクスリー＝レノン）被告に対し、シリア難民に関する偽の主張を禁じる裁判所命令に違反したとして、法廷侮辱罪で禁錮18カ月の実刑判決を言い渡した。",
+          "link": "https://www.bbc.com/japanese/articles/cj9n0rkzp9wo",
+          "publishedOn": "2024-10-29T10:14:29.000Z",
+          "wordCount": 1520,
+          "title": "英の著名極右活動家に禁錮18カ月、シリア難民に関する虚偽主張めぐり　禁止命令に違反",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/b3f2/live/13cc60d0-95c2-11ef-90df-3f1823a91773.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cvgk61z796wo#3",
           "author": null,
