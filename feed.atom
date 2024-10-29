@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T03:38:16.755Z</updated>
+    <updated>2024-10-29T03:51:13.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル、国連パレスチナ救済機関の国内活動を禁止　ガザでの人道支援に深刻な影響]]></title>
+        <id>https://www.bbc.com/japanese/articles/c0lpg72dy9ro#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c0lpg72dy9ro"/>
+        <updated>2024-10-29T03:36:22.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルの議会は28日、国連パレスチナ難民救済事業機関（UNRWA）のイスラエル国内およびイスラエルが占領する東エルサレムでの活動を3カ月間禁止する法案を可決した。UNRWA職員とイスラエル当局者との連絡も禁止されるため、パレスチナ・ガザ地区やイスラエルが占領するヨルダン川西岸での活動も大きく制限されることになる。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】イベント中の小嶋陽菜さんに抱き着き、押し倒す…外国籍の４０代男を逮捕]]></title>
         <id>https://itainews.com/archives/2041080.html</id>
@@ -32000,16 +32010,6 @@ HD-2D版「ドラクエ3」、すごろく場は復活せず【TGS2024】　 htt
 美味しいご飯の時間が一瞬にして大パニックに！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【天下一品】キムチャ丼定食・麺大盛り（こってりラーメン）【定番メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=259849</id>
-        <link href="https://foodfighter.jp/tenkaippin-kimucha-omori"/>
-        <updated>2024-09-29T15:43:30.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、唯一無二の”こってりラーメン”が大人気の超有名チェーン「天下一品」へ進撃しました。   公 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
