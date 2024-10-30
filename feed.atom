@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T15:50:22.931Z</updated>
+    <updated>2024-10-30T16:20:48.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Space & Scientific CMOS Image Sensors Workshop]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/10/space-scientific-cmos-image-sensors.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/10/space-scientific-cmos-image-sensors.html"/>
+        <updated>2024-10-30T15:51:00.023Z</updated>
+        <summary type="html"><![CDATA[The preliminary program for Space & Scientific CMOS Image Sensors Workshop to be held on 26th & 27th November in Toulouse Labège is available.
+Registration: https://evenium.events/space-and-scientific-cmos-image-sensors-2024/]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新入り子猫が一日中おおはしゃぎ！]]></title>
         <id>https://2-9-9.com/?p=83511</id>
@@ -32158,27 +32169,6 @@ Courtesy: Prof. Tobi Delbruck]]></summary>
         <summary type="html"><![CDATA[イギリスが9 月30日、石炭火力発電を廃止し、142年にわたる石炭への依存に終止符を打った。1967年から稼働してきた国内最後の石炭発電所ラトクリフ・オン・ソア発電所が運転を終了した。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫たちのまったりタイムに付き合わされてなかなか眠れない飼い主]]></title>
-        <id>https://2-9-9.com/?p=81687</id>
-        <link href="https://2-9-9.com/archives/81687"/>
-        <updated>2024-10-01T04:00:40.000Z</updated>
-        <summary type="html"><![CDATA[寝る時間になると自然に飼い主さんのもとに集まってくるレオとララ。毎晩甘えん坊タイムがルーティーンになっています。 寝落ちする前に、しばらくの間はブランケットをフミフミしています。 飼い主さんのそばでリラックスしている猫さ...
-猫たちのまったりタイムに付き合わされてなかなか眠れない飼い主 first appeared on 肉球ドットコム（299.com）.]]></summary>
-        <author>
-            <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ファミマ】いももち 明太チーズ【新作ホットスナック】]]></title>
-        <id>https://foodfighter.jp/?p=260034</id>
-        <link href="https://foodfighter.jp/famima-imomochi-mentai"/>
-        <updated>2024-10-01T03:58:55.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「いももち 明太チーズ」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃 […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
