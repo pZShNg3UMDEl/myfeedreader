@@ -3103,6 +3103,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/25c5a4cededb35c5ccca19a3ef46508cee7a6a52?source=rss",
+          "author": null,
+          "description": "阪急電鉄によりますと、３０日午前９時４４分ごろ京都線の高槻市駅構内で、京都河原町行の特急列車と人が接触したということです。\n\n　この影響で、京都線と千里線の全線で運転を見合わせています。",
+          "link": "https://news.yahoo.co.jp/articles/25c5a4cededb35c5ccca19a3ef46508cee7a6a52?source=rss",
+          "publishedOn": "2024-10-30T01:09:15.000Z",
+          "wordCount": 1691,
+          "title": "阪急京都線と千里線全線で運転見合わせ　高槻市駅構内で人身事故(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241030-00048302-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/7f39198a29cd9fb8641b78c6494924badfe565ab?source=rss",
           "author": null,
           "description": "滋賀県彦根市の国道で３０日朝、高齢とみられる男性とバイクが倒れているのが見つかりました。\n\n　警察はひき逃げ事件とみて捜査しています。\n\n　３０日午前６時ごろ彦根市犬方町の国道８号で、「バイク乗車の",
@@ -7231,16 +7241,6 @@
           "wordCount": 1676,
           "title": "木造２階建て住宅で火災　隣接する住宅にも延焼　奈良市(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240930-00047874-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8f0a33f13b13b4f4b1b0d4014ced9b1482974f4c?source=rss",
-          "author": null,
-          "description": "将棋の王座戦第３局で、永瀬拓矢九段と対局した藤井聡太七冠は終盤の逆転で３連勝を飾り、王座のタイトルを初防衛しました。\n\n　先に３勝した方が制する５番勝負の王座戦。藤井七冠はこれまでの２局で２連勝しタ",
-          "link": "https://news.yahoo.co.jp/articles/8f0a33f13b13b4f4b1b0d4014ced9b1482974f4c?source=rss",
-          "publishedOn": "2024-09-30T12:54:11.000Z",
-          "wordCount": 1681,
-          "title": "藤井聡太七冠　王座のタイトル初防衛　永瀬拓矢九段に終盤で逆転　３連勝を飾る(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240930-00047873-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9317,6 +9317,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2410/30/news093.html",
+          "author": null,
+          "description": "キーサイト・テクノロジーは、光リファレンストランスミッター「N7718C」を発表した。1レーン当たり200Gビット/秒超のデータレートによる光レシーバーのテストや、1レーン当たり400Gビット/秒の伝送技術の研究が可能となる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2410/30/news093.html",
+          "publishedOn": "2024-10-30T00:00:00.000Z",
+          "wordCount": 2516,
+          "title": "次世代データ伝送を検証する光リファレンストランスミッター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/30/cover_news093.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2410/29/news079.html",
           "author": null,
           "description": "ルネサス エレクトロニクスは、通信規格IO-Linkに対応した4チャンネルマスターIC「CCE4511」と、IO-Link対応デュアルブリッジ抵抗センサーシグナルコンディショナーIC「ZSSC3286」を発売した。",
@@ -9603,6 +9613,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=87601",
+          "author": "多根清史",
+          "description": "アップルは29日、M4および新たなM4 Proチップを搭載し、大幅に小型化されたMac miniを発表した。本日より予約受付を開始し、11月8日(金)に発売予定だ。価格は9万4800円(税込）から。 デザインの全面刷新は10年以上ぶりであり、わずか12.7cm四方のコンパクトさとなっている。気になる […]",
+          "link": "https://gadget.phileweb.com/post-87601/",
+          "publishedOn": "2024-10-30T01:00:04.000Z",
+          "wordCount": 781,
+          "title": "新型Mac mini、11月8日発売。M4/M4 Pro搭載・大幅小型化・9万4800円から",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/Apple-Mac-mini-hero_big.jpg.large_.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=87208",
           "author": "安蔵靖志",
@@ -14092,21 +14112,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122260/",
-          "author": null,
-          "description": "テレビアニメ「アオのハコ」が、10月3日から2025年3月までTBS系28局（全国同時）で連続2クール放送されることが決定した。 原作は、三浦糀氏が「週刊少年ジャンプ」（集英社刊）で連載中の青春...",
-          "link": "https://anime.eiga.com/news/122260/",
-          "publishedOn": "2024-09-30T12:00:00.000Z",
-          "wordCount": 689,
-          "title": "青春ラブストーリーアニメ「アオのハコ」10月3日から連続2クールで放送決定",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14883,6 +14888,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=262963",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」へ […]",
+          "link": "https://foodfighter.jp/komeda-shiro-noir-tokyobanana",
+          "publishedOn": "2024-10-29T23:59:09.000Z",
+          "wordCount": 1959,
+          "title": "【コメダ珈琲店】東京ばな奈 シロノワール ミニサイズ【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/46f66c6f40c06804cc4d371e6070ba8b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=262936",
           "author": "foodfighter",
@@ -16282,16 +16297,6 @@
           "wordCount": 1737,
           "title": "【セブンイレブン】セブンプレミアム さつまいもボール【新作冷凍食品】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/09/4b5c31fa1a6a9a86b6225ccddfd5d3fc.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=259959",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、森永製菓の新商品「砕＜MARIE＆ホワイトチョコ＞」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
-          "link": "https://foodfighter.jp/morinaga-kudaki-marie-ice",
-          "publishedOn": "2024-09-30T12:31:35.000Z",
-          "wordCount": 1733,
-          "title": "森永製菓 砕＜MARIE＆ホワイトチョコ＞【新作コンビニアイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/09/4a58aad3e5daa8531107c4bfc8ac5ceb.jpg"
         }
       ]
     },
@@ -21639,26 +21644,6 @@
           "wordCount": 2396,
           "title": "【香川】２０代女性の住居に侵入し口や腕を手で押さえ不同意性交等傷害の疑い…インドネシア国籍の技能実習生の男逮捕",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/9/89a42373-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040130.html",
-          "author": "damono3856",
-          "description": "1 名前：：2024/09/30(月) 06:46:18.51 ID:CHEdIqHm0●.net\n\n\n\n\n\n\n\n中国メディアによると、車載電池メーカー大手「寧徳時代新能源科技（CATL）」が福建省寧徳市内に構える工場で29日、火災が発生しました。SNSには灰色の煙が上がる様子が投稿されており、同社製品の流通...",
-          "link": "https://itainews.com/archives/2040130.html",
-          "publishedOn": "2024-09-30T12:43:56.000Z",
-          "wordCount": 2487,
-          "title": "中国、車載用電池メーカーCATLの工場が燃える",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/1/71826009-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040140.html",
-          "author": "dqnplus",
-          "description": "1 ： ：2024/09/30(月) 12:45:15.24 ID:EjaPR/tV0●.net\n\n\n\n\n\n\n\n\n\n\n「PS5 Pro」30周年エディション、プレステ公式サイトで予約応募開始！ 条件は“過去10年間でPS5またはPS4を30時間以上起動”　 https://t.co/JwAjblOn18 #PS5Pro pic.twitter.com/D3k4R9gSpY— GAME Wat...",
-          "link": "https://itainews.com/archives/2040140.html",
-          "publishedOn": "2024-09-30T12:01:12.000Z",
-          "wordCount": 2590,
-          "title": "【朗報】PS5 Pro、転売ヤー対策で過去10年間で30時間以上プレイした人のみの制限を付ける",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/4/44be6976-s.png"
         }
       ]
     },
@@ -21667,6 +21652,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=83503",
+          "author": "299",
+          "description": "大きなゴールデンレトリバーがベッドの上に寝そべっていますが、その巨大な顔の横にちょこんと座っている子猫は、まるで豆粒のように見えます。 こんなに大きなワンコさんのそばにいても、怖気付いたりする様子もなく子猫はひたすらワン...\n大型犬と一緒に遊んでもらいたくてアピールする子猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/83503",
+          "publishedOn": "2024-10-30T00:00:49.000Z",
+          "wordCount": 1330,
+          "title": "大型犬と一緒に遊んでもらいたくてアピールする子猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83503.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=83474",
           "author": "299",
@@ -25226,16 +25221,6 @@
           "wordCount": 1346,
           "title": "ごはんが出てくるまで大合唱をやめない子猫ズ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81651.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=81638",
-          "author": "299",
-          "description": "今回ご紹介するのは子犬と猫ちゃん達の初対面シーンです。 何かいるニャ？と子犬を興味深そうに見つめる姿が可愛らしいのでご覧ください。 新たに家族として迎えることになった子犬のナナちゃん。 まだお家へ来たばかりですし、ケージ...\n初めて会う犬を興味深そうに見つめる猫達 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/81638",
-          "publishedOn": "2024-09-30T13:00:16.000Z",
-          "wordCount": 1364,
-          "title": "初めて会う犬を興味深そうに見つめる猫達",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/09/81638.jpg"
         }
       ]
     },
