@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T03:30:28.394Z</updated>
+    <updated>2024-11-01T03:53:40.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハローキティ誕生50周年、日本最年少の上場企業社長が挑んだ変革]]></title>
+        <id>https://www.bbc.com/japanese/articles/czj7ee9g1p1o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/czj7ee9g1p1o"/>
+        <updated>2024-11-01T03:47:36.000Z</updated>
+        <summary type="html"><![CDATA[世界で最も愛される日本発のキャラクターの一つ、ハローキティが1日に誕生50周年を迎えた。創業者の辻信太郎氏の孫で、就任当時31歳と上場企業で最年少の社長が挑んだのは、キャラクターの多様化や海外戦略といった大きな変革だった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スペインの洪水、死者150人を超す　3日間の服喪]]></title>
+        <id>https://www.bbc.com/japanese/articles/cz6j1166xw0o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cz6j1166xw0o"/>
+        <updated>2024-11-01T03:32:28.000Z</updated>
+        <summary type="html"><![CDATA[スペインの集中豪雨による洪水は、10月31日時点で死者が少なくとも158人に上り、同国で過去最悪レベルの被害となっている。被災地では生存者発見が時間との闘いになっている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[顧客の夫婦宅に放火、2600万円奪う　野村証券元社員逮捕]]></title>
         <id>https://itainews.com/archives/2041189.html</id>
