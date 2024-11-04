@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T21:29:08.933Z</updated>
+    <updated>2024-11-04T21:40:33.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京阪電車　運転見合わせ　京都市の踏切で人身事故(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/11753cda2a865f07ab46412f0d203ce1aa80f6c4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/11753cda2a865f07ab46412f0d203ce1aa80f6c4?source=rss"/>
+        <updated>2024-11-04T21:37:31.000Z</updated>
+        <summary type="html"><![CDATA[京阪電鉄によりますと、５日午前５時半頃、京都市伏見区の踏切で人身事故があり、京阪本線、中之島線、鴨東線の全線で運転を見合わせています。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】ロス在住たむらけんじ〝文春砲〟で人生狂った　ドジャース優勝でもオファーなし]]></title>
         <id>https://itainews.com/archives/2041295.html</id>
