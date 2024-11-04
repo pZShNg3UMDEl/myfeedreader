@@ -11044,6 +11044,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/122446/",
+          "author": null,
+          "description": "「手塚治虫『火の鳥』展 ―火の鳥は、エントロピー増大と抗う動的平衡＝宇宙生命（コスモゾーン）の象徴―」が、六本木ヒルズ・東京シティビューで2025年3月7日～5月25日に開催されることが決定した...",
+          "link": "https://anime.eiga.com/news/122446/",
+          "publishedOn": "2024-11-04T09:00:00.000Z",
+          "wordCount": 945,
+          "title": "手塚治虫のライフワーク「火の鳥」初の大型展覧会が25年3月開催　生物学者の福岡伸一が企画・監修",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/tiff2024_news/122483/",
           "author": null,
           "description": "第37回東京国際映画祭のアニメーション部門で11月3日、「数分間のエールを」が上映され、会場の東京・TOHOシネマズ日比谷で、ぽぷりか監督とプログラミング・アドバイザーの藤津亮太氏がトークを行っ...",
@@ -16047,16 +16062,6 @@
           "wordCount": 1794,
           "title": "【丸亀製麺】コーンバター釜玉うどん【店舗限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/dce584547fba9b50ac726a1e6b24a333.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=260514",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「さつまいもごはんの季節幕の内」を世界一詳しく調査しました。   公式YouTubeチャンネル […]",
-          "link": "https://foodfighter.jp/711sej-makunouchi-satsumaimo",
-          "publishedOn": "2024-10-05T20:57:08.000Z",
-          "wordCount": 1727,
-          "title": "【セブンイレブン】さつまいもごはんの季節幕の内【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/69004d1097cb01c05edbf9f7e4e05958.jpg"
         }
       ]
     },
@@ -16065,6 +16070,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2041290.html",
+          "author": "dqnplus",
+          "description": "beチェック\n1 ：牛乳トースト ★：2024/11/04(月) 06:56:12.47 ID:gr8fUm5h9.net\n\n\n\n\n\n\n\n\n\n\n\n\n競艇「全レース停止」の可能性、日本モーターボート競走会に監督官庁が伝達　不祥事連発「不正防止が不十分」https://t.co/rUrVfNj3pX— 東京新聞（TOKYO Web） (@tokyo_shimb...",
+          "link": "https://itainews.com/archives/2041290.html",
+          "publishedOn": "2024-11-04T09:01:42.000Z",
+          "wordCount": 2439,
+          "title": "【競艇】「全レース停止」の可能性、日本モーターボート競走会に監督官庁が伝達　不祥事連発「不正防止が不十分」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/5/5523ae90-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2041285.html",
           "author": "dqnplus",
