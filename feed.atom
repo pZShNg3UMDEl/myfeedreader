@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T18:52:48.953Z</updated>
+    <updated>2024-11-04T19:13:52.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lynred announces 8.5um pitch thermal sensor]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/11/lynred-announces-85um-pitch-thermal.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/11/lynred-announces-85um-pitch-thermal.html"/>
+        <updated>2024-11-04T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Link: https://ala.associates/wp-content/uploads/2024/09/241001-Lynred-8.5-micron-EN-.pdf
+Lynred demonstrates smallest thermal imaging sensor for future Automatic Emergency Braking Systems (AEB) at AutoSens Europe 
+Prototype 8.5 µm pixel pitch technology that shrinks by 50% the volume size of thermal cameras is designed to help automotive OEMs meet tougher future AEB system requirements, particularly at night.
+Grenoble, France, October 1, 2024 – Lynred, a leading global provider of high-quality infrared sensors for the aerospace, defense and commercial markets, today announces it will demonstrate a prototype 8.5 µm pixel pitch sensor during AutoSens Europe, a major international event for automotive engineers, in Barcelona, Spain, October 8 – 10, 2024. The 8.5 µm pixel pitch technology is t…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子猫が寝ているところへパパ猫がこっそり侵入してきた！]]></title>
         <id>https://2-9-9.com/?p=83814</id>
@@ -31337,16 +31350,6 @@ https:...]]></summary>
 続きをみる]]></summary>
         <author>
             <name>暇空茜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【丸亀製麺】コーンバター釜玉うどん【店舗限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=260538</id>
-        <link href="https://foodfighter.jp/marugame-corn-butter-kamatama"/>
-        <updated>2024-10-06T07:07:39.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、すべての店で粉から作る讃岐うどんが人気のチェーン「讃岐釜揚げうどん 丸亀製麺」へ進撃しました。  […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
