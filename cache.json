@@ -3123,6 +3123,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/ee7b7ed91e8233e70d4b28c9b7d93f171b9da4ff?source=rss",
+          "author": null,
+          "description": "５日朝、大阪府柏原市で大型トラックなど自動車３台と　自転車が絡む事故があり、トラックを運転していた男性が\n死亡しました。\n\n（カメラマンリポート）\n「トラックが車線をはみ出し、ガードレールを突き破っ",
+          "link": "https://news.yahoo.co.jp/articles/ee7b7ed91e8233e70d4b28c9b7d93f171b9da4ff?source=rss",
+          "publishedOn": "2024-11-05T03:37:26.000Z",
+          "wordCount": 1685,
+          "title": "トラック運転手の男性死亡　自転車の男性が重傷　国道２５号で多重事故　大阪・柏原市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241105-00048377-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/66d82176567e9cec8082115ee252504d54266764?source=rss",
           "author": null,
           "description": "５日午前、大阪市城東区でゴミ収集車が横転する事故があり、今里筋の鴫野東２丁目交差点から南行が通行止めになっています。\n\n　５日午前９時４８分ごろ、城東区鴫野東で「単独の横転事故」と１１０番通報があり",
@@ -7189,6 +7199,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cn015ked6d8o#0",
+          "author": null,
+          "description": "イランの首都テヘランの大学構内で服を脱い女性が拘束された。人道活動家らは、強制的なヒジャブ着用に抗議するための行動だったとして、この女性を釈放するよう当局に求めている。",
+          "link": "https://www.bbc.com/japanese/articles/cn015ked6d8o",
+          "publishedOn": "2024-11-05T03:45:02.000Z",
+          "wordCount": 1646,
+          "title": "イラン当局、大学構内で服を脱いだ女性を拘束　厳格な服装規定への抗議か",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/9aa0/live/69aa9360-9b20-11ef-8538-e1655f5a8342.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cgr05d2rgw2o#0",
           "author": null,
