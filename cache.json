@@ -3143,6 +3143,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/0d31ae610e9003d229a8591ed7544710debec780?source=rss",
+          "author": null,
+          "description": "京都市の宿泊税見直しを検討していた有識者会議は６日、税率の引き上げなどを求める答申書を市長らに提出しました。\n\n　大学教授や市民などで構成された有識者会議は、４月から京都市における宿泊税見直しの必要",
+          "link": "https://news.yahoo.co.jp/articles/0d31ae610e9003d229a8591ed7544710debec780?source=rss",
+          "publishedOn": "2024-11-06T03:26:05.000Z",
+          "wordCount": 1704,
+          "title": "京都市の宿泊税率引き上げ求め、有識者会議が松井市長に答申書提出　京都市は条例改正を視野に検討進める(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00048391-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a040315f60737739bb4d3ec2611bdf47ff882b04?source=rss",
           "author": null,
           "description": "大阪府警福島警察署に勾留中の男性が留置場で体調不良となり、その後、死亡しました。男性は一時、拘束具で手足を縛られていました。\n\n　警察によりますと、傷害の疑いで５日に逮捕した５７歳の男性が福島署の留",
@@ -9604,6 +9614,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=88072",
+          "author": "多根清史",
+          "description": "アップルは開発者向けiOS 18.2ベータ版からApple IntelligenceにChatGPTを統合しているが、その第2弾では有料版のChatGPT Plusにアップグレードするオプションが追加された。 米MacRumorsが掲載したスクリーンショットでは、iOS 18.2ベータ2には「高度な […]",
+          "link": "https://gadget.phileweb.com/post-88072/",
+          "publishedOn": "2024-11-06T03:29:30.000Z",
+          "wordCount": 774,
+          "title": "iOS 18.2ではChatGPT Plusアップグレード追加、「探す」機能が強化",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/shutterstock_2461026013.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=88066",
           "author": "Munenori Taniguchi",
           "description": "PlayStation 5 Proは11月7日に発売されるが、この最新ゲーム機の能力を堪能できるようグラフィックなどが強化されるタイトル50本以上を、ソニーが明らかにした。 PlayStation 5 Pro（以下PS5 Pro）はGPUの性能強化により、高度なレイトレーシング機能や独自のアップスケ […]",
@@ -11179,16 +11199,6 @@
           "wordCount": 3801,
           "title": "Conference List - December 2024",
           "imageUrl": null
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/10/image-sensors-review-paper.html",
-          "author": null,
-          "description": "Eric Fossum, Nobukazu Teranishi, and Albert Theuwissen have published a review paper titled \"Digital Image Sensor Evolution and New Frontiers\" in the Annual Review of Vision Science.\nLink: https://doi.org/10.1146/annurev-vision-101322-105538\nAbstract:\nThis article reviews nearly 60 years of solid-state image sensor evolution and identifies potential new frontiers in the field. From early work in the 1960s, through the development of charge-coupled device image sensors, to the complementary metal oxide semiconductor image sensors now ubiquitous in our lives, we discuss highlights in the evolutionary chain. New frontiers, such as 3D stacked technology, photon-counting technology, and others, are briefly discussed.\n\n\n\n\nFigure 1  Illustration of a four-phase charge-coupled device diagram, a po…",
-          "link": "http://image-sensors-world.blogspot.com/2024/10/image-sensors-review-paper.html",
-          "publishedOn": "2024-10-07T15:29:00.044Z",
-          "wordCount": 4168,
-          "title": "Image sensors review paper",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u4VZgz_bBpPIhcIt8ZoC4VFFJLivpaYaFvGTgAThbJsHze4t1YQ1re7OvZ7ENaiDtgC5rnbcMzr0joqOSjj2lbUDAV7xMyK0qt029SihjBn8AR-VEfynX8l_TyCPqKfnyqs2fCKYPzByjUBz4WFdF8wjo9YRuKUbpZ=w1200-h630-p-k-no-nu"
         }
       ]
     },

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T03:26:26.093Z</updated>
+    <updated>2024-11-06T03:40:45.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iOS 18.2ではChatGPT Plusアップグレード追加、「探す」機能が強化]]></title>
+        <id>https://gadget.phileweb.com/?p=88072</id>
+        <link href="https://gadget.phileweb.com/post-88072/"/>
+        <updated>2024-11-06T03:29:30.000Z</updated>
+        <summary type="html"><![CDATA[アップルは開発者向けiOS 18.2ベータ版からApple IntelligenceにChatGPTを統合しているが、その第2弾では有料版のChatGPT Plusにアップグレードするオプションが追加された。 米MacRumorsが掲載したスクリーンショットでは、iOS 18.2ベータ2には「高度な […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都市の宿泊税率引き上げ求め、有識者会議が松井市長に答申書提出　京都市は条例改正を視野に検討進める(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/0d31ae610e9003d229a8591ed7544710debec780?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/0d31ae610e9003d229a8591ed7544710debec780?source=rss"/>
+        <updated>2024-11-06T03:26:05.000Z</updated>
+        <summary type="html"><![CDATA[京都市の宿泊税見直しを検討していた有識者会議は６日、税率の引き上げなどを求める答申書を市長らに提出しました。
+
+　大学教授や市民などで構成された有識者会議は、４月から京都市における宿泊税見直しの必要]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソニー、PS5 Pro発売時に強化される50以上の「PS5 Pro Enhanced」ゲームを発表]]></title>
         <id>https://gadget.phileweb.com/?p=88066</id>
@@ -31282,24 +31304,6 @@ Ubisoftのディレクターがゲー...]]></summary>
 ...]]></summary>
         <author>
             <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image sensors review paper]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/10/image-sensors-review-paper.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/10/image-sensors-review-paper.html"/>
-        <updated>2024-10-07T15:29:00.044Z</updated>
-        <summary type="html"><![CDATA[Eric Fossum, Nobukazu Teranishi, and Albert Theuwissen have published a review paper titled "Digital Image Sensor Evolution and New Frontiers" in the Annual Review of Vision Science.
-Link: https://doi.org/10.1146/annurev-vision-101322-105538
-Abstract:
-This article reviews nearly 60 years of solid-state image sensor evolution and identifies potential new frontiers in the field. From early work in the 1960s, through the development of charge-coupled device image sensors, to the complementary metal oxide semiconductor image sensors now ubiquitous in our lives, we discuss highlights in the evolutionary chain. New frontiers, such as 3D stacked technology, photon-counting technology, and others, are briefly discussed.
-
-
-
-
-Figure 1  Illustration of a four-phase charge-coupled device diagram, a po…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
