@@ -7151,26 +7151,6 @@
           "wordCount": 1671,
           "title": "飲食店を隠れみのにホストクラブを営業か 　経営者ら逮捕 　売掛金回収のため風俗あっせんか　神戸市(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241007-00047968-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7feb5b5fb4bad5c6ff357e384bd0ba8b078d0649?source=rss",
-          "author": null,
-          "description": "５日、大阪市の阿倍野区民センターで音楽スタジオの扉が開かなくなり、利用者２人が約３時間半、閉じ込められました。けがはありませんでした。\n\n　午後２時前、阿倍野区民センターで開かれた音楽コンクールの出",
-          "link": "https://news.yahoo.co.jp/articles/7feb5b5fb4bad5c6ff357e384bd0ba8b078d0649?source=rss",
-          "publishedOn": "2024-10-07T12:24:16.000Z",
-          "wordCount": 1670,
-          "title": "音楽スタジオの扉があかず…コンクール出場者らが３時間半閉じ込め　大阪・阿倍野区民センター　原因は調査中(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241007-00047967-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ca0a606abb5a46b8a58fc8041536ae90d5ba18d6?source=rss",
-          "author": null,
-          "description": "７日午後、大阪市の阪神高速湾岸線でタンクローリーの単独事故がありました。\n\n　７日午後３時２０分ごろ、大阪市の阪神高速湾岸線下り天保山ジャンクション付近で「タンクローリーの事故」と通行車両から消防に",
-          "link": "https://news.yahoo.co.jp/articles/ca0a606abb5a46b8a58fc8041536ae90d5ba18d6?source=rss",
-          "publishedOn": "2024-10-07T11:53:31.000Z",
-          "wordCount": 1667,
-          "title": "阪神高速湾岸線でタンクローリーが事故　運転手の男性を病院搬送　天保山ジャンクション付近(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241007-00047966-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -7179,6 +7159,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c62l9yggn0qo#1",
+          "author": null,
+          "description": "アメリカの有権者は大統領選となると、二大政党の候補のあらゆる姿を果てしなく見せられることになる。壇上から話している姿、集会で支持者にアピールする姿、飛行機のタラップから降りる姿……などなどなど。ここではそれとは少し切り口を変えて、共和党と民主党の両候補のさまざまな姿を見てみたい。",
+          "link": "https://www.bbc.com/japanese/articles/c62l9yggn0qo",
+          "publishedOn": "2024-11-06T00:24:12.000Z",
+          "wordCount": 1575,
+          "title": "【米大統領選2024】 それぞれの半生……ハリス候補とトランプ候補のこれまで",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/449a/live/454a3de0-9b7f-11ef-9260-19e6a950e830.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cly2qr0x4zjo#0",
           "author": null,
@@ -9267,6 +9257,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2411/06/news070.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーは、システムの異常発生時にバッテリー駆動アプリケーションを保護する125Vハイサイドゲートドライバー「EiceDRIVER 1EDL8011」を発表した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2411/06/news070.html",
+          "publishedOn": "2024-11-06T00:00:00.000Z",
+          "wordCount": 2526,
+          "title": "回路保護機能搭載の125Vハイサイドゲートドライバー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/06/cover_news070.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2411/05/news050.html",
           "author": null,
           "description": "テクシオ・テクノロジーは、汎用スペクトラムアナライザー「GSP-8800」「GSP-8180」の販売を開始した。GSP-8800は9kHz～8GHz、GSP-8180は9kHz～1.8GHzをサポートする。",
@@ -9295,6 +9295,16 @@
           "wordCount": 2517,
           "title": "ドライバー／ペルチェ素子など内蔵の小型可視レーザーモジュール",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/31/cover_news098.jpg"
+        },
+        {
+          "id": "https://monoist.itmedia.co.jp/mn/articles/2411/01/news007.html",
+          "author": null,
+          "description": "自動車が進化する中で、ソフトウェアのアップデートで機能や性能を高められるSDVへの移行が求められている。これまで制御システムのソフトウェア開発に大きく貢献してきたMBD（モデルベースデザイン）はSDVの開発にどのように役立つのだろうか。",
+          "link": "https://monoist.itmedia.co.jp/mn/articles/2411/01/news007.html",
+          "publishedOn": "2024-10-30T01:00:00.000Z",
+          "wordCount": 1546,
+          "title": "PR: モデルベースデザインが支える自動車のSDVへの進化",
+          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2411/01/l_sp_mathworks_02.jpg"
         },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2410/29/news050.html",
@@ -13932,36 +13942,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122305/",
-          "author": null,
-          "description": "「トランスフォーマー」シリーズ最新作となるリアルCGムービー「トランスフォーマー ONE」（公開中）のトークイベントが10月3日に東京・グランドシネマサンシャイン 池袋で行われ、声優の柚木涼香と...",
-          "link": "https://anime.eiga.com/news/122305/",
-          "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 772,
-          "title": "「トランスフォーマー ONE」柚木涼香＆音響監督の岩浪美和が収録秘話を語る「吉岡里帆さんは熱心ですごかった！」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122301/",
-          "author": null,
-          "description": "テレビアニメ「夜桜さんちの大作戦」の第2期の製作が決定した。原作漫画を使用した、今後のストーリー展開を示唆する特別映像が公開されている。 権平ひつじ氏が、2019年から「週刊少年ジャンプ」（集英...",
-          "link": "https://anime.eiga.com/news/122301/",
-          "publishedOn": "2024-10-07T12:00:00.000Z",
-          "wordCount": 653,
-          "title": "「夜桜さんちの大作戦」第2期製作が決定　主演の川島零士、第1期最終話の収録で知る",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -14728,6 +14708,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=263612",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンのチルド惣菜「ニンニク背脂醤油鍋」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃 […]",
+          "link": "https://foodfighter.jp/711sej-ninniku-seabura-nabe",
+          "publishedOn": "2024-11-06T00:39:48.000Z",
+          "wordCount": 1752,
+          "title": "【セブンイレブン】ニンニク背脂醤油鍋【新作コンビニ惣菜】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/4972d74f588f891fa709b0a32b8c22c6.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=263589",
           "author": "foodfighter",
@@ -16117,16 +16107,6 @@
           "wordCount": 1739,
           "title": "PARM（パルム）ダブルチョコ クレイジーナッツ＆ノワールショコラ【新作アイス・期間限定】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/835beac355e363cc729a6ed2d9a250de.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=260649",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「赤城乳業 もはや生キャラメルを凍らせたようなアイス」を世界一詳しく調査しました。   公式 […]",
-          "link": "https://foodfighter.jp/famima-mohaya-caramel-ice-2024",
-          "publishedOn": "2024-10-07T11:55:28.000Z",
-          "wordCount": 1733,
-          "title": "【ファミマ】赤城乳業 もはや生キャラメルを凍らせたようなアイス【新作コンビニアイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/1fc5550f4ccb9bb20968023f1abece73.jpg"
         }
       ]
     },
@@ -21354,26 +21334,6 @@
           "wordCount": 2537,
           "title": "【動画】歩きスマホに夢中だった女性、内側の遮断機が降たので待っていたところ電車に轢かれ死亡",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/a/cae241af-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040346.html",
-          "author": "dqnplus",
-          "description": "1 ：名無しさん＠涙目です。：2024/10/06(日) 20:09:31.62 ID:QhbFO2oS0.net\n\n\n\n\n\n\n\n\n\nバイトテロで草 pic.twitter.com/VdwJlHAc0k— N (@Fate_disorder) October 1, 2024 \n\n\n\n\n\n\n\n\n\nホームセンター「カインズ」の従業員がトイレットペーパーを放り投げて売り場に並べる動...",
-          "link": "https://itainews.com/archives/2040346.html",
-          "publishedOn": "2024-10-07T13:01:41.000Z",
-          "wordCount": 2481,
-          "title": "カインズ従業員がトイレットペーパー放り投げる動画拡散　広報部は謝罪　（；´∀｀）トイペなら別に…",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/f/1fea9b84-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040355.html",
-          "author": "damono3856",
-          "description": "1 名前：：2024/10/06(日) 21:34:24.77 ID:95ohNJPQ0●.net\n\n\n\n\n\n\n\nはい・・・それがマイナンバーカードです。— 葉月二十八 (@haduki28th) October 5, 2024  \n\n\n\n\n\n\n平デジタル大臣、保険証廃止に理解求める--「顔写真もICチップもない、これほど悪用されやすい制度ない...",
-          "link": "https://itainews.com/archives/2040355.html",
-          "publishedOn": "2024-10-07T12:03:18.000Z",
-          "wordCount": 2698,
-          "title": "馬鹿「は？なら顔写真とICチップを保険証につけたらいいだろが」　X民「それがマイナカードやろ」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/2/02ab2afc-s.png"
         }
       ]
     },
@@ -21382,6 +21342,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=83861",
+          "author": "299",
+          "description": "今回ご紹介するのはお店の中で眠る猫ちゃんです。 眠るのはいいんですけど、問題はその場所。 お客様がすぐ真横を通過しても、猫ちゃんは気にせずスヤスヤ。 なかなかの肝っ玉ぶりをご覧ください。 お店の中で猫ちゃんが眠っています...\nお店のど真ん中で寝る猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/83861",
+          "publishedOn": "2024-11-06T00:00:20.000Z",
+          "wordCount": 1347,
+          "title": "お店のど真ん中で寝る猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83861.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=83832",
           "author": "299",
@@ -24941,16 +24911,6 @@
           "wordCount": 1337,
           "title": "ゴールデンレトリバーを起こす子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/82122.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=82107",
-          "author": "299",
-          "description": "今回ご紹介するのはお風呂大好きな猫ちゃんです。 猫は水を嫌う傾向が強いですし、お風呂を嫌う猫ちゃんの方が多いんですけどね。 気持ち良さそうに湯舟につかる姿が微笑ましいのでご覧ください。 湯舟の中にはお湯が張ってあり、その...\n湯舟でくつろぐ猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/82107",
-          "publishedOn": "2024-10-07T13:00:34.000Z",
-          "wordCount": 1332,
-          "title": "湯舟でくつろぐ猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/82107.jpg"
         }
       ]
     },
