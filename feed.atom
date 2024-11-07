@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T11:37:34.352Z</updated>
+    <updated>2024-11-07T11:50:20.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024年は史上最も暑い年になる見通し　エルニーニョ終息後も高気温続く]]></title>
+        <id>https://www.bbc.com/japanese/articles/cev903mwz9lo#1</id>
+        <link href="https://www.bbc.com/japanese/articles/cev903mwz9lo"/>
+        <updated>2024-11-07T11:37:57.000Z</updated>
+        <summary type="html"><![CDATA[欧州の気象当局はこのほど、猛烈な熱波や多くの犠牲者につながった嵐が世界各地を襲った2024年が、統計開始以来で最も気温の高い年となることが「ほぼ確実」となったとの見通しを発表した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「闇バイト」“ショッカー姿”で強盗未遂　報酬５万で罪を犯し使い捨ての駒に　法廷で明らかになった事件の背景]]></title>
         <id>https://itainews.com/archives/2041381.html</id>
@@ -31985,17 +31995,6 @@ JUST IN!! 新着記事⠀ /／　　　　　　　　　🗣２２歳妻「夫�
         <summary type="html"><![CDATA[テクシオ・テクノロジーは、最大12kVのDC耐電圧試験、最大DC5kVの絶縁抵抗試験が可能な安全試験器「GPT-15012」の受注を開始した。電圧の上昇、下降時間をそれぞれ独立して設定でき、開始電圧の設定も可能だ。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】日根野～関西空港駅間で運転見合わせ　線路トラブルの影響(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/9008edc68327713ad97ff80ca5f0f27e37adadb4?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/9008edc68327713ad97ff80ca5f0f27e37adadb4?source=rss"/>
-        <updated>2024-10-08T23:46:29.000Z</updated>
-        <summary type="html"><![CDATA[ＪＲ西日本によりますと９日午前８時１８分ごろ関西空港線のりんくうタウンー関西空港駅間で線路トラブルが発生したため日根野ー関西空港駅間で運転を見合わせています。
-　また、大阪環状線・阪和線で列車の遅れ]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
