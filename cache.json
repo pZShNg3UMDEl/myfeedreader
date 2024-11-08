@@ -7531,16 +7531,6 @@
           "wordCount": 1673,
           "title": "ＪＲ神戸線　宝塚線　京都線で列車に遅れ　尼崎駅と立花駅の間の線路内に障害物　(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241010-00048006-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/802e88be0a03352d572020e680c14628685cab76?source=rss",
-          "author": null,
-          "description": "大阪市住之江区の市営住宅で９日、敷地内で遊んでいた９歳の男の子に向かって、９階のベランダから軟式の野球ボールを投げ落としたとして、警察はこの住宅に住む８６歳の男を殺人未遂の疑いで逮捕しました。",
-          "link": "https://news.yahoo.co.jp/articles/802e88be0a03352d572020e680c14628685cab76?source=rss",
-          "publishedOn": "2024-10-09T21:11:10.000Z",
-          "wordCount": 1669,
-          "title": "９階から小学生に向けて野球ボール投げ落としたか　８６歳男を殺人未遂容疑で逮捕　(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241010-00048005-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -10014,6 +10004,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=88203",
+          "author": "Munenori Taniguchi",
+          "description": "スイスのスイス連邦工科大学ローザンヌ校（EPFL）、ヴォー州工業応用科学大学（HEIG-VD）、Swisspod Technologiesで構成されるLinear Induction Motor Drive for Traction and Levitation in Sustainable Hyp […]",
+          "link": "https://gadget.phileweb.com/post-88203/",
+          "publishedOn": "2024-11-08T09:13:22.000Z",
+          "wordCount": 760,
+          "title": "ハイパーループの1/12スケールモデルを使った真空走行最長記録が更新。原寸換算141.6km、EPFLが達成",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/EPFL_Hyperloop.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=88209",
           "author": "多根清史",
           "description": "アップルが2025年の「iPhone 17」シリーズにおいて、超薄型の「Air」モデルを投入すると複数の情報源が主張していた。それに対抗するように、サムスンも次期フラッグシップ機「Galaxy S25」シリーズのスリム版を開発しているとの噂が報じられている。 韓国メディアET Newsは、サムスンが […]",
@@ -11623,6 +11623,36 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122521/",
+          "author": null,
+          "description": "人気ストップモーションアニメ「PUI PUI モルカー」をCGアニメで完全新作映画化する「PUI PUI モルカー ザ・ムービー MOLMAX」に、田村ゆかりが出演していることが分かった。 田村...",
+          "link": "https://anime.eiga.com/news/122521/",
+          "publishedOn": "2024-11-08T09:00:00.000Z",
+          "wordCount": 1184,
+          "title": "「PUI PUI モルカー ザ・ムービー MOLMAX」田村ゆかりがパワーアップした大魔法天使もるみ役で出演",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/122519/",
+          "author": null,
+          "description": "テレビアニメ「一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる」の放送が2025年4月からスタートすることが決定し、メインキャストとして坂田将吾、花井美春、日笠...",
+          "link": "https://anime.eiga.com/news/122519/",
+          "publishedOn": "2024-11-08T09:00:00.000Z",
+          "wordCount": 1195,
+          "title": "「闇ヒーラー」25年4月放送開始　メインキャストに坂田将吾、花井美春、日笠陽子",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122514/",
           "author": null,
@@ -15264,6 +15294,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=263899",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「太麺の大盛ナポリタン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃の […]",
+          "link": "https://foodfighter.jp/711sej-napolitan-omori-2024",
+          "publishedOn": "2024-11-08T08:57:12.000Z",
+          "wordCount": 1744,
+          "title": "【セブンイレブン】太麺の大盛ナポリタン【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/c391deaeb73f8ed9149cb6bf512dfcf4.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=263876",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ミニストップの新商品「ダブル蜜いも」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ】で […]",
@@ -16660,6 +16700,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2041422.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/11/08(金) 06:32:50.83 ID:j5tJDGwP0●.net\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n「無理しすぎてない？」 同僚の女性教師を心配しすぎた？ 51歳男性教師が下駄箱に栄養ドリンク（無記名）をプレゼント…さらに\"気遣い\"メッセージも送信　不快にさせたと...",
+          "link": "https://itainews.com/archives/2041422.html",
+          "publishedOn": "2024-11-08T09:01:45.000Z",
+          "wordCount": 2520,
+          "title": "無理しすぎてない？多忙な同僚を心配した男性教師（51）戒告",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/d/ad90aac6-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2041433.html",
           "author": "damono3856",
@@ -21939,16 +21989,6 @@
           "wordCount": 2549,
           "title": "「食中毒出すつもりか」「写真と別物」スシローコラボに人気ラーメン店代表が激怒　運営元に話を聞いた",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46f7f6c5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040447.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。：2024/10/09(水) 14:31:02.52 ID:mqxlp+Bp0●.net\n\n\n\n\n\n\n\n\n『プリキュア』公式、大人ファンへ注意　ステージ公演のコスプレ・奇声・大声は禁止「お子様が怖がってしまう」 https://t.co/TL6AerxW3l— 出口ナオト (@DEGCHIRON) October 9,...",
-          "link": "https://itainews.com/archives/2040447.html",
-          "publishedOn": "2024-10-09T21:02:53.000Z",
-          "wordCount": 2394,
-          "title": "女児「ぷいきゅあがんばえー！」大人「ぷいきゅあがんばえー！」公式「子供が怖がるので大人はやめて」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/ff420873-s.png"
         }
       ]
     },
