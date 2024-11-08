@@ -3283,6 +3283,36 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d38ccc6418bf19ccaca530a4a6c1038835f94cb0?source=rss",
+          "author": null,
+          "description": "動画投稿サイト「ＦＣ２」に投稿されたわいせつな動画を、不特定多数の利用者が閲覧できる状態にしたとして、このサイトの創業者の男が逮捕されました。\n\n　わいせつ電磁的記録陳列の疑いで京都府警に逮捕された",
+          "link": "https://news.yahoo.co.jp/articles/d38ccc6418bf19ccaca530a4a6c1038835f94cb0?source=rss",
+          "publishedOn": "2024-11-08T03:46:56.000Z",
+          "wordCount": 1709,
+          "title": "「アメリカの会社でしたことなので」と否認　１００億円近く売り上げか　動画投稿サイト「ＦＣ２」創業者の男を逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241108-00048433-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/182c9e9f86d914265c6e5a7537cbd1cb6e24b21e?source=rss",
+          "author": null,
+          "description": "８日朝は近畿各地で今シーズン一番の冷え込みとなり、兵庫県の氷ノ山では初冠雪が観測されました。\n\n　「兵庫の屋根」とも呼ばれる、標高１５１０メートルの氷ノ山。紅葉が色づき始めた山頂付近をうっすらと雪が",
+          "link": "https://news.yahoo.co.jp/articles/182c9e9f86d914265c6e5a7537cbd1cb6e24b21e?source=rss",
+          "publishedOn": "2024-11-08T03:46:56.000Z",
+          "wordCount": 1682,
+          "title": "近畿各地で今シーズン一番の冷え込み　兵庫・氷ノ山で初冠雪　去年より５日早く(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241108-00048432-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6274ad0e99c210ba2a7e5a6865cb50b4a39dee4c?source=rss",
+          "author": null,
+          "description": "8日午前、大阪府摂津市の近畿道でトラック4台が絡む事故があり、2人がけがをしています。\n\n　8日午前11時すぎ、大阪府摂津市の近畿道で「4台の車が関係する事故。2台が挟まれあり」と消防に通報がありま",
+          "link": "https://news.yahoo.co.jp/articles/6274ad0e99c210ba2a7e5a6865cb50b4a39dee4c?source=rss",
+          "publishedOn": "2024-11-08T03:35:14.000Z",
+          "wordCount": 1656,
+          "title": "【速報】近畿道でトラック4台がからむ事故　うち2台がはさまれたか　2人けが(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/71e4bfac5d93d6049c02947f2ac56a47785e286e?source=rss",
           "author": null,
           "description": "女性客を泥酔させ、現金を脅し取ったとして逮捕されたホストクラブ運営会社の社長らが、別の女性客に借金をさせた上、性風俗店で働かせていたことがわかりました。\n\n　ホストクラブ運営会社の社長、上埜善弘容疑",
@@ -11459,16 +11489,6 @@
           "wordCount": 3753,
           "title": "Another PhD Defense Talk on Event Cameras",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tJwndB7ZRGDGA4FktPCvcncgbaFQ2jvB5iM-fjnxUYvPVmWkV-CemyF44Q6rTGPq3i1Nw4GBXclKl515OZRG5dIgmYC6WohohodIaYY0fqsVXV=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "http://image-sensors-world.blogspot.com/2024/10/artilux-paper-on-room-temperature.html",
-          "author": null,
-          "description": "Neil Na et al from Artilux and UMass Boston have published a paper titled \"Room-temperature photonic quantum computing in integrated silicon photonics with germanium–silicon single-photon avalanche diodes\" in APL Quantum.\nAbstract: Most, if not all, photonic quantum computing (PQC) relies upon superconducting nanowire single-photon detectors (SNSPDs) typically based on niobium nitride (NbN) operated at a temperature <4 K. This paper proposes and analyzes 300 K waveguide-integrated germanium–silicon (GeSi) single-photon avalanche diodes (SPADs) based on the recently demonstrated normal-incidence GeSi SPADs operated at room temperature, and shows that their performance is competitive against that of NbN SNSPDs in a series of metrics for PQC with a reasonable time-gating window. These GeSi SP…",
-          "link": "http://image-sensors-world.blogspot.com/2024/10/artilux-paper-on-room-temperature.html",
-          "publishedOn": "2024-10-09T15:36:00.024Z",
-          "wordCount": 4469,
-          "title": "Artilux paper on room temperature quantum computing using Ge-Si SPADs",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vJQ_Ps8U2EPlRk4HSXGA_Jhb4xDOE_U8Ud9yrWVwJWim-C2DoekQy4Mhv3wr569DoD_Tgk-_aTTSnwiJmZTCf3WAl5v2jkRYcJ77B_hbqk3HbDpV-2ag652PSHFlVxdPUufBNFyh1f28jLsW_JjEbCTa02Dfq_UqqTcvmQui57IeW40w3oUsEqHh8FTjmYtSFOfGYj7xL1JCQG8CE7IkREjZhv0gtUr8l3qEWyDYjpqt_45kgRb4cgN88qDSvj4ElGm0seWj2o5VDKtqMCjOUqBOb5uSEOJsjdjBzQgYlQ1xXECLlA7DoEenlqS5bfUAzM89yxVT1v1AfIN6ct1YKFMKH6UbSyGfCVoyzmh-iB0-SP4UtjigC5bgkaUfx9psfuq_jnp4MmnfYEhvTTXEbkG_N_cUxjBaPnnISpOZbNF2QXeZjAR8R85WiIsgEVO9zaaZlKFbts90sDWH5Ydd2jwi1BRpLrJZsBRRFsSfTBlOEOWPKZTA9EQ9f2xoYKK_8oAL-rm3agoZcqA1dxhkydOJnUpFCJoIJYzgNIU_yRU6WfbAoNXj9WY4qAtSTBHIeCZ9MfHsZdRprQDBiv_I1drBqiEGnO_8p6LgnEUtRjSLSHYbC2yLJKAQnBfDP5hJPqyYVoXsi1fplmmgjzW6UULmIT-0OlU9GgWxoyumPNbwATrSWYvU2M2EDuSaKiegA2tHvuIgVKohnJ5Ucg2aM6qTYQ0Dpo8PS-4Ht757EbmMsimJXR8azjflbEiEPqOQ=w1200-h630-p-k-no-nu"
         }
       ]
     },
