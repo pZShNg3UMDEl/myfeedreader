@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T03:39:33.993Z</updated>
+    <updated>2024-11-09T03:50:29.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米司法省、トランプ次期大統領暗殺計画に関与の男を起訴　イランの指示か]]></title>
+        <id>https://www.bbc.com/japanese/articles/c8jypz4g04zo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c8jypz4g04zo"/>
+        <updated>2024-11-09T03:44:19.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ政府は8日、ドナルド・トランプ次期大統領を大統領選前に暗殺するというイランの陰謀疑惑に関わったとして、アフガニスタン国籍の人物を起訴した。米司法省によると、ファラド・シャケリ被告（51）は、トランプ氏を暗殺するための「計画の提供」を命じられたという。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【米政権交代】　ペロシ氏「バイデン氏が早く撤退していたら」　次期大統領はマスク氏同席でゼレンスキー氏と電話]]></title>
         <id>https://www.bbc.com/japanese/articles/cp35evqq5z9o#0</id>
@@ -31367,23 +31377,6 @@ Netflixの利用料金が値上げ　月額790円→890円に　上級プラン�
 水飲み場の蛇口を開けて水を飲む野良猫さん first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another PhD Defense Talk on Event Cameras]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/10/another-phd-defense-talk-on-event.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/10/another-phd-defense-talk-on-event.html"/>
-        <updated>2024-10-10T15:40:00.005Z</updated>
-        <summary type="html"><![CDATA[Thesis title: A Scientific Event Camera: Theory, Design, and Measurements
-Author: Rui Garcia
-Advisor: Tobi Delbrück
-
-
-
- See also, earlier post about the PhD thesis abstract and full text link: https://image-sensors-world.blogspot.com/2024/08/phd-thesis-on-scidvs-event-camera.html
-The full thesis text is available here after the embargo ends in July 2026: https://www.research-collection.ethz.ch/handle/20.500.11850/683623]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
