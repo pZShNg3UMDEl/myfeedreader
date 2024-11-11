@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T16:53:51.065Z</updated>
+    <updated>2024-11-11T17:13:50.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Photon inhibition" to reduce SPAD camera power consumption]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/11/photon-inhibition-to-reduce-spad-camera.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/11/photon-inhibition-to-reduce-spad-camera.html"/>
+        <updated>2024-11-11T17:05:00.003Z</updated>
+        <summary type="html"><![CDATA[In a paper titled "Photon Inhibition for Energy-Efficient Single-Photon Imaging" presented at the European Conference on Computer Vision (ECCV) 2024 Lucas Koerner et al. write:
+
+Single-photon cameras (SPCs) are emerging as sensors of choice for various challenging imaging applications. One class of SPCs based on the single-photon avalanche diode (SPAD) detects individual photons using an avalanche process; the raw photon data can then be processed to extract scene information under extremely low light, high dynamic range, and rapid motion. Yet, single-photon sensitivity in SPADs comes at a cost — each photon detection consumes more energy than that of a CMOS camera. This avalanche power significantly limits sensor resolution and could restrict widespread adoption of SPAD-based SPCs. We propose a computational-imaging approach called photon inhibition to address this challenge. Photon inhibition strategically allocates detections in space and time based on downstream inference task goals and resource constraints. We develop lightweight, on-sensor computational inhibition policies that use past photon data to disable SPAD pixels in real-time, to select the most informative future photons. As case studies, we design policies tailored for image reconstruction and edge detection, and demonstrate, both via simulations and real SPC captured data, considerable reduction in photon detections (over 90% of photons) while maintaining task performance metrics. Our work raises the question of “which photons should be detected?”, and paves the way for future energy-efficient single-photon imaging.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Lucas Koerner, Shantanu Gupta, Atul Ingle, and Mohit Gupta. "Photon 
+Inhibition for Energy-Efficient Single-Photon Imaging." In European Conference on Computer Vision, pp. 90-107 (2024)
+[preprint link]]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミルクを飲んだら膝の上でまったりするのがお決まりです]]></title>
         <id>https://2-9-9.com/?p=84196</id>
@@ -31485,25 +31519,6 @@ There are three submission options to fit your publication needs: journal, confe
 　警察によりますと、現場は吉野川市山川町木]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【芸能】ホラン千秋の姿が激変！　昭和アイドル風な髪型に「あだち充のヒロインみたい」「毛量半端無い」]]></title>
-        <id>https://itainews.com/archives/2040555.html</id>
-        <link href="https://itainews.com/archives/2040555.html"/>
-        <updated>2024-10-13T05:01:23.000Z</updated>
-        <summary type="html"><![CDATA[1 ：フォーエバー ★：2024/10/12(土) 16:00:04.46 ID:juVb9yH/9.net
-
-
-
-
-
-
-
-
-ホラン千秋の姿が激変！　昭和アイドル風な髪型に「あだち充のヒロインみたい」「毛量半端無い」https://t.co/PE4PoWd4Mq #ホラン千秋— ORICON NEWS（オリコンニュース） (@oricon) October...]]></summary>
-        <author>
-            <name>dqnplus</name>
         </author>
     </entry>
 </feed>

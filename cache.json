@@ -10961,6 +10961,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/11/photon-inhibition-to-reduce-spad-camera.html",
+          "author": null,
+          "description": "In a paper titled \"Photon Inhibition for Energy-Efficient Single-Photon Imaging\" presented at the European Conference on Computer Vision (ECCV) 2024 Lucas Koerner et al. write:\n\nSingle-photon cameras (SPCs) are emerging as sensors of choice for various challenging imaging applications. One class of SPCs based on the single-photon avalanche diode (SPAD) detects individual photons using an avalanche process; the raw photon data can then be processed to extract scene information under extremely low light, high dynamic range, and rapid motion. Yet, single-photon sensitivity in SPADs comes at a cost — each photon detection consumes more energy than that of a CMOS camera. This avalanche power significantly limits sensor resolution and could restrict widespread adoption of SPAD-based SPCs. We propose a computational-imaging approach called photon inhibition to address this challenge. Photon inhibition strategically allocates detections in space and time based on downstream inference task goals and resource constraints. We develop lightweight, on-sensor computational inhibition policies that use past photon data to disable SPAD pixels in real-time, to select the most informative future photons. As case studies, we design policies tailored for image reconstruction and edge detection, and demonstrate, both via simulations and real SPC captured data, considerable reduction in photon detections (over 90% of photons) while maintaining task performance metrics. Our work raises the question of “which photons should be detected?”, and paves the way for future energy-efficient single-photon imaging.\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nLucas Koerner, Shantanu Gupta, Atul Ingle, and Mohit Gupta. \"Photon \nInhibition for Energy-Efficient Single-Photon Imaging.\" In European Conference on Computer Vision, pp. 90-107 (2024)\n[preprint link]",
+          "link": "http://image-sensors-world.blogspot.com/2024/11/photon-inhibition-to-reduce-spad-camera.html",
+          "publishedOn": "2024-11-11T17:05:00.003Z",
+          "wordCount": 3962,
+          "title": "\"Photon inhibition\" to reduce SPAD camera power consumption",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaiVprFtJ15VIlMWyylY2cBNd5TpYo-KkEptqLlFld43N-D2cpaE80ikFw4DZlLwnqaKoKIbuL8V25lkp7rhsBu3nRZSe6_Afa9jVJYT0TPgUeuTs7lXWym0RiGe7HPXC_NlSsRr0VH_rmlxYTmOR0PYqbmaKwxHWETpBX8Ej8qFXNMWiuq9f1/w1200-h630-p-k-no-nu/Screenshot%202024-11-09%20152758.png"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/11/hamamatsu-acquires-bae-systems-imaging.html",
           "author": null,
           "description": "Press release: https://www.hamamatsu.com/us/en/news/announcements/2024/20241105000000.html\n\nAcquisition of BAE Systems Imaging Solutions, Inc. Strengthening the Opto-semiconductor segment and accelerating value-added growth\n\n\n2024/11/05\nHamamatsu Photonics K.K.\n\n\nPhotonics Management Corp. (Bridgewater, New Jersey, USA), a subsidiary of Hamamatsu Photonics K.K. (Hamamatsu City, Japan), has purchased the stock of BAE Systems Imaging Solutions, Inc. a subsidiary of BAE Systems, Inc. (Falls Church, Virginia, USA). In recognition of the company’s deep roots starting in 1920 as the Fairchild Aerial Camera Corporation, the company will return to the name first used in 2001, Fairchild Imaging.\n\n\nFairchild Imaging is a semiconductor manufacturer specializing in high-performance CMOS image sensors …",
@@ -21504,16 +21514,6 @@
           "wordCount": 2688,
           "title": "牧場関係者｢ウマ娘に影響されて転職しようとしてくるやつは考えが浅くて迷惑｡あとＡＴ限定君もアウト｣",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/8/286d4238-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040555.html",
-          "author": "dqnplus",
-          "description": "1 ：フォーエバー ★：2024/10/12(土) 16:00:04.46 ID:juVb9yH/9.net\n\n\n\n\n\n\n\n\nホラン千秋の姿が激変！　昭和アイドル風な髪型に「あだち充のヒロインみたい」「毛量半端無い」https://t.co/PE4PoWd4Mq #ホラン千秋— ORICON NEWS（オリコンニュース） (@oricon) October...",
-          "link": "https://itainews.com/archives/2040555.html",
-          "publishedOn": "2024-10-13T05:01:23.000Z",
-          "wordCount": 2398,
-          "title": "【芸能】ホラン千秋の姿が激変！　昭和アイドル風な髪型に「あだち充のヒロインみたい」「毛量半端無い」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/4/94b9acb3-s.png"
         }
       ]
     },
