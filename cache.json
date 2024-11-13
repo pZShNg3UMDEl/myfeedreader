@@ -11451,6 +11451,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/11/videos-from-epic-neuromorphic-cameras.html",
+          "author": null,
+          "description": "Presentations from the recent EPIC Online Technology Meeting on Neuromorphic Cameras are available on YouTube:\n \n\nIKERLAN – DVS Pre-processor & Light-field DVS – Xabier Iturbe, NimbleAI EU Project Coordinator\nIKERLAN is a leading technology centre in providing competitive value to industry, since 1974. They offer integral solutions in three main areas: digital technologies and artificial intelligence, embedded electronic systems and cybersecurity, and mechatronic and energy technologies. They currently have a team of more than 400 people and offices in Arrasate-Mondragón, Donostialdea and Bilbao. As a cooperative member of the MONDRAGON Corporation and the Basque Research and Technology Alliance (BRTA), IKERLAN represents a sustainable, competitive business model in permanent transformatio…",
+          "link": "http://image-sensors-world.blogspot.com/2024/11/videos-from-epic-neuromorphic-cameras.html",
+          "publishedOn": "2024-11-13T16:35:00.002Z",
+          "wordCount": 4283,
+          "title": "Videos from EPIC Neuromorphic Cameras Online Meeting",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_useOAc-ytQ9vdYs0joou-cbZSf9BZdoVNj7JxaNPC0vmS_D1D5QRH4zI87vokl13grmypoIGtKUVId_E3HAUCmvwyqAhEY_FAp1uTc3xGjCxsBCw=w1200-h630-n-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/11/photon-inhibition-to-reduce-spad-camera.html",
           "author": null,
           "description": "In a paper titled \"Photon Inhibition for Energy-Efficient Single-Photon Imaging\" presented at the European Conference on Computer Vision (ECCV) 2024 Lucas Koerner et al. write:\n\nSingle-photon cameras (SPCs) are emerging as sensors of choice for various challenging imaging applications. One class of SPCs based on the single-photon avalanche diode (SPAD) detects individual photons using an avalanche process; the raw photon data can then be processed to extract scene information under extremely low light, high dynamic range, and rapid motion. Yet, single-photon sensitivity in SPADs comes at a cost — each photon detection consumes more energy than that of a CMOS camera. This avalanche power significantly limits sensor resolution and could restrict widespread adoption of SPAD-based SPCs. We propose a computational-imaging approach called photon inhibition to address this challenge. Photon inhibition strategically allocates detections in space and time based on downstream inference task goals and resource constraints. We develop lightweight, on-sensor computational inhibition policies that use past photon data to disable SPAD pixels in real-time, to select the most informative future photons. As case studies, we design policies tailored for image reconstruction and edge detection, and demonstrate, both via simulations and real SPC captured data, considerable reduction in photon detections (over 90% of photons) while maintaining task performance metrics. Our work raises the question of “which photons should be detected?”, and paves the way for future energy-efficient single-photon imaging.\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nLucas Koerner, Shantanu Gupta, Atul Ingle, and Mohit Gupta. \"Photon \nInhibition for Energy-Efficient Single-Photon Imaging.\" In European Conference on Computer Vision, pp. 90-107 (2024)\n[preprint link]",
@@ -22077,6 +22087,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=84302",
+          "author": "299",
+          "description": "子猫達はたくさんの先住猫達に囲まれて今日も元気いっぱいに部屋の中を走り回ります。 時には兄弟同士で激しい喧嘩も勃発することもありますが、ほとんどは心配のない単なるじゃれあいっこです。 そんな子猫達のことをいつも気にかけて...\n子猫達の遊び相手になってあげる面倒見の良い先住猫 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/84302",
+          "publishedOn": "2024-11-13T16:30:30.000Z",
+          "wordCount": 1344,
+          "title": "子猫達の遊び相手になってあげる面倒見の良い先住猫",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84302.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=84248",
           "author": "299",
