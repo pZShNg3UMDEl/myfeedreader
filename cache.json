@@ -3303,6 +3303,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/2187eda56cad05e6ae68b9fc35f466073bac9a8c?source=rss",
+          "author": null,
+          "description": "衆議院選挙での国民民主党の躍進で「年収103万円の壁」に注目が集まっています。所得税がかかり始める課税の最低ラインを年収178万円に引き上げる事で手取りを増やそうという政策です。",
+          "link": "https://news.yahoo.co.jp/articles/2187eda56cad05e6ae68b9fc35f466073bac9a8c?source=rss",
+          "publishedOn": "2024-11-14T09:48:01.000Z",
+          "wordCount": 1724,
+          "title": "【FP解説】「103万円」実は高い壁じゃない？　本当に手取りが減るのは「●●万円」　国民民主党の”アキレス腱”が抱える課題(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241114-00010003-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a130b7faacc724278ad0efba9c96228679d20624?source=rss",
           "author": null,
           "description": "音響、映像、エンターテインメントなど様々なメディアの技術者らが一堂に介する国内最大級のメディア総合イベント「ＩｎｔｅｒＢＥＥ２０２４」が１３日、幕張メッセで始まり、ＮＴＴスポルティクトと朝日放送テレ",
@@ -7729,6 +7739,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/crk47k251vpo#0",
+          "author": null,
+          "description": "国連はこのほど、イスラエルがシリアとの非武装緩衝地帯沿いで建設活動を行い、50年前の停戦合意が「深刻な違反」を受けていると指摘した。占領下のゴラン高原にある両国の境界線で、緊張が高まるリスクがあるという。",
+          "link": "https://www.bbc.com/japanese/articles/crk47k251vpo",
+          "publishedOn": "2024-11-14T09:48:01.000Z",
+          "wordCount": 935,
+          "title": "イスラエルがシリアとの非武装地帯付近で建設活動、国連監視団は「停戦合意違反」と警告",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/94c5/live/5fa0eef0-a25f-11ef-bdf5-b7cb2fa86e10.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c9vnjvm7k8ko#0",
           "author": null,
