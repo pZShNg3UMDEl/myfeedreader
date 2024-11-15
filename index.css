@@ -26,9 +26,9 @@
    */
   --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
     "Helvetica Neue", sans-serif;
-  --font-size-L: 4.0rem; // 3.6rem;
-  --font-size-m: 3.6rem; // 2.2rem;
-  --font-size-s: 3.0rem; // 1.8rem;
+  --font-size-L: 3.6rem;
+  --font-size-m: 2.2rem;
+  --font-size-s: 1.8rem;
   --font-size-scaler: 62.5%; /* 1rem = 10px */
   --line-height-body: 1.4;
   --line-height-heading: 1.2;
