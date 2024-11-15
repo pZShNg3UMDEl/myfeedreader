@@ -29,7 +29,7 @@
   --font-size-L: 3.6rem;
   --font-size-m: 3.0rem; // 2.2rem;
   --font-size-s: 2.6rem; // 1.8rem;
-  --font-size-scaler: 62.5%; /* 1rem = 10px */
+  --font-size-scaler: 80%; // 62.5%; /* 1rem = 10px */
   --line-height-body: 1.4;
   --line-height-heading: 1.2;
 
