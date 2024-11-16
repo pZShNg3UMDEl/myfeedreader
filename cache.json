@@ -454,6 +454,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCk4TwaCBT1JIhzdYMhf0fww",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eSahmBSLnOU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eSahmBSLnOU",
+          "publishedOn": "2024-11-16T12:30:36.000Z",
+          "wordCount": null,
+          "title": "【悲報】堀口英利、財産開示手続きで詰んだかも？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XFEeMWM-WN8",
           "author": null,
           "description": "",
@@ -3657,6 +3667,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/557ecdf4c5934a23f6480e78ebc55475c347ed3a?source=rss",
+          "author": null,
+          "description": "１１月、京都市山科区に住む５１歳の男性が、通信費などの架空請求で約８０万円をだまし取られました。\n\n　男性は交番に相談していたにもかかわらず、対応した警察官が詐欺と見抜けず、被害を防ぐことができませ",
+          "link": "https://news.yahoo.co.jp/articles/557ecdf4c5934a23f6480e78ebc55475c347ed3a?source=rss",
+          "publishedOn": "2024-11-16T11:49:19.000Z",
+          "wordCount": 1700,
+          "title": "相談した交番の警察官が詐欺を見抜けず　架空請求で５０代男性が約８０万円だまし取られる(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241116-00048572-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/eea6d65c67acf74b0b9924eb6815d53b5b9c8d9e?source=rss",
           "author": null,
@@ -10490,16 +10510,6 @@
           "wordCount": 2525,
           "title": "5G基地局向け吸収型SPDTスイッチ",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/21/cover_news051.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2410/18/news070.html",
-          "author": null,
-          "description": "インフィニオン テクノロジーズは、プログラマブルUSBペリフェラルコントローラー「EZ-USB FX20」を発表した。USB-C直接接続をサポートし、LVDSおよびLVCMOSとの間で最大20Gビット/秒のダイレクトメモリアクセスデータ転送を可能にした。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2410/18/news070.html",
-          "publishedOn": "2024-10-18T00:00:00.000Z",
-          "wordCount": 2544,
-          "title": "総帯域幅が従来比6倍のUSBペリフェラルコントローラー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/18/cover_news070.jpg"
         }
       ]
     },
@@ -11988,6 +11998,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122537/",
+          "author": null,
+          "description": "テレビアニメ「全力ウサギ（第2期）」が2025年に放送されることが決定し、キービジュアルが披露された。 同作は、イケダケイ氏による漫画を再アニメ化した23年放送のテレビアニメの第2期。全力工務店...",
+          "link": "https://anime.eiga.com/news/122537/",
+          "publishedOn": "2024-11-16T12:00:00.000Z",
+          "wordCount": 1110,
+          "title": "「全力ウサギ」第2期、25年放送　11月23日にイオンモール津田沼で松浦愛弓ら登壇イベント開催",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122556/",
           "author": null,
@@ -15785,16 +15810,6 @@
           "wordCount": 1150,
           "title": "【閉店日変更】「どさん子大将厚木店」の閉店日が10月末→10月25日（金）になってる。［厚木市栄町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/10/dosanko-heiten202410.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=45757",
-          "author": "comomo",
-          "description": "人知れずたたずんでいるようなお店を見つけるのが好きなももこ＠あつらぼです。 今回は、穴場ランチスポットのレポートです☆ 早速場所からどうぞ～！ 「fishmonger’s bar nagomi」場所は厚木市寿町。本厚木駅東口より…",
-          "link": "https://atsugi-lab.com/lunchreport-nagomi202410/",
-          "publishedOn": "2024-10-18T00:06:59.000Z",
-          "wordCount": 1233,
-          "title": "【話題】今年オープンのダイニングバー「fishmonger’s bar nagomi」の平日限定ランチに行ってみた♪［厚木市寿町］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/10/nagomi-lunch2024.jpg"
         }
       ]
     },
@@ -15803,6 +15818,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=264619",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「サクマ製菓 いちごみるく ひとくちアイス」を世界一詳しく調査しました。   公式YouTub […]",
+          "link": "https://foodfighter.jp/711sej-sakuma-ichigomilk-ice",
+          "publishedOn": "2024-11-16T12:25:54.000Z",
+          "wordCount": 1748,
+          "title": "【セブンイレブン】サクマ製菓 いちごみるく ひとくちアイス【新作アイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/c36d57fc5cb7cf3dd9cfaa1c5bde3a71.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=264597",
           "author": "foodfighter",
@@ -17170,6 +17195,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2041708.html",
+          "author": "damono3856",
+          "description": "1 名前：ごまカンパチ ★：2024/11/15(金) 22:23:24.64 ID:f7lftYDm9.net\n\n\n\n\n\n\n\n女性に広がる「4B運動」　トランプ氏勝利に失望、男性と接触拒否米大統領選で共和党のトランプ前大統領が返り咲きを決めたことを受け、一部の女性の間で男性との接触を一切拒絶する「4B運...",
+          "link": "https://itainews.com/archives/2041708.html",
+          "publishedOn": "2024-11-16T12:01:51.000Z",
+          "wordCount": 2707,
+          "title": "【米国】女性に広がる「4B運動」　トランプ氏勝利に失望、男性と接触拒否",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/5/559f513f-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2041706.html",
           "author": "damono3856",
@@ -26056,16 +26091,6 @@
           "wordCount": 1345,
           "title": "初めての猫じゃらしに威嚇してしまう子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/82807.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=82835",
-          "author": "299",
-          "description": "フクタンという名前のスコティッシュ・フォールドの猫ちゃんが畳の上で座りながら、好奇心旺盛な様子で撮影者さんの様子を見ている場面から始まります。 撮影者さんと遊びたくなった、フクタンちゃんは好奇心旺盛な様子で急に立ち上がっ...\n二足歩行で遊んでアピールをする猫ちゃんが可愛すぎる動画です first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/82835",
-          "publishedOn": "2024-10-18T00:00:25.000Z",
-          "wordCount": 1321,
-          "title": "二足歩行で遊んでアピールをする猫ちゃんが可愛すぎる動画です",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/82835.jpg"
         }
       ]
     }
