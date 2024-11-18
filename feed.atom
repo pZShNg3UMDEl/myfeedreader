@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-18T17:15:28.796Z</updated>
+    <updated>2024-11-18T17:39:15.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IEDM 2024 Program is Live]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/11/iedm-2024-program-is-live.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/11/iedm-2024-program-is-live.html"/>
+        <updated>2024-11-18T17:24:00.000Z</updated>
+        <summary type="html"><![CDATA[70th Annual IEEE International Electron Devices Meeting (IEDM) will be held December 7-11, 2024 in San Francisco California. Session #41 is on the topic of "Advanced Image Sensors":
+https://iedm24.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=58
+Title: 41 | ODI | Advanced Image Sensors
+Description:
+This session includes 6 papers on latest image sensor technologies developments. To be noticed this year the multiple ways of stacking layer with new features. The first stack involves a dedicated AI image processing layer based on neural networks for a 50 Mpix sensor. The second one shows progress on small pixel noise with 2-layer pixel and additional intermediate interconnection. Third stack, very innovative with organic pixel on top of conventional Si based ITOF pixel for true s…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[朝になったらフミフミしながら飼い主さんを起こそうとするニャンコさん]]></title>
         <id>https://2-9-9.com/?p=84569</id>
