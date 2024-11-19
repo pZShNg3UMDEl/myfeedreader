@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1yLf-Cm-W_w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1yLf-Cm-W_w",
+          "publishedOn": "2024-11-19T08:48:30.000Z",
+          "wordCount": null,
+          "title": "なりすまし？堀口英利示談封筒を推理する回",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S9aMMFO8D6M",
           "author": null,
           "description": "",
@@ -700,6 +710,26 @@
       "feedUrl": "https://www.4gamer.net/rss/wii/wii_news.xml",
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
+        {
+          "id": "https://www.4gamer.net/games/659/G065911/20241119049/",
+          "author": null,
+          "description": "2025年3月6日に発売を予定している「幻想水滸伝I&IIHDリマスター門の紋章戦争/デュナン統一戦争」の発売に向けて「幻想水滸伝108カウントダウン」が，2024年11月18日から公式Xアカウントでスタートした。カウントダウンでは，第1作と第2作に登場したキャラクターを毎日1名ずつ紹介していく。",
+          "link": "https://www.4gamer.net/games/659/G065911/20241119049/",
+          "publishedOn": "2024-11-19T09:09:47.000Z",
+          "wordCount": 7459,
+          "title": "「幻想水滸伝 I&II HDリマスター」発売カウントダウン企画を開始。第1作と第2作に登場したキャラクターを毎日1名ずつ紹介",
+          "imageUrl": "https://www.4gamer.net/games/659/G065911/20241119049/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/450/G045095/20241119051/",
+          "author": null,
+          "description": "Fangamerは，「BabaisYou」の新作グッズを販売中だ。今回，新たに登場したのはゲーム中のパズルに登場する仕掛けやキャラクターたちをモチーフにしたデザインのTシャツ，ポロシャツ，ピンバッジ，マグネットの4種。また，Fangamerではブラックフライデー・セールおよび年末セールを開催している。",
+          "link": "https://www.4gamer.net/games/450/G045095/20241119051/",
+          "publishedOn": "2024-11-19T09:08:44.000Z",
+          "wordCount": 7337,
+          "title": "「Baba is You」パズルのように動かせるマグネットやピンバッジなど新作グッズを発売。Fangamerではセールを実施中",
+          "imageUrl": "https://www.4gamer.net/games/450/G045095/20241119051/SS/003.jpg"
+        },
         {
           "id": "https://www.4gamer.net/games/619/G061991/20241119015/",
           "author": null,
@@ -10889,6 +10919,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=88878",
+          "author": "編集部：松永達矢",
+          "description": "富士通クライアントコンピューティング（FCCL）は、電子ペーパー「QUADERNO（クアデルノ）」のカラーモデル（Gen.3C）のA5／A4モデルを本日より予約開始。11月22日（金）に発売する。価格はオープンだが公式ストアではA5モデルが59,800円、A4モデルで79,800円（ともに税込）で販 […]",
+          "link": "https://gadget.phileweb.com/post-88878/",
+          "publishedOn": "2024-11-19T09:05:00.000Z",
+          "wordCount": 747,
+          "title": "FCCL、電子ペーパー「QUADERNO」にカラー表示対応モデル。A4／A5サイズの2種展開",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/001.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=88866",
           "author": "Munenori Taniguchi",
           "description": "火星が現在のような姿になる前は、地球と同じように厚い大気の層があり、水も豊富にあったと考えられている。そのため、いまも火星に生命が存在する可能性を探る科学者らは、まず赤い彼の地に水を発見する必要があると考えてきた。 そして、いまそこに水がないのであれば、探査機によって水を持ち込んだらどうなるかという […]",
@@ -12418,6 +12458,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122589/",
+          "author": null,
+          "description": "漫画「鬼灯の冷徹」で知られる江口夏実氏の連載最新作「出禁のモグラ」が、2025年7月にテレビアニメ化されることが決定した。中村悠一が主演を務める。ティザーPVとティザービジュアルが公開されている...",
+          "link": "https://anime.eiga.com/news/122589/",
+          "publishedOn": "2024-11-19T09:00:00.000Z",
+          "wordCount": 1067,
+          "title": "「鬼灯の冷徹」作者の最新作「出禁のモグラ」25年7月にTVアニメ化　中村悠一が主演、ブレインズ・ベースが制作",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122564/",
           "author": null,
@@ -22914,16 +22969,6 @@
           "wordCount": 2383,
           "title": "【画像】セブン、「明太海苔弁当」から明太と海苔を抜いて「ぎっしりおかず弁当」として新発売 ！",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/c/0ce2743f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040819.html",
-          "author": "damono3856",
-          "description": "1 名前：＠おっさん友の会 ★：2024/10/20(日) 16:08:09.02 ID:glF/BDkr9.net\n\n\n\n\n\n\n\n「名前覚えたからな！おまえの親も家も調べられるんだからな！」などと販売員を脅迫した疑い 昼下がりの女性用化粧品店 来店して怒鳴り散らした38歳無職の男を逮捕 札幌市中央区(北海...",
-          "link": "https://itainews.com/archives/2040819.html",
-          "publishedOn": "2024-10-20T21:02:30.000Z",
-          "wordCount": 2339,
-          "title": "【北海道札幌】「名前覚えたからな！おまえの親も家も調べられるんだからな！」女性用化粧品店へ来店し怒鳴り散らした無職男(38)を逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/d/3d05a259-s.png"
         }
       ]
     },
