@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-19T11:14:17.711Z</updated>
+    <updated>2024-11-19T11:27:51.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【米政権交代】 マール・ア・ラーゴへの「巡礼」　その中の様子は]]></title>
+        <id>https://www.bbc.com/japanese/articles/cx2nr54q5nvo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cx2nr54q5nvo"/>
+        <updated>2024-11-19T11:11:13.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのドナルド・トランプ次期大統領がフロリダ州に所有する邸宅兼プライベートクラブ「マール・ア・ラーゴ」は再び「冬のホワイトハウス」となる。その豪華な扉の向こう側では次期大統領が新政権発足に向けて人事を検討している。ホワイトハウスのウエストウィング（執務棟）で起用されることを願う者たちの注目が、マール・ア・ラーゴに注がれている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aqara、水道を遠隔開閉できるスマートバルブ「T1」。水漏れセンサーとの連携にも対応]]></title>
         <id>https://gadget.phileweb.com/?p=88915</id>
