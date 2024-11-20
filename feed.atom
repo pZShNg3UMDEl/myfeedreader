@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T04:53:45.204Z</updated>
+    <updated>2024-11-20T05:16:45.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Valve、「Steam Controller 2」まもなく発売？ 新型VRコントローラーも登場か]]></title>
+        <id>https://gadget.phileweb.com/?p=88960</id>
+        <link href="https://gadget.phileweb.com/post-88960/"/>
+        <updated>2024-11-20T05:05:35.000Z</updated>
+        <summary type="html"><![CDATA[デジタルゲーム配信プラットフォームSteamを運営するValveは、かつてPC用のワイヤレスゲームパッド「Steam Controller」を販売していた。2019年には販売終了となっていたが、後継機の「Steam Controller 2」が製造中だと著名リーカーが主張している。 YouTuber […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪・北区のストリップ劇場「天満東洋ショー劇場」経営者らを逮捕　公然わいせつの疑い(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/76691104ed548ef6c798082c05fe6ee9b8e119f4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/76691104ed548ef6c798082c05fe6ee9b8e119f4?source=rss"/>
+        <updated>2024-11-20T05:04:20.000Z</updated>
+        <summary type="html"><![CDATA[大阪府警は20日、大阪市北区にあるストリップ劇場「天満東洋ショー劇場」で公然とわいせつな行為をしたとして、経営者の男ら9人を逮捕したと発表しました。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【サッカー】激震…「手続き上のミス」により九州第1代表・福岡大のインカレ欠場が決定、部は謝罪「痛恨の極み」]]></title>
+        <id>https://itainews.com/archives/2041828.html</id>
+        <link href="https://itainews.com/archives/2041828.html"/>
+        <updated>2024-11-20T05:01:41.000Z</updated>
+        <summary type="html"><![CDATA[1 ：征夷大将軍 ★：2024/11/19(火) 18:12:30.25 ID:31pyAm8A9.net
+
+
+
+
+
+
+
+
+
+
+激震…「手続き上のミス」により九州第1代表・福岡大のインカレ欠場が決定、部は謝罪「痛恨の極み」https://t.co/w1NhUkGz36#ゲキサカ #大学サッカー #インカレ— ゲキサカ (@gekisaka) Novem...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクロソフト「Microsoft 365 Link」発表。クラウドベースのWindows環境に特化したミニPCデバイス]]></title>
         <id>https://gadget.phileweb.com/?p=88941</id>
@@ -32406,31 +32447,6 @@ https://i.imgur.co...]]></summary>
 ブリティッシュショートヘアの子猫の寝姿がまるで天使です first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLVS-EC IF Standard v3 released]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/10/slvs-ec-if-standard-v3-released.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/10/slvs-ec-if-standard-v3-released.html"/>
-        <updated>2024-10-21T17:07:00.001Z</updated>
-        <summary type="html"><![CDATA[Link: http://jiia.org/en/slvs-ec-if-standard-version-3-0-has-been-released/
-Embedded Vision I/F WG has released "SLVS-EC IF Standard Version 3.0”.
-Version 3.0 supports up to 10Gbps/lane, which is 2x faster than Version 2.0, and improved data transmission efficiency.
-Link: https://www.m-pression.com/solutions/hardware/slvs-ec-rx-30-ip
-
-
-SLVS-EC v3.0 Rx IP is an interface IP core that runs on Altera® FPGAs. Using this IP, you can quickly and easily implement products that support the latest SLVS-EC standard v3.0. You will also receive an "Evaluation kit" for early adoption.
-
-
- Altera® FPGAs can receive signals directly from the SLVS-EC Interface.
- Compatible with the latest SLVS-EC Specification Version 3.0.
- Supports powerful De-Skew function. Enables board design without considering Skew that occurs between lanes.
- "Evaluation kit”(see below) is available for speedy evaluation at the actual device level.
-
- About SLVS-EC:
-SLVS-EC (Scalable Low Voltage Signaling with Embedded Clock) is an interface standard for high-speed & high-resolution image sensors developed by Sony Semiconductor Solutions Corporation. The SLVS-EC standard is standardized by JIIA (Japan Industrial Imaging Association).]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
