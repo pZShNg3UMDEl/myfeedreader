@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9QCKCeSKljE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9QCKCeSKljE",
+          "publishedOn": "2024-11-20T12:00:10.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】GENERATIONSライブの裏側を覗き見！【チョコプラ/シソンヌ/GENERATIONS】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oyzRjln9Zpg",
           "author": null,
           "description": "",
@@ -11020,16 +11030,6 @@
           "wordCount": 2502,
           "title": "16チャネル分の電源を集積したSTプロセッサ用PMIC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/23/cover_news078.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2410/22/news073.html",
-          "author": null,
-          "description": "セイコーエプソンは、無線送信機向けRFトランスミッターIC「S1S77100」の量産を開始した。UHF帯の特定周波数に対応している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2410/22/news073.html",
-          "publishedOn": "2024-10-22T00:00:00.000Z",
-          "wordCount": 2521,
-          "title": "無線送信機向けRFトランスミッターIC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/22/cover_news073.jpg"
         }
       ]
     },
@@ -12588,6 +12588,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122596/",
+          "author": null,
+          "description": "巨匠リドリー・スコットが手掛けた名作の続編「グラディエーターII 英雄を呼ぶ声」が11月15日に封切られ、北野武監督、押井守監督、「EXILE」/「三代目 J SOUL BROTHERS」の小林...",
+          "link": "https://anime.eiga.com/news/122596/",
+          "publishedOn": "2024-11-20T12:00:00.000Z",
+          "wordCount": 1119,
+          "title": "「グラディエーターII」北野武監督、押井守監督ら各界の精鋭が太鼓判　ヤマザキマリによる特別イラストも公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122600/",
           "author": null,
@@ -17710,6 +17725,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2041850.html",
+          "author": "damono3856",
+          "description": "1 名前：名無しさん＠涙目です。：2024/11/20(水) 08:26:56.33 ID:8MNHasxO0●.net\n\n\n\n\n\n\n\nBREAKING:The famous Russian ballet dancer,Putin-critic and opponent of Russia’s invasion of Ukraine, Vladimir Shklyarov,has died at the age of 39.He fell out from a ...",
+          "link": "https://itainews.com/archives/2041850.html",
+          "publishedOn": "2024-11-20T12:01:18.000Z",
+          "wordCount": 2629,
+          "title": "【謎】プーチン批判で有名なバレエダンサーがアパート5階の窓から転落し死亡　享年39歳",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/d/bd0bf0d4-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2041842.html",
           "author": "damono3856",
@@ -26586,16 +26611,6 @@
           "wordCount": 1350,
           "title": "親猫が止めても遊び続けるワンパクな子猫達が可愛いです。",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83047.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83075",
-          "author": "299",
-          "description": "猫のポコ太郎がなんだかソワソワしています。それもそのはず、ママが帰ってくる日なのでした。 ソワソワ落ち着かないのはポコ太郎だけではありません。息子のうま次郎も玄関をうろうろしています。 それから2時間後に、ようやくママが...\nママが久しぶりに帰宅して嬉しさ爆発なポコ太郎 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83075",
-          "publishedOn": "2024-10-22T00:00:10.000Z",
-          "wordCount": 1340,
-          "title": "ママが久しぶりに帰宅して嬉しさ爆発なポコ太郎",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83075.jpg"
         }
       ]
     }
