@@ -801,6 +801,46 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/811/G081118/20241121008/",
+          "author": null,
+          "description": "スパイク・チュンソフトは，「かまいたちの夜」の30周年を記念したサイトをプレオープンした。本公開は11月25日とされており，さまざまなコンテンツを掲載する予定だという。",
+          "link": "https://www.4gamer.net/games/811/G081118/20241121008/",
+          "publishedOn": "2024-11-21T02:34:10.000Z",
+          "wordCount": 6981,
+          "title": "「かまいたちの夜」30周年記念サイトをプレオープン。11月25日にさまざまなコンテンツを公開予定",
+          "imageUrl": "https://www.4gamer.net/games/811/G081118/20241121008/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/859/G085916/20241121004/",
+          "author": null,
+          "description": "Catobyteは本日，Switch版「SuperBunnyMan」の配信を開始した。本作は，ウサギの着ぐるみを着た謎の男「バニーマン」が転がったり，ジャンプしたり，掴んだりしながら，ニンジンを求めて旅をする協力型横スクロールアクションゲームだ。",
+          "link": "https://www.4gamer.net/games/859/G085916/20241121004/",
+          "publishedOn": "2024-11-21T02:30:25.000Z",
+          "wordCount": 7066,
+          "title": "ウサギの着ぐるみを着た謎の男を操作してニンジンを集める。最大4人で遊べるSwitch版「Super Bunny Man」，本日配信",
+          "imageUrl": "https://www.4gamer.net/games/859/G085916/20241121004/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/820/G082009/20241121003/",
+          "author": null,
+          "description": "インティ・クリエイツは本日，2Dアクションゲーム「精霊機（スピリットマシン）フレイリート」をリリースした。本作は，1990年代のファンタジーロボットアニメの雰囲気を再現したタイトルだ。異世界「キラカディア」を舞台に，主人公の火野勇人とその相棒，精霊機・剣士フレイリートの冒険を描いている。",
+          "link": "https://www.4gamer.net/games/820/G082009/20241121003/",
+          "publishedOn": "2024-11-21T02:15:21.000Z",
+          "wordCount": 7367,
+          "title": "1990年代のロボットアニメ風2Dアクションゲーム「精霊機フレイリート」，本日リリース。戦闘シーンを収録した最新映像を公開",
+          "imageUrl": "https://www.4gamer.net/games/820/G082009/20241121003/SS/007.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/811/G081113/20241119067/",
+          "author": null,
+          "description": "ファミコン版「ドラゴンクエストIII」が発売された1988年，ディーノ選手は11歳。いわゆるど真ん中の世代。今週の「男色ディーノのゲイムヒヒョーゼロ」では，当時の思い出を振り返っています。プロレスラーに憧れ，その道を志した理由にもドラクエが関係しているとか。",
+          "link": "https://www.4gamer.net/games/811/G081113/20241119067/",
+          "publishedOn": "2024-11-21T02:00:00.000Z",
+          "wordCount": 7102,
+          "title": "男色ディーノのゲイムヒヒョー ゼロ：第813回「理不尽さが乗り越えられなかったから」",
+          "imageUrl": "https://www.4gamer.net/games/811/G081113/20241119067/SS/007.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/811/G081113/20241108042/",
           "author": null,
           "description": "スクウェア・エニックスは本日，発売中のHD-2D版「ドラゴンクエストIII　そして伝説へ…」で，冒険を進めるとたどり着く，謎めいたダンジョンの情報を公開した。ダンジョンには，手ごわいモンスターがひしめき合っているが，貴重なお宝が手に入る。また，お城や天まで伸びる塔のような場所も登場する。",
@@ -3807,6 +3847,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/9c3f6a4513777717a59d69721ffdd9e954410cae?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと、２１日午前１１時１０分ごろから兵庫県淡路市で約５９０軒の停電が発生しているということです。\n\n　復旧は午後２時ごろの見込みだということです。",
+          "link": "https://news.yahoo.co.jp/articles/9c3f6a4513777717a59d69721ffdd9e954410cae?source=rss",
+          "publishedOn": "2024-11-21T02:28:14.000Z",
+          "wordCount": 1664,
+          "title": "兵庫・淡路市で約５９０軒の停電　復旧は午後２時ごろの見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241121-00048637-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/58bd5fd6a2d34c734b5c97264fd6f4fe122fd590?source=rss",
           "author": null,
@@ -8495,6 +8545,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c05z24dr1j2o#0",
+          "author": null,
+          "description": "ウクライナのウォロディミル・ゼレンスキー大統領は19日夜の米FOXニュースの番組で、ウクライナの主要な軍事支援国であるアメリカが資金援助を打ち切れば、ウクライナは戦争に負けるだろうと述べた。",
+          "link": "https://www.bbc.com/japanese/articles/c05z24dr1j2o",
+          "publishedOn": "2024-11-21T02:17:32.000Z",
+          "wordCount": 1522,
+          "title": "ゼレンスキー氏、米資金援助失えば戦争に「負ける」　米テレビで主張",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/87d0/live/d76cf0c0-a7a8-11ef-a4fe-a3e9a6c5d640.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cjw0pegw3lno#0",
+          "author": null,
+          "description": "ウクライナは20日、イギリスから供与された長距離巡航ミサイル「ストームシャドウ」をロシア国内の標的に向けて初めて発射した。",
+          "link": "https://www.bbc.com/japanese/articles/cjw0pegw3lno",
+          "publishedOn": "2024-11-21T02:08:55.000Z",
+          "wordCount": 1511,
+          "title": "ウクライナ、英国製長距離ミサイルでロシア国内を初攻撃",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/4edb/live/68b3fdc0-a7aa-11ef-8ab9-9192db313061.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cm2zp19d4ggo#0",
           "author": null,
           "description": "ロシアによる全面侵攻開始から1000日目の19日、ウクライナはアメリカに提供された長距離ミサイルを初めてロシア国内に撃ち込んだ。ロシアのウラジーミル・プーチン大統領はこの事態を受けて核攻撃に踏み切るのか。スティーヴ・ローゼンバーグBBCロシア編集長が報告する。",
@@ -10838,6 +10908,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=89069",
+          "author": "多根清史",
+          "description": "先日、M4シリーズチップ搭載MacBook Proは量子ドットディスプレイ技術を採用した初のアップル製品であることが明らかにされていた。それに続き、この技術が次世代の「Pro Display XDR」にも使われると著名アナリストが主張している。 これはディスプレイ専門アナリストのRoss Young […]",
+          "link": "https://gadget.phileweb.com/post-89069/",
+          "publishedOn": "2024-11-21T02:36:48.000Z",
+          "wordCount": 786,
+          "title": "次世代「Pro Display XDR」も量子ドット採用？ 2025年発売の可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/shutterstock_2463116471.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=89056",
+          "author": "編集部：平山洸太",
+          "description": "モトローラ・モビリティ・ジャパンは、折りたたみスマートフォンのハイエンドモデル「motorola razr 50 ultra」を12月6日に発売する。通信キャリアではソフトバンクオンラインショップとIIJmio、オープンマーケット版は各種家電量販店やECストアが取り扱う。モトローラ公式ECストアでの […]",
+          "link": "https://gadget.phileweb.com/post-89056/",
+          "publishedOn": "2024-11-21T02:00:00.000Z",
+          "wordCount": 781,
+          "title": "モトローラ、折りたたみスマホ最上位「razr 50 ultra」。アウトディスプレイ大型化、カメラ＆AI機能強化",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/DSC_87301120879e.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=88395",
           "author": "コヤマタカヒロ",
@@ -15551,16 +15641,6 @@
           "wordCount": 4398,
           "title": "利率3%の投資話",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10844",
-          "author": "watanabe@logipara.com",
-          "description": "最近の寒暖差、エグくないですか。 夏日と思えば翌日には10℃下がり、また翌日は暑くなって……と、試される大地、日本。 秋への衣替えをいつすればいいのかわからず、いまだ半袖でフラフラ出歩いています。昭和の小学生か。 　 こ […]",
-          "link": "https://logipara.com/diary-text/2024-10-23/",
-          "publishedOn": "2024-10-22T13:47:40.000Z",
-          "wordCount": 4395,
-          "title": "体調、崩してませんか",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -16093,6 +16173,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=265114",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/nakau-salmon-ikura-don",
+          "publishedOn": "2024-11-21T02:35:08.000Z",
+          "wordCount": 1795,
+          "title": "【なか卯】サーモンいくら丼【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/0ff763d6fa500d8d831815c44d5de300.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=265091",
           "author": "foodfighter",
@@ -17432,16 +17522,6 @@
           "wordCount": 1786,
           "title": "【マクドナルド】ダブチソーセージマフィン【朝マック・期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/17eae265ab91cfa68594aa4a1c2d2e39.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=262188",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「明太もちチーズまん」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグ […]",
-          "link": "https://foodfighter.jp/711sej-mentai-mochi-cheese-bun",
-          "publishedOn": "2024-10-22T14:30:40.000Z",
-          "wordCount": 1737,
-          "title": "【セブンイレブン】明太もちチーズまん【新作コンビニ中華まん】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/47575e9693df07c2a6a99da114c06472.jpg"
         }
       ]
     },
@@ -17450,6 +17530,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2041870.html",
+          "author": "damono3856",
+          "description": "1 名前：あ：2024/11/20(水) 22:23:59.97 ID:NRz2lbdT0.net\n\n\n\n\n\n\n\n【悲報】稲村県知事候補が今回の兵庫県知事選挙をナチスの台頭扱いチャット欄は大荒れ@tachibanat @motohikosaitoH pic.twitter.com/rDNxMvJTPZ— 剣聖@しかのこ/民意の勝利 (@sikanokokoshi) November ...",
+          "link": "https://itainews.com/archives/2041870.html",
+          "publishedOn": "2024-11-21T02:31:37.000Z",
+          "wordCount": 2440,
+          "title": "【炎上】　さいとう元彦に選挙で負けた、稲村和美さん　ナチス扱いして大炎上ｗ （動画あり）",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/8/780d42bf-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2041860.html",
           "author": "dqnplus",
@@ -22669,16 +22759,6 @@
           "wordCount": 2473,
           "title": "“最低賃金1500円引き上げ”めぐり　経団連十倉会長「達成不可能な目標は混乱招くだけ」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/0/203b7314-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040880.html",
-          "author": "damono3856",
-          "description": "1 名前：シャチ ★：2024/10/22(火) 16:14:45.35 ID:BqJQUpfE9.net\n\n\n\n\n\n\n\n刑務所服役中に仲を深め、出所後に犯行繰り返す　高齢者連続窃盗団　計10件の窃盗事件などに関与　被害額は100万円以上　札幌市など#北海道放送 #hbcnews | @HBCnewsJNN | @HBChokkaidohttps://t...",
-          "link": "https://itainews.com/archives/2040880.html",
-          "publishedOn": "2024-10-22T14:01:14.000Z",
-          "wordCount": 2419,
-          "title": "【北海道】高齢窃盗団　８８歳、７１歳、６９歳の男たちは刑務所で知り合い、出所後に犯行を繰り返したという",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/2/b289a42a-s.png"
         }
       ]
     },
@@ -22687,6 +22767,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=84634",
+          "author": "299",
+          "description": "茶トラ猫さんがヒヨコ達をカゴの中で、お腹に優しく包んでお世話している様子から始まります。 まるで母乳をねだるかのように顔をお腹に押し付けて甘えるヒヨコ達が可愛すぎます。 対照的に茶トラ猫さんは周囲を警戒するかのように見渡...\n親鳥と一緒にヒヨコ達のお世話をする茶トラ猫さんの動画 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/84634",
+          "publishedOn": "2024-11-21T02:00:22.000Z",
+          "wordCount": 1344,
+          "title": "親鳥と一緒にヒヨコ達のお世話をする茶トラ猫さんの動画",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84634.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=84659",
           "author": "299",
@@ -26216,16 +26306,6 @@
           "wordCount": 1344,
           "title": "遊び疲れ、秒で寝落ちしてしまう子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83144.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83084",
-          "author": "299",
-          "description": "クリーム色の子猫うちゃんが、小さなお目々をくりくりさせながら部屋の中を歩き回っています。ずっとひっきりなしに可愛い声で鳴き声を上げています。 どうやら相棒の居場所を探しているようです。ずっと鳴いている子猫に保護主さんもミ...\nミルクが飲みたくて激しくアピールする子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83084",
-          "publishedOn": "2024-10-22T14:30:17.000Z",
-          "wordCount": 1343,
-          "title": "ミルクが飲みたくて激しくアピールする子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83084.jpg"
         }
       ]
     }
