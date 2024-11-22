@@ -11400,16 +11400,6 @@
           "wordCount": 2519,
           "title": "48V EVシステム向け電源モジュール",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/25/cover_news089.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2410/24/news084.html",
-          "author": null,
-          "description": "アナログ・デバイセズは、エッジデバイス向けの組み込みソフトウェア開発環境「CodeFusion Studio」を発表した。Microsoftの「Visual Studio Code」をベースとし、IDEやSDK、生産性向上ツール、構成ツールを統合している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2410/24/news084.html",
-          "publishedOn": "2024-10-24T00:00:00.000Z",
-          "wordCount": 2541,
-          "title": "インテリジェントエッジ向けのソフトウェア開発環境",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2410/24/cover_news084.png"
         }
       ]
     },
@@ -13018,6 +13008,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122576/",
+          "author": null,
+          "description": "大ヒットディズニー映画の続編「モアナと伝説の海2」の日本語版に、小関裕太、鈴木梨央、山路和弘、ソニンが参加することがわかった。あわせて、モアナ役の屋比久知奈、マウイ役の尾上松也を含む声優陣が、オ...",
+          "link": "https://anime.eiga.com/news/122576/",
+          "publishedOn": "2024-11-22T12:00:00.000Z",
+          "wordCount": 1125,
+          "title": "「モアナと伝説の海2」に小関裕太、鈴木梨央、山路和弘、ソニン　豪華日本版声優のスペシャル歌唱映像も",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122624/",
           "author": null,
@@ -18240,6 +18245,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2041922.html",
+          "author": "damono3856",
+          "description": "1 名前：jinjin ★：2024/11/22(金) 07:59:08.28 ID:V/+2a8BB9.net\n\n\n\n\n\n\n\n【松本人志『探偵ナイトスクープ』での“映像出演”にクレーム続出…ABC局内からは「復帰は難しい」の声も】https://t.co/nNaRGESBVI #M-1グランプリ #お笑い芸人 #ダウンタウン #探偵ナイトスク...",
+          "link": "https://itainews.com/archives/2041922.html",
+          "publishedOn": "2024-11-22T12:01:43.000Z",
+          "wordCount": 2647,
+          "title": "松本人志『探偵ナイトスクープ』での映像出演にクレーム続出…ABC局内からは「復帰は難しい」の声も",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/5/c58d05af-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2041927.html",
           "author": "damono3856",
@@ -27096,16 +27111,6 @@
           "wordCount": 1346,
           "title": "オモチャに興味津々な子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83156.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83181",
-          "author": "299",
-          "description": "部屋を歩き回るそっくん。 お腹を空かせている様子で、どこかそわそわ。 飼い主さんがそっくんのためにミルクを用意します。お待ちかね！とばかりに嬉しそうにゴクゴクと飲むそっくん。飼い主さんも驚くほどの吸引力で、可愛さ満点です...\n2匹の子猫の癒やしのミルクタイム first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83181",
-          "publishedOn": "2024-10-24T00:00:37.000Z",
-          "wordCount": 1346,
-          "title": "2匹の子猫の癒やしのミルクタイム",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83181.jpg"
         }
       ]
     }
