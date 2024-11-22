@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BhQbnvTLWto",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BhQbnvTLWto",
+          "publishedOn": "2024-11-22T08:38:43.000Z",
+          "wordCount": null,
+          "title": "意味がわかると本気で怖い堀口英利インスタ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-BBRAqNqiDY",
           "author": null,
           "description": "",
@@ -11319,6 +11329,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=89223",
+          "author": "Munenori Taniguchi",
+          "description": "英ユニバーシティ・カレッジ・ロンドン（UCL）の研究者らが、太さ372ナノメートル（nm。1nm = 0.000000001m）のスパゲティを製麺した。学術誌Nanoscale Advancesに報告されたこの食材、いやデンプンナノファイバーの束は、食用ではなく医療分野での活用が期待されるという。  […]",
+          "link": "https://gadget.phileweb.com/post-89223/",
+          "publishedOn": "2024-11-22T08:34:30.000Z",
+          "wordCount": 777,
+          "title": "太さ372ナノメートル、世界一細いスパゲッティを科学者が製麺",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/spaghetti.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=89205",
           "author": "Munenori Taniguchi",
           "description": "ここ最近のユーザー数急増を受けて、さらに注目を集めるSNSとなりつつあるBlueskyのジェイ・グラバーCEOは、CNBCのインタビューで「Blueskyは億万長者対策済みだ」と発言した。 グラバー氏は、2019年にTwitter共同創業者で当時のCEOだったジャック・ドーシー氏が抱いていた、分散型 […]",
@@ -12908,6 +12928,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122618/",
+          "author": null,
+          "description": "オリジナルアニメ「KING OF PRISM」シリーズの次回作製作が決定した。11月21日に都内で開催された上映イベント「‐∞ラブ♡Thanks Week 前夜祭‐」で明らかになった。 2016...",
+          "link": "https://anime.eiga.com/news/122618/",
+          "publishedOn": "2024-11-22T08:30:00.000Z",
+          "wordCount": 1155,
+          "title": "「KING OF PRISM」シリーズの次回作製作が決定　菱田正和総監督がファンの愛に感謝",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122595/",
           "author": null,
