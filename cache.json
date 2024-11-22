@@ -851,6 +851,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/777/G077722/20241122068/",
+          "author": null,
+          "description": "RawFuryとHyperGamesは，「スナフキン：ムーミン谷のメロディ」のDLC「恋に落ちたクロットユール」を近日中にリリースすることをアナウンスし，最新トレイラーを公開した。また，時期は未定ながら，本作がPS5/XboxSeriesX|S向けにもリリースされることが明らかになった。",
+          "link": "https://www.4gamer.net/games/777/G077722/20241122068/",
+          "publishedOn": "2024-11-22T09:22:12.000Z",
+          "wordCount": 7176,
+          "title": "「スナフキン：ムーミン谷のメロディ」，DLC「恋に落ちたクロットユール」を近日リリース。PS5/Xbox Series X|S向けにも登場",
+          "imageUrl": "https://www.4gamer.net/games/777/G077722/20241122068/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/860/G086001/20241122067/",
           "author": null,
           "description": "コーエーテクモゲームスは2024年11月22日，「WinningPost102025」を2025年3月27日に発売すると発表した。価格はPC，PS5版が1万780円，Switch，PS4版が9680円だ。本作は，競馬シミュレーションゲーム「ウイニングポスト」シリーズの最新作で，11月28日に公式サイトが開設され，作品概要が明らかにされる予定だ。",
@@ -12948,6 +12958,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122620/",
+          "author": null,
+          "description": "アニメシリーズ「ヤマトよ永遠に REBEL3199」の「第三章 群青のアステロイド」が、2025年4月11日から劇場上映されることが決定した。特報映像とティザービジュアルが公開されている。 「ヤ...",
+          "link": "https://anime.eiga.com/news/122620/",
+          "publishedOn": "2024-11-22T09:30:00.000Z",
+          "wordCount": 1063,
+          "title": "「ヤマトよ永遠に REBEL3199」第三章が25年4月11日から劇場上映　特報映像とティザービジュアルが公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122616/",
           "author": null,
