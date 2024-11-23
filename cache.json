@@ -12367,16 +12367,6 @@
           "wordCount": 769,
           "title": "KDDIが進める「Starlink」とスマホの直接通信、沖縄・久米島で見たその実力とは",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/P1246522.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=87039",
-          "author": "コヤマタカヒロ",
-          "description": "近年、一般家庭に広がり始めている「スマートホーム」。これは、スマートフォンやインターネットに接続できる家電や各種センサーによって、生活をスマート化できる機能を備えた住宅のことだ。 単にスマートフォンから家電を操作できるだけではなく、そういった機能を活かして、家族の生活をよりスムーズにしたり、安心、快 […]",
-          "link": "https://gadget.phileweb.com/post-87039/",
-          "publishedOn": "2024-10-24T21:30:00.000Z",
-          "wordCount": 767,
-          "title": "人気の「スマートホーム」ってそもそも何？導入するとできること、便利になること",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/shutterstock_1931287913_.jpg"
         }
       ]
     },
@@ -12548,6 +12538,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122619/",
+          "author": null,
+          "description": "テレビアニメ「怪獣8号」第1期の総集編が、2025年3月28日から3週間限定で全国32の映画館で公開されることが決定した。あわせて、総集編のキービジュアルが披露されている。 同作は、集英社「少年...",
+          "link": "https://anime.eiga.com/news/122619/",
+          "publishedOn": "2024-11-23T09:30:00.000Z",
+          "wordCount": 1069,
+          "title": "「怪獣8号」第1期総集編、25年3月28日公開　同時上映「保科の休日」のストーリー原案は附田祐斗",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122623/",
           "author": null,
@@ -16408,6 +16413,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=265349",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、2024年11月16日から11月22日までに実食調査したチェーン店の最新コンビニスイーツ・アイス（全11種類）を美味しい・おす […]",
+          "link": "https://foodfighter.jp/sweets-icecream-ranking-2024-1123",
+          "publishedOn": "2024-11-23T09:22:11.000Z",
+          "wordCount": 1764,
+          "title": "【最新コンビニスイーツ・アイス】美味しい・おすすめランキング【2024年11月16日から11月22日】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/b0816735b40b4c42ad8d569052d01aa5.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=265326",
           "author": "foodfighter",
