@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KN0eibTKxfs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KN0eibTKxfs",
+          "publishedOn": "2024-11-23T15:25:47.000Z",
+          "wordCount": null,
+          "title": "田中東子さんの夫は山本淳久さんでした　お詫びライブ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qr3Sk8NUj-Q",
           "author": null,
           "description": "",
@@ -3759,16 +3769,6 @@
           "wordCount": 7829,
           "title": "あなたのすべきことは世界のために姫を殺すこと。高評価ADV「Slay the Princess」，日本語に対応し，PS/Xbox版もリリース",
           "imageUrl": "https://www.4gamer.net/games/851/G085127/20241025020/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/771/G077171/20241025017/",
-          "author": null,
-          "description": "セガは，アクションゲーム「ソニック×シャドウジェネレーションズ」を本日（2024年10月25日）発売した。本作は，「ソニックジェネレーションズ白の時空」のリマスター版と，完全新作「シャドウジェネレーションズ」をセットにしたものだ。また，アニメ「異世界おじさん」とコラボした実況プレイ動画も公開された。",
-          "link": "https://www.4gamer.net/games/771/G077171/20241025017/",
-          "publishedOn": "2024-10-25T03:23:34.000Z",
-          "wordCount": 7987,
-          "title": "ソニックとシャドウの華麗なアクションを1本で楽しめる「ソニック × シャドウ ジェネレーションズ」，本日発売",
-          "imageUrl": "https://www.4gamer.net/games/771/G077171/20241025017/SS/001.jpg"
         }
       ]
     },
@@ -10653,16 +10653,6 @@
           "wordCount": 1149,
           "title": "英首相、奴隷貿易めぐり「歴史は変えられない」　英連邦から謝罪と補償求める声",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/4e28/live/457e1ae0-9286-11ef-8e6d-e3e64e16c628.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cg4lqzrrv02o#0",
-          "author": null,
-          "description": "パレスチナ・ガザ地区での停戦と、イスラム組織ハマスがガザで拘束している人質の解放をめぐる交渉が、数日中にカタールの首都ドーハで再開される見通しとなった。アメリカ、イスラエル、カタールの当局が24日、発表した。",
-          "link": "https://www.bbc.com/japanese/articles/cg4lqzrrv02o",
-          "publishedOn": "2024-10-25T03:22:24.000Z",
-          "wordCount": 1472,
-          "title": "ガザ停戦協議、近く再開の見通し　イスラエルが代表団をカタールに派遣へ",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/96cd/live/443038c0-9273-11ef-89ae-5575c76d98e6.jpg"
         }
       ]
     },
@@ -12247,36 +12237,6 @@
           "wordCount": 777,
           "title": "Google PixelのTensorチップ、今後はTSMC製造に？消費電力や発熱の大幅改善に期待",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/shutterstock_2086819336.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=87358",
-          "author": "多根清史",
-          "description": "アップルの空間コンピュータ（MRヘッドセット）「Apple Vision Proに」につき、部品製造にかかわる「複数の関係者」が、ここ数カ月の間に生産計画が縮小されたとニュースメディアThe Informationの取材で語っている。 これは先週末、同社のティム・クックCEOがThe Wall St […]",
-          "link": "https://gadget.phileweb.com/post-87358/",
-          "publishedOn": "2024-10-25T03:25:38.000Z",
-          "wordCount": 773,
-          "title": "Apple Vision Pro、生産縮小か。「十分な在庫が蓄積」との証言",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/shutterstock_2418222987.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=87348",
-          "author": "Munenori Taniguchi",
-          "description": "Twitter風分散型SNSの「Bluesky」は10月24日、シリーズAラウンドで1500万ドルを調達した。シリーズAとは、すでに一定数のユーザー顧客がいるサービス企業が追加の開発や販路開拓を行うために行う資金調達ラウンドのこと。 Blueskyは、「ソーシャル ウェブをプラットフォームからプロト […]",
-          "link": "https://gadget.phileweb.com/post-87348/",
-          "publishedOn": "2024-10-25T03:22:10.000Z",
-          "wordCount": 846,
-          "title": "Bluesky、高品質動画対応やアバター装飾など含むサブスクサービスを計画中",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/09/bsk.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=87339",
-          "author": "多根清史",
-          "description": "アップルは来週、「M4シリーズ」チップを搭載した数々の新型Macを発表する予定だが、その中には「MacBook Air」は含まれていないとみられている。が、M4 MacBook AirおよびiPhone廉価モデルの後継機「iPhone SE 4」の発売が近づいていると著名アナリストが示唆している。  […]",
-          "link": "https://gadget.phileweb.com/post-87339/",
-          "publishedOn": "2024-10-25T03:16:20.000Z",
-          "wordCount": 793,
-          "title": "新型MacBook AirとiPhone SE、まもなくディスプレイ出荷開始か",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/shutterstock_2446767971.jpg"
         }
       ]
     },
@@ -22974,16 +22934,6 @@
           "wordCount": 2448,
           "title": "【相撲】西岩部屋所属力士・幹希の里、誹謗中傷するX垢調べたら「実母・祖母」だったと告白…分籍届提出",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/f/6f723d46-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2040965.html",
-          "author": "damono3856",
-          "description": "1 名前：首都圏の虎 ★：2024/10/24(木) 21:18:46.91 ID:mpc8Ghtd9.net\n\n\n\n\n\n\n\nタコ高騰、世界で引っ張りだこ　たこ焼き1個70円→90円https://t.co/NuR6EdXYy8— 日本経済新聞 電子版（日経電子版） (@nikkei) October 22, 2024  \n\n\n\n\n\n\nタコの値段が高騰し、世界一のタ...",
-          "link": "https://itainews.com/archives/2040965.html",
-          "publishedOn": "2024-10-25T03:29:03.000Z",
-          "wordCount": 2482,
-          "title": "タコ高騰、世界で引っ張りだこ　たこ焼き1個70円→90円",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/7/173128a3-s.png"
         }
       ]
     },
