@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T13:30:14.296Z</updated>
+    <updated>2024-11-24T13:41:01.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪・藤井寺市で住宅火災 　住人の７９歳男性と連絡取れず(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/cf5e1b8862ddf7ca757529dcc436e1bcb875c788?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/cf5e1b8862ddf7ca757529dcc436e1bcb875c788?source=rss"/>
+        <updated>2024-11-24T13:28:49.000Z</updated>
+        <summary type="html"><![CDATA[２４日夜、大阪府藤井寺市の住宅で火事があり、この家に住む７９歳の男性と連絡がとれていません。
+
+２４日午後８時４０分ごろ藤井寺市東藤井寺町の住宅で、近所の住民から「家が燃えている」と消防に通報がありま]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一人でドタバタ]]></title>
         <id>https://logipara.com/?p=10961</id>
@@ -32226,26 +32238,6 @@ https://news....]]></summary>
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「フタバ食品 特デカチョコバー プリン」を世界一詳しく調査しました。   公式YouTubeチ […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イスラエル軍報道官、「イランの軍事標的攻撃」と発表　「国と国民を守るため」]]></title>
-        <id>https://www.bbc.com/japanese/articles/cvg4lznmv7zo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cvg4lznmv7zo"/>
-        <updated>2024-10-26T01:34:04.000Z</updated>
-        <summary type="html"><![CDATA[イスラエル国防軍のハガリ報道官は26日、「イランの独裁政権がイスラエル国家に対して何カ月も継続的に攻撃を重ねてきたことに対応して、イスラエル国防軍は現在、イランの軍事標的に対する精密攻撃を実施している」と述べた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【話題・海老名】生パスタがもっちもち♡ビナガーデンズテラス3Fの人気イタリアン「VANSAN（バンサン）」の平日ランチに行ってみた♪]]></title>
-        <id>https://atsugi-lab.com/?p=45994</id>
-        <link href="https://atsugi-lab.com/lunchreport-vansan-ebina202410/"/>
-        <updated>2024-10-26T01:33:34.000Z</updated>
-        <summary type="html"><![CDATA[〇〇限定という言葉に弱いふみえ＠あつらぼです。 今回は海老名駅近の人気イタリアン「Italian Kitchen VANSAN（バンサン）海老名店」の 平日限定ランチのレポートです！ 早速場所からどうぞ☆ 「Italian Kitchen …]]></summary>
-        <author>
-            <name>fumie</name>
         </author>
     </entry>
 </feed>
