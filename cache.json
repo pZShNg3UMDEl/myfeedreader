@@ -3898,6 +3898,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/3f47cd8c43c43a929ceba8f85d315ea13dd09e01?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと２６日、滋賀県内に強風の予報が出ているとして湖西線の運転を一部取り止めます。\n\n　午前７時３０分頃から近江舞子駅から近江今津駅の間で、午前９時３０分頃からは和邇駅から近江塩津駅",
+          "link": "https://news.yahoo.co.jp/articles/3f47cd8c43c43a929ceba8f85d315ea13dd09e01?source=rss",
+          "publishedOn": "2024-11-25T21:11:06.000Z",
+          "wordCount": 1671,
+          "title": "ＪＲ湖西線運転取り止め　強風予報で　夕方まで(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241126-00048708-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/485a0d50390c6c38bf63be1f447e6b80df6efc7d?source=rss",
           "author": null,
           "description": "兵庫県・斎藤元彦知事の選挙運動をめぐり、ＰＲ会社の社長が「広報全般を任された」などとＳＮＳに投稿し、公職選挙法違反の可能性が指摘されている問題で知事側の代理人が「ＰＲ会社との契約書は交わしていない」",
@@ -8716,26 +8726,6 @@
           "wordCount": 1664,
           "title": "【速報】ＪＲ神戸線で列車が人と接触　西明石～姫路駅間で運転見合わせ(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00048234-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/bf91a4d9f4e9455f84e94778cf225ebeb9cb3bde?source=rss",
-          "author": null,
-          "description": "衆議院選挙の投票は、２７日午後８時で締め切られます。即日開票され、夜遅くには大勢が判明します。\n\n　投票率は午後５時現在で、大阪と兵庫は２８．６５％と２６．８３％、京都は午後４時の時点で、２５．２５",
-          "link": "https://news.yahoo.co.jp/articles/bf91a4d9f4e9455f84e94778cf225ebeb9cb3bde?source=rss",
-          "publishedOn": "2024-10-27T09:27:06.000Z",
-          "wordCount": 1689,
-          "title": "衆院選投票　間もなく締め切り　大阪の投票率は２８．６５％（午後５時現在）　深夜には大勢判明(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00048222-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/659d3e5921f9d0328726b91b931b3d3312ec7858?source=rss",
-          "author": null,
-          "description": "手こぎ舟の「ドラゴンボート」でタイムを競う大会が関西空港であり、海の上の熱戦が繰り広げられました。\n\n　関西空港の２本の滑走路の間に２００メートルの特設コースを作って開かれる「国際交流ドラゴンボート",
-          "link": "https://news.yahoo.co.jp/articles/659d3e5921f9d0328726b91b931b3d3312ec7858?source=rss",
-          "publishedOn": "2024-10-27T09:27:06.000Z",
-          "wordCount": 1657,
-          "title": "飛行機バックに熱戦　関空でドラゴンボート大会　４３チーム参加　(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00048221-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -11048,6 +11038,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=88733",
+          "author": "コヤマタカヒロ",
+          "description": "2019年に日本法人である株式会社Jackery Japanを設立し、いち早く日本市場でのポータブル電源の普及をけん引してきたJackery。これまでに数多くの注目モデルを発売し、ポータブル電源のリーディングブランドとして注目を集めてきた。 そして今回、多くの同社製品が並ぶJackery Japan […]",
+          "link": "https://gadget.phileweb.com/post-88733/",
+          "publishedOn": "2024-11-25T21:30:00.000Z",
+          "wordCount": 888,
+          "title": "ブラックフライデーでお得、Jackery最新ポータブル電源「2000 New」レビュー！ “ブランドの歩み”辿るショールームにも潜入",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/samunekouho2.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=89331",
           "author": "Munenori Taniguchi",
