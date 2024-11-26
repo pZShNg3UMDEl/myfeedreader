@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T05:40:22.608Z</updated>
+    <updated>2024-11-26T05:50:21.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪・能勢町で約１６８０軒の停電　午後４時４０分ごろ復旧見込み(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/039c377b800ae77d51a26da20a239723992e338b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/039c377b800ae77d51a26da20a239723992e338b?source=rss"/>
+        <updated>2024-11-26T05:42:51.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと２６日午後２時２０分ごろ、大阪府能勢町で約１６８０軒の停電が発生しているということです。
+
+　復旧は午後４時４０分ごろの見込みです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【米政権交代】 中国とカナダ、メキシコに対する追加関税を示唆　就任初日からとトランプ次期大統領]]></title>
+        <id>https://www.bbc.com/japanese/articles/cly2e08yqpzo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cly2e08yqpzo"/>
+        <updated>2024-11-26T05:41:34.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ次期米大統領は25日、アメリカへの不法移民や麻薬密輸を取り締まるため、大統領就任初日に中国とメキシコ、カナダに新たな関税を課すと発表した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】トランプ次期米大統領、中国製品に10％の追加関税を課す方針を表明]]></title>
         <id>https://itainews.com/archives/2042067.html</id>

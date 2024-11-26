@@ -4008,6 +4008,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/039c377b800ae77d51a26da20a239723992e338b?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと２６日午後２時２０分ごろ、大阪府能勢町で約１６８０軒の停電が発生しているということです。\n\n　復旧は午後４時４０分ごろの見込みです。",
+          "link": "https://news.yahoo.co.jp/articles/039c377b800ae77d51a26da20a239723992e338b?source=rss",
+          "publishedOn": "2024-11-26T05:42:51.000Z",
+          "wordCount": 1650,
+          "title": "大阪・能勢町で約１６８０軒の停電　午後４時４０分ごろ復旧見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241126-00048717-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/cce7f84f8ce740c07adc1bdffe44633803487b63?source=rss",
           "author": null,
           "description": "京阪電鉄によりますと２６日午後、車両から発煙があり、現在消防が確認作業をしているということです。\n\n　この影響で、午後１時９分から京阪本線・鴨東線・中之島線の全線で運転を見合わせています。",
@@ -8894,6 +8904,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cly2e08yqpzo#0",
+          "author": null,
+          "description": "ドナルド・トランプ次期米大統領は25日、アメリカへの不法移民や麻薬密輸を取り締まるため、大統領就任初日に中国とメキシコ、カナダに新たな関税を課すと発表した。",
+          "link": "https://www.bbc.com/japanese/articles/cly2e08yqpzo",
+          "publishedOn": "2024-11-26T05:41:34.000Z",
+          "wordCount": 1527,
+          "title": "【米政権交代】 中国とカナダ、メキシコに対する追加関税を示唆　就任初日からとトランプ次期大統領",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/5120/live/16dd0060-abb4-11ef-a4fe-a3e9a6c5d640.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c079l3zxl89o#0",
           "author": null,
