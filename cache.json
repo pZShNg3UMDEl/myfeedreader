@@ -1021,6 +1021,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/434/G043434/20241125003/",
+          "author": null,
+          "description": "「週刊プロゲーマーファイル」では，幅広いジャンルで活躍するプロゲーマーを毎週一人ずつ取り上げ，プロフィールを紹介していきます。今週取り上げるのは「ぷよぷよ」のプロシーンで活躍するちゃるめらー選手です。",
+          "link": "https://www.4gamer.net/games/434/G043434/20241125003/",
+          "publishedOn": "2024-11-26T01:00:00.000Z",
+          "wordCount": 7031,
+          "title": "「週刊プロゲーマーファイル」File.261：ちゃるめらー選手【ぷよぷよ】",
+          "imageUrl": "https://www.4gamer.net/games/434/G043434/20241125003/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/811/G081114/20241125048/",
           "author": null,
           "description": "スクウェア・エニックスは本日（2024年11月25日），同社が12月5日に発売を予定している「FANTASIANNeoDimension」の映像「想いは力に」を，ゲーム公式サイトで公開した。今回の映像は，主人公「レオア」やビブラ王国の王女「シャルル」ら，8名のキャラクターにフォーカスしたものになっている。",
@@ -8716,16 +8726,6 @@
           "wordCount": 1630,
           "title": "大型貨物自動車が事故　神戸市西区で通行止め(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241028-00048273-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/787d92a8a27b3bc4c661aea85bdbc4463bd5a98f?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本によりますと、ＪＲ神戸線の西明石駅と大久保駅の間で列車が人と接触したため現在、西明石駅と姫路駅の間で運転を見合わせています。",
-          "link": "https://news.yahoo.co.jp/articles/787d92a8a27b3bc4c661aea85bdbc4463bd5a98f?source=rss",
-          "publishedOn": "2024-10-27T12:13:54.000Z",
-          "wordCount": 1664,
-          "title": "【速報】ＪＲ神戸線で列車が人と接触　西明石～姫路駅間で運転見合わせ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00048234-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -10743,16 +10743,6 @@
           "wordCount": 1618,
           "title": "BBC特派員「私はガザを脱出した、しかし残る家族を思うと罪の意識が」",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/dca8/live/800ff2b0-942e-11ef-89ae-5575c76d98e6.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/ckg779kw932o#0",
-          "author": null,
-          "description": "日本の衆議院議員（定数465）選挙が27日、投票され、同日午後8時に開票が始まった。直後に複数の国内主要メディアは、取材や出口調査の結果などから、自民党と公明党の与党が過半数（233議席）を維持できない可能性が濃厚な情勢だと伝えた。自民党総裁の石破茂首相は、「与党による過半数維持」を勝敗ラインに設定していた。",
-          "link": "https://www.bbc.com/japanese/articles/ckg779kw932o",
-          "publishedOn": "2024-10-27T12:20:17.000Z",
-          "wordCount": 1489,
-          "title": "衆院選、自民・公明与党の過半数割れ濃厚　主要メディアが出口調査もとに予想",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/ad13/live/387c9170-945a-11ef-b6ba-7f2c34f29fb8.jpg"
         }
       ]
     },
@@ -10761,6 +10751,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2411/26/news080.html",
+          "author": null,
+          "description": "サンケン電気は、TV／白物家電向けの高速整流ダイオード「SPNS-1106S」の量産を開始した。低VFタイプの面実装型TO252-2Lを採用し、フローはんだとリフローはんだの2つの実装方法に対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2411/26/news080.html",
+          "publishedOn": "2024-11-26T00:00:00.000Z",
+          "wordCount": 2517,
+          "title": "PFC回路に最適　TV／白物家電向け高速整流ダイオード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/26/cover_news080.png"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2411/25/news069.html",
           "author": null,
@@ -11038,6 +11038,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=89364",
+          "author": "編集部：平山洸太",
+          "description": "ベンキュージャパンは、ZOWIEブランドのワイヤレスマウス「ZA13-DW」「S2-DW」「FK2-DW」を11月28日に発売する。同社公式ストアで先行販売され、楽天およびAmazonでも順次発売予定となる（発売時期は未定）。同ストアでの販売価格は全て24,800円（税込）。 ZA、S、FKシリーズ […]",
+          "link": "https://gadget.phileweb.com/post-89364/",
+          "publishedOn": "2024-11-26T00:56:55.000Z",
+          "wordCount": 752,
+          "title": "ZOWIEブランド初、左右対称の右利き用ゲーミングマウス3モデル。最大ポーリングレート4,000Hz、DPI最大3,200",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/zowie1.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=88733",
           "author": "コヤマタカヒロ",
@@ -15547,21 +15557,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122375/",
-          "author": null,
-          "description": "大ヒットディズニー映画の続編「モアナと伝説の海2」の最新映像とポスターが公開された。映像では、物語の冒頭を飾る劇中歌「ウィー・アー・バック（原題）」にのせ、モアナの刺激的な旅路が垣間見える。 第...",
-          "link": "https://anime.eiga.com/news/122375/",
-          "publishedOn": "2024-10-27T12:00:00.000Z",
-          "wordCount": 750,
-          "title": "「モアナと伝説の海2」オープニング劇中歌をたっぷりと　モアナ＆マウイの強い絆を感じる最新映像",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16428,6 +16423,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=265482",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「飲むマヨ」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグルメ】では、動画 […]",
+          "link": "https://foodfighter.jp/lawson-nomumayo",
+          "publishedOn": "2024-11-26T00:29:45.000Z",
+          "wordCount": 1750,
+          "title": "【ローソン】飲むマヨ（マヨネーズ風ドリンク）【新作ドリンク】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/9fa7e349bb95bb3b964cf372d9c9ad8c.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=265463",
           "author": "foodfighter",
@@ -22904,26 +22909,6 @@
           "wordCount": 2444,
           "title": "悲報！犬がエコノミークラス症候群で死亡。ファーストクラスを買ったのにエコノミーに移動させられた！",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/2/a2892308-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041025.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2024/10/27(日) 09:53:55.91 ID:ph2oWZBr9.net\n\n\n\n\n\n\n\n30人が殴り合いか、男性搬送 － 尻に刺し傷、大阪府警が捜査https://t.co/kncrHAzEHg— 共同通信公式 (@kyodo_official) October 27, 2024  \n\n\n\n\n\n\n30人が殴り合いか、男性搬送　尻に刺し傷、...",
-          "link": "https://itainews.com/archives/2041025.html",
-          "publishedOn": "2024-10-27T13:03:13.000Z",
-          "wordCount": 2463,
-          "title": "【大阪】30人が殴り合いか、男性搬送　尻に刺し傷",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/7/37064708-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041021.html",
-          "author": "damono3856",
-          "description": "1 名前：muffin ★：2024/10/26(土) 20:08:34.57 ID:vZpogdRd9.net\n\n\n\n\n\n\n\n人気歌手、政治投稿でフォロワー減「なんでそんなことで減るねん」「音楽なんて悪政に余裕で潰される」（スポニチアネックス） https://t.co/R1zONshb9P— kinokonoko (@yakuyuki) October 25, 2...",
-          "link": "https://itainews.com/archives/2041021.html",
-          "publishedOn": "2024-10-27T12:02:38.000Z",
-          "wordCount": 2722,
-          "title": "「選挙に行こ！悪政を倒せ！」人気歌手、政治投稿でフォロワー減「なんでそんなことで減るねん」「音楽なんて悪政に余裕で潰される」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/fff93f8e-s.png"
         }
       ]
     },
@@ -22932,6 +22917,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=84919",
+          "author": "299",
+          "description": "クリーム色の子猫のうちゃんがミルクを飲ませてもらっています。哺乳瓶を口に含んでまっすぐに前を見ながらゴクゴクと美味しそうに飲み干していきます。 食欲もしっかりあるのでたっぷりのミルクも瞬く間に完食しました。 ただ、うちゃ...\nミルクは大好きだけど離乳食はNO first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/84919",
+          "publishedOn": "2024-11-26T00:00:45.000Z",
+          "wordCount": 1353,
+          "title": "ミルクは大好きだけど離乳食はNO",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84919.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=84887",
           "author": "299",
@@ -26461,16 +26456,6 @@
           "wordCount": 1329,
           "title": "お腹がいっぱいすぎて動けにゃい〜",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83353.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83338",
-          "author": "299",
-          "description": "秋も深まって枯れ葉のじゅうたんが寒々しいような公園を訪れてみると、そこにいたのはずんぐりとしたトトロのような猫さんでした。 冬毛仕様になっているのか全身がふかふかの毛に覆われていて抱き心地がとても良さそうです。撫でてあげ...\n公園でトトロみたいな猫さんに出会った！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83338",
-          "publishedOn": "2024-10-27T13:00:15.000Z",
-          "wordCount": 1321,
-          "title": "公園でトトロみたいな猫さんに出会った！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83338.jpg"
         }
       ]
     }
