@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T16:46:56.075Z</updated>
+    <updated>2024-11-27T17:15:15.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gpixel announces GSPRINT5514 global shutter CIS]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/11/gpixel-announces-gsprint5514-global.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/11/gpixel-announces-gsprint5514-global.html"/>
+        <updated>2024-11-27T17:08:00.002Z</updated>
+        <summary type="html"><![CDATA[Press release: https://www.einpresswire.com/article/761834209/gsprint5514-a-new-high-sensitivity-14mp-bsi-global-shutter-cis-targeting-high-speed-machine-vision-and-4k-video
+GSPRINT5514 a new High Sensitivity 14MP BSI Global Shutter CIS targeting high speed machine vision and >4k video.
+CHANGCHUN, CHINA, November 19, 2024 /EINPresswire.com/ -- Gpixel announces GSPRINT5514BSI, the fifth sensor in the popular GSPRINT series of high-speed global shutter CMOS image sensors. The sensor is pin compatible with GSPRINT4510 and GSPRINT4521 for easy design into existing camera platforms.
+GSPRINT5514BSI features 4608 x 3072 pixels, each 5.5 µm square – a 4/3 aspect ratio 4k sensor compatible with APS-C optics. With 10-bit output GSPRINT5514BSI achieves 670 frames per second. In 12-bit mode the sensor…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビールの箱を難なく着てしまうまるちゃんは流石すぎる！]]></title>
         <id>https://2-9-9.com/?p=85035</id>
@@ -33425,49 +33438,6 @@ Your nominations should be sent to Yusuke Oike (2025nominations@imagesensors.org
         <summary type="html"><![CDATA[世界一の富豪のイーロン・マスク氏が米大統領選挙の激戦州で毎日1人の米登録有権者に100万ドル（約1億5000万円）を贈っていることについて、ペンシルヴェニア州フィラデルフィアの検察は28日、マスク氏が「違法な宝くじを運営している」とし、そうした活動の中止を求める民事訴訟を起こした。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[れいわ山本太郎代表 主治医から「死ぬ一歩手前にいた」と告げられる]]></title>
-        <id>https://itainews.com/archives/2041072.html</id>
-        <link href="https://itainews.com/archives/2041072.html"/>
-        <updated>2024-10-29T05:01:35.000Z</updated>
-        <summary type="html"><![CDATA[1 ：少考さん ★：2024/10/28(月) 20:44:29.70 ID:TE+9J3mE9.net
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-れいわ山本太郎代表 主治医から「死ぬ一歩手前にいた」と告げられる 衆院選開票時の体調不良を説明｜よろず～ニュース
-https://yorozoonews.jp/article/15484972
-
-2024.10.28(Mon)　杉...]]></summary>
-        <author>
-            <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「都市伝説解体センター」，店舗別の購入特典情報が公開に。蓄光缶バッジやB2サイズのタペストリーなどをラインナップ]]></title>
-        <id>https://www.4gamer.net/games/838/G083867/20241029021/</id>
-        <link href="https://www.4gamer.net/games/838/G083867/20241029021/"/>
-        <updated>2024-10-29T04:50:19.000Z</updated>
-        <summary type="html"><![CDATA[集英社ゲームズは本日（2024年10月29日），同社が2025年2月13日発売を予定している「都市伝説解体センター」の店舗別購入特典を公開した。本作の特典には，「ビジュアル蓄光缶バッジ（57mm）」「限定版ビジュアルタペストリー（B2サイズ）」など，バラエティに富んだグッズが用意される。]]></summary>
-        <author>
-            <name>4Gamer.net − Wii</name>
         </author>
     </entry>
 </feed>
