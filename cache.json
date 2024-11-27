@@ -3958,6 +3958,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/0b6e79496553100c8d334b10579031a4327a0eae?source=rss",
+          "author": null,
+          "description": "２６日午後、兵庫県姫路市の住宅街にイノシシが出没し、保育園児ら６人を次々に襲い３歳の男の子が腕の骨を折る重傷です。\n\n　警察によりますと２６日午後５時４０分ごろ、姫路市西今宿で、５歳と３歳の園児が母",
+          "link": "https://news.yahoo.co.jp/articles/0b6e79496553100c8d334b10579031a4327a0eae?source=rss",
+          "publishedOn": "2024-11-27T03:30:01.000Z",
+          "wordCount": 1680,
+          "title": "保育園の門を出たら…　イノシシが園児ら次々と襲う　３歳男児が骨折　ほか複数の負傷者　兵庫・姫路市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241127-00048732-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/3f26d492e4ae436af63fd5b9306ba6cc0f037b65?source=rss",
           "author": null,
           "description": "来年４月に開幕する大阪・関西万博に向けて、大阪府の吉村知事らがフランスで開かれたＢＩＥ＝博覧会国際事務局の総会で準備状況などを報告しました。\n\n　吉村知事と横山大阪市長は２６日、パリ近郊で開かれたＢ",
@@ -8875,6 +8885,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c3wqvng9zq5o#0",
+          "author": null,
+          "description": "アメリカのジョー・バイデン大統領は26日、イスラエルと、レバノンのイスラム教シーア派ヒズボラとの13カ月にわたる戦闘を終結させる停戦が合意されたと発表した。合意は現地時間27日午前4時（日本時間27日午前11時）に発効した。どんな内容なのか。公式発表や報道から得られた情報をまとめた。",
+          "link": "https://www.bbc.com/japanese/articles/c3wqvng9zq5o",
+          "publishedOn": "2024-11-27T03:32:10.000Z",
+          "wordCount": 1515,
+          "title": "【解説】 イスラエルとヒズボラの停戦合意、いま分かっていること",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/0021/live/0f381820-ac6a-11ef-a4fe-a3e9a6c5d640.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c4gx1lv1dqko#0",
           "author": null,
           "description": "ロシア国防省は26日、西部クルスク州の重要な防空システムと空軍基地が、ウクライナによって攻撃されたと発表した。アメリカが供与した長距離ミサイル「ATACMS」が使われたとしている。ロシアがこうした発表をするのはまれ。",
@@ -11178,6 +11198,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=89468",
+          "author": "Munenori Taniguchi",
+          "description": "OpenAIの「Sora」は、実写映像と見間違えるほどリアルで解像度の高い動画を生成できる動画生成AIツールだが、いまだ実験段階であるため、まだ一般にはアクセスが解放されていない。 しかし、アクセスを許されたAIの扱いに長けたユーザーの一部によるグループが、この動画生成AIツールを外部から使用可能に […]",
+          "link": "https://gadget.phileweb.com/post-89468/",
+          "publishedOn": "2024-11-27T03:48:42.000Z",
+          "wordCount": 849,
+          "title": "OpenAIの動画生成AI「Sora」へのアクセス流出。動画生成テスターらが声明",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/02/Sora1.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=89458",
+          "author": "多根清史",
+          "description": "アップルは今後のiOSやmacOSに独自AI「Apple Intelligence」を実装すべく、もっかベータテスト中である。しかし、生成AIの扱いは国や地域ごとの規制も絡んでくるため、米国外での展開は依然として不透明なままだ。その中でも、ChatGPT等の利用を禁止している中国では難航が予想されて […]",
+          "link": "https://gadget.phileweb.com/post-89458/",
+          "publishedOn": "2024-11-27T03:39:46.000Z",
+          "wordCount": 775,
+          "title": "Apple Intelligence、中国展開は困難？ 現地AI企業との提携を迫られる可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/shutterstock_1636761181.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=89347",
           "author": "Gadget Gate",
@@ -17867,16 +17907,6 @@
           "wordCount": 1742,
           "title": "【セブンイレブン】どーんとおむすび ポークたまご【新作コンビニおにぎり】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/343293e1fc4d105aecd3eb7b6236d2e1.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=262825",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、今月中に実食調査し、2024年10月29日時点で販売中のチェーン店の肉グルメ（全10種類）を美味しい・おすすめ順に […]",
-          "link": "https://foodfighter.jp/niku-ranking-2024-1029",
-          "publishedOn": "2024-10-28T15:53:37.000Z",
-          "wordCount": 1736,
-          "title": "【肉の日】チェーン店の美味しい・おすすめグルメランキング【2024年10月29日】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/e39a0062132e04316dd6c65a0088c45d.jpg"
         }
       ]
     },
