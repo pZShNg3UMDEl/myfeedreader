@@ -317,6 +317,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zRPKQJosZkk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zRPKQJosZkk",
+          "publishedOn": "2024-11-27T09:48:40.000Z",
+          "wordCount": null,
+          "title": "ホヴィンチコード２（底が見えない)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8dEsyePd1Ww",
           "author": null,
           "description": "",
@@ -4047,6 +4057,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b083586cd061d6dc951bf40d4c08fa3b311402a6?source=rss",
+          "author": null,
+          "description": "南海トラフ巨大地震を想定した防災訓練が実施されました。\n\n　訓練は、和歌山県沖を震源とする震度６強の地震が発生し、高さ２．６ｍの津波が到達する想定で実施され、関西国際空港にある約１２０の事業所や機関",
+          "link": "https://news.yahoo.co.jp/articles/b083586cd061d6dc951bf40d4c08fa3b311402a6?source=rss",
+          "publishedOn": "2024-11-27T10:08:04.000Z",
+          "wordCount": 1675,
+          "title": "空港に足止めされた旅行者への対応も　関空で南海トラフを想定した防災訓練(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241127-00048743-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/397849445b30e3d4f15a0f06851520b0301118e4?source=rss",
+          "author": null,
+          "description": "公表前の入札情報を漏らすよう、そそのかした疑いです。\n\n　地方公務員法違反の疑いで逮捕・送検されたのは、和歌山県議会議員の冨安民浩こと冨安民夫容疑者（７６）です。\n\n　警察によりますと冨安容疑者は去",
+          "link": "https://news.yahoo.co.jp/articles/397849445b30e3d4f15a0f06851520b0301118e4?source=rss",
+          "publishedOn": "2024-11-27T09:58:27.000Z",
+          "wordCount": 1644,
+          "title": "入札情報漏らすよう依頼か　道路改修工事で和歌山県議を逮捕送検(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241127-00048742-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ea401dcf224825e9bf37ca67188baf1b304a396f?source=rss",
+          "author": null,
+          "description": "奈良に新たにできる大規模アリーナは、新しい駅の近くにできることになりました。\n\n　奈良県の山下真知事は、橿原市で建設予定の大規模アリーナを、県立医科大学の近くに新しくできる近鉄橿原線の新駅の西側に決",
+          "link": "https://news.yahoo.co.jp/articles/ea401dcf224825e9bf37ca67188baf1b304a396f?source=rss",
+          "publishedOn": "2024-11-27T09:51:59.000Z",
+          "wordCount": 1662,
+          "title": "奈良・橿原市に客席数５０００の新アリーナ　近鉄の新駅近くに建設　スポーツやエンタメの拠点に　　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241127-00048741-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/056ec3045253e7ec0af0b4f78d5375aa4e4b151f?source=rss",
           "author": null,
@@ -13049,6 +13089,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/konki_ranking/122648/",
+          "author": null,
+          "description": "11月第5週の2024年秋アニメ録画ランキングは、「チ。―地球の運動について―」が8週連続で首位となった。 2位の「ドラゴンボールDAIMA」は、1位との差が1ポイント差にまで縮まった。来週以降...",
+          "link": "https://anime.eiga.com/news/column/konki_ranking/122648/",
+          "publishedOn": "2024-11-27T10:00:00.000Z",
+          "wordCount": 1073,
+          "title": "【今期TVアニメランキング】「チ。」と「ドラゴンボールDAIMA」大接戦　3位は「ブルーロック」",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/animehack_editors/122650/",
           "author": null,
           "description": "「進撃の巨人」テレビシリーズの最終話の映像や音響をブラッシュアップした「劇場版『進撃の巨人』完結編 THE LAST ATTACK」が大ヒット公開中です。これを記念して、アニメ・声優・イベント情...",
@@ -18230,6 +18285,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042099.html",
+          "author": "damono3856",
+          "description": "1 名前：＠おっさん友の会 ★：2024/11/26(火) 22:13:20.25 ID:NiSgVtb69.net\n\n\n\n\n\n\n\n警察署に電話「おめえらよ、ふざけんな」「早く来い」などと46回、実際に警察官４人が行くと「なんで４人も、早く帰れ」などと暴言　偽計業務妨害容疑で39歳男を逮捕（HBCニュース北海...",
+          "link": "https://itainews.com/archives/2042099.html",
+          "publishedOn": "2024-11-27T10:01:51.000Z",
+          "wordCount": 2424,
+          "title": "【北海道】小樽警察署に「特に用事はねえんだ、しゃべりてーんだ」などと正当性のない電話を46回かけた無職男(39)逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/0/b084cb31-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042105.html",
           "author": "dqnplus",
@@ -23499,16 +23564,6 @@
           "wordCount": 2394,
           "title": "【衆院選】投票終えた男性が妻の入場券出し「代わりに投票したい」…福岡県春日市選管が用紙発行、二重投票に",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/4/c4f8a810-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041063.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2024/10/28(月) 13:51:47.28 ID:NL7eP4wL9.net\n\n\n\n\n\n\n\nホストクラブに営業停止命令　従業員が女性客に暴行―都公安委https://t.co/FBltB7RoUt「売掛金」（ツケ払い）を返済させるため、従業員が女性客に暴行してけがをさせたとして、東京都公安委員会は...",
-          "link": "https://itainews.com/archives/2041063.html",
-          "publishedOn": "2024-10-28T22:02:21.000Z",
-          "wordCount": 2382,
-          "title": "【都ぼったくり防止条例】ホストクラブに106日間の営業停止命令　従業員が女性客に暴行　都公安委",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/c/0c10f1a8-s.png"
         }
       ]
     },
@@ -27046,16 +27101,6 @@
           "wordCount": 1325,
           "title": "アクロとアシロの双子の赤ちゃん猫の1日",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83454.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83420",
-          "author": "299",
-          "description": "お外の天気が悪いと猫たちも調子があがりません。子猫のアンリくんも箱座りをしてじーっとしていますね。 遠くから雷鳴が聞こえるのでアンリくんも落ち着かない様子です。寝ようと思ったらゴロゴロ響く雷に箱座りのポーズからサッと立ち...\n雷の音が怖くて飼い主さんの膝に集合する子猫たち first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83420",
-          "publishedOn": "2024-10-28T22:00:31.000Z",
-          "wordCount": 1328,
-          "title": "雷の音が怖くて飼い主さんの膝に集合する子猫たち",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83420.jpg"
         }
       ]
     }
