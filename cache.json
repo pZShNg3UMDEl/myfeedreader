@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9nX8Rx3Lvvs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9nX8Rx3Lvvs",
+          "publishedOn": "2024-11-27T12:40:10.000Z",
+          "wordCount": null,
+          "title": "レシートの謎",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zRPKQJosZkk",
           "author": null,
           "description": "",
@@ -1110,6 +1120,16 @@
       "feedUrl": "https://www.4gamer.net/rss/wii/wii_news.xml",
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
+        {
+          "id": "https://www.4gamer.net/games/414/G041434/20241127058/",
+          "author": null,
+          "description": "Cygamesは本日（2024年11月27日）配信した“ぱかライブTVVol.47”で，「ウマ娘プリティーダービー」の最新アップデート情報を発表した。新規ウマ娘のブラストワンピースや，11月28日に登場するクリスマス衣装のナリタトップロードとアドマイヤベガなど，発表情報をまとめてお届けする。",
+          "link": "https://www.4gamer.net/games/414/G041434/20241127058/",
+          "publishedOn": "2024-11-27T13:06:25.000Z",
+          "wordCount": 7891,
+          "title": "ブラストワンピースが新規ウマ娘として登場。「ウマ娘 プリティーダービー」ぱかライブTV Vol.47まとめ",
+          "imageUrl": "https://www.4gamer.net/games/414/G041434/20241127058/SS/028.jpg"
+        },
         {
           "id": "https://www.4gamer.net/games/521/G052100/20241127047/",
           "author": null,
@@ -4029,36 +4049,6 @@
           "wordCount": 7460,
           "title": "「NGS ヘッドライン」，本日21：00に配信。11月に予定しているアップデート情報などを発表",
           "imageUrl": "https://www.4gamer.net/games/521/G052100/20241029006/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/778/G077858/20241028054/",
-          "author": null,
-          "description": "BinaryHazeInteractiveは本日（2024年10月29日），同社が2025年1月23日に発売を予定している「エンダーマグノリア:ブルームインザミスト」について，PS5ならびにSwitch向けとなる数量限定版パッケージイラストを公開した。このイラストは，前作「エンダーリリーズ」の数量限定版と対になるデザインをイメージしているという。",
-          "link": "https://www.4gamer.net/games/778/G077858/20241028054/",
-          "publishedOn": "2024-10-29T01:00:00.000Z",
-          "wordCount": 7784,
-          "title": "「エンダーマグノリア: ブルームインザミスト」，PS5＆Switch向け数量限定版パッケージイラストを解禁",
-          "imageUrl": "https://www.4gamer.net/games/778/G077858/20241028054/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/811/G081127/20241028032/",
-          "author": null,
-          "description": "日本一ソフトウェアは本日（2024年10月29日），同社が2025年1月30日に発売を予定している「ファントム・ブレイブ幽霊船団と消えた英雄」について，ゲーマーズやWonderGOOなど一部法人向けに用意される描き下ろしの店舗特典イラストを公開した。これらは，本作でキャラクターデザインを手がける原田たけひと氏が担当している。",
-          "link": "https://www.4gamer.net/games/811/G081127/20241028032/",
-          "publishedOn": "2024-10-29T01:00:00.000Z",
-          "wordCount": 7601,
-          "title": "「ファントム・ブレイブ 幽霊船団と消えた英雄」，店舗特典イラストが公開に。キャラクターデザインを手がけた原田たけひと氏の描き下ろし",
-          "imageUrl": "https://www.4gamer.net/games/811/G081127/20241028032/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/434/G043434/20241025073/",
-          "author": null,
-          "description": "「週刊プロゲーマーファイル」では，幅広いジャンルで活躍するプロゲーマーを毎週一人ずつ取り上げ，プロフィールを紹介していきます。今週取り上げるのは「ぷよぷよ」のプロシーンで活躍するやまたけプロ選手です。",
-          "link": "https://www.4gamer.net/games/434/G043434/20241025073/",
-          "publishedOn": "2024-10-29T01:00:00.000Z",
-          "wordCount": 7507,
-          "title": "「週刊プロゲーマーファイル」File.257：やまたけプロ選手【ぷよぷよ】",
-          "imageUrl": "https://www.4gamer.net/games/434/G043434/20241025073/SS/002.jpg"
         }
       ]
     },
@@ -18307,16 +18297,6 @@
           "wordCount": 1802,
           "title": "【松屋】ごろごろ煮込みチキンカレー（ごろチキ）【復活・新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/d86160bc74fb6cda2a548390b1be9fa5.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=262849",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「赤城乳業 たべる牧場 キャラメル」を世界一詳しく調査しました。   公式YouTubeチャ […]",
-          "link": "https://foodfighter.jp/famima-taberu-caramel-2024",
-          "publishedOn": "2024-10-29T00:50:28.000Z",
-          "wordCount": 1752,
-          "title": "【ファミマ】赤城乳業 たべる牧場 キャラメル【新作コンビニアイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/10/f33499f05c159962b05b08e016d45423.jpg"
         }
       ]
     },
@@ -18325,6 +18305,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042110.html",
+          "author": "dqnplus",
+          "description": "1 名前：＠おっさん友の会 ★：2024/11/27(水) 10:44:41.99 ID:1HatLpQ49.net\n\n\n\n\n\n\n\n\n非正規は台風でも出勤、正規職員は自宅待機…公務員の「命にかかわる格差」が全国に？当事者が調査に乗り出したhttps://t.co/fOckWxLSNF— 東京新聞デジタル (@tokyo_shimbun) Novemb...",
+          "link": "https://itainews.com/archives/2042110.html",
+          "publishedOn": "2024-11-27T13:01:53.000Z",
+          "wordCount": 2438,
+          "title": "非正規は台風でも出勤、正規職員は自宅待機…公務員の「命にかかわる格差」が全国に？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/a/4afb48cd-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042109.html",
           "author": "dqnplus",
@@ -23632,6 +23622,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=84965",
+          "author": "299",
+          "description": "可愛いながらもキリッとした賢さが感じられる子猫の銀時。ピンクのお鼻と肉球が最高に可愛いチャームポイントです。 この子は保護されて11日目ですが、もうすっかり安心していてリラックスしているのがわかります。飼い主さんにもじゃ...\nあまえんぼうさんな子猫とイチャイチャタイムが楽しい first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/84965",
+          "publishedOn": "2024-11-27T13:00:36.000Z",
+          "wordCount": 1352,
+          "title": "あまえんぼうさんな子猫とイチャイチャタイムが楽しい",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84965.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=84961",
           "author": "299",
