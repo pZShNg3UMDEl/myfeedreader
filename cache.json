@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HG8WiDJFwUw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HG8WiDJFwUw",
+          "publishedOn": "2024-11-28T14:52:36.000Z",
+          "wordCount": null,
+          "title": "堀口くんとIELTSが垢消しの理由？検証",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uLnFvMx3ivo",
           "author": null,
           "description": "",
@@ -12917,26 +12927,6 @@
           "wordCount": 755,
           "title": "『ダークナイト』3部作に登場したバットマンカー「タンブラー」のレプリカが10台限定販売",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/batmobile-tumbler.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=87640",
-          "author": "多根清史",
-          "description": "マイクロソフトは、Googleが自社のクラウド事業を貶める「影のキャンペーン」を展開していると非難する声明を発表した。同社の副社長兼次席法務顧問のリマ・アライリー氏はブログ記事にて、Googleが今週、新たな「Astroturf」（見せかけの草の根運動）グループを立ち上げようとしていると主張している […]",
-          "link": "https://gadget.phileweb.com/post-87640/",
-          "publishedOn": "2024-10-30T03:08:37.000Z",
-          "wordCount": 753,
-          "title": "マイクロソフト、Googleが自社のクラウド事業を貶める「影のキャンペーン」を展開と非難",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/shutterstock_2260520033.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=87614",
-          "author": "Munenori Taniguchi",
-          "description": "ソニー・インタラクティブ・エンターテインメント（SIE）は、オンラインで対戦するPlayStation／PC用ヒーローシューティングゲーム『Concord（コンコード）』を開発したFirewalk Studiosを閉鎖すると発表した。 『Concord』は8年もの歳月をかけて開発されたものの、プレイ […]",
-          "link": "https://gadget.phileweb.com/post-87614/",
-          "publishedOn": "2024-10-30T02:55:19.000Z",
-          "wordCount": 764,
-          "title": "大失敗の対戦FPS『Concord』開発スタジオが閉鎖。制作に8年、だがプレイヤー増えず",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/10/conc.jpg"
         }
       ]
     },
@@ -16201,21 +16191,6 @@
           "publishedOn": "2024-10-30T09:00:00.000Z",
           "wordCount": 741,
           "title": "「銀河鉄道999」4Kリマスター版が12月31日から2週間限定リバイバル上映",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122438/",
-          "author": null,
-          "description": "矢沢あい氏の代表作である漫画「NANA」と、ファッションブランド・銀座かねまつのコラボレーションによるシューズの発売が決定した。 「Cookie」（集英社刊）で2000年に連載を開始した「NAN...",
-          "link": "https://anime.eiga.com/news/122438/",
-          "publishedOn": "2024-10-30T03:00:00.000Z",
-          "wordCount": 739,
-          "title": "「NANA」と銀座かねまつがコラボ　作中に登場するエンジニアブーツとフラットパンプスを再現",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -23594,16 +23569,6 @@
           "wordCount": 2539,
           "title": "【悲報】任天堂さん、子会社のデバッグ会社「マリオクラブ」を追い出し部屋として利用か？",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/777fe53b-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041105.html",
-          "author": "dqnplus",
-          "description": "1 ：令和大日本憂国義勇隊：2024/10/29(火) 17:00:39.90 ID:Ui+jfMtW0.net\n\n\n\n\n\n\n\nファミマの店員が(揚げ物などを保温する)ホットショーケースでモップを乾かしてるという衝撃投稿を5度見した…元投稿は削除されてたけど本社にちゃんと報告したとのこと。ぶっちゃけコン...",
-          "link": "https://itainews.com/archives/2041105.html",
-          "publishedOn": "2024-10-30T03:01:51.000Z",
-          "wordCount": 2456,
-          "title": "ファミマの外国人店員がファミチキケースでモップを乾かす　ありがとう自民党　ありがとう",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/2/a25e16d1.png"
         }
       ]
     },
