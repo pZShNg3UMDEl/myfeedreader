@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eRJP9xq0mSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eRJP9xq0mSk",
+          "publishedOn": "2024-11-28T09:39:44.000Z",
+          "wordCount": null,
+          "title": "【過去最高のホラー】チャット禁止ライブ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5OS0Qge5yRo",
           "author": null,
           "description": "",
@@ -9164,6 +9174,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c1mldr3rme4o#0",
+          "author": null,
+          "description": "ユニクロを運営するファーストリテイリングなどの小売業界をめぐっては近年、消費者から繊維産地の情報開示を求める圧力が高まっている。こうした中、ファーストリテイリングの柳井正代表取締役会長兼社長がBBCの単独インタビューに応じ、中国・新疆産の綿花を使用していないことを初めて認めた。",
+          "link": "https://www.bbc.com/japanese/articles/c1mldr3rme4o",
+          "publishedOn": "2024-11-28T09:44:34.000Z",
+          "wordCount": 962,
+          "title": "売上高3兆円達成のユニクロ社長、新疆綿の使用を否定　中国市場や今後の成長について語る",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/8f24/live/49f52da0-ad6d-11ef-a4fe-a3e9a6c5d640.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cp9zdn1nkdjo#0",
           "author": null,
