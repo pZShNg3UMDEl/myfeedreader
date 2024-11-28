@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T21:15:50.763Z</updated>
+    <updated>2024-11-28T21:37:23.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“スマートホーム”、実際何ができる？ 実現に必要なデバイスも合わせて紹介！]]></title>
+        <id>https://gadget.phileweb.com/?p=89005</id>
+        <link href="https://gadget.phileweb.com/post-89005/"/>
+        <updated>2024-11-28T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートホームでは、様々な家電製品やセンサーなどがネットワークに接続され、自由に操作できるようになる。スマホアプリからの操作だけでなく、音声でアレクサを呼び出してコントロールすることも可能。また、人感センサーや温度センサー、照度センサーなどの各種センサーによるセンシング結果をトリガーに家電を動かすこ […]]]></summary>
+        <author>
+            <name>コヤマタカヒロ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「プリキュア」シリーズ第22弾は「キミとアイドルプリキュア♪」に決定]]></title>
         <id>https://anime.eiga.com/news/122666/</id>
@@ -33135,30 +33145,6 @@ SIE、『CONCORD（コンコード）』開発スタジオの閉鎖を発表。8
 　newsおかえりでは、7人の立候補を表明した人のうち4人をスタジオに招き、生討論会を開催しまし]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[時計の処分役の女を逮捕　車ごとロレックス大量窃盗事件　大阪(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/2aa30016e40d459c975d67a80ce629f981f8cd73?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/2aa30016e40d459c975d67a80ce629f981f8cd73?source=rss"/>
-        <updated>2024-10-30T09:33:33.000Z</updated>
-        <summary type="html"><![CDATA[高級腕時計「ロレックス」が大量に盗まれた事件で、時計の処分役とみられる女が新たに逮捕されました。
-
-　窃盗の疑いで逮捕されたのは大阪市西成区の無職、小黒礼子容疑者（５９）です。
-
-　警察によりますと]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【米大統領選2024】 ベゾス氏、ワシントン・ポストの大統領候補支持表明中止を擁護]]></title>
-        <id>https://www.bbc.com/japanese/articles/clygnnzpd5eo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/clygnnzpd5eo"/>
-        <updated>2024-10-30T09:15:57.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの主要紙ワシントン・ポストを所有するジェフ・ベゾス氏は29日、11月5日の大統領選に向け、特定の候補者を支持しないという同紙の判断を擁護した。この判断は議論を呼んでおり、すでに数千人が購読をやめたほか、社内でも一部の編集スタッフが辞職したという。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
