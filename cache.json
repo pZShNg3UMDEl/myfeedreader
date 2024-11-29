@@ -308,16 +308,6 @@
           "wordCount": null,
           "title": "【モニタリングから来た方はこちら！】ハードオフ店員がジャンク品で全力でX JAPANの紅を演奏",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kM9NQJhY_Gg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kM9NQJhY_Gg",
-          "publishedOn": "2024-10-30T13:48:30.000Z",
-          "wordCount": null,
-          "title": "ハードオフ店員がジャンク品でT.M.RevolutionのTHUNDERBIRDを演奏　#ハードオフ永田　#TMR",
-          "imageUrl": null
         }
       ]
     },
@@ -1160,6 +1150,16 @@
       "feedUrl": "https://www.4gamer.net/rss/wii/wii_news.xml",
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
+        {
+          "id": "https://www.4gamer.net/games/861/G086145/20241129003/",
+          "author": null,
+          "description": "アルティは本日（2024年11月29日），PC版「ワールドネバーランドエルネア王国の日々」のSteamストアページを公開した。2024年内に発売予定とのこと。「ワールドネバーランド」シリーズの最新作で，シリーズ初の3Dグラフィックスを採用しているほか，「キャラクター容姿の遺伝」などにも対応している。",
+          "link": "https://www.4gamer.net/games/861/G086145/20241129003/",
+          "publishedOn": "2024-11-29T02:20:34.000Z",
+          "wordCount": 7037,
+          "title": "PC版「ワールドネバーランド エルネア王国の日々」，Steamストアページを公開。3Dになった「ワーネバ」の最新作をPCで楽しめる",
+          "imageUrl": "https://www.4gamer.net/games/861/G086145/20241129003/SS/001.jpg"
+        },
         {
           "id": "https://www.4gamer.net/games/771/G077171/20241128051/",
           "author": null,
@@ -4047,6 +4047,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3803081074d27951b6d9448aa7f31efbc4e24751?source=rss",
+          "author": null,
+          "description": "高齢を理由に、賃貸物件の入居を断られるケースが相次いでいます。奈良県天理市に住む川本百合子さん（77）は、建物の老朽化を理由に突然、大家から約15年住んだ家からの立ち退きを求められました。\n\n　川本",
+          "link": "https://news.yahoo.co.jp/articles/3803081074d27951b6d9448aa7f31efbc4e24751?source=rss",
+          "publishedOn": "2024-11-29T02:36:12.000Z",
+          "wordCount": 1814,
+          "title": "【ABC特集】家賃上昇　保証人もいない・・・　住む家が借りられない高齢者を支援する「居住支援法人」とは？　深刻化する“貸し渋り”の実態＜後編＞(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241129-00010001-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6670bda1b907a26a4b71441010256cfef1543790?source=rss",
+          "author": null,
+          "description": "高齢を理由に、賃貸物件の入居を断られるケースが相次いでいます。\n　65歳以上専門の不動産会社「R65不動産」の調査では、部屋を探す高齢者の4人に1人が入居拒否を経験したと回答しています。\n\n　高齢者",
+          "link": "https://news.yahoo.co.jp/articles/6670bda1b907a26a4b71441010256cfef1543790?source=rss",
+          "publishedOn": "2024-11-29T02:30:32.000Z",
+          "wordCount": 1821,
+          "title": "【ABC特集】「行くとこなかったら死ななあかん」「けんもほろろに断られる」住む家が借りられない高齢者　深刻化する“貸し渋り”の実態＜前編＞(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241129-00010000-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8b984b74bd7b64d3913b1a12b99e8ef2dd10ab3c?source=rss",
+          "author": null,
+          "description": "南海電鉄によりますと２９日午前、南海線の蛸地蔵駅で人身事故が発生したということです。\n\n　この影響で南海線の難波ー和歌山市駅間、空港線の泉佐野ー関西空港駅間で運転を見合わせています。",
+          "link": "https://news.yahoo.co.jp/articles/8b984b74bd7b64d3913b1a12b99e8ef2dd10ab3c?source=rss",
+          "publishedOn": "2024-11-29T02:26:11.000Z",
+          "wordCount": 1695,
+          "title": "南海電鉄の南海線・空港線で運転見合わせ　蛸地蔵駅で人身事故の影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241129-00048761-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/63f2ec35c66bd28d5b746e77299e09989afb610c?source=rss",
           "author": null,
@@ -16649,6 +16679,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=265787",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「築地銀だこ」の新商品「クロワッサンたい焼き 安納芋あん」を世界一詳しく調査しました。   公式YouTubeチャン […]",
+          "link": "https://foodfighter.jp/gindaco-taiyaki-annouim-2024",
+          "publishedOn": "2024-11-29T01:45:29.000Z",
+          "wordCount": 1802,
+          "title": "【築地銀だこ】クロワッサンたい焼き 安納芋あん【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/b4ec7c2fa71daff36d32b613ba1c9c93.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=265782",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、今月中に実食調査し、2024年11月29日時点で販売中のチェーン店の肉グルメ（全10種類）を美味しい・おすすめ順に […]",
@@ -23113,6 +23153,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=85047",
+          "author": "299",
+          "description": "オーケストラが静かに演奏を始めました。すると大きなスクリーンにはピアニストのニャンコさんが登場します。 ニャンコさんは自分の演奏のタイミングを待って待機中です。指揮者が猫に合図をすると、ニャンコさんはピアノを厳かに演奏し...\n猫のピアニストがオーケストラで演奏！ first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85047",
+          "publishedOn": "2024-11-29T02:00:31.000Z",
+          "wordCount": 1353,
+          "title": "猫のピアニストがオーケストラで演奏！",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/85047.jpg"
+        },
+        {
           "id": "https://2-9-9.com/?p=85071",
           "author": "299",
           "description": "冷凍庫内の整理用のプラスチック容器がぽつりと置いてあり、横には猫のはなちゃんが寝そべっています。そこへまるちゃん登場です。 このプラスチック容器をすぐに見つけたまるちゃんは、自らの体を容器のなかに入れて整理整頓に貢献しよ...\n小さなプラスチック容器に無理やり体を押し込むまるちゃん first appeared on 肉球ドットコム（299.com）.",
@@ -26641,16 +26691,6 @@
           "wordCount": 1323,
           "title": "楽しいこと大好き！一日中遊びまくる子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83565.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83511",
-          "author": "299",
-          "description": "部屋の中を走り回っているのは生後2ヶ月のペルシャ猫の子猫です。この度あたらしい家族の一員となりました。 家にやってきた時から、とにかく元気すぎるぐらい元気で起きている時はずっと走り回るようなパワフルな子猫です。 椅子のし...\n新入り子猫が一日中おおはしゃぎ！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83511",
-          "publishedOn": "2024-10-30T14:30:12.000Z",
-          "wordCount": 1322,
-          "title": "新入り子猫が一日中おおはしゃぎ！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/10/83511.jpg"
         }
       ]
     }
