@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T03:31:17.343Z</updated>
+    <updated>2024-11-29T03:55:11.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[入院患者の財布から５万を抜き取る　５０代の女性看護師を懲戒解雇(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7f888a72e62180a7d388f9c7b2b9d5b9cd8f3daf?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7f888a72e62180a7d388f9c7b2b9d5b9cd8f3daf?source=rss"/>
+        <updated>2024-11-29T03:37:10.000Z</updated>
+        <summary type="html"><![CDATA[京都府公立大学法人は２９日、京都府立医科大学附属北部医療センターに勤務する５０代の看護師を入院患者の財布から現金５万円を盗んだとして懲戒解雇処分にしたと発表しました。
+　懲戒解雇の処分を受けたのは、]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア、インフレし過ぎてバター強盗が流行る]]></title>
         <id>https://itainews.com/archives/2042166.html</id>
@@ -33141,17 +33152,6 @@ h...]]></summary>
 楽しいこと大好き！一日中遊びまくる子猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space & Scientific CMOS Image Sensors Workshop]]></title>
-        <id>http://image-sensors-world.blogspot.com/2024/10/space-scientific-cmos-image-sensors.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2024/10/space-scientific-cmos-image-sensors.html"/>
-        <updated>2024-10-30T15:51:00.023Z</updated>
-        <summary type="html"><![CDATA[The preliminary program for Space & Scientific CMOS Image Sensors Workshop to be held on 26th & 27th November in Toulouse Labège is available.
-Registration: https://evenium.events/space-and-scientific-cmos-image-sensors-2024/]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
