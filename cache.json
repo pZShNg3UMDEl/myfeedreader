@@ -347,6 +347,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IeBKql2LQTg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IeBKql2LQTg",
+          "publishedOn": "2024-11-30T14:25:06.000Z",
+          "wordCount": null,
+          "title": "土曜深夜のホヴィンチ・コード",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5ggKlXWb4rc",
           "author": null,
           "description": "",
@@ -4049,16 +4059,6 @@
           "wordCount": 7163,
           "title": "TCG版と同じルールでオンライン対戦が可能な「バトルスピリッツ クロスオーバー」，バトル画面も確認できる最新トレイラーを公開",
           "imageUrl": "https://www.4gamer.net/games/812/G081230/20241101010/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/811/G081106/20241101007/",
-          "author": null,
-          "description": "マーベラスは2024年11月1日，PS5，Switch版「FARMAGIA」を発売した。本作は，漫画家の真島ヒロ氏がキャラクターデザインを手がけた完全新作のアクションゲームだ。プレイヤーはモンスター農夫のテンになり，種から生まれるモンスターを育成し，仲間たちとともにダンジョンで待ち受けるボスに立ち向かう。",
-          "link": "https://www.4gamer.net/games/811/G081106/20241101007/",
-          "publishedOn": "2024-11-01T02:19:05.000Z",
-          "wordCount": 7256,
-          "title": "漫画家の真島ヒロ氏がキャラデザインを手がける完全新作アクション「FARMAGIA」，PS5＆Switch向けに本日発売",
-          "imageUrl": "https://www.4gamer.net/games/811/G081106/20241101007/SS/010.jpg"
         }
       ]
     },
@@ -23492,6 +23492,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=85134",
+          "author": "299",
+          "description": "7匹の猫さんたちが横一列に並んで伏せのポーズでまったり中です。眠っている猫さんが2匹ぐらいいるようですが、他の猫さんはしっかり覚醒しています。 周囲では工事の大きな音が響いているので、その音のほうにじっと耳を傾けている猫...\nブルーベリーを乗せたまま動かない猫たち first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85134",
+          "publishedOn": "2024-11-30T14:30:18.000Z",
+          "wordCount": 1353,
+          "title": "ブルーベリーを乗せたまま動かない猫たち",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/85134.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=85121",
           "author": "299",
