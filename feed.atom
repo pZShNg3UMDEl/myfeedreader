@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T08:20:32.862Z</updated>
+    <updated>2024-11-30T08:41:46.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「サガ エメラルド ビヨンド」の歯ごたえあるバトルのバランス調整で，人が成したこと，そしてAIが成したこととは［CEDEC＋KYUSHU 2024］]]></title>
+        <id>https://www.4gamer.net/games/739/G073983/20241130005/</id>
+        <link href="https://www.4gamer.net/games/739/G073983/20241130005/"/>
+        <updated>2024-11-30T08:28:34.000Z</updated>
+        <summary type="html"><![CDATA[「CEDEC＋KYUSHU2024」で「サガエメラルドビヨンドのゲームバランスは如何にして作られたのか？人の成したこと，AIの成したこと」と題されたセッションが行われた。2024年4月にリリースした「サガエメラルドビヨンド」のバランス調整に機械学習（強化学習）を活用した事例が紹介されている。]]></summary>
+        <author>
+            <name>4Gamer.net − Wii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国税「脱税者をAIで探したらめちゃくちゃ見つかって草。過去最高の追徴課税に成功した」]]></title>
         <id>https://itainews.com/archives/2042208.html</id>
