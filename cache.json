@@ -153,6 +153,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCS1qLgofM70kUlI1Wu5uqxg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iVko-BqrrwY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iVko-BqrrwY",
+          "publishedOn": "2024-11-30T08:45:03.000Z",
+          "wordCount": null,
+          "title": "【ドラクエウォーク】コスト制限でも先制確実で安定周回!!所持率高い武器のみ!!ラーミアのムチ・妖精の円月輪無しでコスト制限500のじごくのつかい千里行を効率よく周る!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MCTyHr5kX6E",
           "author": null,
           "description": "",
@@ -12929,6 +12939,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/122670/",
+          "author": null,
+          "description": "「金田一少年の事件簿」シリーズをはじめ、日本テレビで放送された探偵・ミステリードラマが、本日11月28日からTVerで順次無料配信されることがわかった。 「金田一少年の事件簿」は、これまで堂本剛...",
+          "link": "https://anime.eiga.com/news/122670/",
+          "publishedOn": "2024-11-30T09:00:00.000Z",
+          "wordCount": 1029,
+          "title": "「金田一少年の事件簿」歴代シリーズほか、日テレの探偵・ミステリードラマがTVerで無料配信",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/122661/",
           "author": null,
           "description": "BS12トゥエルビで毎週日曜午後7時から放送中の「日曜アニメ劇場」で、12月1日から以下の作品が放送される（12月29日は特別編成のため放送休止）。12月1日 「劇場版シティーハンター 新宿プラ...",
@@ -16803,6 +16828,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=265949",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新作アイス「不二家 ラブリーラズベリーアイス」を世界一詳しく調査しました。   公式YouTubeチ […]",
+          "link": "https://foodfighter.jp/711sej-lovely-raspberry-ice-cream",
+          "publishedOn": "2024-11-30T09:00:01.000Z",
+          "wordCount": 1753,
+          "title": "【セブンイレブン】不二家 ラブリーラズベリーアイス【新作コンビニアイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/fa039928a3a6bdd23cd4e2509019fe2d.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=265925",
           "author": "foodfighter",
@@ -23379,16 +23414,6 @@
           "wordCount": 2476,
           "title": "Yahoo!ニュース「40代で独り身の男は何かしら問題がある 」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/a/6a0ad5ba-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041171.html",
-          "author": "damono3856",
-          "description": "1 名前：＠おっさん友の会 ★ 警備員[Lv.13][新芽]：2024/10/31(木) 15:45:56.16 ID:UPiogqFE9.net\n\n\n\n\n\n\n\n家賃2万5,000円の市営団地に「20年引きこもる」氷河期世代の50歳長男、ともに暮らしてきた年金月17万円・87歳母逝去で窮地「どう生きていけばいいのか」（THE GOL...",
-          "link": "https://itainews.com/archives/2041171.html",
-          "publishedOn": "2024-10-31T21:01:17.000Z",
-          "wordCount": 2476,
-          "title": "家賃2万5,000円の市営団地に20年引きこもる氷河期世代の50歳長男、同居87歳母逝去で窮地「どう生きていけばいいのか」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/1/1181d6f6-s.png"
         }
       ]
     },
