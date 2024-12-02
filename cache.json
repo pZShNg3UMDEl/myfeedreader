@@ -4098,6 +4098,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/e890b7ee2dcd90d43a8d96817ba95c3ba15684a2?source=rss",
+          "author": null,
+          "description": "日本維新の会の代表に選出された吉村洋文代表がABCテレビの「newsおかえり」に出演し、幹事長・政調会長・総務会長の人事について40代の衆議院議員をあてる方針を明かしました。\n\n　日本維新の会の代表",
+          "link": "https://news.yahoo.co.jp/articles/e890b7ee2dcd90d43a8d96817ba95c3ba15684a2?source=rss",
+          "publishedOn": "2024-12-02T07:32:57.000Z",
+          "wordCount": 1611,
+          "title": "【速報】日本維新の会の党幹部人事で40代の衆院議員起用へ　吉村洋文新代表が番組出演で明かす(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d70c4896529c8e9cc6eabc59fff9beacb4d33a48?source=rss",
           "author": null,
           "description": "北陸新幹線の延伸で、検討が進められている京都市内の通過ルートをめぐり、「地下水の保存」を求め２つの酒造組合が京都府と京都市に要望書を提出しました。\n\n　２日、要望書を提出したのは、京都府酒造組合連合",
@@ -9144,6 +9154,26 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c2exdjnwkleo#0",
+          "author": null,
+          "description": "国連パレスチナ難民救済事業機関（UNRWA）は1日、イスラエルとパレスチナ・ガザ地区間の主要な検問所を通じた物資の輸送を一時停止すると発表した。治安上の懸念が理由。UNRWAのフィリップ・ラザリーニ事務局長は、直近の2回の輸送隊が南部ケレム・シャローム検問所近くで武装集団によって略奪されたと述べ、イスラエルに対して法と秩序の維持を呼びかけた。",
+          "link": "https://www.bbc.com/japanese/articles/c2exdjnwkleo",
+          "publishedOn": "2024-12-02T07:35:50.000Z",
+          "wordCount": 1574,
+          "title": "国連の支援団体、ガザへの物資輸送を一時停止　治安悪化を受け",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/fb66/live/9f2fca30-b07b-11ef-bdf5-b7cb2fa86e10.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/clygw0v894do#0",
+          "author": null,
+          "description": "プラスチックによる環境汚染への対処をめぐり、世界各国は2年近くにわたり、交渉を続けてきた。だが、画期的な国際合意には至らないまま、1日の交渉最終日が過ぎた。",
+          "link": "https://www.bbc.com/japanese/articles/clygw0v894do",
+          "publishedOn": "2024-12-02T07:27:37.000Z",
+          "wordCount": 1554,
+          "title": "プラスチック規制の世界的合意、まとまらず　産油国が反対",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/ea13/live/15ea7090-b076-11ef-93a6-9fd2d3586a96.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cly49dx8737o#0",
           "author": null,
