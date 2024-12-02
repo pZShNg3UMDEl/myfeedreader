@@ -9286,26 +9286,6 @@
           "wordCount": 1652,
           "title": "ＪＲ阪和線や大阪環状線で遅れや運転取りやめ　車両で異臭や異音(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241103-00048351-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/fff12309eb170d7088f3aa8381feaf89baae4c3d?source=rss",
-          "author": null,
-          "description": "和歌山県古座川町で、特産のユズから果汁を搾り出す作業が進み、加工場は爽やかな香りに包まれています。\n\n　古座川町の山あいにある平井地区は、昼と夜の気温差が大きく、ユズの栽培に適しています。\n\n　加工",
-          "link": "https://news.yahoo.co.jp/articles/fff12309eb170d7088f3aa8381feaf89baae4c3d?source=rss",
-          "publishedOn": "2024-11-03T05:10:02.000Z",
-          "wordCount": 1676,
-          "title": "ポン酢やシャーベットにユズ果汁の搾り出し　猛暑影響で収穫量は去年の半分　和歌山・古座川町(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241103-00048350-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/125408099bad9fe65142651605b13408681c7301?source=rss",
-          "author": null,
-          "description": "厄よけの寺として知られる徳島県の薬王寺で、新年の初詣に訪れる参拝者用のお札作りが最盛期を迎えています。\n\n　徳島県美波町の四国霊場二十三番札所「薬王寺」には、例年、正月三が日に約２０万人が訪れます。",
-          "link": "https://news.yahoo.co.jp/articles/125408099bad9fe65142651605b13408681c7301?source=rss",
-          "publishedOn": "2024-11-03T05:10:02.000Z",
-          "wordCount": 1662,
-          "title": "初詣へお札作りピーク　厄よけに５万枚用意　徳島・薬王寺(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241103-00048349-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -12915,6 +12895,16 @@
       "feedUrl": "http://image-sensors-world.blogspot.com/feeds/posts/default",
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/12/video-of-day-tutorial-on-itof-imagers.html",
+          "author": null,
+          "description": "Abstract:\n\"Indirect Time of Flight 3D imaging is an emerging technology used in 3D cameras. The technology is based on measuring the time of flight of modulated light. It allows to generate fine grain depth images with several hundreds of thousand image points. I-TOF has become a standard solution for face recognition and authentication. Recently I-TOF is also used in various new applications, such as computational photography, gesture recognition and robotics. This talk will introduce the basic operation principle of an I-TOF 3D imager IC. The integrated building blocks will be discussed and the analog operation of an I-TOF pixel will be addressed in detail. System level topics of the camera module will also be covered to provide a complete overview of the technology.\"\nThis presentation was recorded as part of the lecture \"Selected Topics of Advanced Analog Chip Design\" from the Institute of Electronics at TU Graz.\nSpecial thanks to Dr. Timuçin Karaca, for the insightful presentation.",
+          "link": "http://image-sensors-world.blogspot.com/2024/12/video-of-day-tutorial-on-itof-imagers.html",
+          "publishedOn": "2024-12-02T17:14:00.000Z",
+          "wordCount": 3850,
+          "title": "Video of the Day: tutorial on iToF imagers",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sOueDVC1Mykqd-bomdAhcRd0g8UsiPt--wWblazr8JC5sUYOZxrmPi0P2DOZJ7x6G1ZpzX9o6GVxHOVwaz3fihR3jGVKv9IjPEliKdXJrAo2xs=w1200-h630-n-k-no-nu"
+        },
         {
           "id": "http://image-sensors-world.blogspot.com/2024/11/exosens-prev-photonis-acquires-noxant.html",
           "author": null,
@@ -23539,16 +23529,6 @@
           "wordCount": 2438,
           "title": "【悲報】20代の18%がノーブラ　識者「ブラをしないと垂れる」と警告",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/9/19a2b7b7-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041249.html",
-          "author": "dqnplus",
-          "description": "1 ：：2024/11/02(土) 19:53:40.68 ID:2y57IYvH0●.net\n\n\n\n\n\n\n\n\n\n石破さんは、食事の時に躾けられなかったんですかねぇ。 pic.twitter.com/iFS19WW69w— 市川禎 (@OrgKbSyPf) November 1, 2024 \n\n\n\n\n\n\n\n\n石破首相 “衆院選での民意 謙虚に受け止め丁寧に政権運営”\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2041249.html",
-          "publishedOn": "2024-11-03T05:01:02.000Z",
-          "wordCount": 2463,
-          "title": "【画像】石破総理のお茶碗の持ち方がクワマンの箸の持ち方以来の衝撃だと話題に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/c/3c2ae628-s.png"
         }
       ]
     },
