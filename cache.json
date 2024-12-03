@@ -1361,6 +1361,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/412/G041234/20241129068/",
+          "author": null,
+          "description": "「週刊プロゲーマーファイル」では，幅広いジャンルで活躍するプロゲーマーを毎週一人ずつ取り上げ，プロフィールを紹介していきます。今週取り上げるのは「大乱闘スマッシュブラザーズ」のプロシーンで活躍するスノー選手です。",
+          "link": "https://www.4gamer.net/games/412/G041234/20241129068/",
+          "publishedOn": "2024-12-03T01:00:00.000Z",
+          "wordCount": 7209,
+          "title": "「週刊プロゲーマーファイル」File.262：スノー選手【大乱闘スマッシュブラザーズ】",
+          "imageUrl": "https://www.4gamer.net/games/412/G041234/20241129068/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/421/G042182/20241202048/",
           "author": null,
           "description": "世界中のインディーゲームに関する最新情報をお届けする情報番組「INDIELiveExpo2024.12.7」は，12月7日19：00から配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
@@ -9256,26 +9266,6 @@
           "wordCount": 1636,
           "title": "「足元から火が起きた」東大阪の木造集合住宅で火事　高齢女性２人けが(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241104-00048356-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b7481e3ff9165a053dd71411455468f04c8e54a8?source=rss",
-          "author": null,
-          "description": "３日午後９時ごろ、ＪＲ京都線・長岡京駅のホームで不審物が見つかりました。ＪＲはホームへの立ち入りを規制し、京都駅と高槻駅の間で電車の運転を見合わせています。警察や消防などが中身の確認を進めています。",
-          "link": "https://news.yahoo.co.jp/articles/b7481e3ff9165a053dd71411455468f04c8e54a8?source=rss",
-          "publishedOn": "2024-11-03T12:48:44.000Z",
-          "wordCount": 1645,
-          "title": "【速報】長岡京駅のホームに不審物　ＪＲ京都線が京都～高槻間で運転見合わせ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241103-00048355-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cb180a7e6b43effcbbadd24c51242ca9e257a519?source=rss",
-          "author": null,
-          "description": "３日夕方、大阪市の集合住宅で火事があり、男性が１人が病院に搬送されました。男性は意識不明の重体です。\n\n３日午後６時頃、大阪市北区天満橋の集合住宅で「煙が出ています」と近隣住民から消防に通報がありまし",
-          "link": "https://news.yahoo.co.jp/articles/cb180a7e6b43effcbbadd24c51242ca9e257a519?source=rss",
-          "publishedOn": "2024-11-03T12:06:12.000Z",
-          "wordCount": 1613,
-          "title": "男性１人が意識不明　大阪・天満橋の集合住宅で一室が燃える(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241103-00048354-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9284,6 +9274,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c20nlvv643mo#0",
+          "author": null,
+          "description": "イスラエルは2日夜にレバノンを攻撃したと発表した。イスラエルは、軍事拠点がレバノンのイスラム教シーア派組織ヒズボラに攻撃されたとして、報復を宣言していた。双方は先週、停戦で合意したが、互いに相手が違反したと非難し合う状況となっている。",
+          "link": "https://www.bbc.com/japanese/articles/c20nlvv643mo",
+          "publishedOn": "2024-12-03T00:36:11.000Z",
+          "wordCount": 1466,
+          "title": "イスラエル、停戦合意後もレバノンを空爆　ヒズボラも軍事拠点を攻撃",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/e716/live/10072360-b109-11ef-a0f2-fd81ae5962f4.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c3vrxzggxw7o#0",
           "author": null,
@@ -11241,6 +11241,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2412/03/news083.html",
+          "author": null,
+          "description": "マイクロンテクノロジーは、データセンター向け60TバイトSSD「Micron 6550 ION NVMe SSD」を発表した。最大電力で最大14Gバイト/秒、20Wの消費電力で12Gバイト/秒のパフォーマンスを実現している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2412/03/news083.html",
+          "publishedOn": "2024-12-03T00:00:00.000Z",
+          "wordCount": 2552,
+          "title": "「業界最速」のデータセンター向け60TバイトSSD",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2412/03/cover_news083.jpg"
+        },
         {
           "id": "https://monoist.itmedia.co.jp/mn/articles/2412/02/news005.html",
           "author": null,
@@ -16027,36 +16037,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122401/",
-          "author": null,
-          "description": "木下グループの傘下で、映画館の開発・運営・興行を手掛ける「kino cinema」（※「e」の表記はアキュート・アクセントつき、以下同様）が、12月中旬、大阪・心斎橋ビッグステップの4階に、「k...",
-          "link": "https://anime.eiga.com/news/122401/",
-          "publishedOn": "2024-11-03T13:00:00.000Z",
-          "wordCount": 909,
-          "title": "新映画館「kino cinema 心斎橋」12月中旬にオープン　大阪初出店",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122415/",
-          "author": null,
-          "description": "松山ケンイチ、染谷将太が主演を務める福田雄一監督作「聖☆おにいさん THE MOVIE ホーリーメンVS悪魔軍団」の主題歌が「Mrs. GREEN APPLE」の書き下ろし新曲「ビターバカンス」...",
-          "link": "https://anime.eiga.com/news/122415/",
-          "publishedOn": "2024-11-03T12:00:00.000Z",
-          "wordCount": 1012,
-          "title": "実写「聖☆おにいさん THE MOVIE」主題歌は「Mrs. GREEN APPLE」の書き下ろし新曲　豪華キャスト大集結の本予告完成",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16883,6 +16863,16 @@
       "feedUrl": "http://foodfighter.jp/feed/",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=266193",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
+          "link": "https://foodfighter.jp/sukiya-shiraganegi-2024",
+          "publishedOn": "2024-12-03T00:45:35.000Z",
+          "wordCount": 1813,
+          "title": "【すき家】白髪ねぎ牛丼【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/12/bb6f1c7d37cd0126d0f5877d0e8e14df.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=266178",
           "author": "foodfighter",
@@ -23349,26 +23339,6 @@
           "wordCount": 2439,
           "title": "「バーニラ、バニラ、バーニラ」←再び現れる　トラックからバスに変更して規制回避wwwwwww",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/2/b28331ca-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041264.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2024/11/03(日) 09:14:36.45 ID:1rPVoCam9.net\n\n\n\n\n\n\n\n七五三で「撮影禁止」の神社が増加…出張撮影カメラマンの迷惑行為や偽装撮影が横行、ガイドライン策定も(大手小町（読売新聞）)#Yahooニュースhttps://t.co/vwIfjwVFRO— ちばっちょ【ち畳工房&猫...",
-          "link": "https://itainews.com/archives/2041264.html",
-          "publishedOn": "2024-11-03T13:01:10.000Z",
-          "wordCount": 2511,
-          "title": "七五三で「撮影禁止」の神社が増加…“出張撮影カメラマン”の迷惑行為や偽装撮影が横行、ガイドライン策定も",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/0/003d91a9-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041260.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2024/11/03(日) 07:55:35.40 ID:nR8+e2bD9.net\n\n\n\n\n\n\n\n嘔吐しかけた泥酔客、ドアを開けたらまさか…　「どうすべきだったのか」と問われたタクシー運転手の悔恨https://t.co/McxzdnSmns— 東京新聞（TOKYO Web） (@tokyo_shimbun) November 2, 2024...",
-          "link": "https://itainews.com/archives/2041260.html",
-          "publishedOn": "2024-11-03T12:00:30.000Z",
-          "wordCount": 2491,
-          "title": "嘔吐しかけた泥酔客、ドアを開けたらまさか…　「どうすべきだったのか」と問われたタクシー運転手の悔恨　(東京地裁)",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/6/06aae81a-s.png"
         }
       ]
     },
@@ -23377,6 +23347,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=85283",
+          "author": "299",
+          "description": "我が子を優しくお世話するお母さん猫たちの動画特集の紹介です。 お母さん猫が赤ちゃん猫を腕の中に抱き抱えるようにしながら、一生懸命に毛づくろいをしてあげています。 赤ちゃん猫はお母さんの舌でベロベロなめまわされて身体や頭が...\nお母さん猫が子猫に注ぐ愛情が素敵すぎる first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85283",
+          "publishedOn": "2024-12-03T00:00:47.000Z",
+          "wordCount": 1353,
+          "title": "お母さん猫が子猫に注ぐ愛情が素敵すぎる",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/12/85283.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=85253",
           "author": "299",
@@ -26906,16 +26886,6 @@
           "wordCount": 1329,
           "title": "箱に入れない時は寄りかかってくつろぐのにゃ〜",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83715.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83703",
-          "author": "299",
-          "description": "保護猫シェルターには新入りの赤ちゃん猫の姿がありました。生まれて間もない赤ちゃん猫です。 ダンボールの寝床のなかでモゾモゾと動いているようですが目はまだ開いていない様子です。とりあえず体重を測ってみることにします。重さは...\n保護された赤ちゃんを気にかける先住猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83703",
-          "publishedOn": "2024-11-03T13:00:08.000Z",
-          "wordCount": 1323,
-          "title": "保護された赤ちゃんを気にかける先住猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83703.jpg"
         }
       ]
     }
