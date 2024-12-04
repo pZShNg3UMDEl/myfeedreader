@@ -12170,16 +12170,6 @@
           "wordCount": 2526,
           "title": "回路保護機能搭載の125Vハイサイドゲートドライバー",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/06/cover_news070.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2411/05/news050.html",
-          "author": null,
-          "description": "テクシオ・テクノロジーは、汎用スペクトラムアナライザー「GSP-8800」「GSP-8180」の販売を開始した。GSP-8800は9kHz～8GHz、GSP-8180は9kHz～1.8GHzをサポートする。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2411/05/news050.html",
-          "publishedOn": "2024-11-05T00:00:00.000Z",
-          "wordCount": 2515,
-          "title": "8GHzまでのRF帯域をカバーした汎用スペクトラムアナライザー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/05/cover_news050.jpg"
         }
       ]
     },
@@ -12188,6 +12178,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=89913",
+          "author": "編集部：平山洸太",
+          "description": "ソノヴァ・ジャパンは、同社補聴器ブランド “フォナック” の耳掛け型フラグシップモデル「フォナック オーデオ インフィニオ スフィア」を2025年1月に発売する。価格はプレミアムモデル「I90」が片耳710,000円、アドバンスモデル「I70」が512,000円（どちらも非課税）。また、専用充電器「 […]",
+          "link": "https://gadget.phileweb.com/post-89913/",
+          "publishedOn": "2024-12-04T12:20:50.000Z",
+          "wordCount": 801,
+          "title": "ソノヴァ、AIで“声と雑音を分離”させる補聴器「インフィニオ スフィア」。専用チップ独自設計で、処理性能追求",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/12/DSC_92091204918g.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=89878",
           "author": "Munenori Taniguchi",
@@ -13838,6 +13838,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122704/",
+          "author": null,
+          "description": "堀越耕平氏の漫画「僕のヒーローアカデミア」（略称・ヒロアカ）のコミックス最終・42巻が12月4日に発売されたことを記念して、アメリカンコミックのブランド「マーベル・コミック」とのコラボレーション...",
+          "link": "https://anime.eiga.com/news/122704/",
+          "publishedOn": "2024-12-04T12:00:00.000Z",
+          "wordCount": 884,
+          "title": "「ヒロアカ」最終巻、発売記念　マーベル・コミックとのコラボイラスト公開　描き下ろし漫画の一部も初披露",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122707/",
           "author": null,
@@ -17675,16 +17690,6 @@
           "wordCount": 1154,
           "title": "【イベント】ミニSLに乗れちゃう！「おいでよ！ぼうさいの丘公園」11月9日開催予定★小動物園やスライム作りも♪［厚木市温水］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/11/bousainooka202411.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=46025",
-          "author": "fumie",
-          "description": "こんにちは、ふみえ＠あつらぼです！ 今回は神奈川工科大学にて開催される、クリスマスイベントの情報を頂きましたー！ レゴ®教育教材を使った「ものづくり体験講座」が、神奈川工科大学「KAIT TOWN」で開催されます♪ 講座の対象学齢は幼児年長…",
-          "link": "https://atsugi-lab.com/event-kait-christmas2024/",
-          "publishedOn": "2024-11-05T00:30:22.000Z",
-          "wordCount": 1188,
-          "title": "【12月22日・参加費無料】レゴ®教育教材を使ったものづくり体験講座「ブロックで未来の地球を考えよう！」参加者募集★［神奈川工科大学］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/10/kait-christmas202412.png"
         }
       ]
     },
@@ -18992,16 +18997,6 @@
           "wordCount": 1802,
           "title": "【松屋】鶏豆腐キムチチゲセット【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/e512e51ed92bcc77c14165da6de6df8b.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=263517",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム りんごケーキアイス」を世界一詳しく調査しました。   公式YouTubeチ […]",
-          "link": "https://foodfighter.jp/711sej-apple-cake-ice-cream",
-          "publishedOn": "2024-11-05T00:12:17.000Z",
-          "wordCount": 1755,
-          "title": "【セブンイレブン】セブンプレミアム りんごケーキアイス【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/8cf3574807133d22cdd9295d72d2cbd7.jpg"
         }
       ]
     },
@@ -19010,6 +19005,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042350.html",
+          "author": "damono3856",
+          "description": "1 名前：シャチ ★：2024/12/04(水) 11:58:36.29 ID:mHroN7wX9.net\n\n\n\n\n\n\n\n【近隣への迷惑行為で記念列車「中止」へ 事前の警告もむなしく 守られない撮影マナー】https://t.co/zP8vHxbe85— 乗りものニュース (@TrafficNewsJp) December 3, 2024  \n\n\n\n\n\n\n　茨城県の下館...",
+          "link": "https://itainews.com/archives/2042350.html",
+          "publishedOn": "2024-12-04T12:02:39.000Z",
+          "wordCount": 2557,
+          "title": "【撮り鉄】近隣への迷惑行為で記念列車「中止」へ 事前の警告もむなしく 守られない撮影マナー　真岡鐵道",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/7/f7cd198a-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042342.html",
           "author": "damono3856",
@@ -27926,16 +27931,6 @@
           "wordCount": 1340,
           "title": "朝一番からお腹ぺこぺこで大騒ぎな子猫たち",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83783.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83810",
-          "author": "299",
-          "description": "お鼻がぺちゃんこで潰れたお顔が可愛いエキゾチックショートヘアの赤ちゃんが口を半開きにしてぐっすり昼寝しています。 前足をひょっこりと宙に浮かせてまるで踊っているみたいなポーズなのが可愛すぎです。 息をひそめながら撮影して...\n夢のなかで走っているのかな？手足をピクピクさせながら爆睡中〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83810",
-          "publishedOn": "2024-11-05T00:00:39.000Z",
-          "wordCount": 1341,
-          "title": "夢のなかで走っているのかな？手足をピクピクさせながら爆睡中〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83810.jpg"
         }
       ]
     }
