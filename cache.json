@@ -1264,6 +1264,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCk4TwaCBT1JIhzdYMhf0fww",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aBjzEg9cEbA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aBjzEg9cEbA",
+          "publishedOn": "2024-12-04T10:30:00.000Z",
+          "wordCount": null,
+          "title": "【今？】田中東子さん火消し失敗？文春にwiki編集に赤旗！なお批判対象のダブスタはそのままのよう",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=io5ggK2xOkw",
           "author": null,
           "description": "",
@@ -13819,6 +13829,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/column/konki_ranking/122697/",
+          "author": null,
+          "description": "12月第1週の2024年秋アニメ録画ランキングは、「チ。―地球の運動について―」が8週連続で首位となった。 「ドラゴンボールDAIMA」は、1位の「チ。―地球の運動について―」と同じ97ポイント...",
+          "link": "https://anime.eiga.com/news/column/konki_ranking/122697/",
+          "publishedOn": "2024-12-04T10:30:00.000Z",
+          "wordCount": 912,
+          "title": "【今期TVアニメランキング】「チ。」と「ドラゴンボールDAIMA」がほぼ並ぶ",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/122706/",
           "author": null,
           "description": "テレビアニメ「花は咲く、修羅の如く」の放送が2025年1月7日からスタートすることが決定し、遊佐浩二、日笠陽子の出演が明らかになった。メインPVとメインビジュアルが公開されている。 遊佐はナルシ...",
@@ -18952,16 +18977,6 @@
           "wordCount": 1755,
           "title": "【セブンイレブン】セブンプレミアム りんごケーキアイス【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/8cf3574807133d22cdd9295d72d2cbd7.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=263498",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「リュウジの至高のレシピ ペッパーベーコンエッグおむすび」を世界一詳しく調査しました。    […]",
-          "link": "https://foodfighter.jp/famima-ryuji-omusubi",
-          "publishedOn": "2024-11-04T22:42:19.000Z",
-          "wordCount": 1758,
-          "title": "【ファミマ】リュウジの至高のレシピ ペッパーベーコンエッグおむすび【新作コンビニおにぎり】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/386a79c0acab50c2c8240a4d1db6d06d.jpg"
         }
       ]
     },
