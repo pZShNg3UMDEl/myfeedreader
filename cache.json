@@ -4368,6 +4368,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/0eb23003c757303294be74bfbeced55a74a9000b?source=rss",
+          "author": null,
+          "description": "京都府京田辺市で３日、住宅の窓ガラスが割られ、部屋を荒らされる被害が５件確認されました。警察は連続空き巣被害とみて警戒を強めています。\n\n　京都府警によりますと、京田辺市大住に住む５１歳の男性が、３",
+          "link": "https://news.yahoo.co.jp/articles/0eb23003c757303294be74bfbeced55a74a9000b?source=rss",
+          "publishedOn": "2024-12-04T09:23:23.000Z",
+          "wordCount": 1661,
+          "title": "京都府京田辺市大住付近で連続空き巣か　部屋荒らされる被害が５件確認　警察が注意を呼びかけ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241204-00048859-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a0dc4a118e682bc583c7534c7238674f39eae5cf?source=rss",
           "author": null,
           "description": "大阪府警機動警ら隊所属の５２歳の男性警部が、自身の誕生日会で部下の顔を殴り、ケガをさせたとして書類送検され、停職１カ月の懲戒処分となりました。警部は「誕生日を祝ってもらい高揚感と照れ臭さというところ",
@@ -9756,16 +9766,6 @@
           "wordCount": 1674,
           "title": "大阪・浪速区の市営住宅で火事　車いすで独り暮らしの高齢男性が意識不明(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241105-00048372-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/11753cda2a865f07ab46412f0d203ce1aa80f6c4?source=rss",
-          "author": null,
-          "description": "京阪電鉄によりますと、５日午前５時半頃、京都市伏見区の踏切で人身事故があり、京阪本線、中之島線、鴨東線の全線で運転を見合わせています。",
-          "link": "https://news.yahoo.co.jp/articles/11753cda2a865f07ab46412f0d203ce1aa80f6c4?source=rss",
-          "publishedOn": "2024-11-04T21:37:31.000Z",
-          "wordCount": 1642,
-          "title": "京阪電車　運転見合わせ　京都市の踏切で人身事故(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241105-00048371-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -13768,6 +13768,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122703/",
+          "author": null,
+          "description": "「週刊少年マガジン」（講談社刊）で2022年11月から連載中のラブコメディ「よわよわ先生」のテレビアニメ化が決定した。アニメのキャストが決まった際には、ボイスコミックスも展開される。 福地カミオ...",
+          "link": "https://anime.eiga.com/news/122703/",
+          "publishedOn": "2024-12-04T09:30:00.000Z",
+          "wordCount": 817,
+          "title": "担任の先生は、押しにも情にも刺激にも弱い…ラブコメ漫画「よわよわ先生」TVアニメ化",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122705/",
           "author": null,
