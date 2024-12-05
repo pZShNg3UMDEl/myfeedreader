@@ -447,6 +447,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7zO_cwsg5sw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7zO_cwsg5sw",
+          "publishedOn": "2024-12-05T12:12:04.000Z",
+          "wordCount": null,
+          "title": "緊急鳩ライブ　座談会",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m0_fdzfBxkM",
           "author": null,
           "description": "",
@@ -4567,6 +4577,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f56d2cddffcf09c1246e2c95ed8546c3f337ce87?source=rss",
+          "author": null,
+          "description": "国の承認を受けていない麻酔薬などの医薬品を美容エステ店などに販売したとして、奈良県大和郡山市の会社経営の男（５１）が逮捕されました。\n\n　医薬品医療機器法違反の疑いで逮捕されたのは、眉毛などに使うア",
+          "link": "https://news.yahoo.co.jp/articles/f56d2cddffcf09c1246e2c95ed8546c3f337ce87?source=rss",
+          "publishedOn": "2024-12-05T12:17:33.000Z",
+          "wordCount": 1701,
+          "title": "「麻酔薬の高い効果」「痛みを伴う施術にご使用ください」　未承認の医薬品を美容エステ店に販売か　アートメイク商材の業者を逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241205-00048887-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/99ab2a2ce1cb07d7167686a4fca5b7b5407a8507?source=rss",
+          "author": null,
+          "description": "粉飾した決算報告書を金融機関に提出し、不正に融資を受けたとして、大阪府警は建物の保守管理などを担う会社の元社長と、元銀行員の経営コンサルタントの２人を逮捕しました。\n\n　詐欺の疑いで逮捕されたのは、",
+          "link": "https://news.yahoo.co.jp/articles/99ab2a2ce1cb07d7167686a4fca5b7b5407a8507?source=rss",
+          "publishedOn": "2024-12-05T12:00:04.000Z",
+          "wordCount": 1679,
+          "title": "粉飾決算　金融機関から約４９００万円詐取か　元社長と経営コンサルの２人逮捕　「事業継続のため」逮捕前の取材に語る(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241205-00048884-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/557d1d4127a53312ea82a0dcad9b10ddc34a3156?source=rss",
           "author": null,
@@ -12063,16 +12093,6 @@
           "wordCount": 1527,
           "title": "イスラエルの首相が国防相を解任、テルアヴィヴでは抗議デモ",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/120f/live/99773cd0-9be1-11ef-8538-e1655f5a8342.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c62l9yggn0qo#1",
-          "author": null,
-          "description": "アメリカの有権者は大統領選となると、二大政党の候補のあらゆる姿を果てしなく見せられることになる。壇上から話している姿、集会で支持者にアピールする姿、飛行機のタラップから降りる姿……などなどなど。ここではそれとは少し切り口を変えて、共和党と民主党の両候補のさまざまな姿を見てみたい。",
-          "link": "https://www.bbc.com/japanese/articles/c62l9yggn0qo",
-          "publishedOn": "2024-11-06T00:24:12.000Z",
-          "wordCount": 1575,
-          "title": "【米大統領選2024】 それぞれの半生……ハリス候補とトランプ候補のこれまで",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/449a/live/454a3de0-9b7f-11ef-9260-19e6a950e830.jpg"
         }
       ]
     },
@@ -12340,16 +12360,6 @@
           "wordCount": 2506,
           "title": "消費電力56％減、体積比85％減の恒温槽付水晶発振器",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/07/cover_news089.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2411/06/news070.html",
-          "author": null,
-          "description": "インフィニオン テクノロジーは、システムの異常発生時にバッテリー駆動アプリケーションを保護する125Vハイサイドゲートドライバー「EiceDRIVER 1EDL8011」を発表した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2411/06/news070.html",
-          "publishedOn": "2024-11-06T00:00:00.000Z",
-          "wordCount": 2526,
-          "title": "回路保護機能搭載の125Vハイサイドゲートドライバー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/06/cover_news070.jpg"
         }
       ]
     },
@@ -14058,6 +14068,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122710/",
+          "author": null,
+          "description": "大ヒットディズニー映画の続編「モアナと伝説の海2」から、主人公モアナとココナッツの海賊カカモラが対決する、大海原を駆けめぐるアクションシーンをとらえた本編映像がお披露目された。 11月27日に全...",
+          "link": "https://anime.eiga.com/news/122710/",
+          "publishedOn": "2024-12-05T12:00:00.000Z",
+          "wordCount": 730,
+          "title": "モアナVS.ココナッツの海賊カカモラ再び、続編ではカカモラの秘密も明らかに　「モアナと伝説の海2」本編映像",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122712/",
           "author": null,
@@ -19230,6 +19255,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042396.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2024/12/05(木) 10:56:48.48 ID:Vl+vx6bS9.net\n\n\n\n\n\n\n\n闇バイト応募者　警察の保護措置、約1カ月半で125件に　警察庁 | 毎日新聞 https://t.co/wC7EzTmy6o— 毎日新聞社会部東京グループ (@mainichi_shakai) December 4, 2024  \n\n\n\n\n\n\n犯罪に加担するよ...",
+          "link": "https://itainews.com/archives/2042396.html",
+          "publishedOn": "2024-12-05T12:02:17.000Z",
+          "wordCount": 2489,
+          "title": "闇バイト応募者　警察の保護措置、約1カ月半で125件に 警視庁",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/d/0dbfa437-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042391.html",
           "author": "damono3856",
@@ -28156,16 +28191,6 @@
           "wordCount": 1342,
           "title": "ホームセンターにおやつを買いにきた猫が大興奮！",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83836.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83861",
-          "author": "299",
-          "description": "今回ご紹介するのはお店の中で眠る猫ちゃんです。 眠るのはいいんですけど、問題はその場所。 お客様がすぐ真横を通過しても、猫ちゃんは気にせずスヤスヤ。 なかなかの肝っ玉ぶりをご覧ください。 お店の中で猫ちゃんが眠っています...\nお店のど真ん中で寝る猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83861",
-          "publishedOn": "2024-11-06T00:00:20.000Z",
-          "wordCount": 1347,
-          "title": "お店のど真ん中で寝る猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83861.jpg"
         }
       ]
     }
