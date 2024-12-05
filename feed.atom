@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-05T13:43:59.197Z</updated>
+    <updated>2024-12-05T13:54:05.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[緊急🕊️ライブ]]></title>
+        <id>https://www.youtube.com/watch?v=0wgCtQSEzEc</id>
+        <link href="https://www.youtube.com/watch?v=0wgCtQSEzEc"/>
+        <updated>2024-12-05T13:52:11.000Z</updated>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[緊急鳩ライブ　座談会②]]></title>
         <id>https://www.youtube.com/watch?v=1f5XfDltvWk</id>
@@ -34929,26 +34938,6 @@ N党立花氏と「面談一切ない」　斎藤氏失職に伴う知事選巡�
 ホームセンターにおやつを買いにきた猫が大興奮！ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch後継機では現Switch向けソフトも遊べることが決定。Nintendo Switch Onlineも継続利用できる]]></title>
-        <id>https://www.4gamer.net/games/990/G999026/20241106002/</id>
-        <link href="https://www.4gamer.net/games/990/G999026/20241106002/"/>
-        <updated>2024-11-06T01:48:37.000Z</updated>
-        <summary type="html"><![CDATA[任天堂は本日（2024年11月6日），同社の経営方針説明会でNintendoSwitchの後継機種ではNintendoSwitch向けソフトも遊べる旨を公表した。本情報は，公式Xアカウントを通して社長の古川俊太郎氏から発表されたものだ。NintendoSwitchOnlineも後継機種で引き続き利用できるようにするとのこと。]]></summary>
-        <author>
-            <name>4Gamer.net − Wii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、次期iPad AirやiMacに90Hz対応Studio Displayを搭載か]]></title>
-        <id>https://gadget.phileweb.com/?p=87937</id>
-        <link href="https://gadget.phileweb.com/post-87937/"/>
-        <updated>2024-11-06T01:44:47.000Z</updated>
-        <summary type="html"><![CDATA[アップルが将来のiPad Airや24インチiMac、純正ディスプレイStudio Display向けに90Hzのディスプレイを開発中との噂が報じられている。 この噂は、マイク・ハーレー氏とジェイソン・スネイル氏がホストを務めるポッドキャスト「Upgrade」に匿名の情報提供者が寄せたものだ。両氏と […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
