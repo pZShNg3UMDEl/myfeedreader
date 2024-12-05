@@ -4478,6 +4478,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/9ab7f563f76bfce0e270f51f0112c595466e79a5?source=rss",
+          "author": null,
+          "description": "女性との性的関係を巡り裁判で和解していた大阪府岸和田市の永野耕平市長は、5日も引き続き市長を続ける考えを示しました。\n　ただ、これまでは「裁判の内容は話せない」と同じ主張を繰り返してきましたが、5日",
+          "link": "https://news.yahoo.co.jp/articles/9ab7f563f76bfce0e270f51f0112c595466e79a5?source=rss",
+          "publishedOn": "2024-12-05T09:12:57.000Z",
+          "wordCount": 1754,
+          "title": "「想像していた以上に誤解されている」　性的関係で和解の岸和田市長　「紛争なので」と和解調書の全文公開に意欲　維新が「除名」提示で態度変えた見方も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241205-00010001-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fd4532b6191336aece6efc4fae29a4eeaab9f4d8?source=rss",
+          "author": null,
+          "description": "神戸市東灘区の歩道で先月、４５歳の女性を突き飛ばして転倒させ７日後に死亡させたとして、兵庫県警は５日、知人の３９歳の男を逮捕しました。\n\n傷害致死の疑いで逮捕されたのは、神戸市北区の会社員、岡田省吾",
+          "link": "https://news.yahoo.co.jp/articles/fd4532b6191336aece6efc4fae29a4eeaab9f4d8?source=rss",
+          "publishedOn": "2024-12-05T08:59:59.000Z",
+          "wordCount": 1707,
+          "title": "「寝ている女が起きない」　路上で女性を突き飛ばし死なせたか　知人の男を逮捕　容疑否認　神戸(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241205-00048883-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/ccfa430dd9073e917bce6b87f842dc935089a973?source=rss",
           "author": null,
           "description": "粉飾した決算報告書を金融機関に提出し、不正に融資を受けたとして、大阪府警は建物の保守管理などを担う会社の元社長と、元銀行員の経営コンサルタントの２人を逮捕しました。\n\n　詐欺の疑いで逮捕されたのは、",
@@ -9925,6 +9945,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c745lekpy55o#0",
+          "author": null,
+          "description": "アメリカ・ニューヨークで4日、米医療保険大手ユナイテッドヘルスケアのブライアン・トンプソン最高経営責任者（ＣＥＯ）が銃撃されて死亡した。ニューヨーク市警は顔認証技術と、現場に残されていた携帯電話を使い、容疑者の特定を進めている。",
+          "link": "https://www.bbc.com/japanese/articles/c745lekpy55o",
+          "publishedOn": "2024-12-05T08:46:45.000Z",
+          "wordCount": 1572,
+          "title": "朝のニューヨーク中心部で保険大手トップが射殺される　計画的犯行と米警察",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/a489/live/0703d100-b2da-11ef-a2ca-e99d0c9a24e3.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cvg7x7kdjkeo#0",
           "author": null,
           "description": "「大統領は一体何を考えていたのだろうか」――。韓国・ソウルで4日、市民の頭をよぎった最大の疑問の一つは間違いなくこれだ。",
@@ -13908,6 +13938,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122715/",
+          "author": null,
+          "description": "「名探偵コナン」劇場版シリーズの第28弾「名探偵コナン 隻眼の残像（フラッシュバック）」の特報映像が公開された。あわせて、コナン、毛利小五郎、大和敢助の“片目”が印象的に描かれた「DETECTビ...",
+          "link": "https://anime.eiga.com/news/122715/",
+          "publishedOn": "2024-12-05T09:00:00.000Z",
+          "wordCount": 763,
+          "title": "劇場版「名探偵コナン」最新作、左眼を押さえる敢助、涙する小五郎――緊迫の特報映像公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122708/",
           "author": null,
@@ -18997,16 +19042,6 @@
           "wordCount": 1752,
           "title": "【セブンイレブン】ニンニク背脂醤油鍋【新作コンビニ惣菜】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/4972d74f588f891fa709b0a32b8c22c6.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=263589",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   公式YouT […]",
-          "link": "https://foodfighter.jp/mcdonalds-sankakuchocopie-cookie",
-          "publishedOn": "2024-11-05T20:47:50.000Z",
-          "wordCount": 1817,
-          "title": "【マクドナルド】三角チョコパイ クッキー＆クリーム【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/d2c927872499ee836b6f6dd3f8f48992.jpg"
         }
       ]
     },
@@ -19015,6 +19050,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042394.html",
+          "author": "dqnplus",
+          "description": "1 ：：2024/12/05(木) 08:02:25.25 ID:vGJ5/QPV0●.net\n\n\n\n\n\n\n\n\nホリエモン、寿司職人が“10年も修行するのはバカ”発言で炎上も…「本当のことを言った」と主張曲げず(スポニチアネックス)#Yahooニュースhttps://t.co/BcjQVfmhuS— 田中一郎 (@ichiro_tanaka28) Decembe...",
+          "link": "https://itainews.com/archives/2042394.html",
+          "publishedOn": "2024-12-05T09:01:33.000Z",
+          "wordCount": 2549,
+          "title": "ホリエモン、寿司職人が“10年も修行するのはバカ”発言　主張曲げず",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/e/1ee50db8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042390.html",
           "author": "dqnplus",
