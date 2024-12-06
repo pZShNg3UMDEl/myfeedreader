@@ -9816,16 +9816,6 @@
           "wordCount": 1706,
           "title": "車とオートバイ２台が絡む事故で４人死傷　車運転の女を逮捕　兵庫・川西(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241107-00048411-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/040042b34132913ca9a3590457adbffcf5bd364c?source=rss",
-          "author": null,
-          "description": "日本維新の会は６日、オンラインで常任役員会を開き、代表選を１７日告示、１２月１日投開票の日程で実施することを正式に決めました。\n\n　維新は先月２７日の衆議院選挙で、公示前の４４議席から６議席減らし、",
-          "link": "https://news.yahoo.co.jp/articles/040042b34132913ca9a3590457adbffcf5bd364c?source=rss",
-          "publishedOn": "2024-11-06T12:35:11.000Z",
-          "wordCount": 1733,
-          "title": "日本維新の会　代表選の実施を正式決定　柳ヶ瀬総務会長「当然の流れ」　１１月１７日告示・１２月１日投開票(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00048410-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9834,6 +9824,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/clyg2glykv9o#0",
+          "author": null,
+          "description": "韓国の尹錫悦（ユン・ソンニョル）大統領が3日夜に突如として非常戒厳を宣布したことで、多くの人々にとって歴史の一部でしかなかった光景が目の前に現れた。そうしたなか、国会に議員が入るの阻止するために派遣された兵士に立ち向かう一人の女性の姿が、特に注目された。",
+          "link": "https://www.bbc.com/japanese/articles/clyg2glykv9o",
+          "publishedOn": "2024-12-06T00:59:04.000Z",
+          "wordCount": 960,
+          "title": "「何もしないなんて無理だった」 戒厳騒動の中で兵士の銃をつかんだ女性が心境を語る",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/7629/live/18d04670-b36b-11ef-a0f2-fd81ae5962f4.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cx2ylglwyp5o#0",
           "author": null,
@@ -11773,16 +11773,6 @@
           "wordCount": 1563,
           "title": "独首相が財務相を解任、年明けに信任投票実施へ　早期選挙の可能性も",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/93c3/live/8f740220-9cab-11ef-8538-e1655f5a8342.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cpwrqq95jkeo#1",
-          "author": null,
-          "description": "アメリカ大統領選の開票が進み、東部時間6日午前5時半（日本時間午後7時半）すぎ、共和党候補のドナルド・トランプ前大統領の再選が確実となった。ホワイトハウスへの歴史的な復帰を果たす。世界の指導者たちが示したこれまでの反応を紹介する。",
-          "link": "https://www.bbc.com/japanese/articles/cpwrqq95jkeo",
-          "publishedOn": "2024-11-06T11:54:53.000Z",
-          "wordCount": 1528,
-          "title": "【米大統領選2024】トランプ次期米大統領に続々と祝辞　イスラエルやイギリスなど各国首脳、NATOトップも",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/13d8/live/785658b0-9c31-11ef-9260-19e6a950e830.jpg"
         }
       ]
     },
@@ -11791,6 +11781,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2412/06/news091.html",
+          "author": null,
+          "description": "ネクスペリアは、最大バス電圧120V、ソース電流4Aのハーフブリッジゲートドライバー「NGD4300-Q100」「NGD4300」を発表した。低遅延のため、スイッチングのデューティサイクルを最大化し、デッドタイムを最小限に抑制する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2412/06/news091.html",
+          "publishedOn": "2024-12-06T00:00:00.000Z",
+          "wordCount": 2520,
+          "title": "低遅延のハーフブリッジゲートドライバー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2412/06/cover_news091.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2412/05/news089.html",
           "author": null,
@@ -16652,36 +16652,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122506/",
-          "author": null,
-          "description": "「こまねこのかいがいりょこう」のトークショー付き上映会11月5日、東京・新宿バルト9で開催され、コマ撮り短編映画「ボトルジョージ」の原案・製作総指揮を務めた西野亮廣と、「こまねこのかいがいりょこ...",
-          "link": "https://anime.eiga.com/news/122506/",
-          "publishedOn": "2024-11-06T13:00:00.000Z",
-          "wordCount": 1121,
-          "title": "西野亮廣、コマ撮りの魅力語る「AIはCGを作れても、コマ撮りはできない」",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122467/",
-          "author": null,
-          "description": "ドウェイン・ジョンソン（「ワイルド・スピード」シリーズ、「ブラックアダム」）が主演し、クリス・エバンス（「アベンジャーズ」シリーズ）が共演する「レッド・ワン」の日本語吹き替えキャストが発表され、...",
-          "link": "https://anime.eiga.com/news/122467/",
-          "publishedOn": "2024-11-06T12:00:00.000Z",
-          "wordCount": 1232,
-          "title": "「レッド・ワン」吹き替えキャストに楠大典、中村悠一、朴璐美らが参加",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -17016,16 +16986,6 @@
           "wordCount": 4383,
           "title": "時が早すぎて一周しそう",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10904",
-          "author": "watanabe@logipara.com",
-          "description": "タイトル：本末転倒",
-          "link": "https://logipara.com/diary-text/2024-11-07/",
-          "publishedOn": "2024-11-06T12:44:00.000Z",
-          "wordCount": 4388,
-          "title": "忘年会シーズンですね",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/11/image-5.jpg"
         }
       ]
     },
@@ -24024,26 +23984,6 @@
           "wordCount": 2423,
           "title": "【ボクシング】「睾丸が埋もれている」「生物学的に男」パリ五輪で性別騒動のヘリフ、報告書流出",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/771cd144.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041358.html",
-          "author": "damono3856",
-          "description": "1 名前：名無しさん＠涙目です。(愛知県) [AU]：2024/11/06(水) 08:29:00.02 ID:a5PeXark0●.net\n\n\n\n\n\n\n\n中国で大規模見本市　海外企業に投資促す https://t.co/I40gKKBKq1— テレ朝news (@tv_asahi_news) November 5, 2024  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n引用元\nhttps://news.yaho...",
-          "link": "https://itainews.com/archives/2041358.html",
-          "publishedOn": "2024-11-06T13:02:46.000Z",
-          "wordCount": 2372,
-          "title": "中国「勝った者がすべてを奪い取る考え方は世界の発展を止めてしまう」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/7/6752e9f5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041349.html",
-          "author": "damono3856",
-          "description": "1 名前：シャチ ★：2024/11/06(水) 02:33:43.81 ID:UsYManku9.net\n\n\n\n\n\n\n\nあいみょんの歌詞かよ「私と別れたいなら死ね」別れ話を切り出した男性を殴り包丁で胸をつつく　傷害容疑で女を逮捕　熊本（RKK熊本放送） https://t.co/zkSBbFNCG0— 1/4170 α World Line (@ar...",
-          "link": "https://itainews.com/archives/2041349.html",
-          "publishedOn": "2024-11-06T12:01:01.000Z",
-          "wordCount": 2472,
-          "title": "【熊本】「私と別れたいなら死ね」　別れ話を切り出した男性を殴り包丁で胸をつつく　３４歳無職女を逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/4/e4bfe120-s.png"
         }
       ]
     },
@@ -24052,6 +23992,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=85451",
+          "author": "299",
+          "description": "茶トラのニャンコさんがくるりんと丸くなって気持ちよさそうにお昼寝をしていると飼い主さんが思わずちょっかいを出してしまいます。 可愛い愛猫が昼寝をしていると、ついつい邪魔をしたくなってしまうものです。 最初は耳のところを指...\n昼寝している猫さんの肉球を触ったら嫌がれててしまいました first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85451",
+          "publishedOn": "2024-12-06T00:00:32.000Z",
+          "wordCount": 1349,
+          "title": "昼寝している猫さんの肉球を触ったら嫌がれててしまいました",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/12/85451.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=85417",
           "author": "299",
@@ -27581,16 +27531,6 @@
           "wordCount": 1349,
           "title": "なんでもオモチャにしてしまう子猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83869.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=83857",
-          "author": "299",
-          "description": "飼い主さんが三毛猫のマリモちゃんに、糸の付いたオモチャを軽く投げるとマリモちゃんは夢中になってオモチャにじゃれ付いたり、飛び掛って遊びだしました。 飼い主さんがオモチャを持って歩くと、その後を走って追いかけて元気に遊ぶマ...\nオモチャで必死に遊ぶ三毛猫ちゃんが可愛いすぎる動画 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/83857",
-          "publishedOn": "2024-11-06T13:00:13.000Z",
-          "wordCount": 1340,
-          "title": "オモチャで必死に遊ぶ三毛猫ちゃんが可愛いすぎる動画",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/83857.jpg"
         }
       ]
     }
