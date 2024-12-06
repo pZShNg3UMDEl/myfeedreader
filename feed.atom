@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T16:46:16.639Z</updated>
+    <updated>2024-12-06T17:15:53.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Event cameras for GPS-free drone navigation]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/12/event-cameras-for-gps-free-drone.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/12/event-cameras-for-gps-free-drone.html"/>
+        <updated>2024-12-06T17:00:00.003Z</updated>
+        <summary type="html"><![CDATA[Link: https://spectrum.ieee.org/drone-gps-alternatives
+A recent article in IEEE Spectrum titled "Neuromorphic Camera Helps Drones Navigate Without GPS High-end positioning tech comes to low-cost UAVs" discusses efforts in using neuromorphic cameras to achieve GPS-free navigation for drones.
+Some excerpts:
+[GPS] signals are vulnerable to interference from large buildings, dense foliage, or extreme weather and can even be deliberately jammed. [GPS-free navigation systems that rely only on] accelerometers and gyroscopes [suffer from] errors [that] accumulate over time and can ultimately cause a gradual drift. ... Visual navigation systems  [consume] considerable computing and data resources.
+A pair of navigation technology companies has now teamed up to merge the approaches and get the best of both worlds. NILEQ, a subsidiary of British missile-maker MBDA based in Bristol, UK, makes a low-power visual navigation system that relies on neuromorphic cameras. This will now be integrated with a fiber optic-based INS developed by Advanced Navigation in Sydney, Australia, to create a positioning system that lets low-cost drones navigate reliably without GPS.
+[...]
+[Their proprietary algorithms] process the camera output in real-time to create a terrain fingerprint for the particular patch of land the vehicle is passing over. This is then compared against a database of terrain fingerprints generated from satellite imagery, which is stored on the vehicle. [...] 
+
+The companies are planning to start flight trials of the combined navigation system later this year, adds Shaw, with the goal of getting the product into customers hands by the middle of 2025.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お母さん猫が子猫たちを散歩に連れ出しました]]></title>
         <id>https://2-9-9.com/?p=85517</id>
@@ -34598,46 +34616,6 @@ JR山手線の車内で男性のリュックサックを盗んだとし...]]></s
         <summary type="html"><![CDATA[アークシステムワークスは2024年11月7日，「ダウンタウンスペシャルくにおくんの三国志だよ満員御礼！！」を発売した。価格は3740円（税込）。本作は，2021年に発売された「くにおくんの三国志だよ全員集合！」の続編で，新要素として「赤兎馬」がバイクになって登場する。]]></summary>
         <author>
             <name>4Gamer.net − Wii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【米議会選2024】連邦下院の多数はどの党に、注目の選挙区は]]></title>
-        <id>https://www.bbc.com/japanese/articles/c206wedxr92o#1</id>
-        <link href="https://www.bbc.com/japanese/articles/c206wedxr92o"/>
-        <updated>2024-11-07T05:12:07.000Z</updated>
-        <summary type="html"><![CDATA[5日に大統領選と共に投開票が行われたアメリカの連邦議会選では、最終結果が明らかにまでにあと数日はかかるとみられている。まだ結果が判明していない一部の選挙区の様子を紹介する。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【大阪】「お前待てって」「こっち向けやオラア」　浪速ギャル１０人、盗撮・痴漢男を取り押さえ警察に引き渡すも、まさかの釈放…]]></title>
-        <id>https://itainews.com/archives/2041371.html</id>
-        <link href="https://itainews.com/archives/2041371.html"/>
-        <updated>2024-11-07T05:01:19.000Z</updated>
-        <summary type="html"><![CDATA[1 ：シャチ ★：2024/11/06(水) 18:46:28.46 ID:UsYManku9.net
-
-
-
-
-
-
-
-
-
-「こっち向けやオラア」痴漢・盗撮男を追う10人の浪速ギャル、警察に連行もまさかの結果に…どうすれば立件できる？https://t.co/wikJXhp1xs@0prettysavage— 集英社オンライン (@shueisha_online)...]]></summary>
-        <author>
-            <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Vison廉価版は「薄さ」を追求か。画面解像度は半分に]]></title>
-        <id>https://gadget.phileweb.com/?p=88149</id>
-        <link href="https://gadget.phileweb.com/post-88149/"/>
-        <updated>2024-11-07T04:55:53.000Z</updated>
-        <summary type="html"><![CDATA[アップルは空間コンピュータ（MRヘッドセット）「Vision Pro」の廉価モデルを開発中と噂されているが、そこでは搭載ディスプレイが焦点となっている。現行モデルでは製造コストのうち4分の1以上を占めているとともに、供給量が限られているため、製造台数を増やす上で枷となっているからだ。 そんななか、現 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>

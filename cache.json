@@ -11993,16 +11993,6 @@
           "wordCount": 1710,
           "title": "【米大統領選2024】 なぜハリス氏は負けたのか　本人の問題か、選挙活動がまずかったのか",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/7aa5/live/db68d300-9cd2-11ef-8538-e1655f5a8342.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c206wedxr92o#1",
-          "author": null,
-          "description": "5日に大統領選と共に投開票が行われたアメリカの連邦議会選では、最終結果が明らかにまでにあと数日はかかるとみられている。まだ結果が判明していない一部の選挙区の様子を紹介する。",
-          "link": "https://www.bbc.com/japanese/articles/c206wedxr92o",
-          "publishedOn": "2024-11-07T05:12:07.000Z",
-          "wordCount": 1814,
-          "title": "【米議会選2024】連邦下院の多数はどの党に、注目の選挙区は",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/2a5c/live/cedc13e0-9cc3-11ef-8538-e1655f5a8342.jpg"
         }
       ]
     },
@@ -13777,16 +13767,6 @@
           "wordCount": 744,
           "title": "オーストラリア、16歳未満のSNS利用禁止へ。早ければ来年中にも法制化",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/BearFotos_Shutterstock.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=88149",
-          "author": "多根清史",
-          "description": "アップルは空間コンピュータ（MRヘッドセット）「Vision Pro」の廉価モデルを開発中と噂されているが、そこでは搭載ディスプレイが焦点となっている。現行モデルでは製造コストのうち4分の1以上を占めているとともに、供給量が限られているため、製造台数を増やす上で枷となっているからだ。 そんななか、現 […]",
-          "link": "https://gadget.phileweb.com/post-88149/",
-          "publishedOn": "2024-11-07T04:55:53.000Z",
-          "wordCount": 769,
-          "title": "Apple Vison廉価版は「薄さ」を追求か。画面解像度は半分に",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/11/shutterstock_2425409391.jpg"
         }
       ]
     },
@@ -13795,6 +13775,16 @@
       "feedUrl": "http://image-sensors-world.blogspot.com/feeds/posts/default",
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
+        {
+          "id": "http://image-sensors-world.blogspot.com/2024/12/event-cameras-for-gps-free-drone.html",
+          "author": null,
+          "description": "Link: https://spectrum.ieee.org/drone-gps-alternatives\nA recent article in IEEE Spectrum titled \"Neuromorphic Camera Helps Drones Navigate Without GPS High-end positioning tech comes to low-cost UAVs\" discusses efforts in using neuromorphic cameras to achieve GPS-free navigation for drones.\nSome excerpts:\n[GPS] signals are vulnerable to interference from large buildings, dense foliage, or extreme weather and can even be deliberately jammed. [GPS-free navigation systems that rely only on] accelerometers and gyroscopes [suffer from] errors [that] accumulate over time and can ultimately cause a gradual drift. ... Visual navigation systems  [consume] considerable computing and data resources.\nA pair of navigation technology companies has now teamed up to merge the approaches and get the best of both worlds. NILEQ, a subsidiary of British missile-maker MBDA based in Bristol, UK, makes a low-power visual navigation system that relies on neuromorphic cameras. This will now be integrated with a fiber optic-based INS developed by Advanced Navigation in Sydney, Australia, to create a positioning system that lets low-cost drones navigate reliably without GPS.\n[...]\n[Their proprietary algorithms] process the camera output in real-time to create a terrain fingerprint for the particular patch of land the vehicle is passing over. This is then compared against a database of terrain fingerprints generated from satellite imagery, which is stored on the vehicle. [...] \n\nThe companies are planning to start flight trials of the combined navigation system later this year, adds Shaw, with the goal of getting the product into customers hands by the middle of 2025.",
+          "link": "http://image-sensors-world.blogspot.com/2024/12/event-cameras-for-gps-free-drone.html",
+          "publishedOn": "2024-12-06T17:00:00.003Z",
+          "wordCount": 3946,
+          "title": "Event cameras for GPS-free drone navigation",
+          "imageUrl": null
+        },
         {
           "id": "http://image-sensors-world.blogspot.com/2024/12/quantum-solutions-announces-swir-camera.html",
           "author": null,
@@ -24479,16 +24469,6 @@
           "wordCount": 2447,
           "title": "無残！人気女性車系YouTuberが盗難被害　自身の高級車ホイール全部盗まれた！ 警察に不満も「何もしてくれない」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/3/d3ef69d8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041371.html",
-          "author": "dqnplus",
-          "description": "1 ：シャチ ★：2024/11/06(水) 18:46:28.46 ID:UsYManku9.net\n\n\n\n\n\n\n\n\n\n「こっち向けやオラア」痴漢・盗撮男を追う10人の浪速ギャル、警察に連行もまさかの結果に…どうすれば立件できる？https://t.co/wikJXhp1xs@0prettysavage— 集英社オンライン (@shueisha_online)...",
-          "link": "https://itainews.com/archives/2041371.html",
-          "publishedOn": "2024-11-07T05:01:19.000Z",
-          "wordCount": 2379,
-          "title": "【大阪】「お前待てって」「こっち向けやオラア」　浪速ギャル１０人、盗撮・痴漢男を取り押さえ警察に引き渡すも、まさかの釈放…",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/5/a583d595-s.png"
         }
       ]
     },
