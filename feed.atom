@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T21:39:34.429Z</updated>
+    <updated>2024-12-07T21:50:26.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[節約記事]]></title>
+        <id>https://logipara.com/?p=10996</id>
+        <link href="https://logipara.com/diary-text/2024-12-08/"/>
+        <updated>2024-12-07T21:43:05.000Z</updated>
+        <summary type="html"><![CDATA[こうすれば倹約できる！お金が貯まる！…みたいな記事を良く読むんですが、 「お風呂の追い焚きは、ガス代がかかるから気をつけましょう！」 とか、 「サブスクは月々の費用がかかるから注意しましょう」 みたいな記事ばかりで、むし […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫たちとともにお彼岸のおまんじゅう作り]]></title>
         <id>https://2-9-9.com/?p=85523</id>
