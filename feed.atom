@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T13:32:20.295Z</updated>
+    <updated>2024-12-08T13:50:28.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[変なタレコミがきたので紹介します]]></title>
+        <id>https://www.youtube.com/watch?v=8ECt2k1nB0w</id>
+        <link href="https://www.youtube.com/watch?v=8ECt2k1nB0w"/>
+        <updated>2024-12-08T13:29:57.000Z</updated>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本ファクトチェックセンター「兵庫県アンケート、誰でも何回でも回答できるから意味ないです」]]></title>
         <id>https://itainews.com/archives/2042490.html</id>
@@ -33982,16 +33991,6 @@ https:...]]></summary>
 お母さんにキスして起こすことに成功した猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般人とオタクでとらえ方が変わる画像]]></title>
-        <id>https://logipara.com/?p=10913</id>
-        <link href="https://logipara.com/diary-text/2024-11-09/"/>
-        <updated>2024-11-09T01:32:25.000Z</updated>
-        <summary type="html"><![CDATA[街中でわりと反応しちゃうよね]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
         </author>
     </entry>
 </feed>
