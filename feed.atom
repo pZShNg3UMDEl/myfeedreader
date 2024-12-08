@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T17:30:29.502Z</updated>
+    <updated>2024-12-08T17:50:26.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最古の怪人！？ポエムマンテ発見！！！！]]></title>
+        <id>https://www.youtube.com/watch?v=raejAgWGOTY</id>
+        <link href="https://www.youtube.com/watch?v=raejAgWGOTY"/>
+        <updated>2024-12-08T17:31:53.000Z</updated>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[横一列の見事なフォーメーションで昼寝するニャンズたち]]></title>
         <id>https://2-9-9.com/?p=85622</id>
@@ -33906,26 +33915,6 @@ https://www.pocketpa...]]></summary>
 神社の石段でコロコロ転がる猫さんにホッコリ first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オランダで﻿イスラエルのサッカーファンに暴力、負傷者も]]></title>
-        <id>https://www.bbc.com/japanese/articles/cn7m27z762vo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cn7m27z762vo"/>
-        <updated>2024-11-09T05:41:13.000Z</updated>
-        <summary type="html"><![CDATA[オランダの首都アムステルダムで7日夜、イスラエルのサッカーチームのファンが若者らに襲撃される事件があった。同国のウィレム＝アレクサンダー国王は、ユダヤ教徒がオランダで安全と感じられるようにしなければならないとの声明を発表した。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ガザ地区の戦死者、7割近くが女性と子供　国連発表]]></title>
-        <id>https://www.bbc.com/japanese/articles/ce8d7873pyjo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/ce8d7873pyjo"/>
-        <updated>2024-11-09T05:30:32.000Z</updated>
-        <summary type="html"><![CDATA[国連人権高等弁務官事務所（OHCHR)は8日、パレスチナ・ガザ地区の戦争で極めて大勢の民間人が殺害されていることを非難し、確認された死者の7割近くが女性と子供だったと発表した。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>

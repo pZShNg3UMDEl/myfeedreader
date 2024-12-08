@@ -477,6 +477,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=raejAgWGOTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=raejAgWGOTY",
+          "publishedOn": "2024-12-08T17:31:53.000Z",
+          "wordCount": null,
+          "title": "最古の怪人！？ポエムマンテ発見！！！！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=54ENZQMGvVI",
           "author": null,
           "description": "",
@@ -11573,26 +11583,6 @@
           "wordCount": 1503,
           "title": "ロシアとウクライナが互いに大規模ドローン攻撃、モスクワも標的に",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/c1fb/live/d54f3af0-9fd3-11ef-8538-e1655f5a8342.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cn7m27z762vo#0",
-          "author": null,
-          "description": "オランダの首都アムステルダムで7日夜、イスラエルのサッカーチームのファンが若者らに襲撃される事件があった。同国のウィレム＝アレクサンダー国王は、ユダヤ教徒がオランダで安全と感じられるようにしなければならないとの声明を発表した。",
-          "link": "https://www.bbc.com/japanese/articles/cn7m27z762vo",
-          "publishedOn": "2024-11-09T05:41:13.000Z",
-          "wordCount": 1546,
-          "title": "オランダで﻿イスラエルのサッカーファンに暴力、負傷者も",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/bc5c/live/58c81b60-9e56-11ef-82c3-45a801b7330b.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/ce8d7873pyjo#0",
-          "author": null,
-          "description": "国連人権高等弁務官事務所（OHCHR)は8日、パレスチナ・ガザ地区の戦争で極めて大勢の民間人が殺害されていることを非難し、確認された死者の7割近くが女性と子供だったと発表した。",
-          "link": "https://www.bbc.com/japanese/articles/ce8d7873pyjo",
-          "publishedOn": "2024-11-09T05:30:32.000Z",
-          "wordCount": 1520,
-          "title": "ガザ地区の戦死者、7割近くが女性と子供　国連発表",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/1d4b/live/1f3a7bf0-9e55-11ef-82c3-45a801b7330b.jpg"
         }
       ]
     },
