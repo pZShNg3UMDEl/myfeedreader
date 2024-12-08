@@ -9646,16 +9646,6 @@
           "wordCount": 1717,
           "title": "ＪＲ大和路線・奈良～王寺駅間で運転見合わせ　法隆寺駅で人身事故　午後０時半に再開見込み(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241109-00048447-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/fdfa472daf4e2cca3bb1f8d3f15762619eec5bcb?source=rss",
-          "author": null,
-          "description": "昨夜京都市東山区の住宅で火事があり住人４人が病院に運ばれうち１人が心肺停止の状態です。\nこの家に住む２０代の女性が火をつけたと話しているということです。\n８日午後１０時半ごろ京都市東山区本町の木造２階",
-          "link": "https://news.yahoo.co.jp/articles/fdfa472daf4e2cca3bb1f8d3f15762619eec5bcb?source=rss",
-          "publishedOn": "2024-11-08T20:52:53.000Z",
-          "wordCount": 1700,
-          "title": "京都市の住宅で火災　１人心肺停止　「火をつけた」(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241109-00048446-asahibc-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9664,6 +9654,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cn8558ryk9ko#0",
+          "author": null,
+          "description": "シリアで8日、反政府勢力が首都ダマスカスに入場した。バッシャール・アル・アサド大統領は、国から脱出したと言われている。反政府勢力は政府に対する進攻を11月末に開始し、わずか2週間足らずで、アサド政権打倒を実現したもようだ。",
+          "link": "https://www.bbc.com/japanese/articles/cn8558ryk9ko",
+          "publishedOn": "2024-12-08T09:00:07.000Z",
+          "wordCount": 1508,
+          "title": "【解説】　シリアの反政府勢力とは　首都掌握と主張",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/f88b/live/1a7b14b0-b536-11ef-aff0-072ce821b6ab.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cp833759120o#0",
           "author": null,
@@ -13428,6 +13428,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122668/",
+          "author": null,
+          "description": "マーベル最新作「クレイヴン・ザ・ハンター」の日本語吹き替え版の上映が決定し、津田健次郎が主人公クレイヴン（本名：セルゲイ・クラヴィノフ）役を務めることがわかった。あわせて、本作がR15＋指定とな...",
+          "link": "https://anime.eiga.com/news/122668/",
+          "publishedOn": "2024-12-08T09:00:00.000Z",
+          "wordCount": 699,
+          "title": "「クレイヴン・ザ・ハンター」津田健次郎が史上最強のハンターに　超過激すぎてR15＋指定決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122700/",
           "author": null,
@@ -18435,6 +18450,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042487.html",
+          "author": "dqnplus",
+          "description": "1 ：ぐれ ★：2024/12/07(土) 20:20:31.69 ID:JewxvSFR9.net\n\n\n\n\n\n\n\n\n\n“高校生の妊娠” なぜ自主退学に追い込まれる？ 当事者「働かなきゃいけないけど、中卒でそれも許されない」（ABEMA TIMES） https://t.co/6Ov22Lww6s— Team Londo Bell (@false_bay_max) December...",
+          "link": "https://itainews.com/archives/2042487.html",
+          "publishedOn": "2024-12-08T09:01:13.000Z",
+          "wordCount": 2423,
+          "title": "“高校生の妊娠” なぜ自主退学に追い込まれる？ 当事者「働かなきゃいけないけど、中卒でそれも許されない」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/6/06aba54b-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042486.html",
           "author": "dqnplus",
