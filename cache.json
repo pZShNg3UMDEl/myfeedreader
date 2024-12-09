@@ -4588,6 +4588,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/dd9a2bda65ea597ed713e5e84cdce66ac62e715c?source=rss",
+          "author": null,
+          "description": "大阪メトロによりますと９日午前８時半ごろ、直通している北大阪急行線内で急病人の保護をしたため、ダイヤに乱れが出たということです。\n\n　この影響で午前９時半ごろの時点で、御堂筋線に１０分から１５分程度",
+          "link": "https://news.yahoo.co.jp/articles/dd9a2bda65ea597ed713e5e84cdce66ac62e715c?source=rss",
+          "publishedOn": "2024-12-09T01:00:16.000Z",
+          "wordCount": 1676,
+          "title": "【速報】大阪メトロ御堂筋線に遅れ　北大阪急行でのダイヤ乱れの影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241209-00048920-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/bc61bf4527320cf9eedd4d6ae9b33fa69e9f746c?source=rss",
           "author": null,
           "description": "兵庫県明石市で、パトカーから逃走していた軽自動車がバイクに乗った男性をはねました。軽自動車を運転していた男は逮捕され、バイクの男性は軽傷です。\n\n　警察によりますと、兵庫県明石市の不動産業、池口尚児",
@@ -9696,16 +9706,6 @@
           "wordCount": 1658,
           "title": "港に両足が縛られた男性の遺体　事件の可能性も　大阪・貝塚市　(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241110-00048456-asahibc-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8b38957cfaa736ddcfb2d7d68f0b3e2fbe189e88?source=rss",
-          "author": null,
-          "description": "９日午後５時ごろ、大阪市福島区福島７丁目の路上で「白い自動車が燃えている」と通行人の男性から通報がありました。\n\n　警察によりますと、ポルシェのスポーツカーが、駐車場に止めようとしたところ、エンジン",
-          "link": "https://news.yahoo.co.jp/articles/8b38957cfaa736ddcfb2d7d68f0b3e2fbe189e88?source=rss",
-          "publishedOn": "2024-11-09T12:48:28.000Z",
-          "wordCount": 1665,
-          "title": "ポルシェのスポーツカーが福島駅近くで全焼　エンジンルームから出火　けが人なし(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241109-00049453-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9714,6 +9714,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c75wzr9gqeqo#0",
+          "author": null,
+          "description": "反政府勢力の首都進攻を受けてシリアを脱出したバッシャール・アル・アサド大統領とその家族が8日、ロシア・モスクワに到着し、「人道的配慮から」亡命が認められたと、ロシアの通信社がロシア政府筋の話として伝えた。",
+          "link": "https://www.bbc.com/japanese/articles/c75wzr9gqeqo",
+          "publishedOn": "2024-12-09T01:07:30.000Z",
+          "wordCount": 1527,
+          "title": "シリア脱出のアサド大統領、家族とモスクワ到着　当局が亡命許可とロシアメディア",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/fd87/live/44f22780-b5c5-11ef-a0f2-fd81ae5962f4.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cn8558ryk9ko#0",
           "author": null,
@@ -11601,6 +11611,16 @@
       "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2412/09/news064.html",
+          "author": null,
+          "description": "新電元工業は、民生機器の小型化、大容量化に寄与する面実装ブリッジダイオード「D3UBA80」を発表した。端子間3.4mm、厚さ1.5mm以下の小型、薄型SOPA-4パッケージで提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2412/09/news064.html",
+          "publishedOn": "2024-12-09T00:00:00.000Z",
+          "wordCount": 2509,
+          "title": "民生機器の大容量化に貢献　小型／薄型の面実装ブリッジダイオード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2412/09/cover_news064.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2412/06/news091.html",
           "author": null,
@@ -16351,36 +16371,6 @@
           "publishedOn": "2024-11-10T03:00:00.000Z",
           "wordCount": 1161,
           "title": "久保田未夢、ランジェリーカット初挑戦の「これまでで一番オトナで攻めた」写真集発売【イメージカット多数掲載】",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122508/",
-          "author": null,
-          "description": "映画「バイオハザード」シリーズのポール・W・S・アンダーソンが、セガの人気ゲーム「ハウス・オブ・ザ・デッド」を映画化することがわかった。 米Deadlineによれば、新作アクション映画「The ...",
-          "link": "https://anime.eiga.com/news/122508/",
-          "publishedOn": "2024-11-09T13:00:00.000Z",
-          "wordCount": 1170,
-          "title": "ポール・W・S・アンダーソン監督、セガの「ハウス・オブ・ザ・デッド」を実写映画化",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122507/",
-          "author": null,
-          "description": "テレビアニメ「どうせ、恋してしまうんだ。」の追加キャストとして、梅原裕一郎、名塚佳織の出演が決定した。あわせて、エンディング主題歌アーティストも発表されている。 同作は、「なかよし」（講談社刊）...",
-          "link": "https://anime.eiga.com/news/122507/",
-          "publishedOn": "2024-11-09T12:00:00.000Z",
-          "wordCount": 1186,
-          "title": "「どうせ、恋してしまうんだ。」追加キャストに梅原裕一郎、名塚佳織　ED主題歌はマルシィが担当",
           "enclosure": {
             "url": "https://eiga.k-img.com/images/movie/gallery.gif",
             "type": "image/gif",
@@ -23749,26 +23739,6 @@
           "wordCount": 2483,
           "title": "野良マナー講師「東京駅発新幹線で窓側以外の人は新横浜過ぎるまで弁当を我慢するのが常識」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/d/6deab17f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041456.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2024/11/09(土) 10:06:52.18 ID:9eEaWXSz9.net\n\n\n\n\n\n\n\n「小遣い少なくて魔が差した」　目薬万引きで和歌山県副主査懲戒処分https://t.co/1LNmscnfaaドラッグストアで目薬を盗んだとして、県は8日、紀中県税事務所の男性副主査（63）を停職3カ月の懲戒処...",
-          "link": "https://itainews.com/archives/2041456.html",
-          "publishedOn": "2024-11-09T13:01:51.000Z",
-          "wordCount": 2440,
-          "title": "「小遣い少なくて魔が差した」　目薬万引きで和歌山県副主査(63)懲戒処分",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/5/952a4901-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041455.html",
-          "author": "dqnplus",
-          "description": "1 ：それでも動く名無し：2024/11/09(土) 09:08:45.24 ID:+oYuTqJx0.net\n\n\n\n\n\n\n\n\n\n速報。トランプが来年の１月中に一日だけ女性を自認すると宣言。故に１日駅長宜しくの、一日アメリカ初の女性合衆国大統領になると宣言。これは私的には流石トランプ、分断された国内を一...",
-          "link": "https://itainews.com/archives/2041455.html",
-          "publishedOn": "2024-11-09T12:01:56.000Z",
-          "wordCount": 2672,
-          "title": "【速報】トランプ大統領、1日だけ性自認を女にする予定。ガラスの天井を粉砕し、初の女性大統領へ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/e/2e8b751f-s.png"
         }
       ]
     },
@@ -23777,6 +23747,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=85610",
+          "author": "299",
+          "description": "今日も地域猫さんに会いに行くために公園へと足を延ばします。 するといました、いました！ベンチの上にはモッフモフなトトロ猫さんの姿が。どっしり構えたトトロ猫さんは地域のボス猫さんのような風貌です。 撫でてあげるとおとなしく...\n無警戒でお腹まるだしでモフられる猫さん first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85610",
+          "publishedOn": "2024-12-09T00:00:36.000Z",
+          "wordCount": 1350,
+          "title": "無警戒でお腹まるだしでモフられる猫さん",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/12/85610.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=85582",
           "author": "299",
@@ -27306,16 +27286,6 @@
           "wordCount": 1341,
           "title": "公園でベンチに座ると猫さんがすぐに乗ってきました",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84035.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=84020",
-          "author": "299",
-          "description": "猫のコールとマーマレードのためにお母さんが自動給水器を購入してあげましたが、実際にニャンズたちが好んで水を飲むのは水道の蛇口からの直のみです。 たくさんの種類のおもちゃを買ってあげても、熱心に遊ぶのはお母さんの足のマニキ...\n可愛い猫たちのために購入した数々のアイテムはすべて無駄に！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/84020",
-          "publishedOn": "2024-11-09T13:00:51.000Z",
-          "wordCount": 1346,
-          "title": "可愛い猫たちのために購入した数々のアイテムはすべて無駄に！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84020.jpg"
         }
       ]
     }
