@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T19:14:16.548Z</updated>
+    <updated>2024-12-09T19:27:01.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルパカについて整理しておく]]></title>
+        <id>https://www.youtube.com/watch?v=Ev50pOIdSVU</id>
+        <link href="https://www.youtube.com/watch?v=Ev50pOIdSVU"/>
+        <updated>2024-12-09T19:16:45.000Z</updated>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トロッコでジャングルを疾走　ＵＳＪ新エリア「ドンキーコング・カントリー」　いよいよあすオープン(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/612dd466ca601731398b456fa878885b106fbeef?source=rss</id>
@@ -34670,15 +34679,6 @@ NPBの怒り収まらず…フジテレビに「プロ野球トライアウト�
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ロッテの新商品「爽（そう） とろける芳醇ラ・フランス」を世界一詳しく調査しました。   公式YouTubeチャンネル […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白山こんぶちゃ垢消し騒動を振り返る(下田の野望)]]></title>
-        <id>https://www.youtube.com/watch?v=ILjnwJnxR3Y</id>
-        <link href="https://www.youtube.com/watch?v=ILjnwJnxR3Y"/>
-        <updated>2024-11-10T07:22:26.000Z</updated>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
