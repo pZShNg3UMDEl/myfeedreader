@@ -4859,16 +4859,6 @@
           "wordCount": 7020,
           "title": "「パワーウォッシュ シミュレーター」，いっせいトライアルに登場。Nintendo Switch Online加入者は11月15日12：00から遊び放題に",
           "imageUrl": "https://www.4gamer.net/games/658/G065824/20241111002/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/811/G081113/20241110002/",
-          "author": null,
-          "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，HD-2Dでリメイクされた「ドラゴンクエストIII　そして伝説へ…」や，最新の「GIANTSEngine10」によってグラフィックと物理演算が一新された「FarmingSimulator25」などが発売される。",
-          "link": "https://www.4gamer.net/games/811/G081113/20241110002/",
-          "publishedOn": "2024-11-10T23:00:00.000Z",
-          "wordCount": 7879,
-          "title": "【今週のモチベ】 HD-2D版「ドラゴンクエストIII」や，シリーズ最新作「Farming Simulator 25」が発売される 2024年11月11日〜11月17日",
-          "imageUrl": "https://www.4gamer.net/games/811/G081113/20241110002/SS/004.jpg"
         }
       ]
     },
@@ -4877,6 +4867,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/355ae42fc68ffac9c8a26c26aad7c28a34486966?source=rss",
+          "author": null,
+          "description": "来年開かれる大阪・関西万博の来場者の輸送方針について、日本国際博覧会協会（万博協会）は１０日、最終案を公表しました。\n\n　万博協会の来場者輸送対策協議会は、来場者が安全かつ円滑に会場まで来れるよう、",
+          "link": "https://news.yahoo.co.jp/articles/355ae42fc68ffac9c8a26c26aad7c28a34486966?source=rss",
+          "publishedOn": "2024-12-10T11:01:44.000Z",
+          "wordCount": 1698,
+          "title": "万博協会が来場者輸送方針の最終案公表　新たにシェアサイクルや電動キックボードでの来場盛り込む　大型荷物の持ち込み禁止も明記(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-00048955-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5dcf36f942d174d4dc617b84578951808db9d53a?source=rss",
           "author": null,
@@ -10295,6 +10295,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cvgmel392ero#0",
+          "author": null,
+          "description": "イギリスの正規軍は、もしウクライナで起きている紛争と同規模の戦争を戦うことになれば、最短6カ月で全滅する可能性がある――。イギリスのアリステア・カーンズ退役軍人担当相が、そんな警告を発した。",
+          "link": "https://www.bbc.com/japanese/articles/cvgmel392ero",
+          "publishedOn": "2024-12-10T11:08:50.000Z",
+          "wordCount": 1435,
+          "title": "イギリス軍、大規模戦争なら最短6カ月で全滅も　退役軍人担当相が警告",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/cdf9/live/2c49cc20-b55b-11ef-a0f2-fd81ae5962f4.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c0q01wddg1xo#0",
           "author": null,
           "description": "ノーベル平和賞の授賞式が10日、ノルウェーの首都オスロで開催される。授賞式に参加する日本被団協代表委員の田中煕巳（てるみ）さんに、BBCニュースの番組「ハードトーク」のスティーブン・サッカー司会者が話を聞いた。",
@@ -14329,6 +14339,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/122758/",
+          "author": null,
+          "description": "奥嶋ひろまさ氏の漫画をテレビアニメ化する「ババンババンバンバンパイア」に中村悠一が出演することがわかった。 中村が演じるのは、主人公・森蘭丸（CV：浪川大輔）の実兄のバンパイア・森長可。一般人に...",
+          "link": "https://anime.eiga.com/news/122758/",
+          "publishedOn": "2024-12-10T11:00:00.000Z",
+          "wordCount": 660,
+          "title": "「ババンババンバンバンパイア」中村悠一が森長可役　森蘭丸の実兄である“暴虐のバンパイア”",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/122755/",
           "author": null,
           "description": "テレビアニメ「薬屋のひとりごと（第2期）」のオープニングテーマが、幾田りらの「百花繚乱」に決定した。幾田がソロとしてテレビアニメのオープニングを担当するのはこれが初めて。 また、第2期から登場す...",
@@ -17691,16 +17716,6 @@
           "wordCount": 4397,
           "title": "国際結婚",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10921",
-          "author": "watanabe@logipara.com",
-          "description": "コウペンちゃんの 「出勤してるだけでえらい！！」 というツイートを見て、そうか、俺はコウペンちゃんにすら誉めてもらえない……となってる、今日お休みの私",
-          "link": "https://logipara.com/diary-text/2024-11-11/",
-          "publishedOn": "2024-11-10T23:10:18.000Z",
-          "wordCount": 4386,
-          "title": "おはよう世界",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -19492,16 +19507,6 @@
           "wordCount": 1775,
           "title": "ロッテ 雪見だいふく PREMIUM マスカットオブアレキサンドリア【新作アイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/c5d39e6d3d11b743ed1054f5ed8d3729.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=264064",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、ステーキ業界に革命を起こした話題の絶えない有名チェーン「いきなりステーキ」へ進撃しました。 &n […]",
-          "link": "https://foodfighter.jp/ikinaristeak-us-sirloin",
-          "publishedOn": "2024-11-10T23:06:45.000Z",
-          "wordCount": 1805,
-          "title": "【いきなりステーキ】US産サーロインステーキ150g【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/e9da68f027da5a21da536f0f09700ea4.jpg"
         }
       ]
     },
@@ -19510,6 +19515,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042561.html",
+          "author": "damono3856",
+          "description": "1 名前：シャチ ★ ：2024/12/09(月) 17:09:17.84 ID:JCpGnEjg9.net\n\n\n\n\n\n\n\n女性戦士フィギュアを“窃盗”　陸上自衛隊飯塚駐屯地の男性陸士長が懲戒免職処分▼記事を読むhttps://t.co/kgYoh9Gl4G— 福岡・佐賀 KBC NEWS (@KBC_NEWS) December 9, 2024  \n\n\n\n\n\n\n２年前、...",
+          "link": "https://itainews.com/archives/2042561.html",
+          "publishedOn": "2024-12-10T11:03:14.000Z",
+          "wordCount": 2451,
+          "title": "【福岡】女性戦士フィギュアを“窃盗”　陸上自衛隊飯塚駐屯地の男性陸士長が懲戒免職処分",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/740c8830-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042560.html",
           "author": "damono3856",
@@ -24909,16 +24924,6 @@
           "wordCount": 2727,
           "title": "深夜の国道で横たわっていた高齢者女性を轢いて死亡させた大学生が逮捕されてしまう",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/8/08698e5f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041490.html",
-          "author": "dqnplus",
-          "description": "1 名前：それでも動く名無し：2024/11/10(日) 15:11:17.81 ID:tpZyWg2J0.net\n\n\n\n\n\n\n\n\nNew York State has found a legal loophole that would force Trump to serve his prison sentence for the entire 4 years of his Presidency.-Keep in mind Trump is sentenced on ...",
-          "link": "https://itainews.com/archives/2041490.html",
-          "publishedOn": "2024-11-10T23:01:26.000Z",
-          "wordCount": 2485,
-          "title": "【悲報】ニューヨーク州「トランプを大統領在任期間ずっと懲役刑にできる法的抜け穴を発見した」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/4/5469382c-s.png"
         }
       ]
     },
@@ -24927,6 +24932,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=85652",
+          "author": "299",
+          "description": "スコティッシュフォールドの子猫がちょこんとお座りポーズでブラッシングされています。 寝起きなのでおとなしいのかもしれませんが、スリッカーで頭から背中へと優しくブラシしてもらうと気持ちよさそうにしています。 でも途中で飽き...\nブラッシングを拒否する子猫が可愛すぎた first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85652",
+          "publishedOn": "2024-12-10T11:00:47.000Z",
+          "wordCount": 1359,
+          "title": "ブラッシングを拒否する子猫が可愛すぎた",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/12/85652.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=85647",
           "author": "299",
