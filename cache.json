@@ -537,6 +537,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=o6fS7OwDXes",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o6fS7OwDXes",
+          "publishedOn": "2024-12-10T06:15:36.000Z",
+          "wordCount": null,
+          "title": "アルパカ猫八その後",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6LE_z1xt974",
           "author": null,
           "description": "",
@@ -1840,6 +1850,16 @@
       "feedUrl": "https://www.4gamer.net/rss/wii/wii_news.xml",
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
+        {
+          "id": "https://www.4gamer.net/games/656/G065696/20241210031/",
+          "author": null,
+          "description": "ベネリックは，カービィカフェの新グッズ「メタナイト」シリーズを2024年12月13日に発売する。通販サイトでは同日の12：00より取り扱う。今回発売されるのは，バッジ付きストール，スエード調バッグ，スエード調ポーチ，合皮キーホルダーメタナイト，ダイカットシールセットC，ロルバーンポケット付メモだ。",
+          "link": "https://www.4gamer.net/games/656/G065696/20241210031/",
+          "publishedOn": "2024-12-10T06:08:33.000Z",
+          "wordCount": 6898,
+          "title": "カービィカフェの新グッズ「メタナイト」シリーズを12月13日に発売。上品なデザインのストールやバッグなど",
+          "imageUrl": "https://www.4gamer.net/games/656/G065696/20241210031/SS/003.jpg"
+        },
         {
           "id": "https://www.4gamer.net/games/810/G081080/20241210022/",
           "author": null,
@@ -4837,6 +4857,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2fae036959361e508af29357a2a900ef73d35235?source=rss",
+          "author": null,
+          "description": "大阪市住之江区のコンビニで３日未明、トレーディングカードを万引きした男が店員にけがをさせて逃走した事件で、堺市に住む２９歳の会社員の男が逮捕されました。\n\n　強盗致傷の疑いで逮捕されたのは、堺市堺区",
+          "link": "https://news.yahoo.co.jp/articles/2fae036959361e508af29357a2a900ef73d35235?source=rss",
+          "publishedOn": "2024-12-10T05:51:47.000Z",
+          "wordCount": 1687,
+          "title": "「レアカード転売するため」コンビニでトレカ万引きし店員にけがさせた疑い　２９歳会社員を逮捕　大阪・住之江区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-00048947-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/3dfe53dafd091f548d4ebe346b32b71a361eb536?source=rss",
           "author": null,
@@ -10175,6 +10205,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c9dpey8n9z5o#0",
+          "author": null,
+          "description": "米グーグルはこのほど、新しい半導体（チップ）を発表した。このチップは、現在の世界最速のスーパーコンピュータが100垓年（10の25乗）、つまり10,000,000,000,000,000,000,000,000年かかる問題をわずか5分で解決できるという。",
+          "link": "https://www.bbc.com/japanese/articles/c9dpey8n9z5o",
+          "publishedOn": "2024-12-10T06:06:06.000Z",
+          "wordCount": 1437,
+          "title": "米グーグルが量子チップ「ウィロー」を発表、10の25乗年かかる計算が5分で可能と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/f835/live/1bb1eb10-b6b7-11ef-aff0-072ce821b6ab.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cvgp1l88ll3o#0",
           "author": null,
           "description": "米ニューヨーク中心部の路上で、米医療保険大手ユナイテッドヘルスケアのブライアン・トンプソン最高経営責任者（CEO）が銃撃され死亡した事件で、警察は9日、重要参考人の男を拘束した。男は同日夜、殺人罪で起訴された。",
@@ -12438,6 +12478,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=90339",
+          "author": "Munenori Taniguchi",
+          "description": "Googleは、現在の世界最速のスーパーコンピューターでも10杼（じょ：10の25乗）年かかる問題を、5分未満で回答できるという量子プロセッサー「Willow」を発表した。カリフォルニア州サンタバーバラにあるGoogle量子AI研究所の研究者らは、量子システムにおける誤り訂正の重要な課題を解決したと […]",
+          "link": "https://gadget.phileweb.com/post-90339/",
+          "publishedOn": "2024-12-10T06:20:13.000Z",
+          "wordCount": 753,
+          "title": "Google、新型量子プロセッサー「Willow」発表。量子誤り訂正に画期的技術",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/12/Willow1.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=90349",
+          "author": "編集部：成藤正宣",
+          "description": "JAPANNEXTは、ブラウン管テレビ風のデザインで最大リフレッシュレート180Hz／フルHD解像度に対応する23.6インチゲーミングモニター「JN-V236G180F-RETRO」を、12月13日（金）にヨドバシカメラ限定で発売する。価格は29,980円（税込）。本日12月10日より予約受付も開始 […]",
+          "link": "https://gadget.phileweb.com/post-90349/",
+          "publishedOn": "2024-12-10T06:03:08.000Z",
+          "wordCount": 749,
+          "title": "JAPANNEXT、昔懐かしブラウン管風ゲーミングモニター。ヨドバシ限定",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/12/retro01.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=90334",
           "author": "多根清史",
@@ -19261,6 +19321,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2042553.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2024/12/09(月) 19:15:00.16 ID:dm3xMDoM0●.net\n\n\n\n\n\n\n\n\n\n\n冬のボーナスが手取りで70万円の彼氏と別れるべき？女性の投稿が物議 #ldnews https://t.co/Q69BGU0ycTこういう人って、賞与手取り70万円分の家事できるのかねぇ。出来ないと思う...",
+          "link": "https://itainews.com/archives/2042553.html",
+          "publishedOn": "2024-12-10T06:01:10.000Z",
+          "wordCount": 2522,
+          "title": "女性様(34)「彼氏の冬のボーナスが70万円(手取り)しかありませんでした。別れるべきでしょうか…？」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/c/cc5e0f81-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2042571.html",
           "author": "damono3856",
           "description": "1 名前：名無しさん＠涙目です。：2024/12/10(火) 08:24:37.38 ID:EEwcWxBz0.net\n\n\n\n\n\n\n\n《ジブリ公式サイト更新》当社出版書籍等の無断複製、切り抜き及び販売等行為に関するお知らせhttps://t.co/2OJxBhN3fv pic.twitter.com/G47BIZjbEl— ジブリまみれ (@ghiblimamire...",
@@ -24658,6 +24728,16 @@
       "siteUrl": "https://2-9-9.com",
       "articles": [
         {
+          "id": "https://2-9-9.com/?p=85643",
+          "author": "299",
+          "description": "軽トラの荷台で仲良く2匹の猫さんが並んで高いところから周囲の様子を見ています。 ちょこんと前足を荷台の淵に置いて立ち上がった状態になりながら長いしっぽをずっとゆらゆらさせています。 それも2匹並んで全く同じにシンクロして...\n軽トラの荷台から高みの見物をするニャンズの後ろ姿に癒されます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85643",
+          "publishedOn": "2024-12-10T06:00:51.000Z",
+          "wordCount": 1353,
+          "title": "軽トラの荷台から高みの見物をするニャンズの後ろ姿に癒されます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/12/85643.jpg"
+        },
+        {
           "id": "https://2-9-9.com/?p=85639",
           "author": "299",
           "description": "猫たちのための、あったかグッズのねこ鍋ヒーターでしたが誰も使ってくれず落胆していた飼い主さんでした。 でも今年はフク姫が使ってくれています。これでせっかくのねこ鍋ヒーターが無駄にならずに済みそうです。 1匹が使ってくれれ...\n電源の入っていないねこ鍋ヒーターでもまったりくつろげるにゃ〜 first appeared on 肉球ドットコム（299.com）.",
@@ -28186,16 +28266,6 @@
           "wordCount": 1339,
           "title": "お父さんの入浴中に次々とやってくるニャンズ",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84096.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=84134",
-          "author": "299",
-          "description": "優しい主さんによって保護されたハチワレのロングヘアの可愛い子猫。 生後2ヶ月ですが、すっかり新しい生活にも慣れて、ごらんのとおりぐっすり昼寝をしています。 ただひとつ困っているのが夜中の大運動会です。 なので昼間はなるべ...\n子猫の夜の大運動会がやばすぎて昼寝させたくない〜 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/84134",
-          "publishedOn": "2024-11-10T18:00:20.000Z",
-          "wordCount": 1344,
-          "title": "子猫の夜の大運動会がやばすぎて昼寝させたくない〜",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84134.jpg"
         }
       ]
     }
