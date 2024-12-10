@@ -1665,16 +1665,6 @@
           "wordCount": null,
           "title": "ハンター406話感想「スキルハンター進化予想当たってね？」",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=___iwbEWiiA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=___iwbEWiiA",
-          "publishedOn": "2024-11-10T12:09:33.000Z",
-          "wordCount": null,
-          "title": "これドライマンゴー？",
-          "imageUrl": null
         }
       ]
     },
@@ -1830,6 +1820,16 @@
       "feedUrl": "https://www.4gamer.net/rss/wii/wii_news.xml",
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
+        {
+          "id": "https://www.4gamer.net/games/434/G043434/20241209011/",
+          "author": null,
+          "description": "「週刊プロゲーマーファイル」では，幅広いジャンルで活躍するプロゲーマーを毎週一人ずつ取り上げ，プロフィールを紹介していきます。今週取り上げるのは「ぷよぷよのプロシーンで活躍するMGR選手です。",
+          "link": "https://www.4gamer.net/games/434/G043434/20241209011/",
+          "publishedOn": "2024-12-10T01:00:00.000Z",
+          "wordCount": 7027,
+          "title": "「週刊プロゲーマーファイル」File.263：MGR選手【ぷよぷよ】",
+          "imageUrl": "https://www.4gamer.net/games/434/G043434/20241209011/SS/002.jpg"
+        },
         {
           "id": "https://www.4gamer.net/games/738/G073898/20241202052/",
           "author": null,
@@ -4797,6 +4797,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/53ce7ac36632b358ac098739e00ebd3264a13c0c?source=rss",
+          "author": null,
+          "description": "難病のALS患者に依頼され殺害したとして嘱託殺人などの罪に問われた医師の大久保愉一被告（46）の弁護人が9日、1審に続き懲役18年を言い渡した大阪高裁判決を不服として最高裁に上告しました。\n\n　被告",
+          "link": "https://news.yahoo.co.jp/articles/53ce7ac36632b358ac098739e00ebd3264a13c0c?source=rss",
+          "publishedOn": "2024-12-10T01:19:02.000Z",
+          "wordCount": 1630,
+          "title": "【速報】ALS患者嘱託殺人事件　大久保被告が上告(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-00010000-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/8b66e0556c06cca0a6cb5029bf85861bb6fd3c31?source=rss",
           "author": null,
@@ -12032,6 +12042,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2412/10/news089.html",
+          "author": null,
+          "description": "NXPセミコンダクターズは、NFCに対応した非接触IC「MIFARE DUOX」を発表した。非対称暗号と対称暗号の双方に対応し、拡張セキュリティ機能も備える。同IC搭載カード1枚で、EV充電認証やアクセス管理に利用できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2412/10/news089.html",
+          "publishedOn": "2024-12-10T00:00:00.000Z",
+          "wordCount": 2523,
+          "title": "対称／非対称暗号を統合したNFC対応非接触IC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2412/10/cover_news089.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2412/09/news072.html",
           "author": null,
           "description": "2024年12月、Intel CEO（最高経営責任者）のPat Gelsinger氏が退任した。経営再建を期待されてCEOの職に就いたものの、要だったファウンドリー事業が行き詰まるなど、実行力が問題となった。Intelの2024年の業績は36億8000万米ドルの赤字になると予想されている。",
@@ -16952,21 +16972,6 @@
             "length": "1664"
           },
           "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/122474/",
-          "author": null,
-          "description": "山﨑賢人が主演を務め、浜辺美波がヒロインを演じる映画「アンダーニンジャ」の予告映像が公開された。最先端の忍者バトルを収めている。 原作は、「アイアムアヒーロー」などの数々の話題作で知られる花沢健...",
-          "link": "https://anime.eiga.com/news/122474/",
-          "publishedOn": "2024-11-10T12:00:00.000Z",
-          "wordCount": 1130,
-          "title": "散弾手裏剣、透明化スーツ、衛星レーザー砲　実写映画「アンダーニンジャ」忍者アクション満載の予告公開",
-          "enclosure": {
-            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": "1664"
-          },
-          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -17486,6 +17491,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=46408",
+          "author": "fumie",
+          "description": "一杯目のビールって、やっぱり格別に美味しいー！と思うふみえ＠あつらぼです☆ 今回は美味しいビールが飲みたくなり、厚木らぼ編集部の呑兵衛メンバーで 「YEBISU BAR（ヱビスバー）本厚木ミロード店」に行ってまいりました♪ 早速場所からどう…",
+          "link": "https://atsugi-lab.com/report-yebisubar202412/",
+          "publishedOn": "2024-12-10T00:36:40.000Z",
+          "wordCount": 1273,
+          "title": "【話題】ビール好きの楽園♪「YEBISU BAR 本厚木ミロード店」で美味しいビール＆おつまみのマリアージュを堪能♡［厚木市泉町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/12/yebisu-202412.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=46998",
           "author": "fumie",
@@ -24449,26 +24464,6 @@
           "wordCount": 2464,
           "title": "酒を飲んでチャリに乗った52歳女を逮捕 「乗ってないですけど！片足こぎしてたんですけど！」と否認",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/2/f212afa8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041483.html",
-          "author": "dqnplus",
-          "description": "1 名前： ：2024/11/10(日) 10:24:09.92 ● 2BP(2000).net\n\n\n\n\n\n\n\n\n【松本人志　訴え取り下げもテレビ復帰たちはだかる「スポンサーの高い壁」】https://t.co/L7c7xKcJCh #お笑い芸人 #スポンサー #ダウンタウン #伊藤俊介 #松本人志 #女性自身［@jisinjp］— 女性自身【...",
-          "link": "https://itainews.com/archives/2041483.html",
-          "publishedOn": "2024-11-10T13:01:22.000Z",
-          "wordCount": 2454,
-          "title": "『＃松本人志をテレビに出すな』がトレンド入り！テレビ復帰が絶望的にｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/f/dff87460-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041478.html",
-          "author": "damono3856",
-          "description": "1 名前：Anonymous ★：2024/11/09(土) 19:43:46.01 ID:h3nwWWyb9.net\n\n\n\n\n\n\n\n「30歳越えたら子宮摘出」日本保守党代表・百田尚樹氏の“人権無視提言”に「相当ヤバいね」「恐ろしい」批判集まる#SmartFLASH #百田尚樹 #日本保守党 #人権無視 #発言 #批判https://t.co/29...",
-          "link": "https://itainews.com/archives/2041478.html",
-          "publishedOn": "2024-11-10T12:03:49.000Z",
-          "wordCount": 2726,
-          "title": "【提言】百田尚樹氏『女性は18歳から大学に行かさない。25歳越えて独身は生涯結婚できない法律に。30歳を超えたら子宮摘出手術をする」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/8/583bfef2-s.png"
         }
       ]
     },
@@ -24477,6 +24472,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=85660",
+          "author": "299",
+          "description": "保護猫のための、ねこたま庵は今日も子猫たちが元気いっぱいに駆け回りとても賑やかです。 おやおや、三毛猫のポノちゃんがまたたびの香りのするスティックのおもちゃにスリスリして夢中になっています。一方で子猫たちはおもちゃのトン...\nたっぷり遊んだら子猫たちのお腹空いたコールが鳴り響きます first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85660",
+          "publishedOn": "2024-12-10T00:00:49.000Z",
+          "wordCount": 1349,
+          "title": "たっぷり遊んだら子猫たちのお腹空いたコールが鳴り響きます",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/12/85660.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=85631",
           "author": "299",
@@ -28006,16 +28011,6 @@
           "wordCount": 1348,
           "title": "ご飯を残してオウムに注意される猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84087.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=84074",
-          "author": "299",
-          "description": "太陽の光がギラギラと照りつける真夏のある日、公園にでかけると可愛いキジトラ猫さんにばったり出会いました。 猫さんはちょうど日陰で涼んでいるところだったようです。慣れている主さんの姿を見つけると、すぐに擦り寄ってきて甘え始...\n暑い真夏でも膝の上に乗りたがる甘えん坊のニャンコさん first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/84074",
-          "publishedOn": "2024-11-10T13:00:26.000Z",
-          "wordCount": 1341,
-          "title": "暑い真夏でも膝の上に乗りたがる甘えん坊のニャンコさん",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84074.jpg"
         }
       ]
     }
