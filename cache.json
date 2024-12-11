@@ -14216,6 +14216,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/12/sk-hynix-cis-business-reorg.html",
+          "author": null,
+          "description": "SK Hynix restructures CIS organization seemingly to replicate HBM success model \n\nLink: https://www.digitimes.com/news/a20241210PD215/sk-hynix-cis-hbm-business-market.html \n\nDespite the low profitability of SK Hynix's CMOS image sensor (CIS) business, the company has decided to retain this segment and reorganize its CIS development team under the Future Technology Research Institute, possibly hoping to replicate the successful narrative seen in high bandwidth memory (HBM).\nAccording to industry sources cited by ZDNet Korea, SK Hynix CTO Seon-Yong Cha is expected to also lead CIS development.\nSome analysts believe that SK Hynix endured a period of poor profitability in its HBM business but ultimately achieved success in the artificial intelligence (AI) chip market. In the future, demand for…",
+          "link": "http://image-sensors-world.blogspot.com/2024/12/sk-hynix-cis-business-reorg.html",
+          "publishedOn": "2024-12-11T17:00:00.001Z",
+          "wordCount": 4108,
+          "title": "SK Hynix CIS business reorg",
+          "imageUrl": null
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/12/event-cameras-for-gps-free-drone.html",
           "author": null,
           "description": "Link: https://spectrum.ieee.org/drone-gps-alternatives\nA recent article in IEEE Spectrum titled \"Neuromorphic Camera Helps Drones Navigate Without GPS High-end positioning tech comes to low-cost UAVs\" discusses efforts in using neuromorphic cameras to achieve GPS-free navigation for drones.\nSome excerpts:\n[GPS] signals are vulnerable to interference from large buildings, dense foliage, or extreme weather and can even be deliberately jammed. [GPS-free navigation systems that rely only on] accelerometers and gyroscopes [suffer from] errors [that] accumulate over time and can ultimately cause a gradual drift. ... Visual navigation systems  [consume] considerable computing and data resources.\nA pair of navigation technology companies has now teamed up to merge the approaches and get the best of both worlds. NILEQ, a subsidiary of British missile-maker MBDA based in Bristol, UK, makes a low-power visual navigation system that relies on neuromorphic cameras. This will now be integrated with a fiber optic-based INS developed by Advanced Navigation in Sydney, Australia, to create a positioning system that lets low-cost drones navigate reliably without GPS.\n[...]\n[Their proprietary algorithms] process the camera output in real-time to create a terrain fingerprint for the particular patch of land the vehicle is passing over. This is then compared against a database of terrain fingerprints generated from satellite imagery, which is stored on the vehicle. [...] \n\nThe companies are planning to start flight trials of the combined navigation system later this year, adds Shaw, with the goal of getting the product into customers hands by the middle of 2025.",
@@ -24904,16 +24914,6 @@
           "wordCount": 2375,
           "title": "【続報】「爆発音と叫び声、2人下敷きに」84歳女性運転の車が歩道に乗り上げ1人死亡、1人重体　鹿児島",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/a/7a532085-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041532.html",
-          "author": "dqnplus",
-          "description": "1 ：名無しさん＠涙目です。：2024/11/11(月) 19:16:48.38 ID:9TZ4nxkO0●.net\n\n\n\n\n\n\n\n\n横浜駅大罵声大会 pic.twitter.com/HplHWlKvFa— 頂けない男子けーけーさん (@kk_641000) November 7, 2024 \n\n\n\n\n\n\n\n\n7日夜、JR横浜駅。ホームに響くアナウンスと、鉄道ファンたちの...",
-          "link": "https://itainews.com/archives/2041532.html",
-          "publishedOn": "2024-11-12T05:01:25.000Z",
-          "wordCount": 2418,
-          "title": "“撮り鉄”が駅員に「ボケ!アホ!」安全ルール守らず“ハイビーム”で応戦され罵声…意味不明の声も",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/7/279e7b01-s.png"
         }
       ]
     },
