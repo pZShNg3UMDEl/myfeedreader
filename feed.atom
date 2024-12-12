@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T06:25:56.150Z</updated>
+    <updated>2024-12-12T06:48:24.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firefoxから「Do Not Track」機能が削除へ。理由は「ウェブサイト側が応じないから」]]></title>
+        <id>https://gadget.phileweb.com/?p=90571</id>
+        <link href="https://gadget.phileweb.com/post-90571/"/>
+        <updated>2024-12-12T06:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Mozillaは、firefoxブラウザーの次期バージョン（v135）から、トラッキング拒否機能である「Do No Track（DNT）」を削除することがわかった。 ウェブサイトWindows Reportは、Firefoxの次期バージョンであるバージョン135のNightly（開発者向けリリース） […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大麻密売疑いで少年ら４人逮捕　法律改正で１２日から大麻も麻薬に位置づけ　近畿厚生局麻薬取締部(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/58f00239afcb2dade4b5b2d2ce43c0f5dcabce65?source=rss</id>
