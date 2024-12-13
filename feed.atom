@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-13T16:46:05.825Z</updated>
+    <updated>2024-12-13T17:15:40.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SPAD direct-time-of-flight pixel with correlation-assisted processing]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/12/spad-direct-time-of-flight-pixel-with.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/12/spad-direct-time-of-flight-pixel-with.html"/>
+        <updated>2024-12-13T16:51:00.001Z</updated>
+        <summary type="html"><![CDATA[In a paper titled "Correlation-Assisted Pixel Array for Direct Time of Flight", A. Morsy and M. Kuijk or Vrije Universiteit write: 
+
+Abstract
+Time of flight is promising technology in machine vision and sensing, with an emerging need for low power consumption, a high image resolution, and reliable operation in high ambient light conditions. Therefore, we propose a novel direct time-of-flight pixel using the single-photon avalanche diode (SPAD) sensor, with an in-pixel averaging method to suppress ambient light and detect the laser pulse arrival time. The system utilizes two orthogonal sinusoidal signals applied to the pixel as inputs, which are synchronized with a pulsed laser source. The detected signal phase indicates the arrival time. To evaluate the proposed system’s potential, we deve…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高崎物語の真相を予想する②]]></title>
+        <id>https://www.youtube.com/watch?v=t1wk5d7p51Q</id>
+        <link href="https://www.youtube.com/watch?v=t1wk5d7p51Q"/>
+        <updated>2024-12-13T16:47:40.000Z</updated>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブリティッシュショートヘアの子猫たちの可愛さはダントツ！]]></title>
         <id>https://2-9-9.com/?p=85879</id>
@@ -35348,45 +35370,6 @@ https...]]></summary>
         <summary type="html"><![CDATA[GoogleはAndroidのセキュリティ機能を強化すべく、新たにマルウェアをリアルタイムで検出できる機能を実装したと発表した。まず同社のスマートフォンPixel 6以降が対象となり、近日中に多くのAndroidデバイスでも利用可能になるとのことだ。 本機能はAndroidのGoogle Play  […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『OL美女倶楽部』 玉木雄一郎氏、不倫相手・小泉みゆきの写真集がランキング1位急上昇！　“グラドル全開” の過激な中身]]></title>
-        <id>https://itainews.com/archives/2041613.html</id>
-        <link href="https://itainews.com/archives/2041613.html"/>
-        <updated>2024-11-14T05:01:52.000Z</updated>
-        <summary type="html"><![CDATA[1 ：冬月記者 ★：2024/11/13(水) 19:44:40.21 ID:Eq5rINVF9.net
-
-
-
-
-
-
-
-
-宣伝効果わらた😂『OL美女倶楽部』玉木雄一郎氏、不倫相手の写真集がランキング1位急上昇…“グラドル全開” の過激な中身(SmartFLASH)#Yahooニュースhttps://t.co/OFdhJeNEh6— ぶーちゃん୧⍤⃝...]]></summary>
-        <author>
-            <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【米政権交代】 第2次トランプ政権の顔ぶれは、指名された一部を紹介]]></title>
-        <id>https://www.bbc.com/japanese/articles/c3e80qkz2njo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c3e80qkz2njo"/>
-        <updated>2024-11-14T05:01:14.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ次期米大統領は13日、ホワイトハウスを訪れ、ジョー・バイデン大統領と会談した。バイデン大統領はスムーズな政権移行を約束した。こうしたなか、第2次トランプ政権の輪郭が見えてきた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【米政権交代】 バイデン大統領とトランプ次期大統領が会談　スムーズな政権移行を約束]]></title>
-        <id>https://www.bbc.com/japanese/articles/c5yxqne9g2jo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c5yxqne9g2jo"/>
-        <updated>2024-11-14T04:48:39.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのジョー・バイデン大統領とドナルド・トランプ次期大統領が13日、大統領選挙後初めて会談し、ともに「スムーズな」政権移行を唱えた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
