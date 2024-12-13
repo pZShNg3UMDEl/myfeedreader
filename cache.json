@@ -1911,6 +1911,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/771/G077171/20241213080/",
+          "author": null,
+          "description": "セガは本日（2024年12月13日），アクションアドベンチャーゲーム「ソニック×シャドウジェネレーションズ」で，ダウンロードコンテンツ「映画『ソニック×シャドウTOKYOMISSION』パック」の配信を開始した。価格は660円（税込）。",
+          "link": "https://www.4gamer.net/games/771/G077171/20241213080/",
+          "publishedOn": "2024-12-13T05:48:34.000Z",
+          "wordCount": 7287,
+          "title": "「ソニック × シャドウ ジェネレーションズ」，DLC「映画『ソニック × シャドウ TOKYO MISSION』パック」をリリース",
+          "imageUrl": "https://www.4gamer.net/games/771/G077171/20241213080/SS/003.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/866/G086626/20241213072/",
           "author": null,
           "description": "MyNintendoStoreに，「EGGコンソールアクアポリスSOSMSX」のストアページが登場している。配信予定日は2024年12月19日。「アクアポリスSOS」は，1983年にコンパイルから発売されたSTGだ。プレイヤーは救助船を操作して，障害物やミサイルの妨害を回避しながら，海底都市の人たちを救出する。",
@@ -10385,6 +10395,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c4gp86g7d7no#0",
+          "author": null,
+          "description": "AI（人工知能）チャットボットが若い利用者に「積極的に暴力行為を助長」するなどし、「明白かつ差し迫った危険をもたらしている」として、10代の利用者の親2組が9日、米テキサス州の裁判所に訴えを起こした。",
+          "link": "https://www.bbc.com/japanese/articles/c4gp86g7d7no",
+          "publishedOn": "2024-12-13T05:41:41.000Z",
+          "wordCount": 1510,
+          "title": "チャットボットが「親殺しを子供に勧めた」　アメリカの親2組がAI企業を提訴",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/2cfd/live/ef0326a0-b86a-11ef-aff0-072ce821b6ab.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c983gvg5gzmo#0",
           "author": null,
           "description": "イスラエルによるパレスチナ・ガザ地区への空爆で、少なくとも35人のパレスチナ人が殺害されたと、地元の医療関係者と、イスラム組織ハマスが運営する民間防衛隊が発表した。死者には、援助物資を運ぶトラックを守っていた警備員12人も含まれているとしている。",
@@ -12688,6 +12708,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed/",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=90689",
+          "author": "Munenori Taniguchi",
+          "description": "LGがすべてのUltra HD Blu-ray（UHD BD）およびBlu-rayディスク（BD）プレーヤー機器の製造を中止し、現在は在庫限りの状況になっていると、AV家電情報サイトのFlatpanelsHDが報じた。 ここ数年は定額のストリーミングサービスが浸透し、物理メディア市場はじわじわと縮小 […]",
+          "link": "https://gadget.phileweb.com/post-90689/",
+          "publishedOn": "2024-12-13T05:49:43.000Z",
+          "wordCount": 775,
+          "title": "LG、UHD BD／BDプレーヤーの製造を終了。将来的に復活の可能性は残す",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/12/Roman-Chekhovskoi_Shutterstock.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=90678",
+          "author": "多根清史",
+          "description": "Googleは、ヘッドセットやメガネ型などXRデバイス向けの新たなOS「Android XR」を正式に発表した。XRとはVR（仮想現実）、AR（拡張現実）、MR（複合現実）を含む総称である。 サムスンを筆頭に多くのハードウェア企業と協力して、製品の開発に取り組んでいるとのこと。また、開発者向けにはA […]",
+          "link": "https://gadget.phileweb.com/post-90678/",
+          "publishedOn": "2024-12-13T05:43:05.000Z",
+          "wordCount": 788,
+          "title": "Google、「Android XR」正式発表。2025年にサムスン製ヘッドセットが発売予定",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/12/0098-ARVR-XR-Blog-Header-2096x11.width-1200.format-webp.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=90659",
           "author": "Munenori Taniguchi",
