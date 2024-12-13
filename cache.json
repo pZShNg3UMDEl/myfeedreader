@@ -310,6 +310,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCo72rUcAcuJO4MLlPXCZxaQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eNg8lRT8oBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eNg8lRT8oBE",
+          "publishedOn": "2024-12-13T12:20:15.000Z",
+          "wordCount": null,
+          "title": "ハードオフ店員がジャンク品でSOPHIAの街を演奏",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3wz4lYJcVW8",
           "author": null,
           "description": "",
@@ -5127,6 +5137,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/94b495cf822313471e984032973d0140af81b9bb?source=rss",
+          "author": null,
+          "description": "１３日朝、大阪市平野区の路上で自転車の女性（８０）をひき逃げしてその後死亡させたとして、トラック運転手の男が逮捕されました。男は警察に対し「ぶつかったという認識はない」と容疑を否認しています。",
+          "link": "https://news.yahoo.co.jp/articles/94b495cf822313471e984032973d0140af81b9bb?source=rss",
+          "publishedOn": "2024-12-13T12:27:19.000Z",
+          "wordCount": 1678,
+          "title": "８０歳女性死亡ひき逃げ疑い　トラック運転手の男を逮捕　「ぶつかったという認識ない」と容疑否認　大阪・平野区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241213-00048999-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/92071f0c472451162582bc03d52de3ea741f603e?source=rss",
           "author": null,
@@ -12840,16 +12860,6 @@
           "wordCount": 2515,
           "title": "ハイレゾ音源向け32ビットD-AコンバーターIC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/15/cover_news090.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2411/14/news067.html",
-          "author": null,
-          "description": "ルネサス エレクトロニクスは、32ビットマイコンRAファミリーを拡充し、Arm Cortex-M85プロセッサを搭載した「RA8E1」「RA8E2」を発売、量産を開始した。コスト重視向けに最適化を図っている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2411/14/news067.html",
-          "publishedOn": "2024-11-14T00:00:00.000Z",
-          "wordCount": 2533,
-          "title": "コスト重視用途に最適化　Arm Cortex-M85搭載マイコン",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2411/14/cover_news067.jpg"
         }
       ]
     },
@@ -14668,6 +14678,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122789/",
+          "author": null,
+          "description": "2016年に放送されたテレビアニメ「魔法少女育成計画」の第2期「魔法少女育成計画 restart」の制作が決定した。南條愛乃、近藤玲奈、ファイルーズあいら出演声優総勢18人と、メインスタッフが発...",
+          "link": "https://anime.eiga.com/news/122789/",
+          "publishedOn": "2024-12-13T12:00:00.000Z",
+          "wordCount": 737,
+          "title": "「魔法少女育成計画」第2期「restart」制作決定　南條愛乃ら出演者一挙発表、東山奈央が第1期から続投",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122786/",
           "author": null,
@@ -18540,16 +18565,6 @@
           "wordCount": 1253,
           "title": "【話題】本厚木駅近で本格的なイタリアン＆スペイン料理が楽しめる♪「Figaro（フィガロ）本厚木」のランチタイムに潜入！［厚木市中町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/11/figaro202411image.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=46381",
-          "author": "田原",
-          "description": "こんにちは、タハラ＠あつらぼです♪ １年を通してご紹介している、未就園児ママに大大大反響のえいすう幼稚園オープンデー 今冬も開催予定！ということで、今回もどどーんとご紹介させていただきます！ 今回は来年度の未就園児クラスの募集情報もあります…",
-          "link": "https://atsugi-lab.com/event-eisu-openday-2024winter/",
-          "publishedOn": "2024-11-14T00:30:36.000Z",
-          "wordCount": 1272,
-          "title": "【１歳から２歳のお子様対象】おはなしワニーズさんの布えほん・布おもちゃで楽しもう！「えいすう幼稚園 冬のオープンデー」【12月12日】",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/11/eisu-icatch202412.png"
         }
       ]
     },
@@ -19867,16 +19882,6 @@
           "wordCount": 1798,
           "title": "【大阪王将】ゴジラ炒飯【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/1748c900d96f182cf5ebcdd73130ce24.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=264386",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「サーモンクリームオムライス」を世界一詳しく調査しました。   公式YouTubeチャンネル【 […]",
-          "link": "https://foodfighter.jp/711sej-salmon-cream-omurice",
-          "publishedOn": "2024-11-13T23:55:20.000Z",
-          "wordCount": 1740,
-          "title": "【セブンイレブン】サーモンクリームオムライス【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/06003679f91f0a8a1e9c96a0002f1d7a.jpg"
         }
       ]
     },
@@ -19885,6 +19890,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042675.html",
+          "author": "damono3856",
+          "description": "1 名前：：2024/12/13(金) 09:00:39.02 ID:DvR8YHOW0●.net\n\n\n\n\n\n\n\n給料払えず混乱　中国の新興EVメーカーの経営悪化（テレビ朝日系（ANN））#Yahooニュース https://t.co/nrzX2XrR7F— lv2 (@DioGad8) December 12, 2024  \n\n\n\n\n\n\n給料払えず混乱　中国の新興EVメーカー...",
+          "link": "https://itainews.com/archives/2042675.html",
+          "publishedOn": "2024-12-13T12:02:55.000Z",
+          "wordCount": 2515,
+          "title": "中国EVメーカー死亡",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/2/d2f8f476-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042682.html",
           "author": "damono3856",
@@ -28871,16 +28886,6 @@
           "wordCount": 1340,
           "title": "てんかんで倒れたたんこママをそっと静かに見守る愛情あふれる夫猫",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84266.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=84290",
-          "author": "299",
-          "description": "ゴールデンレトリバーと子猫が初対面をしました。 喧嘩をせずに仲良くなってくれることを願いながら、とりあえず一緒の部屋でしばらく自由にさせてみることにしました。 なんの心配も必要ないぐらい、お互いに顔を合わせてすぐに遊び始...\nゴールデンレトリバーと子猫のソワソワドキドキな初対面！ first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/84290",
-          "publishedOn": "2024-11-14T00:00:44.000Z",
-          "wordCount": 1349,
-          "title": "ゴールデンレトリバーと子猫のソワソワドキドキな初対面！",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84290.jpg"
         }
       ]
     }
