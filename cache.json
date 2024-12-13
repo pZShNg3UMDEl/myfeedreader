@@ -567,6 +567,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqFaMBFtHduRRJKVCJhBr9g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=27mifALKlRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=27mifALKlRI",
+          "publishedOn": "2024-12-13T05:30:16.000Z",
+          "wordCount": null,
+          "title": "真如苑タレコミ回",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Bq0QvqTa3oY",
           "author": null,
           "description": "",
@@ -1900,6 +1910,36 @@
       "feedUrl": "https://www.4gamer.net/rss/wii/wii_news.xml",
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
+        {
+          "id": "https://www.4gamer.net/games/866/G086626/20241213072/",
+          "author": null,
+          "description": "MyNintendoStoreに，「EGGコンソールアクアポリスSOSMSX」のストアページが登場している。配信予定日は2024年12月19日。「アクアポリスSOS」は，1983年にコンパイルから発売されたSTGだ。プレイヤーは救助船を操作して，障害物やミサイルの妨害を回避しながら，海底都市の人たちを救出する。",
+          "link": "https://www.4gamer.net/games/866/G086626/20241213072/",
+          "publishedOn": "2024-12-13T05:26:38.000Z",
+          "wordCount": 6858,
+          "title": "「EGGコンソール アクアポリスSOS MSX」，12月19日配信。1983年にコンパイルから発売されたシューティングゲーム",
+          "imageUrl": "https://www.4gamer.net/games/866/G086626/20241213072/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/457/G045716/20241213071/",
+          "author": null,
+          "description": "BANDAISPIRITSは，「ときめきメモリアルGirl'sSide4thHeart」のコラボジュエリー「『ときめきメモリアルGirl'sSide4thHeart』×THEKISSコラボレーションリング」（全11種）の予約受付を，プレミアムバンダイで開始した。価格は1万4300円（税込）。本商品は，ゲームに登場するキャラクターをイメージしたシルバーリングだ。",
+          "link": "https://www.4gamer.net/games/457/G045716/20241213071/",
+          "publishedOn": "2024-12-13T05:24:24.000Z",
+          "wordCount": 1309,
+          "title": "「ときめきメモリアル Girl's Side 4th Heart」より，コラボレーションリングが登場。キャラクターをイメージした全11種",
+          "imageUrl": "https://www.4gamer.net/games/457/G045716/20241213071/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/807/G080705/20241213068/",
+          "author": null,
+          "description": "2KとFiraxisGamesは本日（2024年12月13日），TheGameAwards2024にて，「SidMeier'sCivilizationVII」のゲーム内オープニングムービーを公開した。孤独な農民が地中に埋もれていた錆びた剣を発見するところから始まり，そこから人類の歴史が紐解かれていく様子が描かれている。",
+          "link": "https://www.4gamer.net/games/807/G080705/20241213068/",
+          "publishedOn": "2024-12-13T05:19:34.000Z",
+          "wordCount": 7281,
+          "title": "「Sid Meier's Civilization VII」，オープニングムービーをThe Game Awards 2024で初公開。錆びた剣から人類の歴史が紐解かれていく",
+          "imageUrl": "https://www.4gamer.net/games/807/G080705/20241213068/SS/001.jpg"
+        },
         {
           "id": "https://www.4gamer.net/games/172/G017216/20241213065/",
           "author": null,
@@ -12649,6 +12689,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=90659",
+          "author": "Munenori Taniguchi",
+          "description": "アプリが指定するタイミングで、必ず自撮りと周囲の様子を含む未加工写真を投稿しなければならないという、わざわざ個人情報や居場所を特定されかねないミッションの遂行を要求するSNSアプリ「BeReal」が、Z世代の間で人気を博している。 だがこのアプリがパーソナライズ広告のための個人情報収集に同意すること […]",
+          "link": "https://gadget.phileweb.com/post-90659/",
+          "publishedOn": "2024-12-13T05:36:10.000Z",
+          "wordCount": 759,
+          "title": "人気SNS「BeReal」をプライバシー擁護団体が告発。同意するまで個人情報収集の要求を止めない",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/12/Diego-Thomazini_hutterstock.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=90661",
+          "author": "多根清史",
+          "description": "アップルは2023年発売の「iPhone 15 Pro」モデル以降、空間ビデオ撮影を重視する傾向にある。今年の「iPhone 16」標準モデルでも、背面デュアルカメラを従来の斜め配置からタテ配置に変えることで、空間ビデオ撮影に対応している。 その最新の動向として、次期「iPhone 17 Pro」モ […]",
+          "link": "https://gadget.phileweb.com/post-90661/",
+          "publishedOn": "2024-12-13T05:22:20.000Z",
+          "wordCount": 848,
+          "title": "「iPhone 17 Pro」の背面カメラ、Google Pixelのような横並び配置に?",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/12/shutterstock_2324698113.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=90640",
           "author": "多根清史",
           "description": "M4チップを搭載した次期「MacBook Air」は、2025年春ごろに発売が噂されている。プロセッサーがM3から強化される他はハードウェアの変更はないと見られていたが、超広角カメラを採用してセンターフレームに対応する可能性が浮上している。 米AppleInsiderは、最新のmacOS 15.2に […]",
@@ -19525,6 +19585,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042673.html",
+          "author": "dqnplus",
+          "description": "1 名前：あしだまな ★：2024/12/13(金) 08:34:41.76 ID:NyMPIxhP9.net\n\n\n\n\n\n\n\n\n環境活動家グレタ・トゥーンベリさんに対して「ハマスのサクラ」との批判｜東スポWEB https://t.co/ILHtQrjTIM— 東スポ (@tospo_prores) December 11, 2024 \n\n\n\n\n\n\n環境活動家グレタ・トゥ...",
+          "link": "https://itainews.com/archives/2042673.html",
+          "publishedOn": "2024-12-13T05:32:08.000Z",
+          "wordCount": 2353,
+          "title": "【国際】グレタさん「くたばれドイツ、そしてくたばれイスラエル」と叫び大笑いする",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/b/8b2d68b2-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042651.html",
           "author": "dqnplus",
