@@ -5,13 +5,6 @@
 
 cacheUrl: https://pZShNg3UMDEl.github.io/myfeedreader/cache.json
 sources:
-#Channel
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCS1qLgofM70kUlI1Wu5uqxg
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCo72rUcAcuJO4MLlPXCZxaQ
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqFaMBFtHduRRJKVCJhBr9g
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCk4TwaCBT1JIhzdYMhf0fww
-#Feedly
   - href: https://www.4gamer.net/rss/wii/wii_news.xml
   - href: https://news.yahoo.co.jp/rss/media/asahibc/all.xml
   - href: http://feeds.bbci.co.uk/japanese/rss.xml
