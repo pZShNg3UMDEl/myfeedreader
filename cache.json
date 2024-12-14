@@ -1941,6 +1941,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/851/G085127/20241212046/",
+          "author": null,
+          "description": "「INDIELiveExpoAwards2024」大賞受賞作「SlaythePrincess」は，世界のために姫を殺すよう迫られるループもののビジュアルノベルだ。本作がループものであることによって何を語ろうとしているのか，5000字をかけてじっくり解説していこう。",
+          "link": "https://www.4gamer.net/games/851/G085127/20241212046/",
+          "publishedOn": "2024-12-14T02:00:00.000Z",
+          "wordCount": 7622,
+          "title": "［レビュー］何度でも出会い直し，世界の裂け目に飛び込んでいく。「Slay the Princess」は“ループものの新境地”だ",
+          "imageUrl": "https://www.4gamer.net/games/851/G085127/20241212046/SS/012.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/862/G086228/20241213083/",
           "author": null,
           "description": "日本一ソフトウェアは本日，2025年2月27日に発売予定のアクションRPG「クラシックダンジョンX3」のコラボ情報第2弾を発表した。今回は，うどん脳，ガジロウ，ぷりてぃ☆うんこマンがコラボキャラで参戦することが明らかになった。また，コラボマップとして，兵庫県福崎町の辻川山公園が登場する。",
@@ -4977,6 +4987,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/295ead7e61f644019c914d69fb7251e62ec209a7?source=rss",
+          "author": null,
+          "description": "スペースワンは、風の影響で、本日の民間ロケット「カイロス2号機」の打ち上げを中止すると発表しました。同社は、新しい打上げ日程は決定次第、お知らせします、としています。\n\n　今年3月のカイロス1号機の",
+          "link": "https://news.yahoo.co.jp/articles/295ead7e61f644019c914d69fb7251e62ec209a7?source=rss",
+          "publishedOn": "2024-12-14T01:47:44.000Z",
+          "wordCount": 1650,
+          "title": "【速報】カイロス2号機の打ち上げ中止　スペースワンが発表　風の影響で(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241214-00010000-asahibc-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/94b495cf822313471e984032973d0140af81b9bb?source=rss",
           "author": null,
@@ -10204,6 +10224,36 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cg52vvv901lo#0",
+          "author": null,
+          "description": "来年1月に予定されるドナルド・トランプ次期米大統領の大統領就任式に、習近平・中国国家主席が招待されているものの、欠席する見通しだという。BBCがアメリカで提携するCBSニュースが13日、消息筋2人の話として伝えた。",
+          "link": "https://www.bbc.com/japanese/articles/cg52vvv901lo",
+          "publishedOn": "2024-12-14T02:35:53.000Z",
+          "wordCount": 1415,
+          "title": "習主席、トランプ氏の大統領就任式を欠席か　異例の招待受けたが",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/7492/live/1fe9b730-b9be-11ef-aff0-072ce821b6ab.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5ydgg2glexo#0",
+          "author": null,
+          "description": "フランスのエマニュエル・マクロン大統領（46）は13日、内閣不信任で首相を辞任したミシェル・バルニエ首相（73）の後任に、中道政党「民主運動」のフランソワ・バイル党首（73）を任命した。国民議会（下院、577議席）で単独過半数に届く政党がなく、数カ月にわたり続く政治的混乱に終止符を打つため、中道派のバイル氏を選んだものとみられる。",
+          "link": "https://www.bbc.com/japanese/articles/c5ydgg2glexo",
+          "publishedOn": "2024-12-14T02:30:49.000Z",
+          "wordCount": 1468,
+          "title": "フランス新首相に中道派フランソワ・バイル氏、国が直面する困難を「十分理解している」と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/f82f/live/1a27de80-b9be-11ef-aff0-072ce821b6ab.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cpq9e705xwvo#0",
+          "author": null,
+          "description": "イギリス王室のヨーク公アンドリュー王子は13日、中国政府のためのスパイ行為が疑われている実業家との関係について、イギリス政府の助言を受けて「全ての接触を断った」と声明を発表した。",
+          "link": "https://www.bbc.com/japanese/articles/cpq9e705xwvo",
+          "publishedOn": "2024-12-14T02:25:34.000Z",
+          "wordCount": 1533,
+          "title": "アンドリュー英王子、スパイ行為疑われる中国実業家との「接触すべて絶った」と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/7134/live/fc5a6cc0-b9ad-11ef-aff0-072ce821b6ab.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cdxzn34p4kwo#0",
           "author": null,
@@ -17581,16 +17631,6 @@
           "wordCount": 4420,
           "title": "予測変換にやられがち",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=10930",
-          "author": "watanabe@logipara.com",
-          "description": "AIすごいな",
-          "link": "https://logipara.com/diary-text/2024-11-15/",
-          "publishedOn": "2024-11-14T13:28:29.000Z",
-          "wordCount": 4422,
-          "title": "大泉洋ちゃんの顔芸",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2024/11/image.png"
         }
       ]
     },
@@ -17736,6 +17776,16 @@
       "feedUrl": "https://atsugi-lab.com/feed/",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=47067",
+          "author": "comomo",
+          "description": "こんにちは、ももこ＠あつらぼです。 今回も情報提供をいただきました！ありがとうございます。 先日、突然の一旦閉店という驚きの展開があった「ドミノ・ピザ中荻野店」なのですが、 新たな動きがありました！ 過去の記事 https://atsugi…",
+          "link": "https://atsugi-lab.com/news-dominopizza-ogino202412/",
+          "publishedOn": "2024-12-14T02:27:39.000Z",
+          "wordCount": 1215,
+          "title": "【続報】突然一旦閉店となった「ドミノ・ピザ中荻野店」は12月16日に営業再開だって！［厚木市中荻野］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2024/12/domino-pizza202412.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=47072",
           "author": "fumie",
@@ -19302,16 +19352,6 @@
           "wordCount": 1755,
           "title": "【餃子の王将】餃子の王将ラーメン・麺大盛り【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/a15a0929966a1f6b484e65ea58e703a6.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=264476",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「濃厚おいもプリン」を世界一詳しく調査しました。   公式YouTubeチャンネル【進撃のグル […]",
-          "link": "https://foodfighter.jp/711sej-oimo-pudding",
-          "publishedOn": "2024-11-14T14:08:02.000Z",
-          "wordCount": 1739,
-          "title": "【セブンイレブン】濃厚おいもプリン【新作スイーツ】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2024/11/0715247fb0017660c5468255e9abe760.jpg"
         }
       ]
     },
@@ -24659,16 +24699,6 @@
           "wordCount": 2381,
           "title": "プーチン氏のウクライナ侵攻を批判していたロシア人シェフ、セルビアのホテルにて遺体で発見",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/2/02d5e41d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041642.html",
-          "author": "dqnplus",
-          "description": "1 名前：名無しさん＠涙目です。：2024/11/14(木) 13:52:22.76 ID:Jyb7Jl0Z0●.net\n\n\n\n\n\n\n\n\n北朝鮮軍がエロ動画にハマる？「ロシアで淫乱映像に中毒」ネット環境一変で　韓国報道 https://t.co/NzEPIEMyYH— 日刊スポーツ (@nikkansports) November 7, 2024 \n\n\n\n\n\n\nロシ...",
-          "link": "https://itainews.com/archives/2041642.html",
-          "publishedOn": "2024-11-14T14:01:16.000Z",
-          "wordCount": 2415,
-          "title": "北朝鮮軍がエロ動画にハマる？「ロシアで淫乱映像中毒」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/6/d6ab043c-s.png"
         }
       ]
     },
@@ -24677,6 +24707,16 @@
       "feedUrl": "http://2-9-9.com/feed",
       "siteUrl": "https://2-9-9.com",
       "articles": [
+        {
+          "id": "https://2-9-9.com/?p=85839",
+          "author": "299",
+          "description": "三匹の子猫たちがベビールームの中で遊んでいるシーンから始まります。撮影しているカメラを見つめる子猫や、カメラに興味を持って近づいてくる子猫がいて好奇心旺盛で元気な子猫ちゃん達です。 三匹の子猫たちはベビールームの外に出る...\n三匹の子猫が元気に遊んだり可愛くミルクを飲む動画 first appeared on 肉球ドットコム（299.com）.",
+          "link": "https://2-9-9.com/archives/85839",
+          "publishedOn": "2024-12-14T02:00:53.000Z",
+          "wordCount": 1351,
+          "title": "三匹の子猫が元気に遊んだり可愛くミルクを飲む動画",
+          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/12/85839.jpg"
+        },
         {
           "id": "https://2-9-9.com/?p=85867",
           "author": "299",
@@ -28206,16 +28246,6 @@
           "wordCount": 1346,
           "title": "猫親子の幸せふれあいタイム",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84358.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=84298",
-          "author": "299",
-          "description": "お外暮らしをしているハチワレの猫さんがドライフードをもらって、美味しそうにカリポリ食べています。 するとハチワレ猫さんの背後から、かわいいミケの子猫がひょっこりと姿を現して、ごはんを食べたそうにしていました。 お母さん猫...\nお母さんがごはんを食べている間、じっと順番を待つ子猫 first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/84298",
-          "publishedOn": "2024-11-14T14:30:45.000Z",
-          "wordCount": 1340,
-          "title": "お母さんがごはんを食べている間、じっと順番を待つ子猫",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84298.jpg"
         }
       ]
     }
