@@ -2963,6 +2963,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/a05bd619454b1c8dc6dcce8ba25024620eff0111?source=rss",
+          "author": null,
+          "description": "１５日午前、京都市南区の自宅で兄を刃物で切りつけたとして、無職の男が逮捕されました。男の自宅からは母親の遺体が見つかり、男は自分が刺したという趣旨の供述をしているということです。\n\n　１５日午前１０",
+          "link": "https://news.yahoo.co.jp/articles/a05bd619454b1c8dc6dcce8ba25024620eff0111?source=rss",
+          "publishedOn": "2024-12-15T10:08:24.000Z",
+          "wordCount": 1688,
+          "title": "兄を刃物で切りつけたとして無職の男を逮捕　自宅からは母親の遺体　男が刺した旨の供述　京都・南区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241215-00049011-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/1acd92c585938375356d9e3c1eb10b990c7900b9?source=rss",
           "author": null,
           "description": "和歌山県串本町で１５日予定されていた民間ロケットの打ち上げは、１４日に続いて延期となりました。新たな打ち上げの日程は１８日で調整されています。\n\n　東京の宇宙ベンチャー企業「スペースワン」は、午前１",
@@ -8001,26 +8011,6 @@
           "wordCount": 1678,
           "title": "おは朝パーク２０２４　テーマは「関西全力応援！」　大阪・万博記念公園であすまで開催(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241116-00048566-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5e33f602cf2def87d8eb9b807b46344f85c8ad10?source=rss",
-          "author": null,
-          "description": "靴にカメラを仕込んでスカートの中を盗撮しようとした疑いです。\n\n（記者リポート）「男はこのようにペン型のカメラを靴の間にはさみ、盗撮をしようとしていたということです」\n\n　性的姿態等撮影未遂などの疑",
-          "link": "https://news.yahoo.co.jp/articles/5e33f602cf2def87d8eb9b807b46344f85c8ad10?source=rss",
-          "publishedOn": "2024-11-15T22:00:38.000Z",
-          "wordCount": 1670,
-          "title": "女子高校生の足元に靴を差し入れ…ペン型カメラでスカート内を盗撮しようとした疑い　４７歳会社員を現行犯逮捕　京都・東山区(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241115-00048559-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4b181d1e7491d8cea297bbffc95b8683ec7707bf?source=rss",
-          "author": null,
-          "description": "母親の首を電気コードで絞めて殺害した疑いです。\n\n　殺人の疑いで逮捕された、自称・理髪店従業員の谷村文晶容疑者（５５）は、１３日午後１１時ごろ、大阪府岸和田市の店を兼ねた住宅で、２階で寝ていた母親の",
-          "link": "https://news.yahoo.co.jp/articles/4b181d1e7491d8cea297bbffc95b8683ec7707bf?source=rss",
-          "publishedOn": "2024-11-15T22:00:03.000Z",
-          "wordCount": 1661,
-          "title": "「母親を殺して自分も死のうと思った」母親の首を絞め殺害した疑い　５５歳男を逮捕　大阪・岸和田市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241115-00048558-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -11893,6 +11883,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122744/",
+          "author": null,
+          "description": "テレビアニメ「炎炎ノ消防隊」の第3期「炎炎ノ消防隊 参ノ章」の第1弾PVが公開された。あわせて、キービジュアルも公開されている。 原作漫画は、2015～22年に「週刊少年マガジン」（講談社刊）で...",
+          "link": "https://anime.eiga.com/news/122744/",
+          "publishedOn": "2024-12-15T10:00:00.000Z",
+          "wordCount": 701,
+          "title": "「炎炎ノ消防隊 参ノ章」最終決戦に向け、多数のキャラクターが登場する第1弾PV公開",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122774/",
           "author": null,
@@ -17020,6 +17025,16 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2042737.html",
+          "author": "damono3856",
+          "description": "1 名前：ヴァイヴァー ★：2024/12/14(土) 21:58:33.63 ID:9CVJhjN89.net\n\n\n\n\n\n\n\n『ワイドナショー』来春打ち切り、視聴率は『サンジャポ』の3分の1…「終了は必然」の3つの理由 #ピンズバNEWS #ダウンタウン #松本人志 #東野幸治 #今田耕司 https://t.co/B4rN7Fo9wT— ...",
+          "link": "https://itainews.com/archives/2042737.html",
+          "publishedOn": "2024-12-15T10:02:18.000Z",
+          "wordCount": 2418,
+          "title": "【松本人志】『ワイドナショー』打ち切り　視聴率は『サンジャポ』の3分の1以下、終了は必然",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/e/ce09286c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2042747.html",
           "author": "dqnplus",
@@ -22359,16 +22374,6 @@
           "wordCount": 2486,
           "title": "【在日】　在日コリアン　「私たちは差別されています。選挙権もありません」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/9/691d0978-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2041687.html",
-          "author": "dqnplus",
-          "description": "1 名前：名無しさん＠涙目です。：2024/11/14(木) 20:52:06.49 ID:4tWC5w5R0.net\n\n\n\n\n\n\n\n\nバス運転手に「お前、降りろ」 カスハラで乗客35人が次のバスに乗り換えるはめに…業務妨害容疑で男逮捕 https://t.co/4Rjv8Ysbsu— 前進亭かくまる (@kkmaru) November 14, 2024 ...",
-          "link": "https://itainews.com/archives/2041687.html",
-          "publishedOn": "2024-11-15T22:02:40.000Z",
-          "wordCount": 2389,
-          "title": "乗客「駆け込み乗車を注意すんな！お前バス降りろ！降りろや！」運転手「はい」…バス、動かんな…",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/9/f9859e0f-s.png"
         }
       ]
     },
@@ -25906,16 +25911,6 @@
           "wordCount": 1339,
           "title": "食卓の上は魅惑の食べ物で溢れています",
           "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84396.jpg"
-        },
-        {
-          "id": "https://2-9-9.com/?p=84366",
-          "author": "299",
-          "description": "赤ちゃん猫のお世話をしているお母さん猫。24時間体制での子育てはさぞかし大変でしょう。 まだ自分ではトイレにいくこともできない赤ちゃん猫なので、お母さん猫が排泄のお手伝いをしてあげなければなりません。 一生懸命にぺろぺろ...\n赤ちゃん猫を少しだけ愛でていたら母猫がすぐに奪っていってしまいました first appeared on 肉球ドットコム（299.com）.",
-          "link": "https://2-9-9.com/archives/84366",
-          "publishedOn": "2024-11-15T22:00:49.000Z",
-          "wordCount": 1341,
-          "title": "赤ちゃん猫を少しだけ愛でていたら母猫がすぐに奪っていってしまいました",
-          "imageUrl": "https://2-9-9.com/wp-content/uploads/2024/11/84366.jpg"
         }
       ]
     }
