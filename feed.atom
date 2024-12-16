@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-16T17:31:41.363Z</updated>
+    <updated>2024-12-16T17:50:27.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SPAD camera for diffuse correlation spectroscopy]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/12/spad-camera-for-diffuse-correlation.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/12/spad-camera-for-diffuse-correlation.html"/>
+        <updated>2024-12-16T17:39:00.001Z</updated>
+        <summary type="html"><![CDATA[In a paper titled "ATLAS: a large array, on-chip compute SPAD camera for multispeckle diffuse correlation spectroscopy" in Biomedical Optics Express, Alistair Gorman et al. of University of Edinburgh write:
+Abstract: We present ATLAS, a 512 × 512 single-photon avalanche diode (SPAD) array with embedded autocorrelation computation, implemented in 3D-stacked CMOS technology, suitable for single-photon correlation spectroscopy applications, including diffuse correlation spectroscopy (DCS). The shared per-macropixel SRAM architecture provides a 128 × 128 macropixel resolution, with parallel autocorrelation computation, with a minimum autocorrelation lag-time of 1 µs. We demonstrate the direct, on-chip computation of the autocorrelation function of the sensor, and its capability to resolve chan…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ベッドの中で毛づくろいのリレーをするニャンコたち]]></title>
         <id>https://2-9-9.com/?p=86041</id>

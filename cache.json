@@ -12021,6 +12021,16 @@
       "siteUrl": "http://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "http://image-sensors-world.blogspot.com/2024/12/spad-camera-for-diffuse-correlation.html",
+          "author": null,
+          "description": "In a paper titled \"ATLAS: a large array, on-chip compute SPAD camera for multispeckle diffuse correlation spectroscopy\" in Biomedical Optics Express, Alistair Gorman et al. of University of Edinburgh write:\nAbstract: We present ATLAS, a 512 × 512 single-photon avalanche diode (SPAD) array with embedded autocorrelation computation, implemented in 3D-stacked CMOS technology, suitable for single-photon correlation spectroscopy applications, including diffuse correlation spectroscopy (DCS). The shared per-macropixel SRAM architecture provides a 128 × 128 macropixel resolution, with parallel autocorrelation computation, with a minimum autocorrelation lag-time of 1 µs. We demonstrate the direct, on-chip computation of the autocorrelation function of the sensor, and its capability to resolve chan…",
+          "link": "http://image-sensors-world.blogspot.com/2024/12/spad-camera-for-diffuse-correlation.html",
+          "publishedOn": "2024-12-16T17:39:00.001Z",
+          "wordCount": 4450,
+          "title": "SPAD camera for diffuse correlation spectroscopy",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s2gSj3dver7MgUmeIhB4pxVd9lNBZ6WLMPxKtFedNh-h6bkl6b8Pwyed1mAg9VXf-tUZlGdtq2SdJBClU168G27emideMkVBHTg9DDeMY-6l-fmmVwROtCtJHh1yoPtjeNfKwyYeP8i5k1l7xpoVzW1-SSB01GqXmCUHYAoRzwphZIwvc7lnCFg34xaIr03DaRxY1_Qmk=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "http://image-sensors-world.blogspot.com/2024/12/spad-direct-time-of-flight-pixel-with.html",
           "author": null,
           "description": "In a paper titled \"Correlation-Assisted Pixel Array for Direct Time of Flight\", A. Morsy and M. Kuijk or Vrije Universiteit write: \n\nAbstract\nTime of flight is promising technology in machine vision and sensing, with an emerging need for low power consumption, a high image resolution, and reliable operation in high ambient light conditions. Therefore, we propose a novel direct time-of-flight pixel using the single-photon avalanche diode (SPAD) sensor, with an in-pixel averaging method to suppress ambient light and detect the laser pulse arrival time. The system utilizes two orthogonal sinusoidal signals applied to the pixel as inputs, which are synchronized with a pulsed laser source. The detected signal phase indicates the arrival time. To evaluate the proposed system’s potential, we deve…",
