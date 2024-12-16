@@ -3013,6 +3013,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/e41a1f3b8939d0a4b461755cc4e90ec4d2d982de?source=rss",
+          "author": null,
+          "description": "ガソリン価格が19日から上がる見込みです。国民民主党の玉木代表は、自身のYouTubeで「値上げは必至。早めの給油を」と呼びかけています。ガソリン価格について。詳しくみていきます。",
+          "link": "https://news.yahoo.co.jp/articles/e41a1f3b8939d0a4b461755cc4e90ec4d2d982de?source=rss",
+          "publishedOn": "2024-12-16T09:32:48.000Z",
+          "wordCount": 1677,
+          "title": "ガソリン価格が19日から上がる！　補助金縮小で家庭にどれだけ負担？(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241216-00010004-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/ea53a7f4e1df5a58ff5846d203a50e00f551d81c?source=rss",
           "author": null,
           "description": "高級腕時計「ロレックス」１７２本（２億８０００万円相当）を、配送していた車ごと盗んだとして窃盗の疑いで大阪府警に逮捕された女性（５９）について、大阪地検は１６日、不起訴処分にしたと明らかにしました。",
@@ -12083,6 +12093,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/122797/",
+          "author": null,
+          "description": "君川優樹氏が原作、がおう氏がキャラクター原案を手がける人気小説「追放者食堂へようこそ！」のテレビアニメ化が決定し、2025年に放送されることがわかった。あわせて、ティザービジュアルも公開されてい...",
+          "link": "https://anime.eiga.com/news/122797/",
+          "publishedOn": "2024-12-16T09:30:00.000Z",
+          "wordCount": 639,
+          "title": "異世界グルメファンタジー「追放者食堂へようこそ！」25年にTVアニメ化決定",
+          "enclosure": {
+            "url": "https://eiga.k-img.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": "1664"
+          },
+          "imageUrl": "https://eiga.k-img.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/122796/",
           "author": null,
