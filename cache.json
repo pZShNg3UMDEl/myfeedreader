@@ -3003,6 +3003,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/9f9d8d4e1ccb56246604d507ecf16ae45edf7c0e?source=rss",
+          "author": null,
+          "description": "１６日午後、徳島県美馬市を通る徳島道下り脇町インターチェンジ付近で車２台の正面衝突事故がありました。４人がけがをしています。\n\n　１６日午後３時すぎ、徳島道の下り脇町インターチェンジ付近で「車が大破",
+          "link": "https://news.yahoo.co.jp/articles/9f9d8d4e1ccb56246604d507ecf16ae45edf7c0e?source=rss",
+          "publishedOn": "2024-12-16T07:26:13.000Z",
+          "wordCount": 1665,
+          "title": "車２台が正面衝突　４人けが　徳島道・美馬ー脇町ＩＣ間で通行止め(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241216-00049020-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/8445a85d1368649a65266fdf90eb93c4bd131073?source=rss",
           "author": null,
           "description": "兵庫県警が１２月中に、ＮＨＫ党・党首の立花孝志氏を任意で事情聴取することが捜査関係者への取材でわかりました。\n\n　兵庫県議会の奥谷謙一県議は、県知事選挙に立候補した立花氏に「ＳＮＳで虚偽の内容を投稿",
@@ -8069,6 +8079,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cgm9w4dylj4o#0",
+          "author": null,
+          "description": "シリアのバッシャール・アル・アサド政権が崩壊してから1週間がたった。ジェレミー・ボウエン国際編集長が「人間虐殺の場」として悪名高かった首都ダマスカス郊外のサイドナヤ刑務所を訪れ、現在のシリアが直面している課題について報告する。",
+          "link": "https://www.bbc.com/japanese/articles/cgm9w4dylj4o",
+          "publishedOn": "2024-12-16T07:23:10.000Z",
+          "wordCount": 976,
+          "title": "記録を残す、家族を探し出す……解放されたシリア・サイドナヤ刑務所を訪れる人々",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/fabf/live/8b5632d0-bb73-11ef-a2ca-e99d0c9a24e3.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c1wqpz8334lo#0",
           "author": null,
