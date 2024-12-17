@@ -3093,6 +3093,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/38a91017fd1ee0b2b98130b407886322bf37453a?source=rss",
+          "author": null,
+          "description": "兵庫県稲美町で2021年、自宅に放火し同居していた小学生の兄弟を殺害した罪に問われ、1審で懲役30年を言い渡された伯父の控訴審初公判が開かれ、検察側は改めて死刑を求め、弁護側は控訴棄却を求めて",
+          "link": "https://news.yahoo.co.jp/articles/38a91017fd1ee0b2b98130b407886322bf37453a?source=rss",
+          "publishedOn": "2024-12-17T07:30:18.000Z",
+          "wordCount": 1688,
+          "title": "【速報】「何の罪も落ち度もない未来ある子どもが・・・」生きながらに殺害された兄弟の父親が被告への死刑判決求める　稲美町放火殺人事件の控訴審始まる(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00010003-asahibc-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/c5d778641bd16d8eb465a51b6fa4216fad00c2f4?source=rss",
           "author": null,
           "description": "きょう午後、大阪市生野区の2階建ての建物で火事があり、現在も消火活動が続いています。",
@@ -8249,6 +8259,16 @@
       "feedUrl": "http://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/ckg9407k2ygo#0",
+          "author": null,
+          "description": "アメリカのドナルド・トランプ次期大統領が、ビジネスの場として同国は素晴らしいとアピールするなか、世界中の企業は、その呼びかけにどう応じるべきか考えをめぐらせている。そうした状況で、ソフトバンクグループ（SBG）の孫正義・会長兼社長が16日、一つの対応方法を示した。",
+          "link": "https://www.bbc.com/japanese/articles/ckg9407k2ygo",
+          "publishedOn": "2024-12-17T07:30:10.000Z",
+          "wordCount": 1485,
+          "title": "孫正義氏、トランプ氏とそろって会見　米国への15兆円投資を発表",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_japanese/3797/live/835c83c0-bc3d-11ef-aff0-072ce821b6ab.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c5ydkdllwg4o#0",
           "author": null,
