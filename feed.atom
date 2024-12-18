@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pZShNg3UMDEl.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T17:15:24.574Z</updated>
+    <updated>2024-12-18T17:38:42.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pZShNg3UMDEl.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://pZShNg3UMDEl.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sub-micron InGaAs pixels]]></title>
+        <id>http://image-sensors-world.blogspot.com/2024/12/sub-micron-ingaas-pixels.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2024/12/sub-micron-ingaas-pixels.html"/>
+        <updated>2024-12-18T17:23:00.000Z</updated>
+        <summary type="html"><![CDATA[In a paper titled "Highly-efficient (>70%) and Wide-spectral (400–1700 nm) 
+sub-micron-thick InGaAs photodiodes for future high-resolution image 
+sensors" in Light: Science & Applications, Dae-Myeong Geum et al. from KAIST write:
+
+ 
+Abstract: This paper demonstrates the novel approach of sub-micron-thick InGaAs broadband photodetectors (PDs) designed for high-resolution imaging from the visible to short-wavelength infrared (SWIR) spectrum. Conventional approaches encounter challenges such as low resolution and crosstalk issues caused by a thick absorption layer (AL). Therefore, we propose a guided-mode resonance (GMR) structure to enhance the quantum efficiency (QE) of the InGaAs PDs in the SWIR region with only sub-micron-thick AL. The TiOx/Au-based GMR structure compensates for the reduc…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二匹の子猫たちが遊びに来た時の様子が可愛すぎる動画]]></title>
         <id>https://2-9-9.com/?p=86144</id>
@@ -33563,34 +33578,6 @@ https://www.ako-minpo.jp/news/18386.htm...]]></summary>
 初めてのお風呂の中でプチパニックになる赤ちゃん猫 first appeared on 肉球ドットコム（299.com）.]]></summary>
         <author>
             <name>299</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】中国・湖南省　通学中の児童らに車突っ込む　けが人多数か　中国国営メディア]]></title>
-        <id>https://itainews.com/archives/2041809.html</id>
-        <link href="https://itainews.com/archives/2041809.html"/>
-        <updated>2024-11-19T05:31:50.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：昆虫図鑑 ★：2024/11/19(火) 11:10:34.46 ID:ZKY2YYdI.net
-
-
-
-
-
-
-
-【速報】中国・湖南省　小学校前で児童に車突っ込む　けが人多数か　中国国営メディア(テレビ朝日系（ANN）)#Yahooニュースhttps://t.co/EHNpD6qIYK— 明日香朝陽 (@MKSHBeZYIt76630) November ...]]></summary>
-        <author>
-            <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPhone 17」全機種が3nmチップ搭載？「17 Air」は薄さ6mmで限定生産か]]></title>
-        <id>https://gadget.phileweb.com/?p=88842</id>
-        <link href="https://gadget.phileweb.com/post-88842/"/>
-        <updated>2024-11-19T05:29:04.000Z</updated>
-        <summary type="html"><![CDATA[今年秋に発表とみられる次期「iPhone 17」シリーズのあらましにつき、著名アナリストが新たな投資家向けメモを発表した。その中では、いわゆる超薄型モデル「iPhone 17 Air」についても興味深い予想が述べられている。 この最新レポートは、投資銀行Haitong International所属 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
